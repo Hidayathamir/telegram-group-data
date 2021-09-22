@@ -1,0 +1,1626 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+7534,0,,La,Han,,0,4,4,2020,4,17,27
+7535,7534,"Pakai hp aja mas e, untuk emulatornya",Aji,Kusbandono,Ajikusbandono,0,4,4,2020,4,40,22
+7536,0,Caranya gimana Mas Aji. Ada petunjuknya.,La,Han,,0,4,4,2020,4,41,1
+7537,0,"Langsung di konekin usbnya dr hp ke komputer atau laptop, trus pilih yg ada tanda arrow start pilih yg android, lalu akan nt akan ada perubahan disebelah icon arrow yg warna hijau hp yg dicolok tsb",Aji,Kusbandono,Ajikusbandono,0,4,4,2020,4,43,15
+7538,0,"Pastikan kabel usbnya bisa buat debugin, dan di hp diseting di developer mode, debug on",Aji,Kusbandono,Ajikusbandono,0,4,4,2020,4,43,44
+7539,0,Wuih... makasih mas. dah BErhasil.,La,Han,,0,4,4,2020,4,49,13
+7540,0,👍,La,Han,,0,4,4,2020,4,49,33
+7541,0,Sip...,Aji,Kusbandono,Ajikusbandono,0,4,4,2020,4,54,12
+7542,0,Belajarnya mulai dr MVVM ya mas e nt klo dah jago ajarin balik ane yak hahhaaa,Aji,Kusbandono,Ajikusbandono,0,4,4,2020,4,54,56
+7543,0,ha..ha... baru mulai mas. Ini kedepan bakal bawel nanya-nanya... ha..ha..,La,Han,,0,4,4,2020,5,21,23
+7544,0,"Mumpung baru mulai, startingnya belajar MVVM wkwkk... Biar keisinya fundamental nya pas",Aji,Kusbandono,Ajikusbandono,0,4,4,2020,5,23,9
+7545,7543,Semangat mas,Ahmad,Anan Rafsanjani,SebelahKanan,0,4,4,2020,9,17,7
+7546,0,"Halo saya baru join, salam kenal dan mohon bimbinganny wahai subes2 😁🙏",Aditya,Haryanov,haryanov,0,4,4,2020,12,48,39
+7597,0,"Halo, mau tanya kalau padanan untuk binding di xamarin.android apa ya?",Baiquni,,baiquni,0,14,4,2020,8,19,50
+7598,7597,Bisa pake mvvmcross kalo tetep mau pake binding,Albilaga,Pradana,albilaga,0,14,4,2020,9,4,35
+7599,0,Atau pakai messagecenter ea...,Aji,Kusbandono,Ajikusbandono,0,14,4,2020,9,11,49
+7601,7598,"Kalau ga pengen pakai binding, biasanya pakai apa?",Baiquni,,baiquni,0,14,4,2020,11,10,44
+7603,7601,Standar di android getcontrolnya di Activitynya. Baru di situ diproses mau ngapain,Albilaga,Pradana,albilaga,0,14,4,2020,14,32,31
+7604,0,Ini sptnya ingin melakukan passing value yaa mas baiquni ?,Aji,Kusbandono,Ajikusbandono,0,14,4,2020,14,37,38
+7616,0,https://play.google.com/store/apps/details?id=com.maream.february,مريم,محمد,Maream_Mohammed_Hussein,0,16,4,2020,20,40,53
+7617,0,👆👆😁,مريم,محمد,Maream_Mohammed_Hussein,0,16,4,2020,20,41,5
+7627,0,"Saya kok pusing ya, kenapa Resource.designer kagak update setelah edit layout. Jadi kita ingin dipanggil di activities ga bisa. ada solusi? Saya pakai vs2019",Baiquni,,baiquni,0,18,4,2020,8,29,17
+7630,7627,Rebuild coba. Kadang gitu si emang,Albilaga,Pradana,albilaga,0,20,4,2020,1,4,45
+7631,0,Hello developers i need simple code for facebook auth please,Eng -,marwan alsaffar,Eng_ee0,0,20,4,2020,1,7,2
+7632,0,blog xamarin facebook auth - Google Search\nhttps://www.google.com/search?q=blog+xamarin+facebook+auth&oq=blog+xamarin+facebook+auth&aqs=chrome..69i57j33.9789j0j7&client=ms-android-asus-tpin&sourceid=chrome-mobile&ie=UTF-8,Mohamad,Iqbal,Iqbal0304,0,20,4,2020,1,14,23
+7633,7632,Thanks 😍,Eng -,marwan alsaffar,Eng_ee0,0,20,4,2020,1,17,8
+7634,0,"Mas mas, nanya, Xamarin kalo deploy android project di folder release cm ada file  Apk, nah sementara kalo dilihat di hp tu ada aplikasi MonoSharedRuntime turut terinstall, nah kalo utk di upload ke playstore tu cukup apk aja, atau sama runtime jg?",【 fanioz 】,,fanioz,0,20,4,2020,6,21,56
+7635,7634,Apk aja. Mono runtime cuma keinstall kalo km pake debug configuration,Albilaga,Pradana,albilaga,0,20,4,2020,6,43,30
+7636,7635,Ooh sip.. Makasih penjelasannya 👍,【 fanioz 】,,fanioz,0,20,4,2020,7,2,22
+7645,0,https://play.google.com/store/apps/details?id=com.maream.february,مريم,محمد,Maream_Mohammed_Hussein,0,21,4,2020,10,50,34
+7659,0,!Spam,Wahidin,Aji,WahidinAji,0,24,4,2020,9,40,7
+7667,7659,,مريم,محمد,Maream_Mohammed_Hussein,0,27,4,2020,18,39,24
+7668,0,Join me at GDG Webinar Series: New Android ViewBinding\n\n http://meetu.ps/e/HXrzd/B48Td/a,Putranto Adhi,Nugroho,padhinugroho,0,27,4,2020,19,28,27
+7672,0,Dev yg masih aktif develop pake xamarin di sini biasanya kesulitannya apa y? Kangen pengen nulis2 lagi🤣,Albilaga,Pradana,albilaga,0,28,4,2020,10,0,48
+7673,0,Sama wkwkwkw,Wahidin,Aji,WahidinAji,0,28,4,2020,10,1,23
+7674,0,Udh lama ga main xamarin saya. Terakhir garapin skripsi kating.,Wahidin,Aji,WahidinAji,0,28,4,2020,10,1,40
+7675,7672,Boleh share cara koneksi dr api ke xamarin mas.,"Silaban,",Benny,SilabanBenny,0,28,4,2020,10,15,25
+7676,7672,"Nah asik nih, buat rotate image terkait real time position mas e kaya uber itu iconnya bisa nyesuain dengan compas",Aji,Kusbandono,Ajikusbandono,0,28,4,2020,11,17,18
+7677,7676,hmm... itu juga susah kayaknya. wkwkwk... uda lama gak mainan mapsnya xamarin. gak tau support ginian atau gak,Albilaga,Pradana,albilaga,0,28,4,2020,12,18,13
+7678,7675,hoo konek API ya. ok de coba ntar nulis lagi,Albilaga,Pradana,albilaga,0,28,4,2020,12,18,29
+7679,7678,"Iya nih, saya kebanyakan ngulik di view, urusannke API ditangani dosen aing sendiri hahaha.\nJadi ya belum pernah connect API",Wahidin,Aji,WahidinAji,0,28,4,2020,13,15,48
+7680,7679,"Belum berhasil jg saya koneksinya mas,","Silaban,",Benny,SilabanBenny,0,28,4,2020,13,58,53
+7681,7680,Pake apa koneksinya?,Albilaga,Pradana,albilaga,0,28,4,2020,14,38,0
+7682,7680,blm berhasilnya gmn mas ?,Aditya,Haryanov,haryanov,0,28,4,2020,14,39,2
+7683,0,"Saya masih coba di lokal mas, saya coba pake HTTPClient.","Silaban,",Benny,SilabanBenny,0,28,4,2020,14,51,6
+7684,0,Boleh share cara koneksi dr API sampe call dr Xamarin nya mas.,"Silaban,",Benny,SilabanBenny,0,28,4,2020,14,51,50
+7685,7678,Ikutan nunggu tutorial nya😁,【 fanioz 】,,fanioz,0,28,4,2020,14,58,52
+7689,0,Apa bisa pakai Mono untuk develop Forms UWP Windows app?,mtfkr,,bysrkh,0,29,4,2020,16,29,23
+7690,0,Setauku mono itu yg bisa buat xamarin cross platform antara android sama iOS. Kalau winphone saya blum tau,Wahidin,Aji,WahidinAji,0,29,4,2020,16,37,32
+7691,7689,Utk apa pake mono? Di windows kan uda ada .net? Mono ini dulu utk env selain windows,Albilaga,Pradana,albilaga,0,29,4,2020,20,34,51
+7692,0,.NET ga bisa ke Linux euy. Saya pengen bener2 aplikasi single code base,mtfkr,,bysrkh,0,30,4,2020,3,13,54
+7693,0,bisaaaa....,Aji,Kusbandono,Ajikusbandono,0,30,4,2020,3,16,43
+7694,0,namanya .netcore,Aji,Kusbandono,Ajikusbandono,0,30,4,2020,3,16,51
+7695,0,mac aja bisa om...,Aji,Kusbandono,Ajikusbandono,0,30,4,2020,3,16,58
+7696,7691,Common Language Runtime (clr) -> pake xamarin.forms,Aji,Kusbandono,Ajikusbandono,0,30,4,2020,3,20,33
+7697,7692,"Kalo targetnya UWP, setahuku buildnya hanya bisa dr windows.\n\nsementara kalo mau pakai Xamarin utk Linux bisa coba GTK# ini:\nhttps://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/gtk?tabs=windows",【 fanioz 】,,fanioz,0,30,4,2020,3,47,10
+7698,0,"secara teori single codebase : \nandorid, iPhone, UWP, Mac, GTK, Tizen, WPF \nhttps://docs.microsoft.com/en-us/xamarin/xamarin-forms/platform/other/",【 fanioz 】,,fanioz,0,30,4,2020,3,49,30
+7699,7694,tapi itu beda ya ama .NET yg biasa kita develop?,mtfkr,,bysrkh,0,30,4,2020,3,59,38
+7700,7696,cuma CLR langsung pake Forms ya ga ada spesifik kaua Android dan iOS?,mtfkr,,bysrkh,0,30,4,2020,4,1,33
+7701,0,Formsnya Xamarin itu Mono framework kah?Kalau dilihat dr Android dan iOS begitu sepertinya,mtfkr,,bysrkh,0,30,4,2020,4,2,14
+7702,7700,"Ya xamarin.form langsung 3, iOS,andorid,winphone. Kalau plugin diinstall pas install visual studio nya atau install manual juga bisa",Wahidin,Aji,WahidinAji,0,30,4,2020,4,11,19
+7703,7697,Oalah ttp pake GTK ya,mtfkr,,bysrkh,0,30,4,2020,4,13,49
+7704,7703,"""Xamarin is built on top of Mono"".  Mono sendiri sudah cross-platform.\n\nSementara Xamarin.Form merubah UI element yg cross-platform -> ke native ( android / iOs/ UWP) makanya utk linux pake GTK#\n\nCMIIW",【 fanioz 】,,fanioz,0,30,4,2020,4,22,27
+7705,7700,Dicoba install xamarin.forms nya saja dulu nanti ada sample di Git untuk crossplatform,Aji,Kusbandono,Ajikusbandono,0,30,4,2020,4,27,35
+7706,7699,Maksudnya beda...?,Aji,Kusbandono,Ajikusbandono,0,30,4,2020,4,28,0
+7707,7692,kalo ini mungkin bisa coba pake avalonia https://avaloniaui.net/,Albilaga,Pradana,albilaga,0,30,4,2020,4,38,21
+7708,7696,mono dipake di env selain windows. di windows CLR nya pake .net,Albilaga,Pradana,albilaga,0,30,4,2020,4,39,16
+7709,7699,mirip2 si tapi .net core setau saya belum bisa utk UI,Albilaga,Pradana,albilaga,0,30,4,2020,4,40,6
+7710,7703,iya tetep GTK di linux n Windows tetep pake UI native bawaannya n mac tetep pake UI native bawaannya...,Albilaga,Pradana,albilaga,0,30,4,2020,4,45,3
+7714,0,"ask dong,kalo mau bikin projec pake xamarin.form harus punya mac ya?",Ilyas,Pradana,PradanaIlyas,0,30,4,2020,5,37,0
+7715,7714,Kalo Targetnya iOS iya,【 fanioz 】,,fanioz,0,30,4,2020,6,47,28
+7716,7714,Buat ios simulatornya iya SMA deploynya juga kpn dak salah. Tpi waktu itu pernah baca update terbaru kalau cuma simulator udh bisa,Wahidin,Aji,WahidinAji,0,30,4,2020,7,36,8
+7719,7716,Yg terbaru yg pake hot restart bisa build iOS di windows tapi harus punya iPhone,Albilaga,Pradana,albilaga,0,30,4,2020,9,31,9
+7720,0,Nh itu iya iPhone. Lupa wkwkwkw. Itu yg ngebuat saya hampi beli IP beberapa waktu lalu😄,Wahidin,Aji,WahidinAji,0,30,4,2020,9,32,32
+7732,0,Mohon maaf mengganggu,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,12,38,9
+7733,0,Bagaimana caranya menjalankan app pada visual studio? Soalnya pc tidak support hamx,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,12,38,23
+7734,0,Emulator?,Wahidin,Aji,WahidinAji,0,2,5,2020,13,30,36
+7735,0,Punya saya tak matiin kl Ndak salh. Soalnya tk hidupin malah Ndak jalan. Padahal itu buat lancarin si emulator nya. Cmiiw,Wahidin,Aji,WahidinAji,0,2,5,2020,13,31,47
+7736,7733,Pake hp android langsung bisa. Atau pake emulator androidnya visual studio. Dia pake hyper-v,Albilaga,Pradana,albilaga,0,2,5,2020,14,4,8
+7737,7736,Yang pake hp mas\nSoalnya pc gk ada VT,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,4,42
+7738,0,Langsung colok USB aja kalau pakai hp,Wahidin,Aji,WahidinAji,0,2,5,2020,14,9,44
+7739,0,Udh mode debug mas\nCuma bingung mau menjalankan programnya,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,13,50
+7740,0,Ya langsung di run aja vs nya,Wahidin,Aji,WahidinAji,0,2,5,2020,14,15,22
+7741,0,Ntr otomatis ke run di hp. Jangan dilock hpnyam pastikan dalam mode pengembang,Wahidin,Aji,WahidinAji,0,2,5,2020,14,15,49
+7742,0,Oke saya coba\nTerima kasih,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,15,50
+7743,7737,Hpnya uda di enable debugging mode nya?,Albilaga,Pradana,albilaga,0,2,5,2020,14,28,33
+7744,7743,Sudah,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,28,42
+7745,7744,Ntar harusnya kedetek di vsnya. Pilih hpnya buat run. Harusnya bisa,Albilaga,Pradana,albilaga,0,2,5,2020,14,29,10
+7746,7745,Cara tau kedetect apa tidak gmn? Bisa dicek lewat device manager?,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,29,53
+7747,7746,Di visual studionya keluar harusnya di pilihan devicenya. Coba screenshot aja visual studionya,Albilaga,Pradana,albilaga,0,2,5,2020,14,30,44
+7748,7746,Di samping BTN run knama device kelihatan,Wahidin,Aji,WahidinAji,0,2,5,2020,14,30,59
+7749,0,ini gan,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,53,15
+7750,0,maaf kalo lama\ndownload dlu telegram desktop,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,14,53,21
+7751,0,Cek aja itu device lognya yg aktif ada ndak,Wahidin,Aji,WahidinAji,0,2,5,2020,14,59,20
+7752,7751,Kosong mas\nBerarti gak aktif ya?,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,15,7,18
+7753,0,"Alhamdulillah gan, first app di pc kentang 😂😂 thanks yang udh bantu debug ke hp. Settingnya rada ribet emg 😂😂\nBtw emg sizenya segitu ya? Bisa dikecilin lagi gak? Padahal isinya cuma text?",Syahrul,Ramadhan,syahrul_87,0,2,5,2020,17,27,8
+7756,7753,Yap. Xamarin emang sizenya lebih gede dari native. Kalo mau dikecilin coba baca2 ini https://devblogs.microsoft.com/xamarin/shrinking-android-app-size/,Albilaga,Pradana,albilaga,0,2,5,2020,20,18,57
+7757,7756,Terima kasih mas sharingnya,Syahrul,Ramadhan,syahrul_87,0,2,5,2020,20,54,23
+7758,7753,Msh mending drpd size nya flutter 😅,【 fanioz 】,,fanioz,0,2,5,2020,21,59,35
+7760,7758,Hoo. Flutter lebih gede y?,Albilaga,Pradana,albilaga,0,3,5,2020,2,59,9
+7761,0,,【 fanioz 】,,fanioz,0,3,5,2020,4,13,18
+7762,0,Tu flutter isinya cm widget column and row aja,【 fanioz 】,,fanioz,0,3,5,2020,4,14,8
+7763,0,"Makanya kemarin sempat nanya apakah MonoSharedRuntime itu ikut di deploy, jadinya mau ta tambahin 40 MB lagi, ternyata ndak ikut",【 fanioz 】,,fanioz,0,3,5,2020,4,16,34
+7772,0,"Permisi\nSaya cek info grup ada sebuah kelas xamarin dari dicoding. Yang mau saya tanyakan apabila saya berlangganan dicoding, apakah saya bisa mengakses kelas tersebut?",Syahrul,Ramadhan,syahrul_87,0,4,5,2020,11,37,3
+7773,0,kyknya kelasnya udh ndak ada deh mas,Wahidin,Aji,WahidinAji,0,4,5,2020,12,3,49
+7774,0,udh dihapus dari dicoding atau tidak menerima pendaftar,Wahidin,Aji,WahidinAji,0,4,5,2020,12,4,5
+7775,0,coba udemy aja mas,Wahidin,Aji,WahidinAji,0,4,5,2020,12,4,9
+7776,7775,"Udemy banyak pilihannya mas, bingung mau pilih yang mana buat pemula",Syahrul,Ramadhan,syahrul_87,0,4,5,2020,13,3,44
+7777,0,,Wahidin,Aji,WahidinAji,0,4,5,2020,13,12,40
+7778,0,"itu lumayan bagus mas, untuk pemula rekomended sih, dari tata layout, penjelasan per component juga jelas",Wahidin,Aji,WahidinAji,0,4,5,2020,13,13,18
+7779,0,"dan coba search aja, sepertinya ada yg free juga",Wahidin,Aji,WahidinAji,0,4,5,2020,13,13,31
+7780,0,Oke terima kasih mas,Syahrul,Ramadhan,syahrul_87,0,4,5,2020,13,15,41
+7783,0,https://www.humblebundle.com/books/c-net-core-packt-books,Albilaga,Pradana,albilaga,0,5,5,2020,8,39,38
+7786,0,Xamarin.forms 4.6 keluar https://devblogs.microsoft.com/xamarin/xamarin-forms-4-6/,Albilaga,Pradana,albilaga,0,6,5,2020,2,35,43
+7788,0,Oleee oleeee,Angga,,ar3a51,0,6,5,2020,2,39,24
+7789,7788,Eh uda join lama ternyata😂,Albilaga,Pradana,albilaga,0,6,5,2020,2,39,38
+7790,0,Baru tdi,Angga,,ar3a51,0,6,5,2020,2,40,53
+7792,7790,Hoo. Soalnya gak ada notif kalo baru join 👀,Albilaga,Pradana,albilaga,0,6,5,2020,5,1,44
+7793,7786,Fitur baru lagi kah? Hampir 4 bulan ga pegang xamarin 😂 terakhir Januari,Wahidin,Aji,WahidinAji,0,6,5,2020,6,2,4
+7796,7793,Yap ada tambah2an fitur baru,Albilaga,Pradana,albilaga,0,6,5,2020,11,1,18
+7798,0,Salam,Rah,Al,ijzee27,0,6,5,2020,11,55,0
+7799,7798,Salam kenal,Albilaga,Pradana,albilaga,0,6,5,2020,12,3,42
+7805,0,Wow 😳,【 fanioz 】,,fanioz,0,7,5,2020,1,45,18
+7806,7804,Adminnya siapa y? 🤔,Albilaga,Pradana,albilaga,0,7,5,2020,7,41,13
+7807,0,"Ga tau om, dri awal saya masuk keknya ga prnh keluar",Wahidin,Aji,WahidinAji,0,7,5,2020,7,45,17
+7808,0,Pernah dneg 1x tpi duluuu sekali,Wahidin,Aji,WahidinAji,0,7,5,2020,7,45,25
+7828,0,Hai semua,,,,0,12,5,2020,6,35,13
+7829,0,Salam kenal,,,,0,12,5,2020,6,35,15
+7838,0,"Yok, buat persiapan PAT",.,.,,0,14,5,2020,7,5,59
+7858,0,Numero Uno 😁\n\nhttps://www.windowscentral.com/uno-platform-now-supports-macos-allowing-you-use-same-code-across-platforms,【 fanioz 】,,fanioz,0,18,5,2020,7,33,36
+7859,7858,Yap. Mobilenya based xamarin ini,Albilaga,Pradana,albilaga,0,18,5,2020,7,40,17
+7860,0,"XAML nya ikut UWP ya tapi, jadi ndak sama dgn Xamarin.Forms",【 fanioz 】,,fanioz,0,18,5,2020,8,0,9
+7861,0,"Xaml itu extension nya. Extension buat atur layout-nya,",Wahidin,Aji,WahidinAji,0,18,5,2020,8,32,19
+7862,0,"Tpi layout juga bisa diatur di c#nya, tpi menggunakan xaml lebih ringkas dalam penulisan syntax. Tpi ada saatnya menggunakan xaml ada saatnya menggunakan C#.",Wahidin,Aji,WahidinAji,0,18,5,2020,8,33,29
+7863,0,Permisi mau nanya tentang slider\nHallo syahrul kok gak mau ganti jadi value is ya?,Syahrul,Ramadhan,syahrul_87,0,18,5,2020,8,35,33
+7864,0,Cek code mas,Wahidin,Aji,WahidinAji,0,18,5,2020,8,39,59
+7865,0,https://pastebin.com/natByGQV,Syahrul,Ramadhan,syahrul_87,0,18,5,2020,9,21,36
+7866,0,pdhl sudah sama persis kyk di tutorial,Syahrul,Ramadhan,syahrul_87,0,18,5,2020,9,25,12
+7868,0,"label.Text = String.Format(""Value is {0:F3}"", e.NewValue);",Wahidin,Aji,WahidinAji,0,18,5,2020,9,30,34
+7869,0,coba itu dipaste di code behind nya mas,Wahidin,Aji,WahidinAji,0,18,5,2020,9,30,53
+7870,0,,Wahidin,Aji,WahidinAji,0,18,5,2020,9,32,23
+7871,7870,Ini contoh kalau masnya pengen pure di xaml nya,Wahidin,Aji,WahidinAji,0,18,5,2020,9,32,50
+7872,0,Oke mas tak coba yang behind code,Syahrul,Ramadhan,syahrul_87,0,18,5,2020,9,42,9
+7873,7860,Iyap. Xamlnya pake xamlnya uwp,Albilaga,Pradana,albilaga,0,18,5,2020,10,11,33
+7874,7861,Xaml ini ada beberapa versi si. Xaml xamarin ini beda dg xaml uwp makanya uno bikin lagi yg xamlnya pake xaml standard (yg dipake di uwp),Albilaga,Pradana,albilaga,0,18,5,2020,10,12,16
+7875,0,Bedakah? Ga pernah install uwp sih saya. Jadi ga tau,Wahidin,Aji,WahidinAji,0,18,5,2020,10,12,21
+7876,7875,Kalo pernah ngerjain uwp/wpf kerasa bedanya.,Albilaga,Pradana,albilaga,0,18,5,2020,10,42,27
+7877,0,Nh itu blm prnh mainan uwp/wpf sih hehe,Wahidin,Aji,WahidinAji,0,18,5,2020,13,41,51
+7878,7868,Permisi\nSetelah saya coba kok keluar error\nThe name 'label' does not exist in the current context,Syahrul,Ramadhan,syahrul_87,0,18,5,2020,14,9,37
+7879,7878,Labelnya uda dikasi x:name label?,Albilaga,Pradana,albilaga,0,18,5,2020,14,23,27
+7880,0,Sudah mas,Syahrul,Ramadhan,syahrul_87,0,18,5,2020,14,23,45
+7881,0,"    <StackLayout HorizontalOptions=""Center"" VerticalOptions=""Center"">\n\n        <Label Text=""Hallo Syahrul"" x:Name=""label"" />\n\n        <Slider ValueChanged=""Slider_ValueChanged""/>\n\n    </StackLayout>",Syahrul,Ramadhan,syahrul_87,0,18,5,2020,14,24,14
+7882,7881,x:Class sudah bener ya?,【 fanioz 】,,fanioz,0,18,5,2020,21,39,28
+7883,0,"<?xml version=""1.0"" encoding=""utf-8"" ?>\n\n<ContentPage xmlns=""http://xamarin.com/schemas/2014/forms""\n\n             xmlns:x=""http://schemas.microsoft.com/winfx/2009/xaml""\n\n             xmlns:d=""http://xamarin.com/schemas/2014/forms/design""\n\n             xmlns:mc=""http://schemas.openxmlformats.org/markup-compatibility/2006""\n\n             mc:Ignorable=""d""\n\n             x:Class=""Notifikasi.GreedPage"">",Syahrul,Ramadhan,syahrul_87,0,19,5,2020,1,21,38
+7884,0,"Hm...\nCoba di file GreedPage.xaml.cs, \nDibagian label.Text, trus mouse nya di hover di atas 'label' muncul apa?",【 fanioz 】,,fanioz,0,19,5,2020,2,19,33
+7885,7883,Rebuild mungkin?,Albilaga,Pradana,albilaga,0,19,5,2020,4,25,25
+7886,0,Menarik ini https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/,Albilaga,Pradana,albilaga,0,19,5,2020,17,13,57
+7890,0,namespace nya ada yg brubah jg ya? dah ada tool buat convertornya gitu gak?,Mohamad,Iqbal,Iqbal0304,0,20,5,2020,5,59,45
+7891,7890,system.maui. ini masih 2021 jadi jangan harap sekarang uda ada toolnya 😄,Albilaga,Pradana,albilaga,0,20,5,2020,6,47,2
+7892,7886,MVU nya kayak flutter 🤔?,【 fanioz 】,,fanioz,0,20,5,2020,9,11,25
+7893,7892,iya. kelanjutan dari ini kayaknya https://github.com/Clancey/Comet,Albilaga,Pradana,albilaga,0,20,5,2020,9,30,28
+7894,7886,Ini bisa buat desktop juga ya?,Wahidin,Aji,WahidinAji,0,20,5,2020,10,1,53
+7895,7894,iya. harapannya gitu,Albilaga,Pradana,albilaga,0,20,5,2020,10,10,28
+7896,0,"Wait, brti ini ntar 1 codebase aja?. Semua itu?",Wahidin,Aji,WahidinAji,0,20,5,2020,10,29,4
+7897,7896,Ini comet beda dg maui si. Utk maui ya targetnya si 1 codebase utk semua platform yg disupport maui,Albilaga,Pradana,albilaga,0,20,5,2020,11,38,19
+7898,0,"Oalahhh, mudah-mudahan makin banyak komunitas nya diindo ya hehe",Wahidin,Aji,WahidinAji,0,20,5,2020,11,51,38
+7899,0,,,,,0,20,5,2020,19,19,8
+7900,0,/start@ProtectronBot,,,,0,20,5,2020,19,19,16
+7908,0,"Permisi\nAne sudah cek semua tutorial, dan setelah x:Name=""label"" harusnya label bisa muncul di c#, tapi kok visual studio ane gak munculin si label, malah keluar error 😭😭",Syahrul,Ramadhan,syahrul_87,0,23,5,2020,5,42,46
+7909,7908,Coba share xaml n xaml.cs nya aja. N errornya pas klik rebuild,Albilaga,Pradana,albilaga,0,23,5,2020,6,43,15
+7917,0,Not really a goodbye to Xamarin – One .Net and MAUI – Divikiran Ravela's Blog\nhttps://xamlabs.com/2020/05/24/xamarin-and-maui/,Mohamad,Iqbal,Iqbal0304,0,25,5,2020,1,43,50
+7918,0,Can anyone share the prism example ?,SS,19,,0,25,5,2020,5,36,5
+7919,7918,https://github.com/PrismLibrary/Prism-Samples-Forms,Albilaga,Pradana,albilaga,0,25,5,2020,6,36,32
+7920,0,,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,26,13
+7921,0,,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,26,15
+7922,0,,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,26,17
+7923,0,mohon maaf kemarin tidak bisa mengirimkan kode\nada yang tau solusinya?,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,26,38
+7924,0,atau Visual studio ane yang bermasalah?,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,27,37
+7925,7921,Tulisan itu apa? Dan itu fungsi mau ngapain?,Wahidin,Aji,WahidinAji,0,25,5,2020,13,28,49
+7926,7925,"tulisan pada gambar 2 itu berasal dari x:Name=""tulisan""\nsaya mengikuti tutorial, tapi anehnya malah error. keterangan errornya The name 'tulisan' does not exist in the current context",Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,31,40
+7927,0,"padahal x:Name=""tulisan"" sudah saya kasih",Syahrul,Ramadhan,syahrul_87,0,25,5,2020,13,31,58
+7928,0,"Mau nanya\nKok ide saya aneh ya, x:Class=""Project"" bisa dideteksi, tapi kok x:Name=""tulisan"" gak bisa ya? Pas ane ketik Project langsung muncul, pas ane ketik tulisan no suggestion?",Syahrul,Ramadhan,syahrul_87,0,25,5,2020,14,25,32
+7929,0,"public partial class MainPage : ContentPage { public MainPage() { InitializeComponent(); slider.Value = 0.8; } private void Slider_ValueChanged(object sender, ValueChangedEventArgs e) { label.Text = string.Format(""value is {0:F3}"", e.NewValue); } }",Wahidin,Aji,WahidinAji,0,25,5,2020,14,34,34
+7930,0,Itu di .vs nya,Wahidin,Aji,WahidinAji,0,25,5,2020,14,34,37
+7931,0,.cs,Wahidin,Aji,WahidinAji,0,25,5,2020,14,34,39
+7932,0,"<ContentPage xmlns=""http://xamarin.com/schemas/2014/forms"" xmlns:x=""http://schemas.microsoft.com/winfx/2009/xaml"" xmlns:d=""http://xamarin.com/schemas/2014/forms/design"" xmlns:mc=""http://schemas.openxmlformats.org/markup-compatibility/2006"" mc:Ignorable=""d"" x:Class=""SliderAccess.MainPage""> <StackLayout HorizontalOptions=""Center"" VerticalOptions=""Center""> <!-- Place new controls here --> <Label FontSize=""Title"" Text=""Hello World"" x:Name=""label""/> <Slider ValueChanged=""Slider_ValueChanged"" x:Name=""slider""/> </StackLayout> </ContentPage>",Wahidin,Aji,WahidinAji,0,25,5,2020,14,34,54
+7933,0,Itu di .xaml nya,Wahidin,Aji,WahidinAji,0,25,5,2020,14,35,1
+7934,0,,Wahidin,Aji,WahidinAji,0,25,5,2020,14,36,1
+7935,0,,Wahidin,Aji,WahidinAji,0,25,5,2020,14,36,1
+7936,0,Atau itu biar lebih jelas,Wahidin,Aji,WahidinAji,0,25,5,2020,14,36,1
+7937,7921,Ini soalnya tulisan nya ndka kebaca dan kurang ;. Dn lagi yg dari .xaml itu perlu di inisialisasikan sebagai apa. Cmiiw,Wahidin,Aji,WahidinAji,0,25,5,2020,14,37,3
+7938,7920,Dn ini juga blum dibinding,Wahidin,Aji,WahidinAji,0,25,5,2020,14,39,22
+7939,0,"Coba baca-baca lagi soap data binding mas, baik one-way maupun two-way",Wahidin,Aji,WahidinAji,0,25,5,2020,14,39,51
+7940,0,Cmiiw,Wahidin,Aji,WahidinAji,0,25,5,2020,14,40,37
+7941,0,,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,14,41,32
+7942,0,,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,14,41,32
+7943,0,"Kalau untuk tanda ; tidak ada masalah\nYang jadi masalah saya mencoba meniru tutorial, tapi ketika saya mencoba di .cs saya ketik label muncul tulisan ""no suggestion""",Syahrul,Ramadhan,syahrul_87,0,25,5,2020,14,41,35
+7944,0,"Biasanya itu belum kerender aja,,",Wahidin,Aji,WahidinAji,0,25,5,2020,14,42,34
+7945,7944,Tapi kalau seandainya saya ketik sendiri itu ada pengaruh apa tidak?,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,14,43,34
+7946,0,Ga ada,Wahidin,Aji,WahidinAji,0,25,5,2020,14,43,54
+7947,0,Kalau ada brti typo,Wahidin,Aji,WahidinAji,0,25,5,2020,14,43,59
+7948,0,"Kalau belum dibuild udh error'. Coba dibuild dulu. Biasanya ya itu, belum kerender atau belum kebuild",Wahidin,Aji,WahidinAji,0,25,5,2020,14,44,24
+7949,7948,Udh ane build\nMuncul error the name 'label' does not exist in the current context,Syahrul,Ramadhan,syahrul_87,0,25,5,2020,15,7,28
+7950,7938,Ini gak perlu binding si. Cuma mau akses element dari xaml.cs yg harusnya bisa,Albilaga,Pradana,albilaga,0,25,5,2020,16,29,6
+7951,7941,Ini aneh. InitializeComponent merah biasanya ada yg salah dari xamlnya. Errornya cuma di ini aja? coba rebuild semua n label... itu dihapus dulu. Handle_ValueChanged nya kosong dulu aja isinya. Terus copas errornya apa aja,Albilaga,Pradana,albilaga,0,25,5,2020,16,30,51
+7954,7951,InitializeComponent udh bisa saya betulkan\nTinggal error the name 'label' does not exist in the current context,Syahrul,Ramadhan,syahrul_87,0,26,5,2020,0,28,18
+7955,7954,Betulkannya gmn? Coba share fullprojectnya aja di sini,Albilaga,Pradana,albilaga,0,26,5,2020,1,30,16
+7956,0,ini mas fullprojectnya,Syahrul,Ramadhan,syahrul_87,0,26,5,2020,6,56,3
+7957,0,"udah ane update Visual Studio juga tetep gak deteksi si x:Name=""Syahrul",Syahrul,Ramadhan,syahrul_87,0,26,5,2020,6,56,20
+7958,7956,Compressnya ke .zip aja dong. Jangan ke .rar. Gak bisa dibuka di mac😅,Albilaga,Pradana,albilaga,0,26,5,2020,7,25,0
+7959,0,ini mas,Syahrul,Ramadhan,syahrul_87,0,26,5,2020,7,27,27
+7960,7959,"di saya bisa ini. emang awalnya gak bisa si. tapi tak ganti dari ""syahrul"" jadi ""label"" terus aku save langsung bisa. tadi pas nyobain ganti x:Name uda di save kan di xamlnya?",Albilaga,Pradana,albilaga,0,26,5,2020,10,45,10
+7961,0,Biasanya kalau gtu minta rebuild sih,Wahidin,Aji,WahidinAji,0,26,5,2020,10,46,22
+7962,0,Saya pun sering gitu dulu,Wahidin,Aji,WahidinAji,0,26,5,2020,10,46,30
+7963,0,Terkadang tak close dulu. Buka lagi,Wahidin,Aji,WahidinAji,0,26,5,2020,10,46,52
+7964,0,"Udh disave, udh rebuild, udh ane close\nAne juga bingung, apa ide saya yg error apa gimana? Soalnya saya liat tutorial bahkan sama persis, tetep aja error 😭😭",Syahrul,Ramadhan,syahrul_87,0,26,5,2020,12,4,10
+7965,7964,Pake vs berapa?,Albilaga,Pradana,albilaga,0,26,5,2020,12,30,38
+7966,7965,2019,Syahrul,Ramadhan,syahrul_87,0,26,5,2020,12,30,56
+7967,7966,ahhah... gak tau lagi si. tulisannya di error log apa? syahrul not detected? btw ramnya berapa? biasanya bisa aja si xamlnya not generated ulang. bisa coba install ulang vsnya,Albilaga,Pradana,albilaga,0,26,5,2020,12,44,21
+7968,7967,"Kalau dari tutorial harusnya syahrul keluar disitu, tapi anehnya syahrul gak keluar. Kalau ane ketik manual keluar error the name 'syahrul'\nUntuk ram saya 2 gb, pc kentang sih 😭😭",Syahrul,Ramadhan,syahrul_87,0,26,5,2020,13,2,40
+7969,7968,coba itu dihapus dulu syahrulnya di xaml.cs. terus rebuild baru ketik lagi ada gak syahrulnya,Albilaga,Pradana,albilaga,0,26,5,2020,13,22,54
+7970,7968,btw ram 2gb bisa jadi masalah si emang untuk visual studio. minimumnya emang 4gb,Albilaga,Pradana,albilaga,0,26,5,2020,13,23,18
+7984,0,Post di grup java ya,Mas Nanda,Nugraha,nandanugg,0,31,5,2020,11,40,49
+7991,0,The evemt wll come back from something being clicked on the XAML - if the element doesn't exist then this code won't be reached,Syahrul,Ramadhan,syahrul_87,0,2,6,2020,13,40,34
+7992,0,Mau nanya\nItu maksudnya gimana ya? Terus terang bingung mahaminnya,Syahrul,Ramadhan,syahrul_87,0,2,6,2020,13,40,56
+7993,7991,ini kata2nya dari mana ya? bisa di paste fullnya? contextnya kurang soalnya,Albilaga,Pradana,albilaga,0,2,6,2020,14,45,9
+7994,7993,"Itu dari forum luar sih\nBtw udh fix mas 😅\nSekalian nanya. Build, rebuild, clean solution itu apa? Dan seberapa pentingkah untuk developer xamarin?",Syahrul,Ramadhan,syahrul_87,0,2,6,2020,15,8,25
+7995,7994,fixnya gimana? 😮\nintinya si event itu akan ketrigger kalo diklik. kalo elementnya gak ada ya kode eventnya gak akan ketrigger,Albilaga,Pradana,albilaga,0,2,6,2020,15,10,21
+7996,7995,"Cuma clean solution udh bisa 😂😂\nAne ubek"" di forum luar, disuruh oprek eventlah, elemenlah, sampe mentok disuruh break point. Nah dari sini gw nyoba clean solution tau"" bisa sendiri appnya",Syahrul,Ramadhan,syahrul_87,0,2,6,2020,15,11,38
+7997,7994,"Build ini tiap kali km run app pasti dia akan build\nBuild berarti km compile codenya jadi app yg akan dijalankan (biasanya cuma compile code yg berubah dari terakhir dijalankan aja)\nRebuild berarti km compile ulang seluruh codenya. Biasanya ini dilakukan kalo ada kasus2 spesial aja si kayak perubahan terakhir gak masuk, dkk. ini untuk make sure semua codenya dicompile ulang\nClean solution berarti bersihkan semua cache yg dari visual studionya.",Albilaga,Pradana,albilaga,0,2,6,2020,15,13,8
+7998,7997,"Thanks gan, ane ss wkwkwkwk. Jaga"" kalau ada error kyk kemaren""\nAwalnya udh pasrah sama xamarin, niat balik lagi android studio. Eh pas udh betul langsung semangat lagi nerusin xamarin 😂😂",Syahrul,Ramadhan,syahrul_87,0,2,6,2020,15,15,13
+8005,7998,sip,Albilaga,Pradana,albilaga,0,3,6,2020,4,26,24
+8009,0,"Maaf nanya\nAne iseng"" nyoba rotation, berhasil sih. Tapi emang kayak gini ya? Kepotong gitu?",Syahrul,Ramadhan,syahrul_87,0,4,6,2020,6,51,40
+8010,8009,emang bentuk aslinya sebelum dirotate gmn?,Albilaga,Pradana,albilaga,0,4,6,2020,7,2,59
+8011,8010,Kotak\nAne pake boxview gan 😂😂,Syahrul,Ramadhan,syahrul_87,0,4,6,2020,7,8,4
+8012,0,Bukan gambar 😂,Syahrul,Ramadhan,syahrul_87,0,4,6,2020,7,8,17
+8013,8011,rotatenya berapa? itu gak kepotong kok. cuma jadi diagonal aja. kayaknya ya gara2 rotatenya gak full 90 derajat aja,Albilaga,Pradana,albilaga,0,4,6,2020,7,35,45
+8014,8013,"Variabel awal 180\nMinimal 0, maksimal 360",Syahrul,Ramadhan,syahrul_87,0,4,6,2020,7,36,22
+8015,8014,coba liat code rotatenya gmn?,Albilaga,Pradana,albilaga,0,4,6,2020,7,36,51
+8016,0,,Syahrul,Ramadhan,syahrul_87,0,4,6,2020,7,52,9
+8017,0,,Syahrul,Ramadhan,syahrul_87,0,4,6,2020,7,52,10
+8018,8009,Ini slidernya gak diganti2? Tetep 180? Kalo slidernya diganti maka rotasinya ya ngikutin nilai slidernya. Kalo gak kelipatan 90 ya dia bakal miring. Rotate itu pake derajat buat ngeputernya,Albilaga,Pradana,albilaga,0,4,6,2020,8,12,12
+8019,8018,"Sengaja saya bikin gitu mas, iseng"" nyoba\nAwalnya mau nyoba yang size, cuma error jadinya pake rotate 😂😂",Syahrul,Ramadhan,syahrul_87,0,4,6,2020,8,15,17
+8020,0,Berarti kalo rotatenya 90 gak kepangkas ya?,Syahrul,Ramadhan,syahrul_87,0,4,6,2020,8,15,51
+8021,8020,Bukan kepangkas. Itu muter jadi diagonal. Coba aja di rumah gambar kotak terus digunting terus diputer2 pasti jadinya kayak yg di atas juga kan?,Albilaga,Pradana,albilaga,0,4,6,2020,8,25,34
+8022,8021,"Owalah\nOke"" thanks mas",Syahrul,Ramadhan,syahrul_87,0,4,6,2020,10,8,41
+8041,0,Punya tutorial xamarin b.indonesia ga?,Chaikal,Arsya,,0,7,6,2020,10,3,44
+8043,0,Kok enak dateng-dateng minta sumbangan :v,Wahidin,Aji,WahidinAji,0,7,6,2020,14,30,19
+8044,8041,Sepertinya belum nemu saya mas. Kebnykan Inggris.,Wahidin,Aji,WahidinAji,0,7,6,2020,14,30,40
+8045,8043,"🙏 maafkan admin, kelewat",Mas Nanda,Nugraha,nandanugg,0,7,6,2020,14,52,41
+8046,8041,Ada saya nemu,Syahrul,Ramadhan,syahrul_87,0,7,6,2020,15,35,6
+8047,0,Cuma ya balik lagi ke situ. Paham kgk?\nSoalnya berupa pdf tutorialnya,Syahrul,Ramadhan,syahrul_87,0,7,6,2020,15,36,10
+8048,0,,Syahrul,Ramadhan,syahrul_87,0,7,6,2020,15,37,33
+8049,8047,"Makasih banyak gan, saya pemula di xamarin",Chaikal,Arsya,,0,7,6,2020,15,39,53
+8051,0,,Panca,Ramadhan,pancarmd,0,9,6,2020,2,38,2
+8055,0,"tanya dong,ada ga sih yg nyediain jasa kaya macincloud tapi dari indonesia,yg byrnya pake trf ga pake cc/paypal",Ilyas,Pradana,PradanaIlyas,0,11,6,2020,6,30,22
+8056,8055,kayaknya belum ada. kenapa gak pake macincloud?,Albilaga,Pradana,albilaga,0,11,6,2020,9,41,23
+8057,0,atau kalo mau coba deploy aja bisa pake azure devops,Albilaga,Pradana,albilaga,0,11,6,2020,9,41,41
+8058,0,"mau coba deploy aja sih,baru mau coba"" pake xamarin forms,kalo ga punya mac katanya bisa pake macincloud,tapi sekarang baru denger pake azure devops",Ilyas,Pradana,PradanaIlyas,0,11,6,2020,9,46,29
+8059,8056,"bayarnya pake cc/paypal,engga punya saya soalnya,hehe",Ilyas,Pradana,PradanaIlyas,0,11,6,2020,9,47,5
+8060,0,intinya sih mau nyoba jalanin apps di emulator ios aja,Ilyas,Pradana,PradanaIlyas,0,11,6,2020,9,50,51
+8061,8060,Owh gak bisa si kalo emulator. Azure devops pun juga langsung compile appnya jadi app yg bisa diinstall di iOS. Kalo punya iOS device di windows bisa pake hot restart jadi gak perlu mac kalo mau jalanin iOS device di windows,Albilaga,Pradana,albilaga,0,11,6,2020,10,31,15
+8062,0,Mas punya tutorial crud xamarin dr web api php ga ya?,Aditya,Widiatmoko,Adityawidiatmoko,0,11,6,2020,11,3,5
+8063,8061,"Maksudnya ios device di windows gmana ya om? Iphone nya dicolok ke laptop, lalu?",Mohamad,Iqbal,Iqbal0304,0,11,6,2020,11,37,36
+8064,8062,Bukannya sama aja ya? Kn Web service itu dibuat agar bisa saling terhubung walaupun beda  bahasa. Cmiiw... Atau keluarga .net kemang harus dari asp? Blum nyoba sih heh,Wahidin,Aji,WahidinAji,0,11,6,2020,11,43,54
+8065,0,Hehe,Wahidin,Aji,WahidinAji,0,11,6,2020,11,43,55
+8066,8064,"Kirain hrus asp, kalo codinganya berarti sama aja ya? Belum pernah nyoba juga sih 😅",Aditya,Widiatmoko,Adityawidiatmoko,0,11,6,2020,11,45,22
+8067,0,Yg populer biasanya restfull kan? Nah trs coba aja connect restfull di xamarin,Wahidin,Aji,WahidinAji,0,11,6,2020,11,47,36
+8068,0,Di web resminya ada contohnya keknya,Wahidin,Aji,WahidinAji,0,11,6,2020,11,47,50
+8069,0,Sya prnah nyoba juga dari API kmpus😬 dn brhsil login. Tpi lupa projectnya yg mana. Udh lama juga sih,Wahidin,Aji,WahidinAji,0,11,6,2020,11,49,13
+8070,0,Baru  inget juga,Wahidin,Aji,WahidinAji,0,11,6,2020,11,49,22
+8071,8063,yap. langsung run iOS ke devicenya bisa si kayaknya. tapi belum pernah coba juga,Albilaga,Pradana,albilaga,0,11,6,2020,14,49,2
+8072,8063,ini penjelasannya https://docs.microsoft.com/en-us/xamarin/xamarin-forms/deploy-test/hot-restart,Albilaga,Pradana,albilaga,0,11,6,2020,14,49,27
+8073,8066,sama aja si. APInya dari bhs apapun sama aja selama pake REST API. Pake httpclient uda bisa?,Albilaga,Pradana,albilaga,0,11,6,2020,14,50,17
+8074,8067,Oke mas makasih nanti saya coba,Aditya,Widiatmoko,Adityawidiatmoko,0,11,6,2020,14,51,32
+8075,8073,Oke makasih mas penjelasanya,Aditya,Widiatmoko,Adityawidiatmoko,0,11,6,2020,14,51,52
+8078,0,,Alex,,,0,12,6,2020,7,11,46
+8083,0,Maaf gan mau nanya\nCaranya biar si fontsize hallo berubah ketika slidernya diubah itu gimana ya?,Syahrul,Ramadhan,syahrul_87,0,14,6,2020,4,47,59
+8084,8016,Pake cara yg sama kayak ini. Fontsizenya dibinding ke value dari slider,Albilaga,Pradana,albilaga,0,14,6,2020,5,13,52
+8089,0,Permisi mau nanya,Syahrul,Ramadhan,syahrul_87,0,17,6,2020,5,29,35
+8090,0,"Knp lebar buttonnya ikutan berubah ya? Codingan button\n<Button Text=""Next"" x:Name=""tombol""/>",Syahrul,Ramadhan,syahrul_87,0,17,6,2020,5,30,19
+8091,0,"coba dipisah aja mas, btn nya. kalau ndak lihat full code nya mas,",Wahidin,Aji,WahidinAji,0,17,6,2020,5,48,12
+8092,0,sepertinya itu ngikut margin yg di text nya,Wahidin,Aji,WahidinAji,0,17,6,2020,5,48,32
+8093,8090,Bisa share full xamlnya?,Albilaga,Pradana,albilaga,0,17,6,2020,6,6,48
+8094,0,"<?xml version=""1.0"" encoding=""utf-8"" ?>\n<ContentPage xmlns=""http://xamarin.com/schemas/2014/forms""\n             xmlns:x=""http://schemas.microsoft.com/winfx/2009/xaml""\n             xmlns:d=""http://xamarin.com/schemas/2014/forms/design""\n             xmlns:mc=""http://schemas.openxmlformats.org/markup-compatibility/2006""\n             mc:Ignorable=""d""\n             x:Class=""App7.Page1"">\n    <StackLayout HorizontalOptions=""Center"" VerticalOptions=""Start"">\n        <Button Text=""Next"" x:Name=""Tombol""/>\n        <Label Text=""{Binding Source={x:Reference slider1}, Path=Value, \n            StringFormat='Font {0:F0}'} "" x:Name=""label1""/>\n        <Slider x:Name=""slider1""/>\n        <Label Text=""{Binding Source={x:Reference slider1}, Path=Value, StringFormat='Hallo'\n            }"" FontSize=""{Binding Source={x:Reference slider1}, Path=Value}"" \n               x:Name=""label2""/>\n    </StackLayout>\n</ContentPage>",Syahrul,Ramadhan,syahrul_87,0,17,6,2020,7,37,21
+8095,0,"coba buat stactlayout lagi mas, jadi \nstacklayout buat di btn\nstacklayout buat yg dibinding sama slider. sama skidernya juga.",Wahidin,Aji,WahidinAji,0,17,6,2020,10,6,17
+8096,8094,Coba yg button itu set `HorizontalOptions` ke `Start`. Itu ngikut krn by default `HorizontalOptions` itu `Fill` yg mana ya ngikut lebarnya parent,Albilaga,Pradana,albilaga,0,17,6,2020,10,43,42
+8097,0,"Oke, saya coba sarannya",Syahrul,Ramadhan,syahrul_87,0,17,6,2020,10,44,14
+8103,0,Mohon promosinya yg related dengan Xamarin ya,Mas Nanda,Nugraha,nandanugg,0,18,6,2020,14,7,9
+8108,0,"Numpang tanya master, ada yg punya info penerbit buku topik programming? Saya buat buku tentang c# dan mau saya terbitkan rencananya.  Kalau ada monggo share master 😊",,,,0,24,6,2020,3,56,0
+8113,0,"Kumpulan tool dan driver hasil crack yg jadi andalan para teknisi service hp,bkn sembarang tool..\nhttps://bitly.is/31iP8Vm",,,,0,26,6,2020,9,59,41
+8118,0,"Mastah numpang tanya,",Waki,Abdurrazak,Waki4d,0,29,6,2020,7,12,57
+8119,0,disini ada yang udah pernah ngeprint logo pake bluetooth thermal printer?,Waki,Abdurrazak,Waki4d,0,29,6,2020,7,13,0
+8122,0,info loker programer dot net\n1. asp net framework\n2. dot net core\n3 sql server\n4. pengalaman min 2thn\n5. devexpress or telerik nilai tambah\ninfo lengkap bisa japri dulu,Dayat,,,0,29,6,2020,22,25,47
+8139,0,Apakah ada yg pernah bahas Security Aplikasi Android atau artikelnya?,"Silaban,",Benny,SilabanBenny,0,5,7,2020,3,50,18
+8141,8139,Security dalam hal apa ni?,Albilaga,Pradana,albilaga,0,6,7,2020,5,48,37
+8142,0,"Security untuk komunikasi data, seperti koneksi menggunakan HTTPClient, dr Aplikasi Android ke Api. Dan seberapa besar kemungkinan dapat di hack gt mas.","Silaban,",Benny,SilabanBenny,0,6,7,2020,5,58,34
+8143,0,"G mesti HTTPClient atau misalnya websocket dan lain"".","Silaban,",Benny,SilabanBenny,0,6,7,2020,5,59,3
+8144,0,"@orangsiber\ncba tnya disitu mas, sya sndiri masih beljar caranya ngesecure si app. krna ada app kampus yg Api nya bisa dilihat😂. dan bisa masuk tnpa pamrih wkwkwk",Wahidin,Aji,WahidinAji,0,6,7,2020,6,1,15
+8145,8144,"Nah, saya jg masih bingung, biar g bisa dibuka selain menggunakan aplikasi. Apakah harus menggunakan Auth.","Silaban,",Benny,SilabanBenny,0,6,7,2020,6,2,27
+8146,8142,https://docs.microsoft.com/en-us/xamarin/cross-platform/deploy-test/performance,Albilaga,Pradana,albilaga,0,6,7,2020,6,3,1
+8147,8144,API kan tujuannya memang biar bisa dilihat n dipake siapa saja. Kalo gak mau dipake siapa aja yg gunain harus kirim token atau client_secret yg cuma app itu aja yg tau,Albilaga,Pradana,albilaga,0,6,7,2020,6,4,46
+8148,8147,"iya ini mas, mkst sya orng bisa lihat dari app kmpus trsbut.",Wahidin,Aji,WahidinAji,0,6,7,2020,6,5,44
+8149,8148,Semua app juga bisa diliat kok APInya ke mana. Tinggal pake kayak fiddler uda tau app tsb ngirim data ke mana aja,Albilaga,Pradana,albilaga,0,6,7,2020,6,7,22
+8150,0,"nah itu, apakah bisa dibuat transparan? jadi trafic yg dilihat tidak smbarangam bisa dilihat.",Wahidin,Aji,WahidinAji,0,6,7,2020,6,8,50
+8151,8146,"Thanks mas, bisa ni buat tambahan referensi.","Silaban,",Benny,SilabanBenny,0,6,7,2020,6,9,35
+8154,8150,La itu kan uda transparan? 😅😅😅\n\nKalo gak mau data yg dikirim bisa dilihat pake https (tls 1.2). Ini url bisa diliat tapi data yg dikirim uda encrypted. CMIIW,Albilaga,Pradana,albilaga,0,6,7,2020,6,12,58
+8155,0,nahh itu mksutnya. thks mas infonya😂.,Wahidin,Aji,WahidinAji,0,6,7,2020,6,13,54
+8157,0,halo salam kenal,Asep,Wahyudi,bekantan,0,7,7,2020,12,49,13
+8160,0,Hi everybody! Can I speak English?,Lohacker,,Lohacker10,0,8,7,2020,9,57,22
+8161,8160,yes. can,Albilaga,Pradana,albilaga,0,8,7,2020,11,13,2
+8174,0,hallo salam kenal,No,Name,,0,13,7,2020,8,27,53
+8176,0,Salam kenal dari tangerang kota,Restu,Firmansyah,Refisha,0,13,7,2020,8,41,38
+8178,0,saya kira xamarin drag n drop kaya vb.net,No,Name,,0,14,7,2020,10,8,28
+8179,0,😁,No,Name,,0,14,7,2020,10,8,33
+8180,8178,yg drag n drop bukan vb.net tapi windows formnya. kalo windows form pake c# juga drag n drop.,Albilaga,Pradana,albilaga,0,14,7,2020,11,30,52
+8181,8178,"drag n drop juga, tpi codenya wkwkwkwk",Wahidin,Aji,WahidinAji,0,14,7,2020,12,38,51
+8184,0,Drag dari github\nDrop ke project kita 😂😂,Syahrul,Ramadhan,syahrul_87,0,15,7,2020,3,50,53
+8185,0,hehehe..,No,Name,,0,15,7,2020,5,9,51
+8191,0,"assalamualaikum, permisi mau tanya ada yg punya aplikasi yg di buat dari xamarin kah...buat belajar..😁",No,Name,,0,19,7,2020,0,38,20
+8193,0,Github menangis melihat ini 😱,Mario,Bagus,mariobagus,0,19,7,2020,1,39,6
+8200,0,* misi om2..apakah ada yg pernah pakai semacam frame di camera dgn xamarin?,Zuhry,,zuhry9,0,24,7,2020,8,24,50
+8201,0,,Zuhry,,zuhry9,0,24,7,2020,8,25,4
+8202,0,kya box yg hijau2 itu,Zuhry,,zuhry9,0,24,7,2020,8,25,24
+8211,0,Wah gak pernah. Pernahnya pake media plugin aja. N itu bisanya kayaknya cuma di iOS custom overlay. Mungkin perlu bikin renderer sendiri,Albilaga,Pradana,albilaga,0,25,7,2020,7,5,14
+8215,0,"mau tanya..kira"" spesifikasi laptop apa ya yang bagus untuk menggunakan visual studio 2019...",No,Name,,0,27,7,2020,15,2,4
+8216,0,"saya ada core i5 gen 2, ssd 258 ram 8gb..lemot banget...apa lg kl sudah jalani avd nya..wadaw.\nbisa main pubg dl, bisa buat kopi dl, makan...tidur, terus bangun, baru jalan tu avd nya",No,Name,,0,27,7,2020,15,4,16
+8217,0,gen 2 kecepatan brpa?,Wahidin,Aji,WahidinAji,0,27,7,2020,15,5,35
+8218,0,"sy msih pakai 13 gen 4 1.9 ghz \nssd 250 samsung evo 860.\nram 6. \n\nvs lncar, emulator lncar,",Wahidin,Aji,WahidinAji,0,27,7,2020,15,6,17
+8219,0,,No,Name,,0,27,7,2020,15,11,23
+8220,0,"gen 2 kecepatan 2,5ghz",No,Name,,0,27,7,2020,15,12,21
+8222,0,"Izin gabung kaka2,,, \nkebetulan sy native android developer, sedang lirik2 Xamarin… keliatannya menarik… hehe",h a y i,,hayinukman,0,28,7,2020,5,31,31
+8223,8216,Pake device aja kalo bisa,Albilaga,Pradana,albilaga,0,28,7,2020,6,9,16
+8224,8222,Halo. Met gabung,Albilaga,Pradana,albilaga,0,28,7,2020,6,9,28
+8225,8216,"Sabar ae gan, bayangin ane intel atom ram 2 gb hdd 😂😂",Syahrul,Ramadhan,syahrul_87,0,28,7,2020,6,29,2
+8229,0,,Baiquni,,baiquni,0,30,7,2020,1,33,17
+8230,0,,Baiquni,,baiquni,0,30,7,2020,1,33,17
+8231,0,Ada yang pernah alami ga kalau debug aplikasinya jalan lancar tapi begitu ganti release muncul error gitu,Baiquni,,baiquni,0,30,7,2020,1,33,41
+8232,0,Udah di approve permission tapi tetap ga jalan,Baiquni,,baiquni,0,30,7,2020,1,33,52
+8235,0,Salam kenal suhu2 sekalian 🙏,Rizky,Risaf,risafgates,0,30,7,2020,1,42,57
+8236,0,"boleh tau, mobile app di indonesia yg sudah menggunakan xamarin apa saja?\n\nterima kasih",Rizky,Risaf,risafgates,0,30,7,2020,1,43,31
+8237,0,Pasti ada cuma ga tahu pastinya mas,Baiquni,,baiquni,0,30,7,2020,2,31,49
+8241,0,mau tanya..saya kan buat splashscreen login..kira kl mau full screen image nya gimana ya..,No,Name,,0,2,8,2020,17,46,33
+8242,0,atau ada ukuran image yg di buay,No,Name,,0,2,8,2020,17,46,51
+8243,0,buat,No,Name,,0,2,8,2020,17,46,53
+8244,0,project visual studio 2017 kenapa ga bisa di baca di 2019,No,Name,,0,3,8,2020,3,4,54
+8245,8236,bima+?,Albilaga,Pradana,albilaga,0,3,8,2020,3,18,11
+8246,8241,uda diset fullscreen di android projectnya?,Albilaga,Pradana,albilaga,0,3,8,2020,3,18,32
+8247,8231,ini pake permission apa aja?,Albilaga,Pradana,albilaga,0,3,8,2020,3,18,53
+8248,0,"permisi mau tanya..biasanya kl mau get api..abang"" menggunakan apa..selain restsharp",No,Name,,0,4,8,2020,12,49,38
+8252,0,httpclient,Zuhry,,zuhry9,0,5,8,2020,12,23,46
+8253,8248,httpclient langsung bisa. refit bisa...,Albilaga,Pradana,albilaga,0,5,8,2020,13,32,13
+8254,0,kl mau simpan session login itu gimana ya caranya kaka?,Asep,Wahyudi,bekantan,0,6,8,2020,6,48,49
+8255,8254,"bisa disimpen di local db, atau bisa disimpen di secure storage https://docs.microsoft.com/en-us/xamarin/essentials/secure-storage",Albilaga,Pradana,albilaga,0,6,8,2020,8,45,0
+8256,0,"Selamat pagi, jangan lupa ngopi",Novaldi,Putra Minang,,0,6,8,2020,23,18,58
+8257,0,,Asep,Wahyudi,bekantan,0,7,8,2020,4,47,19
+8258,0,"maaf kk mau tanya...saya baru belajar xamarin newbie abis..\nmau tanya kk..sayakan mau buat navigasi dimana logo nya ada di tengah ...tapi kok ga muncul ya kenapa ya kira""",Asep,Wahyudi,bekantan,0,7,8,2020,4,47,24
+8259,8257,Uda coba run di device? Kadang previewnya gak jelas emang😅,Albilaga,Pradana,albilaga,0,7,8,2020,4,51,59
+8260,0,sudah bisa,Asep,Wahyudi,bekantan,0,7,8,2020,6,53,31
+8261,0,hehhe,Asep,Wahyudi,bekantan,0,7,8,2020,6,53,32
+8262,0,ternyata lama,Asep,Wahyudi,bekantan,0,7,8,2020,6,53,35
+8263,0,load nya,Asep,Wahyudi,bekantan,0,7,8,2020,6,53,38
+8264,0,tp kok ga center ya logo nya,Asep,Wahyudi,bekantan,0,7,8,2020,6,53,51
+8265,8264,gak center gmn? bisa dishare screenshotnya?,Albilaga,Pradana,albilaga,0,7,8,2020,8,24,49
+8266,8264,StackLayout ksh WidthRequest sesuai lebar layar,Agus,Ibrahim,agusibrahim,0,7,8,2020,10,5,28
+8267,8265,,Asep,Wahyudi,bekantan,0,7,8,2020,17,29,21
+8268,0,itu kk ga center logo nya..,Asep,Wahyudi,bekantan,0,7,8,2020,17,29,47
+8269,8267,HorizontalOptions=Center,Albilaga,Pradana,albilaga,0,7,8,2020,17,30,0
+8271,8269,ooo astaga saya malah buat vertical,Asep,Wahyudi,bekantan,0,7,8,2020,17,54,0
+8272,0,"mau tanya lagi kk..kl buat rubah warna navigation yang biru jadi warna pilihan kita gimana kah..saya coba make  BackgroundColor=""#d8d2d2"" ga ada perubahan.",Asep,Wahyudi,bekantan,0,7,8,2020,17,55,8
+8273,8272,coba set NavigationPage.BarBackgroundColor nya,Albilaga,Pradana,albilaga,0,7,8,2020,18,0,30
+8275,8273,set nya di xaml.cs nya kah,No,Name,,0,8,8,2020,2,55,8
+8276,8275,Saya setnya biasanya ketika panggil\nnew Navigation Page(new Page())\n{\nBarBackgroundColor=...\n},Albilaga,Pradana,albilaga,0,8,8,2020,3,51,18
+8283,8276,sudah bisa bang..trimakasi banyak ya bantuannya,Asep,Wahyudi,bekantan,0,9,8,2020,14,26,29
+8284,8283,sama2,Albilaga,Pradana,albilaga,0,9,8,2020,14,47,24
+8285,0,"malam, mau tanya lagi hehehe",Asep,Wahyudi,bekantan,0,9,8,2020,15,6,15
+8286,0,,Asep,Wahyudi,bekantan,0,9,8,2020,15,6,15
+8287,8286,"mau tanya, kira"" kl kita mau buat seperti itu..\ntag"" apa aja ya kira"" yang dipakai..\n\nkl yang di pikiran saya...kita  pake navigation, grid , ImageButton...kira"" ada saran kah kk?",Asep,Wahyudi,bekantan,0,9,8,2020,15,9,17
+8288,0,"grid, trus yg profile sma logo atas kalau mau lebih fleksible pakai absolute",Wahidin,Aji,WahidinAji,0,9,8,2020,15,14,11
+8289,0,"propertinya ada sizepropotional, dll. lengkapnya cek dokumentasinya aja hehe",Wahidin,Aji,WahidinAji,0,9,8,2020,15,15,35
+8290,0,,Asep,Wahyudi,bekantan,0,9,8,2020,15,47,29
+8291,0,"mau tanya,,saya kan buat make grid sama ImageButton...kira"" kl mau ada label text di bawah image button seperti apa ya?",Asep,Wahyudi,bekantan,0,9,8,2020,15,48,15
+8292,8286,"maaf kk mau tanya..kira"" kl mau buat notification seperti gambar di atas gimana ya",Asep,Wahyudi,bekantan,0,10,8,2020,2,2,27
+8293,8291,Pake stacklayout. Imagebutton sama label,Albilaga,Pradana,albilaga,0,10,8,2020,3,43,12
+8294,8292,Coba search badge view n cek2. Atau kalo mau bisa pake absolute layout,Albilaga,Pradana,albilaga,0,10,8,2020,3,45,7
+8295,0,,Asep,Wahyudi,bekantan,0,10,8,2020,7,42,8
+8296,0,maaf mau nanya...,Asep,Wahyudi,bekantan,0,10,8,2020,7,42,9
+8297,0,kl buat height navigation bar gimana ya,Asep,Wahyudi,bekantan,0,10,8,2020,7,42,29
+8298,0,soalnya tulisan profile yang di sebelah kanan ga keliatan..,Asep,Wahyudi,bekantan,0,10,8,2020,7,42,46
+8299,0,saya sudah coba make HeightRequest tapi tidak bisa,Asep,Wahyudi,bekantan,0,10,8,2020,7,43,54
+8300,8297,Navigation bar gak bisa dicustom heightnya kalo gak salah. Kalo mau ya terpaksa gak usa pake navigation bar. Terus bikin custom view yg mirip kayak navigation bar,Albilaga,Pradana,albilaga,0,10,8,2020,9,31,47
+8302,8300,"ooo pantesan saya cari"" ga ada ditutorialnya..",Asep,Wahyudi,bekantan,0,10,8,2020,10,47,35
+8306,0,,Asep,Wahyudi,bekantan,0,10,8,2020,16,44,56
+8307,0,"permisi mau tanya lagi..\nkenapa ya, saya kan custom navigation..kl di jalankan di emulator sih..ga ada masalah...tapi pas dijalankan di hp..letaknya malah berubah",Asep,Wahyudi,bekantan,0,10,8,2020,16,45,44
+8309,8306,,Asep,Wahyudi,bekantan,0,10,8,2020,16,46,25
+8310,8309,"Karna pakai absolute layout, layar hape dan emulator beda.",Dzulfikar,Fauzi,dzulfikar68,0,10,8,2020,17,21,31
+8311,8309,Marginnya jangan pake fixed value gitu. Tiap hp layarnya beda2. Kalo mau coba pelajari absolute layout proportionalnya. Atau cara simplenya saya pake grid biasanya,Albilaga,Pradana,albilaga,0,10,8,2020,18,34,9
+8312,8311,oo berarti karna margin,Asep,Wahyudi,bekantan,0,11,8,2020,0,9,15
+8313,0,trimakasi abang @albilaga  dan @dzulfikar68,Asep,Wahyudi,bekantan,0,11,8,2020,7,55,50
+8314,8313,sama2,Albilaga,Pradana,albilaga,0,11,8,2020,8,17,41
+8317,0,gan mau tanya apa gunanya tanda gembok di sudut atas kanan telegram?,Zuhry,,zuhry9,0,13,8,2020,4,33,12
+8319,8317,Gembok yg mana?,Albilaga,Pradana,albilaga,0,13,8,2020,11,3,12
+8320,0,yg itu kali,Wahidin,Aji,WahidinAji,0,13,8,2020,11,55,42
+8321,0,ia...bner yg itu mas,Zuhry,,zuhry9,0,13,8,2020,13,49,4
+8322,8321,Wah gam tau itu. Di iOS gak ada 😅,Albilaga,Pradana,albilaga,0,13,8,2020,14,6,24
+8324,0,,Asep,Wahyudi,bekantan,0,14,8,2020,7,32,37
+8325,0,mau tanya saya mau buat seperti itu gimana ya caranya,Asep,Wahyudi,bekantan,0,14,8,2020,7,32,53
+8326,0,"saya coba buat biar ada bar top nya di atas , tapi tidak muncul",Asep,Wahyudi,bekantan,0,14,8,2020,7,33,19
+8327,0,,Asep,Wahyudi,bekantan,0,14,8,2020,7,39,25
+8328,8324,"ini gak akan bisa pake tabbed page. bikin custom tab sendiri jadinya. Nanti pas Tab A -> show View A, view B n C hidden. Kayak gitu si",Albilaga,Pradana,albilaga,0,14,8,2020,8,37,55
+8329,0,ooo berarti buat costum tab ya,Asep,Wahyudi,bekantan,0,14,8,2020,8,40,45
+8330,8329,iya. tapi bukan custom renderer si. cuma mainin view aja mana yg dishow sama dihidden,Albilaga,Pradana,albilaga,0,14,8,2020,9,8,52
+8336,8330,ooo ok saya coba dl costum view nya bang,Asep,Wahyudi,bekantan,0,18,8,2020,5,41,54
+8337,0,,Asep,Wahyudi,bekantan,0,19,8,2020,4,19,5
+8338,8337,saya kan buat header nya..terus dibawah ada tabpage nya..kira kaya gimana ya?,Asep,Wahyudi,bekantan,0,19,8,2020,4,20,2
+8339,0,,Asep,Wahyudi,bekantan,0,19,8,2020,4,21,23
+8340,8339,tabpage saya juga sudah buat..kl disatukan gt gmana ya?,Asep,Wahyudi,bekantan,0,19,8,2020,4,21,59
+8341,8340,"nggak bisa pake tab page bawaan si. bikin sendiri view, view gitu. Jadi itu jadi grid misal dibagi jadi 3 kolom gitu",Albilaga,Pradana,albilaga,0,19,8,2020,4,39,38
+8342,0,kalau sya biasanya mainan shell. jdi tabnya dibawah aja. kalau tuntutannya harus diatas harus misah tabnya. agak lupa kebiasaan make shell,Wahidin,Aji,WahidinAji,0,19,8,2020,4,41,8
+8343,0,bingung juga hahaha,Asep,Wahyudi,bekantan,0,19,8,2020,7,19,59
+8344,8343,contohnya kayak gini,Albilaga,Pradana,albilaga,0,19,8,2020,8,8,53
+8368,0,spam admin,Albilaga,Pradana,albilaga,0,20,8,2020,14,16,41
+8369,0,Sori telat,Mas Nanda,Nugraha,nandanugg,0,20,8,2020,14,27,54
+8370,8369,Ahaha.. Gpp... Kaget aja tiba2 grupnya rame😂😂😂,Albilaga,Pradana,albilaga,0,20,8,2020,14,55,31
+8376,0,Permisi mau nanya\nSaya ada aplikasi dengan fitur export data ke excel. Yang ingin saya tanyakan penyimpanannya itu gimana ya?,Syahrul,Ramadhan,syahrul_87,0,23,8,2020,12,36,40
+8377,8376,simpen ke document kalo android. kalo iOS gak tau si. seinget saya dulu gak bisa aksess ke shared document tapi sekarang ada files di iOS harusnya bisa cuma belum explore lagi,Albilaga,Pradana,albilaga,0,23,8,2020,15,54,36
+8378,8377,"Maaf mas, maksud saya ke databasenya. Biasanya untuk xamarin itu makai apa? Untuk offline",Syahrul,Ramadhan,syahrul_87,0,23,8,2020,15,56,14
+8379,8378,owh db. pake sqlite bisa. realm bisa. tapi saran saya si di db cuma simpen pathnya aja atau filenamenya aja. filenya tetep disimpen di document,Albilaga,Pradana,albilaga,0,23,8,2020,16,8,40
+8383,0,,Asep,Wahyudi,bekantan,0,25,8,2020,14,20,1
+8384,0,"mau tanya kl garis"" biru apa ya",Asep,Wahyudi,bekantan,0,25,8,2020,14,20,4
+8386,8383,Bisa dibuild? Biasanya garis biru nandain error xaml si,Albilaga,Pradana,albilaga,0,25,8,2020,15,22,49
+8387,0,di build bisa..ga ada error,Asep,Wahyudi,bekantan,0,25,8,2020,15,48,23
+8388,8387,Ignore aja kalo gitu. Lupa juga kenapa. Di warning gak ada apa2?,Albilaga,Pradana,albilaga,0,25,8,2020,18,19,46
+8389,0,"mau nanya kl nampilin svg gimana ya..kan kl untuk image, imagebutton dll make source kl svg gimana ya?",Asep,Wahyudi,bekantan,0,25,8,2020,21,9,22
+8390,8389,By default gak bisa. Harus pake lib tambahan kayak ffimageloading,Albilaga,Pradana,albilaga,0,26,8,2020,4,19,27
+8391,0,oooo gt,Asep,Wahyudi,bekantan,0,26,8,2020,5,8,44
+8393,0,Saya melihat kursus ini di Udemy dan teringat kepada Anda!\nhttps://www.udemy.com/share/101X7gAEETdVhbQH0B/,No,Name,,0,26,8,2020,8,26,26
+8394,0,"mau tanya kira"" kl pemula untuk belajar tutorial di atas bagus kah",No,Name,,0,26,8,2020,8,26,51
+8395,0,"mau tanya di xamarin itu kan ada portable, android, dan ios .. itu kl kita buat di portable nya berarti pas di build itu bisa di jalankan di android dan ios juga kah?",No,Name,,0,26,8,2020,8,30,46
+8396,8393,Kayaknya bagus. Uda cover basic n advanced kayaknya,Albilaga,Pradana,albilaga,0,26,8,2020,9,20,12
+8397,8395,Core functionnya emang di portablenya. Tapi run appnya tetep dari projek ios atau androidnya,Albilaga,Pradana,albilaga,0,26,8,2020,9,21,1
+8398,0,ooo berarti cocok ya buat pemula..,No,Name,,0,26,8,2020,11,35,28
+8399,0,Saya melihat kursus ini di Udemy dan teringat kepada Anda!\nhttps://www.udemy.com/share/101wLMAEETdVhbQH0B/,No,Name,,0,26,8,2020,11,42,4
+8400,0,apa ini ya,No,Name,,0,26,8,2020,11,42,11
+8403,0,halo,No,Name,,0,27,8,2020,13,27,5
+8404,0,apakabar,No,Name,,0,27,8,2020,13,27,14
+8405,0,pada sehat semua nya,No,Name,,0,27,8,2020,13,27,23
+8406,0,saya dapat contoh https://github.com/roubachof/Sharpnado.Presentation.Forms/tree/d6c6765ede333b85b8acfdc1169c0861eb656899\n\ndi jalanin kok ga bisa ya?,Asep,Wahyudi,bekantan,0,27,8,2020,19,10,48
+8407,0,,Asep,Wahyudi,bekantan,0,28,8,2020,5,44,58
+8408,0,mau tanya itu error kenapa ya,Asep,Wahyudi,bekantan,0,28,8,2020,5,45,3
+8409,0,mas @albilaga saya sudah buat tab..kira kl mau disamaratakan kolom nya gimana cara nya ya?,Asep,Wahyudi,bekantan,0,28,8,2020,6,17,58
+8410,0,,Asep,Wahyudi,bekantan,0,28,8,2020,6,18,2
+8411,0,https://pastebin.com/TzZp5stD,Asep,Wahyudi,bekantan,0,28,8,2020,6,19,59
+8412,0,btw ada yang tau atau ada refrensi  cara print bitmap logo di printer thermal dgn xamarin form?,Yogi,Inspirasibiz,yogiinspirasibiz,0,28,8,2020,7,6,17
+8413,8399,ini kayaknya xamarin.android. bukan xamarin. forms,Albilaga,Pradana,albilaga,0,28,8,2020,7,46,28
+8414,8407,object emang gak punya property IsVisible. Itu langssung dari samplenya?,Albilaga,Pradana,albilaga,0,28,8,2020,7,46,57
+8415,8411,"Set Grid.ColumnDefinitions ke *,*,*\nn juga tab 2 Grid.Column harusnya 1\ntab 3 Grid.Column harusnya 2\n\nGrid.Column itu starting indexnya dari 0",Albilaga,Pradana,albilaga,0,28,8,2020,7,48,24
+8416,8412,wah gak pernah kalo ini. tergantung sdk dari thermal printernya si ini,Albilaga,Pradana,albilaga,0,28,8,2020,7,48,41
+8417,0,gini kah,Asep,Wahyudi,bekantan,0,28,8,2020,7,59,51
+8418,0,"<Grid.RowDefinitions>\n                    <RowDefinition Height=""Auto"" />\n                </Grid.RowDefinitions>\n\n                <Grid.ColumnDefinitions>\n                    <ColumnDefinition Width=""*"" />\n                    <ColumnDefinition Width=""*"" />\n                </Grid.ColumnDefinitions>",Asep,Wahyudi,bekantan,0,28,8,2020,7,59,52
+8419,8418,"gitu bisa.\n\n<Grid ColumnDefinitions=""*,*"">\n....\n</Grid>\n\njuga bisa. yg ini lebih simpler. bisa mulai dari xam.forms 4.7 kalo gak salah",Albilaga,Pradana,albilaga,0,28,8,2020,8,17,1
+8420,0,mas @albilaga,Asep,Wahyudi,bekantan,0,28,8,2020,9,18,26
+8421,0,saya sudah buat,Asep,Wahyudi,bekantan,0,28,8,2020,9,18,32
+8422,0,,Asep,Wahyudi,bekantan,0,28,8,2020,9,18,34
+8423,0,"tadi saya cek garis"" merah nya pindah apa ga...pas balik lagi ke kolom 1 dia ga bisa di click kenapa ya?",Asep,Wahyudi,bekantan,0,28,8,2020,9,19,38
+8424,8422,logicnya gmn?,Albilaga,Pradana,albilaga,0,28,8,2020,9,38,48
+8425,0,https://pastebin.com/uMHMMLNN,Asep,Wahyudi,bekantan,0,28,8,2020,9,47,11
+8426,0,https://pastebin.com/AKySB5H0,Asep,Wahyudi,bekantan,0,28,8,2020,9,47,55
+8427,0,"kira"" apanya yang mas @albilaga",Asep,Wahyudi,bekantan,0,28,8,2020,11,30,34
+8430,8423,gak bisa diklik ini contohnya kayak gmn? eventnya ketrigger?,Albilaga,Pradana,albilaga,0,28,8,2020,15,0,16
+8431,0,iya pas pindah ke tab 2 dan 3 bisa..tp pas balik lg ke tab 1 dia ga bisa..padahal skrip nya sama,Asep,Wahyudi,bekantan,0,28,8,2020,16,13,9
+8432,8431,uda coba dipasang breakpoint? ngehit ke `Tab1Clicked` gak?,Albilaga,Pradana,albilaga,0,28,8,2020,16,17,16
+8435,0,apa itu breakpoint mas @albilaga,Asep,Wahyudi,bekantan,0,28,8,2020,20,27,59
+8436,8435,coba pelajari ini https://www.youtube.com/watch?v=u-HdLtqEOog,Albilaga,Pradana,albilaga,0,29,8,2020,5,55,20
+8437,0,,Asep,Wahyudi,bekantan,0,29,8,2020,13,49,43
+8438,0,emang komuniti ada lisensi nya kah,Asep,Wahyudi,bekantan,0,29,8,2020,13,50,1
+8439,8437,Please sign in to unlock the product.. coba sign in dulu itu mas..,Mohamad,Iqbal,Iqbal0304,0,29,8,2020,14,47,22
+8440,8437,sign in aja. cuma butuh sign in aja ssi,Albilaga,Pradana,albilaga,0,29,8,2020,15,16,53
+8443,0,,Asep,Wahyudi,bekantan,0,30,8,2020,9,35,28
+8444,0,mau tanya @albilaga kenapa ya listview saya tidak muncul,Asep,Wahyudi,bekantan,0,30,8,2020,9,35,34
+8445,0,https://pastebin.com/n9z3YATB,Asep,Wahyudi,bekantan,0,30,8,2020,9,36,9
+8446,8445,Mgeset itemssourcenya gmn?,Albilaga,Pradana,albilaga,0,30,8,2020,10,55,58
+8449,0,mau tanya lagi...hehehe..,Asep,Wahyudi,bekantan,0,30,8,2020,15,17,32
+8450,0,,Asep,Wahyudi,bekantan,0,30,8,2020,15,17,35
+8451,0,itu kan di sorot warna orange..kl mau buat sorot nya fokus ke box gt gimana ya?,Asep,Wahyudi,bekantan,0,30,8,2020,15,18,23
+8454,8450,nggak bisa. itu by default. kalo mau ganti selected warnanya mungkin. btw disarankan yg baru sama xamarin pake collectionview. jangan pake listview lagi,Albilaga,Pradana,albilaga,0,31,8,2020,1,50,42
+8455,8454,kalo mau paling boxnya bisa difullkan terus di collection view pake item spacing,Albilaga,Pradana,albilaga,0,31,8,2020,1,53,59
+8457,0,kl mau highlight warna orange tersebut di rubah gimana kah,Asep,Wahyudi,bekantan,0,31,8,2020,4,10,36
+8458,8456,kalo pake collectionview bisa pake ini https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/collectionview/selection#change-selected-item-color,Albilaga,Pradana,albilaga,0,31,8,2020,5,1,10
+8459,0,,"Silaban,",Benny,SilabanBenny,0,31,8,2020,8,20,37
+8460,0,Berapakh Memory yg dibutuhkan untuk menjalankan Emulator Android? Mohon infonya teman.,"Silaban,",Benny,SilabanBenny,0,31,8,2020,8,21,5
+8461,8459,Itu harddisknya kayaknya yg kurang,Albilaga,Pradana,albilaga,0,31,8,2020,8,26,23
+8462,0,"Masih ada 3GB lebih sih mas,","Silaban,",Benny,SilabanBenny,0,31,8,2020,8,27,23
+8463,0,"kenapa ya setiap buat tampilan..pas di jalankan di hp, tampilannya suka ada yng melenceng dari posisi nya..tidak seperti di emulator..apa karna make margin/padding?",Asep,Wahyudi,bekantan,0,31,8,2020,13,0,1
+8464,8462,Hmm. Kayaknya terlalu ngepress. Coba disisain 10gb,Albilaga,Pradana,albilaga,0,31,8,2020,13,2,16
+8465,8463,Bisa jadi ini. Coba arrangenya jangan based margin padding. Coba set grid stacklayout dkkny yg bener,Albilaga,Pradana,albilaga,0,31,8,2020,13,2,59
+8466,8464,Sudah mentok sih memorynya mas.,"Silaban,",Benny,SilabanBenny,0,31,8,2020,13,21,52
+8467,8466,harddisknya maksudnya. itu di situ errornya harddik spacenya,Albilaga,Pradana,albilaga,0,31,8,2020,14,51,31
+8468,0,mau tanya kl background warna nya ingin di gradiasi gimana ya,Asep,Wahyudi,bekantan,0,31,8,2020,14,57,38
+8469,8468,https://devblogs.microsoft.com/xamarin/xamarinforms-4-8-gradients-brushes/,Albilaga,Pradana,albilaga,0,31,8,2020,15,6,41
+8470,8469,trimakasi mas @albilaga sudah bisa sekarang,Asep,Wahyudi,bekantan,0,31,8,2020,16,27,21
+8472,0,kl mau buat table seperti ini gimana ya?,Asep,Wahyudi,bekantan,0,31,8,2020,17,52,41
+8473,0,,Asep,Wahyudi,bekantan,0,31,8,2020,17,52,42
+8475,8473,By default gak ada. Bisa pake grid utk ini,Albilaga,Pradana,albilaga,0,1,9,2020,2,30,53
+8476,0,saya coba make grid..cuman tp kok pas text nya banyak ga bisa wrap text ya mas @albilaga,Asep,Wahyudi,bekantan,0,1,9,2020,3,25,6
+8477,8476,Set gridnya gmn? Pastiin pake roe definition height nya ke auto,Albilaga,Pradana,albilaga,0,1,9,2020,3,51,50
+8478,0,ooo jadi harus ke auto ya,Asep,Wahyudi,bekantan,0,1,9,2020,8,2,22
+8479,0,tetap mas @albilaga masi ga bisa...text nya jadi kepotong,Asep,Wahyudi,bekantan,0,1,9,2020,8,12,45
+8480,0,ga wrap text,Asep,Wahyudi,bekantan,0,1,9,2020,8,12,54
+8481,0,Coba dengan gambar mas,Ahmad,Anan Rafsanjani,SebelahKanan,0,1,9,2020,8,29,44
+8482,8481,maksudnya,Asep,Wahyudi,bekantan,0,1,9,2020,8,37,43
+8483,0,"Maksudnya kepotong gimana, terus codenya yg udah pakai grid gimana",Ahmad,Anan Rafsanjani,SebelahKanan,0,1,9,2020,8,43,14
+8484,8479,codenya dishare coba,Albilaga,Pradana,albilaga,0,1,9,2020,11,49,35
+8485,0,,"Silaban,",Benny,SilabanBenny,0,1,9,2020,15,25,56
+8486,0,"Mohon bantuannya mas-mas, waktu saya Get Employee, debuggingnya hanya sampai Line 30. Itu kenapa ya, sementara Api nya sudah jalan.","Silaban,",Benny,SilabanBenny,0,1,9,2020,15,26,50
+8487,0,,"Silaban,",Benny,SilabanBenny,0,1,9,2020,15,27,37
+8488,0,"Startup Api nya seperti ini, apakah ada yg masih kurang Service nya? Mohon infonya mas-mas...","Silaban,",Benny,SilabanBenny,0,1,9,2020,15,28,6
+8489,0,,Asep,Wahyudi,bekantan,0,2,9,2020,3,52,2
+8490,0,kl mau buat border nya gimana ya mas @albilaga,Asep,Wahyudi,bekantan,0,2,9,2020,3,52,23
+8491,0,https://pastebin.com/hR1icfjw,Asep,Wahyudi,bekantan,0,2,9,2020,3,53,33
+8492,8490,Border bisa ditambahin frame di dalamnya,Albilaga,Pradana,albilaga,0,2,9,2020,4,8,21
+8493,8487,Ini velum ditambahin base addressnya? Errornya apa?,Albilaga,Pradana,albilaga,0,2,9,2020,4,8,46
+8494,0,,"Silaban,",Benny,SilabanBenny,0,2,9,2020,4,10,50
+8495,0,"View Debuggingnya ini mas,","Silaban,",Benny,SilabanBenny,0,2,9,2020,4,11,0
+8496,8493,Tidak ada errornya mas.,"Silaban,",Benny,SilabanBenny,0,2,9,2020,4,11,20
+8497,8492,"sudah saya kasi <Frame  Padding=""0"" BorderColor=""Black""> tp ga muncul border nya",Asep,Wahyudi,bekantan,0,2,9,2020,4,12,42
+8498,8497,Di frame ada BorderWidth kalo gak salah. Coba set 1 nilainya,Albilaga,Pradana,albilaga,0,2,9,2020,4,13,13
+8499,0,ga ada mas,Asep,Wahyudi,bekantan,0,2,9,2020,4,17,26
+8500,8497,Lupa euy. Paddingnya jangan set 0 coba,Albilaga,Pradana,albilaga,0,2,9,2020,4,27,56
+8501,8496,Kalo gak ada errornya terus tau gak lanjut ke line 31 gmn?,Albilaga,Pradana,albilaga,0,2,9,2020,4,28,20
+8502,8501,Kondisinya seperti tidak dapat data dari Api nya mas. Karena Empty tidak lanjut ke Line 31.,"Silaban,",Benny,SilabanBenny,0,2,9,2020,4,29,35
+8503,8502,Berarti ada exception? Kalo empty pun harusnya tetep lanjut line 31. Coba di try catch dulu,Albilaga,Pradana,albilaga,0,2,9,2020,4,30,16
+8504,0,"ok mas, saya coba dulu,","Silaban,",Benny,SilabanBenny,0,2,9,2020,4,30,43
+8515,0,#ask\nmau tanya ada referensi ga buat absensi menggunakan sidik jari dan verifikasi wajah ?,Asep,Wahyudi,bekantan,0,5,9,2020,16,3,48
+8522,0,"mau tanya kk..gimana cara buat login, jd saat masukin user name dan pass..ada session nya gitu, jd selama session nya belum habis dan belum logout user masi bisa masuk aplikasi..dan data username terbawa disession..terus saat login, aplikasi nya ambil lokasi kita lg dimana..",No,Name,,0,8,9,2020,9,35,49
+8523,0,"Kalau lgsg ambil Lokasi, bukannya harus nyalakan Service Locationnya dulu?","Silaban,",Benny,SilabanBenny,0,8,9,2020,9,49,42
+8524,8515,gak pernah pake. pake sdk apa?,Albilaga,Pradana,albilaga,0,8,9,2020,9,50,14
+8525,8522,kalau ambil lokasi pake location service. bisa coba pake ini https://docs.microsoft.com/en-us/xamarin/essentials/geolocation?context=xamarin%2Fxamarin-forms&tabs=android\nkalo session ya ini tektokan dg backend. pake token yg bisa expired,Albilaga,Pradana,albilaga,0,8,9,2020,9,51,15
+8528,0,"kl misalakan ga pake token gimana..buat parsing"" data..kan kl di web make session..kl di xamarin sendiri gimana ?",No,Name,,0,9,9,2020,7,39,8
+8529,8528,owh maksudnya nyimpen sessionnya. bisa disimpen di securestorage https://docs.microsoft.com/en-us/xamarin/essentials/secure-storage,Albilaga,Pradana,albilaga,0,9,9,2020,7,49,52
+8532,0,mau tanya,Asep,Wahyudi,bekantan,0,10,9,2020,3,19,13
+8533,0,kl mau nampilkan hasil dari get api menggunakan restsharp gimana ya,Asep,Wahyudi,bekantan,0,10,9,2020,3,19,39
+8534,0,"var request = new RestRequest(Method.POST);\n                        request.AddHeader(""Content-Type"", ""application/x-www-form-urlencoded"");\n                        request.AddParameter(""usn"", Username.Text);\n                        request.AddParameter(""pwd"", Password.Text);\n                        request.AddParameter(""ipAdd"", ipAdd);\n                        request.AddParameter(""nmHost"", nmHost);\n                        request.AddParameter(""tkn"", tkn);\n\n                        IRestResponse<LoginReturn> response = client.Execute<LoginReturn>(request);\n\n                        await DisplayAlert(""Alert"", ""Hasil Respon "" + response, ""Ok"");",Asep,Wahyudi,bekantan,0,10,9,2020,3,19,49
+8535,8534,Method nya ganti GET ?,Albilaga,Pradana,albilaga,0,10,9,2020,3,44,31
+8536,0,kl dia get dia ga mau muncul di postman,Asep,Wahyudi,bekantan,0,10,9,2020,3,49,28
+8539,8536,Maksudnya gmn? Ini http verbnya API GET atau gmn? Kalo get response bukannya itu uda dapet responsenya ya?,Albilaga,Pradana,albilaga,0,10,9,2020,4,20,22
+8540,0,ini API POST kang...,Asep,Wahyudi,bekantan,0,10,9,2020,4,22,10
+8541,0,kl code  IRestResponse<LoginReturn> response = client.Execute<LoginReturn>(request); \n\nmaksudnya dia menampung data nya kan ya?,Asep,Wahyudi,bekantan,0,10,9,2020,4,23,42
+8542,8541,Iya. Data kembaliannya. Terus yg mau diambil apa?,Albilaga,Pradana,albilaga,0,10,9,2020,4,30,14
+8543,0,yang mau di ambil datanya kang..,Asep,Wahyudi,bekantan,0,10,9,2020,4,31,52
+8544,0,jadi mau liat data kembalian nya itu sudah benar apa belum...,Asep,Wahyudi,bekantan,0,10,9,2020,4,32,51
+8545,8543,Coba dibaca docsnya https://restsharp.dev/getting-started/getting-started.html#content-type,Albilaga,Pradana,albilaga,0,10,9,2020,4,33,3
+8548,8528,Coba pake monkey-cache...,Aji,Kusbandono,Ajikusbandono,0,10,9,2020,5,22,36
+8549,0,,Asep,Wahyudi,bekantan,0,10,9,2020,10,8,55
+8550,8549,maksdnya gimana ya,Asep,Wahyudi,bekantan,0,10,9,2020,10,9,9
+8551,0,,Asep,Wahyudi,bekantan,0,10,9,2020,10,9,58
+8552,8551,"kira"" ada yang salah ?\nsaya liat refrensi dari https://www.toolsqa.com/rest/deserialize-json-response-2/",Asep,Wahyudi,bekantan,0,10,9,2020,10,10,22
+8553,8469,"Apakah ini hanya berlaku untuk Xamarin.Forms 4.8?\nSaya coba ko Error di isinya <Frame.BackgroundColor>, tidak dikenali <LinearGradientBrush> nya ini.","Silaban,",Benny,SilabanBenny,0,10,9,2020,10,15,1
+8554,8553,Iyap,Albilaga,Pradana,albilaga,0,10,9,2020,10,30,3
+8555,8551,Tadi uda bener kok loginreturn langsung bisa diakses pake response.content kan?,Albilaga,Pradana,albilaga,0,10,9,2020,10,47,1
+8556,0,iya kl make response.content muncul,Asep,Wahyudi,bekantan,0,10,9,2020,10,52,12
+8557,0,di console nya,Asep,Wahyudi,bekantan,0,10,9,2020,10,52,18
+8558,0,"[{""NAMA"":""YUDI CATUR"",""JABATAN"":""STAFF""}]",Asep,Wahyudi,bekantan,0,10,9,2020,10,52,20
+8559,0,terus kl mau ambil datanya nya sendiri gimana kang...seperti saya mau ambil NAMA ?,Asep,Wahyudi,bekantan,0,10,9,2020,10,53,55
+8560,0,restsharp sama refit sama aja ga sih kang..?,Asep,Wahyudi,bekantan,0,10,9,2020,12,7,59
+8561,8560,Sama aja,Albilaga,Pradana,albilaga,0,10,9,2020,23,42,25
+8562,8558,Ini datanya array,Albilaga,Pradana,albilaga,0,10,9,2020,23,42,52
+8563,8541,Bisa pake ini. Client.Execute<LoginReturn[]>(request),Albilaga,Pradana,albilaga,0,10,9,2020,23,43,32
+8564,0,Nanti ambil datanya tinggal response.Content[0].Nama,Albilaga,Pradana,albilaga,0,10,9,2020,23,43,59
+8565,8558,"ini Json Array, beda ambilnya sama Json tanpa array\n\n[{ }] -> json Array\n{ } -> json tanpa array\n\nCmiiw",Aji,Kusbandono,Ajikusbandono,0,11,9,2020,0,48,19
+8566,8548,apa itu monkey-cache ?,No,Name,,0,11,9,2020,5,9,11
+8567,0,dibrowsing aja bang tanpa nama :D,Aji,Kusbandono,Ajikusbandono,0,11,9,2020,6,0,25
+8571,0,kang @albilaga trimakasi...\nternyata Xamarin.Essentials: Secure Storage seperti session(kl di web)...,Asep,Wahyudi,bekantan,0,12,9,2020,4,46,35
+8572,0,mulai sedikit paham hehehe..maaf kl banyak tanya,Asep,Wahyudi,bekantan,0,12,9,2020,4,47,15
+8573,8571,Sip2. Sama2 👍,Albilaga,Pradana,albilaga,0,12,9,2020,5,53,23
+8580,0,"mau tanya , gimana cara nya buat search list ?",Asep,Wahyudi,bekantan,0,13,9,2020,4,10,41
+8582,0,"saya sudah buat nampilin list dengan ambil dari API,, tapi kok aneh ya listnya ga mau kescroll",Asep,Wahyudi,bekantan,0,13,9,2020,4,14,15
+8583,8582,gmn bikin listnya?,Albilaga,Pradana,albilaga,0,13,9,2020,5,0,14
+8584,8580,searchable list bisa pake binding kalo search textnya berubah list itemnya diubah,Albilaga,Pradana,albilaga,0,13,9,2020,5,0,31
+8585,0,,Asep,Wahyudi,bekantan,0,13,9,2020,5,52,21
+8586,0,,Asep,Wahyudi,bekantan,0,13,9,2020,5,54,37
+8589,0,Binding search nya gimana?,Ahmad,Anan Rafsanjani,SebelahKanan,0,13,9,2020,11,49,25
+8590,0,mau tanya kl di web kan ada namanya select2 ...kl di xamarin gimana ya?,Asep,Wahyudi,bekantan,0,13,9,2020,12,26,50
+8591,8585,ini gak bisa scroll? coba share aja seluruh xamlnya gmn.,Albilaga,Pradana,albilaga,0,13,9,2020,14,31,54
+8592,8590,select gimana? Dropdown maksudny kah?,Albilaga,Pradana,albilaga,0,13,9,2020,14,32,13
+8593,0,iya dropdwon,Asep,Wahyudi,bekantan,0,13,9,2020,20,54,32
+8596,8593,Dropdown di xamarin forms bisa pake picker,Albilaga,Pradana,albilaga,0,14,9,2020,2,8,57
+8597,0,picker?,Asep,Wahyudi,bekantan,0,14,9,2020,2,11,52
+8598,0,saya dapat contoh nya seperti ini,Asep,Wahyudi,bekantan,0,14,9,2020,2,13,24
+8599,0,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/shell/search,Asep,Wahyudi,bekantan,0,14,9,2020,2,13,24
+8600,8599,Ini mau nyari dropdown atau search? Kalo itu search baru. Kalo dropdown di xamarin forms itu picker,Albilaga,Pradana,albilaga,0,14,9,2020,2,15,1
+8601,0,dropdown yang ada search nya mas...kaya select2 gt kl di web,Asep,Wahyudi,bekantan,0,14,9,2020,2,17,28
+8602,8601,Select juga gak ada search by defaultnya di web. Kalo mau implement kayak gitu implement sendiri. Ocba cari aja autocomplete,Albilaga,Pradana,albilaga,0,14,9,2020,2,51,9
+8603,0,saya ada API untuk ambil gambar,Asep,Wahyudi,bekantan,0,14,9,2020,7,2,35
+8605,0,"kira"" untuk nampilkan nya seperti apa ya kl di xamarin ?",Asep,Wahyudi,bekantan,0,14,9,2020,7,2,56
+8606,0,vs 2019 apa bisa di jalanin ke vs 2017,Asep,Wahyudi,bekantan,0,14,9,2020,8,59,38
+8607,0,"permisi gan mau tanya,saya coba request data lewat HttpWebRequest,terus pake GetRequestStream,yg anehnya pas saya request di fungsi pertama,kedua,ketiga,lancar tuh,pas ke empat stuck gitu pas di GetRequestStream,tapi kalo di pindahin fungsi ke empat nya jadi yg pertama bisa,jadi kaya engga bisa lebih dari 3 gitu GetRequestStream,ada yg pernah ngalamin hal yg sama? saya pake di visual studio 2019,kalo pake di 2017 lancar jaya",Ilyas,Pradana,PradanaIlyas,0,14,9,2020,9,12,56
+8608,0,"jadi saya punya fungsi gini kira""\nGetSatu();\nGetDua();\nGetTiga();\nGetEmpat();\n\npas GetEmpat itu stuck,tapi kalo urutanya di rubah jadi \n\nGetEmpat();\nGetDua();\nGetTiga();\nGetSatu();\n\nyg stuck malah yang GetSatu",Ilyas,Pradana,PradanaIlyas,0,14,9,2020,9,15,9
+8609,0,mungkin ada yg pernah ngalamin kah di vs 2019?,Ilyas,Pradana,PradanaIlyas,0,14,9,2020,9,15,9
+8610,8604,Pake apa aja bisa. Httpclient atau restsharp bisa. Pas returnnya kembaliinya jadi byte[],Albilaga,Pradana,albilaga,0,14,9,2020,9,56,49
+8611,8608,Ini uda didispose httpwebrequestnya tiap kali selesai request?,Albilaga,Pradana,albilaga,0,14,9,2020,10,0,49
+8612,8611,"ok mas,udah bisa,hehe",Ilyas,Pradana,PradanaIlyas,0,14,9,2020,10,36,15
+8613,0,terima masih banyak mas,Ilyas,Pradana,PradanaIlyas,0,14,9,2020,10,36,21
+8614,0,vs 2017 emang lelet ya di banding kan dengan vs 2019\n..,No,Name,,0,14,9,2020,11,20,41
+8615,0,,Asep,Wahyudi,bekantan,0,14,9,2020,14,34,49
+8616,0,"kira"" kenapa ya?",Asep,Wahyudi,bekantan,0,14,9,2020,14,34,53
+8617,8614,uda lam gak make vs 2017 jadi gak bisa compare. hahaha,Albilaga,Pradana,albilaga,0,14,9,2020,14,51,11
+8618,8615,inet lancar? aku selalu pake android device managernya dari android studio. wkwkw,Albilaga,Pradana,albilaga,0,14,9,2020,14,51,32
+8619,0,"inet sih lancar, make 2019 mah ga masalah..eh ini ganti ke 2017 jadi ga bisa..",Asep,Wahyudi,bekantan,0,14,9,2020,14,53,16
+8620,8619,ada alasan knp ganti ke vs 2017?,Albilaga,Pradana,albilaga,0,14,9,2020,16,6,54
+8622,0,kawan saya make 2017 jadi saya harus ikut 2017,Asep,Wahyudi,bekantan,0,14,9,2020,22,14,41
+8623,8622,hmm... disuruh upgrade aja temennya. wkwkkw,Albilaga,Pradana,albilaga,0,15,9,2020,4,11,13
+8624,0,hahaha berarti ga bisa ya....,Asep,Wahyudi,bekantan,0,15,9,2020,5,16,59
+8626,8624,nggak tau si. uda lama gak pake vs 2017,Albilaga,Pradana,albilaga,0,15,9,2020,7,34,22
+8627,8615,kl kaya gini kenapa ya kang ?,Asep,Wahyudi,bekantan,0,15,9,2020,7,35,24
+8628,0,"dari kemarin cari di mbah google belum dapat"" caranya",Asep,Wahyudi,bekantan,0,15,9,2020,8,44,3
+8629,0,ada error base.oncreate(savedinstancestate) xamarin error,Asep,Wahyudi,bekantan,0,15,9,2020,8,44,3
+8631,8629,Stacktracenya apa?,Albilaga,Pradana,albilaga,0,15,9,2020,9,9,46
+8632,8627,Ini kurang tau si,Albilaga,Pradana,albilaga,0,15,9,2020,9,9,58
+8634,0,mau tanya kl misalkan kita sudah beli lisensi nya 2017 terus upgrade jd 2019 apakah beli lisensi lg ya,Asep,Wahyudi,bekantan,0,15,9,2020,13,14,2
+8635,8634,lisensinya msdn bukannya bulanan/tahunan ya? harusnya itu bisa dipake di vs 2019\ntapi kalo gak beli license bisa pake community juga si,Albilaga,Pradana,albilaga,0,15,9,2020,16,3,23
+8636,0,kang @al,Asep,Wahyudi,bekantan,0,16,9,2020,4,47,47
+8637,0,"kang @albilaga kira"" ada yang salah kah dari listview saya ...kok ga muncul ya data nya",Asep,Wahyudi,bekantan,0,16,9,2020,4,48,10
+8638,0,https://pastebin.com/VTtGHCVg,Asep,Wahyudi,bekantan,0,16,9,2020,4,52,16
+8639,8638,Kena exception gak?,Albilaga,Pradana,albilaga,0,16,9,2020,4,56,56
+8640,0,"jangan get datanya di constructor mas, kalau perlu hindari async void",Ahmad,Anan Rafsanjani,SebelahKanan,0,16,9,2020,5,1,7
+8641,0,https://stackoverflow.com/questions/34911741/xamarin-forms-populate-data-async-on-create,Ahmad,Anan Rafsanjani,SebelahKanan,0,16,9,2020,5,1,12
+8642,0,"biasanya kalo saya task nya (get data) di lakukan di OnAppearing, tapi better kalo pake mvvm di bind di viewmodel mas",Ahmad,Anan Rafsanjani,SebelahKanan,0,16,9,2020,5,3,26
+8643,8639,ga ada kang,Asep,Wahyudi,bekantan,0,16,9,2020,5,9,6
+8644,8640,ga make async,Asep,Wahyudi,bekantan,0,16,9,2020,5,9,49
+8645,0,aneh banget :\nkl proses nya seperti ini dia bisa\n\nvar response = client.Execute(request);\n\n  var result = JsonConvert.DeserializeObject<List<NeedProgress>>(response.Content);\n\n   ListNeedProgress.ItemsSource = result;\n\ntp ga bisa di scroll listview nya..bukannya listview itu ga usah make tag scroll lagi,Asep,Wahyudi,bekantan,0,16,9,2020,5,18,8
+8646,0,ini xaml nya saya :,Asep,Wahyudi,bekantan,0,16,9,2020,5,27,37
+8647,0,https://pastebin.com/vc67MQ9P,Asep,Wahyudi,bekantan,0,16,9,2020,5,27,37
+8648,0,"kira"" salah darimana ya ?",Asep,Wahyudi,bekantan,0,16,9,2020,7,9,37
+8649,8644,Kalo gak make async ini codenya blocking. Jadinya ui nya gak bisa diapa2in kalo belum selesai panggil datanya,Albilaga,Pradana,albilaga,0,16,9,2020,10,30,8
+8650,8638,Ini jelas gak muncul itemsnya. Harusnya resultnya di set dulu ke NeedProgress baru set ItemsSourcenya ke NeedProgress,Albilaga,Pradana,albilaga,0,16,9,2020,10,32,24
+8651,8645,Ini bisa krn ya set items sourcenya ke result,Albilaga,Pradana,albilaga,0,16,9,2020,10,34,3
+8652,8645,Listview emang gak perlu scrolll lagi tapi susah liat dari HP. Nanti tak cek lagi😅,Albilaga,Pradana,albilaga,0,16,9,2020,10,34,50
+8657,0,"bagaimana caranya buat ambil nilai yang ada di listview..ketika di klik isi listview kita ambil nilai nya, terus nantinya pindah ke page detail",Asep,Wahyudi,bekantan,0,16,9,2020,21,4,16
+8661,8657,"Selected Item mas,","Silaban,",Benny,SilabanBenny,0,17,9,2020,3,47,46
+8662,8657,Bisa pake selecteditem kalp pake binding atau pake selecteditemchanged kalo pake event,Albilaga,Pradana,albilaga,0,17,9,2020,4,50,14
+8663,0,sudah bisa ...,Asep,Wahyudi,bekantan,0,17,9,2020,7,27,29
+8664,0,kang @Albilaga kl mau buat autocomplate gimana ya?,Asep,Wahyudi,bekantan,0,17,9,2020,7,27,51
+8665,8664,by default ini gak ada di xamarin forms. bisa bikin sendiri. detect text changed. tiap kali text berubah panggil api terus tampilin list autocompletenya,Albilaga,Pradana,albilaga,0,17,9,2020,7,42,31
+8666,0,ada refensi nya kah? masi belum kebayang,Asep,Wahyudi,bekantan,0,17,9,2020,8,18,5
+8669,8666,pake ini aja kalo gak mau ribet https://www.syncfusion.com/xamarin-ui-controls/xamarin-autocomplete,Albilaga,Pradana,albilaga,0,17,9,2020,15,7,33
+8670,0,bayar itu mah..,Asep,Wahyudi,bekantan,0,17,9,2020,16,2,21
+8671,0,saya sudah bisa,Asep,Wahyudi,bekantan,0,17,9,2020,16,3,18
+8672,0,dapat dari https://www.youtube.com/watch?v=nFYwvZnDrcY,Asep,Wahyudi,bekantan,0,17,9,2020,16,3,24
+8673,0,tapi bingung ambil data dari listview nya...hahaha \nbuat tampilin di searchbox nya setelah di pilih dari listview...\n\nmake ItemTapped tp gtw lagi hahaha,Asep,Wahyudi,bekantan,0,17,9,2020,16,4,20
+8677,8670,ada community license yg bisa dipake gratis https://www.syncfusion.com/products/communitylicense,Albilaga,Pradana,albilaga,0,17,9,2020,16,43,41
+8706,0,mau tanya..caranya nampilin file di xamarin gimana ya caranya?,Asep,Wahyudi,bekantan,0,21,9,2020,7,8,55
+8708,8706,filenya apa dulu ni? tiap file beda2...,Albilaga,Pradana,albilaga,0,21,9,2020,7,28,18
+8709,0,"ada pdf, doc excel atau image",Asep,Wahyudi,bekantan,0,21,9,2020,7,39,18
+8710,8709,"ini mau nampilin gmn?\ncek dulu kalo ekstensinya .pdf paling gampang buka webview terus tampilin pdfnya\nkalo extensinya image (.png, .jpg dkk) tampilin pake image view\nkalo .docx sama .xlsx ini gak tau. krn ini ekstensi milik microsoft mungkin bisa cari sendiri. tapi ya bakalan banyak di sini si kayaknya",Albilaga,Pradana,albilaga,0,21,9,2020,7,42,41
+8711,0,"jadi nanti table...nah nanti ada pilihan di kolom action  edit, delete, dan view file gt...nah pas di klik view file( itu type nya entr pdf, doc dll) di buka di page preview file",Asep,Wahyudi,bekantan,0,21,9,2020,7,54,25
+8712,8711,iya kayak di atas. preview word sama excel yg gak tau. mungkin ada libnya mungkin nggak. bisa dicari sendiri. kalo ada biasanya berbayar si 😂,Albilaga,Pradana,albilaga,0,21,9,2020,8,38,47
+8714,0,wkwkwk,Asep,Wahyudi,bekantan,0,21,9,2020,9,32,6
+8715,0,bisa minta refensi nya ga mas,Asep,Wahyudi,bekantan,0,21,9,2020,13,13,55
+8716,8715,Nggak pernah bikin yg preview excel sama word jadi gak tau juga,Albilaga,Pradana,albilaga,0,21,9,2020,13,23,46
+8717,8715,Ini ada tapi ya berbayar itu https://www.pdftron.com/blog/ms-office-sdk/office-viewer-xamarin/ belum nemu yg free,Albilaga,Pradana,albilaga,0,21,9,2020,13,28,17
+8718,0,Eh ini ada syncfusion. Dicoba aja https://help.syncfusion.com/file-formats/docio/create-word-document-in-xamarin,Albilaga,Pradana,albilaga,0,21,9,2020,13,28,34
+8722,0,mat sore.. mo tanya utk passing parameter dr child ke parent di xamarin bagaimana? Saya menggunakan konsep mvvm,Andy,Thomas,Hotcold78,0,22,9,2020,7,33,29
+8723,0,Mohon petunjuk dari para sesepuh,Andy,Thomas,Hotcold78,0,22,9,2020,7,33,49
+8724,8722,jadi ini dari child view ke parent view? maunya gmn emang? paling gampang pake messaging center. tapi sebenernya harus dicek dulu knp butuh kayak gini,Albilaga,Pradana,albilaga,0,22,9,2020,7,54,46
+8725,0,Thka.. sudah berhasil.. pakai messagingcenter.. kebutuhan utk send hasil scan pemilihan bluetooth to parent..,Andy,Thomas,Hotcold78,0,22,9,2020,9,4,13
+8726,8725,iya ini bisa. tapi lebih pake binding. kalo listview misal kayak pake selecteditem. kalo custom control bikin bindable object selected item juga nanti dia notify bahwa objek ini terupdate,Albilaga,Pradana,albilaga,0,22,9,2020,9,8,16
+8727,0,okay makasih kaka...,Andy,Thomas,Hotcold78,0,22,9,2020,9,14,52
+8728,0,👍👍👍,Andy,Thomas,Hotcold78,0,22,9,2020,9,15,0
+8729,8727,sip. sama2,Albilaga,Pradana,albilaga,0,22,9,2020,9,22,10
+8730,0,,Asep,Wahyudi,bekantan,0,22,9,2020,15,27,2
+8731,8730,mau tanya ini kenapa ya,Asep,Wahyudi,bekantan,0,22,9,2020,15,27,12
+8732,8730,di rebuild gak ilang?,Albilaga,Pradana,albilaga,0,22,9,2020,16,23,9
+8733,0,tetep muncul,Asep,Wahyudi,bekantan,0,22,9,2020,16,28,41
+8734,0,Hi,,,,0,22,9,2020,18,16,22
+8742,8718,ini bayar ga kang @albilaga,Asep,Wahyudi,bekantan,0,23,9,2020,16,44,28
+8743,8742,Ada community license. Dibaca aja community licensenya,Albilaga,Pradana,albilaga,0,23,9,2020,17,42,38
+8745,0,mas @albilaga kl yg preview pdf itu gimana mas?,Asep,Wahyudi,bekantan,0,24,9,2020,6,16,6
+8746,8745,syncfusion juga ada kan? https://devblogs.microsoft.com/xamarin/xamarin-forms-apps-syncfusion-pdf-viewer/,Albilaga,Pradana,albilaga,0,24,9,2020,6,24,0
+8748,0,Mohon izin bergabung 🙏,Setyaadi,Kurnia,Adi_setya,0,24,9,2020,14,1,48
+8754,0,kang @albilaga kl misalkan saya ada api yg buat ambil file tp api tersebut hasil dari encode base64..terus mau di buka file tersebut di luar app..,Asep,Wahyudi,bekantan,0,25,9,2020,8,48,22
+8755,0,itu gimana ya caranya,Asep,Wahyudi,bekantan,0,25,9,2020,8,48,30
+8756,0,kaya gini,Asep,Wahyudi,bekantan,0,25,9,2020,8,50,5
+8757,8756,https://docs.microsoft.com/en-us/xamarin/essentials/launcher?tabs=android,Albilaga,Pradana,albilaga,0,25,9,2020,10,10,27
+8758,0,berarti hasil decodebase64 di masukin ya,Asep,Wahyudi,bekantan,0,25,9,2020,10,54,36
+8759,8758,Iyap,Albilaga,Pradana,albilaga,0,25,9,2020,10,56,56
+8760,0,ok siap tak coba kang...lebih bagus gini ya ga ribet..,Asep,Wahyudi,bekantan,0,25,9,2020,11,35,32
+8761,0,biar aplikasi lain yg buka file nya,Asep,Wahyudi,bekantan,0,25,9,2020,11,35,55
+8767,0,"kira"" ada yang salahkan dari koding ini",Asep,Wahyudi,bekantan,0,26,9,2020,21,30,4
+8768,0,,Asep,Wahyudi,bekantan,0,26,9,2020,21,30,5
+8769,0,"kang @albilaga  kira"" salah nya dimana ya",Asep,Wahyudi,bekantan,0,27,9,2020,3,52,28
+8770,8769,Ini kenapa memangnya?,Albilaga,Pradana,albilaga,0,27,9,2020,5,3,16
+8771,0,g bs kang,Asep,Wahyudi,bekantan,0,27,9,2020,7,35,34
+8772,8771,Gak bisanya kenapa? Error kah? Ada exception kah? Atau kodenya gak kepanggil kah? Coba dipasang breakpoint itu kodenya kepanggil gak? Diliat dari codelensnya itu 0 usage berarti gak ada yg make codenya,Albilaga,Pradana,albilaga,0,27,9,2020,7,46,48
+8773,0,,Asep,Wahyudi,bekantan,0,27,9,2020,9,25,27
+8774,0,"error nya kenapa ya kira"" sudah benarkah code nya?",Asep,Wahyudi,bekantan,0,27,9,2020,9,25,48
+8775,0,,Asep,Wahyudi,bekantan,0,27,9,2020,11,50,45
+8776,0,ga bisa ya langsung gini,Asep,Wahyudi,bekantan,0,27,9,2020,11,50,46
+8777,8775,Di docnya ada kan gmn caranya open file? Coba dibaca dulu,Albilaga,Pradana,albilaga,0,27,9,2020,12,5,31
+8778,0,saya coba kaya gini kang,Asep,Wahyudi,bekantan,0,27,9,2020,12,55,48
+8779,0,,Asep,Wahyudi,bekantan,0,27,9,2020,12,55,53
+8780,0,Ada char illegal di param path.combine,Setyaadi,Kurnia,Adi_setya,0,27,9,2020,13,17,44
+8781,0,Ilegal char bisa di cek pakai  method GetInvalidPathChars(),Setyaadi,Kurnia,Adi_setya,0,27,9,2020,13,18,27
+8782,0,itu biasa nya kenapa,Asep,Wahyudi,bekantan,0,27,9,2020,14,1,21
+8783,0,String param nya invalid,Setyaadi,Kurnia,Adi_setya,0,27,9,2020,14,7,29
+8784,0,Coba cek lagi decoded string nya,Setyaadi,Kurnia,Adi_setya,0,27,9,2020,14,7,51
+8785,0,oo di decoded nya ok siap,Asep,Wahyudi,bekantan,0,27,9,2020,14,14,45
+8786,0,"tp kira"" code nya sudah bener kah?",Asep,Wahyudi,bekantan,0,27,9,2020,15,21,10
+8787,0,"Bca doc nya, nanti ketauan exception nya apa aja",Setyaadi,Kurnia,Adi_setya,0,27,9,2020,15,35,18
+8795,0,"mau tanya dari code Path.Combine(mypath, decoded)\n\nmypath tersebut tu root yang kita tentukan kah?",Asep,Wahyudi,bekantan,0,28,9,2020,2,44,24
+8796,0,"mau di taruh dimana, gt kah",Asep,Wahyudi,bekantan,0,28,9,2020,2,44,34
+8797,0,Basically itu join 2 string path,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,2,51,53
+8799,0,Dan return nya pun string,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,2,54,31
+8800,0,"Sma kyak string1 + string2, cuman dia punya exception kalo string nya contain invalid char / null",Setyaadi,Kurnia,Adi_setya,0,28,9,2020,2,56,8
+8801,0,"tp kenapa ilegal character terus ya..saya baca"" karna format string nya tidak sesuai",Asep,Wahyudi,bekantan,0,28,9,2020,3,1,49
+8802,0,Iya mkanya ada char yang invalid,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,3,2,20
+8803,8781,Ini,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,3,2,35
+8804,0,"Implement method itu, taro break point, run debuger, terus cek decoded string, nanti ketemu char apa yang invalid",Setyaadi,Kurnia,Adi_setya,0,28,9,2020,3,4,24
+8807,0,,Asep,Wahyudi,bekantan,0,28,9,2020,3,36,38
+8808,0,gini kah,Asep,Wahyudi,bekantan,0,28,9,2020,3,36,38
+8809,0,value PK ?,Asep,Wahyudi,bekantan,0,28,9,2020,3,41,54
+8810,0,"apa emang ga bisa decode ya...kl saya test \ndecoded = ""Text.txt"";\ndia bisa",Asep,Wahyudi,bekantan,0,28,9,2020,4,25,49
+8812,8804,Ini,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,49,39
+8813,0,Decoded string contain invalid char,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,50,12
+8814,8810,"""Text.txt"" gak ada invalid char",Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,50,32
+8815,0,Tau char?,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,50,45
+8816,0,Character?,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,50,49
+8817,0,cara nya seperti gt kah..hehe saya masi awam banget,Asep,Wahyudi,bekantan,0,28,9,2020,6,52,0
+8818,8816,tau kang hehe,Asep,Wahyudi,bekantan,0,28,9,2020,6,52,17
+8819,0,"Yaudah itu decoded string nya ada invalid char, gak bisa di pake untuk param path.combine",Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,53,36
+8821,0,solusi nya gimana ya kang..agar file yang di encode bisa di buka di external app,Asep,Wahyudi,bekantan,0,28,9,2020,6,54,30
+8822,0,,Setyaadi,Kurnia,Adi_setya,0,28,9,2020,6,55,33
+8823,8779,Filenya disimpen dulu di suatu path. Kalo uda `var file`nya itu isinya path ke file tersebut...,Albilaga,Pradana,albilaga,0,28,9,2020,7,53,58
+8827,0,iya betul juga berarti harus di save dl ..baru get data nya,Asep,Wahyudi,bekantan,0,28,9,2020,9,58,57
+8830,0,ini group active apa tidak kok jarang banget ada interaksi di group ini,No,Name,,0,29,9,2020,2,32,14
+8831,0,"rame kok😅,",Wahidin,Aji,WahidinAji,0,29,9,2020,2,33,34
+8840,0,"tanya dong,lagi belajar fcm pake xamarin android,terus saya mau buka activity tergantung dari notif yg saya dapet,kalo app di buka ok sih bisa masuk ke fungsi OnMessageReceived,cuma masalahnya kalo apps di tutup\nsaya coba cari katanya pake inten filter,data dari fcm nya gini\n\n{\n  ""to"":""some_device_token"",\n  ""content_available"": true,\n  ""notification"": {\n      ""title"": ""hello"",\n      ""body"": ""test message"",\n      ""click_action"": ""OPEN_ACTIVITY_1""\n  },\n  ""data"": {\n      ""extra"":""juice""\n  }\n}\n\nhandle inten filternya gini\n\n<intent-filter>\n  <action android:name=""OPEN_ACTIVITY_1"" />\n  <category android:name=""android.intent.category.DEFAULT"" />\n</intent-filter>\n\npertanyaan saya,""OPEN_ACTIVITY_1"" itu maksudnya apa ya?nama activity nya kah?terus inten-filter itu di taro di mana ya?",Ilyas,Pradana,PradanaIlyas,0,30,9,2020,4,19,45
+8841,8840,contohnya kayak disini https://docs.microsoft.com/en-us/xamarin/android/platform/android-manifest\nbisa langsung ditaruh di classnya langsung sbg atttribute,Albilaga,Pradana,albilaga,0,30,9,2020,4,34,2
+8842,0,"android:name=""md5a7a3c803e481ad8926683588c7e9031b.MainActivity""\n\nitu auto generate apa gimana ya?kok di xml engga ada",Ilyas,Pradana,PradanaIlyas,0,30,9,2020,9,3,25
+8843,8842,Itu auto generate. Tiap class yg dikasih attribute Activity akan generate name=(nama activitynya),Albilaga,Pradana,albilaga,0,30,9,2020,9,41,29
+8844,0,liatnya dimana ya mas?di android manifest soalnya engga ada,Ilyas,Pradana,PradanaIlyas,0,30,9,2020,9,52,23
+8845,0,liat yg di auto generate nya,Ilyas,Pradana,PradanaIlyas,0,30,9,2020,9,52,30
+8846,8844,Tiap kali abis build coba buka folder objnya. Harusnya di situ ada androidmanifest yg auto generatenya. Tapi buat apa mau diliat? Harusnya ini gak perlu dicek si,Albilaga,Pradana,albilaga,0,30,9,2020,9,53,58
+8847,0,"buat bikin ky gini mas\n<activity android:name=""YOUR_ACTIVITY"">\n    <intent-filter>\n        <action android:name=""com.example.yourapplication_YOUR_NOTIFICATION_NAME"" />\n        <category android:name=""android.intent.category.DEFAULT"" />\n    </intent-filter>\n</activity>\n\nnanti di action_click notifikasinya di isi nama activitynya,biar bisa kebuka pas notif di klik",Ilyas,Pradana,PradanaIlyas,0,30,9,2020,9,57,17
+8848,8846,"ok mas,udah ketemu,terima kasih banyak",Ilyas,Pradana,PradanaIlyas,0,30,9,2020,9,58,44
+8850,8847,Nama activitynya sama dg nama classnya,Albilaga,Pradana,albilaga,0,30,9,2020,10,5,39
+8851,0,di xamarin bkn di portable aja yg koding? di android sama ios nya juga di koding?,No,Name,,0,30,9,2020,11,13,46
+8852,8851,itu kalo butuh fitur tertentu di android dan iOSnya si yg belum disupport sama xamarin.forms,Albilaga,Pradana,albilaga,0,30,9,2020,12,50,27
+8861,0,"siang,mau tanya seputar fcm\nmisalkan kita dapet kiriman seperti ini\n ""message"":{\n    ""token"" : ""bk3RNwTe3H0:CI2k_HHwgIpoDKCIZvvDMExUdFQ3P1..."",\n     ""android"": {\n       ""notification"": {\n           ""body"" : ""This is an FCM notification that displays an image.!"",\n           ""title"" : ""FCM Notification"",\n           ""image"": ""url-to-image""\n       }\n   }\n   \ncara handle imagenya gimana ya?\nkan kalo body begini, message.GetNotification().Body, title nya message.GetNotification().title\nkalo imagenya gimana ya?engga ada soalnya message.GetNotification().image",Ilyas,Pradana,PradanaIlyas,0,1,10,2020,7,3,53
+8862,8823,kl nentuin file nya disimpan di folder download gimana caranya ya?,Asep,Wahyudi,bekantan,0,1,10,2020,7,37,21
+8863,0,"File.WriteAllBytes(@""C:\Users\DELL\Documents\TestDownload"", Convert.FromBase64String(contents)); gini bukan ?\n\nparam 1 itu menentukan lokasi file mau disimpan di root folder mana, gt kan ya akang @albilaga ?",Asep,Wahyudi,bekantan,0,1,10,2020,8,50,11
+8864,0,Baca doc nya pak,Setyaadi,Kurnia,Adi_setya,0,1,10,2020,8,50,57
+8865,0,https://docs.microsoft.com/en-us/dotnet/api/system.io.file.writeallbytes?view=netcore-3.1,Setyaadi,Kurnia,Adi_setya,0,1,10,2020,8,51,26
+8866,0,sudah di baca itu 😁,Asep,Wahyudi,bekantan,0,1,10,2020,8,54,34
+8867,0,"Iya param 1 path file, param 2 content file",Setyaadi,Kurnia,Adi_setya,0,1,10,2020,8,55,15
+8868,0,Padahal doc nya jelas banget,Setyaadi,Kurnia,Adi_setya,0,1,10,2020,8,55,46
+8870,8863,iya. tapi usahakan pake relative path. jangan pake absolute path...,Albilaga,Pradana,albilaga,0,1,10,2020,13,25,32
+8871,8863,https://docs.microsoft.com/en-us/xamarin/essentials/file-system-helpers?tabs=android,Albilaga,Pradana,albilaga,0,1,10,2020,13,27,42
+8872,8861,kalo dari sini harusnya ada imageuri https://firebase.google.com/docs/reference/android/com/google/firebase/messaging/RemoteMessage.Notification. ini gak ada di fcmnya?,Albilaga,Pradana,albilaga,0,1,10,2020,13,31,18
+8873,8872,"imageuri engga ada sih,adanya link doang",Ilyas,Pradana,PradanaIlyas,0,1,10,2020,15,24,19
+8874,0,,Ilyas,Pradana,PradanaIlyas,0,1,10,2020,15,24,24
+8875,8874,ini latest FCM di nuget udahan?,Albilaga,Pradana,albilaga,0,1,10,2020,15,34,35
+8876,0,"udah mas,versi 71.1740.4",Ilyas,Pradana,PradanaIlyas,0,1,10,2020,16,5,27
+8877,8876,Coba pake pre release coba. Kali aja di pre release uda ada,Albilaga,Pradana,albilaga,0,1,10,2020,16,40,30
+8878,0,"ini kenapa ya  System.UnauthorizedAccessException: Access to the path is denied \n\nsaya sudah pasang \n <uses-permission android:name=""android.permission.READ_EXTERNAL_STORAGE"" />\n    <uses-permission android:name=""android.permission.WRITE_EXTERNAL_STORAGE"" />",Asep,Wahyudi,bekantan,0,1,10,2020,17,11,14
+8879,8878,pathnya apa emang?,Albilaga,Pradana,albilaga,0,1,10,2020,17,15,35
+8880,0,"kan awal nya \n File.WriteAllBytes(FileSystem.CacheDirectory, Convert.FromBase64String(contents));",Asep,Wahyudi,bekantan,0,1,10,2020,17,16,27
+8881,0,"terus saya liat referensi yang lain suruh seperti ini\n File.WriteAllBytes(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), Convert.FromBase64String(contents));",Asep,Wahyudi,bekantan,0,1,10,2020,17,16,52
+8882,0,eh sama aja,Asep,Wahyudi,bekantan,0,1,10,2020,17,16,56
+8883,8880,uda implement permissionnya https://docs.microsoft.com/en-us/xamarin/essentials/permissions?context=xamarin%2Fandroid&tabs=android ?,Albilaga,Pradana,albilaga,0,1,10,2020,17,19,0
+8884,8877,"ok mas,nanti saya coba,terima kasih banyak",Ilyas,Pradana,PradanaIlyas,0,2,10,2020,3,30,55
+8886,0,,Asep,Wahyudi,bekantan,0,2,10,2020,4,40,16
+8887,0,ini kenapa ya,Asep,Wahyudi,bekantan,0,2,10,2020,4,40,19
+8888,8886,La itu errornya apa? Kan bisa dicek di hover merah2nya itu,Albilaga,Pradana,albilaga,0,2,10,2020,5,33,13
+8889,0,Operator '!=' cannot be applied to operands of type 'PermissionStatus' and 'PermissionStatus'\n\nhehehe padahal sudah ngikutin tutorial di youtube..,Asep,Wahyudi,bekantan,0,2,10,2020,7,52,8
+8891,0,Itu enum kan?,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,9,17,9
+8892,0,enum gmn maksdnya?,Asep,Wahyudi,bekantan,0,2,10,2020,10,25,6
+8893,0,PermissionStatus,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,10,42,25
+8894,0,"code ini tu untuk request permission kan ya?\n\nawait Permissions.RequestAsync<Permissions.StorageWrite>();\nsaya hilangin kondisi if nya..masi muncul error nya \nSystem.UnauthorizedAccessException: 'Access to the path   is denied.'\n\nsaya liat di tutorial nya katanya ditambahin di androidamanifest.xml\n\n<uses-permission android:name=""android.permission.READ_EXTERNAL_STORAGE"" />\n    <uses-permission android:name=""android.permission.WRITE_EXTERNAL_STORAGE"" />\n\nmasi tetep muncul",Asep,Wahyudi,bekantan,0,2,10,2020,11,0,59
+8895,0,error nya,Asep,Wahyudi,bekantan,0,2,10,2020,11,1,17
+8896,8894,Yg di atas dicek dulu kenapa merah2. Kayaknya enumnya gak cocok. Kalo diilangin ifnya berarti gak ada minta pemission buat nulis storage ya sama aja boong,Albilaga,Pradana,albilaga,0,2,10,2020,11,4,2
+8899,0,saya cek di console\nsemua nya keterangan nya Granted\n\nConsole.WriteLine(Permissions.CheckStatusAsync<Permissions.StorageWrite>());\n            Console.WriteLine(PermissionStatus.Granted);,Asep,Wahyudi,bekantan,0,2,10,2020,11,35,31
+8901,0,jadi itu arti nya apa ya,Asep,Wahyudi,bekantan,0,2,10,2020,12,53,32
+8902,0,😁,Asep,Wahyudi,bekantan,0,2,10,2020,12,53,41
+8905,8901,artinya anda kurang beruntung 😂,No,Name,,0,2,10,2020,15,15,44
+8906,8899,emang yg pertama bisa ya? yg pertama harus di await dulu baru keluar statusnya...,Albilaga,Pradana,albilaga,0,2,10,2020,15,26,59
+8907,0,yg ke 2 ya jelas granted ya krn itu emang writeline granted,Albilaga,Pradana,albilaga,0,2,10,2020,15,27,14
+8908,0,,Asep,Wahyudi,bekantan,0,2,10,2020,15,52,50
+8909,0,Path nya folder?,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,15,59,42
+8910,0,iya folder,Asep,Wahyudi,bekantan,0,2,10,2020,16,25,18
+8911,0,Pantes exception,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,16,25,34
+8912,0,path nya harus file,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,16,25,45
+8913,0,"bukanya  File.WriteAllBytes(\n\nparam1 path folder, dan param 2 itu file",Asep,Wahyudi,bekantan,0,2,10,2020,16,41,0
+8914,0,"Param 1 path, param2 byte yg mau di write",Setyaadi,Kurnia,Adi_setya,0,2,10,2020,16,41,53
+8915,8865,Udah di baca?,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,16,43,14
+8916,8910,param 1 harus folder + nama files yg mau ditulisnya,Albilaga,Pradana,albilaga,0,2,10,2020,16,46,27
+8917,0,Nah itu,Setyaadi,Kurnia,Adi_setya,0,2,10,2020,16,46,48
+8918,0,"path nya harus ke file nya, bukan folder",Setyaadi,Kurnia,Adi_setya,0,2,10,2020,16,47,7
+8919,0,oo harus di tentukan make combine,Asep,Wahyudi,bekantan,0,2,10,2020,17,3,14
+8920,0,"Gak mesti, pake operator + juga bisa",Setyaadi,Kurnia,Adi_setya,0,2,10,2020,17,3,48
+8921,0,masalah nya saya gtw extension file tersebut.. karna file tersebut base64,Asep,Wahyudi,bekantan,0,2,10,2020,17,4,39
+8922,0,"Kalo mau write file, entah itu pake file.writeallbyte, writealltext dll, path harus file",Setyaadi,Kurnia,Adi_setya,0,2,10,2020,17,5,52
+8923,8921,harus tau filenya dulu. dari server harusnya bisa ngembalikan file typenya juga kan?,Albilaga,Pradana,albilaga,0,2,10,2020,18,5,34
+8924,0,https://devblogs.microsoft.com/xamarin/hacktoberfest-xamarin-community-toolkit/\n\nYg mau dapat SWAG😁,【 fanioz 】,,fanioz,0,3,10,2020,0,4,34
+8928,0,Does anyone have a finance job opening.. Please help me out\n Through I'm a cam girl on the side,,,,0,3,10,2020,16,31,12
+8930,8923,"berarti di api nya harus ada tipe(jpeg, doc, pdf,dll) file nya apa gitu ya.. biar pas di combine nya bisa ditentukan gitu kah kang ?",Asep,Wahyudi,bekantan,0,3,10,2020,23,20,8
+8931,0,"terus kl kita mau simpan file tersebut, di folder download di hp android/ios kita seperti apa ya file path nya ?",Asep,Wahyudi,bekantan,0,3,10,2020,23,42,59
+8932,0,"Conto: ""C:\user\public\common\file.txt""",Setyaadi,Kurnia,Adi_setya,0,4,10,2020,3,49,36
+8933,0,"iya berarti kita harus sudah menentukan extension dari file tersebut ya..misalkan file base64 tersebut tipe nya .jpg kita harus tentukan nama file nya jadi .jpg....\nga bisa langsung tergenerate...\n\nmisal seperti ini\n\nstring setBasePath = Path.Combine(basePath, ""TesterFile.jpeg"");\n      \nFile.WriteAllBytes(setBasePath, getContent);\n\ntidak bisa seperti ini:\nstring setBasePath = Path.Combine(basePath, ""TesterFile"");\n      \nFile.WriteAllBytes(setBasePath, getContent);",Asep,Wahyudi,bekantan,0,4,10,2020,4,16,54
+8934,8932,path nya seperti apa..kl untuk simpan file di folder download android/ios,Asep,Wahyudi,bekantan,0,4,10,2020,4,17,48
+8942,0,Lho protecton nya galak,Mas Nanda,Nugraha,nandanugg,0,4,10,2020,5,52,41
+8943,0,Coba ulang pesannya tapi jangan pakai link,Mas Nanda,Nugraha,nandanugg,0,4,10,2020,5,52,54
+8944,0,"Admin, numpang share info untuk memfasilitasi member2 yg mau jualan code/project tapi ga bisa karena takut d ban,,, sy up group\n(at)PedagangCode\n\nWkwkwk... Tujuan nya buat ngurangin spam jualan d group2 it mas.. 😂",h a y i,,hayinukman,0,4,10,2020,5,53,53
+8945,0,"Oalah, disini jarang ada yg jualan project kok",Mas Nanda,Nugraha,nandanugg,0,4,10,2020,5,54,39
+8946,0,Seringnya konsultasi,Mas Nanda,Nugraha,nandanugg,0,4,10,2020,5,54,49
+8947,8945,D group sy kene spam jualan td mas... Makanya bikin baru buat fasilitasin... Kasihan juga klo d ban orang2nya... Nyari rejeki...,h a y i,,hayinukman,0,4,10,2020,5,55,26
+8948,0,Iya gpp,Mas Nanda,Nugraha,nandanugg,0,4,10,2020,5,56,13
+8949,0,Asal jualannya pakai xamarin boleh,Mas Nanda,Nugraha,nandanugg,0,4,10,2020,5,56,33
+8950,8949,Mantap...,h a y i,,hayinukman,0,4,10,2020,5,56,59
+8951,8934,pake appcache dari xamarin essentials itu aja bisa harusnya,Albilaga,Pradana,albilaga,0,4,10,2020,7,31,40
+8952,8934,atau pake ini bisa https://stackoverflow.com/questions/28183893/how-to-store-files-generated-from-app-in-downloads-folder-of-android,Albilaga,Pradana,albilaga,0,4,10,2020,7,32,28
+8953,8952,ini sudah pernah saya coba,Asep,Wahyudi,bekantan,0,4,10,2020,8,44,46
+8954,0,,Asep,Wahyudi,bekantan,0,4,10,2020,8,44,49
+8955,8953,oops. sorry. baru ngeh ini env buat android doang. mending pake filesystem.cache aja kalo gampang. lupa kalo cara 1 1nya. krn by default iOS gak mengenal downloads folder,Albilaga,Pradana,albilaga,0,4,10,2020,9,22,3
+8956,0,"kl cache itu disimpan di folder mana yang kang..saya cari"" ko ga ketemu",Asep,Wahyudi,bekantan,0,4,10,2020,9,44,2
+8957,8956,nggak tau juga. hahaha... di sini juga gak jelas https://developer.android.com/reference/android/content/Context.html#getCacheDir(),Albilaga,Pradana,albilaga,0,4,10,2020,9,49,31
+8958,0,"saya coba satu satu\nhttps://docs.microsoft.com/en-us/xamarin/android/platform/files/\n\nga ketemu""",Asep,Wahyudi,bekantan,0,4,10,2020,9,53,3
+8959,0,jadi bingung...,Asep,Wahyudi,bekantan,0,4,10,2020,9,53,16
+8960,0,apa kesimpan apa ga,Asep,Wahyudi,bekantan,0,4,10,2020,9,53,24
+8961,8960,ngeceknya kan tinggal dibaca lagi filenya? kalo kebaca berarti uda kesimpen kan?,Albilaga,Pradana,albilaga,0,4,10,2020,9,54,56
+8962,0,"cuman pingin mastikan aja kang..apa bener"" kesimpan apa ga...makanya saya cek langsung ke tiap"" folder yang ada di android hehehe",Asep,Wahyudi,bekantan,0,4,10,2020,9,56,53
+8963,0,ok berhasil,Asep,Wahyudi,bekantan,0,4,10,2020,10,21,54
+8964,8962,Iya. Kan tinggal di read ulang. Kalo kebaca berarti uda kesimpen kan y? Atau didebug aja pathnya jadinya apa?,Albilaga,Pradana,albilaga,0,4,10,2020,10,22,11
+8965,0,"sekarang tinggal baca extension(jpg, doc, pdf, dll) dari file base64",Asep,Wahyudi,bekantan,0,4,10,2020,10,22,28
+8966,8964,"string basePath = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData);\n            string basePath1 = FileSystem.AppDataDirectory;\n            string basePath2 = Environment.GetFolderPath(Environment.SpecialFolder.Personal); \n\n            Console.WriteLine("" PATH = "" + basePath); //PATH = / data / user / 0 / com.companyname.smile / files /.local / share\n            Console.WriteLine("" PATH1 = "" + basePath1); // PATH1 = / data / user / 0 / com.companyname.smile / files\n            Console.WriteLine("" PATH2 = "" + basePath2); // PATH2 = / data / user / 0 / com.companyname.smile / files",Asep,Wahyudi,bekantan,0,4,10,2020,10,23,4
+8967,0,"kira"" ada ga cara baca extesion dari file base64",Asep,Wahyudi,bekantan,0,4,10,2020,11,7,26
+8968,0,Coba pake directory.getfiles,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,11,13,44
+8969,0,nanti keliatan semua filr yang ada di directory beserta extension nya,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,11,14,17
+8970,0,ga bisa itu,Asep,Wahyudi,bekantan,0,4,10,2020,12,19,37
+8971,0,sudah saya coba,Asep,Wahyudi,bekantan,0,4,10,2020,12,19,39
+8972,0,"string setBasePath = Path.Combine(basePath2, ""TesterFile.docx"");\n\n            File.WriteAllBytes(setBasePath, getContent);\n\npas di combine sudah harus ditentukan nama file dan extension file nya baru bisa",Asep,Wahyudi,bekantan,0,4,10,2020,12,20,57
+8973,0,Directory.getfiles,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,22,19
+8974,0,Untuk get files dalam directory,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,23,22
+8975,0,param string nya path folder,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,23,36
+8976,0,"kan pas disini sudah harus di tentukan string setBasePath = Path.Combine(basePath2, ""TesterFile.docx"");\n\nberartikan kita ambil extension file nya pas di decode file64",Asep,Wahyudi,bekantan,0,4,10,2020,12,24,20
+8977,0,Return nya array string of files full name,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,24,20
+8978,0,Kan katanya mau tau extension nya kan?,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,24,42
+8979,0,Itu file nya udah existing atau create new?,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,26,18
+8980,0,"Sya baca2 ktanya udah success write file nya, betul?",Setyaadi,Kurnia,Adi_setya,0,4,10,2020,12,37,46
+8981,0,betul,Asep,Wahyudi,bekantan,0,4,10,2020,14,18,49
+8982,0,Terus mau tau file extension nya?,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,14,22,0
+8983,8981,Kalo udah sukses write data berarti pas write uda tau extensionnya kan? Nah itu aja disimpen,Albilaga,Pradana,albilaga,0,4,10,2020,14,38,41
+8984,0,"itu cuman tester aja kl pas saya di combine terus saya kasi nama tester.docx bisa launcher\n\ntapi pas saya cuman di kasi nama file nya tester aja, tidak bisa di launcher",Asep,Wahyudi,bekantan,0,4,10,2020,14,44,39
+8985,0,Oh gitu,Setyaadi,Kurnia,Adi_setya,0,4,10,2020,14,45,45
+8986,0,"iya gt kang..berarti sesudah proses di decode base64 nya ada proses untuk pengecekan extension file nya..nah proses itu yang saya cari"" belum dapat.",Asep,Wahyudi,bekantan,0,4,10,2020,14,46,59
+8987,8984,Biasanya dari server uda dikasih file extensionnya. Nah di situ disimpen filename beserta extensionnya,Albilaga,Pradana,albilaga,0,4,10,2020,15,1,56
+8988,0,iya sih ya hahaha biasa nya di sertakan extensionnya...,Asep,Wahyudi,bekantan,0,4,10,2020,15,6,58
+8989,8988,"Iya. Kalo gak bisa susah soalnya detek file type based on base64 aja. Biasanya dikasih filename, mimetype, baru sama base64nya",Albilaga,Pradana,albilaga,0,4,10,2020,15,17,25
+8990,0,iya juga sih ya... saya juga belum ketemu cara dapat nya,Asep,Wahyudi,bekantan,0,4,10,2020,15,32,17
+8991,0,"berarti harus ada filename, mimetype",Asep,Wahyudi,bekantan,0,4,10,2020,15,32,45
+8993,8991,Saya biasanya gitu,Albilaga,Pradana,albilaga,0,5,10,2020,4,2,18
+8998,0,mau tanya lagi hehehe,Asep,Wahyudi,bekantan,0,5,10,2020,18,1,44
+8999,0,"The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or an illegal character among the padding characters.",Asep,Wahyudi,bekantan,0,5,10,2020,18,1,46
+9000,0,maksudnya gimana ya..,Asep,Wahyudi,bekantan,0,5,10,2020,18,1,51
+9002,0,Input ada nonbase64 char,Setyaadi,Kurnia,Adi_setya,0,5,10,2020,21,42,35
+9003,0,Exception nya di Convert.FromBase64String ya?,Setyaadi,Kurnia,Adi_setya,0,5,10,2020,22,14,4
+9004,0,Finding some freelance work just started with fiverr \nMy gig: https://www.fiverr.com/s2/1da8c2b9a4,Usman,Hussain Arain,UsmanHussainArain,0,6,10,2020,0,4,30
+9005,9003,iya disitu..,Asep,Wahyudi,bekantan,0,6,10,2020,0,13,51
+9006,0,Cek argument nya,Setyaadi,Kurnia,Adi_setya,0,6,10,2020,0,54,51
+9007,8999,Yakin stringnya base64 ini?,Albilaga,Pradana,albilaga,0,6,10,2020,4,8,56
+9008,0,"haha sudah bisa .. ada tanda kutip """,Asep,Wahyudi,bekantan,0,6,10,2020,5,11,21
+9009,0,trimakasi akang @UsmanHussainArain dan akang @albilaga  yang selalu setia menjawab pertanyaan..maaf merepotkan.,Asep,Wahyudi,bekantan,0,6,10,2020,5,12,24
+9012,0,Hello i have a question.,Fkbeys,,,0,6,10,2020,16,34,55
+9013,0,Can i ask in english?,Fkbeys,,,0,6,10,2020,16,35,11
+9014,0,,Fkbeys,,,0,6,10,2020,16,39,31
+9015,0,i need to design a carousel page like this photo,Fkbeys,,,0,6,10,2020,16,39,48
+9016,0,how can i do it?,Fkbeys,,,0,6,10,2020,16,39,52
+9017,0,thank you,Fkbeys,,,0,6,10,2020,16,39,55
+9018,9014,you can try using this https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/carouselview/ or using this one https://github.com/alexrainman/CarouselView,Albilaga,Pradana,albilaga,0,6,10,2020,16,48,10
+9020,0,How can i add a header to carouselpage?,Fkbeys,,,0,6,10,2020,17,17,23
+9021,9020,that is carousel view not a page\nSo you can do like\n```<StackLayout>\n    <Header/>\n    <CarouselView/>\n</StackLayout>```,Albilaga,Pradana,albilaga,0,6,10,2020,17,45,41
+9022,0,Carouselview have many issues. It show error if i have a listview inside it,Fkbeys,,,0,6,10,2020,17,46,23
+9023,0,https://github.com/xamarin/Xamarin.Forms/issues/12352,Fkbeys,,,0,6,10,2020,17,46,26
+9024,0,I wrote this to xamarin issue section,Fkbeys,,,0,6,10,2020,17,46,39
+9025,9022,btw jsuarezruiz said it can be done without using xamlc. so you can remove xamlc... or you can try using alexrainman carousel view... I am not sure also if that have a bug on listview or not,Albilaga,Pradana,albilaga,0,6,10,2020,17,47,52
+9026,0,What does he mean with,Fkbeys,,,0,6,10,2020,17,48,40
+9027,0,Remove XamlC,Fkbeys,,,0,6,10,2020,17,48,45
+9028,0,I didnt understand it,Fkbeys,,,0,6,10,2020,17,48,52
+9029,9027,this is xamlc https://docs.microsoft.com/en-us/xamarin/xamarin-forms/xaml/xamlc you can remove anything that said\n```XamlCompilation (XamlCompilationOptions.Compile)]```\n\nor just for your page that contains carouselview\n`[XamlCompilation (XamlCompilationOptions.Skip)]`,Albilaga,Pradana,albilaga,0,6,10,2020,17,51,13
+9030,0,I tried it. Doesnt work,Fkbeys,,,0,6,10,2020,18,11,52
+9031,0,,Fkbeys,,,0,6,10,2020,18,12,33
+9032,9030,try using alexrainman carouselview then. I never using carouselview with list view before,Albilaga,Pradana,albilaga,0,6,10,2020,18,16,21
+9033,0,Okey. I will let u know if i solve,Fkbeys,,,0,6,10,2020,18,18,3
+9034,0,Thank you bro,Fkbeys,,,0,6,10,2020,18,18,9
+9035,0,I finally managed to solve it,Fkbeys,,,0,6,10,2020,18,33,26
+9036,0,I seperated content pages. And i called them with xaml,Fkbeys,,,0,6,10,2020,18,34,0
+9037,0,It works. But list view works weird,Fkbeys,,,0,6,10,2020,18,34,11
+9038,0,,Fkbeys,,,0,6,10,2020,18,35,13
+9039,0,"As you see, listview acts so weir. It doesnt work",Fkbeys,,,0,6,10,2020,19,1,54
+9040,9038,Yeah I think it is because carouselview is a scrollview like listview. so if you have multiple scrollview you sometimes have this issue,Albilaga,Pradana,albilaga,0,7,10,2020,3,21,19
+9042,0,Bahasa yg bisa buat aplikasi android di xamarin apa aja yaa?,Rafhan,Arrasyid,RafhanArrasyid,6285717636906,7,10,2020,4,47,46
+9043,9042,C# ?,Albilaga,Pradana,albilaga,0,7,10,2020,4,51,40
+9044,9043,"cuma C# doang, atau ada yg lainny?",Rafhan,Arrasyid,RafhanArrasyid,6285717636906,7,10,2020,4,52,35
+9045,9044,https://docs.microsoft.com/en-us/xamarin/cross-platform/platform/,Albilaga,Pradana,albilaga,0,7,10,2020,5,4,57
+9046,9045,tq infonya 🙏,Rafhan,Arrasyid,RafhanArrasyid,6285717636906,7,10,2020,5,23,16
+9047,9040,Yes. It s a bug,Fkbeys,,,0,7,10,2020,6,36,46
+9048,9046,Sama2👌,Albilaga,Pradana,albilaga,0,7,10,2020,10,21,30
+9049,9047,Maybe try to change the layout. Minimize nested scrollview if possible,Albilaga,Pradana,albilaga,0,7,10,2020,10,21,59
+9050,9049,What do u mean exactly?,Fkbeys,,,0,7,10,2020,11,11,33
+9056,9050,Yeah try dont use listview inside carousel view,Albilaga,Pradana,albilaga,0,7,10,2020,16,59,26
+9070,0,Hello all,Sri,Kanth,ssrikanth94,0,9,10,2020,13,9,13
+9071,0,Can we connect xamarin with sql server database,Sri,Kanth,ssrikanth94,0,9,10,2020,13,9,31
+9072,0,Yes,Wahyu,Gultom,wahyugultom,0,9,10,2020,16,21,21
+9073,9071,yes. you need to create API in the server first...,Albilaga,Pradana,albilaga,0,9,10,2020,16,53,1
+9091,0,mau tanya kl mau login pake scan jari gimana caranya ya?,Asep,Wahyudi,bekantan,0,12,10,2020,3,2,30
+9092,9091,ini scan jarinya dikirim ke server atau cuma buat login di hp local aja?,Albilaga,Pradana,albilaga,0,12,10,2020,5,4,48
+9093,0,kaya mobile banking gt kang sistem nya seperti apa ya,Asep,Wahyudi,bekantan,0,12,10,2020,6,17,59
+9094,9093,owh itu local check aja. gak kirim ke server. pake ini bisa https://github.com/smstuebe/xamarin-fingerprint,Albilaga,Pradana,albilaga,0,12,10,2020,6,59,31
+9095,0,kl kirim ke server seperti apa kang?,Asep,Wahyudi,bekantan,0,12,10,2020,8,38,50
+9096,0,"berarti yg di local ga usah ada pengecekan user dan pass di server ya, tp itu bagaimana caranya bisa tau itu akun kita?",Asep,Wahyudi,bekantan,0,12,10,2020,8,41,26
+9097,0,"apa pas setelah kita buat persetujuan, ingin menggunakan sidik jari saat login aplikasi, data user dan pass langsung di simpan di db local?",Asep,Wahyudi,bekantan,0,12,10,2020,8,43,4
+9103,9095,kirim ke server gak tau... kayaknya gak bisa. krn ini kan beda. ini buat local authentication aja utk mastiin bahwa bener user yg punya hp yg bisa buka.,Albilaga,Pradana,albilaga,0,13,10,2020,1,6,11
+9104,9096,tetep ada login di awal kan sebelum bisa aktivasi login pake sidik jari?,Albilaga,Pradana,albilaga,0,13,10,2020,1,6,26
+9107,0,"mau nanya, gimana caranya buat multiple upload, yang nanti nya file"" tersebut dikirim lewat api..kan kl di mysql make blob buat nyimpen file...kl xamarin gimana cara nya ya?",Asep,Wahyudi,bekantan,0,13,10,2020,7,14,8
+9108,9107,sama aja. pake httpclient.PostAsync. HttpContentnya pake multipart content https://codeburst.io/upload-download-files-using-httpclient-in-c-f29051dea40c,Albilaga,Pradana,albilaga,0,13,10,2020,7,45,18
+9109,0,Hi developers i need help in xamarin mvvm .. \nTo change this sample \nhttps://github.com/syncfusion/xamarin-demos/tree/master/Forms/ListView/ListView/Samples/LoadMore \nGetting data from json .. thanks,Eng -,marwan alsaffar,Eng_ee0,0,13,10,2020,11,31,32
+9113,0,xamarin tu basicnya c# berarti kita hrs blajar dl c# ya kk,No,Name,,0,14,10,2020,7,24,23
+9114,0,Iya,Mas Nanda,Nugraha,nandanugg,0,14,10,2020,7,30,0
+9117,0,"I am Dotnet Developer. And, I want to add Xamarin technology in my skills. Anyone suggest me the tutorial for Xamarin.",JR,,swat146,0,14,10,2020,10,30,1
+9120,0,Hey I'm facing debug problems with xamarin can any one help me,Naresh,,dev_looper,0,15,10,2020,10,15,45
+9121,0,"Actually i have an android app developed in xamarin c#, I'm trying to debug the application from visual studio in my real phone using usb debug option but, the problem is i set few breakpoints in the application but they were not hit by the application please help mw",Naresh,,dev_looper,0,15,10,2020,10,17,44
+9123,0,1- run visual studia as administrator,Fkbeys,,,0,15,10,2020,12,37,21
+9124,0,"Or directly, launch the project from the folder path",Fkbeys,,,0,15,10,2020,12,37,49
+9125,9117,You can start from here https://dotnet.microsoft.com/learn/xamarin/hello-world-tutorial/intro,Albilaga,Pradana,albilaga,0,15,10,2020,13,1,50
+9126,9121,Maybe try rebuild the project? And are you using debug configuration?,Albilaga,Pradana,albilaga,0,15,10,2020,13,2,18
+9127,9126,Yes I'm deploying it in debug mode. I tried rebuilding several times but no use,Naresh,,dev_looper,0,15,10,2020,13,3,57
+9128,9127,Not sure then. Long ago I hsve this problem and what I do is usually delete the app from phone and also rebuild the project and all working again...,Albilaga,Pradana,albilaga,0,15,10,2020,13,9,5
+9129,9128,"Ohh that's good it worked foe you, suggest me if you know more ways or checkpoints that would help me thank you @albilaga",Naresh,,dev_looper,0,15,10,2020,13,10,42
+9130,9129,What ide you using? Are you already using latest updates for IDE?,Albilaga,Pradana,albilaga,0,15,10,2020,13,11,41
+9131,9130,"Mine was Visual Studio 2019, urs?",Naresh,,dev_looper,0,15,10,2020,13,12,17
+9132,9131,I am using vs for mac and rider. But using rider extesively now,Albilaga,Pradana,albilaga,0,15,10,2020,13,15,49
+9133,9132,"Ohh I don't know much about vs mac, anyway I have to solve this thing because lot of bugs are pending in line",Naresh,,dev_looper,0,15,10,2020,13,18,27
+9134,9125,Thanks and please suggest me any tutorial also. So it's help where I stuck or I need more clarification.,JR,,swat146,0,15,10,2020,14,25,40
+9135,9133,try using rider?,Albilaga,Pradana,albilaga,0,16,10,2020,2,33,16
+9136,0,,Asep,Wahyudi,bekantan,0,16,10,2020,3,4,1
+9137,9136,"mau tanya saya bingung pas kirimnya...\nkira"" prosesnya seperti apa ya..\napakah content nya tersebut langsung aja di isi pickResult atau gimana ya?",Asep,Wahyudi,bekantan,0,16,10,2020,3,5,30
+9155,9137,@Google_Translatee_bot هاي,عمر,الشوبكي,,0,19,10,2020,16,22,23
+9161,9155,????,Asep,Wahyudi,bekantan,0,20,10,2020,8,47,20
+9162,9136,ini bisa pake diconvert ke stream kan https://docs.microsoft.com/en-us/xamarin/essentials/file-picker?tabs=android ?,Albilaga,Pradana,albilaga,0,20,10,2020,10,19,24
+9165,0,sudah di coba tidak bisa mas..,Asep,Wahyudi,bekantan,0,21,10,2020,3,1,39
+9166,0,"kira"" code nya seperti apa ya ... \nsaya belum paham masalah upload nya...",Asep,Wahyudi,bekantan,0,21,10,2020,3,5,5
+9167,9165,Gak bisanya kenapa?,Albilaga,Pradana,albilaga,0,21,10,2020,10,19,2
+9168,0,maksudnya content itu disi isi variable ini ya,Asep,Wahyudi,bekantan,0,21,10,2020,11,7,1
+9169,0,var stream = await result.OpenReadAsync,Asep,Wahyudi,bekantan,0,21,10,2020,11,7,3
+9171,9169,Iya. Dari stream itu bisa diconvert ke byte array juga kalo butuh,Albilaga,Pradana,albilaga,0,21,10,2020,19,25,13
+9177,0,Hello friends. I have a Fast Report Design ( .frx) and i want to print this on Xamarin. How can i do it. Thank you,Fkbeys,,,0,22,10,2020,4,46,34
+9178,9177,never worked with .frx before. sorry 😅,Albilaga,Pradana,albilaga,0,22,10,2020,6,44,43
+9179,0,thank you,Fkbeys,,,0,22,10,2020,9,20,24
+9183,0,"Hi all,\nHow to get the external storage path in Xamarin android",Packiaseelan S,,packiaseelan14,0,22,10,2020,15,46,55
+9185,9183,https://docs.microsoft.com/en-us/xamarin/android/platform/files/external-storage?tabs=windows,Albilaga,Pradana,albilaga,0,23,10,2020,4,39,32
+9186,0,"kang @albilaga \nmau tanya var stream = await result.OpenReadAsync(); kl untuk multiple file dia tidak mau...\n\nkira"" ada sarankah seperti apa proses upload file",Asep,Wahyudi,bekantan,0,23,10,2020,5,59,35
+9187,0,format API nya seperti ini,Asep,Wahyudi,bekantan,0,23,10,2020,6,1,45
+9188,0,,Asep,Wahyudi,bekantan,0,23,10,2020,6,1,47
+9189,0,,Asep,Wahyudi,bekantan,0,23,10,2020,6,6,6
+9190,0,saya bingung pas di pengolahan picResult nya?,Asep,Wahyudi,bekantan,0,23,10,2020,6,6,21
+9195,9189,bisa di foreach 1 per 1 kan file resultnya terus diconvert ke stream 1 1?,Albilaga,Pradana,albilaga,0,23,10,2020,8,26,15
+9196,0,Iterasi,Setyaadi,Kurnia,Adi_setya,0,23,10,2020,8,49,25
+9199,0,kl di foreach apa nanti dia kirim file nya jd 1 1 ke API nya,Asep,Wahyudi,bekantan,0,23,10,2020,16,52,10
+9200,9199,La kan itu misal tiap filenya dirubah jadi byte[] terus langsung kirim semuanya juga bisa kan? Foreqchnya bukan buat ngirim 1 1 tapi lebih buat ngubah ke stream/byte[],Albilaga,Pradana,albilaga,0,24,10,2020,4,50,6
+9215,0,"kira"" code nya seperti apa ya kang..",Asep,Wahyudi,bekantan,0,28,10,2020,7,49,37
+9221,0,sampe sekarang belum ketemu caranya...,Asep,Wahyudi,bekantan,0,28,10,2020,8,0,50
+9222,9221,https://stackoverflow.com/questions/16416601/c-sharp-httpclient-4-5-multipart-form-data-upload itu kan form content bisa nerima array data?,Albilaga,Pradana,albilaga,0,28,10,2020,10,16,13
+9232,0,"Hi Friends, \nCan Anyone Help me to design Image and Video Gallery View In Xamarin.",Time,Passs,,0,29,10,2020,10,30,8
+9242,0,,"Silaban,",Benny,SilabanBenny,0,30,10,2020,7,40,47
+9243,0,"Bantuannya mas-mas, supaya yg warna hijau itu bisa ke sebelah kanan gmn ya? Saya sudah coba menggunakan android:layout_gravity=""end"", tp g mau.","Silaban,",Benny,SilabanBenny,0,30,10,2020,7,41,55
+9244,9242,warna hijau yg mana ya? 😅,Albilaga,Pradana,albilaga,0,30,10,2020,8,32,6
+9245,0,"Angka 00:00 nya mas.\nTp sudah solve ko mas, terimakasih.","Silaban,",Benny,SilabanBenny,0,30,10,2020,8,35,29
+9246,9245,sip...,Albilaga,Pradana,albilaga,0,30,10,2020,9,7,42
+9335,0,Tutorial for firebase with xamarin,عمر,الشوبكي,,0,7,11,2020,16,11,54
+9365,9335,push notif? https://docs.microsoft.com/en-us/xamarin/android/data-cloud/google-messaging/firebase-cloud-messaging ?,Albilaga,Pradana,albilaga,0,11,11,2020,9,22,50
+9407,0,Anybody knows this error?,Alya,Sofiya,alyasofiya,0,14,11,2020,9,6,30
+9408,0,"You create a class library project, do you?",Setyaadi,Kurnia,Adi_setya,0,14,11,2020,9,25,53
+9409,9408,"no, my ios simulator cannot run...only android emulator is ok",Alya,Sofiya,alyasofiya,0,14,11,2020,9,53,12
+9412,9407,Choose ios project as startup project. And make sure you connect to mac,Albilaga,Pradana,albilaga,0,14,11,2020,10,44,30
+9452,0,Hello all,KHIM,Sopheak,KHIMsopheak,0,17,11,2020,14,39,46
+9453,0,Can we build native SDK by using Xamarin form ?,KHIM,Sopheak,KHIMsopheak,0,17,11,2020,14,40,36
+9460,9453,What do you mean by native sdk?,Albilaga,Pradana,albilaga,0,18,11,2020,4,34,31
+9461,9460,"I mean I want to build file .aar for android , and file .framework for IOS from xamarin form",KHIM,Sopheak,KHIMsopheak,0,18,11,2020,4,36,5
+9462,9461,Aha not sure about this as I never explore this,Albilaga,Pradana,albilaga,0,18,11,2020,5,1,24
+9463,0,Ok thank you I will check explore on this more,KHIM,Sopheak,KHIMsopheak,0,18,11,2020,5,2,9
+9464,9463,Let us know your exploration 😁,Albilaga,Pradana,albilaga,0,18,11,2020,5,8,17
+9465,0,Ok 😂😂,KHIM,Sopheak,KHIMsopheak,0,18,11,2020,5,17,11
+9470,9453,Yes can,Alya,Sofiya,alyasofiya,0,18,11,2020,5,44,32
+9471,9470,Can you brief me about how to do this ?,KHIM,Sopheak,KHIMsopheak,0,18,11,2020,5,45,38
+9472,9471,https://www.youtube.com/watch?v=I0D3JIYFljE,Alya,Sofiya,alyasofiya,0,18,11,2020,5,48,0
+9473,9472,"As I check this video show us about build application native app bro not SDK (native library).Anyway , thank for reply brother .😊",KHIM,Sopheak,KHIMsopheak,0,18,11,2020,5,51,23
+9503,0,hi everybody,ابوراجا,:),abooraja,0,21,11,2020,14,24,13
+9539,0,kenapa disini bahasa inggris ya,James_H,,elmo_is_eating,0,24,11,2020,16,12,44
+9540,9539,krn yg indo jarang tanya si 😂😂😂,Albilaga,Pradana,albilaga,0,24,11,2020,19,59,15
+9541,9538,@nandanugraha,Albilaga,Pradana,albilaga,0,24,11,2020,19,59,50
+9542,9540,😂😂,James_H,,elmo_is_eating,0,25,11,2020,0,51,50
+9544,9540,😂,Wahidin,Aji,WahidinAji,0,25,11,2020,17,32,24
+9601,0,"siang..,mau tanya dong xamarin android,bisa ga sih si activity itu tau kalo si adapter di listview dia itu ada perubahan data?",Ilyas,Pradana,PradanaIlyas,0,2,12,2020,7,16,31
+9602,0,"kalo kasih tau listview kan panggil notifydatasetchange(),kalo si activity nya cara taunya ada ga?",Ilyas,Pradana,PradanaIlyas,0,2,12,2020,7,17,19
+9605,9602,Paling passing activity ke adapternya,Albilaga,Pradana,albilaga,0,2,12,2020,10,11,35
+9610,9605,"iya udah bisa,makasih mas abi",Ilyas,Pradana,PradanaIlyas,0,2,12,2020,14,15,49
+9614,0,guys,James_H,,elmo_is_eating,0,3,12,2020,0,22,28
+9615,0,buku xamarin yg bagus apa kira2,James_H,,elmo_is_eating,0,3,12,2020,0,22,37
+9616,0,"aku lg mau belajar xamarin tp lg di luar negeri, ngga sama laptop sama pc",James_H,,elmo_is_eating,0,3,12,2020,0,22,56
+9617,0,jd yah... gimana lagi ini,James_H,,elmo_is_eating,0,3,12,2020,0,23,1
+9620,9615,Ini buat permulaan https://docs.microsoft.com/en-us/xamarin/xamarin-forms/creating-mobile-apps-xamarin-forms/,Albilaga,Pradana,albilaga,0,3,12,2020,1,55,40
+9622,9620,👍,Alya,Sofiya,alyasofiya,0,3,12,2020,3,17,59
+9623,9620,👍👍,James_H,,elmo_is_eating,0,3,12,2020,3,21,0
+9624,0,/,70 ribu nama bayi,,,0,3,12,2020,3,25,2
+9628,0,"pagi,mau tanya di android 10 engga bisa akses ExternalStorageDirectory.AbsolutePath ya?padahal di android 9 kebawah normal tapi pas di tes di android 10 jawabanya ""Access to the path '/storage/emulated/0/my folder' is denied."",apps nya juga permision nya udah di kasih read and write storage..",Ilyas,Pradana,PradanaIlyas,0,4,12,2020,3,43,8
+9644,0,"hi people\nI have refresh view in my xaml page, and I want to hide refresh indicator(spanner).\nanyone know how to do this?",,,,0,6,12,2020,16,44,51
+9645,0,any help please?,,,,0,6,12,2020,16,50,56
+9655,0,I'm fresher as xamarin developer\nCould you please send any xamarin projects\nWith MvvM pattern projects\nXamarin.forms and c# we are using...,Anil Jhon Wick,,Jhonwick6796,0,7,12,2020,8,5,13
+9664,9628,ini uda dicoba? https://stackoverflow.com/a/58626376/1351913,Albilaga,Pradana,albilaga,0,8,12,2020,4,23,49
+9665,9644,not setting IsRefreshing ?,Albilaga,Pradana,albilaga,0,8,12,2020,4,24,5
+9666,9655,you can take a look on here https://docs.microsoft.com/en-us/xamarin/xamarin-forms/samples/,Albilaga,Pradana,albilaga,0,8,12,2020,4,24,44
+9667,9664,"belom sih ,nanti saya coba mas terima kasih, sementara kemarin ganti path pake GetExternalFilesDir",Ilyas,Pradana,PradanaIlyas,0,8,12,2020,4,28,19
+9673,9665,"no, i had set it to true",,,,0,8,12,2020,8,36,56
+9674,9673,Yeah try set it to false all the time?,Albilaga,Pradana,albilaga,0,8,12,2020,8,38,33
+9688,0,who can help me with a good book on how to add xmpp to my xamarin app,Engineer,Goody,EngGoody,0,9,12,2020,10,11,37
+9689,9688,You need to learn how to create web api first,Albilaga,Pradana,albilaga,0,9,12,2020,11,41,53
+9690,0,Ok,Engineer,Goody,EngGoody,0,9,12,2020,12,36,1
+9696,0,,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,57,44
+9717,0,Ada yg pakai vs 2019 ga?,Anak Mami,,GueAnakMami,0,11,12,2020,2,55,54
+9718,0,Rata2,Setyaadi,Kurnia,Adi_setya,0,11,12,2020,2,57,5
+9719,0,"Ada yg bisa bantu build ga? Build doang apk, source nya udh jadi",Anak Mami,,GueAnakMami,0,11,12,2020,5,57,51
+9720,9719,Kalo berapa duitnya pm aja,Anak Mami,,GueAnakMami,0,11,12,2020,6,32,41
+9733,0,/,,,,0,11,12,2020,21,27,36
+9744,9719,"Ubah configurasi jadi Release, trus klik Kanan di bagian project android/ios pilih Archive",Rosa,Nugraha,rosasnugraha,0,13,12,2020,0,27,6
+9745,0,"Pagi semuanya, ijin bertanya, ada yg tau cara ganti icon Pins pada maps library xamarin.forms.maps ?",Rosa,Nugraha,rosasnugraha,0,13,12,2020,0,28,26
+9747,9745,Pake custom renderer https://docs.microsoft.com/en-us/xamarin/xamarin-forms/app-fundamentals/custom-renderer/map-pin,Albilaga,Pradana,albilaga,0,13,12,2020,1,20,30
+9750,9747,ini pakai package xamarin.googleplayservice ya bang,Rosa,Nugraha,rosasnugraha,0,13,12,2020,2,38,38
+9751,0,kalau pakai package xamarin.forms.maps ada bang?,Rosa,Nugraha,rosasnugraha,0,13,12,2020,2,38,51
+9752,9751,Itu pake xamarin.forms.maps terus bikin custom renderer di platform masing2,Albilaga,Pradana,albilaga,0,13,12,2020,5,5,53
+9753,0,"magsud saya ganti icon pin nya bang,",Rosa,Nugraha,rosasnugraha,0,13,12,2020,5,10,48
+9754,0,ganti yang marker merah itu jadi pake image,Rosa,Nugraha,rosasnugraha,0,13,12,2020,5,10,59
+9755,0,"hello people, Good morning from India..",Naresh,,dev_looper,0,13,12,2020,5,12,31
+9756,0,I've started my baby steps in xamarin recently.. So I developed a sample project called OR(online radio). Its a simple online radio streaming app. I'm able to stream mp3 files and stations which are stream mp3 files. But I'm facing problems with shout cast streaming channels. I'm using standard media player. Do you guys have any working examples with shout cast streaming. What should i follow?,Naresh,,dev_looper,0,13,12,2020,5,19,27
+9758,9753,Iya. Basicnya sama kok. Bikin custom renderer. Nah terus cari tau di masing2 platform gmn cara ganti marker merahnua,Albilaga,Pradana,albilaga,0,13,12,2020,16,18,14
+9768,0,"taunya darimana ada kasus yang cocok ato engga, saya biasanya liat: https://www.dofactory.com/net/design-patterns",Astrid,Dini,astriddini,0,14,12,2020,14,40,4
+9775,0,Hello semua.. apa kabar,Fajarsoft,,fajarsoft,0,15,12,2020,10,23,24
+9776,0,kabar baik,Alya,Sofiya,alyasofiya,0,15,12,2020,11,3,47
+9788,0,"hallo semua saya ingin tanya, saat saya install xamarin.firebase.messaging muncul error gini, kenapa ya",Rosa,Nugraha,rosasnugraha,0,17,12,2020,3,14,26
+9793,0,xamarin.firebase.messaging hanya bisa diinstall d project android,Albilaga,Pradana,albilaga,0,17,12,2020,4,11,12
+9794,0,siapp bang makasih,Rosa,Nugraha,rosasnugraha,0,17,12,2020,4,12,16
+9798,0,#job full time onsitre\ndot net developer\nc# vb net(optional)\njquery css\nsql server mysql\nangular\nminimal 3thn\n\ninfo bisa japri\nor kirim cv dan salary ke r.hidayat@darulgs.co.id,Dayat,,daysz,0,17,12,2020,6,52,31
+9815,0,Can anyone guide regarding proper implementation of link all in linking behavior,Mehul,singhai,,0,18,12,2020,16,56,21
+9826,9815,I never use this. Really tricky. Not worth spending time so always using the mid option🤣,Albilaga,Pradana,albilaga,0,21,12,2020,16,15,37
+9827,9826,Sometimes size become priority thats why we need this 😅,Mehul,singhai,,0,22,12,2020,4,48,39
+9841,0,Selamat pagi all..,Andy,Thomas,Hotcold78,0,24,12,2020,2,6,4
+9842,0,Mo tanya.. bagaimana cara cetak gambar ke bluetooth printer,Andy,Thomas,Hotcold78,0,24,12,2020,2,6,55
+9843,0,Soalnga gagal terus,Andy,Thomas,Hotcold78,0,24,12,2020,2,7,13
+9844,0,Pakai crystal report mas,Rosa,Nugraha,rosasnugraha,0,24,12,2020,2,7,19
+9845,0,Disana bisa include gambar,Rosa,Nugraha,rosasnugraha,0,24,12,2020,2,7,24
+9846,0,Add gambar via dataset,Rosa,Nugraha,rosasnugraha,0,24,12,2020,2,7,31
+9847,0,Buat table dan row nya di dataset,Rosa,Nugraha,rosasnugraha,0,24,12,2020,2,7,40
+9848,0,Utk xamarin bisa crytal report?,Andy,Thomas,Hotcold78,0,24,12,2020,2,8,0
+9849,0,Soalnya mo buat invoice.receipt,Andy,Thomas,Hotcold78,0,24,12,2020,2,10,15
+9850,9842,wah belum pernah kalo ini...,Albilaga,Pradana,albilaga,0,24,12,2020,3,25,51
+9851,9827,ahaha... yeah. how much is your app size?,Albilaga,Pradana,albilaga,0,24,12,2020,3,26,0
+9852,0,180 mb,Mehul,singhai,,0,24,12,2020,3,26,17
+9853,9850,Thk u,Andy,Thomas,Hotcold78,0,24,12,2020,3,42,20
+9856,0,"#Request \nFirebase Push Notifications to specific page in xamarin.Forms, \nAnybody had any idea please dm me",Anil Jhon Wick,,Jhonwick6796,0,24,12,2020,16,32,12
+9857,9852,that is a lot. maybe you can try compress your asset first....,Albilaga,Pradana,albilaga,0,24,12,2020,16,57,40
+9867,0,Do anyone have xamarin source code of e-commerce app?,Mahe,,Mahe_rj,0,27,12,2020,17,49,28
+9874,9856,I hve used this,Mehul,singhai,,0,28,12,2020,11,55,53
+9875,9874,Could you please send source code link to my inbox please 🙏,Anil Jhon Wick,,Jhonwick6796,0,28,12,2020,12,36,48
+9945,0,"Hello, salam kenal",,,,0,10,1,2021,7,2,27
+9946,0,mau nanya nih gmn yah caranya membuat frame supaya bisa diklik,,,,0,10,1,2021,7,2,56
+9947,0,sy masih baru nihh,,,,0,10,1,2021,7,3,4
+9952,9946,Pake tapgesturerecognizer,Albilaga,Pradana,albilaga,0,11,1,2021,9,22,49
+9953,0,Semua view bisa pake itu,Albilaga,Pradana,albilaga,0,11,1,2021,9,22,56
+9959,0,"mau nanya nih, dimana ya output apk nya?",Anak Mami,,GueAnakMami,0,12,1,2021,3,26,44
+9960,9959,uda coba di archive ?,Albilaga,Pradana,albilaga,0,12,1,2021,3,57,50
+9961,9960,Siap,Anak Mami,,GueAnakMami,0,12,1,2021,4,14,12
+9977,0,Ada yang dari bandung disini,Risman,Afyandi,rismanafyandi,0,13,1,2021,2,8,6
+9978,9977,uda lama gak di bandung. hahaha,Albilaga,Pradana,albilaga,0,13,1,2021,4,30,15
+9989,0,,Abdul Mughni,,aplikasitvkabel,0,14,1,2021,8,12,40
+10029,0,"Xamarin Forms 5, versi terakhir xamarin sebelum evolve menjadi .NET MAUI",Erick,Kurniawan,erikur,0,19,1,2021,9,20,8
+10030,0,https://devblogs.microsoft.com/xamarin/xamarin-forms-5-0-is-here/,Erick,Kurniawan,erikur,0,19,1,2021,9,20,10
+10031,0,Yeeey 🥳,Mas Nanda,Nugraha,nandanugg,0,19,1,2021,9,22,21
+10032,0,Hi\nWhy app don’t running in emulator,Dhuha,,,0,19,1,2021,12,12,26
+10033,0,,Dhuha,,,0,19,1,2021,12,12,27
+10034,10032,it is because you didn't start it yet.,Albilaga,Pradana,albilaga,0,19,1,2021,14,47,36
+10036,0,,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,19,1,2021,17,14,45
+10037,0,"Teman-teman Saya ingin memberikan kontribusi saya kepada komunitas Xamarin, untuk pemula",Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,19,1,2021,17,16,19
+10038,0,Akses gratis seumur hidup. DAFTAR:,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,19,1,2021,17,16,50
+10039,0,https://www.udemy.com/course/xamarin-una-introduccion-al-sdk-de-microsoft/?couponCode=0AC1F945B19867E042AF,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,19,1,2021,17,16,57
+10040,10034,It was end of running in the pic\nNow it run there’s some tool sdk missing and installed it,Dhuha,,,0,19,1,2021,20,6,5
+10050,0,Hi guys I'm ahmdd from egypt,Ahmed,Ali,AhmedTXT,201111991804,21,1,2021,21,18,14
+10051,0,I'm still learning xamarin,Ahmed,Ali,AhmedTXT,201111991804,21,1,2021,21,18,30
+10052,0,Any advice,Ahmed,Ali,AhmedTXT,201111991804,21,1,2021,21,19,3
+10062,10051,learn first then ask question later if you got confused https://dotnet.microsoft.com/learn/xamarin/hello-world-tutorial/intro,Albilaga,Pradana,albilaga,0,23,1,2021,5,27,26
+10063,10040,yeah maybe some sdk not installed,Albilaga,Pradana,albilaga,0,23,1,2021,5,27,34
+10064,0,Hallo kk...\nAda yg pakai xamarin.form previewer kah ? Saya Ada kendala load previewer lama sekali. Loading terus. Sampai 2 jam tidak ada keload viewnya,Astrid,Dini,astriddini,0,23,1,2021,5,29,2
+10065,0,,Astrid,Dini,astriddini,0,23,1,2021,5,29,9
+10066,0,,Astrid,Dini,astriddini,0,23,1,2021,5,29,9
+10067,10066,"Emang g stabil previewernya, kalau yg sekarang kan sudah ada hot reload jd pake itu aja, langsung preview di emulator/device aja",Erick,Kurniawan,erikur,0,23,1,2021,11,46,50
+10068,0,"Cm hot reload nya sebatas xaml aja yg berubah ya, klo c# berubah harus di reload lg",Erick,Kurniawan,erikur,0,23,1,2021,11,47,42
+10069,0,Oh baik kak. Kirain hot reload ada tambahan plugin lagi kak🙈,Astrid,Dini,astriddini,0,23,1,2021,11,48,17
+10070,0,Thx kk @erikur,Astrid,Dini,astriddini,0,23,1,2021,11,48,25
+10071,10069,"Engga kok udah bawaan, klo xaml diganti tgl save aja nantindi emulator/device menyesuaikan",Erick,Kurniawan,erikur,0,23,1,2021,11,49,44
+10072,0,Oiya. Berarti kalau begitu g bisa pakai xamarin formnya dong ya kak. Yg tinggal drag drop kak @erikur @albilaga,Astrid,Dini,astriddini,0,23,1,2021,11,49,45
+10073,10072,Iya langsung ketik xaml aja nanti di preview di emulator/device langsung. Kalau drag drop ga banyak guna jg mnrt sy,Erick,Kurniawan,erikur,0,23,1,2021,11,51,25
+10074,0,Dengan hot reload lbh cepet kan g usah nunggu build n deploy ke emu/device lg,Erick,Kurniawan,erikur,0,23,1,2021,11,52,7
+10075,0,Oke kak. Sampai sini astrid faham kak. Besok ngoding XML aja deh. G usah tungguin previewer nya🙈,Astrid,Dini,astriddini,0,23,1,2021,11,53,19
+10076,0,Makasih ya kak🤗,Astrid,Dini,astriddini,0,23,1,2021,11,53,35
+10077,0,👍,Erick,Kurniawan,erikur,0,23,1,2021,11,55,34
+10080,0,"Izin gabung min, mohon bimbingan 🙏🏽",eng,daeng,eng_daeng,0,23,1,2021,15,15,39
+10120,0,"permisi numpang tanya, ini saya update ke visual studio 16.8 kok xaml preview gajalan,mesti pake hot reload,cara balikinnya gmna ya?",Ismail,Lowkey,ismaillowkey,0,27,1,2021,9,31,12
+10121,0,"disable hot reload n centang xaml preview,restart vs,tetep ga ngaruh",Ismail,Lowkey,ismaillowkey,0,27,1,2021,9,31,44
+10122,0,"sebelum update visual studio,lancar² aja",Ismail,Lowkey,ismaillowkey,0,27,1,2021,9,32,21
+10123,0,"saran sih, jangan pake xaml preview. kadang sering bgt jauh dari pas dicoba di device langsung. pengalaman pribadi :v",Wahidin,Aji,WahidinAji,0,27,1,2021,9,51,9
+10124,0,mksutnya jangan dijadikan patokan ya.,Wahidin,Aji,WahidinAji,0,27,1,2021,9,51,33
+10125,10120,Ya uda pake hot reload aja. Xaml previewnya kayaknya emang mau dimatiin kalo gak salah. Agak2 lupa juga. Fokusnya sekarang di hot reload,Albilaga,Pradana,albilaga,0,27,1,2021,9,59,57
+10126,0,waduh,Ismail,Lowkey,ismaillowkey,0,27,1,2021,10,0,39
+10127,10125,hot reload udh enk bgt soalnya. tinggal save auto ngreload😅,Wahidin,Aji,WahidinAji,0,27,1,2021,10,2,26
+10143,0,malam,Risman,Afyandi,rismanafyandi,0,30,1,2021,11,52,3
+10144,0,mohon pencerahan agal xamarin form tetep runing walaupun di kill,Risman,Afyandi,rismanafyandi,0,30,1,2021,11,52,19
+10145,10144,kebutuhannya bagaimana mas? untuk proses apa yg harus jalan d background?,Erick,Kurniawan,erikur,0,30,1,2021,12,1,25
+10146,0,misalkan proses nya untuk push notif (melupakan fcm) \njadi walaupun app tidak dibuka request response data tetap berjalan,Risman,Afyandi,rismanafyandi,0,30,1,2021,12,2,52
+10147,0,"kalau push notif lebih efisien pakai fcm Pak (unt android) toh gratis, kenapa ga pakai fcm?",Erick,Kurniawan,erikur,0,30,1,2021,12,13,1
+10148,0,klo di xamarin untuk cross platform android/ios bisa pakai azure notification hub,Erick,Kurniawan,erikur,0,30,1,2021,12,13,30
+10149,0,itu contoh aja..\nintinya buat proses lain ka,Risman,Afyandi,rismanafyandi,0,30,1,2021,12,19,25
+10150,10148,jadi kebutuhan utama bukan buat notif,Risman,Afyandi,rismanafyandi,0,30,1,2021,12,20,1
+10151,0,Pake sticky masih ke kill soalnya.,Risman,Afyandi,rismanafyandi,0,30,1,2021,12,22,26
+10152,0,"soalnya memang dibatasi oleh OS untuk background services, kecuali yg bawaan spt push notif, coba explore ini mas https://allancritchie.net/posts/shinyjobs",Erick,Kurniawan,erikur,0,30,1,2021,12,29,51
+10153,10152,ok mas @erikur informasi nya,Risman,Afyandi,rismanafyandi,0,30,1,2021,12,35,4
+10154,0,para suhu satu lagi..\nboleh tanya kah karena tidak begitu baik dalam sisi design.\ngimana caranya ato dimana saya dapat design xamarin form yang proporsional.\nato adakah trick nuya,Risman,Afyandi,rismanafyandi,0,30,1,2021,13,16,54
+10155,0,*nya,Risman,Afyandi,rismanafyandi,0,30,1,2021,13,16,55
+10156,0,klo yg berbayar ini mas https://grialkit.com/ sudah keren UI nya,Erick,Kurniawan,erikur,0,30,1,2021,13,19,1
+10157,0,klo yg gratisan bisa pilih2 disini https://github.com/jsuarezruiz/xamarin-forms-goodlooking-UI,Erick,Kurniawan,erikur,0,30,1,2021,13,19,16
+10158,0,"tanya dong,kalo misalkan saya mau minta token ke web api restfull pake json,kan kalo di postman bisa kasih jsonya tuh ke url nya,kalo di xamarin androidnya gimana ya caranya?mksdnya,tulis di googlenya gimana ya buat cari referensinya?",Ilyas,Pradana,PradanaIlyas,0,1,2,2021,4,43,7
+10159,0,Keyword http client with jwt token xamarin,Erick,Kurniawan,erikur,0,1,2,2021,4,44,16
+10160,0,Nanmbah d http headernya tar Authorization: berarer(key),Erick,Kurniawan,erikur,0,1,2,2021,4,44,53
+10161,0,"ok makasih mas,saya coba cari dlu",Ilyas,Pradana,PradanaIlyas,0,1,2,2021,4,50,12
+10174,0,https://danielmonettelli.github.io/posts/xamarin-forms-ui-ux-challenges-micuna-food_part1/,Alya,Sofiya,alyasofiya,0,2,2,2021,11,18,29
+10175,0,Cantik 👆👍,Alya,Sofiya,alyasofiya,0,2,2,2021,11,18,41
+10198,0,akhirnya xamarin mau nyoba approach flutter juga pake drawn control https://github.com/jsuarezruiz/GraphicsControls 😂😂,Albilaga,Pradana,albilaga,0,5,2,2021,2,35,50
+10199,0,,Daijobu,,xDaijobu,0,5,2,2021,2,42,22
+10200,0,"tetap pakai native ny, kirain pke skia buat semua platform wkwk",Daijobu,,xDaijobu,0,5,2,2021,2,42,35
+10201,0,tpi setidakny ud ada gambaran yg baguslah buat kedepanny,Daijobu,,xDaijobu,0,5,2,2021,2,43,3
+10202,10198,tpi Xamarin dah last version kyk e :v,Wahidin,Aji,WahidinAji,0,5,2,2021,2,44,54
+10203,0,evolusi,Daijobu,,xDaijobu,0,5,2,2021,2,49,43
+10204,0,https://devblogs.microsoft.com/dotnet/introducing-net-multi-platform-app-ui/,Daijobu,,xDaijobu,0,5,2,2021,2,50,9
+10205,10199,iya tapi drawn control jadi gak di map misal entry jadi textfield di iOS gitu. performanya bisa lebih bagus si n bisa pixel to pixel konsisten....,Albilaga,Pradana,albilaga,0,5,2,2021,2,55,51
+10206,10202,iya itu experimental buat maui juga,Albilaga,Pradana,albilaga,0,5,2,2021,2,56,2
+10208,0,Pakai MVU c# only jd lebih simple ya :) tunggu MAUI tar di .NET 6,Erick,Kurniawan,erikur,0,5,2,2021,10,35,57
+10209,10208,MVU atau mVu? https://twitter.com/dsymetweets/status/1262797504535580674,Albilaga,Pradana,albilaga,0,5,2,2021,11,32,38
+10239,0,saya ga liat rule. tp kok post saya di apus ya?,Dayat,,,0,10,2,2021,5,53,38
+10242,0,Mungkin post kamu mengandung link spam,Mas Nanda,Nugraha,nandanugg,0,10,2,2021,6,22,59
+10243,0,Sehingga di hapus sm bot,Mas Nanda,Nugraha,nandanugg,0,10,2,2021,6,23,29
+10244,0,padahal ga ada link. cma info loker dengan hastag,Dayat,,,0,10,2,2021,11,9,53
+10245,0,Kalo lokernya ngga ada hubungannya sm xamarin biasanya kehapus juga,Mas Nanda,Nugraha,nandanugg,0,10,2,2021,11,40,25
+10246,0,"Atau mungkin bisa jadi kamu ngepost loker ke banyak grup, trus grup2 yg kamu post kan lokernya pakai anti bot yg sama dengan grup ini",Mas Nanda,Nugraha,nandanugg,0,10,2,2021,11,41,17
+10247,0,Sehingga anti bot ngedetek pesannmu sbgi spam,Mas Nanda,Nugraha,nandanugg,0,10,2,2021,11,41,35
+10248,10245,memang bukan xamarin seh. tp c# asp net,Dayat,,,0,10,2,2021,11,46,12
+10249,10246,mungkin ini jg bener seh,Dayat,,,0,10,2,2021,11,46,18
+10250,0,ok siap,Dayat,,,0,10,2,2021,11,46,21
+10255,0,Permisi ijijln bergabung,Pringgo,Muhammad,,0,11,2,2021,5,9,3
+10256,0,Ijin,Pringgo,Muhammad,,0,11,2,2021,5,9,6
+10258,0,Halo semua nya,Real,Name,Qwertyui1123,0,11,2,2021,8,48,10
+10259,0,Saya mohon bantuan dari teman2,Real,Name,Qwertyui1123,0,11,2,2021,8,48,21
+10260,0,Ada yang membuat akun palsu dari instagram dan menggunakan foto kaka saya,Real,Name,Qwertyui1123,0,11,2,2021,8,48,43
+10261,0,Apakah ada yg bisa membantu saya,Real,Name,Qwertyui1123,0,11,2,2021,8,48,50
+10262,0,hi,,,,0,11,2,2021,14,56,13
+10265,0,Somebody here...can u help me,Real,Name,Qwertyui1123,0,12,2,2021,11,27,31
+10266,0,Somebody here...can u help me,you,r,,0,12,2,2021,22,37,6
+10276,0,Selamat malam semua.\ntrend xamarin saat ini bagaimana ya ?\ndulu pernah main xamarin sekarang coba iseng lihat perkembangannya.,Bayu,Lukman Yusuf,bayuly94,0,14,2,2021,12,26,41
+10277,0,karna penasaran jadi coba install xamarin di pc,Bayu,Lukman Yusuf,bayuly94,0,14,2,2021,12,27,13
+10278,0,"bagus kok om, dan ya kedepannya bakal diganti sama MAUI. tpi itu release di .net 6 kyk e.",Wahidin,Aji,WahidinAji,0,14,2,2021,13,30,36
+10279,10278,cara installnya gmn ya ?\napa harus install .net 6 dulu ya ?,Bayu,Lukman Yusuf,bayuly94,0,14,2,2021,14,49,23
+10280,0,belum release om :v,Wahidin,Aji,WahidinAji,0,14,2,2021,15,0,14
+10281,0,wkkwkw wah nunggu ya,Bayu,Lukman Yusuf,bayuly94,0,14,2,2021,15,4,50
+10289,0,https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/#comment-8433,Daijobu,,xDaijobu,0,18,2,2021,3,4,27
+10290,0,is there any solution to stop shell scrolling of flyout menu? I'm developin a project and am not able to stop it from scrolling,Saurabh,,saurabh3_18,0,18,2,2021,5,40,41
+10291,10290,,Daijobu,,xDaijobu,0,18,2,2021,6,23,47
+10303,0,I've tried this but it is not working,Saurabh,,saurabh3_18,0,22,2,2021,9,53,37
+10306,0,Here is How to add Admob app open ad in Xamarin\n\nhttps://youtu.be/ZfIU0YkOevg,Ibrahim,,,0,23,2,2021,13,57,10
+10313,0,https://www.youtube.com/watch?v=CCKUVJfNqWU,Erick,Kurniawan,erikur,0,25,2,2021,4,50,51
+10314,0,Akhirnya Azure akan ada data center di Indonesia,Erick,Kurniawan,erikur,0,25,2,2021,4,51,3
+10315,0,https://news.microsoft.com/apac/2021/02/25/microsoft-to-establish-first-datacenter-region-in-indonesia-as-part-of-berdayakan-digital-economy-indonesia-initiative/?fbclid=IwAR3wk0IuybzGhRKrslb1y8tZyazLpF_mEjOZDTDvShilufzBe8xD4Wptqew,Erick,Kurniawan,erikur,0,25,2,2021,4,51,10
+10316,10314,Ooh ditunggu NV6 nya biar bisa ngegame 😆,Mas Nanda,Nugraha,nandanugg,0,25,2,2021,5,35,19
+10317,0,😂,Erick,Kurniawan,erikur,0,25,2,2021,5,35,46
+10318,0,"kira2, komunitas dotnetnya bakal nambah ga ya diindo. dg adanya datacenter mereka disini",Wahidin,Aji,WahidinAji,0,25,2,2021,5,57,24
+10319,10318,Aha komunitas dotnet. Ini agak susah🤣🤣🤣,Albilaga,Pradana,albilaga,0,25,2,2021,5,58,34
+10320,0,😂😂😂😂,Wahidin,Aji,WahidinAji,0,25,2,2021,6,11,18
+10321,10318,"Semoga mas, sekarang .net core jg open source, github diakuisisi, vs code jg banyak dipake d platform lain. MS yg sekarang beda dengan yg lalu (jaman steve balmer) 😂",Erick,Kurniawan,erikur,0,25,2,2021,7,25,12
+10322,0,"Karena kebutuhan d enterprise masih banyak, klo di startup memang kurang populer ya, semoga kedepan asp core/blazor etc bs lebih banyak dipake d startup",Erick,Kurniawan,erikur,0,25,2,2021,7,26,51
+10325,0,kalau jdi besar manteb sih. soalnya lebih seneng lihat sintaknya C# dn typescript dri pda php dn js😅. ya walaupun di dotnet ada F# sm vb,Wahidin,Aji,WahidinAji,0,25,2,2021,14,55,23
+10345,0,Freelancer -> Xamarin with c# direct msg me please,Anil Jhon Wick,,Jhonwick6796,0,1,3,2021,17,49,40
+10350,0,Freelancer -> Xamarin with c# direct msg me please,,,,0,3,3,2021,1,8,7
+10357,0,https://youtu.be/ZfIU0YkOevg,Ibrahim,,,0,4,3,2021,12,10,10
+10373,0,"Selamat malam semua, mau tanya ini kenapa ya gak bisa nge load gambarnya? Padahal icon icon dibawah juga diambil dari server yang sama. Tapi kalau jalanin di emulator semua icon sama foto bisa tampil semua",Rizal,,mmafrizalsp,0,10,3,2021,14,16,44
+10374,0,Dokumen juga gak bisa nampil,Rizal,,mmafrizalsp,0,10,3,2021,14,17,53
+10375,0,"Gak jadi, udah solve 🙂",Rizal,,mmafrizalsp,0,10,3,2021,14,27,59
+10376,0,Bantu donk om.. untuk live player di vs2017  ga bisa bisa.. padahal sudah di scan,Fajarsoft,,fajarsoft,0,11,3,2021,8,43,51
+10377,0,Inet sudah 1 jaringan,Fajarsoft,,fajarsoft,0,11,3,2021,8,44,4
+10378,10376,Liveplayer? Kayaknya uda lama gak pake ini. Kenapa gak pake vs 2019 aja?,Albilaga,Pradana,albilaga,0,11,3,2021,9,29,44
+10388,0,Hi,INFINITE,INFINITY,Infinite_Infinithy,0,14,3,2021,12,28,27
+10389,0,Is there anyone here that can help in changing the User interface of my application in xamarin,INFINITE,INFINITY,Infinite_Infinithy,0,14,3,2021,12,28,53
+10393,0,"selamat siang, ijin bertanya, bagaimana caranya mengeksekusi command dari file c# bukan dari event click button",Rosa,Nugraha,rosasnugraha,0,16,3,2021,6,20,15
+10395,10393,Bisa kayak CommandA.Execute(param),Albilaga,Pradana,albilaga,0,16,3,2021,9,51,42
+10397,0,yg mau isi survey https://twitter.com/davidortinau/status/1372536437250342918,Albilaga,Pradana,albilaga,0,19,3,2021,3,26,15
+10398,0,"dh lma bgt ga main Xamarin 😄 ,\njdi pengen wkwkw",Wahidin,Aji,WahidinAji,0,19,3,2021,3,53,27
+10403,0,di hapus boot.😔,Fajar,Nugroho,fajarnugroho25,0,20,3,2021,6,31,50
+10404,0,ada soloraya disini,Fajar,Nugroho,fajarnugroho25,0,20,3,2021,6,32,17
+10405,0,?,Fajar,Nugroho,fajarnugroho25,0,20,3,2021,6,32,19
+10406,0,🙏🙏,Fajar,Nugroho,fajarnugroho25,0,20,3,2021,6,32,21
+10408,0,bantu saranin nama website dong https://forms.gle/BxJguCWYzNrQKpW29,YOAN,,Yo_nz,0,20,3,2021,17,12,15
+10409,10408,expireddomains,Anak Mami,,GueAnakMami,0,22,3,2021,10,5,27
+10411,0,"Please help, when I open the xml file and do the design, the icons do not appear on the design screen in Visual Studio, but they do appear on the emulator after running the program.",leader,,,0,22,3,2021,22,30,30
+10412,0,"I activated xamarin hot reload, but it didn't work yet, what is the problem?",leader,,,0,22,3,2021,22,30,44
+10413,10412,Xamarin hot reload is for xamarin.forms only and that is for auto reload page when xaml changed,Albilaga,Pradana,albilaga,0,22,3,2021,23,8,45
+10414,10411,I have been long not touching xamarin.android so I am not sure the tooling is better now😅😅\nLast time I am using android studio to design it,Albilaga,Pradana,albilaga,0,22,3,2021,23,9,29
+10415,10414,"I don’t know why it’s not working well, I can't see the changes during the design, that’s very tiring😐😂",leader,,,0,22,3,2021,23,20,23
+10433,0,Hi guys,Usman,Ahmad,usman_ahmad_nasir,0,28,3,2021,19,41,9
+10434,0,Pls can I use xamarin without visual studio,Usman,Ahmad,usman_ahmad_nasir,0,28,3,2021,19,41,32
+10436,10434,you can use jetbrain rider,Ismail,Lowkey,ismaillowkey,0,29,3,2021,0,51,55
+10444,0,"Hello community, I share the complete project using Xamarin forms: https://www.udemy.com/course/bjorn-app-android-publicitaria-en-xamarin-forms-y-firebase/?couponCode=D32CB571ACD2AECD67C5",Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,30,8
+10445,0,project screens,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,31,4
+10446,0,,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,31,4
+10447,0,,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,31,5
+10448,0,,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,31,5
+10449,0,,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,31,6
+10450,0,,Ing. Franklin J. Bustamante Alejandria,,Codigo369,0,4,4,2021,19,31,7
+10454,0,Selamat siang.. adakah solusi mendesain xaml dengan tampilan tanpa menggunakan Hot Reload ?,Surya,Adiputra,agussuryaadip,0,9,4,2021,4,58,39
+10455,10454,ya tinggal gak dipake kan hot reloadnya?,Albilaga,Pradana,albilaga,0,9,4,2021,10,8,12
+10456,0,maksudnya gak ada tab design xaml nya jadi meraba2,Surya,Adiputra,agussuryaadip,0,9,4,2021,10,8,57
+10457,0,oh kayaknya tab design emang diilangin si sekarang….,Albilaga,Pradana,albilaga,0,9,4,2021,10,9,28
+10458,0,ada trik gak om biar bs desain tanpa hot reload?,Surya,Adiputra,agussuryaadip,0,9,4,2021,10,10,4
+10459,0,lah kok ngulangin pertanyaan :v. btw itu bisa dihide kok,Wahidin,Aji,WahidinAji,0,9,4,2021,10,13,50
+10463,10458,turunin versi vsnya 😂,Ismail,Lowkey,ismaillowkey,0,10,4,2021,0,28,7
+10467,0,"selamt sore, mau tanya, saya pakai firebase cloud messaging, nah di mode debug notifikasi muncul, tapi ketika saya ubah ke mode release notifikasi ga muncul,, ada yang tau masalahnya apa?",Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,37,55
+10468,10467,pake keystore yg sama?,Albilaga,Pradana,albilaga,0,13,4,2021,8,42,21
+10469,0,maaf bang keystore itu yang mana bang,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,42,52
+10470,0,SHA-1 bang?,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,44,0
+10471,0,token ny ud cocok ?,Daijobu,,xDaijobu,0,13,4,2021,8,46,13
+10472,0,kalau token saya coba pakai mode debug muncul notifikasi nya,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,46,59
+10473,0,"takutny saat mode release, token ny pun ikut berubah",Daijobu,,xDaijobu,0,13,4,2021,8,47,21
+10474,0,"coba kasih Console.WriteLine didlm method OnTokenRefresh ( trs coba debug tpi via release ) , trs patengin aj output ny",Daijobu,,xDaijobu,0,13,4,2021,8,48,8
+10475,0,sama di method OnMessageReceived ( biar tau notifikasi ny bner2 masuk apa ngga ),Daijobu,,xDaijobu,0,13,4,2021,8,48,24
+10476,0,filter output log ny pakai tag 'mono-stdout',Daijobu,,xDaijobu,0,13,4,2021,8,49,3
+10477,0,kalau via release gbisa ngeluarin console.writeline bang,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,49,9
+10478,0,,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,50,23
+10479,0,"setau saya ya, Console.WriteLine itu hampir sama kyk Android.Util.Log.Info/Debug/Warn",Daijobu,,xDaijobu,0,13,4,2021,8,50,40
+10480,0,jdi di mode release pun akan tetap muncul,Daijobu,,xDaijobu,0,13,4,2021,8,50,45
+10481,0,lihat outpuny di Device Log,Daijobu,,xDaijobu,0,13,4,2021,8,51,20
+10482,0,"di saya, ketika mode release, nah bagian output nya itu jdi stop bang",Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,52,46
+10483,0,"coba cari DeviceLog di visual studio utk windows ( sy lupa nama nya), kalau mau liat versi native ny bisa langsung dr Android Studio , trs via LogCat",Daijobu,,xDaijobu,0,13,4,2021,8,53,47
+10484,0,"sy lgi pke macOs, jdi ngga bisa ksih contoh utk windows",Daijobu,,xDaijobu,0,13,4,2021,8,54,25
+10485,0,"kalau di vsMac, namany sih Device Log",Daijobu,,xDaijobu,0,13,4,2021,8,54,49
+10486,0,"alternatif lainnya ya,\ndi hp nya kamu install aplikasi Logcat Reader ( standby & jgn lupa kasih tag 'mono-stdout' )",Daijobu,,xDaijobu,0,13,4,2021,8,55,48
+10487,0,trs coba debug xamarin ny dgn mode release,Daijobu,,xDaijobu,0,13,4,2021,8,55,59
+10488,0,oiyaa ada bang,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,56,7
+10489,0,bentar saya cek,Rosa,Nugraha,rosasnugraha,0,13,4,2021,8,56,10
+10490,0,sipp,Daijobu,,xDaijobu,0,13,4,2021,8,58,19
+10491,0,nah bang token nya ada bang di mode release tapi notif nya ga nyampe bang,Rosa,Nugraha,rosasnugraha,0,13,4,2021,9,2,53
+10492,0,ud tambahin Console.WriteLine didlm method OnMessageReceived ?,Daijobu,,xDaijobu,0,13,4,2021,9,3,49
+10493,0,sebentar bang,Rosa,Nugraha,rosasnugraha,0,13,4,2021,9,4,5
+10494,0,tkut sy ada sesuatu yg bikin crash saat mode release *menurut pengalaman*,Daijobu,,xDaijobu,0,13,4,2021,9,4,23
+10495,0,brdsrkan*,Daijobu,,xDaijobu,0,13,4,2021,9,4,30
+10496,0,"makasih bang, alhamdulillah udah solved, thnks bang, mantappp",Rosa,Nugraha,rosasnugraha,0,13,4,2021,9,20,50
+10497,0,👌🏻👌🏻👌🏻👌🏻👌🏻👌🏻,Rosa,Nugraha,rosasnugraha,0,13,4,2021,9,21,4
+10498,0,sipp,Daijobu,,xDaijobu,0,13,4,2021,9,23,8
+10499,0,sama2,Daijobu,,xDaijobu,0,13,4,2021,9,23,20
+10504,0,"hallo selamat sore, ijin bertanya, saya mempunyai problem, jadi ketika pertama kali saya menginstall aplikasi hasil release kemudian dibuat archive, nah refreshedToken firebase kosong, tapi ketika aplikasi dikeluarkan dlu kemudian masuk lagi, token berhasil di get",Rosa,Nugraha,rosasnugraha,0,14,4,2021,7,30,55
+10507,0,"mkstny gmn ya ?,\narchive ( jdi APK ), trs di install, trs dibuka apllikasi ny ? ( token kosong ? )",Daijobu,,xDaijobu,0,14,4,2021,8,45,57
+10508,0,iya betul bang,Rosa,Nugraha,rosasnugraha,0,14,4,2021,8,46,35
+10509,0,pas pertama buka aplikasi setelah install,Rosa,Nugraha,rosasnugraha,0,14,4,2021,8,46,45
+10510,0,"tapi ketika buka aplikasi yg kedua, token berhasil di get",Rosa,Nugraha,rosasnugraha,0,14,4,2021,8,47,0
+10511,0,coba implemen ny pakai FirebaseMessagingService,Daijobu,,xDaijobu,0,14,4,2021,8,47,5
+10512,0,trs set token mu di dlm method OnNewToken,Daijobu,,xDaijobu,0,14,4,2021,8,47,24
+10513,0,kalau FirebaseInstance.Instance.Token ( tkut saya krna blm dapet aja token nya ),Daijobu,,xDaijobu,0,14,4,2021,8,47,53
+10514,0,tambah lagi token ny di get saat OnCreate kan ?,Daijobu,,xDaijobu,0,14,4,2021,8,48,4
+10515,0,"ini ya bang, tinggal tambah OnNewToken() ?",Rosa,Nugraha,rosasnugraha,0,14,4,2021,8,48,17
+10516,0,yap,Daijobu,,xDaijobu,0,14,4,2021,8,48,37
+10517,0,jdi set token ny dr situ aj,Daijobu,,xDaijobu,0,14,4,2021,8,48,43
+10518,0,siap bang dcoba dlu,Rosa,Nugraha,rosasnugraha,0,14,4,2021,8,49,1
+10519,0,"terimakasih banyak, mantap",Rosa,Nugraha,rosasnugraha,0,14,4,2021,8,53,55
+10520,0,sama2 👍,Daijobu,,xDaijobu,0,14,4,2021,8,54,24
+10521,0,https://www.fiverr.com/s2/1da8c2b9a4?utm_source=CopyLink_Mobile,Usman,Hussain Arain,UsmanHussainArain,0,14,4,2021,9,50,9
+10522,10521,Kindly share my gig in your circle. \nThank you . \nRegards Usman,Usman,Hussain Arain,UsmanHussainArain,0,14,4,2021,9,50,37
+10526,0,"selamat siang, maaf mau tanya, saya pakai https://github.com/JimmyPun610/Plugin.XF.AppInstallHelper untuk fungsi update aplikasi, nah ketika sudah download muncul itu ketika proses instalasi, ada yang tau masalahnya?",Rosa,Nugraha,rosasnugraha,0,17,4,2021,6,26,34
+10527,10526,ini pake emulator. coba pake real device. kayaknya external storagenya emulator agak aneh biasanya,Albilaga,Pradana,albilaga,0,17,4,2021,6,33,5
+10528,0,saya pakai real device juga sama bang,Rosa,Nugraha,rosasnugraha,0,17,4,2021,6,33,23
+10529,10528,real devicenya ada external storagenya?,Albilaga,Pradana,albilaga,0,17,4,2021,6,38,28
+10530,0,ada bang pakai sd card,Rosa,Nugraha,rosasnugraha,0,17,4,2021,6,38,42
+10531,0,"tapi ketika saya buka manual aplikasi hasil download nya di direktori download, bisa ke install bang",Rosa,Nugraha,rosasnugraha,0,17,4,2021,6,40,45
+10532,0,"yang barusan sudah solved bang, nah tapi sekarang pas install app not installed ya ?",Rosa,Nugraha,rosasnugraha,0,17,4,2021,6,52,37
+10539,10532,What emulator are you using,محمد,,M_ALMajhali,0,19,4,2021,4,20,3
+10550,0,Hello,Aminu,Isyaku,DAWAKINGULU,0,1,5,2021,23,17,6
+10575,0,"Siang, mau tanya, Sytem.Net.NetworkInformation.Ping kok selalu return PingResult.TtlExpired ya?",Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,24,34
+10576,10575,emang mau pake buat apa?,Albilaga,Pradana,albilaga,0,10,5,2021,6,33,32
+10577,0,Buat ping local network,Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,33,50
+10578,10577,uda pake wifi yg sama? pake ipaddress public atau private?,Albilaga,Pradana,albilaga,0,10,5,2021,6,35,7
+10579,0,"Udah, pake private, kalo di desktop app work.",Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,35,53
+10580,10579,ini emulator atau ke device?,Albilaga,Pradana,albilaga,0,10,5,2021,6,37,8
+10581,0,coba aja buka ipaddressnya dulu dari browser hpnya bisa konek atau gak,Albilaga,Pradana,albilaga,0,10,5,2021,6,37,40
+10582,0,Pake emulator,Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,38,8
+10583,0,kalo emulator kayaknya harus ada settingan bridgenya lagi. lupa cara settingnya tapi…,Albilaga,Pradana,albilaga,0,10,5,2021,6,39,25
+10584,0,Saya cari2 di google trnyta ada bug gitu,Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,40,11
+10585,10583,"Saya mau test bikin opc ua client, kalo langsung connect client ke server work dan bisa communicate, tapi ping selalu return result yang sama, TtlExpired.",Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,41,46
+10586,10585,https://jamesmontemagno.github.io/ConnectivityPlugin/PingaHost.html coba pake ini,Albilaga,Pradana,albilaga,0,10,5,2021,6,45,34
+10587,0,"Udaj dicoba, malah hang gitu.",Setyaadi,Kurnia,Adi_setya,0,10,5,2021,6,46,28
+10588,0,klo boleh tau alasan mau harus nge ping ke server buat apa ? ( knp ngga langsung pakai web request ? ),Daijobu,,xDaijobu,0,10,5,2021,6,52,36
+10589,0,Cuma buat mastiin koneksinya ok,Setyaadi,Kurnia,Adi_setya,0,10,5,2021,7,1,32
+10590,0,"Device available, untuk notif ke user.",Setyaadi,Kurnia,Adi_setya,0,10,5,2021,7,2,8
+10591,0,wah kukrang tau lagi si. jarang pake ping,Albilaga,Pradana,albilaga,0,10,5,2021,7,10,2
+10592,10590,kenapa gak pake webrequest biasa aja?,Albilaga,Pradana,albilaga,0,10,5,2021,7,10,13
+10593,0,https://github.com/xamarin/Essentials/issues/334#issuecomment-400372753,Daijobu,,xDaijobu,0,10,5,2021,7,11,23
+10594,10592,"Emng bsa untuk local ip ya?, sorry newbie 😁",Setyaadi,Kurnia,Adi_setya,0,10,5,2021,7,15,47
+10595,10594,sama aja harusnya,Albilaga,Pradana,albilaga,0,10,5,2021,8,11,17
+10598,0,Halo guys..\nclue untuk fitur ini namanya apa ya ?,Risman,Afyandi,rismanafyandi,0,12,5,2021,4,25,58
+10599,0,Gass,MLINK.ID,,mlink_id,0,12,5,2021,8,13,21
+10608,0,😁 baru terbuka lagi,Risman,Afyandi,rismanafyandi,0,15,5,2021,16,0,35
+10613,0,hallo,rehan,marthin,,0,19,5,2021,1,26,12
+10614,0,selamt pagi,rehan,marthin,,0,19,5,2021,1,26,20
+10615,0,terimakasih saya sudah bergabung di grup xamarin,rehan,marthin,,0,19,5,2021,1,26,34
+10616,0,ini,rehan,marthin,,0,19,5,2021,1,26,37
+10619,0,Hi,Siva,RaJ,siva_m_raj,0,21,5,2021,8,23,59
+10620,0,Any one have freelance work for xamarin forms,Siva,RaJ,siva_m_raj,0,21,5,2021,8,24,19
+10621,10620,are u looking for freelancer xamarin forms?,Wahidin,Aji,WahidinAji,0,21,5,2021,13,39,10
+10623,10621,Freelance work,Siva,RaJ,siva_m_raj,0,21,5,2021,13,51,29
+10626,0,"Hi, how can I solve this error, please help",سجاد,بشار,,0,21,5,2021,17,10,45
+10627,10626,double-check ur xaml file,Daijobu,,xDaijobu,0,21,5,2021,17,27,55
+10628,10627,Is the problem with the xaml file,سجاد,بشار,,0,21,5,2021,17,34,41
+10629,0,"you should post ur code, so we can help",Daijobu,,xDaijobu,0,21,5,2021,17,38,50
+10630,0,,Daijobu,,xDaijobu,0,21,5,2021,17,39,11
+10631,0,,سجاد,بشار,,0,21,5,2021,18,18,22
+10632,0,"Height=""outo"" -> Height=""auto""",Daijobu,,xDaijobu,0,21,5,2021,18,20,12
+10633,0,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/grid#rows-and-columns,Daijobu,,xDaijobu,0,21,5,2021,18,20,42
+10645,0,need developer xamarin. untuk short project,Dayat,,,0,28,5,2021,6,7,34
+10647,0,Hi guys\nI've question about C#\nAnd xamarin\nThere is any C or xamarin source code for call appk?,树,,ROOTSTHREES,0,28,5,2021,14,0,19
+10648,0,"Hi, is there anyone with knowledge of the maui language",Ahmad,Meithaluny,AhmadMeithaluny,0,28,5,2021,19,10,50
+10653,10648,maui is not released yet. you can see the progress in here https://github.com/dotnet/maui,Albilaga,Pradana,albilaga,0,29,5,2021,10,12,54
+10654,10647,you can try this https://docs.microsoft.com/en-us/xamarin/essentials/launcher?context=xamarin%2Fandroid&tabs=android,Albilaga,Pradana,albilaga,0,29,5,2021,10,14,44
+10655,10654,Thank you 😊,树,,ROOTSTHREES,0,29,5,2021,10,20,20
+10656,10653,Thanks 👍,Ahmad,Meithaluny,AhmadMeithaluny,0,29,5,2021,17,59,6
+10657,0,How can \n design multiple chats in xamarin?,سجاد,بشار,,0,30,5,2021,17,2,10
+10658,10657,multiple UI cells,Daijobu,,xDaijobu,0,30,5,2021,17,8,40
+10659,0,https://www.xamboy.com/2018/06/14/exploring-a-chat-ui-in-xamarin-forms-part-1/,Daijobu,,xDaijobu,0,30,5,2021,17,8,44
+10670,0,,sanjay,c,,0,3,6,2021,18,21,26
+10671,0,Create a Xamarin app for \ncalculating above scientific notations.\n ,sanjay,c,,0,3,6,2021,18,21,34
+10672,0,Do anybody done this app,sanjay,c,,0,3,6,2021,18,21,49
+10678,0,"Can anyone help me to solve the problem, when I try to build app this and a lot other error arises.",Ishu,Prabhakar,ishuprabhakar,0,5,6,2021,10,21,0
+10684,0,Can someone help me when I create a project it looks like this,Mustafa,Ahmed,VALCO,0,8,6,2021,12,25,28
+10685,10678,What error occur?,Robby Gunawan,S,rgunawans,0,9,6,2021,0,19,36
+10686,10684,What happen? Did you create new layout?,Robby Gunawan,S,rgunawans,0,9,6,2021,0,20,3
+10687,10686,"This is a white interface but it appears in black, \n\n+ the problem is solved, thanks",Mustafa,Ahmed,VALCO,0,9,6,2021,0,24,36
+10689,10685,App does not build when I click to run in my Android 10 device nothing happens.\nIt shows me 1 failed in output window.,Ishu,Prabhakar,ishuprabhakar,0,9,6,2021,4,7,34
+10696,0,"hello everyone, I have tried to implement a list in my xaml through an api but when bringing the data to me and placing it in a list and printing it with a collectview does not print anything.  If someone could help me I would appreciate it, thank you",Yohana,Contreras,YohaC,0,12,6,2021,2,29,36
+10697,0,,Yohana,Contreras,YohaC,0,12,6,2021,2,29,49
+10698,0,,Yohana,Contreras,YohaC,0,12,6,2021,2,29,50
+10699,0,the list i'm printing is Questionlist in xaml,Yohana,Contreras,YohaC,0,12,6,2021,2,31,57
+10700,0,change ur List<T> to ObservableCollection<T>,Daijobu,,xDaijobu,0,12,6,2021,2,43,55
+10701,0,Quiz*,Daijobu,,xDaijobu,0,12,6,2021,2,44,1
+10702,0,Thanks so much Daijobu. I'll try,Yohana,Contreras,YohaC,0,12,6,2021,2,46,14
+10703,0,"If it is not an ObservableCollection, then the CollectionView will not automatically update when new items are added.",Daijobu,,xDaijobu,0,12,6,2021,2,47,53
+10704,10702,ur wlcome👍,Daijobu,,xDaijobu,0,12,6,2021,2,51,33
+10705,0,It works! Thank so much Daijobu!,Yohana,Contreras,YohaC,0,12,6,2021,3,2,6
+10707,0,hai pakar semua.  camne ye nk masukkn data dalam table User tanpa create new ParseObject,Haziq,,heyHaziqHere,0,12,6,2021,10,4,37
+10710,0,"Hello friends I need your help I have this list .. and I need that when the user selects an option it paint it if the option is correct. If the option is  correct It would have to paint in green, and if it is not correct in red.",Yohana,Contreras,YohaC,0,13,6,2021,16,6,22
+10711,0,,Yohana,Contreras,YohaC,0,13,6,2021,16,7,58
+10712,0,,Yohana,Contreras,YohaC,0,13,6,2021,16,9,3
+10713,0,How can I change the property of my list status: -1 to status 2?,Yohana,Contreras,YohaC,0,14,6,2021,0,34,5
+10714,10713,UI ?,Daijobu,,xDaijobu,0,14,6,2021,0,56,50
+10715,0,"if UI, then 'Quiz' class needs to implement INotifyPropertyChanged in order to notify the bound UI that it's properties have changed.",Daijobu,,xDaijobu,0,14,6,2021,0,56,51
+10716,10710,https://stackoverflow.com/questions/59181474/how-to-change-background-color-of-listview-selected-item-in-xamarin-forms-cross,Daijobu,,xDaijobu,0,14,6,2021,1,0,27
+10717,0,"Thanks Daijobu but it is not clear to me how I paint the option that the user selects, I need to paint both the correct and the incorrect option and paint both options",Yohana,Contreras,YohaC,0,14,6,2021,1,57,51
+10718,0,Foto de Yohana Contreras,Yohana,Contreras,YohaC,0,14,6,2021,2,1,13
+10719,0,"add new property in your 'Quiz' class, named for example AnswerBackgroundColor (+ INPC)",Daijobu,,xDaijobu,0,14,6,2021,2,15,22
+10720,0,Thank so much! I Will try!,Yohana,Contreras,YohaC,0,14,6,2021,2,53,52
+10724,10722,https://developer.apple.com/documentation/,Riza ( 马瑞森 ),Marhaban,rizamarhaban,0,15,6,2021,1,45,52
+10729,0,"Barangkali ada yg punya ebook xamarin yg bisa saya jadikan bahan referensi, terimakasih",Deva,Zamili,devazamili,0,15,6,2021,12,5,21
+10731,10729,"klo memang mau bljr dari awal, mending baca2 dokumentasi yg sdh disediain sama microsoft nya\nhttps://docs.microsoft.com/en-us/xamarin/get-started/",Daijobu,,xDaijobu,0,15,6,2021,12,26,35
+10732,10731,klo bner2 butuh versi ebook nya,Daijobu,,xDaijobu,0,15,6,2021,12,27,12
+10733,0,,Daijobu,,xDaijobu,0,15,6,2021,12,28,11
+10734,10729,https://www.youtube.com/watch?v=pr03CYqhFr4&list=PLM75ZaNQS_FaEPpqVjfQdnFaSR1EWCeNZ,Riza ( 马瑞森 ),Marhaban,rizamarhaban,0,15,6,2021,12,57,42
+10740,0,Dasar saya sudah paham seperti data binding dan konsep mvvm. Maksud saay tutorial pada studi kasus yang langsung dikerjakan begitu,Deva,Zamili,devazamili,0,16,6,2021,10,17,21
+10741,10740,Ada 23 video di playlist tsb. Kira2 ingin tau lebih dalam yg mana atau ada contoh kasus yg bisa digambarkan.,Riza ( 马瑞森 ),Marhaban,rizamarhaban,0,16,6,2021,12,25,57
+10743,10740,"pling gmpng, cba buat todo list dulu aja mas. atau weather maybe. hbis itu bsa coba2 crud sederhana menggunakan rest api yg sederhana jga atau bisa cba pakai firebase.",Wahidin,Aji,WahidinAji,0,17,6,2021,5,42,2
+10746,0,"Hi guys, we have just launched an app that build with React Native. Have a look and give me some advice. we will continue working on it and plan to release iOS version also in React Native. The app is in beta test now. 🙂 https://www.kaya-land.com/?from=closedtest",NAN,,,0,17,6,2021,13,52,53
+10747,0,"Greetings dear friends. I have a concern about how an app should be tested before deploying it, that is, how to know that when I change something, it is not damaging something else.  What code tests can be left done in the app in such a way that I apply that code and if the tests work we deploy.  Happy day",Yohana,Contreras,YohaC,0,17,6,2021,16,19,20
+10752,0,Pagi semua,Annas,Rachmatulloh,,0,18,6,2021,23,43,50
+10753,0,Ada yg pernah pake grpc di xamarin forms  ?,Annas,Rachmatulloh,,0,18,6,2021,23,44,28
+10754,10753,Pernah tapi cuma experiment doang. Kalau utk project belum ada permintaan requirement.,Riza ( 马瑞森 ),Marhaban,rizamarhaban,0,19,6,2021,0,56,33
+10756,10754,"barusan experiment juga, kayaknya ada bug di grpc.core 2.34 kalau pake xamarin, coba down ke 2.32 langsung bisa",Annas,Rachmatulloh,,0,19,6,2021,2,1,52
+10760,0,"Hi friends! I have created an app for tablets and the layout works fine, but when I change the screen resolution it completely messes up. Is there any type of data in xamarin that allows me to read the screen resolution of the tablet and design from there? I appreciate any help thank you very much",Yohana,Contreras,YohaC,0,21,6,2021,0,30,7
+10761,10760,https://docs.microsoft.com/en-us/xamarin/essentials/device-display,Albilaga,Pradana,albilaga,0,21,6,2021,0,59,2
+10762,10761,Thanks so much! I Will try!,Yohana,Contreras,YohaC,0,21,6,2021,1,3,27
+10766,0,Greetings. I have a xamarin form app and when the user changes the device font size in android accessibility settings my layout gets distorted. How can I prevent screen size changes in Android settings by user?,Yohana,Contreras,YohaC,0,21,6,2021,16,3,14
+10767,10766,use FontSize explicitly in each label. Like FontSize=14,Albilaga,Pradana,albilaga,0,21,6,2021,16,57,38
+10771,0,"Hallo selamat siang, izin bertanya, saya pakai background service untuk mengambil data gps, nah ketika layar hp terkunci service tidak bekerja lgi tetapi ketika layar handphone nyala, service nyala, bagaimana caranya agar ketika layar hp terkunci masih tetap berjalan service nya",Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,40,22
+10772,10766,MainActivty.cs,Daijobu,,xDaijobu,0,22,6,2021,1,45,3
+10773,10771,android ya,Daijobu,,xDaijobu,0,22,6,2021,1,45,26
+10774,0,Iya betul android,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,45,33
+10775,0,android itu agak ribet klo utk backgroun service,Daijobu,,xDaijobu,0,22,6,2021,1,45,46
+10776,0,"beda hp , beda cara kerja nya",Daijobu,,xDaijobu,0,22,6,2021,1,46,4
+10777,0,"mkstnya, kyk di xiaomi (ngga 100% jalan terus), krna settingan bawahan OS nya",Daijobu,,xDaijobu,0,22,6,2021,1,46,39
+10778,0,ud coba pakai BackgroundService ?,Daijobu,,xDaijobu,0,22,6,2021,1,47,0
+10779,0,Saya pakai background service,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,47,12
+10780,0,Worker / IntentService / Service ?,Daijobu,,xDaijobu,0,22,6,2021,1,47,19
+10781,0,Ketika terkunci service masih jalan tapi tidak tereksekusi,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,47,25
+10782,0,Intentservice,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,47,35
+10783,0,"klo skrng, mnrt sya lebih gampang pakenya api dr WorkManager (Worker)",Daijobu,,xDaijobu,0,22,6,2021,1,47,36
+10784,10782,trs trigger buat jalanin lagi pake apa ?,Daijobu,,xDaijobu,0,22,6,2021,1,48,1
+10785,0,Alarm?,Daijobu,,xDaijobu,0,22,6,2021,1,48,3
+10786,10783,Kalau pakai ini gmna caranya?,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,48,32
+10787,0,"googling wkwk, ud byk dokumentasi ny",Daijobu,,xDaijobu,0,22,6,2021,1,49,0
+10788,0,"klo skrng sih, gw pkenya IntentService + AlarmManager ( buat restart IntentService nya )",Daijobu,,xDaijobu,0,22,6,2021,1,49,30
+10789,0,,Daijobu,,xDaijobu,0,22,6,2021,1,50,16
+10790,0,,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,52,9
+10791,0,Saya mulai di mainactivity,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,52,21
+10792,0,,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,53,50
+10793,0,,Daijobu,,xDaijobu,0,22,6,2021,1,53,56
+10794,0,"seharusnya, klo nyobanya via emulator ( service bkal jalan terus )",Daijobu,,xDaijobu,0,22,6,2021,1,54,28
+10795,0,Betul kalau pakai emulator jalan terus,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,54,42
+10796,10793,"klo nyoba ny di real device, coba cri settingan ini dl",Daijobu,,xDaijobu,0,22,6,2021,1,54,44
+10797,0,Tapi pas hp asli gbisa,Rosa,Nugraha,rosasnugraha,0,22,6,2021,1,54,50
+10798,10793,Saya sudah pernah nyalain ini tetep gbisa,Rosa,Nugraha,rosasnugraha,0,22,6,2021,2,0,21
+10799,10772,Thanks! I'll try,Yohana,Contreras,YohaC,0,22,6,2021,2,14,3
+10800,10798,"nyoba nya di OS apa ?, ForegroundService / BackgroundService ?",Daijobu,,xDaijobu,0,22,6,2021,2,24,9
+10801,0,"hrusnya klo pke ForegroundService ( + START_STICKY ) , kemungkinan di kill sama system kecil",Daijobu,,xDaijobu,0,22,6,2021,2,24,24
+10802,10801,"dlu gw pake cara ini, ForegroundService nya nyala 24 jam ( hasilnya penggunaan baterai jdi boros )",Daijobu,,xDaijobu,0,22,6,2021,2,25,51
+10803,0,"trs dignti pake Alarm yg jalan setiap x menit , yg nantinya bakal jalanin IntentService ( lebih efisien )",Daijobu,,xDaijobu,0,22,6,2021,2,26,32
+10804,0,dibanding biarin Service nya jalan terus..,Daijobu,,xDaijobu,0,22,6,2021,2,26,48
+10805,0,android itu sangat sensitif sma BackgroundService ( hampir 99%++ bisa di kill sama sytem ),Daijobu,,xDaijobu,0,22,6,2021,2,27,18
+10806,0,https://developer.android.com/training/monitoring-device-state/doze-standby,Daijobu,,xDaijobu,0,22,6,2021,2,27,31
+10807,0,"Nah bang buat saya baiknya gmna bang, saya bingung",Rosa,Nugraha,rosasnugraha,0,22,6,2021,2,27,40
+10808,0,coba baca2 tentang WorkManager,Daijobu,,xDaijobu,0,22,6,2021,2,28,27
+10809,0,https://developer.android.com/topic/libraries/architecture/workmanager,Daijobu,,xDaijobu,0,22,6,2021,2,29,19
+10810,0,Okok bang thx,Rosa,Nugraha,rosasnugraha,0,22,6,2021,2,36,18
+10811,10772,Do I have to call this OnCreate method in my mainActivity.cs?,Yohana,Contreras,YohaC,0,22,6,2021,3,13,28
+10812,10811,nop,Daijobu,,xDaijobu,0,23,6,2021,6,31,38
+10813,0,the AttachBaseContext() method is actually called by the system,Daijobu,,xDaijobu,0,23,6,2021,6,31,45
+10814,0,AttachBaseContext is executed before onCreate,Daijobu,,xDaijobu,0,23,6,2021,6,32,1
+10815,0,try to put a breakpoint & follow it step by step 👍,Daijobu,,xDaijobu,0,23,6,2021,6,33,7
+10818,0,"Hello group, good night, I have an app developed with xamarin and when it detects that the device is not connected to the internet it generates a message, but when the device is connected but without internet it does not detect the error.  How can I make the app take it?",Yohana,Contreras,YohaC,0,24,6,2021,0,55,35
+10819,0,https://docs.microsoft.com/en-us/xamarin/essentials/connectivity?tabs=android#get-started,Daijobu,,xDaijobu,0,24,6,2021,1,2,52
+10820,0,,Daijobu,,xDaijobu,0,24,6,2021,1,4,58
+10821,0,"Hi daijoubu, with this code, I get if the wifi option is on or not, but I want to know if wifi has internet access",Yohana,Contreras,YohaC,0,24,6,2021,3,18,58
+10822,0,Foto de Yohana Contreras,Yohana,Contreras,YohaC,0,24,6,2021,3,19,18
+10832,0,"Hello, friends I need your help I am trying to download videos and I use this code in my app.android but the files are not completely downloaded if the download is interrupted, I have noticed that the asyncCompleteEventHandler (Complete) method is not being used.",Yohana,Contreras,YohaC,0,26,6,2021,1,8,58
+10833,0,,Yohana,Contreras,YohaC,0,26,6,2021,1,9,15
+10837,0,how i can solve this?,Carlos,Gonzalez,Carlosjgr77,0,27,6,2021,15,2,50
+10838,0,"this is a test project, i have a java library and build it ok. it showme the spacenames ok",Carlos,Gonzalez,Carlosjgr77,0,27,6,2021,15,2,51
+10839,0,I do the same in my project and it does not load the library,Carlos,Gonzalez,Carlosjgr77,0,27,6,2021,15,2,52
+10840,0,What could be the reasons for not charging it?,Carlos,Gonzalez,Carlosjgr77,0,27,6,2021,15,2,52
+10841,0,Foto de Yohana Contreras,Yohana,Contreras,YohaC,0,27,6,2021,18,47,43
+10842,0,Do you know how I can hide the Android navigation bar,Yohana,Contreras,YohaC,0,27,6,2021,18,48,38
+10846,10839,the lib that you use need to target .net standard,Albilaga,Pradana,albilaga,0,28,6,2021,7,41,41
+10847,10841,not sure about this. this is usually handled bt OS,Albilaga,Pradana,albilaga,0,28,6,2021,7,41,56
+10848,0,"maybe someone has experienced something like this, any suggestions or ways to overcome this error?. thanks",Deva,Zamili,devazamili,0,28,6,2021,8,57,6
+10849,0,Anybody can suggest anything on how to use progaurd for minifying the code in xamarin.forms ?,Pulkit,Sharma,,0,28,6,2021,14,13,38
+10850,10846,can you help me to fix? it's a kotlin lib,Carlos,Gonzalez,Carlosjgr77,0,28,6,2021,19,19,13
+10852,10850,I am not sure as I rarely do java binding lib,Albilaga,Pradana,albilaga,0,29,6,2021,2,48,19
+10855,0,Halo everyone nice to know you!,Pj,,,0,30,6,2021,6,47,5
+10873,0,"Hello everyone, I'm new to xamarin I want to help connect sql server database with xamarin forms, \nIs there anyone who can help me ?",🙃,,Ahmaad231,0,4,7,2021,16,28,24
+10874,10873,"It is better to create a web API tier and deploy on server. The API service will have the data layer repository as needed and is the one that connect to database. In Xamarin forms, you can use internet protocol to connect to the API, be that HTTP or gRPC. Simply, Xamarin Forms connect to the Web API service, the service connect to the database.",Riza ( 马瑞森 ),Marhaban,rizamarhaban,0,5,7,2021,0,2,39
+10877,10876,It should be StaticResource not RtaticResource,Albilaga,Pradana,albilaga,0,5,7,2021,13,31,42
+10879,10878,So what is the error?,Albilaga,Pradana,albilaga,0,5,7,2021,13,42,45
+10880,10876,"{Binding foo, Converter={StaticResource fooConverter}}",Daijobu,,xDaijobu,0,5,7,2021,13,47,50
+10881,0,"Hi Friends, I am looking how to make xunit tests with xamarin for an android app. I could not find good information about. Have you some good source of information about? Thanks a lot.",Yohana,Contreras,YohaC,0,5,7,2021,14,45,1
+10882,10881,well… you can search general unit test. it is the same. make sure you are not testing the UI part… Only test logic of it...,Albilaga,Pradana,albilaga,0,5,7,2021,14,48,23
+10883,10882,Ohh! I al completly lost about! I don't know how to begin it in visual studio.,Yohana,Contreras,YohaC,0,5,7,2021,14,57,49
+10884,0,Do I need to install a library into the project?,Yohana,Contreras,YohaC,0,5,7,2021,15,14,24
+10885,10884,I usually split the project. Test project by itself. and then you reference android project or core project where all the logic want to test,Albilaga,Pradana,albilaga,0,5,7,2021,15,28,7
+10887,0,Can you suggest How to integrate HDFC payment gateway in Xamarin forms,Rajanikant,Hawaldar,,0,6,7,2021,11,11,16
+10888,10885,Thanks,Yohana,Contreras,YohaC,0,6,7,2021,17,37,9
+10892,0,"Hello, \nCan I export figma to xamarin?\nHow?\nPlz send me references if u know.",Dhuha,,,0,7,7,2021,23,26,26
+10893,10892,I don’t think so...,Albilaga,Pradana,albilaga,0,8,7,2021,2,41,43
+10896,0,In mobile chrome when we tap the text there are the start and end pointers for text selection so is there any way we can change the z-index of that start and end pointers in any way,Rajanikant,Hawaldar,,0,9,7,2021,9,12,48
+10901,0,"Greetings friends, I have an app which, when accessing, asks for permission from location. After the message is displayed and I accept, the app stays stuck and generates an exception, does anyone have any idea what it could be?",Yohana,Contreras,YohaC,0,12,7,2021,13,9,7
+10902,10901,how do you ask permission?,Albilaga,Pradana,albilaga,0,13,7,2021,3,18,35
+10906,0,"hello, I have a problem with the use of geolocation. When I install my application for the first time, the application generates an exception and takes me out of the application, this happens when calling var location = await Geolocation.GetLastKnownLocationAsync (); My method, the only thing I do is call the GetLocation class from my constructor, which is the one that contains the geolocation and try to return a class with the latitude and longitude data. Can someone give me suggestions on how to find this error or what could be happening?",Yohana,Contreras,YohaC,0,15,7,2021,0,55,50
+10907,0,,Yohana,Contreras,YohaC,0,15,7,2021,0,56,9
+10908,10907,Do you already ask permission first?,Albilaga,Pradana,albilaga,0,15,7,2021,1,22,14
+10909,10906,there are answers in google and there is an answer in the exception message and its stack trace\ncheck them out,Daijobu,,xDaijobu,0,15,7,2021,1,30,17
+10910,0,https://docs.microsoft.com/en-us/xamarin/essentials/geolocation?tabs=android,Daijobu,,xDaijobu,0,15,7,2021,1,30,26
+10911,10908,"Yes, I assigned the necessary permissions",Yohana,Contreras,YohaC,0,15,7,2021,1,36,0
+10912,10911,I mean requesting permission like in here https://docs.microsoft.com/en-us/xamarin/essentials/permissions,Albilaga,Pradana,albilaga,0,15,7,2021,1,41,40
+10913,0,Foto de Yohana Contreras,Yohana,Contreras,YohaC,0,15,7,2021,1,48,7
+10914,0,"I have this method implemented in class A, and it works, but if I implement the same method in this way, the method generates an exception.",Yohana,Contreras,YohaC,0,15,7,2021,1,48,19
+10915,0,Foto de Yohana Contreras,Yohana,Contreras,YohaC,0,15,7,2021,1,48,30
+10916,0,we are not telepathes here,Daijobu,,xDaijobu,0,15,7,2021,1,48,49
+10917,0,I literally told you where to look at (the exception message),Daijobu,,xDaijobu,0,15,7,2021,1,48,53
+10918,0,We are here to learn.,Yohana,Contreras,YohaC,0,15,7,2021,1,54,26
+10919,10918,yeah. please show what is the exception,Albilaga,Pradana,albilaga,0,15,7,2021,2,16,44
+10920,0,,Yohana,Contreras,YohaC,0,15,7,2021,2,23,12
+10921,10920,can you put breakpoint in catch exception and show the exception from the code instead?,Albilaga,Pradana,albilaga,0,15,7,2021,2,23,42
+10922,0,,Yohana,Contreras,YohaC,0,15,7,2021,2,38,31
+10923,0,get into debugging & start using the debugger and find our what state everything is. thats how u can make conclusions & start getting a clue whats happening.,Daijobu,,xDaijobu,0,15,7,2021,2,40,2
+10924,0,,Daijobu,,xDaijobu,0,15,7,2021,2,40,36
+10929,0,"Greetings, I hope and you are very well.  I have this code in two different views and I would like to reuse it to save a few lines of code.  But I really don't know where to start, could someone please guide me on how to do this?  Thank you so much.",Yohana,Contreras,YohaC,0,18,7,2021,23,46,53
+10930,0,,Yohana,Contreras,YohaC,0,18,7,2021,23,47,1
+10931,0,Custom view,Daijobu,,xDaijobu,0,18,7,2021,23,47,59
+10932,0,https://www.xamarinhelp.com/xamarin-forms-user-control/,Daijobu,,xDaijobu,0,18,7,2021,23,49,17
+10933,10931,Thanks so much!,Yohana,Contreras,YohaC,0,18,7,2021,23,51,3
+10934,0,https://youtu.be/cbmoaD-PDtA,Daijobu,,xDaijobu,0,18,7,2021,23,51,52
+10942,0,we need to see your codes,Daijobu,,xDaijobu,0,22,7,2021,2,54,15
+10947,0,MessagingCenter,Daijobu,,xDaijobu,0,22,7,2021,3,37,24
+10949,10946,https://www.youtube.com/watch?v=JyiL6W-fvEs,Daijobu,,xDaijobu,0,22,7,2021,3,39,47
+10954,0,"ijin tanya,ada yg pake xamarin d prosessor amd? tks",Fajar,Satya,Fajarr_satya,0,24,7,2021,15,16,30
+10955,0,Usman Ahmad:\nHello guys\n\nI wanna create an app that detect and track phone calls outside and inside the city\n\nBecause of the in security were facing in our country.\n\nAny help pls,Usman,Ahmad,usman_ahmad_nasir,0,24,7,2021,23,31,13
+10960,0,"greetings my friends. in my app I am using location permission, but I need that before requesting the\nlocation permission the app shows a modal. How could I do it?",Yohana,Contreras,YohaC,0,27,7,2021,2,26,40
+10962,10960,you can add popup before asking permission right?,Albilaga,Pradana,albilaga,0,27,7,2021,5,55,2
+10963,10955,I dont think you can do that,Albilaga,Pradana,albilaga,0,27,7,2021,5,55,11
+10964,0,"halo, saya mau tanya, saya ada lempar value ke form detail, dengan panjang kurang lebih 80 char.\nValue tsb dapat masuk ke textbox di form detail, tapi button di form detail tsb jd hilang. saat saya input sbnyak 45 char, button tsb ternyata turun.",Rayi 1993,,rayiami06,0,27,7,2021,7,48,52
+10965,0,"xaml nya seperti ini, apa yang salah ya?",Rayi 1993,,rayiami06,0,27,7,2021,7,50,17
+10966,10965,"coba full xaml nya, mau lihat",Daijobu,,xDaijobu,0,27,7,2021,7,51,9
+10967,0,,Rayi 1993,,rayiami06,0,27,7,2021,7,53,6
+10968,0,coba upload file .xaml nya,Daijobu,,xDaijobu,0,27,7,2021,7,57,2
+10969,0,"& mkstnya button tsb turun ( 3 button ""menu"", ""clear"", ""submit"" ? )",Daijobu,,xDaijobu,0,27,7,2021,7,57,43
+10970,0,,Rayi 1993,,rayiami06,0,27,7,2021,7,58,5
+10971,0,iya betul,Rayi 1993,,rayiami06,0,27,7,2021,7,58,8
+10972,0,"mungkin krna ScrollView nya, \ncoba kamu set backgroundcolor utk view di line 65(stacklayout), line 92(stacklayout), line227 (scrollview), line 232(stacklayout)",Daijobu,,xDaijobu,0,27,7,2021,8,0,29
+10973,0,😮,Rayi 1993,,rayiami06,0,27,7,2021,8,31,44
+10974,0,"menarik,\nditempat saya, malah view nya ngga ada masalah sama sekali ( semua property FontFamiliy saya hapus )",Daijobu,,xDaijobu,0,27,7,2021,8,47,6
+10975,0,coba di debug lagi aja\nstacklayout yg ada di line 92 ( hapus FontFamiliy / Margin nya ) / bisa jdi ada bug di versi xamarin forms yg kamu pakai,Daijobu,,xDaijobu,0,27,7,2021,8,49,54
+10976,0,"sudah ketemu hehe, gara2 pakai height row nya auto.",Rayi 1993,,rayiami06,0,27,7,2021,9,12,50
+10977,0,terima kasih banyak ya :),Rayi 1993,,rayiami06,0,27,7,2021,9,13,4
+10978,0,Can I execute a DisplayAlert into the MainActivity?,Yohana,Contreras,YohaC,0,27,7,2021,20,58,48
+10980,10978,Why you want do that?,Albilaga,Pradana,albilaga,0,28,7,2021,0,25,55
+10981,0,"Playstore s not accepting my app because according to their new directives, user has to pre accept device´s permissions for app.",Yohana,Contreras,YohaC,0,28,7,2021,0,46,12
+10982,10981,you can ask permission in xamarin.forms app page using this https://docs.microsoft.com/en-us/xamarin/essentials/permissions?tabs=android then display alert accordingly,Albilaga,Pradana,albilaga,0,28,7,2021,0,59,0
+10992,0,need xamarin developer. ada project.detail japri,Dayat,,daysz,0,1,8,2021,14,27,25
+11006,0,"siang mau tanya,saya pake grid view tapi kok mepet"" ya atasnya?",Ilyas,Pradana,PradanaIlyas,0,11,8,2021,4,59,35
+11007,0,"kaya gini,di kananya bagus,tapi di kirinya mepet atasnya",Ilyas,Pradana,PradanaIlyas,0,11,8,2021,4,59,55
+11008,11007,Bikin layoutnya gmn?,Albilaga,Pradana,albilaga,0,11,8,2021,6,57,3
+11009,0,grid viewnya gini,Ilyas,Pradana,PradanaIlyas,0,11,8,2021,7,10,58
+11010,0,adapternya gini,Ilyas,Pradana,PradanaIlyas,0,11,8,2021,7,11,10
+11011,0,widih nativee,Daijobu,,xDaijobu,0,11,8,2021,7,11,37
+11012,11011,"iya nih,blm ngerti soalnya kalo pake forms 😁",Ilyas,Pradana,PradanaIlyas,0,11,8,2021,7,13,59
+11013,0,Guys what do you think about .net MAUI,Rikudou En Sof,,Rikudouensof,0,11,8,2021,12,32,56
+11014,0,?,Rikudou En Sof,,Rikudouensof,0,11,8,2021,12,32,58
+11015,11010,Wah uda lupa kalo native android🤣,Albilaga,Pradana,albilaga,0,11,8,2021,13,22,30
+11017,11015,"oalah,ok deh kalo gitu 😁",Ilyas,Pradana,PradanaIlyas,0,12,8,2021,2,23,2
+11025,0,ada yang pernah custome layout notif firebasae?,Dayat,,,0,18,8,2021,15,12,19
+11026,0,saya gagal mulu,Dayat,,,0,18,8,2021,15,12,21
+11027,0,"numpang nanya. sblmnya saya pake mac buat develop XF, kalo ada error saat app berjalan pasti ada notifikasi di vsnya trus nunjukin file dan baris mana yg error.\n\nini kok di vs windows ga bisa nunjukin file dan baris mana yg error. apa prlu diatur2 dlu?",Agus,Ibrahim,agusibrahim,0,19,8,2021,6,36,16
+11028,11025,spt ini kali ya,Agus,Ibrahim,agusibrahim,0,19,8,2021,11,52,41
+11031,0,Hi guys if you don't mind could please chat in English only,Ashok,,,0,20,8,2021,13,34,58
+11032,11031,Well this is indonesian forum so dont expect it in english but you can ask in english,Albilaga,Pradana,albilaga,0,20,8,2021,14,58,45
+11033,0,Sure,Ashok,,,0,20,8,2021,15,0,3
+11035,0,"Guys, what is the best from xamarin forms and xamarin android to develop android apps",Dhanushka,Jayakody,,0,20,8,2021,18,29,51
+11036,11035,That is depend. Performance wise xamarin.android. Best for cross platform xamarin forms ofc,Albilaga,Pradana,albilaga,0,20,8,2021,23,42,30
+11056,0,,Tarmo,Jakobson,,0,31,8,2021,14,54,43
+11065,0,PT DARUL GLOBAL SOLUTION\n\nSPEK .NET DEVELOPER\n- pengalaman menggunakan asp.net C# \n- pengalaman  menggunakan sql server dan MySQL (ORACLE nilai tambah) \n- pengalaman menggunakan xamarin( nilai tambah)\n- pengalaman develop vuejs( nilai tambah) atau framework javascript\n- memiliki logika yg kuat dalam problem solving dan business process analytic\n- memiliki dedikasi dan bertanggung jawab dalam bekerja\n- mampu bekerja dalam tim\n- memiliki komunikasi dan tutur kata yg baik\n- rajin membantu rekan sesama tim\n- giat berlatih dalam hal baru\n- senang menyelesaikan hal-hal challenging\n#dotnet #cshap #sqlserver #vuejs #frontend #backend\n\nkirim cv ke nurda.solution@gmail.com,Dayat,,,0,6,9,2021,5,42,40
+11070,0,"siang para suhu,pengen coba bikin aplikasi adzan,cuma bingung gimana ya awalnya? jadwal shalatnya ambil dari api berdasarkan lokasi device saat ini,ambil jadwal shalatnya bagusnya perhari kah?atau langsung sebulan terus di taro db internal?belom pernah bikin app alarm,tapi bisa ga ya pake alarm manager?ada saran kah suhu""?\nmau mulai tapi bingung dari mana..",Ilyas,Pradana,PradanaIlyas,0,7,9,2021,4,2,35
+11071,11070,Kalo adzan pake alarm manager aja. Bisa harusnya,Albilaga,Pradana,albilaga,0,7,9,2021,5,36,48
+11072,0,Jadwal shalat juga kayaknya better ambil sebulan atau seminggu gitu juha bisa,Albilaga,Pradana,albilaga,0,7,9,2021,5,37,17
+11073,0,"misalkan nih,cek lokasi dulu kan,di daerah A > ambil jadwal shalat seminggu,terus di set ke alarm \nnah ternyata besoknya pindah lokasi nih,ke daerah B,terus ambil jadwal baru dong,nah alarm yg di set pas pertama di jadwal A itu harus di replace/delete kah?atau langsung di set aja bisa auto replace?",Ilyas,Pradana,PradanaIlyas,0,7,9,2021,6,17,59
+11074,11073,seingetku di delete de. lupa si ini detail implementasinya gmn,Albilaga,Pradana,albilaga,0,7,9,2021,6,58,7
+11075,0,"masih belom di implementasi sih,masih pahamin gimana cara worknya alarm manager aja,udah liat"" di tutorial ini https://www.youtube.com/watch?v=JcoXPCOrXig\nudah coba juga dan ternyata bisa fired alarm nya,tapi waktunya msh di hardcode",Ilyas,Pradana,PradanaIlyas,0,7,9,2021,7,0,53
+11076,0,"disitu sih ga di jelasin,apakah jadwalnya sekali fired doang,apa diulang,dan ga di jelasin juga apakah harus di delete atau gimana"",cuma sebatas setting alarm biasa aja",Ilyas,Pradana,PradanaIlyas,0,7,9,2021,7,2,12
+11077,11073,"di delete..,",Daijobu,,xDaijobu,0,7,9,2021,7,17,58
+11078,0,kasarnya bgni,Daijobu,,xDaijobu,0,7,9,2021,7,18,41
+11079,0,yg penting PendingIntent ny hrus sama,Daijobu,,xDaijobu,0,7,9,2021,7,18,50
+11080,0,ini saat Set alarm ny,Daijobu,,xDaijobu,0,7,9,2021,7,26,33
+11081,0,"hoo,di delete dulu ya,ok deh saya coba impelemtasi dlu,thanks ya mas @albilaga ,mas @xDaijobu",Ilyas,Pradana,PradanaIlyas,0,7,9,2021,7,51,22
+11084,0,"Hello guys. I am searching for free books to learn Xamarin.Forms . Recent ones with shell, collections view, carousel view, flex etc.. animations would be fun too",Harsh_c007,,Harsh_c007,0,8,9,2021,7,52,10
+11085,0,,Nichlah,Hidayati,,0,8,9,2021,8,34,18
+11086,11070,"Bisa pake library local notification kalo mau ga ribet, ada pake job scheduler jg.\nSaya pernah terapin disini https://play.google.com/store/apps/details?id=id.ayongaji.murid",Agus,Ibrahim,agusibrahim,0,8,9,2021,14,1,49
+11087,11086,"keren mas app nya 👍 , nanti saya coba"" cari tahu job scheduler juga deh,makasih ya mas",Ilyas,Pradana,PradanaIlyas,0,9,9,2021,4,37,13
+11088,0,"Misi bang/mas numpang nanya, sy baru nyoba bikin webservice pke net.core. Ini kira2 knp ya. Tq",harizah,,hrzaid,0,9,9,2021,9,36,22
+11089,11088,"itu mau nampilin detail? \n\ntebakan aja iya, dan data yg dicari ga ada. \nalhasil not found... \n\ntpi aneh urlnya",Wahidin,Aji,WahidinAji,0,9,9,2021,9,48,46
+11090,0,dn ya mnding ke grup dotnet aja.,Wahidin,Aji,WahidinAji,0,9,9,2021,9,49,14
+11091,0,malam mau tanya,Dayat,,daysz,0,9,9,2021,13,2,49
+11092,0,pernah dapat issue kayak gini ga di xamain ios,Dayat,,daysz,0,9,9,2021,13,2,59
+11093,0,"Hallo semuanya, mau tanya, saya pakai xamarin di visual studio windows, nah saya punya iphone, apakah bisa debug langsung ke iphone pakai kabel? Kalau bisa gmna caranya ya",Rosa,Nugraha,rosasnugraha,0,9,9,2021,13,3,50
+11094,11093,"seinget saya skrng sudah bisa, cek aja docs nya. kecuali kalau mau deploy.",Wahidin,Aji,WahidinAji,0,9,9,2021,13,6,10
+11095,11094,Apakah harus beli akun apple developer?,Rosa,Nugraha,rosasnugraha,0,9,9,2021,13,7,18
+11096,0,Jadi harus nambah team bang,Rosa,Nugraha,rosasnugraha,0,9,9,2021,13,13,20
+11102,11095,"Bisa mas tanpa akun developer, tp cert nya nanti perlu diperbarui tiap 7 hari",Bayu,Alvian,bayualvian27,0,10,9,2021,0,58,25
+11103,11094,Sudah bisa kah mas windows only? Atau tetap harus ada mac yg menyala saat debuggingnya?,Bayu,Alvian,bayualvian27,0,10,9,2021,0,59,30
+11104,11102,Harum pilih team mas saat debug nya,Rosa,Nugraha,rosasnugraha,0,10,9,2021,1,24,20
+11105,0,Nah cara tambah team nya gmna ya,Rosa,Nugraha,rosasnugraha,0,10,9,2021,1,24,34
+11106,11105,Ada device mac gak mas?,Bayu,Alvian,bayualvian27,0,10,9,2021,1,33,53
+11107,0,Saya gapunya device mac mas cuma punya iphone aja,Rosa,Nugraha,rosasnugraha,0,10,9,2021,1,37,51
+11108,0,Mgsudnya gpunya macbook,Rosa,Nugraha,rosasnugraha,0,10,9,2021,1,38,6
+11109,11107,"Oh gitu, itu settingan teamnya perlu xcode di mac mas yg saya tau",Bayu,Alvian,bayualvian27,0,10,9,2021,1,39,18
+11110,0,Nha iya itu mas,Rosa,Nugraha,rosasnugraha,0,10,9,2021,1,39,41
+11111,0,Kalau saya gapunya mac apakah bisa mas? Misal beli akun developer apple,Rosa,Nugraha,rosasnugraha,0,10,9,2021,1,40,16
+11112,11111,Sepertinya blm bisa mas. Karena perlu xcode untuk nanti pas debug. Kalau akunnya saja sih bisa beli..,Bayu,Alvian,bayualvian27,0,10,9,2021,8,38,31
+11113,11111,https://docs.microsoft.com/en-us/xamarin/xamarin-forms/deploy-test/hot-restart coba ini aja,Albilaga,Pradana,albilaga,0,10,9,2021,9,17,42
+11114,11108,"Bs pake github action buat sediain vm mac, lumayan dikasih 6 jam\nhttps://github.com/P3TERX/ActionsVM\nakses ke desktop mac menggunakan vnc. mungkin bisa dipake buat setting2 team.",Agus,Ibrahim,agusibrahim,0,10,9,2021,10,8,40
+11116,0,https://yt6.pics.ee/3nw5m2,✨💫Haytham,Al Sarrawy💫✨,Haytham_AlSarrawy,0,10,9,2021,17,34,20
+11117,0,https://yt6.pics.ee/3n2ued,✨💫Haytham,Al Sarrawy💫✨,Haytham_AlSarrawy,0,10,9,2021,18,39,26
+11122,0,"Severity Code Description Project File Line Suppression State \nError  Native linking failed, undefined Objective-C class: AgoraBeautyOptions. The symbol '_OBJC_CLASS_$_AgoraBeautyOptions' could not be found in any of the libraries or frameworks linked with your application. \n\n\nada yang tau knp ya",Dayat,,,0,11,9,2021,8,58,38
+11123,11122,filenya gak keinclude. ini ngelink dari lib iOS?,Albilaga,Pradana,albilaga,0,11,9,2021,11,26,8
+11139,0,https://yt6.pics.ee/3mnjyk,✨💫Haytham,Al Sarrawy💫✨,Haytham_AlSarrawy,0,14,9,2021,16,47,55
+11140,0,🔥🔥🔥👍\n\nNetwork speed monitor is one of the most important things in mobile apps because avoiding the app crashes and slowness.\nI hope you have understand how to check network speed in Xamarin.Forms.\n\nhttps://yt6.pics.ee/3mr9rh,✨💫Haytham,Al Sarrawy💫✨,Haytham_AlSarrawy,0,14,9,2021,18,22,24
+11166,0,can any one find me a document for code share between Android and IOS using  .Net Standard library in visual studio 2019(16.11.3),sanjay,c,,0,16,9,2021,18,37,2
+11167,0,plz help me,sanjay,c,,0,16,9,2021,18,38,30
+11176,0,"hai, nama saya yopi, salam kenal sekalian🙏🙏🙏🙏",Yopi,,mdyopii,6282288141416,20,9,2021,2,46,9
+11181,0,"siang,mau tanya soal alarm manager nih,jadi tiap alarm ke triger,saya set ulang lagi next alarm nya,set di hari yang sama dan beda hari sih ga masalah,cuma kok kalo beda bulan langsung ke triger ya,misalkan saya set tgl 30-09-2021 jam 12:00 sama jam 13:00,itu ga masalah,tapi bagian dari jam 13:00 lanjut set ke jam 05:00 di tanggal 1-10-2021 langsung ke triger dia,engga sesuai sama jam nya",Ilyas,Pradana,PradanaIlyas,0,21,9,2021,7,53,8
+11182,0,set alarm nya begini,Ilyas,Pradana,PradanaIlyas,0,21,9,2021,7,53,46
+11183,0,"kenapa ya kira"" bsa begtu?",Ilyas,Pradana,PradanaIlyas,0,21,9,2021,7,55,4
+11184,0,"coba dicek aj, isi dari c.TimeInMillis nya",Daijobu,,xDaijobu,0,21,9,2021,8,21,29
+11185,0,lalu jgn lupa diconvert,Daijobu,,xDaijobu,0,21,9,2021,8,21,50
+11186,0,https://www.epochconverter.com/,Daijobu,,xDaijobu,0,21,9,2021,8,21,51
+11187,0,,Daijobu,,xDaijobu,0,21,9,2021,8,22,12
+11188,0,calendar field ny jg salah,Daijobu,,xDaijobu,0,21,9,2021,8,25,27
+11189,11188,mngkn krna ini,Daijobu,,xDaijobu,0,21,9,2021,8,25,32
+11190,0,"oia ya,fieldnya salah,cuma pas di benerin malah salah,set jam 15:47 tapi hasil convert ke timeinmils nya malah 08.47",Ilyas,Pradana,PradanaIlyas,0,21,9,2021,8,48,50
+11191,0,"atau bisa ga ya ga pake calendar,langsung gitu dari date time ke timeinmillis ?hehe",Ilyas,Pradana,PradanaIlyas,0,21,9,2021,8,49,17
+11192,11191,bisa donkk,Daijobu,,xDaijobu,0,21,9,2021,9,0,50
+11193,0,"itu variabel alarm, tipe data nya apa ?",Daijobu,,xDaijobu,0,21,9,2021,9,1,14
+11194,0,"gini aj, lebih simple",Daijobu,,xDaijobu,0,21,9,2021,9,1,21
+11195,0,jdi ga perlu get instance si calendar lg,Daijobu,,xDaijobu,0,21,9,2021,9,1,29
+11196,0,"alarm nya date time, formatnya dd-MM-yyy HH:mm",Ilyas,Pradana,PradanaIlyas,0,21,9,2021,9,4,29
+11197,11194,"klo datetime, tinggal pakai ini aj",Daijobu,,xDaijobu,0,21,9,2021,9,5,44
+11198,11197,"mantab mas,bisaa,hehe",Ilyas,Pradana,PradanaIlyas,0,21,9,2021,9,17,21
+11199,11198,👍👍,Daijobu,,xDaijobu,0,21,9,2021,9,17,56
+11200,0,makasih banyak ya mas @xDaijobu udah bantuin 😁,Ilyas,Pradana,PradanaIlyas,0,21,9,2021,9,17,57
+11201,0,yo sama2,Daijobu,,xDaijobu,0,21,9,2021,9,18,6
+11202,0,http://xamexpertday.com/,harizah,,hrzaid,0,21,9,2021,16,43,30
+11207,0,,Reyansh Mehra,,ReyanshMehra6,0,22,9,2021,2,11,0
+11208,11207,https://v.gd/WatqE7,Reyansh Mehra,,ReyanshMehra6,0,22,9,2021,2,11,4

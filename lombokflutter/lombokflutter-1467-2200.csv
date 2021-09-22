@@ -1,0 +1,605 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+1467,0,Cari folder namanya: .gradle,h a y i,,hayinukman,0,25,1,2021,23,15,54
+1468,0,Nah kau apus itu....,h a y i,,hayinukman,0,25,1,2021,23,16,2
+1469,0,Build ulang....,h a y i,,hayinukman,0,25,1,2021,23,16,8
+1470,1464,"Oalah faham bang, pantes kmrin saya coba terapin hapus gradle yg per project ttp gak bsa.. tak coba dulu",Gilang,Ramdhani,Gilangramdhanip,0,26,1,2021,1,55,31
+1471,0,solved bang @hayinukman makasih banyak juga responnya bang @MbunMalam @ariaji25.. udah 2 hari gak ngoding gegara gak ketemu cara solvenya :D,Gilang,Ramdhani,Gilangramdhanip,0,26,1,2021,13,51,1
+1472,1471,gimana solving nya lang.. share dong hhehe,"Jiad, ジハード",,jiadmiftx,0,26,1,2021,14,29,38
+1473,1472,ganti laptop… 😄,h a y i,,hayinukman,0,26,1,2021,15,17,37
+1474,1473,,"Jiad, ジハード",,jiadmiftx,0,26,1,2021,15,17,50
+1475,0,gass @jiadmiftx ganti laptop,Nasrul,Alawy,nasrulalawy,0,26,1,2021,15,20,4
+1476,0,klo di BL kemarin ada SOP nya…\nlevel 1:  Rebuild\nlevel 2: clean project —> build\nlevel 3: restart AS\nlevel 4: Invalidate caches/restart\nlevel 5: remove local project gradle caches\nlevel 6: remove user gradle cahces\nlevel 7: clone ulang\nlevel 8: restart laptop\nlevel 9: ganti laptop\nlevel 10: ganti perusahaan\nlevel 11: ganti kerjaan....,h a y i,,hayinukman,0,26,1,2021,15,21,36
+1477,0,hahahaha,Nasrul,Alawy,nasrulalawy,0,26,1,2021,15,21,56
+1478,0,level 11 mantap nih,Nasrul,Alawy,nasrulalawy,0,26,1,2021,15,22,4
+1479,0,level 12: pindah alam..,"Jiad, ジハード",,jiadmiftx,0,26,1,2021,15,22,21
+1480,0,"Ganti alam.,, 😆",h a y i,,hayinukman,0,26,1,2021,15,22,36
+1481,0,jadi mas hayi sudah di level 11 yah.. hmm,zayedelfasa,,zayedelfasa,0,27,1,2021,11,53,37
+1482,1472,Tak hapus file cache di user/namauser/.gradle/ ad wkwk,Gilang,Ramdhani,Gilangramdhanip,0,27,1,2021,12,27,14
+1483,1482,ohhh oke2.. i see...,"Jiad, ジハード",,jiadmiftx,0,27,1,2021,12,29,42
+1484,1476,berarti  masi level 5 yaa lang..,"Jiad, ジハード",,jiadmiftx,0,27,1,2021,12,30,0
+1485,1481,ini kaya bang hayi level 10 sebenrnya mas wkwk,"Jiad, ジハード",,jiadmiftx,0,27,1,2021,12,30,17
+1486,0,Level 13: ganti spesies,Olan | CoinBreakOuts,,Blyatlife,0,27,1,2021,12,30,51
+1487,1485,oh ia level 10. wkwkwk,zayedelfasa,,zayedelfasa,0,27,1,2021,12,30,51
+1488,0,,Faezol,Padli,Script_kidie,0,28,1,2021,5,13,22
+1489,0,,,,,0,28,1,2021,8,8,47
+1490,0,Thanks,,,,0,28,1,2021,8,12,24
+1493,0,,Irwan,Fakhrurrozi,,0,15,2,2021,2,12,33
+1494,0,,Customer Support,Calista Center,CalistaCenter,0,18,2,2021,2,25,35
+1495,0,,Ramadhan,Cahyo,,0,18,2,2021,3,30,13
+1496,0,,_ignore,,Igggnoore,0,19,2,2021,7,21,38
+1497,0,,Shine,,,0,21,2,2021,0,56,43
+1498,0,,Danny,,dannycreations,0,23,2,2021,12,9,24
+1499,0,,Aj,Developer,ceoabbuilder,0,24,2,2021,12,21,7
+1500,0,Hello,Aj,Developer,ceoabbuilder,0,24,2,2021,12,24,54
+1501,0,helo,Arian,Saputra,rhyanz46,0,24,2,2021,12,52,49
+1502,0,Any one build Android to ios application for me 😢 coz i don't have mac laptop,Aj,Developer,ceoabbuilder,0,24,2,2021,12,56,59
+1503,0,@MbunMalam,Ari Purnama,Aji,ariaji25,0,24,2,2021,13,15,49
+1504,1502,It's about flutter project?,Anwar,,MbunMalam,0,24,2,2021,13,16,33
+1505,1504,Yes,Aj,Developer,ceoabbuilder,0,24,2,2021,13,20,15
+1506,0,menarik untuk dicoba biar bisa di build aplikasi versi ios dngn cara remote mac or macincloud👍\n\nhttps://marketplace.visualstudio.com/items?itemName=codemagic.remote-mac\n\nhttps://www.macincloud.com/,Anwar,,MbunMalam,0,27,2,2021,17,14,10
+1507,1506,"Baru dua hari kemaren kefikirian buat mesine builder Ios, udah ade aja 🤣, cc @hayinukman",Ari Purnama,Aji,ariaji25,0,28,2,2021,0,57,30
+1508,0,Builder nya github action juga ada yg mac...,h a y i,,hayinukman,0,28,2,2021,4,1,41
+1509,0,Cuma masalahnya musti ada konfigurasi dan pod2an yg musti d setup via xcode... Dan musti local mac....😅,h a y i,,hayinukman,0,28,2,2021,4,2,13
+1510,0,"Build nya bisa cloud, tp make sure it's correct locally",h a y i,,hayinukman,0,28,2,2021,4,2,37
+1511,0,"Naah ituu, tetep aja harus ada device nya🤣",Ari Purnama,Aji,ariaji25,0,28,2,2021,4,39,12
+1512,0,https://events.flutter.dev/,Anwar,,MbunMalam,0,3,3,2021,11,31,11
+1513,0,,Anwar,,MbunMalam,0,3,3,2021,18,1,18
+1514,0,,Anwar,,MbunMalam,0,3,3,2021,18,1,19
+1515,0,,Anwar,,MbunMalam,0,3,3,2021,18,1,23
+1516,0,,h a y i,,hayinukman,0,3,3,2021,23,36,11
+1517,0,,h a y i,,hayinukman,0,3,3,2021,23,36,33
+1518,0,,"Jiad, ジハード",,jiadmiftx,0,4,3,2021,1,2,11
+1519,0,,Ziad Alfian,,ziadalfian,0,4,3,2021,3,28,42
+1522,0,,Dyan,,dyantb,0,6,3,2021,6,22,38
+1523,0,Ada yg pernah nyoba UT dan WT di flutter guys?,Ari Purnama,Aji,ariaji25,0,6,3,2021,7,1,44
+1524,1523,Unit Test?,Anwar,,MbunMalam,0,6,3,2021,7,2,35
+1525,0,Unit Test ama Widget Test,Ari Purnama,Aji,ariaji25,0,6,3,2021,7,3,2
+1526,1525,"blm nyoba ni, masih atur jadwal buat mampir disini 😁\n\nhttps://www.raywenderlich.com/9591040-widget-testing-with-flutter-getting-started\n\nhttps://www.raywenderlich.com/library?q=unit+testing&sort_order=relevance",Anwar,,MbunMalam,0,6,3,2021,7,9,25
+1527,0,"Saya baru nyoba wkwkwk, bust skenario test user tanpa jalanin app",Ari Purnama,Aji,ariaji25,0,6,3,2021,7,46,43
+1528,1526,coba disini ada sample code buat jadi testing,Anwar,,MbunMalam,0,6,3,2021,7,52,9
+1529,0,"sepi,,,, dol….",h a y i,,hayinukman,0,8,3,2021,3,15,58
+1530,0,,h a y i,,hayinukman,0,8,3,2021,3,31,41
+1531,0,@ariaji25,h a y i,,hayinukman,0,8,3,2021,3,31,44
+1532,0,itu @ariaji25,h a y i,,hayinukman,0,8,3,2021,3,31,54
+1533,0,dah 2.0.1,h a y i,,hayinukman,0,8,3,2021,3,31,57
+1534,0,https://flutter.dev/docs/release/breaking-changes/network-policy-ios-android,h a y i,,hayinukman,0,8,3,2021,8,38,26
+1535,0,,Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,34,59
+1536,0,"Haai salam kenal, dengan Nisa dari Imperial Healthtech. \nKegiatan sehari-sehari selain develop apps adalah mengurus keluarga dan 3 anak ✌️\nKita mau menambah tim Flutter Developer, mohon ijin apakah boleh share lowongannya disini?\nTerimakasih sebelumnya 🙏",Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,39,25
+1537,0,"Boleh, silahkan mba'..","Jiad, ジハード",,jiadmiftx,0,11,3,2021,12,40,3
+1538,1537,Terimakasih Mas Jiad 🙏,Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,40,26
+1539,0,Dicari Flutter Developer Min. Lulusan SMK.\nPenempatan terbuka untuk seluruh wilayah di Indonesia.\nSilahkan daftar sekarang di: https://imperialhealthtech.com/#career,Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,41,3
+1540,0,,I,S,irfanp91,0,13,3,2021,12,5,37
+1541,1539,izin bertanya\non-site / remote?\njika onsite penempatan dimana ya?,【﻿ｂａｌｉｎｕｘ】,,balinux,0,16,3,2021,5,50,32
+1542,1541,bang,h a y i,,hayinukman,0,16,3,2021,6,21,1
+1543,0,pernah migrate some. project ke flutter 2??,h a y i,,hayinukman,0,16,3,2021,6,21,15
+1544,0,belum sih mas hayi\nproject kantor masih di flutter 1 stable\nmungkin setelah task baru mungkin sembari update,【﻿ｂａｌｉｎｕｘ】,,balinux,0,16,3,2021,6,22,22
+1545,0,"sy dpt artifact legacy code ini,, ternyata pake libs yg sudah outdated banget… ketinggalan 5bulan sampe 1 tahun…",h a y i,,hayinukman,0,16,3,2021,6,23,35
+1547,0,Libs apa tu mas hayi,【﻿ｂａｌｉｎｕｘ】,,balinux,0,16,3,2021,9,53,54
+1548,0,apa istilahnya ini??,h a y i,,hayinukman,0,16,3,2021,12,30,29
+1549,0,yg 2 itu...,h a y i,,hayinukman,0,16,3,2021,12,30,34
+1550,0,Badge kah?,【﻿ｂａｌｉｎｕｘ】,,balinux,0,16,3,2021,12,31,55
+1551,0,ah iya,h a y i,,hayinukman,0,16,3,2021,12,33,32
+1552,0,,➓,,,0,17,3,2021,4,7,16
+1553,0,,Imam Akbar,Mega AR,iamantariksa13,0,18,3,2021,7,38,14
+1554,0,,h a y i,,hayinukman,0,29,3,2021,14,55,50
+1555,1541,Remote Mas,Choirunnisa,Hapsari,choirunnisa,0,30,3,2021,12,41,5
+1556,0,,Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,42,46
+1557,0,"Install, Daftar Akun Dan Berikan Penilaian Terhadap Aplikasi Saya Ya Teman Teman .\nDM Saya",Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,42,46
+1558,1556,ini apa ya?,h a y i,,hayinukman,0,30,3,2021,12,43,44
+1559,0,"kasi penjelasan kek itu aplikasi apa,,, screenshut klo bisa....",h a y i,,hayinukman,0,30,3,2021,12,44,6
+1560,0,Baik,Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,44,11
+1561,0,Wait Ya,Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,44,22
+1562,0,,Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,46,28
+1563,0,Seperti Itu😀,Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,46,34
+1564,0,iklan aplikasi iklan gitu?,h a y i,,hayinukman,0,30,3,2021,12,48,26
+1565,0,untuk keperluan apa?,h a y i,,hayinukman,0,30,3,2021,12,48,31
+1566,0,"Gak Apa Apa Sih Utk Berikan Penilaian Ajha Gimana Hasil Aplikasi Ku, Bagus Atau Tidak ?",Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,49,12
+1567,0,"Bisa Di Lihat Dulu , Silahkan",Customer Support,Calista Center,CalistaCenter,0,30,3,2021,12,49,28
+1568,0,#ASK bang muter” disini mulu dari tadi ``Unhandled Exception: type 'int' is not a subtype of type 'double' in type cast`` apakah ada yang keliru dengan penulisan sy seperti gambar dibawah ini mintol pencerahannya bang,Anwar,,MbunMalam,0,31,3,2021,18,18,23
+1570,0,,Anwar,,MbunMalam,0,31,3,2021,18,19,44
+1571,1570,Jngn langsung as double.,h a y i,,hayinukman,0,31,3,2021,18,20,13
+1572,0,"`double.parse(json[""price""].toString());`",h a y i,,hayinukman,0,31,3,2021,18,21,16
+1573,0,"Itu buat gantiin yg json[""price""] as double;",h a y i,,hayinukman,0,31,3,2021,18,21,49
+1574,0,"terimakasih bang otw coba, sebelumnya gak pakai as pakai yang biasa juga sama errornya bang",Anwar,,MbunMalam,0,31,3,2021,18,22,54
+1575,0,Iya pasti....,h a y i,,hayinukman,0,31,3,2021,18,23,21
+1576,0,Dia kan auto convert...,h a y i,,hayinukman,0,31,3,2021,18,23,30
+1577,0,"Atau sederhana nya klo kita sudah tau itu int. \n\njson[""price""].toDouble();\n\nTp ga tau denk... Itu ada ga method helpernya.... 😂",h a y i,,hayinukman,0,31,3,2021,18,24,43
+1578,0,"sy pakai yg ini `json[""price""].toDouble();` juga gak mempan tadi bang🙈",Anwar,,MbunMalam,0,31,3,2021,18,25,29
+1579,0,"tapi alhamdulillah sekarang udh bisa bang,,, ye gati burng ngantok payu😂",Anwar,,MbunMalam,0,31,3,2021,18,25,57
+1580,0,,"Jiad, ジハード",,jiadmiftx,0,2,4,2021,23,13,17
+1581,0,#ASK untuk route GetX di iOS Simulator apakah ada kendala saat pindah ke Next Page atau gak ya? soalnya di saya selalu force close kaloq pindah page. cc pengguna GetX @nasrulalawy @ariaji25 😁,Anwar,,MbunMalam,0,15,4,2021,6,57,26
+1582,0,Aman kok,Ari Purnama,Aji,ariaji25,0,15,4,2021,6,57,46
+1583,0,Pindahnya pake`Get.to` ?,Ari Purnama,Aji,ariaji25,0,15,4,2021,6,58,18
+1584,1583,pakai Get.off() soalnya udh di inisial di main page nya,Anwar,,MbunMalam,0,15,4,2021,6,59,45
+1585,0,"kaloq running di android aman ni, tapi kaloq running di iOS langsung force close kaloq ada scaffold yang pakai `AppBar` kaloq cuma pakai body aja normal dia",Anwar,,MbunMalam,0,15,4,2021,6,59,51
+1586,0,Errornya keliatan kaga?,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,0,19
+1587,1586,"keliatan kyk tujuan route gitu langsung force close, wait",Anwar,,MbunMalam,0,15,4,2021,7,1,26
+1588,0,Soba screenshot dulu,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,4,16
+1589,0,Errornya apa,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,4,28
+1591,0,"Saya kadang gitu sih, tapi pas ulang lagi normal, kalo pakek navigator biasa aman ngga?",Ari Purnama,Aji,ariaji25,0,15,4,2021,7,7,31
+1592,0,Get.off itu sama kayak Navigator.pushReplacement,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,8,34
+1593,1592,oh iya yg force close kaloq tekan kembali gitu jadinya ya,Anwar,,MbunMalam,0,15,4,2021,7,9,39
+1594,0,Kayaknyaa,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,10,16
+1595,1590,ada setup routre yang di main gini jik? tmen ni ngiranya error di setup route yg di main,Anwar,,MbunMalam,0,15,4,2021,7,12,49
+1596,0,"Baca aja documentasinya dulu,",Ari Purnama,Aji,ariaji25,0,15,4,2021,7,13,30
+1597,0,Wah pada pakai getx ya\nMantap,【﻿ｂａｌｉｎｕｘ】,,balinux,0,15,4,2021,7,14,2
+1598,0,sy sambil baca disini sih cuma masih pilih” page errornya😁\nhttps://github.com/jonataslaw/getx/blob/master/documentation/en_US/route_management.md,Anwar,,MbunMalam,0,15,4,2021,7,14,28
+1599,0,"Kalo pakek route name yang udah di define di mine, pake `Get.toNamed` bukan?",Ari Purnama,Aji,ariaji25,0,15,4,2021,7,17,35
+1600,1599,iya sy pakai itu,Anwar,,MbunMalam,0,15,4,2021,7,18,38
+1601,0,Get.off dipakek buat pindah dan ngereplace screen sebelumnya?,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,19,42
+1602,0,setelah splash screen sy pakein get.toNamed kaloq di yg lain pakai get.off,Anwar,,MbunMalam,0,15,4,2021,7,21,24
+1603,0,Btw debuging di ios itu jik? @ariaji25,Anwar,,MbunMalam,0,15,4,2021,7,26,35
+1604,0,Iyaaa saya debug di ios aja,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,26,49
+1605,0,M1 belum ada em android yang satble,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,27,2
+1606,0,*stable,Ari Purnama,Aji,ariaji25,0,15,4,2021,7,27,10
+1608,1585,"ternyata masalahnya gegara ada lengkungan ini dan mesti pakai `SafeArea` biar bisa menyesuaikan, koq baru inget ya😂",Anwar,,MbunMalam,0,15,4,2021,13,4,9
+1609,0,"saya baru belajar bikin aplikasi flutter nih abang"",,,, kalo mau di hubungkan dengan firebase apa perlu buat rest api terpisah untuk flutter?",Sirajul,Wathani,wathony,0,15,4,2021,15,40,55
+1610,0,https://firebase.google.com/docs/flutter/setup?platform=android,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,36,32
+1611,1609,create dulu project firebasenya.. trus setup di module android nya aja klo pke android…,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,38,48
+1612,0,Berarti tidak perlu membuat API terpisah ya kak?,Sirajul,Wathani,wathony,0,15,4,2021,21,42,11
+1613,0,iya.. API terpisah kek mana tuh,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,43,14
+1614,0,?,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,43,18
+1615,0,Misal kita buat rest API dengan express di firebase baru nanti untuk melakukan crud dan sebagainya dengan manggil API tersebut,Sirajul,Wathani,wathony,0,15,4,2021,21,46,13
+1616,0,"oh ga perlu. langsung aja ,..","Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,46,44
+1617,1615,bisa juga kalo mau gini..,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,47,9
+1618,0,tergantung kebutuhan 🙂,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,47,39
+1619,0,Run time programnya lebih cepet response direct atau API ya kak di flutter?,Sirajul,Wathani,wathony,0,15,4,2021,21,48,22
+1620,0,ke firebasenya langsung..,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,49,7
+1621,0,direct,"Jiad, ジハード",,jiadmiftx,0,15,4,2021,21,49,26
+1622,0,Bisa langsung remote firebase berarti.... Oke deh makasih,Sirajul,Wathani,wathony,0,15,4,2021,21,49,28
+1623,0,"selamat malam nih kakak"".... saya inisialisasi projek flutter baru dan pas saya jalankan error seperti gambar apa ada yang pernah ngalamin?",Sirajul,Wathani,wathony,0,17,4,2021,11,16,57
+1624,0,ada yg punya hp ipun yg buat development ga?,h a y i,,hayinukman,0,20,4,2021,14,8,13
+1625,0,@jiadmiftx,Anwar,,MbunMalam,0,20,4,2021,14,8,32
+1626,0,2 kaloq gak salah ipinya bang😁,Anwar,,MbunMalam,0,20,4,2021,14,8,46
+1627,1624,tapi terbatas cuma 1 minggu bang kaloq untuk debugging di hard pisik,Anwar,,MbunMalam,0,20,4,2021,14,9,35
+1628,0,eh,h a y i,,hayinukman,0,20,4,2021,14,10,44
+1629,1624,"Ya bang, ada nih, nganggur.. ipun six. iOS 14++ support development. Udh sya coba kemarin.","Jiad, ジハード",,jiadmiftx,0,20,4,2021,14,10,44
+1630,0,kok bisa?,h a y i,,hayinukman,0,20,4,2021,14,10,46
+1631,1627,Maksudnya war?,"Jiad, ジハード",,jiadmiftx,0,20,4,2021,14,11,34
+1632,1630,"iya rata” yg debugging udh nyoba gitu bang, lebih enak di emulator sepertinya bisa lebih lama😁",Anwar,,MbunMalam,0,20,4,2021,14,11,36
+1633,0,emulator sy nge-hang terus ini.. -_-,h a y i,,hayinukman,0,20,4,2021,14,11,59
+1634,0,nyebelin...,h a y i,,hayinukman,0,20,4,2021,14,12,2
+1635,1631,"kaloq install aplikasi untuk debugging di hp iphone langsung akeses ke aplikasi itu terbatas yad sekitar 1 minggu atau gak 10 hari gitu, sempat di bahas kemarin di flutter indonesia",Anwar,,MbunMalam,0,20,4,2021,14,12,31
+1636,1632,Kalo flutter ya?,"Jiad, ジハード",,jiadmiftx,0,20,4,2021,14,12,42
+1637,1635,Aplikasi nya bisa dipake..? setelah itu debug lg?,"Jiad, ジハード",,jiadmiftx,0,20,4,2021,14,13,9
+1638,1636,"iya itu untuk aplikasi flutter yg versi debgging, kaloq debugging ulang kurang tau blm nyoba ni, masih zona nyaman di emulator😁",Anwar,,MbunMalam,0,20,4,2021,14,13,56
+1639,0,pakai codemagic bang😂😂,Anwar,,MbunMalam,0,20,4,2021,14,15,6
+1640,0,@hayinukman,Anwar,,MbunMalam,0,20,4,2021,14,15,13
+1641,0,https://blog.codemagic.io/native-ios-getting-started-guide-with-codemagic/,Anwar,,MbunMalam,0,20,4,2021,14,18,23
+1642,0,,irtupin,,irtupin,0,23,4,2021,14,18,46
+1643,0,,Kokuroh,,kokuroh,0,23,4,2021,20,8,23
+1644,0,,Khaliqul Wafiq,,aliqferdian,0,23,4,2021,20,10,57
+1645,0,,Wawan,Indrawan,jneferboy7,0,23,4,2021,20,17,25
+1646,0,,Regina,Aprilia,liariberu,0,24,4,2021,13,55,56
+1647,0,,Anshor,,anshor_ramadhon,0,24,4,2021,14,7,39
+1648,0,ada yang pernah alami atau tau cara solvenya eror seperti ini? apakah bener masalahnya cuman di mac sama ios doang?,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,34,12
+1649,0,#ask\nada yg pernah alami eror seperti ini?,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,34,13
+1650,0,running ke ios bang/,"Jiad, ジハード",,jiadmiftx,0,25,4,2021,14,36,47
+1651,0,?,"Jiad, ジハード",,jiadmiftx,0,25,4,2021,14,36,48
+1652,1650,"iya, tak coba di android jga gitu...  katanya masalahnya di mac aja..",Aufa,Ahdi,aufaahdi,0,25,4,2021,14,38,56
+1653,1649,coba ping itu address nyaut kaga ?,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,49,26
+1654,0,itu ke emulator atau device langsung runingnya ?,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,51,30
+1655,1654,langsung device,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,51,39
+1656,0,tapi sudah bisa  ini... hehehe,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,51,45
+1657,0,neeh wkwkwkw,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,51,52
+1658,0,mantap,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,51,53
+1659,0,klo langsung lewat Android studio dia gitu,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,51,59
+1660,0,cuman klo lewat terminal bisa dia..,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,52,9
+1661,0,masalh IDE berarti,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,52,13
+1662,0,pake VSCode ajee,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,52,21
+1663,1661,bisa jadi.. ketika upgrade ada yg crash kali hehehe,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,52,32
+1664,0,VSCode env nya ngikut terminal soalnya,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,52,35
+1665,1662,"udah nyaman pake AS.. tapi boleh di coba... hehehe, makasih ya sudah bantu cari solusinya 🙏",Aufa,Ahdi,aufaahdi,0,25,4,2021,14,53,45
+1666,1664,Ini alibi karena AS gede dan berat sih 🤣,Ari Purnama,Aji,ariaji25,0,25,4,2021,14,57,47
+1667,1666,hahaa tapi bener kok statement itu jga,Aufa,Ahdi,aufaahdi,0,25,4,2021,14,59,18
+1668,0,"Udah nyaman pakek VSCode juga sih, setting IDE nya seenak kite",Ari Purnama,Aji,ariaji25,0,25,4,2021,14,59,51
+1669,1668,👍,Aufa,Ahdi,aufaahdi,0,25,4,2021,15,24,9
+1670,0,,Design & Code Your Future Career,,kelas_bootcamp,0,2,5,2021,3,48,14
+1671,0,"Hi Sobat \nYuk, Upgrade Skill,  Kuasai digital skill, programing dan desain, di SanberCode Bootcamp!\n- Online - Intensif - Interaktif -\nMulai Bulan Ramadhan ini semua kelas bootcamp levelnya jadi beginner, jadi klo kamu baru mau mulai, bisa ikut kelas mana aja, yuk dipilih kelasnya!\nAda 4 kelas baru juga lho!\nKelas yang dibuka :\n1. Python - Data Science\n2. Laravel - Web Development\n3. React Native - Mobile Apps Dev\n4. FLutter - Mobile Apps Dev✨\n5. React JS - Web FrontEnd Dev\n6. Vue JS - Web FrontEnd Dev✨\n7. Python - BackEnd Microservices✨\n8. NodeJS - BackEnd with Adonis✨\n9. Wordpress Dev\n10. UI/UX Design\n11. Ai Ps Blender - Grafik & 3D Design\n12. Agile Dev using SCRUM\n\n--------------------------------------------------\n⭐ Bootcamp ini terbuka untuk umum dan tanpa seleksi di awal.\n⭐ Dilatih oleh trainer profesional berpengalaman dan dapat sertifikat resmi.\n⭐ Bisa mendapatkan peluang project dan kesempatan bekerja di perusahaan mitra SanberCode.\n⭐ Materi kelas dan grup diskusi dapat diakses kapan pun setelah kelas berakhir.\nInfo detail materi, teknis pelaksanaan dan pendaftaran, klik link sanbercode . com\nBuat yang ingin daftar dan dapatkan diskon 10% silahkan Masukan kode voucher : RAMADHAN",Design & Code Your Future Career,,kelas_bootcamp,0,2,5,2021,4,3,48
+1672,1671,Mantaap.  Asyik dapat Potongan,Anshor,,anshor_ramadhon,0,2,5,2021,4,4,15
+1673,0,,,,,0,8,5,2021,0,48,59
+1674,0,,haripin,,haripin9,0,12,5,2021,10,2,32
+1675,0,,Gadjah,Muda,GadjahMuda,0,14,5,2021,12,2,4
+1676,1671,Assalamualaikum\nhai gais\nada yang pernah pakai devtool flutter di vscode?\n\ngimana ya cara melihat state yang ada di setiap halaman didevtool?,【﻿ｂａｌｉｎｕｘ】,,balinux,0,20,5,2021,7,12,38
+1677,0,<— android studio user.,h a y i,,hayinukman,0,20,5,2021,7,20,53
+1678,1677,ampun pak admin :),【﻿ｂａｌｉｎｕｘ】,,balinux,0,20,5,2021,7,22,23
+1679,1676,"Nah baru sebatas pemakaian buat widget"", blum ke statenya😁",Anwar,,MbunMalam,0,20,5,2021,7,26,8
+1680,0,,Jo,,Dejo06,0,22,5,2021,13,20,31
+1681,0,,Ainul,Yaqin,ainulyaqin1,0,26,5,2021,9,26,6
+1682,0,#ask\n\nIzin bertanya abang². Gmna cara biar kotak yg putih pas ada di tengah² screennya. Sy coba pakai media query malah ilang. Thank you,Rian Asmara P.,,rianasmaraputra,0,27,5,2021,10,36,56
+1683,0,Center ?,Darmawan,Zulkifli,sudah_punya_jodoh,0,27,5,2021,10,38,58
+1684,0,Kotak putih yg mana mas?,【﻿ｂａｌｉｎｕｘ】,,balinux,0,27,5,2021,11,1,47
+1685,1684,Yg putih. Kan ada warna ijo sama putih doang,Rian Asmara P.,,rianasmaraputra,0,27,5,2021,12,38,54
+1686,1683,Belum berhasil pake center. Udh dicoba tdi,Rian Asmara P.,,rianasmaraputra,0,27,5,2021,12,39,29
+1687,0,ini kok kayak mode one hand nya device deh,h a y i,,hayinukman,0,27,5,2021,12,40,28
+1688,0,"Tempel code pak. Pakai gist atau sejenis. Karena gabisa nebak dibungkus pakai apa, di kiri ada apa",Darmawan,Zulkifli,sudah_punya_jodoh,0,27,5,2021,12,46,42
+1689,1687,Iya bang. Kurang lebih mirip mode one hand. Tapi ini idenya disamping ntar buat naroh menu,Rian Asmara P.,,rianasmaraputra,0,29,5,2021,5,43,13
+1690,1688,"Pake animated container pak. Jdi di set x,y,z nya",Rian Asmara P.,,rianasmaraputra,0,29,5,2021,5,43,26
+1691,1689,"nah ini lebih jelas,,, pas cuma screenshot kita cuma bsia ber asumsi.. 😆 kirain itu kayak ngebug gitu… lol",h a y i,,hayinukman,0,29,5,2021,5,47,29
+1692,0,guys mau tanya....,h a y i,,hayinukman,0,30,5,2021,6,36,51
+1693,0,```======== Exception caught by widgets library =======================================================\nThe following LateError was thrown building MoonHome(dirty):\nLateInitializationError: Field 'context' has not been initialized.```,h a y i,,hayinukman,0,30,5,2021,6,36,58
+1694,0,,h a y i,,hayinukman,0,30,5,2021,6,37,18
+1695,0,,h a y i,,hayinukman,0,30,5,2021,6,37,38
+1696,0,,h a y i,,hayinukman,0,30,5,2021,6,37,56
+1697,0,Getx ya mas hayi?,【﻿ｂａｌｉｎｕｘ】,,balinux,0,30,5,2021,6,38,26
+1698,0,nah di home yg bermasalah make ini...,h a y i,,hayinukman,0,30,5,2021,6,38,27
+1699,1697,iya,h a y i,,hayinukman,0,30,5,2021,6,38,31
+1700,0,"klo stateless biasa, aman…",h a y i,,hayinukman,0,30,5,2021,6,39,13
+1701,0,tapi pas mau pake responsiveview dia crash…,h a y i,,hayinukman,0,30,5,2021,6,39,29
+1702,0,Masih pake getx sekedar buat state management\nMaaf belum bisa bantu,【﻿ｂａｌｉｎｕｘ】,,balinux,0,30,5,2021,6,39,36
+1703,1698,Coba pakai Widget builder() {} bang @hayinukman,Nasrul,Alawy,nasrulalawy,0,30,5,2021,6,43,8
+1704,0,Jangan pakai Widget build(BuildContext context) {},Nasrul,Alawy,nasrulalawy,0,30,5,2021,6,43,28
+1705,0,cakep.....,h a y i,,hayinukman,0,30,5,2021,6,49,45
+1706,0,tak do’akan semoga dapet istri solehah.. 😄 solved…. thank you bang @nasrulalawy,h a y i,,hayinukman,0,30,5,2021,6,50,5
+1707,1706,Aamiin 😁,Nasrul,Alawy,nasrulalawy,0,30,5,2021,6,50,31
+1708,0,Bang abang...,h a y i,,hayinukman,0,30,5,2021,12,38,12
+1709,0,bisa ga Obx atau sejenisnya nge-generate list of widget based on list content??,h a y i,,hayinukman,0,30,5,2021,12,38,48
+1710,0,"tapi ga pake listview builder yak… karena perlunya outputnya itu `[Widget, widget,]`",h a y i,,hayinukman,0,30,5,2021,12,39,22
+1711,1709,Seharusnya sih bisa bang.. Pake loop biasa,Nasrul,Alawy,nasrulalawy,0,30,5,2021,12,39,50
+1712,0,ngelisten change nya pake apa?,h a y i,,hayinukman,0,30,5,2021,12,45,9
+1713,1712,Kondisi apa dia berubah ?,Nasrul,Alawy,nasrulalawy,0,30,5,2021,12,52,30
+1714,0,ugh....,h a y i,,hayinukman,0,30,5,2021,15,43,33
+1715,0,test nya Car Next Door ausie lumayan ribet… 😆,h a y i,,hayinukman,0,30,5,2021,15,43,52
+1716,0,klo ga jago sama euclidian  coordinate based bisa lama…,h a y i,,hayinukman,0,30,5,2021,15,44,17
+1717,0,"padahal d suruh ngerjain 2 jam, eh jadi 24 jam… 😆",h a y i,,hayinukman,0,30,5,2021,15,44,30
+1718,0,,Teuku Rovid,,Rovid1,0,31,5,2021,4,10,6
+1719,0,"Salam semua, saya Teuku rovid dari aceh, mohon kerjasama nya",Teuku Rovid,,Rovid1,0,31,5,2021,4,10,30
+1720,0,siap,h a y i,,hayinukman,0,31,5,2021,4,29,2
+1722,1717,🤣,Nasrul,Alawy,nasrulalawy,0,31,5,2021,4,42,11
+1725,0,"salam semua, ada yg punya module flutter gak ?, kalau ada mohon di kirim abg2",Teuku Rovid,,Rovid1,0,7,6,2021,5,33,5
+1726,0,,I am,Ali,,0,7,6,2021,15,12,40
+1727,0,https://geekle.us/flutter?utm_source=paid&utm_medium=facebook&utm_campaign=FLUTTER_1-COLD_LEAD_LAL&utm_content=FLUTTER_LAL_LEADS_1%25&utm_term=networking+-+copy+-+Copy&fbclid=IwAR1xZjJtOAxK539Yf5AH9OH7DvP3jvNuY3oEzpmzj9DuLSgTDBUM_KiGegI_aem_Ad8RFq7YBthAGKDJBNpNt2lI_ypzGI5NuYtj0g6UUmTPJVlwKQ6x7zAG4e6re42WDWoV8H5EHDvHonHEHfO7msuNGi3AcbfHHf1R6jviOJuo4ZCL1AI05_BdXYrl0Qy4xN8,h a y i,,hayinukman,0,7,6,2021,23,29,53
+1728,0,bang abang mau nanya.. cara parsing dateTime yg kaya begini : ```2021-06-11 09:03:48.16127352 +0000 UTC m=+12508.994024039``` gimana yaa?,"Jiad, ジハード",,jiadmiftx,0,11,6,2021,9,15,50
+1729,0,pake DateTime.parse() ga mempan.. sudah disubstring berhasil.. tpi pas mau jadikan local time ga work ```.toLocal()``` nya,"Jiad, ジハード",,jiadmiftx,0,11,6,2021,9,17,1
+1730,0,Formatter pakek,Ari Purnama,Aji,ariaji25,0,11,6,2021,9,17,39
+1731,0,oiya bener juga,"Jiad, ジハード",,jiadmiftx,0,11,6,2021,9,26,40
+1732,0,tpi toLocal ga work gitu gimana yaak,"Jiad, ジハード",,jiadmiftx,0,11,6,2021,9,26,50
+1733,0,oh udh… utc nya jadiin false pas di formatter,"Jiad, ジハード",,jiadmiftx,0,11,6,2021,9,28,56
+1734,0,,h a y i,,hayinukman,0,11,6,2021,9,36,27
+1735,0,"#ask malem kakak"", sementon pade..... izin bertanya tentang mengkoneksi flutter dengan restapi,,,, ngikutin dokumentasi dapet error gini terus  type 'List<dynamic>' is not at a subtype of type 'FutureOr<Books>'        \n udah mondar mandir masih belum nemu",Sirajul,Wathani,wathony,0,13,6,2021,16,41,30
+1736,0,sekiranya mungkin ada yang bisa bantu,Sirajul,Wathani,wathony,0,13,6,2021,16,41,45
+1737,1735,bisa share code nya yg ngasi error itu?,h a y i,,hayinukman,0,14,6,2021,0,47,5
+1738,0,"#ASK \n\npabapak, ada yang pernah nampilin image dari bytes ? \n\ndata bytesnya ini di dalam Gridview. issuesnya nge blink gitu setiap update data atau scroll curiganya karena tidak di cache. ada versi yang lain pakai network image lancar tanpa nge blink. tapi butuhnya nampilin image dari bytes nya. sudah coba pakai Image.memory atau MemoryImage sama saja",Darmawan,Zulkifli,sudah_punya_jodoh,0,14,6,2021,5,44,28
+1739,0,coba di tanya di stackoverflow bang.,h a y i,,hayinukman,0,14,6,2021,6,36,52
+1740,1737,"udah nemu kak,,,, terima kasih😁",Sirajul,Wathani,wathony,0,14,6,2021,6,37,31
+1741,0,https://fluttershapemaker.com/?fbclid=IwAR0cadE6QKXtyAoIRllBGeY1N5UVDufVkmI2RPeMmqvTaEcUb17383WSmD0,h a y i,,hayinukman,0,14,6,2021,8,3,31
+1742,1739,Wkwkwk gada yang jawab. Tapi tadi dah nemu. Custom sendiri cache image provider yang type nya bytes,Darmawan,Zulkifli,sudah_punya_jodoh,0,14,6,2021,10,39,55
+1743,0,Hasil nyomot sana nyomot sini,Darmawan,Zulkifli,sudah_punya_jodoh,0,14,6,2021,10,40,10
+1744,1735,Disesuaikan model yang digunakan mas,【﻿ｂａｌｉｎｕｘ】,,balinux,0,14,6,2021,10,57,27
+1745,0,,Monlight,,Anon0505,0,21,6,2021,8,9,11
+1746,0,Halo salam kenal semuanya,Monlight,,Anon0505,0,21,6,2021,8,9,19
+1751,0,Asssalamualaikum Wr. Wb\nhalo selamat pagi\n\nadakah kawan-kawan disini yang mengalami malasah notifikasi dari plugin firebase_messaging tidak bisa muncul di perangkat IOS?\n\npadahal di project saya sebelumnya berjalan dengan baik. \n\nterima kasih sebelumnya,【﻿ｂａｌｉｎｕｘ】,,balinux,0,1,7,2021,2,2,21
+1752,1751,Udh di tambahin permission di xcode info.plist?,Anwar,,MbunMalam,0,1,7,2021,2,5,55
+1753,0,sudah mas @MbunMalam,【﻿ｂａｌｉｎｕｘ】,,balinux,0,1,7,2021,2,6,28
+1754,0,saya check di github issue ternyata banyak juga yang mengalami,【﻿ｂａｌｉｎｕｘ】,,balinux,0,1,7,2021,2,7,44
+1755,1754,Issues nya masih seger ni,Anwar,,MbunMalam,0,1,7,2021,2,8,18
+1756,0,iya\nsoalnya packagenya juga baru update\ntapi kalo di android aman,【﻿ｂａｌｉｎｕｘ】,,balinux,0,1,7,2021,2,8,40
+1758,0,"#ask\n\nlagi coba firebase push notification, cuman pas di push notifnya kok gak mau langsung ke halaman yang di tuju ya? sekarang cuman sampe ke dashboard saja...",Aufa,Ahdi,aufaahdi,0,1,7,2021,12,51,32
+1759,0,ini cara navigasi saya...,Aufa,Ahdi,aufaahdi,0,1,7,2021,12,56,5
+1760,0,apakah ada yang pernah mengalami juga?,Aufa,Ahdi,aufaahdi,0,1,7,2021,13,5,23
+1761,0,beda handler dia klo dr push notif,h a y i,,hayinukman,0,1,7,2021,15,26,49
+1763,1761,Owh gitu ya mas.. okok mas saya coba cari dulu yg sama kayak versi yg saya pakai.. makasih mas,Aufa,Ahdi,aufaahdi,0,2,7,2021,9,49,18
+1765,0,,,,,0,2,7,2021,13,44,4
+1767,0,,Amai,Kiring,geopelia,0,7,7,2021,2,59,19
+1768,0,,Rezky,Sulihin,mrezkys,0,13,7,2021,17,35,57
+1769,0,,,,,0,17,7,2021,13,29,12
+1772,0,"#ask permisi,\njadi saya make lib video player( video_player & chewie ), udh beberapa kali tetap crash pas run app ( langsung ke screen play vid ). dapat error kaya gini",Rezky,Sulihin,mrezkys,0,19,7,2021,8,55,45
+1773,0,,Rezky,Sulihin,mrezkys,0,19,7,2021,8,55,59
+1774,0,itu ngatasinnya gimana ya?,Rezky,Sulihin,mrezkys,0,19,7,2021,8,56,3
+1775,0,rekomendasi jangan pake emulator,h a y i,,hayinukman,0,19,7,2021,8,59,0
+1776,0,langsung ke HP saja lebih bagus,h a y i,,hayinukman,0,19,7,2021,8,59,10
+1777,1775,makasih bang,Rezky,Sulihin,mrezkys,0,19,7,2021,9,8,16
+1778,0,di hp bisa ternyata,Rezky,Sulihin,mrezkys,0,19,7,2021,9,8,20
+1779,0,,Paozan,,Brangk,0,21,7,2021,6,16,51
+1783,0,Izin share Free Flutter News App Project dari saya 😁\n\ngithub : https://github.com/mrezkys/readky,Rezky,Sulihin,mrezkys,0,29,7,2021,3,34,35
+1784,0,mantap,h a y i,,hayinukman,0,29,7,2021,3,35,49
+1793,0,@MbunMalam,h a y i,,hayinukman,0,30,7,2021,5,51,52
+1794,0,yg buat animasi d flutter itu pake apa ya?,h a y i,,hayinukman,0,30,7,2021,5,52,1
+1795,1794,flare bang,Anwar,,MbunMalam,0,30,7,2021,5,57,36
+1796,0,kaloq durasinya pendek bisa juga jadiin gif bang,Anwar,,MbunMalam,0,30,7,2021,5,58,20
+1797,1794,alternatif lain bisa pakai LOTTIE juga bang,Anwar,,MbunMalam,0,30,7,2021,6,0,7
+1798,0,halo pak bapak...,h a y i,,hayinukman,0,1,8,2021,7,53,36
+1799,0,,Jack's,,jackie_javk,0,1,8,2021,7,53,42
+1800,0,"Oktober dah deket nih,,,",h a y i,,hayinukman,0,1,8,2021,7,53,44
+1801,0,halo bang,Rezky,Sulihin,mrezkys,0,1,8,2021,7,53,48
+1802,0,"kita  ada rencana mau ngadain Hacktoberfest, dan bakalan ada mini Hackathon nanti...\ndan rewardnya non money rewards. alias swags dan sejenisnya...",h a y i,,hayinukman,0,1,8,2021,7,54,28
+1803,0,Lombok FLutter mau ikut contribute?,h a y i,,hayinukman,0,1,8,2021,7,54,42
+1804,0,,"Jiad, ジハード",,jiadmiftx,0,1,8,2021,7,55,10
+1805,0,Gaskeun,Ari Purnama,Aji,ariaji25,0,1,8,2021,7,55,24
+1806,0,Udah lama ga ada nih,Ari Purnama,Aji,ariaji25,0,1,8,2021,7,55,32
+1807,0,Yok buat webinar online juga,Ari Purnama,Aji,ariaji25,0,1,8,2021,7,55,56
+1808,0,btw Lombok FLutter ga ada logo?,h a y i,,hayinukman,0,1,8,2021,7,56,14
+1809,0,Icon grup ini kan bung ?,Ari Purnama,Aji,ariaji25,0,1,8,2021,7,56,30
+1810,0,Kombine LF kali ya bagus,Ari Purnama,Aji,ariaji25,0,1,8,2021,7,56,48
+1811,0,yg kek model2 gini maksud sy...,h a y i,,hayinukman,0,1,8,2021,7,57,17
+1812,0,,h a y i,,hayinukman,0,1,8,2021,7,57,20
+1813,1802,gass bang,Anwar,,MbunMalam,0,1,8,2021,8,6,16
+1814,1812,@rhyanz46 @jiadmiftx asset logo grub,Anwar,,MbunMalam,0,1,8,2021,8,6,47
+1815,0,ownernya si jiad wkwk,Anwar,,MbunMalam,0,1,8,2021,8,7,6
+1816,0,izin...,"Jiad, ジハード",,jiadmiftx,0,1,8,2021,9,1,14
+1817,0,"Hi Guys.. \nKita dari LombokDev akan mengadakan Hactoberfest lhoo,\nUntuk temen teman yg ada saran untuk kegiatan Hacktoberfest 2021 mendatang, silahkan mengisi form ini ya...\nhttps://forms.gle/mvNKkAepFHDQtH5f8\nTerima kasih.. 😁😁",h a y i,,hayinukman,0,1,8,2021,9,4,21
+1818,1817,,Anwar,,MbunMalam,0,1,8,2021,9,4,46
+1819,0,mantap,Devin,Pradana,DavePradana,0,1,8,2021,9,5,45
+1820,1816,good,Arian,Saputra,rhyanz46,0,1,8,2021,9,7,40
+1822,0,"Selamat siang, saya mau nanya.Ada saran gk widget2 yg digunakan untuk buat tampilan road map kayak gini di flutter",Anas,Mulachela,anasmc97,0,5,8,2021,7,1,10
+1823,0,custom,h a y i,,hayinukman,0,5,8,2021,7,1,28
+1824,1822,Coba cari di pub.dev,Rezky,Sulihin,mrezkys,0,5,8,2021,7,4,58
+1825,1823,"Custom kyk gmn bang, ada refrensi gk bang?",Anas,Mulachela,anasmc97,0,5,8,2021,7,5,11
+1826,1822,Stepper,"Jiad, ジハード",,jiadmiftx,0,5,8,2021,7,6,33
+1827,0,Oke abang2 makasi atas jawabannya,Anas,Mulachela,anasmc97,0,5,8,2021,7,44,22
+1828,1825,"klo UI kayak gini aga susah nyari yg sudah buat library nya...\nmau tak mau harus custom sendiri....\n\ncara custom nya gimana?\nsama seperti cara bikin widget biasa... cuma sudah bukan dumb widget, tapi sudah complex widget...",h a y i,,hayinukman,0,5,8,2021,7,45,24
+1829,0,ayok buat skalian nas @anasmc97 biar skalian contribute open source package di pub.dev 😁,Anwar,,MbunMalam,0,5,8,2021,7,47,3
+1830,1828,Oke2 bang,Anas,Mulachela,anasmc97,0,5,8,2021,7,56,43
+1831,1829,Gas war,Anas,Mulachela,anasmc97,0,5,8,2021,7,56,50
+1832,0,https://mkobuolys.medium.com/list/flutter-design-patterns-9804e6a0c3f4,Arian,Saputra,rhyanz46,0,7,8,2021,8,45,4
+1833,0,,Badrol,,,0,9,8,2021,11,22,20
+1834,0,,Badrol,,,0,9,8,2021,11,22,20
+1835,0,,Badrol,,,0,9,8,2021,11,22,20
+1836,0,,Badrol,,,0,9,8,2021,11,22,20
+1837,0,,Badrol,,,0,9,8,2021,11,22,21
+1838,0,,Badrol,,,0,9,8,2021,11,22,21
+1839,0,"Hari gini masih gak punya skills? Atau mau ikut pelatihan tapi mahal? Atau kamu takut gabisa? 🙄\n\nUntuk kamu yang masih bingung, udah gausah khawatir lagi nih!\n\nSecangkir Ilmu akan segera hadir dengan pelatihan yang cocok banget buat para lifelong learner seperti kamu!\nPelatihan ini dijamin berguna sekali untuk era society seperti saat ini lho!🔥🔥🔥\n\nAda apa saja ya pelatihannya?\n1. Pelatihan Desain Grafis (bit.ly/GraphicDesignPresale2)\n2. Pelatihan Front End Developer (bit.ly/FrontEndPresale2)\n3. Pelatihan Back End Developer (bit.ly/BackEndPresale2)\n\nPenasaran dengan harganya?\nKalian bisa mengikuti pelatihan hanya dengan *89 RIBU!* (untuk 5 orang pertama).\n\nKeren bangetkan?! Bukan hanya itu, dengan mengikuti beberapa pelatihan ini kamu bisa mendapatkan sertifikat, gratis konsultasi dengan tutor berpengalaman, bahan pembelajaran tak terbatas, materi eksklusif, harga terjangkau, dan masih banyak yang lainnya!\n\nSo, tunggu apalagi segera daftarkan dirimu! SEMAKIN CEPAT KAMU DAFTAR, SEMAKIN TERJANGKAU HARGA YANG DIDAPAT!\n\nIG : @secangkirilmu_\nTwitter : @secangkirilmu_ \nFacebook : secangkirilmu\nYouTube : secangkirilmu\nWeb : secangkirilmu.web.id",Badrol,,,0,9,8,2021,11,22,23
+1840,1839,"untuk kesekian kali sy kadang bingung....\n\nini promosi nya aga kurang relevan dengan tema group....\n\nTEMA GROUP INI: FLUTTER\nbukan, backend, bukan front end, bukan juga desain grafis...\n\n\nmohon untuk yg mau sebar informasi/promo/ngiklan, lihat kesesuaian tema yg di iklankan dengan group nya....",h a y i,,hayinukman,0,9,8,2021,11,48,23
+1841,0,Mungkin frontend nya pakai flutter,Darmawan,Zulkifli,sudah_punya_jodoh,0,12,8,2021,23,24,53
+1842,0,,Deya,,,0,15,8,2021,12,7,57
+1845,0,"#ASK saya sedang coba edit data profile menggunakan `MultiPartRequest`, \n\npada saat edit password doang dan klik save itu gak berhasil ke update datanya\n\ntapi kaloq saya edit profile/image dan edit password kirim bersamaan itu berhasil dan sy coba edit profile image doang berhasil ke update, kira” masalahnya dimana ya dari codingan ini. terimakasih",Anwar,,MbunMalam,0,21,8,2021,8,5,45
+1846,1845,"sekali lagi war,, serning sy kasi tau gimana cara bertanya yg baik dan bener....",h a y i,,hayinukman,0,21,8,2021,8,48,2
+1847,0,"pertama\njelaskan kontext nya mau ngapain.\nkalau kontext nya API call ke server, sertakan log server, ketika gagal itu terjadi....",h a y i,,hayinukman,0,21,8,2021,8,48,36
+1848,0,selalu capture API call baik request maupun response nya.,h a y i,,hayinukman,0,21,8,2021,8,48,59
+1849,0,"ada tools yg sangaaaaaaat bermanfaat untuk perkara itu, namanya Flipperkit.",h a y i,,hayinukman,0,21,8,2021,8,49,19
+1850,0,dan sekali lagi tools ini sudah sangaaaat sering sy kasi tau ke temen2 supaya bisa dipake.. dan itu untuk mempermudah hidup kalian yg jadi programmer....,h a y i,,hayinukman,0,21,8,2021,8,50,20
+1851,0,"dalam kontext API call kayak gini, yg tau apa yg dikirim ke sever oleh app mu itu hanya Allah, si aplikasi mu, dan server nya saja...",h a y i,,hayinukman,0,21,8,2021,8,51,22
+1852,0,kita sendiri buta sama datanya dan request nya yg actual seperti apa....,h a y i,,hayinukman,0,21,8,2021,8,51,41
+1853,0,maka dari itu tools itu dipake supaya bisa terlihat tuh actual request data dan response nya...,h a y i,,hayinukman,0,21,8,2021,8,52,7
+1854,0,"nah kalo sudah keliatan, lihat, analisa... itu masalahnya di aplikasi mu, di codingan mu, atau salah nya server....",h a y i,,hayinukman,0,21,8,2021,8,52,32
+1855,0,"Aga bingung sih, mungkin disertain logs pas gagal kali biasanya keliatan tuh apa yg kurang",Ari Purnama,Aji,ariaji25,0,21,8,2021,8,52,54
+1856,0,kalo kau d lombok sudah sy suruh pushup 500 kali ini...,h a y i,,hayinukman,0,21,8,2021,8,53,3
+1857,1856,Untung ga pernah kena 😅,Ari Purnama,Aji,ariaji25,0,21,8,2021,8,53,19
+1858,1856,"siap bang, terimakasih banyak masukannya😁",Anwar,,MbunMalam,0,21,8,2021,8,54,6
+1859,0,Sertain aja log pas galat bang,Ari Purnama,Aji,ariaji25,0,21,8,2021,8,56,26
+1860,0,Biar lebih bisa dibantu gitu,Ari Purnama,Aji,ariaji25,0,21,8,2021,8,56,33
+1861,0,di insomnia sy hide/gak di isi bagian image berhasil ke update datanya,Anwar,,MbunMalam,0,21,8,2021,8,57,25
+1862,1845,"Kala image.path nya ga ada ini tetep di add ke field nya, ga error kah ?",Ari Purnama,Aji,ariaji25,0,21,8,2021,8,58,16
+1863,1861,Client kayak insomnia sama mobile itu kadang beda war,Ari Purnama,Aji,ariaji25,0,21,8,2021,8,59,9
+1864,0,Mungkin log dari si mobile pas galat itu yg ditampilin,Ari Purnama,Aji,ariaji25,0,21,8,2021,8,59,25
+1865,0,"Karena si server kadang ngebedain cara nanggepin clinet insomnia ama mobile, jadi tetep harus liat galat di log mobile nya kayak gimana",Ari Purnama,Aji,ariaji25,0,21,8,2021,9,0,29
+1866,1856,Saya sering kena😁,Aufa,Ahdi,aufaahdi,0,21,8,2021,9,6,36
+1867,1862,masih dicoba jik,Anwar,,MbunMalam,0,21,8,2021,9,15,25
+1868,1866,sini kopdar bang😅,Anwar,,MbunMalam,0,21,8,2021,9,16,4
+1869,1868,Siap.. nanti,Aufa,Ahdi,aufaahdi,0,21,8,2021,9,22,16
+1870,0,Kita atur,Aufa,Ahdi,aufaahdi,0,21,8,2021,9,22,32
+1871,0,,Anwar,,MbunMalam,0,21,8,2021,9,22,45
+1872,1862,"kaloq sy hapus `..files.add(await http.MultipartFile.fromPath('image', image.path));` bisa dia ke update passwordnya jik",Anwar,,MbunMalam,0,21,8,2021,9,48,8
+1873,0,Berarti mesti di cek dulu tuh si image ada apa kaga baru di add ke fields,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,23,29
+1874,1873,"Rencananya mau edit satu"" gitu jik, misal kaloq edit password, password aja yg di ganti gitu, kaloq mau ganti image tinggal ganti image gitu, cuma sy coba kyk gitu belum berhasil, dia berhasil kaloq image dan passwordnya sama"" di edit gitu",Anwar,,MbunMalam,0,21,8,2021,10,39,48
+1875,0,"Yaa tetep aja kirim image sebelumnya aja, kan ga di edit jadinya",Ari Purnama,Aji,ariaji25,0,21,8,2021,10,41,35
+1876,0,Tetep aja dikirim walau ga di edit,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,41,55
+1877,0,Mgkn dari server nya emng begitu,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,42,2
+1878,0,🤣,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,42,6
+1879,0,Coba tanyakan aja ke teamnya,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,42,19
+1880,0,nah kan pada ber asumsi... :D,h a y i,,hayinukman,0,21,8,2021,10,42,32
+1881,0,Makaknyaa 🤣,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,42,43
+1882,0,"sudah sy bilang, cek actual request dan response nya pake flipperkit....",h a y i,,hayinukman,0,21,8,2021,10,42,54
+1883,0,Minimal log terminal kek gitu,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,43,10
+1884,0,pagah di bilangin...,h a y i,,hayinukman,0,21,8,2021,10,43,10
+1885,1882,Sedang tahap setup ni bang dari tadi😁,Anwar,,MbunMalam,0,21,8,2021,10,43,24
+1886,0,Atau run dah di web biar keliatan requestnya 🤣,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,43,28
+1887,1883,log pun musti di log lengkap biar kelihatan...,h a y i,,hayinukman,0,21,8,2021,10,43,29
+1888,1886,Tanpa flipper nih wkwkwk,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,43,48
+1889,1875,"Oiya paham"" jik, astaga lupa sy get datanya dulu baru di edit😂",Anwar,,MbunMalam,0,21,8,2021,10,44,0
+1890,1877,Tag gak ya orangnya wkwkwk,Anwar,,MbunMalam,0,21,8,2021,10,45,47
+1891,1879,Solo player ni😁,Anwar,,MbunMalam,0,21,8,2021,10,46,0
+1892,0,Yang kerjain BE nya sendiri juga ?,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,46,38
+1893,1892,"Beda BE nya, orangnya sering di cdi koq BE nya😁",Anwar,,MbunMalam,0,21,8,2021,10,47,27
+1894,0,"Kuswari, agung ? Yuda atau Pak D ?",Ari Purnama,Aji,ariaji25,0,21,8,2021,10,48,14
+1895,1894,arian,h a y i,,hayinukman,0,21,8,2021,10,48,26
+1896,0,Walaah ya tanyaa dong koordinasi astaga,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,48,43
+1897,0,Kalo ga gitu mana lancar kerjaan,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,48,52
+1898,0,Astagfirullah,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,49,5
+1899,0,Udh tektokan dari tadi ni😁,Anwar,,MbunMalam,0,21,8,2021,10,49,36
+1900,0,Wkwkwwk lnjutkan,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,49,53
+1901,0,O iyaa lupa satu kantor yak,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,50,35
+1902,1876,,Arian,Saputra,rhyanz46,0,21,8,2021,10,52,11
+1903,1876,gk mau,Arian,Saputra,rhyanz46,0,21,8,2021,10,52,16
+1904,1892,ane,Arian,Saputra,rhyanz46,0,21,8,2021,10,52,50
+1905,1896,"tiap hari ini,,, 😆 pusing aing",Arian,Saputra,rhyanz46,0,21,8,2021,10,53,12
+1906,0,Wkwkwkw udh biasa kayak gitu,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,53,24
+1907,0,Kalo ga saling koordinasi mana lancar,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,53,35
+1908,1906,suruh cari sendiri dulu,Arian,Saputra,rhyanz46,0,21,8,2021,10,53,37
+1909,0,wkwkw,Arian,Saputra,rhyanz46,0,21,8,2021,10,53,38
+1910,0,Astagaaa masalahnyaa itu kan kerjaan kantor bukan lagi belajar,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,53,56
+1911,0,Wkwkwkwkp,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,53,59
+1912,1910,masalahnya saya juga lagi di kejar wkwkwk,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,12
+1913,0,belum sempat liat dari tadi,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,20
+1914,1910,Last step ni wkwk,Anwar,,MbunMalam,0,21,8,2021,10,54,20
+1915,0,wkwkwk,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,21
+1916,0,apa warrr,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,37
+1917,0,sini sini,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,38
+1918,0,sini sama om,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,50
+1919,0,haha,Arian,Saputra,rhyanz46,0,21,8,2021,10,54,52
+1920,1916,"Udh"" balikin branch local yg nte delete😂😂😂",Anwar,,MbunMalam,0,21,8,2021,10,54,55
+1921,0,Lanjut dah bedua di sana ee,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,55,7
+1922,0,Moga lancar yee,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,55,25
+1923,0,Mangaat,Ari Purnama,Aji,ariaji25,0,21,8,2021,10,55,30
+1924,0,push up dulu war,"Jiad, ジハード",,jiadmiftx,0,21,8,2021,10,57,38
+1925,1869,oiyayaa bisa kopdar tuh wkwk,"Jiad, ジハード",,jiadmiftx,0,21,8,2021,11,0,18
+1926,1925,Anwar sibuk banget dia jadi saya ndak enak ganggu🤣,Aufa,Ahdi,aufaahdi,0,21,8,2021,11,4,3
+1927,1926,"Belum vaksin ni bang, gak bisa kemana"", kemarin naik busway di usir scuritynya karna blm vaksin😂",Anwar,,MbunMalam,0,21,8,2021,11,27,33
+1928,0,Vaksin aja cari yg sinovac,Ari Purnama,Aji,ariaji25,0,21,8,2021,12,20,36
+1929,0,Astra ama moderna yang aga aga,Ari Purnama,Aji,ariaji25,0,21,8,2021,13,28,24
+1930,1927,Sama war saya jga hahaha,Aufa,Ahdi,aufaahdi,0,21,8,2021,22,24,49
+1931,0,,Rodericus,Ifo,rodericusifo,0,24,8,2021,9,2,57
+1932,0,Selamat malam abang abang. izin bertanya. Wajar ga project flutter yang msh development sizenya +100Mb. Sebelumnya gk sampe +30Mb ukuran projectnya. Kira kira knpa ya .,Rian Asmara P.,,rianasmaraputra,0,26,8,2021,14,58,56
+1933,1932,Sebelumnya di repo cuman ketedek dart doang. skrng malah banyak gini wkwk,Rian Asmara P.,,rianasmaraputra,0,26,8,2021,15,0,5
+1934,1932,rm -rf ./build,h a y i,,hayinukman,0,26,8,2021,15,0,48
+1935,0,cek lagi size nya.,h a y i,,hayinukman,0,26,8,2021,15,0,53
+1936,0,atau flutter clean,h a y i,,hayinukman,0,26,8,2021,15,1,4
+1937,0,abis itu cek size nya,h a y i,,hayinukman,0,26,8,2021,15,1,8
+1938,0,Malah nambah setelah hapus folder ./build sama flutter clean 😆,Rian Asmara P.,,rianasmaraputra,0,26,8,2021,15,2,21
+1939,0,ga mungkin.,h a y i,,hayinukman,0,26,8,2021,15,2,47
+1940,0,coba di split,Anwar,,MbunMalam,0,26,8,2021,15,2,51
+1941,0,untuk liat size aslinya,Anwar,,MbunMalam,0,26,8,2021,15,3,0
+1942,0,close all IDE.,h a y i,,hayinukman,0,26,8,2021,15,3,6
+1943,0,baru flutter clean,h a y i,,hayinukman,0,26,8,2021,15,3,16
+1944,0,bisa jadi tuh IDE nya automatic build.,h a y i,,hayinukman,0,26,8,2021,15,3,23
+1945,0,before clean up,h a y i,,hayinukman,0,26,8,2021,15,4,19
+1946,0,"Masih gk bisa bang. Udh close IDE, restart, flutter clean, remote folder build. Masih ratusan Mb.",Rian Asmara P.,,rianasmaraputra,0,26,8,2021,15,5,45
+1947,0,after flutter clean,h a y i,,hayinukman,0,26,8,2021,15,5,59
+1948,0,coba screenshot struktur directory nya,h a y i,,hayinukman,0,26,8,2021,15,6,26
+1949,0,"Tadi pas git status,banyak nambah dari folder android ini.",Rian Asmara P.,,rianasmaraputra,0,26,8,2021,15,6,45
+1950,0,ealah,h a y i,,hayinukman,0,26,8,2021,15,6,59
+1951,0,itu mah .git nya...,h a y i,,hayinukman,0,26,8,2021,15,7,5
+1952,0,git history cek,h a y i,,hayinukman,0,26,8,2021,15,7,12
+1953,0,folder .git itu yg bikin bejibun...,h a y i,,hayinukman,0,26,8,2021,15,7,36
+1954,0,"terus, android/app/build/* <— di ignore....",h a y i,,hayinukman,0,26,8,2021,15,7,56
+1955,1948,,Rian Asmara P.,,rianasmaraputra,0,26,8,2021,15,8,14
+1956,1955,ada folder `.git` kan?,h a y i,,hayinukman,0,26,8,2021,15,11,49
+1957,0,coba cek size tanap folder .git itu,h a y i,,hayinukman,0,26,8,2021,15,12,1
+1958,1956,ada bang,Rian Asmara P.,,rianasmaraputra,0,26,8,2021,15,13,43
+1959,0,"Assalamualaikum abang2, mau tanya. Adakah cara untuk menguhubungkan link video dari youtube menggunakan package video player?",Anas,Mulachela,anasmc97,0,1,9,2021,15,21,42
+1960,0,Atau harus ganti package lain yg bisa digunakan untuk play video dari youtube ke aplikasi kita,Anas,Mulachela,anasmc97,0,1,9,2021,15,22,44
+1961,1960,https://pub.dev/packages/youtube_player_flutter,Uzix,Code,uzixCode,0,1,9,2021,21,4,26
+1962,1961,"Sudah sy coba pke ini bang, tapi gk bisa. Asumsi sih karena gk support untuk flutter web",Anas,Mulachela,anasmc97,0,2,9,2021,1,46,6
+1963,0,"Selamat siang abang"". saya mau nanya. jadi saya ada kebutuhan untuk melakukan req otp.\n\nketika saya req otp nya di page req otp, dapat response sukses dan dapat kode otp nya. kemudian pindah ke page selanjutnya.\n\npage selanjutnya ya itu verify otp. nah pas saya masukkan otp yg didapat tadi, ketika di hit repository nya dapat response sukses juga, tapi dia ga pindah halaman. itu kira"" kenapa ya abang""",_ignore,,Igggnoore,0,2,9,2021,7,43,7
+1964,0,,_ignore,,Igggnoore,0,2,9,2021,7,43,11
+1965,0,"harapannya setelah verify otp itu berhasil dia pindah ke page selanjutnya, yg mana page selanjutnya juga sudah dideklrasi di page view.",_ignore,,Igggnoore,0,2,9,2021,7,45,32
+1966,1965,Otp nya pakai package gak?,Anwar,,MbunMalam,0,2,9,2021,8,42,51
+1967,1966,"engga bang, otp nya ambil dari api bang",_ignore,,Igggnoore,0,2,9,2021,8,43,33
+1968,0,sory maksud sy mas nya untuk page otp pakai package ini gak? https://pub.dev/packages/pin_code_fields,Anwar,,MbunMalam,0,2,9,2021,8,46,1
+1969,1968,iyaa benar mas pakai package itu mas,_ignore,,Igggnoore,0,2,9,2021,8,46,59
+1970,0,tinggal atur state nya sih mas...,h a y i,,hayinukman,0,2,9,2021,8,47,39
+1971,0,listen pas statusnya sukses mau ngapain....,h a y i,,hayinukman,0,2,9,2021,8,47,48
+1972,0,mau close app? mau navigate to page tertetntu? mampu nge pop? mau ngerock... bebas....,h a y i,,hayinukman,0,2,9,2021,8,48,20
+1973,0,"iya bener, kebetulan sy pakai bloc jadi pas state nya sukses itu panggil route ke page mana, dan ketika state nya error jalanin animasi error yg ada di package OTP itu",Anwar,,MbunMalam,0,2,9,2021,8,48,23
+1974,1972,"return BlocConsumer<OnlineOnBoardingCubit, OnlineOnBoardingState>( \n      listener: (context, state) { \n        if (state is OnlineOnBoardingFailed) { \n          showAlertMessage( \n            context, \n            Utility.getKeyTranslator(Strings.alert), \n            state.error, \n            Utility.getKeyTranslator(Strings.close), \n          ); \n        } else if (state is OnlineOnBoardingVerifyOtpLoaded) { \n          var _data = state.response!; \n          // globals.mobilePhoneRegis = _requestData.phoneNumber; \n          globals.applicationId = _data.data!.aplicationId; \n          globals.id = _data.data!.id; \n          globals.isFirst = true; \n          Prefs.setAppAndId(state.response!); \n          Prefs.setRegId(_data.data!.id); \n          Prefs.setAppId(_data.data!.aplicationId); \n          _provider.setVerifyOtpData(_data); \n          _provider.goToPage(); \n        } \n      }, \n      builder: (context, state) { \n        return bodyView(); \n      }, \n    );",_ignore,,Igggnoore,0,2,9,2021,8,48,44
+1975,1973,"sudah mas, saya udah listen ketika dia failde sama loaded mas",_ignore,,Igggnoore,0,2,9,2021,8,49,4
+1976,1974,state pas success submit nya mana?,h a y i,,hayinukman,0,2,9,2021,8,49,17
+1977,0,cuma pas saya debug dia ga masuk ke pengecekan kondisi itu,_ignore,,Igggnoore,0,2,9,2021,8,49,21
+1978,1976,yang ini mas\n\nstate is OnlineOnBoardingVerifyOtpLoaded,_ignore,,Igggnoore,0,2,9,2021,8,49,40
+1979,1977,"```listener: (context, state) { \nprint(state); // <-------- CEK STATE TYPE NYA APA....\n        if (state is OnlineOnBoardingFailed) {```",h a y i,,hayinukman,0,2,9,2021,8,50,6
+1980,0,"lihat type state nya apa,.,",h a y i,,hayinukman,0,2,9,2021,8,50,25
+1981,0,dan pastiin bener ke yield ga dia state nya dari si BLOC nya...,h a y i,,hayinukman,0,2,9,2021,8,50,48
+1982,0,"yg kiri itu kondisi statenya mas, yg kanan itu ketika servicenya di hit",_ignore,,Igggnoore,0,2,9,2021,8,50,53
+1983,1974,"kondisinya jngn lngsung ke state nya, pastiin dulu isi OTP nya sama dngn yg di input apakah sama apa tidak, kaloq sama baru jalanin state bloc sukses dan error nya",Anwar,,MbunMalam,0,2,9,2021,8,50,54
+1984,1982,"yg kanan,, isi bloc nya mana?",h a y i,,hayinukman,0,2,9,2021,8,51,32
+1985,1983,beda kasus war.. :D,h a y i,,hayinukman,0,2,9,2021,8,51,44
+1986,1985,mirip bang :D,Anwar,,MbunMalam,0,2,9,2021,8,51,59
+1987,0,,Anwar,,MbunMalam,0,2,9,2021,8,52,15
+1988,1983,"otp nya udah sama mas, kalo dia beda nanti dapat response 99 mas",_ignore,,Igggnoore,0,2,9,2021,8,52,20
+1989,1987,sy pakai cara ini aman sih mas,Anwar,,MbunMalam,0,2,9,2021,8,52,46
+1990,1984,"maaf mas, isi bloc maksudnya mas ?",_ignore,,Igggnoore,0,2,9,2021,8,52,50
+1991,1990,"iya, cek fungsi verify OtpMobilePhone itu",h a y i,,hayinukman,0,2,9,2021,8,53,18
+1992,1982,"sama, ga gini cara nya buat emmit Event ke bloc...  usahakan jangan direct access ke fungsi/method nya.",h a y i,,hayinukman,0,2,9,2021,8,54,19
+1993,0,"yg kiri itu cubit nya mas, yg kanan repo nya mas",_ignore,,Igggnoore,0,2,9,2021,8,55,48
+1994,0,kalo untuk pindah halamannya saya pakai ini mas,_ignore,,Igggnoore,0,2,9,2021,8,56,25
+1995,1993,tinggal perlu di log di listener bloc consumer nya...,h a y i,,hayinukman,0,2,9,2021,8,59,21
+1996,1995,ini response dari repo nya mas,_ignore,,Igggnoore,0,2,9,2021,9,6,45
+1997,0,ini yg dari cubit nya mas,_ignore,,Igggnoore,0,2,9,2021,9,6,52
+1998,0,"tapi pas di next debug, dia ga masuk ke sini mas",_ignore,,Igggnoore,0,2,9,2021,9,7,33
+1999,0,,_ignore,,Igggnoore,0,2,9,2021,9,7,36
+2000,0,"ah, bisa jadi beda object bloc... :D",h a y i,,hayinukman,0,2,9,2021,9,8,9
+2001,2000,kalo saya cek dan coba finding pakai ctrl+f\n\nuntuk nama bloc nya sama mas,_ignore,,Igggnoore,0,2,9,2021,9,50,20
+2002,1982,bisa share isi file yg ini?,h a y i,,hayinukman,0,2,9,2021,9,52,21
+2003,0,taro di dartpad atau d gist.,h a y i,,hayinukman,0,2,9,2021,9,52,43
+2004,0,yg halaman verify page nya ya mas,_ignore,,Igggnoore,0,2,9,2021,10,2,46
+2005,0,bisa mas,_ignore,,Igggnoore,0,2,9,2021,10,2,50
+2006,0,"yep, trigger event, sama yg listen bloc nya.",h a y i,,hayinukman,0,2,9,2021,10,3,21
+2007,0,https://gist.github.com/montohang/ef1dcc413b8ec813c51c8e2b5781cd48,_ignore,,Igggnoore,0,2,9,2021,10,7,20
+2008,0,itu mas,_ignore,,Igggnoore,0,2,9,2021,10,7,27
+2009,2007,"harusnya udah bener sih..\n\nhmmm,, interesting...",h a y i,,hayinukman,0,2,9,2021,12,3,49
+2010,2007,Pakai GetX juga ya mas,Anwar,,MbunMalam,0,2,9,2021,12,9,50
+2012,2007,btw untuk nge trigger add ke event blocnya diaman yak?,Anwar,,MbunMalam,0,2,9,2021,12,48,58
+2013,2009,nah iya mas saya juga bingung itu kenapa wkwk,_ignore,,Igggnoore,0,2,9,2021,12,55,0
+2014,2010,iya mas pakai getx buat controller si page view nya mas,_ignore,,Igggnoore,0,2,9,2021,12,55,20
+2015,2012,"itu mas trigger nya di footerview, custom button mas",_ignore,,Igggnoore,0,2,9,2021,12,55,46
+2016,0,ah...,h a y i,,hayinukman,0,2,9,2021,12,56,26
+2017,0,coba gini mas,h a y i,,hayinukman,0,2,9,2021,12,56,30
+2018,0,gimana tu mas wkkw,_ignore,,Igggnoore,0,2,9,2021,12,56,41
+2019,0,"kaloq sy modelnya gini sih mas untuk verfikasi otp nya, tapi kaloq ada cara lain mungkin lebih bagus😁",Anwar,,MbunMalam,0,2,9,2021,12,57,50
+2020,2014,"boleh dicoba nih, pakai bloc masih belum terlalu paham model parsing datanya, kaloq getx tinggal put” aja yg penting di controllernya udh pasti ada data😁",Anwar,,MbunMalam,0,2,9,2021,13,2,54
+2021,0,"BlocProvider —> OnlineOnboardingVerifyOtpPage  —> BlocConsumer  \n\nterus pas mau pake Bloc nya jangan d buat `_bloc = BlocProvider.of<OnlineOnBoardingCubit>(context);`\n\n`context.read<OnlineOnBoardingCubit>()` <— pake pas mau akses bloc nya di button....\n\n\njadi kayak gini:\n\n```class Pagenya {\n\n\nbuild() {\n     .... BlocProvider.value(\n          create: (context) => OnlineOnBoardingCubit(),\n          child: OnlineOnboardingVerifyOtpPage(),\n     ),\n}```",h a y i,,hayinukman,0,2,9,2021,13,3,5
+2022,0,"nah karena si OnlineOnboardingVerifyOtpPage ini consumer bloc, maka musti d posisikan sebagai child nya si BlocProvider.",h a y i,,hayinukman,0,2,9,2021,13,3,49
+2023,0,"```part of 'online_onboarding_otp.dart';\n\nimport 'package:flutter/material.dart';\n\nclass HalamanPagenya extends StatelessWidget {\n  const HalamanPagenya({Key? key}) : super(key: key);\n\n  @override\n  Widget build(BuildContext context) {\n    return BlocProvider<OnlineOnBoardingCubit>(\n      create: (context) => OnlineOnBoardingCubit(),\n      child: OnlineOnboardingVerifyOtpPage(),\n    );\n  }\n}\n\nclass OnlineOnboardingVerifyOtpPage extends StatefulWidget {\n  const OnlineOnboardingVerifyOtpPage({\n    Key? key,\n  }) : super(key: key);\n\n  static const String routes = '/ux_oob_verify_otp_page';\n\n  @override\n  _OnlineOnboardingVerifyOtpPageState createState() => _OnlineOnboardingVerifyOtpPageState();\n}\n\nclass _OnlineOnboardingVerifyOtpPageState extends BaseState<OnlineOnboardingVerifyOtpPage> {\n  final _provider = Get.put(OobProvider());\n\n  String userId = '';\n  String? actCode = '';\n  bool isSuccess = false;\n  Timer? _timer;\n  static int _duration = 60;\n  int _start = _duration;\n  String? nameEvent = """";\n\n  void startTimer() {\n    const oneSec = const Duration(seconds: 1);\n    _timer = new Timer.periodic(\n      oneSec,\n      (Timer timer) => setState(\n        () {\n          if (_start < 1) {\n            _timer!.cancel();\n            _start = _duration;\n          } else {\n            _start = _start - 1;\n          }\n        },\n      ),\n    );\n  }\n\n  @override\n  void initState() {\n    super.initState();\n  }\n\n  @override\n  void dispose() {\n    super.dispose();\n  }\n\n  @override\n  Widget build(BuildContext context) {\n    return bloc();\n  }\n\n  @override\n  Widget bloc() {\n    return BlocConsumer<OnlineOnBoardingCubit, OnlineOnBoardingState>(\n      listener: (context, state) {\n        print('ini state : $state');\n        if (state is OnlineOnBoardingFailed) {\n          showAlertMessage(\n            context,\n            Utility.getKeyTranslator(Strings.alert),\n            state.error,\n            Utility.getKeyTranslator(Strings.close),\n          );\n        } else if (state is OnlineOnBoardingVerifyOtpLoaded) {\n          var _data = state.response!;\n\n          // globals.mobilePhoneRegis = _requestData.phoneNumber;\n          globals.applicationId = _data.data!.aplicationId;\n          globals.id = _data.data!.id;\n          globals.isFirst = true;\n          Prefs.setAppAndId(state.response!);\n          Prefs.setRegId(_data.data!.id);\n          Prefs.setAppId(_data.data!.aplicationId);\n          _provider.setVerifyOtpData(_data);\n          _provider.goToPage();\n        }\n      },\n      builder: (context, state) {\n        return bodyView();\n      },\n    );\n  }\n....\n  @override\n  Widget footerView() {\n    return CustomButton(\n      text: localizationText(lanjut),\n      textColor: Colors.white,\n      onPressed: () {\n        context.read<OnlineOnBoardingCubit>().add(ReqVerifyOtpRequest(\n          phoneNumber: globals.mobilePhoneRegis,\n          email: globals.emailRegis,\n          activationCode: actCode,\n        ));\n      },\n    );\n  }\n}```",h a y i,,hayinukman,0,2,9,2021,13,8,38
+2024,2019,"noted mas, thank you masukannya mas, ntar aku coba pahami flow yg mas kasih saran",_ignore,,Igggnoore,0,2,9,2021,13,10,41
+2025,2020,"hahaha iya mas, saya juga baru cobain getx sih mas",_ignore,,Igggnoore,0,2,9,2021,13,11,18
+2026,2021,"nah kalo bagian ini aku udah pasangin di bagian router nya mas\n\n.... BlocProvider.value( \n          create: (context) => OnlineOnBoardingCubit(), \n          child: OnlineOnboardingVerifyOtpPage(), \n     ),",_ignore,,Igggnoore,0,2,9,2021,13,12,38
+2027,2026,"nah klo sudah di routernya, ga perlu di provide ulang di _bloc itu...",h a y i,,hayinukman,0,2,9,2021,13,13,13
+2028,0,karena akan jadi 2 objek berbeda...,h a y i,,hayinukman,0,2,9,2021,13,13,22
+2029,0,getting the bloc —> `context.read<OnlineOnBoardingCubit>()`,h a y i,,hayinukman,0,2,9,2021,13,13,44
+2030,2023,"hoo i see mas, ini berarti kalo dia single page gitu ya mas ?",_ignore,,Igggnoore,0,2,9,2021,13,13,50
+2031,0,coba pake itu...,h a y i,,hayinukman,0,2,9,2021,13,13,53
+2032,0,ga usah pake ` `_bloc = BlocProvider.of<OnlineOnBoardingCubit>(context);``,h a y i,,hayinukman,0,2,9,2021,13,14,25
+2033,2029,"hoo bentar mas aku cobain mas, thank you mas",_ignore,,Igggnoore,0,2,9,2021,13,14,42
+2034,0,semoga bisa.. :D,h a y i,,hayinukman,0,2,9,2021,13,14,53
+2035,0,Baru buka grup ini lgsung bingung liat Bloc,Ari Purnama,Aji,ariaji25,0,2,9,2021,13,15,29
+2036,2035,its just a state of state management... :D,h a y i,,hayinukman,0,2,9,2021,13,17,43
+2037,0,Yups ga pernah pakai bloc juga sih 😂,Ari Purnama,Aji,ariaji25,0,2,9,2021,13,18,46
+2038,0,Ga nemu complicated kayak gitu jadinya,Ari Purnama,Aji,ariaji25,0,2,9,2021,13,19,22
+2039,2033,btw gimana hasilnya?,h a y i,,hayinukman,0,2,9,2021,13,52,5
+2040,2034,wkwk aamiin mas,_ignore,,Igggnoore,0,2,9,2021,14,59,33
+2041,2039,"belum tak cobain mas, tadi pindah garap yg lain mas wkkw",_ignore,,Igggnoore,0,2,9,2021,14,59,56
+2042,0,sekarang mau cobain mas,_ignore,,Igggnoore,0,2,9,2021,15,0,3
+2043,0,"@hayinukman mas, sebelumnya aku mau nanya mas",_ignore,,Igggnoore,0,2,9,2021,15,3,32
+2044,0,"aku kan bikin class base buat nampung page"" nya di page view\n\nbody: WillPopScope( \n        onWillPop: () async => showDialogCancel(), \n        child: Container( \n          width: widthLayer(), \n          height: heightLayer(), \n          child: Padding( \n            padding: const EdgeInsets.symmetric(horizontal: 24), \n            child: PageView( \n              physics: NeverScrollableScrollPhysics(), \n              controller: _provider.getPageController, \n              onPageChanged: (e) {}, \n              children: [ \n                OnlineOnBoardingInputPhoneNumberAndEmailPage(), \n                OnlineOnboardingVerifyOtpPage(), \n                OnlineOnBoardingPreTakeKtpPage(), \n              ], \n            ), \n          ), \n        ), \n      ),",_ignore,,Igggnoore,0,2,9,2021,15,4,19
+2045,0,"nah itu tu buat masang si BlocProvider nya di satu class base aja apa dimasing"" class tapi base nya ga pake blocProvider ?",_ignore,,Igggnoore,0,2,9,2021,15,5,7
+2046,0,tergantung kebutuhan,h a y i,,hayinukman,0,2,9,2021,15,14,20
+2047,0,"misal klo blocA d pake di beberapa page yg ada di child, maka truh d parent,, \ntapi klo d pakenya cuma di satu page itu saja, sebaiknya di page itu sendiri...",h a y i,,hayinukman,0,2,9,2021,15,15,8
+2048,2047,hoo i see paham paham bang,_ignore,,Igggnoore,0,2,9,2021,15,23,16
+2049,2023,kalo yg ini ga bisa mas\n\ncontext.read<OnlineOnBoardingCubit>().add\n\nfungsi si add disana ga ada mas,_ignore,,Igggnoore,0,2,9,2021,15,28,12
+2050,0,"@hayinukman @MbunMalam mas yg kemaren sudah bisa, thankyou mas udah bantuin wkwk.\n\nsolusinya kemaren tu di class base nya aku tambahin bloc provider nya per masing"" page seperti ini :\n\nbody: WillPopScope( \n        onWillPop: () async => showDialogCancel(), \n        child: Container( \n          width: widthLayer(), \n          height: heightLayer(), \n          child: Padding( \n            padding: const EdgeInsets.symmetric(horizontal: 24), \n            child: PageView( \n              physics: NeverScrollableScrollPhysics(), \n              controller: _provider.getPageController, \n              onPageChanged: (e) {}, \n              children: [ \n                BlocProvider<OnlineOnBoardingCubit>( \n                  create: (context) => OnlineOnBoardingCubit( \n                    onlineOnBoardingRepository: \n                        locator<OnlineOnBoardingRepository>(), \n                  ), \n                  child: OnlineOnBoardingInputPhoneNumberAndEmailPage(), \n                ), \n                BlocProvider<OnlineOnBoardingCubit>( \n                  create: (context) => OnlineOnBoardingCubit( \n                    onlineOnBoardingRepository: \n                        locator<OnlineOnBoardingRepository>(), \n                  ), \n                  child: OnlineOnboardingVerifyOtpPage(), \n                ), \n                OnlineOnBoardingPreTakeKtpPage(), \n              ], \n            ), \n          ), \n        ), \n      ),",_ignore,,Igggnoore,0,3,9,2021,3,58,35
+2051,2050,,h a y i,,hayinukman,0,3,9,2021,6,11,49
+2052,2050,Timer untuk kirim ulang otp nya udh berjalan gak?,Anwar,,MbunMalam,0,3,9,2021,6,21,12
+2053,0,,Atwis,Ahs,AtwisRetno,0,5,9,2021,22,38,44
+2054,0,#ask\nini namanya apa ya klo di flutter?,Aufa,Ahdi,aufaahdi,0,8,9,2021,10,25,36
+2055,2054,Iklan? 🤣,"Jiad, ジハード",,jiadmiftx,0,8,9,2021,12,4,10
+2056,0,Alert dialog ga sih bang? Di custom gitu?,"Jiad, ジハード",,jiadmiftx,0,8,9,2021,12,4,32
+2057,2056,Iya udah saya buat pake alert dialog saya kira ada dependencynya gitu hehehe,Aufa,Ahdi,aufaahdi,0,8,9,2021,12,6,42
+2058,2057,https://pub.dev/packages/awesome_dialog,"Jiad, ジハード",,jiadmiftx,0,8,9,2021,12,12,31
+2059,0,itu cocok mungkin bang..,"Jiad, ジハード",,jiadmiftx,0,8,9,2021,12,12,38
+2060,0,more packages about dialog —>> https://fluttergems.dev/dialogs/,"Jiad, ジハード",,jiadmiftx,0,8,9,2021,12,13,56
+2061,2060,Siap2 had,Aufa,Ahdi,aufaahdi,0,8,9,2021,12,44,43
+2062,0,Terimakasih kawan🙏,Aufa,Ahdi,aufaahdi,0,8,9,2021,12,44,54
+2063,2062,,"Jiad, ジハード",,jiadmiftx,0,8,9,2021,13,2,36
+2064,0,,Tias,,,0,10,9,2021,9,36,12
+2065,0,"Halo semua, salam kenal.. \n \nDibutuhkan Mobile Developer (Flutter) dengan pengalaman minimal 2 tahun yang bisa join ASAP. \nJika ada yang berminat bisa langsung PM saya ya.. \n \nTerima kasih",Tias,,,0,10,9,2021,9,36,18
+2066,2054,Dialog . Pake show dialog trs bg nya di transparent in (?) Mungkin bisa\n#cmiiw,Rezky,Sulihin,mrezkys,0,10,9,2021,9,37,48
+2067,2065,kayaknya susah nyari flutter developer yg punya pengalaman 2 tahun di flutter...\nflutter first stable rilis di dec 2018. malah kurang dari 2 tahun usia nya... :D,h a y i,,hayinukman,0,10,9,2021,9,38,7
+2068,2067,Jangan kan 2 tahun\nBaru belajar 2 bulan aja udah di angkut wkwk,【﻿ｂａｌｉｎｕｘ】,,balinux,0,10,9,2021,9,41,46
+2069,2068,sy bru 6 bulan d flutter...,h a y i,,hayinukman,0,10,9,2021,9,45,19
+2070,0,Mas hayi tawadhu' nya luar biasa,【﻿ｂａｌｉｎｕｘ】,,balinux,0,10,9,2021,9,48,26
+2071,0,kan d flutter mas..,h a y i,,hayinukman,0,10,9,2021,9,49,0
+2072,0,:D,h a y i,,hayinukman,0,10,9,2021,9,49,2
+2073,0,"selamat sore abang"", mau nanya, ada yg pernah bikin feature chat di app ga bang pakai firebase firestore ?\n\nkalo ada yg pernah boleh minta rekomendasi tutorialnya abang"" atau documentasi nya.\n\nterimakasih.",_ignore,,Igggnoore,0,10,9,2021,9,49,11
+2074,2069,"6 bln di flutter, tapi dari versi flutter 0.9 udh nyoba” duluan bang😂",Anwar,,MbunMalam,0,10,9,2021,10,57,45
+2075,0,,h a y i,,hayinukman,0,10,9,2021,10,58,18
+2076,2074,Panutan🙏,Aufa,Ahdi,aufaahdi,0,10,9,2021,10,59,20
+2077,2076,panutan untuk ga jadi PNS ya...,h a y i,,hayinukman,0,10,9,2021,10,59,35
+2078,2066,Ok makasih sarannya,Aufa,Ahdi,aufaahdi,0,10,9,2021,10,59,44
+2079,0,Release v 1 inget bet di bln desember 2018,Anwar,,MbunMalam,0,10,9,2021,11,0,11
+2080,2077,Pokok Anwar panutan saya bang disegala bidang😁,Aufa,Ahdi,aufaahdi,0,10,9,2021,11,0,42
+2081,2080,Tapi side senior sy bang wkwk,Anwar,,MbunMalam,0,10,9,2021,11,1,25
+2082,2080,wkwkwkwk,h a y i,,hayinukman,0,10,9,2021,11,1,48
+2083,0,Saya ikut hackaton belum nyentuh flutter awkwkwwkwk,【﻿ｂａｌｉｎｕｘ】,,balinux,0,10,9,2021,11,1,52
+2084,0,malah kau jadi panuttannya @MbunMalam,h a y i,,hayinukman,0,10,9,2021,11,2,1
+2085,0,panutan ngikut ke jakarta...,h a y i,,hayinukman,0,10,9,2021,11,2,9
+2086,0,Senior umur aja saya war..🤣,Aufa,Ahdi,aufaahdi,0,10,9,2021,11,2,19
+2087,2084,Saya kejakarta jadi PNS bang di masukkan bang Lian ke BNPB.. klo Anwar kan jadi programmer dan tetap di jalan yang lurus wkwkwk..,Aufa,Ahdi,aufaahdi,0,10,9,2021,11,3,36
+2088,2087,non PNJ jalan sesat... XD,h a y i,,hayinukman,0,10,9,2021,11,3,57
+2089,2088,Owh iya ya kebalik saya.. alhamdullilah berarti kemaren saya sempet ke jalan yang lurus😁,Aufa,Ahdi,aufaahdi,0,10,9,2021,11,6,44
+2090,0,hahaha,h a y i,,hayinukman,0,10,9,2021,11,25,33
+2091,0,,h a y i,,hayinukman,0,10,9,2021,11,25,35
+2092,0,sy tersesat terus @aufaahdi,h a y i,,hayinukman,0,10,9,2021,11,25,43
+2093,0,dan sekaligus suka menyesatkan kalian2... wkwkwkwkwk...,h a y i,,hayinukman,0,10,9,2021,11,26,2
+2094,2093,Dan kita terikut sampai skarang @aufaahdi 😂😂,Anwar,,MbunMalam,0,10,9,2021,11,26,44
+2095,2092,Berarti saya dari Java FX sudah tersesat ya bang? Wkwk,Aufa,Ahdi,aufaahdi,0,10,9,2021,13,47,20
+2096,2094,Trio push up @jiadmiftx dan lompat ✌️🤣,Aufa,Ahdi,aufaahdi,0,10,9,2021,13,47,58
+2097,0,,"Jiad, ジハード",,jiadmiftx,0,10,9,2021,13,49,20
+2098,2067,😂,Arian,Saputra,rhyanz46,0,10,9,2021,13,56,3
+2099,2095,selama kau di BC aku tersesat pokoknya...,h a y i,,hayinukman,0,10,9,2021,17,13,16
+2100,2099,ketua tersesat berarti saya di bc ya bang..🤣🤣 sampe Anwar dan jihad ikut terjerumus.,Aufa,Ahdi,aufaahdi,0,11,9,2021,5,4,51
+2101,0,,Kepo,Lau,,0,13,9,2021,3,31,58
+2102,0,,Luki,Sanjaya,lukisanjaya,0,16,9,2021,2,18,35
+2105,0,,AEM,DE,A3emde,0,19,9,2021,4,13,2
+2106,0,,Ramadhani,,ramadhani997,0,20,9,2021,5,38,17
+2107,0,,Ramadhani,,ramadhani997,0,20,9,2021,5,42,10
+2108,0,"Izin share Beasiswa\nGratis Gratis\n\nYang mau ikut Beasiswa Dicoding AWS developer & Back-end Web Developer.\n\n(Untuk yang belum dapat dan yg belum daftar Beasiswanya)\n\nKalau mau daftar Beasiswa bisa klik Link ini ya 👇\n\nhttps://www.dicoding.com/programs/aws/registration/1214122\n\nBtw Walaupun belum punya akun Dicoding tetap bisa daftar, tinggal masukkan email aja\n\n🔥 Bisa diikuti oleh Pemula dari nol\n\nYang mau nanya bisa PC aja 📱\n\nKeuntungan :\n➡️ Gratis\n➡️ Sertifikat untuk memperbagus CV\n➡️ Mengasah Skill\n➡️ Menambah ilmu",Ramadhani,,ramadhani997,0,20,9,2021,5,42,11

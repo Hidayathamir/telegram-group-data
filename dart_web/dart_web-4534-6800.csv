@@ -1,0 +1,1727 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+4534,0,,Renaldy,Hidayat,renaldyhidayatt,0,3,11,2020,13,5,20
+4535,0,,Randi,D'Insider,MKRyuto,0,3,11,2020,17,25,2
+4536,0,,Tommy,Wijaya,Tommydgx,0,4,11,2020,2,4,6
+4537,0,,Sang topi hitam,,SANGTOPIHITAM,0,4,11,2020,10,7,12
+4540,0,,L A N,,lanahmmm,0,4,11,2020,10,37,10
+4541,0,https://www.udemy.com/course/flutterbootcamp/,Adithya Firmansyah,Putra,Adithya_13,0,4,11,2020,12,8,48
+4542,0,👍🏼,oon,,oonid,0,4,11,2020,12,46,55
+4543,0,,WB user,,,0,4,11,2020,20,14,14
+4544,0,Hi 🙋🏻‍♂️,WB user,,,0,4,11,2020,20,14,24
+4545,0,👋,oon,,oonid,0,4,11,2020,22,57,6
+4546,0,,,,,0,5,11,2020,7,24,0
+4547,0,,,,,0,5,11,2020,8,38,5
+4548,0,,Fred,,nferdazel,0,5,11,2020,22,44,35
+4549,0,,͔,,aswralm,0,6,11,2020,6,10,27
+4552,0,haloo.. selamat bergabung temen-temen 👋\n\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,6,11,2020,6,16,31
+4553,0,,Erich,Hartawan,,0,6,11,2020,6,23,38
+4554,0,,Muhammad Ilham,,Ilhammhd14,6282176641318,6,11,2020,11,21,19
+4555,0,,kazh,,Yolo456,0,6,11,2020,15,7,50
+4556,0,"Malam kawan2, ada yang bisa jelasin fungsi radix:2 di kodingan ini ga?\n\nint binToDec(String bin) => int.parse(bin, radix: 2);",kazh,,Yolo456,0,6,11,2020,15,8,7
+4557,4556,"radix itu basis,\nradix 2 itu biner,\nradix 10 itu desimal,\ndst",oon,,oonid,0,6,11,2020,15,16,16
+4558,4557,"i see bro, makasihhh",kazh,,Yolo456,0,6,11,2020,15,17,12
+4559,0,,Bayu,Nugraha,bayunugrraha,6285157277027,6,11,2020,15,25,50
+4562,0,,Keenan Rajendra,| justapp.id,Keenanlabs,0,6,11,2020,18,59,33
+4563,0,,,,,0,6,11,2020,22,48,21
+4564,0,,Giono Budi,Santoso,gionobudisantoso,0,6,11,2020,23,30,39
+4565,0,,,,,0,7,11,2020,8,50,35
+4566,0,,,,,0,7,11,2020,8,50,54
+4567,0,selamat bergabung temen-temen 👋\ndiskusi tentang pemrograman Dart dan web,oon,,oonid,0,7,11,2020,9,33,2
+4568,0,,Dimas,Imameza,dimaseza,0,7,11,2020,10,48,4
+4570,0,,りゃん,,Ilyzz_abd,0,8,11,2020,4,3,7
+4571,0,,kare,_dock,kare_dock,0,8,11,2020,16,16,54
+4572,0,,Udin,,Udinsebelas,0,8,11,2020,16,41,47
+4573,0,,Rozaq,,rozaq_adi,0,8,11,2020,23,24,7
+4574,0,"Salam kenal semuanya, saya Rozaq.",Rozaq,,rozaq_adi,0,8,11,2020,23,24,15
+4575,0,"Mau berbagi informasi aja, bagi yang mau dapat kerja dan digaji dollar dari perusahaan teknologi di Singapura dan Jakarta, bisa dicoba cara ini:\n\n1) Jawab quiz di tecktok.io\n2) Lengkapi profil",Rozaq,,rozaq_adi,0,8,11,2020,23,24,21
+4576,0,"Saat ini sih lagi banyak dibutuhin programmer Frontend, Backend, Fullstack, dan Mobile",Rozaq,,rozaq_adi,0,8,11,2020,23,24,26
+4577,0,"Bagi yang berminat tapi masih bingung, bisa tanya-tanya dulu ke saya, thank you!!",Rozaq,,rozaq_adi,0,8,11,2020,23,24,31
+4578,0,,,,,0,9,11,2020,2,14,20
+4579,0,,Benni,Saputra,,0,9,11,2020,3,33,49
+4580,0,,SofwanCoder,,SofwanCoder,0,9,11,2020,8,56,24
+4581,0,,Ugun😊,,NetGiat,0,9,11,2020,11,25,50
+4582,0,,Putri Nahampun,,putriiynhm,0,9,11,2020,12,27,49
+4583,0,,,,,0,9,11,2020,17,41,27
+4586,0,👋,oon,,oonid,0,9,11,2020,18,45,49
+4587,0,,Alex,Fernando,lexferndo,0,9,11,2020,20,57,24
+4588,0,,Feni,Rahman,Jaxxwell76,0,9,11,2020,22,27,38
+4589,0,👋,Feni,Rahman,Jaxxwell76,0,9,11,2020,22,27,52
+4590,0,,Efri,Yansyah,,0,10,11,2020,1,34,27
+4591,0,Hello semua,Efri,Yansyah,,0,10,11,2020,2,12,15
+4592,0,,Renaldy,Hidayat,renaldyhidayatt,0,10,11,2020,2,26,26
+4593,0,haloo.. selamat bergabung dan diskusi 😁,oon,,oonid,0,10,11,2020,2,34,11
+4594,4593,Iya bg,Efri,Yansyah,,0,10,11,2020,2,39,50
+4595,0,Di sini ada paham termux gk,Efri,Yansyah,,0,10,11,2020,2,41,38
+4596,0,,Alam,Nugroho,,0,10,11,2020,2,46,32
+4597,4595,udah ada yang jawab di sebelah tuh.. termux ya terminal android aja,oon,,oonid,0,10,11,2020,2,54,11
+4598,0,Mana,Efri,Yansyah,,0,10,11,2020,2,56,45
+4599,0,,,,,0,10,11,2020,4,44,27
+4600,0,,Selviana,Wuru,selvianawuru,0,10,11,2020,5,56,11
+4602,0,,,,,0,10,11,2020,15,48,45
+4603,0,,,,,0,10,11,2020,15,56,57
+4604,0,,,,,0,10,11,2020,21,22,16
+4605,0,,,,,0,11,11,2020,0,46,5
+4606,0,,,,,0,11,11,2020,1,5,45
+4607,0,,Kiriha kun,,hanzu007,0,11,11,2020,1,14,41
+4608,0,,Basuki,H.,,0,11,11,2020,1,30,13
+4609,0,,Khalil Maulana Akbar,,khllmlna,0,11,11,2020,1,53,11
+4610,0,,Rodericus,Ifo,rodericusifo,0,11,11,2020,2,48,10
+4611,0,selamat bergabung temen-temen 🙌\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,11,11,2020,3,32,33
+4612,0,,Afifah,Cendut,Afifahcendut,0,11,11,2020,4,22,52
+4613,0,,,,,0,11,11,2020,4,51,9
+4614,0,,Tio,_,Tsatrio,0,11,11,2020,13,19,13
+4615,0,,,,,0,11,11,2020,14,1,19
+4616,0,,,,,0,11,11,2020,15,6,5
+4618,0,,J.,Bryan,jeannesbryan,0,11,11,2020,21,40,35
+4619,0,,rizki,Andika,Pajero231,0,11,11,2020,22,23,22
+4620,0,,Xran,,fjdksoa,0,12,11,2020,1,51,52
+4621,0,,4r1S,,,0,12,11,2020,2,3,5
+4622,0,,,,,0,12,11,2020,14,42,38
+4624,0,,Yonathan Aditya,,Yonathan11,0,12,11,2020,15,33,32
+4625,0,,Alpi,Sunanda,,0,12,11,2020,15,46,28
+4626,0,👋 selamat bergabung semuanya...\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,12,11,2020,15,47,49
+4627,0,,,,,0,12,11,2020,16,35,54
+4628,0,,,,,0,12,11,2020,19,17,53
+4629,0,,,,,0,12,11,2020,20,14,34
+4630,0,,Farid,,farid_putra,0,12,11,2020,23,33,34
+4631,0,,Idham,Kohar,Idhamikn,0,13,11,2020,0,38,56
+4632,0,,KasmudinSyariah,banking,KasmudinBanking,0,13,11,2020,6,6,42
+4633,0,,Erich,Hartawan,,0,13,11,2020,7,26,59
+4634,0,"Halo teman-teman semua,\n\nkami dari Nutapos sedang membutuhkan beberapa posisi neh.\nberikut posisi yang kami butuhkan :\n\n1) Lead Product Engineer\n2) Senior Backend Web Developer (CI)\n3) Senior Android Developer (Kotlin)\n\nPenempatan jogja ya.\nuntuk kalian yang tertarik menjadi keluarga kami, \nSilahkan kirim CV ke hrd@nutapos.com",Erich,Hartawan,,0,13,11,2020,7,27,0
+4635,0,,,,,0,13,11,2020,7,36,0
+4636,0,"Ingin belajar pengodean (coding) secara gratis? Nah, ini saatnya kamu mencoba kelas dari Progate. Ada berbagai kelas yang telah disediakan, diantaranya ialah Node JS, Python, PHP, HTML, Java, dan lain sebagainya.\n\nAyo, klaim kuponnya sekarang juga!\nKode kupon: CICILNGODING3EE\nBatas claim kupon 23 November 2020\n\nDaftar di sini: https://progate.com/\n\nUntuk pertanyaan dan lain-lain \nCP: wa.me/6285359186052 (Haiqal)\n\nGrup Tanya-tanya : t.me/onemonthprogate",,,,0,13,11,2020,7,36,14
+4637,0,,,,,0,13,11,2020,7,36,14
+4638,0,,,,,0,13,11,2020,11,16,40
+4639,0,,Yupy,,yupy28,0,13,11,2020,12,39,28
+4640,0,,,,,0,13,11,2020,17,53,45
+4641,0,,INF,.,,0,13,11,2020,18,2,46
+4642,0,,,,,0,14,11,2020,3,10,17
+4643,0,,Maungg,57,Mgz57i,0,14,11,2020,5,28,14
+4644,0,Hi,Maungg,57,Mgz57i,0,14,11,2020,5,28,20
+4645,0,👋,oon,,oonid,0,14,11,2020,9,27,4
+4646,0,,,,,0,14,11,2020,11,43,38
+4647,0,,,,,0,14,11,2020,12,15,11
+4648,0,,,,,0,14,11,2020,12,15,12
+4649,0,,,,,0,14,11,2020,16,54,3
+4650,0,,,,,0,14,11,2020,16,54,4
+4651,0,,,,,0,14,11,2020,17,7,13
+4652,0,,,,,0,14,11,2020,17,7,54
+4653,0,,,,,0,14,11,2020,17,8,33
+4654,0,,,,,0,14,11,2020,17,9,20
+4655,0,,,,,0,14,11,2020,17,9,39
+4656,0,,🌈 🌈🌈 🌈 🌈--KALEA--🌈🌈🌈🌈🌈🌈🌈🌈,kalea,Kalea1311,0,14,11,2020,23,21,10
+4657,0,,AH SIAW,,AHSIAW88,0,15,11,2020,1,3,25
+4658,0,,,,,0,15,11,2020,1,10,59
+4659,0,,Rla,,Ice_caffee,0,15,11,2020,1,28,14
+4664,0,,Ulin,Nuha,Ulinnuhashubhkhi,0,15,11,2020,3,50,39
+4665,0,,Sya'bani Ahmad,Fauzi,,0,15,11,2020,8,24,52
+4666,0,,,,,0,15,11,2020,10,21,22
+4667,0,,Krisna,Magahari,Krismghr10,0,15,11,2020,11,46,9
+4668,0,,Ban.D_C,,syabani16_DC,0,15,11,2020,12,25,27
+4669,0,"halo selamat datang semuanya 🙌\n\nbot maupun bukan bot, diterima di sini 😬 (kecuali ngiklan spam 🙊)",oon,,oonid,0,15,11,2020,12,27,0
+4670,0,,,,,0,15,11,2020,16,41,23
+4671,0,,Fii,,fikur17,0,15,11,2020,21,55,48
+4672,0,,,,,0,16,11,2020,7,52,52
+4673,0,,,,,0,16,11,2020,7,53,28
+4674,0,"halo, temen-temen..\nnggak perlu malu bertanya, terkait dart dan web.\n\nnggak ada pertanyaan yang salah atau malu-maluin.. 🤓",oon,,oonid,0,16,11,2020,7,56,43
+4675,0,"ada yang mau kasih masukan nggak,\ndimana belajar pemrograman Dart yang oke?\ndengan konten bahasa Indonesia..\n\nmisal kalo di youtube itu channel siapa?\natau di kelas online pemrograman itu situs apa?\n\ntrims ya masukannya..",oon,,oonid,0,16,11,2020,7,57,41
+4676,0,Dasar2 bisa kunjungi seredata.com,Opung,Dev,OpungDev,0,16,11,2020,8,30,28
+4677,0,Blog dart dan flutter,Opung,Dev,OpungDev,0,16,11,2020,8,30,38
+4678,0,,Denmaz,Grogol,Denmazgrogol,6282316860279,16,11,2020,8,35,27
+4679,0,,Haichal,,Haakahwbw,0,16,11,2020,9,3,14
+4680,0,,Dewi,Manurung,iconicdew,0,16,11,2020,10,13,4
+4681,4676,👍 trims kak sudah berbagi,oon,,oonid,0,16,11,2020,10,14,15
+4686,0,👍,Opung,Dev,OpungDev,0,16,11,2020,11,10,5
+4687,0,CodeWithIrwan \nhttps://www.youtube.com/channel/UCjntzibNSsjjIOh0HoP9vxw\n\nEricko Darmawan Handoyo\nhttps://www.youtube.com/user/kh3w4nx1ng\n\nKenari Studio\nhttps://www.youtube.com/channel/UCF9PQENevBK0pJAgQDmnijA\n\nStudio Mas Lutfi\nhttps://www.youtube.com/user/mustofalutfi\n\nPadang Tekno\nhttps://www.youtube.com/channel/UC_fIMfdn6h8i03YR1SLUr5A,Adithya Firmansyah,Putra,Adithya_13,0,16,11,2020,11,48,0
+4688,0,ini sebagian yang saya tahu untuk channel youtube yang membahas mengenai dart hehe,Adithya Firmansyah,Putra,Adithya_13,0,16,11,2020,11,48,59
+4689,4687,"🤘 trims kak, sangat membantu..\nbanyak juga ya channel yang bahas Dart",oon,,oonid,0,16,11,2020,11,56,49
+4690,4689,"iya kak, lumayan juga hehe",Adithya Firmansyah,Putra,Adithya_13,0,16,11,2020,11,57,58
+4691,0,,,,,0,16,11,2020,15,12,2
+4692,0,,,,,0,17,11,2020,0,6,38
+4693,0,,Gilang,Pratama,Gp0996,0,17,11,2020,0,39,41
+4694,0,,Am,,,0,17,11,2020,2,0,48
+4695,0,Tanya om.. apa dart bisa jalan di shared hosting cpanel?,Rachmanwidjaya,,rachmanwidjaya,0,17,11,2020,3,11,36
+4696,0,"sebagai apa? kalo sebagai web backend nggak bisa..\n\nkalo sebagai frontend, ya dimana bisa pasang html dan js di situ bisa taruh dart karena sudah diubah jadi js.",oon,,oonid,0,17,11,2020,3,13,24
+4697,4696,Sebagai backend om.. kalau flutter kan outputnya html js,Rachmanwidjaya,,rachmanwidjaya,0,17,11,2020,3,36,16
+4698,4697,"backend nggak bisa di shared hosting.\n\ndart untuk frontend web nggak cuma flutter btw,\nbisa angulardart, over_react, vuedart, dan masih bbrp lainnya",oon,,oonid,0,17,11,2020,3,37,39
+4699,4698,Yg sering denger cuman angulardart🤭\nItu bisa jalan di cpanel?,Rachmanwidjaya,,rachmanwidjaya,0,17,11,2020,3,43,36
+4700,0,hasil keluarannya semua sama: JS,oon,,oonid,0,17,11,2020,3,43,52
+4701,0,karena semua pakai dartdevc dan dart2js,oon,,oonid,0,17,11,2020,3,44,10
+4702,0,Konek ke dbnya lewat api juga?,Rachmanwidjaya,,rachmanwidjaya,0,17,11,2020,3,59,55
+4703,0,"iya, frontend connect ke backend pakai API",oon,,oonid,0,17,11,2020,4,0,43
+4706,0,,Wi,Win,Harwin03,0,17,11,2020,23,27,32
+4707,0,,Mr. X,,mister_miex,0,18,11,2020,0,33,11
+4708,0,,Jessy,Kendra,jessyken200,0,18,11,2020,0,46,43
+4709,0,,Fauzy,,ahmad_fauzy,0,18,11,2020,0,50,44
+4710,0,,Yo,Ga,BossOkav,0,18,11,2020,11,46,51
+4711,0,haloo.. selamat bergabung temen-temen 👋\n\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,18,11,2020,12,27,15
+4712,0,"ada yang pernah cobain bikin web backend sederhana pake Dart?\n\nbarusan nyobain bikin backend sederhana untuk membalas pesan telegram pakai http server di tutorial di bawah ini.\n\nhasilnya dibuat sebagai 1 binary (nantinya mau nyoba dimasukin container), pakai dart2native.\ntapi ya gitu masalah hosting nya harus private server.\n\nhttps://dart.dev/tutorials/server/httpserver",oon,,oonid,0,18,11,2020,14,37,45
+4713,0,,Andrian,Mitnick,,0,18,11,2020,15,30,9
+4714,0,Hello,Andrian,Mitnick,,0,18,11,2020,15,30,17
+4715,0,👋🏼,oon,,oonid,0,18,11,2020,15,31,29
+4716,4712,oh kayaknya bisa nih hosting (semoga FREE) di heroku..\n\nbesok dicoba ah.. \n\nhttp://blog.sethladd.com/2012/08/running-dart-in-cloud-with-heroku.html,oon,,oonid,0,18,11,2020,15,34,46
+4717,0,https://youtu.be/IRZ7WH98lLA,oon,,oonid,0,18,11,2020,15,46,7
+4720,0,,bg,Ipul,,0,18,11,2020,18,34,49
+4721,0,,,,,0,18,11,2020,19,7,40
+4722,0,,Sep,Sep,ngududddd,0,19,11,2020,3,50,39
+4723,0,,S,setiawan,ssetiawa,0,19,11,2020,7,54,14
+4724,0,,Ahmat,Setiyawan,ahmat_setiyawan,0,19,11,2020,12,38,47
+4725,0,,Kiriha kun,,hanzu007,0,19,11,2020,14,7,22
+4726,0,,Ricky,,rickyreza12,0,19,11,2020,16,9,19
+4727,0,,Varel,,Bettercaps,0,19,11,2020,16,30,33
+4728,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,58
+4729,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,58
+4730,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,58
+4731,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,59
+4732,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,59
+4733,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,59
+4734,0,,Kiriha kun,,hanzu007,0,20,11,2020,2,46,59
+4735,0,,Qomar,,marqoms,0,20,11,2020,7,41,38
+4736,0,,rl,,ronalitana,0,20,11,2020,8,4,11
+4739,0,,,,,0,20,11,2020,13,22,32
+4740,0,,Agung,,,0,21,11,2020,7,17,48
+4741,0,,IT Puspresnas 2021,,itpuspresnas2021,0,21,11,2020,8,45,51
+4744,0,,,,,0,21,11,2020,19,32,44
+4745,0,,Ade | PIN | PSJ,,Adewahyuputra73,0,22,11,2020,1,44,56
+4746,0,,xXElfGodXx,,LilAlienX,0,22,11,2020,4,4,6
+4747,0,,Privyet,,Whataboutyou19,0,22,11,2020,5,55,36
+4748,0,,Rukhi,,,0,22,11,2020,16,28,32
+4749,0,,A,Z,amaliaAza,0,22,11,2020,17,39,52
+4750,0,halo semuanya selamat bergabung dan diskusi seputar Dart dan web.. 👋🏼,oon,,oonid,0,23,11,2020,12,26,7
+4751,0,"barusan liat di youtube video ini,\n\nkirain flutter web sudah masuk branch stable.\n\nternyata ini cara mengubah konfigurasi agar flutter bisa aktif meski di branch stable (bukan beta).\n\njadi ya fitur flutter nya tetap masih dalam proses development di branch beta hahah..\n\nhttps://youtu.be/AVakhcKvsgM",oon,,oonid,0,23,11,2020,12,27,23
+4752,0,,Haris,S,,0,23,11,2020,15,5,45
+4753,0,,Dicka,Mauliana,dicka200,0,23,11,2020,23,47,14
+4754,0,https://www.youtube.com/channel/UCjpik_Cbt0SeE5kBzao4nqg mantep tapi simple,Renaldy,Hidayat,renaldyhidayatt,0,24,11,2020,2,4,8
+4756,0,bikin aplikasi perekam audio di flutter web\n\nhttps://youtu.be/BxWLLJDU_lY,oon,,oonid,0,24,11,2020,11,45,7
+4757,0,,Syah,Riwan,Syahriwankhan,0,24,11,2020,14,5,45
+4758,0,,Amim,,Catfishsy,0,24,11,2020,14,56,36
+4759,0,,Ariel,,,0,25,11,2020,0,19,46
+4760,0,"Free - Complete Dart / Flutter programming series, six courses, each coupon expires in 3 days - happy thanks giving everyone\n\nDart beginners\nhttps://www.udemy.com/course/dart-beginners-course/?couponCode=7CA93B47A390A81961E3\n\nDar intermediate\nhttps://www.udemy.com/course/dart-intermediate-course/?couponCode=9F2334BF6BAFE0E351ED\n\nDart advanced\nhttps://www.udemy.com/course/dart-advanced-course/?couponCode=CC349004C48D29816053\n\nFlutter beginners\nhttps://www.udemy.com/course/flutters-beginners-course/?couponCode=302FF25C20EF190599CC\n\nFlutter intermediate\nhttps://www.udemy.com/course/flutter-intermediate/?couponCode=E052B43BC3857BCB7CC6\n\nFlutter advanced\nhttps://www.udemy.com/course/flutter-advanced-course/?couponCode=8D6CF01C8FCA47C9D4FF",Renaldy,Hidayat,renaldyhidayatt,0,25,11,2020,2,44,44
+4761,4760,Thankss,Adithya Firmansyah,Putra,Adithya_13,0,25,11,2020,2,58,32
+4762,0,Sama sama,Renaldy,Hidayat,renaldyhidayatt,0,25,11,2020,3,11,44
+4763,4760,mantap 😀👌🏻,Andre,,anta40,0,25,11,2020,3,19,36
+4764,4760,"mas e terimakasih lo info nya , semoga di mudahkan semua urusannya aamiin , ijin share",Amim,,Catfishsy,0,25,11,2020,3,52,45
+4765,4764,Terima kasih atas doanya ya mas,Renaldy,Hidayat,renaldyhidayatt,0,25,11,2020,4,5,45
+4766,0,,Kiriha kun,,hanzu007,0,25,11,2020,6,38,28
+4767,0,kalo mau buat peta di web pakai flutter web dan mapbox\n\nhttps://youtu.be/oExKvqVKiAM,oon,,oonid,0,25,11,2020,11,45,0
+4768,0,,Yoga,Marselino,yogamars,0,25,11,2020,12,21,56
+4770,0,,,,,0,26,11,2020,2,57,27
+4771,0,,,,,0,26,11,2020,3,4,28
+4772,0,,,,,0,26,11,2020,8,31,4
+4773,0,,,,,0,26,11,2020,8,45,17
+4774,0,,,,,0,26,11,2020,9,19,18
+4775,0,,,,,0,26,11,2020,9,27,16
+4776,0,,,,,0,26,11,2020,11,26,55
+4777,0,"Selamat malam semua, izin share, yang belum tahu KISS Principle bisa baca blog ini ya hehe\n\nhttps://kotakode.com/blogs/2734/Mengenal-KISS-Principle",Adithya Firmansyah,Putra,Adithya_13,0,26,11,2020,12,57,22
+4778,0,,,,,0,26,11,2020,17,29,46
+4780,0,,,,,0,26,11,2020,23,10,15
+4782,0,,,,,0,27,11,2020,0,53,48
+4783,0,,,,,0,27,11,2020,0,54,19
+4785,0,,,,,0,27,11,2020,1,31,44
+4786,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4787,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4788,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4789,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4790,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4791,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4792,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4793,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4794,0,,Kiriha kun,,hanzu007,0,27,11,2020,3,49,39
+4795,4789,"lah, share di grup Dart kok nggak ada info soal pemrograman Dart..",oon,,oonid,0,27,11,2020,6,50,25
+4796,0,Ga tau bang,Kiriha kun,,hanzu007,0,27,11,2020,6,55,22
+4797,0,Coba tanya adminya,Kiriha kun,,hanzu007,0,27,11,2020,6,55,26
+4798,4797,"maksudnya, share nya yang sesuai dengan grup nya ya mas 🙏",Adithya Firmansyah,Putra,Adithya_13,0,27,11,2020,6,56,39
+4799,0,,,,,0,27,11,2020,7,38,3
+4800,4797,kata adminnya nih di atas.. 🙄,oon,,oonid,0,27,11,2020,7,39,19
+4801,0,speed coding bikin web app toko furnitur.. \npakai flutter\n\nUI nya keren.. \n\nhttps://youtu.be/B5o2rUfFN44,oon,,oonid,0,27,11,2020,7,42,40
+4802,0,kayaknya repo angular dart (dan sejumlah paket-paketnya) akan disatukan.. (mono repo).\n\nhttps://github.com/dart-lang/angular/pull/1937,oon,,oonid,0,27,11,2020,8,36,28
+4803,0,,wahyu arif,kurniawan,wahyuarif,0,27,11,2020,11,11,56
+4804,0,,,,,0,27,11,2020,15,46,27
+4805,0,,,,,0,27,11,2020,18,4,22
+4806,0,,Ниа,,,0,27,11,2020,23,38,23
+4807,0,,,,,0,28,11,2020,1,30,6
+4808,0,,,,,0,28,11,2020,1,32,57
+4819,0,halo kak @hanzu007 \nmohon posting yang terkait pemrograman Dart dan web ya..\n\nini sudah diingatkan lagi ya..,oon,,oonid,0,28,11,2020,2,47,35
+4820,0,Siap,Kiriha kun,,hanzu007,0,28,11,2020,3,2,59
+4821,0,,foo-bar,,barbar195,0,28,11,2020,5,3,52
+4822,0,,Atikah,,,0,28,11,2020,6,55,11
+4823,0,tips seputar flutter web dan deploy ke firebase\n\nhttps://youtu.be/OMSV-fDUgC4,oon,,oonid,0,28,11,2020,6,59,40
+4824,0,,,,,0,28,11,2020,7,16,32
+4825,0,,,,,0,28,11,2020,7,55,22
+4826,0,,,,,0,28,11,2020,7,57,21
+4827,0,,Rasyit Budiman,,Budimanrasyit,0,28,11,2020,10,2,18
+4828,0,,,,,0,28,11,2020,15,28,31
+4829,0,,>>>,YoNi08 <<<,AnekSo,0,28,11,2020,19,53,36
+4830,0,Kapan bahas Dart?,Kiriha kun,,hanzu007,0,28,11,2020,23,1,55
+4831,0,silakan kak kalo mau bahas Dart.,oon,,oonid,0,28,11,2020,23,2,41
+4832,0,,,,,0,29,11,2020,2,35,9
+4833,0,,,,,0,29,11,2020,4,16,42
+4834,0,"bikin sidebar (navigasi) dengan animasi,\nspeed coding flutter web\n\nhttps://youtu.be/V287mX-pR0w",oon,,oonid,0,29,11,2020,8,4,46
+4835,0,,,,,0,29,11,2020,10,36,55
+4837,0,,Yusnan,Yunus,yusnanyunus,0,29,11,2020,10,56,41
+4840,0,,Nana,Impessa,Nanaimpessa,0,29,11,2020,11,32,31
+4841,0,,,,,0,29,11,2020,14,8,55
+4854,0,,,,,0,29,11,2020,17,8,32
+4855,0,,Adolf Gein,,adolf_gein,0,29,11,2020,19,25,15
+4856,0,,,,,0,29,11,2020,20,26,30
+4857,0,,clraa,,clraaa_23,0,30,11,2020,6,34,46
+4858,0,"artikel baru dan tentunya menarik banget..\n\nbagaimana melakukan parsing data HTML dengan menggunakan Dart.\n\nya, tentunya banyak cara, termasuk salah satunya pakai regular expression (regex) 😨\n\ndi artikel ini bahas pakai paket HTML dari Dart.\n\ndan serunya lagi di bagian akhirnya ada paket Dart lain yang nggak kalah menarik, namanya flutter_html, yang mengubah halaman HTML menjadi widget di flutter 🤓\n\ncek langsung..\n\nhttps://iiro.dev/2020/11/29/parsing-html-in-dart/",oon,,oonid,0,30,11,2020,9,59,9
+4859,4858,wih mantap mas terima kasih,Adithya Firmansyah,Putra,Adithya_13,0,30,11,2020,10,43,54
+4860,0,👍,oon,,oonid,0,30,11,2020,10,46,45
+4861,0,"Izin share om admin sya hbs bljr flutter web dri udemy, bkin ui respinsive, hsilnya sprti ini. Kren jga flutter web\n\nhttps://belajar-firebase-flutter.firebaseapp.com/",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,30,11,2020,11,55,24
+4862,0,"bljar dri course ini,\nhttps://www.udemy.com/course/build-a-responsive-app-in-flutter-for-android-ios-web/",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,30,11,2020,11,55,43
+4863,0,Kali aja kwn kwn ad jga yg kpngin bljr fltter web rsponsive,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,30,11,2020,11,56,4
+4864,4861,mantab hasil belajarnya 👍\n\nsemangat..,oon,,oonid,0,30,11,2020,11,59,50
+4865,4864,siaappp om🔥,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,30,11,2020,12,2,22
+4866,4861,mantapp,Adithya Firmansyah,Putra,Adithya_13,0,30,11,2020,12,4,10
+4867,4866,🔥,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,30,11,2020,12,5,33
+4868,0,,Bento,,,0,30,11,2020,12,16,14
+4869,4858,Ini sih keren om.. gaperlu modal server🤭,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,13,56,3
+4870,4869,🙈,oon,,oonid,0,30,11,2020,13,56,37
+4871,0,Ada solusi buat web yg gabisa diview source ga om?🤭,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,13,59,21
+4872,4871,memangnya ada web yang nggak bisa di-view-source? 🤔,oon,,oonid,0,30,11,2020,13,59,50
+4873,0,Outputnya js🤣,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,14,0,3
+4874,0,Kaya hasil build dari flutter,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,14,0,22
+4875,4871,"jangan pake JS. pake flash atau java applet misalnya, pokoknya outputnya bukan JS 😜",Andre,,anta40,0,30,11,2020,14,1,33
+4876,4873,"oh, maksudnya kayak SPA gitu ya..\njadi webnya itu skeleton aja, dibangun pakai framework JS (atau bahasa yang dikonversi ke JS, kayak Dart, TS).\n\ngitu ya?\n\nitu kan juga bisa dibaca source nya, cuma memang dioptimalkan.. jadinya singkat dan dikaburkan (obfuscated) 😬",oon,,oonid,0,30,11,2020,14,2,52
+4877,0,seperti yg ini om https://kotakode.com/,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,14,8,53
+4878,0,Apa bisa pakai cara diatas?,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,14,10,18
+4879,4878,"tujuannya mau apa dulu.. ambil datanya?\n\nkalo situsnya pake JS,\nnggak bisa pakai paket `html` dari Dart,\ntapi coba cek paket `puppeteer`.",oon,,oonid,0,30,11,2020,14,18,23
+4880,4342,paket `puppeteer` ini bisa akses situsnya kayak kita memrogram browsernya.,oon,,oonid,0,30,11,2020,14,19,9
+4881,4879,Ambil datanya om,Rachmanwidjaya,,rachmanwidjaya,0,30,11,2020,14,26,29
+4885,0,"Malam mau nanya, misal bentuk datanya seperti :\nmakanan: [\n{a}.{b}.{c}],\nmakanan:[\n{d}.{e}\n]\n\nbiar isi dari list makanan keluar semua jadi a,b,c,d,e gimana ya?",Josh,,evanfagan0203,0,30,11,2020,15,13,1
+4886,4885,itu List of Set? yang dalam list itu Set?,oon,,oonid,0,30,11,2020,15,22,32
+4887,0,bisa pakai list.map() gitu..\nnanati map nya mengembalikan hanya isi dari Set nya.,oon,,oonid,0,30,11,2020,15,24,10
+4888,0,"contoh sekilasnya gini,\nkalo mau convert setiap element dari List yang tipenya String jadi int.\n\nhttps://stackoverflow.com/questions/37564897/dart-convert-every-element-of-list",oon,,oonid,0,30,11,2020,15,26,41
+4889,4888,"itu kan kalau data dalam listnya sama semua ya pak, tapi kalau engga gimana? misal :\nmakanan = [\n{\nid=""1""\nrasa=""ramen""\n},\n{\nid=""2""\nrasa=""mantap""\n}\n],\nmakanan = [\n{\nid=""3""\nrasa=""ramen""\n},\n{\nid=""4""\nrasa=""mantap""\n}\n]",Josh,,evanfagan0203,0,30,11,2020,15,33,30
+4890,0,"ini isnya Map?\nya sama juga, dari Map itu apa yang mau dikembalikan, fungsi dari list.map() nya aja yang diubah.",oon,,oonid,0,30,11,2020,15,34,14
+4891,0,kayak gini ada bbrp contoh:\n\nhttps://flutterbyexample.com/lesson/changing-elements-map-and-expand,oon,,oonid,0,30,11,2020,15,36,32
+4892,4891,"thank you pak, dapet nih pake expand",Josh,,evanfagan0203,0,30,11,2020,15,39,51
+4893,0,👍🏼,oon,,oonid,0,30,11,2020,15,41,4
+4894,0,,Dave,,Lov3y0uu,0,30,11,2020,20,0,52
+4895,0,,,,,0,30,11,2020,21,32,4
+4896,0,,,,,0,30,11,2020,22,7,32
+4897,0,,,,,0,30,11,2020,22,19,31
+4898,0,Kak mau tanya untuk mengecheck suatu web itu bukan web kloning/keasliannya bagaimana caranya ya?,Miraq,,miraqawan,0,1,12,2020,1,57,48
+4899,0,"🤔 gimana ya.. \n\nini tujuan dari pengecekannya kira-kira apa?\n\nmisalnya nih, menghindari phising, biasanya cek dari sertifikat https nya.\n\ndan masih banyak lagi cara,\ntapi ya bergantung tujuannya apa",oon,,oonid,0,1,12,2020,2,2,10
+4900,0,,,,,0,1,12,2020,2,2,48
+4901,0,Kalau ngecheck apakah web ini tiruan/cloning apa bukan gimana kak?,Miraq,,miraqawan,0,1,12,2020,2,19,30
+4902,0,copy paste text nya ke google(?),oon,,oonid,0,1,12,2020,2,20,3
+4903,0,,gustama,,abgits,0,1,12,2020,2,20,48
+4904,0,,,,,0,1,12,2020,4,29,20
+4905,0,,,,,0,1,12,2020,4,34,36
+4906,0,,,,,0,1,12,2020,5,29,33
+4907,0,,Me,,sidavee,0,1,12,2020,5,32,39
+4908,0,,Nabilla,Azzahra,Nazzahra26,0,1,12,2020,5,49,46
+4909,0,,Fitri,,ananafitri,0,1,12,2020,6,48,40
+4910,0,,͏͏,͏͏,kurangartos,0,1,12,2020,6,49,20
+4911,0,,,,,0,1,12,2020,15,20,27
+4912,0,,,,,0,1,12,2020,16,13,59
+4913,0,,,,,0,1,12,2020,16,32,13
+4914,0,kenapa banyak nama-nama orang luar ya yang gabung 🙊\nbukan orang kayaknya..,oon,,oonid,0,1,12,2020,16,53,52
+4915,0,speed coding bikin tampilan seperti whatsapp web pakai flutter.\n\nhttps://youtu.be/-Kl8DrWRLIQ,oon,,oonid,0,1,12,2020,16,58,52
+4916,0,,,,,0,1,12,2020,19,28,57
+4917,0,,,,,0,1,12,2020,19,29,13
+4918,0,,,,,0,1,12,2020,19,49,7
+4919,0,,,,,0,1,12,2020,19,49,21
+4920,0,,,,,0,1,12,2020,20,12,46
+4921,0,,,,,0,1,12,2020,20,57,9
+4922,0,,,,,0,1,12,2020,20,57,19
+4923,0,,,,,0,1,12,2020,21,14,52
+4924,4914,Mungkin namanya om dart.web doang tanpa tulisan Indonesia nya🤔,Renaldy,Hidayat,renaldyhidayatt,0,1,12,2020,21,51,35
+4925,4924,"😬 oh iya, betul juga",oon,,oonid,0,2,12,2020,0,24,36
+4926,0,,Who ami,,ITSecureX,0,2,12,2020,3,37,46
+4932,0,,Kenal,Mengenal,Harinda278,0,2,12,2020,20,44,12
+4933,0,Di sisni ada yang bisa lacak no hp,Kenal,Mengenal,Harinda278,0,2,12,2020,21,0,45
+4934,0,nggak ada kak 🙊,oon,,oonid,0,2,12,2020,21,1,9
+4935,0,Oh iya kaka makasih info nya👍,Kenal,Mengenal,Harinda278,0,2,12,2020,21,7,40
+4936,0,,,,,0,3,12,2020,0,17,2
+4937,0,,,,,0,3,12,2020,4,16,47
+4938,4933,Pke aplikasi bnyk ko ka,,,,0,3,12,2020,4,17,21
+4939,0,,,,,0,3,12,2020,5,44,14
+4940,0,flutter web dikasih loading spinner \n\nhttps://juancurti.medium.com/fix-flutter-web-loading-time-with-a-loading-spinner-c5dd36a29f5b,oon,,oonid,0,3,12,2020,7,13,33
+4944,0,Help me🥺🥺,Didi,Hadid,,0,3,12,2020,7,19,54
+4945,0,semangat kak ujiannya..\nkalo diskusi tentang HTML dan CSS bisa ke grupnya langsung.. (ada grupnya sendiri bahas itu),oon,,oonid,0,3,12,2020,7,20,56
+4946,0,Iyah pasti,Didi,Hadid,,0,3,12,2020,7,21,34
+4947,0,,Rizki,Hermansyah,RizkiHermansyah,0,3,12,2020,8,39,5
+4948,0,"Misi, Mau nanya dong, ada yg udah pernah buat flutter web pake widget2 animation atau pakai Hero widget dari flutter nda? Apakah ada yg mengalami stutter/lag pas udah production? Thanks #ask",Fauzy,,ahmad_fauzy,0,3,12,2020,11,59,11
+4949,4948,"halo kak @ahmad_fauzy 👋\n\nsama, flutter web aku juga lag animasinya 🤣",oon,,oonid,0,3,12,2020,12,37,26
+4950,0,Oh gitu ya wkwk. Mudah2an tahun depan sudah stable release flutter web 😅,Fauzy,,ahmad_fauzy,0,3,12,2020,13,5,34
+4951,4950,"aku mikirnya, apa belum bisa aja nih caranya biar nggak lag ya.. 🙊\n\nnanti coba googling lagi deh..",oon,,oonid,0,3,12,2020,13,20,14
+4952,0,,Benny,Hutapea,,0,3,12,2020,14,1,55
+4953,0,,Aris Supriyantoro,,Visiitor,0,3,12,2020,14,35,20
+4954,0,,Mario,Firera,,0,3,12,2020,14,40,57
+4955,4951,belum bisa sepertinya om krn masih beta juga haha,Fauzy,,ahmad_fauzy,0,3,12,2020,15,15,13
+4956,0,,,,,0,3,12,2020,18,44,37
+4957,4948,Saya pakai hero buat animasi gmbar...gak ada masalah (sesuai dgn sudut pandangku)....bahkan sudah diupload ke hosting,Lilik,Siswanto,,0,4,12,2020,1,3,43
+4958,4944,Coba cari udemy....mumpung lagi diskon blackfriday...cari tutornya Agela Yu...judulnya Web Dev 2020 Boothcamp..disana diajarin sesuai yang dikau minta...eh tugasmu duedate nya udah telat ya...😔,Lilik,Siswanto,,0,4,12,2020,1,6,5
+4959,0,blackfriday nya emang masih ada juga ya?\nudah seminggu(?) 😬,oon,,oonid,0,4,12,2020,1,7,49
+4960,0,,D,Z,,0,4,12,2020,1,11,6
+4961,0,wibucode.com,Kiriha kun,,hanzu007,0,4,12,2020,3,33,22
+4962,4959,Tulisanya sih hari ini terakhir diskonnya,Lilik,Siswanto,,0,4,12,2020,3,49,48
+4963,0,👍 seminggu ya,oon,,oonid,0,4,12,2020,3,50,45
+4964,0,,Tri Asep,Tumbara,triaseptmbr,0,4,12,2020,5,9,48
+4965,0,,Agus,Sesetan,agussesetan,0,4,12,2020,5,38,19
+4966,0,,,,,0,4,12,2020,9,18,53
+4967,0,,Adam,Firdaus,Synsz11,0,4,12,2020,12,0,0
+4968,0,,ANJAYY,,BlackSteel88,0,4,12,2020,22,44,55
+4970,0,,PMF,,PM1902,0,5,12,2020,4,57,36
+4971,0,"Halo semua, yang belum tahu untuk menggunakan custom Icon di Flutter, bisa cek Blog ini ya, terima kasih hehe\n\nhttps://kotakode.com/blogs/3059/Custom-Icon---Flutter",Adithya Firmansyah,Putra,Adithya_13,0,5,12,2020,6,17,17
+4972,0,,,,,0,5,12,2020,13,14,38
+4977,0,,isaac,,isaacnugroho,0,6,12,2020,7,58,19
+4978,0,,ZAKKI,,xqwsh,0,6,12,2020,11,3,20
+4979,0,,,,,0,6,12,2020,17,55,29
+4980,0,menarik nih bikin admin dashboard pake flutter web\n\nhttps://youtu.be/vZaztF9Yvgc,oon,,oonid,0,6,12,2020,21,30,24
+4981,0,,Rafiki,Malimbo,,0,6,12,2020,21,33,16
+4982,0,,,,,0,7,12,2020,19,28,30
+4983,0,,Sepehran,,isepehran,0,7,12,2020,23,13,49
+4984,0,,Achmad,,Achhmadd,0,8,12,2020,1,41,13
+4985,0,,𝕬𝖛𝖆𝖙𝖆𝖗 𝖐𝖊𝖓 𝖙𝖆𝖗𝖔,,gabut49,0,8,12,2020,5,18,18
+4989,0,,adil,muhammad,,0,8,12,2020,7,55,40
+4990,0,,edy,syazo,edsyaZo,0,8,12,2020,10,54,16
+4995,0,,.,.,yhymhmn,0,8,12,2020,15,0,26
+4996,0,,FUCK,,,0,8,12,2020,17,32,54
+4997,0,,Ridwan,Dwi Nurcahyo,,0,9,12,2020,3,29,7
+4998,0,,Jack Smith,,jacksmith_dev,0,9,12,2020,4,10,40
+4999,0,,,,,0,9,12,2020,5,57,33
+5000,0,"Kotakode Blog Competition adalah sebuah kompetisi blogging yang terbuka untuk umum dan juga sebagai wadah bagi para programmer untuk dapat berbagi ilmu dan membantu memajukan kualitas programmer di Indonesia.\nUntuk kalian yang juga ingin sekalian tambahkan online portofolio , yuk ikutan ! 😎 \n\nPlatform Blogging:\nhttps://kotakode.com/blogs\n\nUntuk rules & guidelines:\nhttp://bit.ly/KotakodeBlogCompetition",Adithya Firmansyah,Putra,Adithya_13,0,9,12,2020,7,45,10
+5001,0,,Diyas,Console,DiyasXVI,0,9,12,2020,13,39,56
+5002,0,,dizzy,,,0,9,12,2020,22,22,53
+5003,0,,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,44,56
+5009,0,,DBC117025,Ahmadi,Aochan28,0,10,12,2020,3,44,5
+5010,0,"Halo semua, Berikut ini adalah hasil pembelajaran saya yang dituang menjadi blog mengenai State Management pada Flutter, Terima kasih banyak\n\nhttps://kotakode.com/blogs/3307/Perlukah-State-Management-di-Flutter%3F",Adithya Firmansyah,Putra,Adithya_13,0,10,12,2020,10,38,38
+5011,0,,しんのすけ,くろい,,0,11,12,2020,6,15,39
+5012,0,,Suny,,,0,11,12,2020,7,17,28
+5014,0,,Muh Fahmi,,muhfahmi14,0,11,12,2020,8,30,39
+5015,0,#ask mohon maaf mas mau tanya saya kan pake lib flutter clean calendar nah saya mau loop data datetime dari database dan nanti dijadikan map kalo begitu casenya gimana ya mas ? saya belum nemu referensi yang pas dari google siapa tau masnya bisa bantu pencerahannya mohon maaf,Muh Fahmi,,muhfahmi14,0,11,12,2020,8,34,33
+5016,0,,Info,Sailendra Institute,sainsinfo,0,11,12,2020,9,14,43
+5018,0,,Wahyu,,,0,11,12,2020,12,24,43
+5020,0,,,,,0,11,12,2020,17,51,39
+5021,0,udah ada yang bikin framework untuk membuat responsive di flutter web jadi lebih mudah.\n\nhttps://github.com/Codelessly/ResponsiveFramework,oon,,oonid,0,11,12,2020,23,38,50
+5022,5015,"bikin aja ""_events"" nya itu jadi class, dan pada saat get data dari server, masukin data dari server itu ke object class ""_events"" nya. Dan terakhir, ambil data object dari ""_events"" dan pakai Future.builder utk menampilkan datanya 👍",Fauzy,,ahmad_fauzy,0,12,12,2020,0,20,40
+5023,5021,"mantap om, ini kebetulan baru mau nyari juga 😅🙏",Fauzy,,ahmad_fauzy,0,12,12,2020,0,21,14
+5025,5024,posting yang terkait Dart dan web aja kak.,oon,,oonid,0,12,12,2020,0,22,57
+5026,5025,oke,Aris Supriyantoro,,Visiitor,0,12,12,2020,0,23,11
+5027,0,pakein bot telegram bagus kayaknya ini. sudah banyak yg masuk 🤣,Fauzy,,ahmad_fauzy,0,12,12,2020,0,24,19
+5028,5027,"udah dipasang bot telegram nya, cuma belum diaktifkan fitur spam filter nya.\n\ndengan harapan masih berbaik-baik mengajak lebih banyak yang posting 😬",oon,,oonid,0,12,12,2020,0,25,53
+5029,5028,ooh sudah ada ya? oke siapp.,Fauzy,,ahmad_fauzy,0,12,12,2020,0,26,39
+5032,3303,silakan yang mau ikut polling lagi.. ada di pesan tersemat (pinned). 😁\n\nbanyak yang mau belajar Dart,oon,,oonid,0,12,12,2020,0,27,57
+5033,0,,Anto,Prasetyo,,0,12,12,2020,4,30,28
+5034,0,,mpj,,empeje,0,12,12,2020,4,55,12
+5037,0,,الفاحري,,Vairusa,0,12,12,2020,13,13,16
+5038,0,,.,,zzdhl,0,12,12,2020,13,19,20
+5039,0,,Eka Adhy,Kuncoro,Msfeak,0,12,12,2020,14,47,58
+5040,0,,Jeffri Rohmando,Aulia,Sherinaf,0,12,12,2020,17,9,45
+5041,0,,Fuad Auliya,Rohman,FuadAuliya,0,13,12,2020,3,52,15
+5042,0,Ada yg berdomisili di surabaya,Jeffri Rohmando,Aulia,Sherinaf,0,13,12,2020,12,37,44
+5049,0,,rahmawan,,rahmawanya,0,14,12,2020,18,11,22
+5050,0,,Maheswari,,Handayani_123,0,15,12,2020,2,9,15
+5051,0,,Tjandra,Darmo,TjandraDarmo,0,15,12,2020,4,35,47
+5052,0,,Clara,Nirmalasari,Clarraaamalasarii,0,15,12,2020,10,33,35
+5053,0,,,,,0,15,12,2020,18,26,19
+5054,0,,Rahul,Maurya,rahulmaurya7878,0,16,12,2020,2,57,5
+5058,0,,Sony,,sonysan24,0,16,12,2020,13,34,50
+5059,0,ada yang udah cobain?\ncommand line options baru untuk render ke HTML dari flutter (tambah dari yang versi CanvasKit)\n\nhttps://flutter.dev/docs/development/tools/web-renderers,oon,,oonid,0,17,12,2020,3,53,20
+5060,0,,Ade Era,Agustin,Aagustin2,0,17,12,2020,4,48,59
+5062,0,,,,,0,17,12,2020,7,52,47
+5063,0,,Adam,Iris,Irisadam27,0,17,12,2020,19,41,8
+5064,0,,Muhammad Haikal,Fikri,haikalsel,0,17,12,2020,21,35,10
+5065,0,,Mychael,Go,mychaelgo,0,18,12,2020,1,9,15
+5066,0,,Ali,Maksum,ajstudiochat,0,18,12,2020,2,57,29
+5067,0,,Ju Silva,,jusilver1,0,18,12,2020,4,48,10
+5068,0,"halo, selamat bergabung 👋\ndiskusi seputar pemrograman Dart dan web",oon,,oonid,0,18,12,2020,7,39,4
+5069,0,haii all guys,,,,0,18,12,2020,7,44,51
+5070,0,selamat petang semuanya,,,,0,18,12,2020,7,44,58
+5071,0,halo kak..\ndi saya masih belum petang.. masih terang.. 😬,oon,,oonid,0,18,12,2020,7,47,40
+5072,0,good afternoon guys,,,,0,18,12,2020,7,50,43
+5075,0,,yusuf,karback,yusufkarback,0,18,12,2020,14,46,1
+5076,0,,0101host,,host01010,0,18,12,2020,18,33,52
+5077,0,ada yg jual dedicated proxies utk GSA tidak?,𝕵𝖔𝖐𝖊𝖗✪,,TheJoker288,0,19,12,2020,10,46,30
+5078,0,,mang,kerja,,0,19,12,2020,10,51,15
+5079,0,selamat malam guy's,,,,0,19,12,2020,15,57,32
+5080,0,"Pagi semua, izin share Blog mengenai Localization di Flutter\n\nhttps://kotakode.com/blogs/3685/Internationalization-dan-Localization-Flutter",Adithya Firmansyah,Putra,Adithya_13,0,19,12,2020,22,28,11
+5081,0,,Ando,,,0,20,12,2020,8,26,18
+5085,0,,,,,0,20,12,2020,14,7,17
+5093,0,selamat petang semua nya,,,,0,21,12,2020,9,9,11
+5094,0,✌️,oon,,oonid,0,21,12,2020,9,39,23
+5095,0,,,,,0,21,12,2020,14,5,47
+5096,0,,Hmmm,...,apagasng,0,21,12,2020,15,40,0
+5097,0,,Albertus,Wicaksono,drei13zehn,0,22,12,2020,8,40,23
+5098,0,,call me,Zz,zolapapa56,0,22,12,2020,15,22,8
+5102,0,,Abdullah,Malee,Abdullahmalee,0,22,12,2020,20,30,36
+5103,0,,Micheal,,,0,23,12,2020,18,30,51
+5104,0,,,,,0,23,12,2020,19,48,9
+5105,0,,yanto,123,yanto12345678,0,24,12,2020,9,17,30
+5106,0,,Rizki,,,0,24,12,2020,9,40,46
+5107,0,halo selamat bergabung temen-temen 👋🏼\ndiskusi seputar pemrograman Dart dan web.\n\nselamat liburan semuanya..,oon,,oonid,0,24,12,2020,10,5,51
+5108,0,izin share loker om @oonid,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,24,12,2020,10,30,16
+5109,0,,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,24,12,2020,10,30,25
+5110,0,👍🏼,oon,,oonid,0,24,12,2020,10,30,47
+5111,0,yang belum tahu untuk download spesifik folder di github bisa cek blog ku yaa hehe\n\nhttps://kotakode.com/blogs/3847/Download-Spesifik-Folder-di-Github,Adithya Firmansyah,Putra,Adithya_13,0,24,12,2020,12,19,3
+5112,0,selamat Natal buat temen-temen yang merayakan.. 🙏\n\nselamat liburaann temen-temen semua.. 😁,oon,,oonid,0,25,12,2020,3,45,51
+5113,0,,,,,0,25,12,2020,17,4,37
+5114,0,,Fairujah,,,0,26,12,2020,3,26,51
+5115,0,,Rizki,,RizkiSA,0,27,12,2020,8,12,58
+5120,0,,ian,,,0,27,12,2020,13,52,3
+5121,0,,Mus,Gust,,0,28,12,2020,3,5,31
+5126,0,,Duta,,dags123,0,28,12,2020,7,11,28
+5127,0,,,,,0,28,12,2020,13,19,43
+5128,0,,andre,,septyaaaan,0,28,12,2020,16,0,54
+5131,0,"#Ask, ijin bertanya penyebab dart sdk is not configured itu kenapa ya? dan slusi mengatasinya bagaimana. terimakasih",rohman,,push70,0,28,12,2020,18,43,19
+5134,5131,udah coba klik Open Dart Settings?\ntrus dipilih direktori tempat instalasi Dart SDK nya.,oon,,oonid,0,28,12,2020,22,5,30
+5135,0,,,,,0,29,12,2020,14,29,24
+5136,0,,M. Saefudin,Zuhri,zuhrisaef,6285717799860,30,12,2020,14,9,45
+5137,0,,Danang,Setio,Danang_setio,0,31,12,2020,3,55,55
+5138,0,,Dimas,Pratama,,0,31,12,2020,6,54,10
+5139,5134,"siap mas, kalo buat projek sendiri sih ga pernah kejadian kayak gitu, itu kmarin pas mau open file sc yan udah jadi wkwk",rohman,,push70,0,31,12,2020,10,14,6
+5140,0,,Nusi,Aryaaaa,Nusixfx11,0,31,12,2020,14,40,25
+5141,0,🎆,oon,,oonid,0,31,12,2020,16,24,56
+5142,0,selamat tahun baru 2021! 😁,oon,,oonid,0,31,12,2020,17,0,17
+5143,0,happy new yearrr,Adithya Firmansyah,Putra,Adithya_13,0,31,12,2020,18,21,22
+5144,0,https://youtu.be/ibnqWRChRgI\n\n#izinshare,Danang,Setio,Danang_setio,0,31,12,2020,22,57,5
+5145,0,,daasmore || http://linktr.ee/daasmore,,daasmore,0,1,1,2021,2,37,34
+5146,0,"#ask agar dapat begini itu bagaimana?, aku udah nyoba tapi outputnya kebawah semua",Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,36,9
+5147,0,yang sudah dicoba kodenya seperti apa?,oon,,oonid,0,1,1,2021,11,36,40
+5148,0,"kalo misalnya nih, nulis yang baris terakhir aja bisa?",oon,,oonid,0,1,1,2021,11,37,30
+5149,0,Hasilnya gini gak mau kesamping,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,39,8
+5150,0,"ada bbrp opsi sih,\nmisalnya nih dianggap sebagai string, yang ""ditambahkan"" lagi kanannya dengan angka berikutnya.\n\npilihan yang lain pakai stdout.write, tapi kayaknya ini nggak bisa kalo di dartpad.\n\nhm bentar googling dulu cara yang lain.",oon,,oonid,0,1,1,2021,11,41,49
+5151,0,Kodeku gini,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,42,36
+5152,0,sudah belajar tipe data string?\ndan konversi dari int ke string?,oon,,oonid,0,1,1,2021,11,43,9
+5153,5152,Sudah,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,43,50
+5154,5153,"iya, jadi dikonversi aja dari int ke string.\n\ntrus nanti di-append dengan spasi dan angka berikutnya.",oon,,oonid,0,1,1,2021,11,44,21
+5155,5154,Yang di convert yang mana dan append itu maksudnya apa,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,45,22
+5156,0,append itu ditambahkan (di sisi akhir dari string).\nkayak gini:\n\n```String a = 'aa';\nString b = 'bb';\nprint(a+b);```,oon,,oonid,0,1,1,2021,11,48,17
+5157,0,nah itu a di-append dengan b.,oon,,oonid,0,1,1,2021,11,48,40
+5158,0,"contoh aja gini, nanti kembangkan sendiri:\n\n```  String s = '';\n  for (int i = 0; i < 5; i++) {\n    s += '${i} ';\n  }\n  print(s);```",oon,,oonid,0,1,1,2021,11,49,20
+5159,5158,Makasih sudah jadi🙏,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,50,38
+5160,0,👍🏼,oon,,oonid,0,1,1,2021,11,50,48
+5161,0,Kalau meratakan hasil gimana,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,51,17
+5162,0,Kan buat tabel perkalian 1-10,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,51,34
+5163,0,emangnya nggak rata seperti apa?,oon,,oonid,0,1,1,2021,11,51,39
+5164,0,Hasilnya jadi tapi gak rata,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,51,46
+5165,0,Hasilnya kayak gini,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,52,55
+5166,0,oh pake padding.\n\nmisalnya padleft\n\nhttps://stackoverflow.com/questions/15193983/is-there-a-built-in-method-to-pad-a-string,oon,,oonid,0,1,1,2021,11,53,8
+5167,0,"jadi buat yang kurang dari 2 digit, kirinya dikasih spasi.",oon,,oonid,0,1,1,2021,11,53,34
+5168,0,di contoh stackoverflow itu dikasih 0,oon,,oonid,0,1,1,2021,11,53,43
+5169,0,Okee,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,55,32
+5170,0,Tak coba dulu,Abdul,Wasi,AbdWasiDev,0,1,1,2021,11,55,47
+5171,0,👌🏼,oon,,oonid,0,1,1,2021,11,56,2
+5172,5166,Udah makasih👍,Abdul,Wasi,AbdWasiDev,0,1,1,2021,12,1,38
+5173,0,🙌🏼,oon,,oonid,0,1,1,2021,12,2,1
+5174,0,,Agung,Fir,agungfir10,6282322177118,1,1,2021,16,3,13
+5175,0,,Saksaphani,Mohcine,Saksaphani,0,1,1,2021,16,7,53
+5180,5177,spam,Dianto,,Dian_774,0,1,1,2021,19,9,17
+5181,0,,Weki Syaputra,,Wekky,0,2,1,2021,12,1,27
+5182,0,,Abdul,Azis,aazis26,0,2,1,2021,15,24,11
+5183,0,"Mau tanya dong, best practice ga ya kalo kita pke core api tp hit langsung ke mitransnya dr Frontendnnya.",Muhammad Dafi,,dafinoer,0,2,1,2021,17,8,26
+5184,0,"setau saya core api ini nanti ada notifikasi kalo pembayaran berhasil (atau gagal) kan ya?\n\ndan itu pakai webhook (jadi midtrans yang kirim ke kita), nah itu jadi nggak bisa di sisi frontend.",oon,,oonid,0,2,1,2021,17,15,10
+5185,5184,"Funfactnya, be ku cuma nyediain webhooknya aja buat listen dr midtrasnya wkwk",Muhammad Dafi,,dafinoer,0,2,1,2021,17,19,28
+5186,0,Jadi klo bayar2 gitu ga di support be,Muhammad Dafi,,dafinoer,0,2,1,2021,17,19,45
+5187,0,trus memangnya frontend nya nggak menyimpan kayak data order gitu di backend?,oon,,oonid,0,2,1,2021,17,20,44
+5188,5187,"Iya di BE nya cm nunggu aku ngpost data yg mana data tsb, hasil callback dr midtransnya",Muhammad Dafi,,dafinoer,0,2,1,2021,17,25,26
+5189,0,😁,Muhammad Dafi,,dafinoer,0,2,1,2021,17,25,30
+5190,0,"Bukan aku lempar request, trus be yg lanjut ke Midtrans",Muhammad Dafi,,dafinoer,0,2,1,2021,17,26,1
+5191,0,ya sebetulnya asal nggak ada masalah harusnya nggak apa-apa kali ya.. atau diskusi aja ke tim midtrans apakah ada pertimbangan terutama dari sisi keamanan.,oon,,oonid,0,2,1,2021,17,27,2
+5192,0,"yang kepikiran skr gini, kalo frontend ini kenapa-napa pas posisi sudah kirim order ke midtrans, misalnya trus hp usernya rusak (atau mati), nah backend nggak tau apa-apa, dan nggak punya bukti untuk audit, jadi menyulitkan.",oon,,oonid,0,2,1,2021,17,28,23
+5193,5191,"Tp aku baca qnanya sih ga ada masalah, klo mau diskusi sama midtransnya itu via chat apa email sih mas?",Muhammad Dafi,,dafinoer,0,2,1,2021,17,33,27
+5194,0,"wah nggak tau ya, aku soalnya ada tim khusus yang bagian ketemu payment gateway. 🙈",oon,,oonid,0,2,1,2021,17,34,4
+5195,5192,"Kyknya ini bisa di track, ya sebelum lempar midtrans, lempar aja produknyanya dulu ke be ye kan haha. Nanti dpt callback dr midtrans even hp mati misal, ya udh, yy penting di be di set pending. Make sense dong,",Muhammad Dafi,,dafinoer,0,2,1,2021,17,36,2
+5196,0,"Jadi nanti kan ada issue dr user, biar admin dah tuh urusannya wkwkw",Muhammad Dafi,,dafinoer,0,2,1,2021,17,36,41
+5197,5195,ya artinya tetap aja kan ada koordinasi backend duluan dibanding dengan kirim ke midtrans.,oon,,oonid,0,2,1,2021,17,36,57
+5198,5197,There's no silver bullet,Muhammad Dafi,,dafinoer,0,2,1,2021,17,37,35
+5199,0,😁,Muhammad Dafi,,dafinoer,0,2,1,2021,17,37,40
+5200,0,"aku sih lebih kepada mau percaya mana, data di device pengguna, atau data di backend gitu aja sih. kalo kebanyakan sistem itu menganggap perangkat di pengguna itu ""eksternal"" jadi harus lebih diminimalisir kayak penyimpanan data krusial.",oon,,oonid,0,2,1,2021,17,38,59
+5201,0,"kecuali buat aplikasi kayak crypto, dimana harus percaya perangkat hp saja, jangan pernah percaya sama server manapun..",oon,,oonid,0,2,1,2021,17,40,31
+5202,5200,"Aku setuju sih, cm ini regulasinya minta gitu,\n\nAku malah mikir gini pak.\n\nIni klo call backnya berubah, otomatis bakal rusak modelnya di FEnya",Muhammad Dafi,,dafinoer,0,2,1,2021,17,41,32
+5203,0,😁,Muhammad Dafi,,dafinoer,0,2,1,2021,17,41,37
+5204,0,🙈,oon,,oonid,0,2,1,2021,17,41,54
+5205,0,Aku mikir kesana,Muhammad Dafi,,dafinoer,0,2,1,2021,17,41,54
+5206,0,"Mohon maaap nih, jadi curhat wkwk",Muhammad Dafi,,dafinoer,0,2,1,2021,17,42,32
+5207,0,😁,oon,,oonid,0,2,1,2021,17,43,15
+5208,0,https://youtu.be/ennHXzIHAsE\n\n#izinshare,Danang,Setio,Danang_setio,0,2,1,2021,23,33,58
+5209,0,Wah udah 1k member 😂😂,Danang,Puspito,danangpuspito,0,3,1,2021,1,25,52
+5210,0,"halo kak, dari mana aja 😁\nterakhir menulis pesan ke grup 2019..",oon,,oonid,0,3,1,2021,1,50,16
+5211,0,,A di A,,ADIAAr,0,3,1,2021,8,5,42
+5212,0,lama gk liat grub ini.. apa kabar smua.. gmna 2021? 🤣,Arief,fajar gemilang,,0,3,1,2021,13,31,42
+5213,0,halo halo halo...\n\nhahah 2021 baru 3 hari.. \nmasih sama rasanya dengan 2020 🙈,oon,,oonid,0,3,1,2021,13,41,17
+5214,0,masih dengan kesibukan sperti biasa..😅,Arief,fajar gemilang,,0,3,1,2021,14,12,37
+5215,0,,Arief,fajar gemilang,,0,3,1,2021,14,12,53
+5216,0,,oon,,oonid,0,3,1,2021,14,13,55
+5217,5215,bahkan tidur pun tetap mikir wkwkw,Adithya Firmansyah,Putra,Adithya_13,0,3,1,2021,14,58,14
+5218,0,,YOVI,IHSAN PANDAWA,YoviIhsanP,0,3,1,2021,15,6,30
+5219,0,kadang pas mau tidur sering nemu ide².. 🤣,Arief,fajar gemilang,,0,3,1,2021,15,10,14
+5224,0,ada yg bisa integrasikan payment gateway ke flutter web? mungkin ada yg minat.. silahkan pm y..,Arief,fajar gemilang,,0,3,1,2021,16,32,24
+5225,0,menarik! 😬\n\nturut menyemangati aja..\nlagi nggak kepegang kerjaan 🙈,oon,,oonid,0,3,1,2021,16,33,49
+5226,5225,lgi bnyak duit nih brrti..😂,Arief,fajar gemilang,,0,3,1,2021,16,38,57
+5227,0,aamiin 🙏🏼,oon,,oonid,0,3,1,2021,16,39,50
+5228,0,https://youtu.be/ino2C3oIaok\n\n#izinshare,Danang,Setio,Danang_setio,0,3,1,2021,22,42,55
+5229,0,,𝕺𝖒𝖐𝖆𝖗 𝕾𝖚𝖙𝖆𝖗,,,0,4,1,2021,0,51,23
+5235,0,,,,,0,4,1,2021,17,12,20
+5240,0,,Pasek,Okasana,,0,5,1,2021,0,53,44
+5241,0,@lokerflutterindonesia,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,5,1,2021,10,55,42
+5243,5183,ada nih yang bahas mid trans core api kak [Arief](tg://user?id=774050647) 😁,oon,,oonid,0,5,1,2021,16,10,1
+5244,5183,sepertiny tidak di sarankan.. 😅,Arief,fajar gemilang,,0,5,1,2021,16,16,21
+5245,5244,"ya kalo gitu sesuai yang disarankan aja, pakai backend 😆",oon,,oonid,0,5,1,2021,16,16,57
+5246,0,nah itu..,Arief,fajar gemilang,,0,5,1,2021,16,19,52
+5247,0,ini maksudnya bakal pakai aplikasi mobile?,oon,,oonid,0,5,1,2021,16,21,0
+5248,0,klo mobile udh ada sdkny kok,Arief,fajar gemilang,,0,5,1,2021,16,21,53
+5249,0,oh iya ding.. \ntrus kenapa dengan core api? 😬,oon,,oonid,0,5,1,2021,16,25,31
+5250,0,core api mnurut doc sih buat custom ui.. 🙄,Arief,fajar gemilang,,0,5,1,2021,16,29,20
+5251,5250,"oh.. \nlupa tadi belum ngasih context nya,\ntadi baca di sebelah, nanyain implementasi core api.\nemangnya ada apa (apa yang mau didiskusikan) terkait itu?",oon,,oonid,0,5,1,2021,16,32,0
+5252,0,nah..,Arief,fajar gemilang,,0,5,1,2021,16,39,56
+5253,0,knpa jdi bingung y ini bahas apa y sbnerny? 😭,Arief,fajar gemilang,,0,5,1,2021,16,40,29
+5254,0,bahas ini?\nini nanya apa?,oon,,oonid,0,5,1,2021,16,41,19
+5255,0,ada yg pernah pake midtrans core api?,oon,,oonid,0,5,1,2021,16,41,19
+5256,0,oalah iy itu mas..,Arief,fajar gemilang,,0,5,1,2021,16,42,12
+5257,0,di doc.ny untuk mobile harusny sih pke SDK,Arief,fajar gemilang,,0,5,1,2021,16,43,33
+5258,0,tpi ini d flutter web..,Arief,fajar gemilang,,0,5,1,2021,16,44,31
+5259,0,jdiny harus pakai core api spertiny..,Arief,fajar gemilang,,0,5,1,2021,16,44,50
+5260,0,gk bgitu ngerti jgk soalny cuma baca docny skilas..,Arief,fajar gemilang,,0,5,1,2021,16,45,4
+5261,0,"iya, harusnya bisa pakai core api di flutter web (maupun front end yang lain).",oon,,oonid,0,5,1,2021,16,45,37
+5262,0,iya harusny bisa mas.. kendalany cuma d bahasa.. gk ada dart di sna.. 😅,Arief,fajar gemilang,,0,5,1,2021,16,46,25
+5263,0,"php, java, js, go sma apa lgi lupa",Arief,fajar gemilang,,0,5,1,2021,16,46,44
+5264,0,lho(?)\nkan itu API based.\nmaksudnya ini mengacu ke sample code ya.,oon,,oonid,0,5,1,2021,16,46,47
+5265,0,"iya, ya dikonversi aja kalo gitu, dari bahasa lain yang familiar.",oon,,oonid,0,5,1,2021,16,47,3
+5266,0,"nah y itu mas.. karna itu tak tawarin k tmen².. karna ak sndiri bnyak ksibukan ""males ngoding"" 😅",Arief,fajar gemilang,,0,5,1,2021,16,48,28
+5267,0,yg udh pernah pke core api d dart gtu..,Arief,fajar gemilang,,0,5,1,2021,16,49,6
+5268,0,"oh maksudnya itu tadi mau memberikan penawaran ya..\n\nuntuk coding Dart (flutter web) pakai midtrans core API gitu ya...\n\nsip.. sip.. baru paham..\nya gpp, sekalian juga publikasi di sini ini.. heheh..",oon,,oonid,0,5,1,2021,16,49,30
+5269,0,naah..,Arief,fajar gemilang,,0,5,1,2021,16,49,49
+5270,0,maaf saya yg salah.. kurang detail jelasinny.. 😅,Arief,fajar gemilang,,0,5,1,2021,16,50,1
+5271,0,"aman.. aman.. 😁\nsemoga cepat dapat yang follow up.\n\natau coba kontak itu yang bikin sdk di Flutter, kan open source tuh, di GitHub nya ada kontak orangnya.. siapa tau dia ambil kerjaan..",oon,,oonid,0,5,1,2021,16,51,16
+5272,0,iya ini coba kirim email k mreka² yg bikin..,Arief,fajar gemilang,,0,5,1,2021,16,52,34
+5273,0,👍🏼,oon,,oonid,0,5,1,2021,16,56,27
+5274,0,,Yushari,,Yushari,0,5,1,2021,17,9,52
+5275,0,,Ramilla,,Umend,0,5,1,2021,20,17,4
+5280,0,,tdwiid,sulistyawan,tdwiid,0,6,1,2021,9,21,59
+5281,0,,Rathi,Sihombing,rathis9,0,6,1,2021,9,52,0
+5282,0,,mr,lawnt,,0,6,1,2021,10,19,48
+5291,0,,Roces,Ledde,,0,7,1,2021,3,20,23
+5296,0,,,,,0,7,1,2021,9,6,28
+5305,0,,Sukron Ch,,Sukron_Ch,0,7,1,2021,11,44,59
+5306,0,,Ary,,,0,7,1,2021,12,1,36
+5312,3303,Tolong dong link joinnya,Sanusi,Ariyanto,,0,8,1,2021,2,30,57
+5313,5312,@dart_web\n\nhttps://t.me/dart_web,oon,,oonid,0,8,1,2021,2,31,51
+5314,0,Terima kasih ya,Sanusi,Ariyanto,,0,8,1,2021,2,32,34
+5316,0,#ask permisi mas mohon maaf ganggu mau tanya kalo error begini kenapa ya awalnya gak ada error karna blom saya cek lagi fitur ini ada error kaya gitu udah tak googling tapi blum nemu siapa tau ada yang punya reverensi atau solusi,Muh Fahmi,,muhfahmi14,0,8,1,2021,3,37,17
+5317,0,,Jihan.,,,0,8,1,2021,4,23,50
+5318,0,,N 2AF2,,nawii28,0,8,1,2021,7,42,44
+5323,5316,kalo dilihat dari pesan error nya itu karena ada yang null.\ncoba tambahkan pengecekan dulu apakah satu variabel itu null atau nggak.,oon,,oonid,0,8,1,2021,8,4,22
+5324,0,,ariel,,,0,8,1,2021,17,1,6
+5333,0,,𝓘𝓢𝓝𝓐𝓘𝓝𝓘,,isnaini_python,0,9,1,2021,12,26,57
+5334,0,,Star's,control♦,Janara_3310,0,9,1,2021,22,56,41
+5335,0,"Seoamat pagi.\nIjin bertanya.\nMisal saya mempunyai 3  data validasi.\nPassword, api key dan token JWT.\nPertanyaannya, bagaimana alur yg baik dan benar menggunakan ke 3 data tersebut",Rachmanwidjaya,,rachmanwidjaya,0,10,1,2021,0,3,44
+5336,0,"alur pertama biasanya menggunakan password (dan mungkin juga gabungan dengan API KEY, bergantung sistemnya).\n\nlalu setelah itu akan dapat token JWT.\nberikut-berikutnya sudah tidak menggunakan password lagi, semua akses ke API menggunakan token JWT itu, kecuali nanti expired, harus di-refresh untuk dapat token baru lagi.",oon,,oonid,0,10,1,2021,0,8,14
+5337,5336,"Nah ini yg masih belum ngerti om.. kalo jwtnya expired, kita validasi lagi dari awal kah?",Rachmanwidjaya,,rachmanwidjaya,0,10,1,2021,2,36,54
+5338,0,,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,10,1,2021,4,7,7
+5339,5337,"seingatku, pas dikasih token JWT itu termasuk expired date nya.\ntrus ada end point lain memang untuk refresh token, dan berbekal token lama akan dikasih token baru.",oon,,oonid,0,10,1,2021,5,5,10
+5344,0,,Dodi,Efendi,DodiaEfendi,0,10,1,2021,13,35,15
+5345,0,,deni,siswoyo,Tuyul_duid,0,10,1,2021,16,19,50
+5346,0,,Yoenhee Reina,Yuka,DedeAlice,0,10,1,2021,21,48,47
+5351,0,,Edi,Alpariadi,,0,11,1,2021,11,9,7
+5352,0,,Mr,Cancer,spellcaster666,0,11,1,2021,11,38,44
+5354,0,https://youtu.be/Iez5WVgQeI8,Danang,Setio,Danang_setio,0,11,1,2021,14,31,9
+5355,0,https://youtu.be/TOjwsmNT8OU,Danang,Setio,Danang_setio,0,12,1,2021,6,25,6
+5356,0,,Markodeng,,AanUser,0,12,1,2021,6,43,16
+5365,0,"#oot\n\nSelamat pagi semua, izin membagikan Blog saya mengenai cara membuat AutoSlider di Flutter, terima kasih  semoga bermanfaat 😄\n\nhttps://kotakode.com/blogs/4505/Membuat-Auto-Slider-dengan-Carousel-Slider",Adithya Firmansyah,Putra,Adithya_13,0,12,1,2021,20,35,24
+5366,0,,Taufikul,Hadi,,0,13,1,2021,9,32,4
+5367,0,,Leja,Aprianza,lejaaprianza,0,13,1,2021,21,47,17
+5368,0,https://youtu.be/lmmyhqW4OxU\n #izinshare,Danang,Setio,Danang_setio,0,13,1,2021,23,28,25
+5369,0,,Takumi,Minamino,isagni,0,14,1,2021,0,42,10
+5370,0,,Arol,Rm,arolRm,0,14,1,2021,4,54,46
+5371,0,Izin gabung admin,Arol,Rm,arolRm,0,14,1,2021,4,54,58
+5372,0,✌🏼,oon,,oonid,0,14,1,2021,4,55,32
+5373,0,,Nur,Arif,Arif151,0,14,1,2021,5,0,6
+5374,0,,my name,,samsulbahri016,0,14,1,2021,8,17,30
+5375,0,,bil,,,0,14,1,2021,9,27,51
+5376,0,,Adit,Anggoro,,0,14,1,2021,9,52,3
+5378,0,,Fakboi,Alfamart,peyeeenggg,0,15,1,2021,3,50,15
+5379,0,"Selamat siang bpk/ibu.\nIzin share ya ada webinar bagus nih dari mba  Jasmine\nAkan membahas mengenai ""Transforming Manual Testing to Automation Testing Using Katalon Studio""\n\nLink pendaftaran :\ntampil.id/event",Aa,Cen,aacen_id,0,15,1,2021,8,37,50
+5382,0,"oh baru tau juga kalo Google Play Console itu dibuat pakai Angular Dart.\nselama ini taunya hanya terkait iklan.\n\n```The AngularDart packages power some of Google's most critical applications. It's built on Dart and is used by Google Ads, Google AdSense, Google Fiber, Google Play Console and many more projects.```\n\nhttps://github.com/angulardart/angular",oon,,oonid,0,15,1,2021,12,2,40
+5383,0,,Mahrus,Q,mq210,0,16,1,2021,1,42,49
+5384,0,,Agatha,,Agatha_28,0,16,1,2021,7,45,44
+5385,0,,Utsav,Patel,,0,16,1,2021,8,35,55
+5386,0,,,,,0,16,1,2021,10,11,18
+5387,0,,Lauhil,Mahfud,lauhilmahfud,0,18,1,2021,2,20,40
+5388,0,,Agus,Sugiono,agsdev,0,18,1,2021,3,31,26
+5389,0,,,,,0,18,1,2021,8,38,51
+5390,0,,Muhammad Alam,Nur Haris,Alam1611,0,19,1,2021,1,50,44
+5391,0,,Tio,Pardiansyah,tiopardiansyah,0,19,1,2021,7,44,56
+5392,0,selamat datang temen-temen..\nselamat diskusi seputar pemrograman Dart dan web.. 👋,oon,,oonid,0,19,1,2021,8,49,19
+5394,0,"buat yang mau mengembangkan web dengan react menggunakan Dart,\n`over_react` naik versi major jadi 4.0.0\n\nhttps://github.com/Workiva/over_react/releases/tag/4.0.0",oon,,oonid,0,19,1,2021,22,43,53
+5395,0,,Candra,Jaysen,tjandrajs,0,20,1,2021,4,46,45
+5396,0,,Juan,Patrick,juanpatrick01,0,20,1,2021,11,52,51
+5397,0,,Melisa,Cahyani,Melisa130,0,20,1,2021,14,14,54
+5398,0,,Ayyash,,PiratesIslandd,0,20,1,2021,21,23,20
+5399,0,,Hidjrah,Saputra,,0,21,1,2021,3,27,55
+5400,0,,~byna~,,Bayutk,0,21,1,2021,4,29,51
+5401,0,Selamat siang saya bayu (Account Executive) Suria TransDigital \n\nJika berminat hub saya disini\nSelamat beraktivitas\nSenang berbisnis dengan Anda\nTerima kasih,~byna~,,Bayutk,0,21,1,2021,4,48,59
+5402,0,,Kuesnady,,Kuesnady,0,21,1,2021,5,54,13
+5403,0,Tolong masuk ke grub 081808839541 terima kasih,~byna~,,Bayutk,0,21,1,2021,7,19,39
+5408,0,https://pub.dev/packages/shelf_router,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,21,1,2021,13,27,6
+5409,0,https://www.youtube.com/watch?v=v7FhaV9e3yY&ab_channel=CreativeBracket%E2%80%A2DartandFlutterTutorials,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,21,1,2021,13,27,23
+5410,0,"barusan ketemu package ini, kayanya keren, mirip kya expressjs, bisa dicoba kwn2",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,21,1,2021,13,28,49
+5411,0,👍🏼,oon,,oonid,0,21,1,2021,15,10,53
+5412,0,,Arunesh,,,0,21,1,2021,17,31,3
+5413,0,,Vinot104,Vinot10,,0,21,1,2021,17,42,14
+5414,0,Halo,Vinot104,Vinot10,,0,21,1,2021,17,42,24
+5415,0,👋,oon,,oonid,0,21,1,2021,18,12,15
+5416,5059,nah ada juga yang bikin video tentang perbandingan canvaskit dan HTML renderer untuk flutter web.\nyang bikin video ini GDE\n\nhttps://youtu.be/yLNczKeqXyo,oon,,oonid,0,21,1,2021,22,26,12
+5417,0,,Nur,Anisah,anisa_sz,0,22,1,2021,9,0,16
+5418,0,,Sabda,Jauhara,Sabdajauhara,0,22,1,2021,12,29,3
+5419,0,,Thari,Annisa,thariannisa,0,22,1,2021,14,22,16
+5420,0,,Joungiskeng,@meto,Joungiskeng,62811107569,22,1,2021,19,47,52
+5421,0,,anfrb°,,anfrb,0,23,1,2021,2,21,27
+5422,5421,selamat bergabung kak @anfrb ✌️,oon,,oonid,0,23,1,2021,2,22,17
+5423,0,Maksih om @oonid 🙏🏻,anfrb°,,anfrb,0,23,1,2021,2,23,18
+5424,0,"Izin mau bertanya, saya belum pernah coba flutter web, apakah di flutter web bisa seperti di angular saat pindah halaman tidak ada proses loading seperti web pada umumnya ? 🙏🏻",anfrb°,,anfrb,0,23,1,2021,2,35,51
+5425,0,dicoba bikin request paket http gimana? 😬,oon,,oonid,0,23,1,2021,2,55,2
+5426,0,"Assalamualaimkum.\n\nHalo teman - teman semua, skill sih boleh selangit, tapi apa daya kalau skill tersebut\n'dijualnya' sangat sulit. Apakah teman - teman pernah mengalami masalah yang demikian...?,\nsama admin juga..\n\nDan tentunya, kali ini di ngaji teknologi webinar series bersama pak edwin, senior consultant\ndari Redhat Global Professional Service Asia Pasific. Kita akan mengupas metodologi dalam\nmemasarkan skill kita dengan benar.., insyaallah daging semua isinya.\n\n\n* Ada giveaway untuk 2 peserta yang mengutarakan pertanyaan terbaik saat webinar senilai 50K\n* cantumkan email ketika bertanya via slido\n* link zoom akan di bagikan via email menjelang webinar akan dimulai\n\n* [RALAT] Webinar akan di mulai jam 18.30\n\nLink Daftar Disini : http://bit.ly/webinarhs18\nKalau Mau Tanya disini : https://app.sli.do/event/nxkzwqld\n\nKalau mau tanya - tanya disini : https://kirimwa.id/tanya-hackahon-santri\n\n#Gratis100% #HackathonSantri #SantriKokNgoding #SantriNjoso\n#IndonesiaBelajar #NgajiTeknologi #KawanKoding #RantauDev\n#Redhat #WajibIkut #JVMIndonesia #MalmingProduktif",Ilzam,Mulkhaq,Ilz4m,0,23,1,2021,4,56,30
+5427,0,,Ilzam,Mulkhaq,Ilz4m,0,23,1,2021,4,56,38
+5428,0,,Ilzam,Mulkhaq,Ilz4m,0,23,1,2021,4,56,40
+5429,0,"Izin mau bertanya, sebelumnya mohon maaf saya gaptek dalam IT. yang aku mau nanyain kalau akun palsu bisa gk dilacak?",Ayyash,,PiratesIslandd,0,23,1,2021,9,29,24
+5430,0,,Kistiyanto,,Mikazuki_81,0,23,1,2021,11,55,51
+5431,0,,,,,0,23,1,2021,15,37,7
+5432,0,,fiensofaiz,,fiensofaiz,0,23,1,2021,15,39,42
+5433,0,,Ziee,√π,Myhinziiee,0,23,1,2021,16,3,25
+5434,0,,Alif,Sopal,,0,24,1,2021,4,20,39
+5435,0,Mohon bertanya gan.\nAda gak contoh pembuatan apk dengan konsep inputan.enkapulasi dan konstruktor🙏,Alif,Sopal,,0,24,1,2021,4,21,30
+5436,0,apk itu aplikasi atau apk Android?,oon,,oonid,0,24,1,2021,4,27,54
+5437,0,,Alif,Sopal,,0,24,1,2021,4,40,38
+5438,0,,Anto,Prasetyo,,0,24,1,2021,4,40,51
+5439,0,ini kenapa error,Anto,Prasetyo,,0,24,1,2021,4,40,51
+5440,0,Itu bang,Alif,Sopal,,0,24,1,2021,4,40,55
+5441,0,apk itu aplikasi atau apk Android?,Alif,Sopal,,0,24,1,2021,4,40,55
+5442,5437,oh maksudnya ini tugas pemrograman berorientasi objek pakai Dart gitu ya..\n\nkalo input data dan constructor sih harusnya mudah dan banyak contohnya..\n\nberikutnya belajar enkapsulasi,oon,,oonid,0,24,1,2021,4,43,24
+5443,5438,"salah grup kak, coba cari info di grup php atau mysql",oon,,oonid,0,24,1,2021,4,44,0
+5444,0,Iya kak tpi saya masih belum paham,Alif,Sopal,,0,24,1,2021,4,44,49
+5445,0,oh maksudnya ini tugas pemrograman berorientasi objek pakai Dart gitu ya..\n\nkalo input data dan constructor sih harusnya mudah dan banyak contohnya..\n\nberikutnya belajar enkapsulasi,Alif,Sopal,,0,24,1,2021,4,44,49
+5446,0,sudah belajar pemrograman Dart dengan pemrograman berorientasi objek?,oon,,oonid,0,24,1,2021,4,46,56
+5447,0,Iya kak,Alif,Sopal,,0,24,1,2021,4,47,9
+5448,0,"ya kalo sudah belajar, berarti sudah bisa bikin kode Dart 😬\n\ntrus kesulitannya apa?",oon,,oonid,0,24,1,2021,4,48,4
+5449,0,Sudah belajar tapi masih belum paham.karena sewaktu ada mapel itu daring saja.dan aku hanya download materinya ga pernah di buka😐,Alif,Sopal,,0,24,1,2021,4,49,4
+5450,0,Jadi ya sama saja belum belajar,Alif,Sopal,,0,24,1,2021,4,49,9
+5451,5449,🙈,oon,,oonid,0,24,1,2021,4,49,29
+5452,0,atau coba-coba dulu ikut video di YouTube yang bahas Dart?,oon,,oonid,0,24,1,2021,4,49,46
+5453,5449,https://youtube.com/playlist?list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo\n\ncoba belajar dulu,Dimas,Imameza,dimaseza,0,24,1,2021,4,49,55
+5454,0,kalo referensi favorit aku dalam bentuk tertulis itu Dart tur ini\n\nhttps://dart.dev/guides/language/language-tour,oon,,oonid,0,24,1,2021,4,50,30
+5455,0,Wkw😂,Alif,Sopal,,0,24,1,2021,4,52,3
+5456,0,,Indra,Sja,IndraSja19,0,24,1,2021,5,3,28
+5457,0,,K,N,,0,24,1,2021,5,22,17
+5458,0,,Nggrid YRP,,nggrid,0,24,1,2021,5,24,18
+5459,0,,Dhany Yudi,Prasetyo,dhanyyudi,0,24,1,2021,5,53,48
+5460,0,,dani,,dhanizael,0,24,1,2021,11,36,45
+5461,0,,-N~,,NR8887,0,24,1,2021,19,0,44
+5463,0,,Fitri,Nsa,Fitriikh,0,25,1,2021,4,38,30
+5464,0,,Lord,Ozai,,0,25,1,2021,15,56,29
+5465,0,Ada groub youtuber,Mus,Gust,,0,25,1,2021,16,13,29
+5466,0,hm.. grup telegram youtuber?\nbanyak search aja.\ntapi nggak berhubungan pembahasannya sama grup ini.. 🙊,oon,,oonid,0,25,1,2021,16,14,33
+5467,0,Bisa di share mas,Mus,Gust,,0,25,1,2021,16,28,59
+5468,0,"di telegram,\ndi halaman utamanya,\ndi bagian atas ada input search.\nnah ketik aja di situ.",oon,,oonid,0,25,1,2021,16,29,42
+5471,0,,Imbar,Budiman,imbarbudiman,0,25,1,2021,23,16,17
+5472,0,,Reza,,Uldhi,0,26,1,2021,4,50,6
+5473,0,,rakha,firmansyah,RakhaZaN,6289509304941,26,1,2021,17,8,36
+5474,0,,𝗔𝗬𝗔𝗛 𝗩𝗜𝗥𝗔,𝗠𝗘𝗠𝗣𝗘𝗦𝗢𝗡𝗔𝗛,AYAH_VIRA_TAMVAN,0,26,1,2021,17,40,21
+5475,0,,nufa˟,,overpain,0,27,1,2021,5,15,29
+5476,0,,Kiky,,Offweh,0,27,1,2021,13,34,9
+5477,0,,Aditya,,TKJPROO12,0,27,1,2021,14,17,12
+5478,0,selamat bergabung temen-temen 👋\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,27,1,2021,14,17,51
+5482,0,,Rizky,,rizky_ryan,0,27,1,2021,16,28,55
+5483,0,,Tomson P.,Manalu,tomson_manalu,0,28,1,2021,10,45,16
+5484,0,,R,Yilmaz Tesla,TeslaRizqyYilmaz,0,28,1,2021,14,57,17
+5485,0,,Ari Habib,Madia M,AriHabibMadiaM,0,29,1,2021,10,19,6
+5486,0,,Kobar,Septyanus,kobarseptyanus,0,29,1,2021,10,21,54
+5487,0,,Harjuna,Avenge,Harjuna_avenge,6285260867251,29,1,2021,12,53,55
+5488,0,,Sieur,Mart,,0,29,1,2021,15,50,17
+5489,0,,,,,0,30,1,2021,0,50,21
+5490,0,GDE Flutter & Dart cerita soal flutter web\n\nhttps://youtu.be/qYYgxtCai6o,oon,,oonid,0,31,1,2021,4,46,16
+5492,0,,,,,0,31,1,2021,15,59,27
+5493,0,,Rz.txt,,mrdrt,0,31,1,2021,18,14,20
+5499,0,,Twoninedes,Gomgom,,0,1,2,2021,14,33,51
+5504,0,,,,,0,1,2,2021,17,15,49
+5506,0,,.,,,0,2,2,2021,12,27,47
+5507,0,,,,,0,2,2,2021,12,36,2
+5508,0,,Vicente,Vargas,,0,2,2,2021,12,47,13
+5509,0,,Vanex,Web,vanex88,0,2,2,2021,13,23,40
+5511,0,,,,,0,3,2,2021,8,30,4
+5512,0,,Kebun,Sayur,petanisayur,0,3,2,2021,10,26,30
+5513,0,,Kepo,,bandung_gaming,0,3,2,2021,10,33,50
+5514,0,,Christin,Meiliana,ChristineMei,0,3,2,2021,12,24,3
+5515,0,,Dwiki Hermawan,,Dwikihermawan,0,3,2,2021,13,11,7
+5519,0,,Diksi,deep,diksideep,0,3,2,2021,17,28,13
+5520,0,,Buku : Mahasiswa Rantau,,Rahmat_belio,0,3,2,2021,22,42,53
+5521,0,,Vagathan Viandi,Giroth,Vagathan,0,4,2,2021,2,49,0
+5522,0,,Inka,No,inkano,0,5,2,2021,2,26,22
+5526,0,,alin,,,0,5,2,2021,9,36,8
+5527,0,,Ryuu,,Nerosaku,0,5,2,2021,17,35,5
+5528,0,,Mualim,BLD AGRO INT/TNPT,MUalim98,0,6,2,2021,13,25,13
+5529,0,,Pemberantas fikri fikri masal,,,0,6,2,2021,16,10,54
+5530,0,,Reza,,Rezka17,0,7,2,2021,2,5,21
+5531,0,,Ramdanil,Yayasan Jaladri Nusantrara,danilmubarok3,0,7,2,2021,7,58,28
+5532,0,,n,,,0,7,2,2021,10,9,48
+5534,0,,,,,0,8,2,2021,1,7,22
+5535,0,,jerr,,,0,8,2,2021,6,19,30
+5540,0,mari menunggu updates flutter web di acara terdekat Flutter Engage 3 maret.\n\nhttps://events.flutter.dev/,oon,,oonid,0,8,2,2021,16,14,4
+5541,0,,Revathi,Anandan,,0,9,2,2021,13,17,13
+5542,0,,Ahmad,Faris,afris9595,6285591917814,9,2,2021,16,44,29
+5543,0,,Amri,Edryan Syahraini,,0,9,2,2021,19,28,53
+5544,0,,Anggiat,,AnggiatUye,0,10,2,2021,8,30,24
+5546,0,,Alvaro Satifa,,fuxcking,0,10,2,2021,11,21,58
+5547,0,,Billy,,BillyFrcs,0,10,2,2021,13,42,56
+5548,0,,ARDIANSYAH,,Ardiansyah211o,0,11,2,2021,0,52,48
+5549,0,,,,,0,11,2,2021,2,21,59
+5550,0,,Arief,Wicaksono,,0,11,2,2021,4,4,15
+5551,0,haloo 👋\nselamat bergabung temen-temen..,oon,,oonid,0,11,2,2021,4,22,59
+5552,0,"video menarik nih,\nbikin tampilan yang nggak cuma bagus secara desain,\ntugas responsif untuk web, mobile dan tablet.\npakai flutter.\n\nhttps://youtu.be/0mp-Ok00WZE",oon,,oonid,0,11,2,2021,4,24,39
+5553,5552,"Wah menarik nih,  thankyou infonya om",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,11,2,2021,4,25,16
+5554,0,"betul, menarik, ini lagi belajar ngikutin dari videonya 😁",oon,,oonid,0,11,2,2021,4,26,9
+5555,0,,Deva,,Deva1107,0,11,2,2021,14,38,59
+5556,0,,Yeheskel,Febri Anto,kiel17,0,11,2,2021,16,18,38
+5557,0,Selamat malam salam kenal buat kakak² semua🙏,Yeheskel,Febri Anto,kiel17,0,11,2,2021,16,19,15
+5558,5557,👋🏼 selamat bergabung dan berdiskusi,oon,,oonid,0,11,2,2021,16,19,54
+5559,5558,Makasih kk 🙏,Yeheskel,Febri Anto,kiel17,0,11,2,2021,16,26,10
+5560,0,,febby,Nasyhita,,0,11,2,2021,19,43,31
+5561,0,,Miko,,Bagusmiko,0,12,2,2021,22,18,7
+5562,0,,W A N N N,,NJS_ZX1,0,12,2,2021,23,26,15
+5563,0,,Rosi,Rohma,,0,13,2,2021,14,10,23
+5564,0,,gafar,risky,PyRATsvg,0,13,2,2021,17,43,53
+5565,0,makasih udah boleh gabung,gafar,risky,PyRATsvg,0,13,2,2021,17,47,18
+5566,0,"haloo.. selamat bergabung, diskusi seputar pemrograman Dart dan web ✌️",oon,,oonid,0,13,2,2021,17,54,20
+5567,0,"siap mas., sebenarnya kebutuhan saya lebih ke dart mobile programing sih mas. untuk backend development",gafar,risky,PyRATsvg,0,13,2,2021,17,55,16
+5568,0,nyari kesana kesini belum nemu channel/ web yg pas dihati,gafar,risky,PyRATsvg,0,13,2,2021,17,55,49
+5569,0,ada rekomendasi channel/ Course ga mas  .. untuk level pemula.,gafar,risky,PyRATsvg,0,13,2,2021,17,56,16
+5570,0,"untuk backend development?\n\nframework untuk backend pakai Dart sendiri cuma ada sedikit, bahkan bbrp di antaranya sudah nggak update.\n\naku nggak pernah liat ada kursus terkait backend pakai Dart, karena kebanyakan kayak pembahasan cuma 1 video aja (dibahas kulitnya aja).",oon,,oonid,0,13,2,2021,18,4,20
+5571,0,"contohnya kayak framework angel-dart ini,\nterakhir paket update nya 2020.\n\nhttps://pub.dev/publishers/angel-dart.dev/packages?sort=updated",oon,,oonid,0,13,2,2021,18,13,41
+5572,0,atau framework aqueduct\njuga terakhir paket update nya 2020.\n\nhttps://pub.dev/packages/aqueduct,oon,,oonid,0,13,2,2021,18,16,14
+5573,0,"ada yang cukup baru sih, tapi aku belum pernah coba, mungkin buat yang sudah terbiasa pakai getx lebih paham.\n\nhttps://pub.dev/packages/get_server",oon,,oonid,0,13,2,2021,18,20,57
+5574,0,"salah satu yang menarik itu bisa bikin single binary di server pakai dart2native, jadi nanti hasil backend nya kayak golang, satu executable aja.\n\ncontoh artikelnya kayak gini:\nhttps://itnext.io/experiments-with-dart-microservices-fa117aa408c7",oon,,oonid,0,13,2,2021,18,24,21
+5575,0,"wah, gitu ya.. thanks infonya mas",gafar,risky,PyRATsvg,0,13,2,2021,19,24,14
+5576,0,👍,oon,,oonid,0,13,2,2021,20,25,32
+5577,0,,,,,0,14,2,2021,14,15,24
+5578,0,,Rifki,Ilmi,ilmiMR,0,15,2,2021,4,48,8
+5579,0,,YANNY,,Yanny8,0,15,2,2021,11,14,7
+5580,0,,,,,0,15,2,2021,12,5,21
+5582,0,,Ridwan,Arifin,,0,15,2,2021,13,44,32
+5583,0,,.....,,Gondronggaknyopettt,0,15,2,2021,14,7,28
+5584,0,,jajang,Mahrul,mjajang21,0,15,2,2021,14,14,46
+5586,0,,Ahmad Fahri,,,0,15,2,2021,18,32,50
+5587,0,,dimasrakad,,dimasrakad,0,16,2,2021,2,16,38
+5588,0,,,,,0,16,2,2021,2,22,33
+5589,0,,,,,0,16,2,2021,3,40,23
+5590,0,selamat bergabung temen-temen.. ✌️\ndiskusi seputar pemrograman Dart dan web..,oon,,oonid,0,16,2,2021,3,43,22
+5591,0,okh,,,,0,16,2,2021,3,43,50
+5592,0,😀,,,,0,16,2,2021,3,45,13
+5593,0,"Hallo ka, ini pembelajaran programer untuk hacker atau pelajar?",,,,0,16,2,2021,3,50,52
+5594,0,"lho, sama aja kan 😁\nhacker juga harus belajar(?)\n\nsecara umum aja, hacker kalo dalam bahasa Indonesia bisa diartikan sebagai orang yang rajin ngulik/ngoprek..\n\nbukan kayak @heker yang gitu 🙊🙊",oon,,oonid,0,16,2,2021,4,0,38
+5595,0,wkwk iyya sih ka,,,,0,16,2,2021,4,2,23
+5596,0,Tergantung hacker nya hacker baik atau jahat,,,,0,16,2,2021,4,2,57
+5597,0,,Tommy,M,learnmoreee,0,16,2,2021,4,34,58
+5598,0,,ibar,Kebo,,0,16,2,2021,5,9,13
+5599,0,,Fitri,,,0,16,2,2021,9,21,11
+5600,0,,M,Julius,mjulius_s,0,16,2,2021,9,30,19
+5601,0,,Angga,,bganggaaa,0,16,2,2021,10,27,45
+5602,0,,Sri Devi Anjasmara,,Sridep1219,0,16,2,2021,10,28,14
+5603,0,,Putra,14,Poetput,0,16,2,2021,13,57,12
+5604,0,,RAVYSHOLIHIN,,RavySholihin_01,0,16,2,2021,19,24,34
+5605,0,,Ahmed,,,0,16,2,2021,21,11,26
+5606,0,,Bgs,Spt,,0,17,2,2021,6,6,28
+5607,0,,MkamalS,,Yumyboy,0,17,2,2021,12,13,29
+5608,0,,Kookie,,,0,17,2,2021,15,4,4
+5609,0,,Abd. Rasyid,,iamrasyiid,0,17,2,2021,18,6,36
+5610,0,,M.,Sanusi,Muhammad_Sanusi,0,18,2,2021,1,41,46
+5611,0,,Customer Support,Calista Center,CalistaCenter,0,18,2,2021,2,23,19
+5613,0,izin min,Hidayat,Code,hidayat_code,0,18,2,2021,2,28,4
+5614,0,,Ramadhan,Cahyo,,0,18,2,2021,3,28,28
+5615,0,,pajarpurnamasidik,,,0,18,2,2021,6,41,34
+5617,0,,Hilmi Yahya,,,0,18,2,2021,20,20,17
+5618,0,,Esc,,msatryas,0,19,2,2021,7,16,2
+5619,0,,_ignore,,Igggnoore,0,19,2,2021,7,21,31
+5620,0,udah ada jadwalnya nih flutter engage.\n\nada pembahasan platform web :)\n\nhttps://events.flutter.dev/engage/schedule,oon,,oonid,0,19,2,2021,12,59,37
+5621,0,Kuy join ini gratis loh \nDapet e-sertifikat juga dong,Fairujah,,,0,19,2,2021,13,12,25
+5622,0,https://forms.gle/yNC42pKuSJsvzrfeA\n\nIni link pendaftaran nya,Fairujah,,,0,19,2,2021,13,12,25
+5623,0,,Jul,Arfa,,0,19,2,2021,15,44,52
+5624,0,,Rahman Teja,Wicaksono,rahmanteja,0,20,2,2021,5,15,26
+5625,0,"bang mau tanyak, bagaimana cara ukuran file gambar yang kita upload melalui image picker bisa di kecilkan sebelum tersimpan",Andri Irwan Zahri,,andrirzah,0,20,2,2021,20,36,21
+5626,0,,Shine,,,0,21,2,2021,0,35,15
+5627,0,,RK-01,,zzzzzzawma,0,21,2,2021,15,49,2
+5628,0,"selamat malam, \nizin bertanya , untuk oop dart software yg di butuhkan apa aja ya?",RK-01,,zzzzzzawma,0,21,2,2021,15,50,53
+5629,5628,"halo..\nOOP ini yang dimaksud object oriented programming?\nkalo iya, itu hanya paradigma (pola pikir/cara memrogram).\ndari sisi dart tinggal install dart sdk bawaan saja sudah bisa.",oon,,oonid,0,21,2,2021,16,2,5
+5630,0,"iyaa mas, maksudnya sdk dart nya?",RK-01,,zzzzzzawma,0,21,2,2021,16,3,8
+5631,0,"betul, download aja di dart.dev\n\natau kalo mau coba-coba memrogram di awal, bisa pakai browser aja pakai dartpad.dev",oon,,oonid,0,21,2,2021,16,3,33
+5632,0,"siap, terimakasih mas",RK-01,,zzzzzzawma,0,21,2,2021,16,7,43
+5633,0,,Budiono,,,0,21,2,2021,19,21,45
+5634,0,,Said,Juliswa,Hiimiwa,0,21,2,2021,20,1,31
+5635,0,"Mau tanya.\n\nAntara Flutter dan Dart itu bisa dibandingkan tidak, seperti HTML-CSS (Flutter) dan Javascript(Dart).\n\nKarena Flutter kumpulan widget(UI) sedangkan UI agar interaktif/dinamis ditanamkan Dart?",Raden,Pratama,radenRanggaPratama,0,22,2,2021,1,32,49
+5636,5635,"kalo dari sisi Dart dengan JS sebetulnya sudah sesuai.\n\njadi di beberapa framework, misalnya AngularDart,\naplikasinya ditulis pakai Dart.\nkemudian saat dikompilasi dia akan diubah jadi JS.\n\nnah kalo flutter web, itu beda framework (toolkit) lagi, dari widget flutter diubah jadi ""semuanya"" (JS, CSS, HTML). jadi berbeda dibanding menyusun HTML dan CSS sendiri.",oon,,oonid,0,22,2,2021,1,36,45
+5637,5636,terima kasih penjelasannya...,Raden,Pratama,radenRanggaPratama,0,22,2,2021,1,40,7
+5638,0,"misalnya ini,\nflutter akan render pakai dua mekanisme yang berbeda:\nHTML dan CanvasKit.\n\nkalo render HTML jadinya HTML, CSS, Canvas, SVG.\nkalo render CanvasKit jadinya WebAssembly dan WebGL.\n\nhttps://flutter.dev/docs/development/tools/web-renderers",oon,,oonid,0,22,2,2021,1,46,1
+5639,0,,Abdul,Kodir,,0,22,2,2021,3,38,51
+5640,0,,البيهقي,,ingsun_sejati,0,22,2,2021,6,50,33
+5641,0,,Abu,Athalla (lala),,0,22,2,2021,8,49,29
+5642,0,,Rexa,Zani,,0,22,2,2021,9,50,2
+5647,0,Mau tanya \nSaya baru instal Ubuntu versi 18.04.4 mau tanya bagaimana cara instal worldlist ya untuk crack tolong kasih saran doang maaf saya pemula,Abdul,Kodir,,0,22,2,2021,14,52,14
+5648,5647,halo kak.. di sini kita bahas pemrograman web terkait dart. mungkin bisa cari tempat diskusi lain yang sesuai..,oon,,oonid,0,22,2,2021,14,53,25
+5649,5635,"Dart itu bahasa,\nFlutter itu sdkp",Opung,Dev,OpungDev,0,22,2,2021,14,55,16
+5650,0,Flutter itu sdk,Opung,Dev,OpungDev,0,22,2,2021,14,55,16
+5651,0,,Mii,,fahmi_rinaldi,0,23,2,2021,2,36,3
+5652,0,,Ayu,Nur,Ayyayu,0,23,2,2021,3,29,11
+5653,0,,Danny,,dannycreations,0,23,2,2021,12,4,16
+5654,0,,Ahmad,Alih,Adasajakmu,0,23,2,2021,18,33,49
+5655,0,,I,,Iqbalfajarafrian,0,23,2,2021,18,40,49
+5656,0,,Ahmed,Emad,,201100710339,24,2,2021,0,29,21
+5657,0,,Adi,Nugraha Putra,Adinugrahaputra,0,24,2,2021,1,23,3
+5658,0,,,,,0,24,2,2021,2,45,27
+5659,0,,Alfian,[RS. PIM : 1111005],alfian_org,0,24,2,2021,7,19,39
+5660,0,,Aj,Developer,ceoabbuilder,0,24,2,2021,12,20,31
+5661,0,Hello,Aj,Developer,ceoabbuilder,0,24,2,2021,12,26,3
+5662,0,Any one build Android to ios application for me 😢 coz i don't have mac laptop,Aj,Developer,ceoabbuilder,0,24,2,2021,12,27,11
+5663,0,,wiz,,Wizaraa,0,24,2,2021,13,27,28
+5664,0,,®,,,0,24,2,2021,14,37,5
+5665,0,"Asslamualikum kak, lagi coba2 angular dart, itu kenapa error ? Help #ask",anfrb°,,anfrb,0,24,2,2021,14,49,7
+5666,5665,typo webdev(?),oon,,oonid,0,24,2,2021,18,6,30
+5667,5666,Ndk tetap aja,anfrb°,,anfrb,0,24,2,2021,18,7,15
+5668,5667,"webdev itu nama command,\njadi harus dipastikan terpasang di path.\ntrus sudah diset global.\nini ada bbrp bacaan untuk mengecek.\nhttps://dart.dev/tools/webdev",oon,,oonid,0,24,2,2021,18,10,29
+5669,5668,Sydah kak tp tetap jg,anfrb°,,anfrb,0,24,2,2021,18,11,49
+5670,0,kalo run command ini keluarnya apa?\n\n```\ndart pub global list\n```\n\ninfonya dari sini\nhttps://dart.dev/tools/pub/cmd/pub-global,oon,,oonid,0,24,2,2021,18,15,7
+5671,5670,Maaf kak ketiduran semalam. \n\nMuncul -> webdev 2.7.1,anfrb°,,anfrb,0,25,2,2021,1,28,50
+5672,0,"#ask\n\nTerus ada pertanyaan saya lagi kan kalo di angular itu ada cli untuk generate mislnya componen home dan setelah di generate sudah langsung jadi tuh componennya .html, css, controllernya dan spec tesnya. \n\nKalo di AngularDart gimana yah caranya ? 🙏🏻",anfrb°,,anfrb,0,25,2,2021,1,41,51
+5673,5672,belum pernah tau yang ini 😬\nbiasa menuliskan manual bikinnya..,oon,,oonid,0,25,2,2021,1,46,59
+5674,0,🙏🏻 siap kak,anfrb°,,anfrb,0,25,2,2021,1,49,9
+5675,5671,Ini gimna yah ?,anfrb°,,anfrb,0,25,2,2021,1,49,19
+5676,5671,"nah berikutnya dicari lokasi file webdev nya, untuk pastikan ada di path.",oon,,oonid,0,25,2,2021,1,50,17
+5677,0,Harus add di PATH juga yah kak path filenya ?,anfrb°,,anfrb,0,25,2,2021,1,52,27
+5678,0,"kalo nggak ditambahkan direktorinya di PATH harus dipanggil full, nggak bisa hanya webdev gitu aja.\n\nbbrp contoh path nya ada di\nhttps://github.com/flutter/flutter/issues/32279\n\nmisalnya di .pub-cache/bin",oon,,oonid,0,25,2,2021,1,55,17
+5679,0,Mantap kak sudah berhasil.  Saya sudah tambahkan juga di PATH tp belum berhasil. Setelah saya restar komputernya baru work. 😍,anfrb°,,anfrb,0,25,2,2021,2,14,53
+5680,0,Terimakasih kak @oonid,anfrb°,,anfrb,0,25,2,2021,2,15,57
+5681,5679,😬 wah perlu restart ya..\n\nsiipp.. selamat eksplorasi lagi AngularDart nya..,oon,,oonid,0,25,2,2021,2,16,30
+5682,0,Iya kak habis restart baru bisa. 😅,anfrb°,,anfrb,0,25,2,2021,2,17,41
+5683,0,"Ternyata web google playstore dan  google play console pake AngularDart yah, apa cum saya yang baru sadar ? 🤣",anfrb°,,anfrb,0,25,2,2021,2,18,57
+5684,0,"kalo google play console itu aku juga baru tau..\nbaca di repo AngularDart..\nkarena kalo bukan mereka yang info, agak susah mendeteksi apakah suatu situs dibangun pakai AngularDart atau nggak..\nkarena udah dikompilasi jadi JS 😬",oon,,oonid,0,25,2,2021,2,21,5
+5685,0,Oh hehe. sma dong,anfrb°,,anfrb,0,25,2,2021,2,25,17
+5686,0,Jd dart jg di compilasi jd js yah kak ?,anfrb°,,anfrb,0,25,2,2021,2,25,36
+5687,0,,anfrb°,,anfrb,0,25,2,2021,2,26,31
+5688,0,saya pake webapplyzer,anfrb°,,anfrb,0,25,2,2021,2,26,40
+5689,0,bisa ketahuna framewornya. heheh,anfrb°,,anfrb,0,25,2,2021,2,26,49
+5690,0,,anfrb°,,anfrb,0,25,2,2021,2,27,27
+5691,5690,👍 lengkap juga deteksinya wappalizer,oon,,oonid,0,25,2,2021,2,28,48
+5692,5686,"ya itu tugasnya webdev tadi.. 😬\nnanti dia akan pilih mode debug pakai Dart devc, atau mode production pakai dart2js.",oon,,oonid,0,25,2,2021,2,29,46
+5693,0,"kalo dari flutter web,\npilihan lainnya jadi webasembly",oon,,oonid,0,25,2,2021,2,30,12
+5694,0,Owh i see.,anfrb°,,anfrb,0,25,2,2021,2,30,14
+5695,0,Baru ngeh,anfrb°,,anfrb,0,25,2,2021,2,30,29
+5696,0,🤣,anfrb°,,anfrb,0,25,2,2021,2,30,32
+5697,5693,Jadi flutter itu framework nya yah kak ?,anfrb°,,anfrb,0,25,2,2021,2,35,10
+5698,0,Apa flutter web dan angulardart itu se level ap giman ?,anfrb°,,anfrb,0,25,2,2021,2,35,33
+5699,5697,"iya, kurang lebih gitu, toolkit.\nberbasis widget.\ntrus itu bakal dirender sesuai target misalnya android, ios, desktop, atau web.\n\nkalo AngularDart kan berbasis web components, jadi ya standar web aja.",oon,,oonid,0,25,2,2021,2,38,8
+5700,5638,ini yang render untuk web nya flutter,oon,,oonid,0,25,2,2021,2,39,35
+5701,0,Siap paham kak.,anfrb°,,anfrb,0,25,2,2021,2,40,29
+5702,0,"Di flutter web gak pake html dan css tp widget yg di complile jd html css dan js sedangkan di dart web harus pake html, css, etc sehingga kita bisa menggunakan angular sbg frameworknya.",anfrb°,,anfrb,0,25,2,2021,2,44,23
+5703,0,Pertanyaan saya selanjutnya adalah apakah setelah di compile entah dari flutter web atau dart web aplikasi websitenya akn jaln di javascript engine ?,anfrb°,,anfrb,0,25,2,2021,2,47,15
+5704,5703,"kalo dikompilasi jadi JS ya tentu jalan 😬\nkarena kode keluarannya JS, udah nggak ada Dart nya sama sekali.",oon,,oonid,0,25,2,2021,2,55,50
+5705,0,Siap kak memastikan saja .  Terimakasih ilmunya masih pagi2 😅,anfrb°,,anfrb,0,25,2,2021,2,56,26
+5706,0,Smg temn2 yg belum paham jadi lebih paham. 🙏🏻,anfrb°,,anfrb,0,25,2,2021,2,56,44
+5708,0,👍,oon,,oonid,0,25,2,2021,2,57,55
+5709,0,Teman2 semua ada yang fokus gak di AngularDart ?,anfrb°,,anfrb,0,25,2,2021,2,58,15
+5710,0,"jarang banget nyari developer AngularDart di Indonesia 😬\n\nkalo yang belajar flutter, pada nunggu flutter web rilis (skr masih beta), karena belum tau deh nanti waktu rilis, apa bisa integrasi dengan web components.",oon,,oonid,0,25,2,2021,3,6,8
+5711,0,Owh gitu kak.,anfrb°,,anfrb,0,25,2,2021,3,9,21
+5713,0,,Aldo,Agustio,aldoagustio,0,26,2,2021,2,42,45
+5714,0,,ㅤ,,,0,26,2,2021,6,58,22
+5717,0,,,,,0,26,2,2021,12,20,48
+5719,0,,Ipayyy,,,0,26,2,2021,18,42,5
+5723,0,,ㅤ,,hafizkurniaaji,0,26,2,2021,20,46,2
+5725,0,,M Supian,Noor,MuhammadSupianNoor,0,27,2,2021,11,32,56
+5726,0,,Erwin,Sj,,0,27,2,2021,11,58,57
+5727,0,#izinshare\nhttps://youtu.be/TCIpfyaT17c,Danang,Setio,Danang_setio,0,27,2,2021,23,16,24
+5728,0,,Rafli Ramadhan,,,0,28,2,2021,6,19,41
+5729,0,,Abizar,Alvaro,Abizaralvaro01,0,28,2,2021,7,32,55
+5730,0,,Day,18,Loading_1899,0,28,2,2021,10,38,27
+5731,0,,Dwy,,Iya2122,0,28,2,2021,10,57,46
+5732,0,,Rully,Wahyudithia,,0,28,2,2021,15,21,32
+5733,0,,SATANIC,STORE,SATANIC_STORE,0,28,2,2021,17,47,29
+5734,0,,Fmooney,,fmooney,0,28,2,2021,20,48,26
+5738,0,,Yourbabyboo,,Onichannn7,0,1,3,2021,2,5,51
+5739,0,,lambo,,,0,1,3,2021,9,58,54
+5740,0,,Jeff,,jeffaria,0,1,3,2021,13,26,17
+5741,0,,Chimon,,,0,2,3,2021,5,28,45
+5742,0,,Yunis,,Justyuns,0,2,3,2021,9,31,18
+5746,0,,Dita,,ditarizkii,0,3,3,2021,2,46,25
+5747,0,,Hanang Yuandhicha Setyadi,,hanangys,0,3,3,2021,5,39,0
+5748,0,,Daniel,Hamig,DanielHamig,0,3,3,2021,8,10,35
+5752,0,"segera mulai, Flutter Engage..\nmenantikan pembaruan di flutter web :)\n\nhttps://youtu.be/yll3SNXvQCw",oon,,oonid,0,3,3,2021,17,27,49
+5753,0,,oon,,oonid,0,3,3,2021,17,57,42
+5754,0,https://youtu.be/HAstl_NkXl0,oon,,oonid,0,3,3,2021,23,20,40
+5755,0,https://developers.googleblog.com/2021/03/announcing-flutter-2.html,oon,,oonid,0,3,3,2021,23,37,31
+5756,0,flutter web di flutter versi 2 sudah production-quality untuk web.. 🙌\n\nwaktunya belajar lagi.. 😁\nubah aplikasi Dart web sebelumnya ke flutter web 🤓,oon,,oonid,0,3,3,2021,23,39,49
+5757,5755,😍 smngt belajarnya 🔥🔥,anfrb°,,anfrb,0,4,3,2021,0,35,40
+5758,5757,🙈,oon,,oonid,0,4,3,2021,0,54,40
+5759,0,,~ Ima ~,,,0,4,3,2021,4,24,54
+5760,0,,Adinda Hyeongje,,bbkidspowder,0,4,3,2021,8,20,10
+5761,0,,Afin,Tanthowi Zulmi,atanthowiz,0,4,3,2021,9,27,41
+5762,0,,YOGI ANDARU A02,,mr_kongngez,0,4,3,2021,10,57,25
+5763,0,Flutter web udah gak beta \nCobaaa aaahhh,samalas,,an35wa,0,4,3,2021,12,58,21
+5764,0,ditunggu sharing nya kak 😆,oon,,oonid,0,4,3,2021,13,5,31
+5765,0,,Hilman,,hma28official,0,4,3,2021,15,20,29
+5766,0,,Rifqi Fajar R,,Rifadan17,0,4,3,2021,17,20,56
+5767,0,,Lontong,Sayur,,0,4,3,2021,21,20,10
+5768,0,https://betterprogramming.pub/flutter-is-about-to-win-over-the-web-be0a205af03d,oon,,oonid,0,5,3,2021,3,27,41
+5769,0,artikel bulan lalu..\nmenarik isinya.. bahas perbandingan flutter untuk web dengan sejumlah teknologi web lainnya..,oon,,oonid,0,5,3,2021,3,28,12
+5770,0,,Feronika,Derata,akusayangchaewon,0,5,3,2021,4,16,18
+5771,0,,,,,0,5,3,2021,10,59,13
+5773,0,"Halo, mau nanya gan, utk jalankan script python di flutter web gimana ya? sy dpatnya packge ini https://pub.dev/packages/starflut tapi support nya ga bisa yg versi web. Cuma mobile dan desktop",Fauzy,,ahmad_fauzy,0,6,3,2021,0,48,2
+5774,5773,wah belum pernah nyoba.. 😆\n\nitu ada example gimana kalo dicoba di desktop? 🤔,oon,,oonid,0,6,3,2021,0,52,41
+5775,0,sy sebenarnya mau tampilkan webview/iframe di flutter web. Tapi klo iframe udah nyoba dan ternyata ada beberapa url ga bisa kedetect. Dan akhirnya ngide utk bikin python script utk buat webview. Dan sepertinya memang ga bisa di flutter web 🤣,Fauzy,,ahmad_fauzy,0,6,3,2021,1,24,22
+5776,0,lho paket yang tadi itu kan sudah infonya nggak bisa di flutter web 🙊,oon,,oonid,0,6,3,2021,1,39,34
+5777,0,siapa tau ada alternatif lain selain itu kan wkwk,Fauzy,,ahmad_fauzy,0,6,3,2021,1,43,9
+5781,0,https://youtu.be/XhKo3RS17CQ iframe,Renaldy,Hidayat,renaldyhidayatt,0,6,3,2021,6,30,27
+5782,5777,nih dikirimi video kak @ZhuoName 😬,oon,,oonid,0,6,3,2021,6,32,57
+5783,5781,Thank you 🙏,Fauzy,,ahmad_fauzy,0,6,3,2021,6,33,35
+5784,0,"udah nonton video nya. dan aku udah pake juga kemaren cara yg sama. kendalanya adalah ada beberapa website itu nge-block supaya web nya ga bisa di-""iframe"". Aku dapat disini https://stackoverflow.com/questions/6663244/cant-show-some-websites-in-iframe-tag \nTapi sudah memutuskan tadi beralih ke flutter desktop utk jalankan script python hehe",Fauzy,,ahmad_fauzy,0,6,3,2021,6,38,18
+5785,5784,👍,oon,,oonid,0,6,3,2021,6,53,38
+5786,5783,👍,Renaldy,Hidayat,renaldyhidayatt,0,6,3,2021,6,54,54
+5788,0,,A,N,,0,6,3,2021,9,44,11
+5794,0,,Yudha,,Yudha2113,0,6,3,2021,10,14,6
+5795,0,,Gugun,Sopian,,0,6,3,2021,15,24,4
+5799,0,,Yudho,,Correy24,0,6,3,2021,16,32,51
+5800,0,Mau nanya kak disini ada yg bisa hack webstie?,Yudho,,Correy24,0,6,3,2021,16,33,41
+5801,5800,coba cari grup yang lebih sesuai kak..\nmisalnya grup hacking gitu..\ndi sini kita diskusinya seputar bikin website..,oon,,oonid,0,6,3,2021,22,48,56
+5802,5801,Kak tau group yg begitu kak?,Yudho,,Correy24,0,6,3,2021,22,49,45
+5804,0,,vanka,,vankacs,0,7,3,2021,6,37,58
+5805,0,Bagaimana cara menghubungkan script Vue ke aqueduct ?,tdwiid,sulistyawan,tdwiid,0,7,3,2021,6,55,17
+5806,5805,bikin API di aqueduct udah?,oon,,oonid,0,7,3,2021,8,29,55
+5807,0,blom,tdwiid,sulistyawan,tdwiid,0,7,3,2021,9,52,21
+5808,0,"jika di sini, ada yg pernah/bisa mengaplikasikan mohon dibantu jelaskan",tdwiid,sulistyawan,tdwiid,0,7,3,2021,9,52,58
+5809,5808,"sekilas googling,\ndapat nih contoh, pakai bahasa Indonesia pula..\n\njangan-jangan penulisnya juga ada di grup ini 🤔\n\nhttps://medium.com/nusanet/restful-api-dengan-aqueduct-e15dd51b8463",oon,,oonid,0,7,3,2021,10,30,37
+5810,0,,Latif,,hyyyy2425,0,8,3,2021,1,30,16
+5811,0,,Tim,Realistis,,0,8,3,2021,7,39,27
+5812,0,,neo,bot,,0,8,3,2021,13,53,11
+5813,0,mau tanya kak. int. tryParse(stdin.readLineSync()); kok gak bisa baca type data int ya..solusinya gimana ya.. maaf pemula,neo,bot,,0,8,3,2021,13,56,59
+5814,5813,halo.. pesan error nya apa ya?,oon,,oonid,0,8,3,2021,17,18,24
+5815,5813,aku coba nggak ada masalah itu..,oon,,oonid,0,8,3,2021,17,39,49
+5816,0,#izinshare\nhttps://youtu.be/Q_2dCBJsKS0,Danang,Setio,Danang_setio,0,8,3,2021,21,19,47
+5817,5814,erornya kyk gini kak,neo,bot,,0,9,3,2021,0,3,34
+5818,0,,neo,bot,,0,9,3,2021,0,4,1
+5819,0,,Abiyyu,Daffa' Alam,daffaalam,6282299368783,9,3,2021,1,36,59
+5820,5817,oh kalo pake tanda tanya ini terkait fitur baru yang Nullable itu..\n\nhttps://stackoverflow.com/questions/2690866/what-is-the-purpose-of-a-question-mark-after-a-type-for-example-int-myvariabl,oon,,oonid,0,9,3,2021,2,44,19
+5821,5818,jadi hasil int.tryParse nya disimpan dulu ke var\ndicek dulu apakah null \n\npilihan lainnya pakai int.parse yang nggak mengembalikan int?\ndi langsung int\ntapi nanti perlu penanganan error\n\nada potongan contohnya di dokumentasi parse\nhttps://api.dart.dev/stable/2.10.5/dart-core/int/parse.html,oon,,oonid,0,9,3,2021,3,2,32
+5822,0,,ProF,,ProfKhosasih,0,9,3,2021,13,57,8
+5823,0,Malam semuanya izin bergabung,ProF,,ProfKhosasih,0,9,3,2021,13,57,30
+5824,0,"#ASK  Selamat malam om , saya mau bertanya bagaimana ya kalo terjadi CORS pada web dibagian image?",ProF,,ProfKhosasih,0,9,3,2021,13,58,42
+5825,0,CORS itu urusannya backend 😬\njadi backend yang harus di-setting agar akses untuk domain mana aja yang dibuka.. \n\nini ada gambarnya biar jelas \n\nhttps://developer.mozilla.org/en-US/docs/Web/HTTP/CORS,oon,,oonid,0,9,3,2021,14,3,34
+5826,5825,"Itu dia sudah saha setting di backendnya , cuma untuk dibagian tampilan image kena cors lagi",ProF,,ProfKhosasih,0,9,3,2021,14,4,23
+5827,5826,berarti belum cocok domain dari yang request dengan yang di backend?,oon,,oonid,0,9,3,2021,14,5,6
+5828,5827,"Oh gitu ya om, solusinya gimana ya untuk tidak terjadi cors saat pemanggilan image?",ProF,,ProfKhosasih,0,9,3,2021,14,5,58
+5829,0,"bisa cek aja misalnya pakai chrome gitu waktu kiriman dari server, dia udah kasih header allow origin nya nggak?",oon,,oonid,0,9,3,2021,14,6,25
+5830,0,"ya itu tadi, backend nya disetting terus,\nmisalnya ada plugin gitu di backend untuk kasih akses ke domain mana aja biar nggak kena batasan dianggap ""cross""",oon,,oonid,0,9,3,2021,14,7,29
+5831,5829,Begini om,ProF,,ProfKhosasih,0,9,3,2021,14,8,50
+5832,0,Tapi backendnya udah rapih access control allow,ProF,,ProfKhosasih,0,9,3,2021,14,9,15
+5833,5831,"ya itu artinya di backend tempat minta gambar itu belum kasih header untuk Allow.\n\nngomong-ngomong, backend image nya mungkin terpisah?\nmisalnya di AWS S3 gitu.. \nnah itu harus diset lagi..",oon,,oonid,0,9,3,2021,14,10,41
+5834,5833,"Engga terpisah sih om , saya hanya tambahkan code aja untuk database image",ProF,,ProfKhosasih,0,9,3,2021,14,12,16
+5835,0,,ProF,,ProfKhosasih,0,9,3,2021,14,12,41
+5836,5835,"ini kalo dibaca kan kode untuk upload, bukan untuk menampilkan.\n\nkalo yang menampilkan, bisa jadi akses langsung dari web server nya (static resource), nah itu juga perlu diset.",oon,,oonid,0,9,3,2021,14,14,10
+5837,5836,Kalo untuk menampilkannya saya memakai Image.network om,ProF,,ProfKhosasih,0,9,3,2021,14,15,1
+5838,5835,Ini backendnya om,ProF,,ProfKhosasih,0,9,3,2021,14,15,24
+5839,5837,"ya itu tadi pertanyaannya,\npakai layanan terpisah nggak..\n\nyang nggak kirim header itu waktu menampilkan..",oon,,oonid,0,9,3,2021,14,15,50
+5840,0,Berarti ini jatuhnya terpisah ya om?,ProF,,ProfKhosasih,0,9,3,2021,14,16,29
+5841,5840,"bukan,\nmaksudnya di sisi server.\n\nkode bagian yang melayani (serving) images.",oon,,oonid,0,9,3,2021,14,17,23
+5842,5831,"kalo di gambar ini akan ada URL dari images nya\n\nnah itu mengacu ke mana..\nitu yang melayani URL tersebut, apa ada programnya, atau langsung web server.\n\nkalo langsung web server ya harus disetting agar kirim header.",oon,,oonid,0,9,3,2021,14,20,41
+5843,5842,"Kalo url imagenya sih ambilnya dari folder upload , jd setiap foto yang sudah ke upload ke database, file fotonya juga tersimpan di folder upload",ProF,,ProfKhosasih,0,9,3,2021,14,23,26
+5844,5843,nah berarti di folder upload itu yang harus diset agar kirim header agar allow cors.,oon,,oonid,0,9,3,2021,14,25,27
+5845,0,https://developer.mozilla.org/en-US/docs/Web/HTML/CORS_enabled_image,oon,,oonid,0,9,3,2021,14,26,34
+5846,0,"Oh gitu ya om, tapi folder upload itu isinya image semua, dan cara diset agar kirim headers gimana ya?",ProF,,ProfKhosasih,0,9,3,2021,14,26,38
+5847,0,config web server nya sih biasanya.,oon,,oonid,0,9,3,2021,14,27,3
+5848,5847,mungkin buat file backend lagi ya untuk upload atau bagaimana ?,ProF,,ProfKhosasih,0,9,3,2021,14,27,54
+5849,5845,"di sini ada contoh, kalo pakai web server nya apache.\nkalo nginx ya tinggal googling lagi aja.",oon,,oonid,0,9,3,2021,14,28,22
+5850,0,yang jadi masalah kalo hosting nya di tempat orang (shared hosting).. saya nggak tau boleh nggak tuh ganti header web server.,oon,,oonid,0,9,3,2021,14,29,0
+5851,5849,"siap om , Terimakasih saranannya . hehe baru saya om mengalami cors ini",ProF,,ProfKhosasih,0,9,3,2021,14,29,11
+5852,5850,oh gitu ya om,ProF,,ProfKhosasih,0,9,3,2021,14,29,28
+5853,0,,J,J,,0,9,3,2021,19,33,0
+5854,0,,,,,0,10,3,2021,3,8,12
+5855,0,,Kristian,Ruben,rhyuben,0,10,3,2021,4,58,29
+5856,0,,Medina,,ca_ams,0,10,3,2021,8,1,11
+5857,0,,Muhammad,Hidayat,hd4y2t,0,10,3,2021,10,39,57
+5858,0,,Choirunnisa,Hapsari,choirunnisa,0,10,3,2021,13,50,11
+5859,0,selamat bergabung temen-temen 😁\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,10,3,2021,14,8,0
+5860,0,dari channel google developers space singapura nih..\n\nbbrp jam lalu ada GDE Aseem Wangoo mungkin pernah liat video youtube dia sering bikin seputar Dart juga..\n\nkali ini bahas CLI di Dart.\n\nhttps://youtu.be/_-ruwEdI1B8,oon,,oonid,0,10,3,2021,14,55,35
+5861,0,,sasaldin,,,0,10,3,2021,17,16,20
+5862,0,,Day,,,0,10,3,2021,19,0,48
+5863,0,,SH,Ed,edd2001,0,11,3,2021,0,45,32
+5864,0,,.,,nawabila,0,11,3,2021,1,14,33
+5865,0,,Re,,Rechan2002,0,11,3,2021,2,54,56
+5866,0,,Naufal,Fadhil,naufalfadhil,0,11,3,2021,4,3,31
+5867,0,,Elf,,hayyraaaa,0,11,3,2021,15,10,8
+5868,0,#izinshare\nhttps://youtu.be/ZWlyfsfNAoc,Danang,Setio,Danang_setio,0,11,3,2021,20,44,10
+5869,0,,Fazan,,farzanQyas,0,12,3,2021,2,12,27
+5870,0,,Muhammad,Ij'lal,muhammadijlalm,0,12,3,2021,3,8,19
+5871,0,,ali ha,haha,,0,12,3,2021,6,55,40
+5875,0,,,,,0,12,3,2021,14,31,59
+5876,0,,Laely,Triana,laelytr,0,12,3,2021,14,35,10
+5877,0,"selamat bergabung temen-temen 👋\nsalam kenal.. 🙏\nisi polling di pesan tersemat ya (pinned).\n\nya siapa tau ada lagi yang tertarik untuk meramaikan grup jadi admin, mumpung menyambut internasional women's day 👩‍💻\n\n✌️🤓",oon,,oonid,0,12,3,2021,15,17,50
+5878,0,,Ahmad,Fatoni,Fatoni_779,0,12,3,2021,23,45,13
+5879,0,,Abdul,Hanan,abdulhanan13,0,13,3,2021,2,8,6
+5880,0,,I,S,irfanp91,0,13,3,2021,11,46,38
+5881,0,#izinshare\nhttps://youtu.be/7UYOeDyev9M,Danang,Setio,Danang_setio,0,13,3,2021,15,0,21
+5882,0,,Mafaza,,mfz_faza,0,13,3,2021,17,31,34
+5883,0,,Pekerja Digital,,kerjamaya,0,13,3,2021,22,4,39
+5884,0,,Tam,Tak,,0,13,3,2021,23,4,55
+5885,0,,Boris,Gappov,bgappov,0,14,3,2021,8,53,32
+5886,0,,Hardi,-,hardi13s,0,14,3,2021,10,51,25
+5887,0,,Andre Wendy,A,,0,14,3,2021,12,41,40
+5888,0,,Alaik,Murtadlo,alaikmurtadlo,0,14,3,2021,13,12,0
+5889,0,,Rafkah,Rizqia,rafkah,0,14,3,2021,13,41,40
+5890,0,,Eighbaall,,,0,14,3,2021,13,54,52
+5891,0,haloo.. selamat bergabung temen-temen 👋\ndiskusi seputar pemrograman Dart dan web,oon,,oonid,0,14,3,2021,14,13,6
+5892,0,,Ray,,,0,15,3,2021,9,36,35
+5893,0,,Yodam,,Yo_dmk,0,15,3,2021,10,22,28
+5894,0,,ody,,odyclo,0,15,3,2021,15,40,1
+5895,0,,Ilham,Bintang,ilhambintang99,0,15,3,2021,15,42,43
+5896,0,,Pikri,Laxath,Laxath_Sensei,0,15,3,2021,16,10,35
+5897,0,"Hi All 👋\nI have an application with a huge number of files (about 65 megabytes) and in debug mode the application loads on average 10 minutes in Chrome. I bought a multi-core processor but it doesn't help. On the new processor, the page load was reduced to 1 minute, but only in Firefox because the debugger is not connected and only if there were no changes in the code. Has anyone done parallelizing file downloads in Chrome in debug mode?",Boris,Gappov,bgappov,0,16,3,2021,6,11,22
+5898,0,,Rezsa,Aldiyans,rezsa_aldiyans,0,16,3,2021,17,24,26
+5899,0,"Ok, I found solution. It is so simple, I don’t understand why such a simple idea didn’t occur to me before.\nI temporary commented out all the routes and component's references currently not in development.\nThe page loaded in 6 seconds! instead of 85 seconds...",Boris,Gappov,bgappov,0,16,3,2021,17,28,13
+5900,0,👍,oon,,oonid,0,16,3,2021,17,29,9
+5901,0,,Epongg,Id,Epong94,0,16,3,2021,21,0,54
+5902,0,https://youtu.be/PX5HCFAim0A\n#izinshare,Danang,Setio,Danang_setio,0,16,3,2021,22,27,34
+5903,0,,Maria Margareth,,mariamargareth123,0,17,3,2021,3,10,12
+5904,0,,➓,,,0,17,3,2021,4,6,3
+5905,0,"kakak abg2 boleh tanya ngak , ini kenapa ya...\nsaat lagi run google signin nya mengalami error ya...\nmohon pencerahannya abg"" kakak""",Andri Irwan Zahri,,andrirzah,0,17,3,2021,5,59,32
+5906,0,,Andri Irwan Zahri,,andrirzah,0,17,3,2021,5,59,39
+5907,0,,Andri Irwan Zahri,,andrirzah,0,17,3,2021,5,59,39
+5908,5907,kurang paham kak kalo urusannya sama gradle 🙈\napa sudah dicoba pakai perangkat hp (bukan emulator)?,oon,,oonid,0,17,3,2021,6,15,18
+5909,5908,"sudah di coba , tapi masih sama aja..",Andri Irwan Zahri,,andrirzah,0,17,3,2021,6,17,30
+5910,0,btw makasih ya,Andri Irwan Zahri,,andrirzah,0,17,3,2021,6,17,36
+5911,0,,Babae,,hrtundtl,0,17,3,2021,14,21,0
+5912,0,,Imam Akbar,Mega AR,iamantariksa13,0,18,3,2021,7,38,31
+5913,0,,Bintang,Putra,,0,18,3,2021,11,9,0
+5914,0,hallo,Bintang,Putra,,0,18,3,2021,11,12,20
+5915,0,👋,oon,,oonid,0,18,3,2021,11,13,43
+5916,0,nah akhirnya dihentikan juga 🙈\n\njadi makin berkurang pilihan backend framework untuk Dart.\n\nhttps://stablekernel.com/article/announcing-the-sunsetting-of-aqueduct-our-open-source-server-side-framework-in-googles-dart/,oon,,oonid,0,18,3,2021,14,8,0
+5917,0,,Nesta,Dwi Alfarizi,nestadwia,0,18,3,2021,17,27,22
+5918,0,"setelah sebelumnya angel framework, lalu skr aqueduct juga udah nggak lanjut.\n\nberarti pilihan berikutnya untuk bikin web backend pakai dart adalah Jaguar\n\natau ya coba dari lagi dari daftar ini \nhttps://pub.dev/packages?q=http+server",oon,,oonid,0,18,3,2021,23,15,39
+5922,0,,Kurnia.,fadhil,,0,19,3,2021,1,32,17
+5923,0,,Uihara,Kageyama,Uihara1,0,19,3,2021,4,24,45
+5924,0,,Secret,Admiere,,0,20,3,2021,15,12,25
+5925,0,,Arif yudi,Suryo utomo,Arifyudii,0,20,3,2021,19,51,6
+5926,0,#izinshare\nhttps://youtu.be/DGjqoT3j8h0,Danang,Setio,Danang_setio,0,20,3,2021,20,0,8
+5928,0,,F60BY7,,affalximam,0,22,3,2021,4,41,50
+5929,0,Suhu mau tanya klo bug build. Gradle itu knpa ya. Dan harus di apain,Arif yudi,Suryo utomo,Arifyudii,0,22,3,2021,9,6,5
+5930,0,,Arif yudi,Suryo utomo,Arifyudii,0,22,3,2021,9,6,5
+5931,5929,"kalo pakai gradle ini berarti terkait aplikasi mobile ya?\ndi sini kita diskusinya seputar web kak, kurang paham kalo urusan gradle 😬",oon,,oonid,0,22,3,2021,9,24,38
+5932,0,,d,Y,,0,22,3,2021,17,49,41
+5933,0,Join,d,Y,,0,22,3,2021,17,49,51
+5934,0,selamat bergabung kak ✌️,oon,,oonid,0,22,3,2021,20,19,31
+5935,0,,Muhammad,Ilyas,Ilyassstri,0,23,3,2021,2,21,17
+5936,0,,G-Squard,,vendorGSQUARD,0,23,3,2021,17,46,15
+5937,0,,Dian,Pratama,,0,23,3,2021,18,11,6
+5938,0,,Rhmad,Styawan,,0,23,3,2021,19,7,13
+5939,0,,UPI,,akhmadluthfi,0,24,3,2021,6,31,35
+5940,0,,bulle.,,,0,24,3,2021,9,43,59
+5941,0,,Pur,,,0,24,3,2021,11,2,51
+5942,0,,Amir,Saefudin,penghuni_bulan,0,25,3,2021,1,1,4
+5943,0,Selamat pagi gan.\n\nSaya mau tanya ada yang pake phpmyadmin.co?,Amir,Saefudin,penghuni_bulan,0,25,3,2021,1,2,1
+5944,0,Kenapa ya situs sebesar itu tidak dapat di akses,Amir,Saefudin,penghuni_bulan,0,25,3,2021,1,2,44
+5945,5943,situs besar? memang situs apa itu?,Abiyyu,Daffa' Alam,daffaalam,6282299368783,25,3,2021,1,24,45
+5946,0,hosting Mysql bos,Amir,Saefudin,penghuni_bulan,0,25,3,2021,1,25,39
+5947,0,kalo phpmyadmin.net itu apa?,Abiyyu,Daffa' Alam,daffaalam,6282299368783,25,3,2021,1,28,14
+5948,5943,"gimana taunya kalo ini situs ""besar""?\n\nberdasarkan artikel-artikel di internet, situs ini memang sering down, jadi ya cari layanan lain aja..\n\nini contoh artikel di stackoverflow\nhttps://stackoverflow.com/questions/54039822/database-is-phpmyadmin-co-down",oon,,oonid,0,25,3,2021,4,25,54
+5949,5948,"karena servernya ada di seluruh dunia, jadi tidak bisa dikatakan situs kecil",Amir,Saefudin,penghuni_bulan,0,25,3,2021,4,32,49
+5950,0,ya sudah gan terimakasih,Amir,Saefudin,penghuni_bulan,0,25,3,2021,4,33,16
+5951,0,,cen,,cen238,0,25,3,2021,13,10,9
+5952,0,"Misi gan ,ada yang bisa pake bahasa C++  ngak ?",.....,,Gondronggaknyopettt,0,25,3,2021,13,33,23
+5953,0,cari langsung di grupnya c++ aja kak,oon,,oonid,0,25,3,2021,13,34,19
+5954,0,"Ga nemu kak ,jadi bingung,ada saran group nya ngak kak?",.....,,Gondronggaknyopettt,0,25,3,2021,13,35,29
+5955,0,Googling aja dapat kok\n\natau pilih aja dari sini\n\nhttps://github.com/hendisantika/List-All-Programming-Telegram-Group,oon,,oonid,0,25,3,2021,13,38,17
+5956,0,"Oke kak , makasi ya..",.....,,Gondronggaknyopettt,0,25,3,2021,13,42,26
+5957,0,,Siapa,Yah,,0,26,3,2021,2,29,23
+5958,0,gan mau tanya setelah saya update sdk dart v.2.12.2  jadi eror ketika mau run.. mohon solusinya gan..,neo,bot,,0,26,3,2021,4,22,15
+5959,5958,itu karena nyari perintah git.\nbisa juga install aplikasi git.,oon,,oonid,0,26,3,2021,7,21,58
+5960,5959,ok.. makasih gan..,neo,bot,,0,26,3,2021,7,24,50
+5961,0,https://youtu.be/QNR_QdnO5js,Danang,Setio,Danang_setio,0,26,3,2021,15,27,36
+5962,0,,Zidane,Allianz,,0,26,3,2021,17,11,12
+5963,0,,Muhammad,Arfan,Muhammaf_arfan,0,27,3,2021,11,21,12
+5964,0,,Ishak_ndj,,Seilisac12,0,28,3,2021,5,49,30
+5966,0,,hm,,,0,28,3,2021,10,42,58
+5970,0,"Flutter bisa membuat web page.\n\nTahap awal belajar dart. Lalu bila kita ingin belajar membuat web. Learning pathnya apa saja, setelah belajar dart?",Raden,Pratama,radenRanggaPratama,0,28,3,2021,12,5,55
+5971,5970,"kalo membuat web nya pakai flutter, ya learning path nya ""mirip"" dengan membuat flutter mobil apps, yaitu memahami widgets.\n\nkalo bukan flutter baru belajar framework web nya..",oon,,oonid,0,28,3,2021,13,10,50
+5972,5971,"terima kasih.\n\napa ada channel yang khusus bahas ini di YouTube, boleh share.\n\nAtau cukup belajar dari tutorial Flutter umum saja, karena banyak di YouTube?",Raden,Pratama,radenRanggaPratama,0,28,3,2021,13,30,28
+5973,0,Ijin share,Farid,,farid_putra,0,28,3,2021,15,9,56
+5974,5972,"iya, karena lagi ngetren banget, yang bikin video di YouTube banyak pilihan, tinggal dicari aja yang sesuai topik yang mau dipelajari.",oon,,oonid,0,28,3,2021,16,3,2
+5975,0,,,,,0,29,3,2021,1,25,29
+5976,0,,Nisa,Aries,,0,29,3,2021,3,57,44
+5977,0,Permisi,Nisa,Aries,,0,29,3,2021,3,57,49
+5978,0,Saya mau tanya,Nisa,Aries,,0,29,3,2021,3,57,53
+5979,0,Cara memanggil tipe data reference tuh gimana ya,Nisa,Aries,,0,29,3,2021,3,59,20
+5980,0,,Ibnu,Alpajar,derilia,0,29,3,2021,5,7,58
+5984,5979,maksudnya yang KRS itu?,oon,,oonid,0,29,3,2021,5,13,9
+5985,0,,sandi,Alam321,alam17s,0,29,3,2021,16,46,36
+5986,5979,"Kalau KRS sudah ada di file lain, tinggal import di baris paling atas\n\nimport 'krs.dart'; => contohnya",Tjandra,Darmo,TjandraDarmo,0,30,3,2021,4,33,26
+5987,0,,Eliana Sachi,Mulyono,,0,30,3,2021,6,24,19
+5988,0,👍,tdwiid,sulistyawan,tdwiid,0,30,3,2021,9,47,28
+5989,0,"Halo semuaa,\nDicari Flutter Developers untuk kerja remote.\nSilakan daftar sekarang di https://imperialhealthtech.com/#career\nAda pertanyaan? Silahkan hubungi choirunnisa@imperialhealthtech.com",Choirunnisa,Hapsari,choirunnisa,0,30,3,2021,12,43,14
+5993,0,,Aji Tirto,Prayogo,Ajitirto,0,30,3,2021,13,6,7
+5994,0,,,,,0,30,3,2021,13,30,43
+5995,0,"Halo teman-teman, Bagaimana cara desain web menjadi web online? Mohon bantuanya. Terima kasih kak",Aldo,Agustio,aldoagustio,0,30,3,2021,15,9,59
+5996,5995,saya kurang mengerti pertanyaannya...\n\ndesain web itu baik di lokal maupun di online itu sama.. 😬\n\nbiar jadi online biasanya orang pakai hosting web.,oon,,oonid,0,30,3,2021,15,11,20
+5997,5995,figma atau pake Adobe xd. Coba cek drible referensi designnya👍,Renaldy,Hidayat,renaldyhidayatt,0,30,3,2021,15,15,19
+5998,0,👍,oon,,oonid,0,30,3,2021,15,58,13
+5999,0,👍,tdwiid,sulistyawan,tdwiid,0,30,3,2021,17,40,44
+6000,0,,iki,,astagfirullahki,0,31,3,2021,4,15,2
+6001,0,,Randytia,Akbar,,0,31,3,2021,6,53,27
+6002,0,,zc,007__,zc_07,0,31,3,2021,12,22,55
+6003,0,"#ASK , om om, semuanya .. mau nanya dong, ada yang tahu cara memanggil image dari sql (phpmyadmin) ? Apakah diperlu API tambhan atau bagaimana ? Terimakasih 🙏",ProF,,ProfKhosasih,0,31,3,2021,12,33,33
+6004,6003,"image nya disimpan dalam basis data sebagai apa, blob?\n\nkalo lebih spesifik mungkin bisa tanya di grup terkait mysql atau bahasa pemrograman yang digunakan..",oon,,oonid,0,31,3,2021,12,37,8
+6005,0,"Saya menggunakan bahasa pemograman dart , image yang saya simpan dalam basis file , kalau di mysqlnya berbasis text",ProF,,ProfKhosasih,0,31,3,2021,12,50,1
+6006,0,"image nya disimpan dalam basis data sebagai apa, blob?\n\nkalo lebih spesifik mungkin bisa tanya di grup terkait mysql atau bahasa pemrograman yang digunakan..",ProF,,ProfKhosasih,0,31,3,2021,12,50,1
+6007,6005,oh berarti di mysql hanya path mengarah ke nama file nya saja begitu?,oon,,oonid,0,31,3,2021,12,52,8
+6008,6007,Iya betul,ProF,,ProfKhosasih,0,31,3,2021,12,56,44
+6009,0,"Jadi image yang di upload masuk juga di folder upload, di mysql hanya text aja",ProF,,ProfKhosasih,0,31,3,2021,12,57,57
+6010,0,Cuma masalahnya saat image mau dipanggil ga muncul,ProF,,ProfKhosasih,0,31,3,2021,12,58,39
+6011,6010,"kalo gambar lain apakah muncul?\n\nyang belum tau ini gambaran implementasinya, dengan dart pakai framework atau toolkit apa..",oon,,oonid,0,31,3,2021,13,5,20
+6012,6011,Engga juga om cuma kalo untuk uplod berhasil,ProF,,ProfKhosasih,0,31,3,2021,13,9,57
+6013,0,Cuma manggilnya aja,ProF,,ProfKhosasih,0,31,3,2021,13,10,2
+6014,6011,Pakai flutter,ProF,,ProfKhosasih,0,31,3,2021,13,10,31
+6015,0,,Rizaldy,SP,rizaldysp,0,31,3,2021,13,13,54
+6016,6012,"coba dibandingkan URL waktu akses dari hasil upload dan dari yang DB, bedanya apa?",oon,,oonid,0,31,3,2021,13,23,59
+6018,0,,Aclis,,asprihananto,0,1,4,2021,6,25,32
+6019,0,,Priatmojo,DP,B33J0E,0,1,4,2021,7,59,49
+6020,0,,.,,Sugarrr123,0,1,4,2021,13,19,10
+6021,0,contoh flutter web development yang menarik untuk dicoba \n\nhttps://youtu.be/7ZB_z_N-9bo,oon,,oonid,0,1,4,2021,17,35,50
+6022,0,,Gaseg,Boma,Gaseg_Boma,0,1,4,2021,19,53,53
+6023,0,,Cupiiz,,cupIiz,0,2,4,2021,5,35,50
+6024,0,,Muhamad,Abdan,mabdanmaruf,0,3,4,2021,2,31,19
+6025,0,,Mohammad Haerul,Anam,MHaerulAnam,6281232544553,3,4,2021,8,46,55
+6026,0,,DaneB,,,0,3,4,2021,10,6,43
+6027,0,,Draken,,drakenza,0,4,4,2021,0,19,2
+6028,0,,Ayu,Listina,,0,4,4,2021,16,57,47
+6029,0,,Nasaar Munzir,Ahamed,,0,4,4,2021,20,29,6
+6031,0,,alko,,,0,5,4,2021,4,28,2
+6032,0,,Fazril Arief,,fazril26,0,5,4,2021,10,10,41
+6033,0,,Ferdian,Firmansyah,ferdianfy13,0,5,4,2021,14,2,17
+6034,0,#ask ada yang tahu referensi bagaimana membuat matriks menggunakan Dart?,Abdul,Wasi,AbdWasiDev,0,6,4,2021,1,19,39
+6035,0,,Han,,handexz,0,6,4,2021,5,23,39
+6036,0,siang ijin gabung,Han,,handexz,0,6,4,2021,5,23,44
+6037,0,siang min.... ijin share siapa tau yg minat\niseng iseng berhadiah sembari memantabkan kemampuan ngoding\ndisbudpar bandung ngadain serangkaian program buat kawan kawan,Han,,handexz,0,6,4,2021,5,31,59
+6038,0,,myu,,muhysfumr,6285158464886,6,4,2021,6,11,27
+6039,5820,Ii apaa,Adit decamera,IM3 sopan,im3decamera,0,6,4,2021,16,32,58
+6040,6039,"apa ""li"" itu kak?",oon,,oonid,0,6,4,2021,21,54,32
+6041,0,Itu om paling typo,Renaldy,Hidayat,renaldyhidayatt,0,6,4,2021,22,0,2
+6042,0,jadi sebetulnya apa?\ntebak-tebakan.. 😬,oon,,oonid,0,6,4,2021,22,0,33
+6043,0,,MR.HAWDEN,_hawdeN,MRHAWDEN,0,7,4,2021,4,55,5
+6044,0,,Rfann,Sy,Rfann18,0,7,4,2021,14,56,1
+6045,0,,Bryanza,,bryanza,0,7,4,2021,17,23,50
+6046,0,,Czji,Yomo,czjiyomo,0,7,4,2021,19,36,6
+6047,0,"Hi everyone! I'd like to share a meetup with you, it's about Flutter and Mobile application development. Thought you find it interesting.\n\nThe upcoming Saturday 10am CET we perform and introduce a new GetConf Project Meetup #1. The idea behind this project is to learn flutter and its pros and cons opposed to React Native technology. We are going to build an application from scratch that allows a user to select number of topics of interest and get alerts when a conference/meetup/event on a specific topic will happen. Everyone is welcome to join, and thanks for your time!\n\nhttps://www.eventbrite.co.uk/e/introducing-sailmapai-and-getconf-neural-seamap-generator-mobile-apps-tickets-149691925579?aff=tflutter",Czji,Yomo,czjiyomo,0,8,4,2021,8,21,5
+6048,0,,,,,0,8,4,2021,13,17,32
+6049,0,,A,Sight,Sickbrain27,0,8,4,2021,17,49,41
+6050,0,,Iwan,Setiawan,,0,9,4,2021,2,21,5
+6052,0,,Faqih,Azzam,,0,9,4,2021,2,30,25
+6056,0,,Melia,Syuhada,MeliaS05,0,9,4,2021,12,19,25
+6057,0,,Mikhail,Tal,mikhailtal4,0,9,4,2021,13,18,28
+6058,0,,sasskeeeh,,sasskeeeh,0,9,4,2021,15,25,37
+6059,0,salam kenal,sasskeeeh,,sasskeeeh,0,9,4,2021,15,34,4
+6061,0,🙏,oon,,oonid,0,9,4,2021,15,52,1
+6064,0,,Diki,,,0,10,4,2021,3,59,18
+6065,0,,mrlnmchtr,,,0,10,4,2021,11,44,17
+6066,0,,Anisa,Ul Kusna,,0,10,4,2021,14,12,20
+6067,0,#izinshare\nhttps://youtu.be/oQbYR7F3LLg,Danang,Setio,Danang_setio,0,10,4,2021,23,56,37
+6068,0,,Ahmad Edo,Pratama,,0,11,4,2021,1,17,2
+6069,0,,Ali,Alizadeh,ali_alizadeh_4,0,11,4,2021,13,39,40
+6070,0,,.,RAMA TEGAR H,ramategarh,0,11,4,2021,14,29,10
+6071,0,https://chat.whatsapp.com/ClnSosKphvH4sED7IbENcw\nPenggemar IT security Wajib Join,.,RAMA TEGAR H,ramategarh,0,11,4,2021,14,30,13
+6072,0,,Yosua Tarigan,,YosuaTarigan,0,11,4,2021,18,53,8
+6073,0,https://youtu.be/4qLWwhdTYkI,Yosua Tarigan,,YosuaTarigan,0,11,4,2021,18,56,24
+6074,0,#izinshare\nhttps://youtu.be/sfxYVDIJ8bU,Danang,Setio,Danang_setio,0,12,4,2021,1,49,51
+6075,0,,thawinsak pwa,renu,,0,12,4,2021,10,52,11
+6076,0,,Gilang,Rm,,0,12,4,2021,12,9,4
+6077,0,"#ASK \n\nkira-kira ini knp ya ?, mau coba di deploy ke github page.. kebaca seperti ni",Raka,Fajar,RakaFS,0,12,4,2021,12,30,17
+6078,0,"karena itu kodenya sudah di-minify jadi nggak bisa baca apa-apa..\n\ncoba deploy dengan versi yang bukan release.\n\nnanti baru ketauan sebetulnya errornya terkait apa\n\ncontoh buat dibaca, ada di \nhttps://github.com/flutter/flutter/issues/50467",oon,,oonid,0,12,4,2021,12,34,55
+6079,0,dicoba dlu mas,Raka,Fajar,RakaFS,0,12,4,2021,13,18,23
+6080,6078,ini cek errornya kodenya.. di console ketika inspectnya mas ?,Raka,Fajar,RakaFS,0,12,4,2021,13,31,53
+6081,0,errornya kaya gini skrng,Raka,Fajar,RakaFS,0,12,4,2021,13,39,20
+6082,6081,coba cek ini\n\nhttps://stackoverflow.com/questions/62215215/another-exception-was-thrown-instance-of-errorsummary-when-performing-platfor,oon,,oonid,0,12,4,2021,14,17,54
+6083,0,,,,,0,12,4,2021,17,46,24
+6084,0,https://youtu.be/zdR8B0XiS6s,Yosua Tarigan,,YosuaTarigan,0,12,4,2021,22,24,57
+6085,6084,bagikan link yang terkait pemrograman web dengan dart atau flutter aja ya..\nkalo flutter untuk aplikasi mobile kan sudah ada grupnya sendiri..,oon,,oonid,0,13,4,2021,0,5,33
+6086,0,#izinshare\nhttps://youtu.be/0sUX0jymGg4,Danang,Setio,Danang_setio,0,13,4,2021,1,36,45
+6087,0,,Radinal,Dwiki Novendra,radinaldn,0,13,4,2021,2,47,1
+6088,0,,Bagus,K,baguskto,0,13,4,2021,8,46,8
+6089,0,,Hakim,Achmad,The_Judgez,0,13,4,2021,14,5,54
+6091,6086,kereeen,tdwiid,sulistyawan,tdwiid,0,13,4,2021,15,27,11
+6092,0,,Adi,Arriansyah,adiarr,0,15,4,2021,2,27,14
+6093,0,,,,,0,15,4,2021,12,21,53
+6094,0,,BAGUS PRAWIRA,,Bagushadi94,0,15,4,2021,12,54,45
+6095,0,,Aditya,,adityamkhmd,0,15,4,2021,15,41,12
+6096,0,,Hayqal,,Hayqalfaraby,0,15,4,2021,17,57,17
+6098,0,,Dino,,herdinooktrianda,0,15,4,2021,21,33,34
+6099,0,,Aldo,Sitorus,,0,16,4,2021,14,53,13
+6103,0,,Desy,,desyyyyyyyyya,0,18,4,2021,2,57,37
+6110,0,#izinshare\nhttps://youtu.be/ad1rDniVlyI,Danang,Setio,Danang_setio,0,18,4,2021,7,42,2
+6111,0,,Kezia,,,0,18,4,2021,13,45,36
+6112,0,,Naily,Fakhriah,nailyfakhriah,0,18,4,2021,15,23,44
+6113,0,,Pirdaa,Ajaa,,0,19,4,2021,2,32,37
+6114,0,,arya,yudha,aryayudhai13,0,19,4,2021,13,56,28
+6115,0,,Abieb,Jr,Jr_abieb,0,19,4,2021,16,37,21
+6116,0,,Izzal,Islam,Izzal_16,0,19,4,2021,18,48,28
+6117,0,,Mas,Dan,Masdan1408,0,20,4,2021,3,35,49
+6118,0,"assalamuallaikum mau bertanya, untuk kesalahan kodingan saya dimana ya? soalnya udah beberapa kali saya rubah kesalahan tetap sama",Mas,Dan,Masdan1408,0,20,4,2021,3,36,34
+6119,0,,adel,,,0,20,4,2021,6,34,45
+6120,0,,Syahrul Akbar R,,sahruldotid,0,20,4,2021,14,13,42
+6121,0,,andra,,Andrabro,0,20,4,2021,21,29,39
+6123,0,,Dinda,Aviolita,dindaav,0,21,4,2021,0,36,15
+6124,0,,HB,,ABIBOKTO,0,21,4,2021,4,16,3
+6126,0,,愛子,カミサト,,0,22,4,2021,0,29,24
+6127,0,,Ricardo,TI,,0,22,4,2021,1,23,28
+6128,6118,"baris 22 tambahin ,",Beny,Hasanudin,aa_beben,0,22,4,2021,5,32,22
+6129,6128,maaf baris ke 21 yang ditambahin koma,Beny,Hasanudin,aa_beben,0,22,4,2021,5,33,42
+6130,6129,Walaikumsalam warahmatullahi wa barakatuh,Beny,Hasanudin,aa_beben,0,22,4,2021,5,34,8
+6132,0,"ada yang memulai bikin dart untuk back-end lagi,\nterinspirasi dari expressjs\n\nhttps://github.com/rknell/alfred",oon,,oonid,0,22,4,2021,8,43,47
+6134,0,,S A E F U L L,,,0,22,4,2021,12,11,32
+6135,0,,abumuaz,,,0,22,4,2021,12,18,33
+6139,0,,irtupin,,irtupin,0,23,4,2021,13,23,48
+6140,0,,Anshor,,anshor_ramadhon,0,24,4,2021,13,27,39
+6143,0,maaf ini kesalahannya di mana ya kenapa outputnya jadi kayak gitu,Mas,Dan,Masdan1408,0,26,4,2021,5,29,48
+6144,0,,Mister Exportir,Indonesia,,0,26,4,2021,5,55,45
+6146,0,,Rentaro,,,0,26,4,2021,9,45,46
+6147,6143,Ini coba yg diyoutube ya?,muhammad haris,alifi,Muhammad_haris_alifi,0,26,4,2021,10,36,34
+6148,0,,Design & Code Your Future Career,,kelas_bootcamp,0,27,4,2021,2,23,38
+6149,0,,Aldy Kusuma,,AldyKusumaArdhana,0,27,4,2021,4,47,44
+6150,0,,bagus,aryadi,Bertus_lam,0,27,4,2021,12,36,23
+6151,0,,MJ,Jubair,MJFOR,0,27,4,2021,19,52,10
+6152,0,#izinshare\nhttps://youtu.be/Z7m0KGpP9nA,Danang,Setio,Danang_setio,0,28,4,2021,2,6,20
+6153,0,hal apa aja yang diperlukan untuk melengkapi flutter mobile app menjadi flutter web.\n\nhttps://blog.logrocket.com/how-to-migrate-a-flutter-mobile-app-to-the-web/,oon,,oonid,0,28,4,2021,7,6,27
+6154,0,"tadi ada presentasi dari GDE Flutter,\nsalah satu poinnya adalah tentang membahas Flutter Web.\n\nhttps://youtu.be/kvs9RHRpPUE",oon,,oonid,0,28,4,2021,12,43,6
+6155,0,https://youtu.be/1dxrknlwdI0,Ricardo,TI,,0,29,4,2021,0,12,19
+6156,0,#izinshare\n\nMake Sidebar Using HYML & CSS#3\nhttps://youtu.be/ZxLlQstB05Q,Danang,Setio,Danang_setio,0,29,4,2021,7,1,24
+6157,0,,Hire-X,,hirexpertnow,0,29,4,2021,12,22,0
+6158,0,,,,,0,29,4,2021,16,15,56
+6159,0,,Ji,,,0,29,4,2021,16,37,7
+6160,0,,Riski,,hiriski,6282122281813,29,4,2021,17,59,35
+6161,0,,Muhammad Farhan,Maulidan,hanfadan,0,29,4,2021,23,23,33
+6162,0,#izinshare\n\nCard Product Using CSS & HTML#4\nhttps://youtu.be/jd5aKg0dDPA,Danang,Setio,Danang_setio,0,30,4,2021,6,47,19
+6163,6162,what is this?,,,,0,30,4,2021,9,24,57
+6164,6162,amazing good work,,,,0,30,4,2021,9,25,10
+6165,0,upgrade Dart ke versi 2.12.2 atau yang lebih baru..\n\nmasalah keamanan XSS vulnerability di dart:html\n\nhttps://github.com/dart-lang/sdk/security/advisories/GHSA-3rfv-4jvg-9522,oon,,oonid,0,30,4,2021,13,15,9
+6167,0,,Ferdinand Waskita,,,0,1,5,2021,4,16,5
+6168,0,,,,,0,1,5,2021,5,41,42
+6169,0,,M2262187,,,0,1,5,2021,13,57,36
+6170,0,,M2262187,,,0,1,5,2021,13,59,58
+6171,0,,M2262187,,,0,1,5,2021,13,59,58
+6172,0,"Hallo, mau nanya, ketika saya jalankan kode tsb, output di checkbox nya tercontreng semua, bagaimana ya solusinya? Data dari checkboxnya saya dapatkan dari database mysql",M2262187,,,0,1,5,2021,13,59,58
+6175,0,,.,,,0,3,5,2021,2,2,17
+6176,0,,Faiz,,R3d_face,0,3,5,2021,7,56,53
+6177,6172,Coba cek variabel selectednya,Tjandra,Darmo,TjandraDarmo,0,3,5,2021,12,4,25
+6178,0,"Ini mas, sudah saya buat, tapi kok masih ya nggak bisa...error nya nggak ada, tapi ketika dijalankan muncul yellow line gitu",M2262187,,,0,3,5,2021,12,5,53
+6179,0,,DIKA,.,Andika_kharisma,6282141469219,3,5,2021,18,45,24
+6181,0,,Nur,Ikbal,nurikbal17,6285601133391,4,5,2021,5,36,39
+6186,0,,Nur,Aslam,nuraslam1218,0,5,5,2021,3,54,55
+6187,0,,Albert,,albeert07,0,5,5,2021,4,33,47
+6191,0,,,,,0,6,5,2021,0,32,25
+6192,0,,Peter,Lynch,mister_cirenk,0,6,5,2021,16,41,7
+6193,0,,Bono,Ver,Mrzorrox,0,6,5,2021,16,52,47
+6194,0,,ˢʰᵃⁿᵈʸ,,im_uggly,0,6,5,2021,18,14,45
+6195,0,maaf ini biar tombol login nya berfungsi bagaimana ya? soalnya di tekan tombol tetap di tampilan ini tidak mau ke tampilan selanjutnya,Mas,Dan,Masdan1408,0,7,5,2021,4,14,6
+6196,6195,Muncul tulisan Login Button pressed gak di console ny?,͏͏,͏͏,kurangartos,0,7,5,2021,4,32,36
+6197,6196,Tidak,Mas,Dan,Masdan1408,0,7,5,2021,4,34,49
+6198,6197,"Harusnya sih ada pass onpressed,",͏͏,͏͏,kurangartos,0,7,5,2021,4,51,29
+6199,6198,Jdi Yg dirubh bagian manaa,Mas,Dan,Masdan1408,0,7,5,2021,4,55,45
+6200,6199,Dgrup sblah kan udh ada yg jelasin,͏͏,͏͏,kurangartos,0,7,5,2021,4,56,35
+6201,6200,Kirain berbeda pendapat gitu,Mas,Dan,Masdan1408,0,7,5,2021,4,59,9
+6202,6201,"Klo koding dasar smua sama, klo beda pendapat biasanya udah masuk ke ranah algoritma yg spesifik, \n\n\nklo utk pindah halaman aja di guide flutter bnyak",͏͏,͏͏,kurangartos,0,7,5,2021,5,0,52
+6203,6201,"lagi pula di sini kita bahas web,\naplikasi mobile silakan di sebelah",oon,,oonid,0,7,5,2021,5,1,11
+6204,6203,Ok,Mas,Dan,Masdan1408,0,7,5,2021,5,2,49
+6208,0,,steven,,,0,7,5,2021,14,8,10
+6209,0,,Noor,Adn,nooradn,0,7,5,2021,21,21,16
+6211,0,,MJF,,,0,8,5,2021,6,12,3
+6212,0,,,,,0,8,5,2021,14,51,21
+6213,0,,zulfan,,montaguejohnson,0,8,5,2021,23,34,1
+6214,0,,Willeke Jacobs,,,0,9,5,2021,2,51,6
+6215,0,,Ade Nehemia,Setiawan,adeNehemiaSetiawan,6285266939205,9,5,2021,6,35,39
+6216,0,,Kaka,Cantik,,0,9,5,2021,9,15,34
+6217,0,,Dayat,A,ariska138,0,10,5,2021,6,38,35
+6218,6195,what is this program name?,,,,0,10,5,2021,9,38,37
+6219,0,,Fiki,Alamsyah,fiki_alamsyah,0,10,5,2021,9,57,28
+6220,0,"bootstrap 5, rilis.\n\npakai dart sass.\n\nhttps://blog.getbootstrap.com/2021/05/05/bootstrap-5/#dart-sass",oon,,oonid,0,10,5,2021,10,50,30
+6221,0,,putraa,,shahputra012,0,10,5,2021,11,15,27
+6222,0,,Alfi,,,0,10,5,2021,11,47,36
+6224,0,,pian,3366,Yayat0909,0,11,5,2021,17,44,13
+6226,0,,haripin,,haripin9,0,12,5,2021,10,0,50
+6227,0,,Albert,,albeert07,0,12,5,2021,12,30,58
+6228,0,"Bang biar selesai loopnya hrus tambah apa ya,m",Albert,,albeert07,0,12,5,2021,12,31,5
+6229,6227,udah coba isi username nya panjang? (7 huruf atau lebih?),oon,,oonid,0,12,5,2021,12,52,30
+6230,0,Udah kak,Albert,,albeert07,0,12,5,2021,12,54,0
+6231,0,Sudah solve kak,Albert,,albeert07,0,12,5,2021,12,54,5
+6232,0,Makasiii,Albert,,albeert07,0,12,5,2021,12,54,6
+6233,0,👍,oon,,oonid,0,12,5,2021,12,54,21
+6234,0,,Amanu,Nur,Amanunur,0,12,5,2021,13,30,26
+6235,0,,mustafa,,moestlombok,0,12,5,2021,14,41,56
+6236,0,,Andika,Hapsoro,andikahapsoro,0,14,5,2021,1,16,45
+6237,0,,Gadjah,Muda,GadjahMuda,0,14,5,2021,11,58,16
+6244,0,,Host,Xyz,HostXyz,0,14,5,2021,17,44,25
+6245,4595,Ada gan,Rizki Mohammad,Farhan,rizkifarhan1858,0,14,5,2021,19,10,59
+6246,0,Kalau agan mau liat tutorial termux bisa liat di website saya,Rizki Mohammad,Farhan,rizkifarhan1858,0,14,5,2021,19,11,15
+6247,0,Materi Android\n\nhttps://android.roombelajar.com,Rizki Mohammad,Farhan,rizkifarhan1858,0,14,5,2021,19,11,36
+6248,0,"speed coding, admin panel (dashboard), pakai flutter web.\n\nhttps://youtu.be/_uOgXpEHNbc",oon,,oonid,0,14,5,2021,22,53,35
+6249,0,,vinx,,vinxxxxxxxxx,0,15,5,2021,18,6,34
+6250,0,,Mery,,Meryanti12,0,15,5,2021,23,57,48
+6251,0,,Raja,Tega,rajatega1111,0,16,5,2021,8,18,55
+6252,0,,Mas,Pipel,Pypypypy3,0,18,5,2021,1,46,29
+6253,0,,Triatna,,,0,18,5,2021,4,17,14
+6254,0,,Faizar,Muhamad,ejanggozali,0,18,5,2021,15,38,19
+6255,0,Meetup: GetConf #2 - Tailoring Flutter and Backend in Small Steps\n\nDate: 22 May 2021\nLocation: Online\nPrice: Free\nTheme: #flutter #dart #mobile #reactive #programming #bloc\n\nDemo the first components - a calendar and application pages. How to use an API with Flutter\n\nWebsite: https://twitter.com/XTechnology5\nTickets: [Register](https://www.eventbrite.co.uk/e/getconf-2-tailoring-flutter-and-backend-in-small-steps-tickets-155704509379?aff=tggetconf),Czji,Yomo,czjiyomo,0,18,5,2021,20,41,19
+6259,0,"sedang berlangsung..\n\nbikin aplikasi fullstack, pakai dart atau kotlin\n\nmasih dalam rangkaian google i/o\n\nhttps://youtu.be/JwCmu_INnCg",oon,,oonid,0,19,5,2021,20,57,52
+6261,0,ini salah satunya untuk bikin layanan web menggunakan container pakai dart di google cloud run.\n\nhttps://youtu.be/S5aK3TIOnIw,oon,,oonid,0,20,5,2021,9,10,47
+6262,0,,Saidul,Gofar,,0,20,5,2021,10,27,15
+6263,6255,We also are looking for a Dart / Flutter expert who can guide or challenge our speaker during the session together with us. Please let us know if you can be the one 👈\nWe'll be happy to see you all there!,Czji,Yomo,czjiyomo,0,20,5,2021,21,7,44
+6264,0,bikin web dengan tema blog menggunakan flutter web \n\nhttps://youtu.be/YvGX4h7Bpic,oon,,oonid,0,21,5,2021,4,11,1
+6265,0,,Wenni Sonya Astrina,,,0,21,5,2021,6,55,56
+6266,0,"bisa buat aplikasi flutter pakai flutterflow di web,\ndibangunnya juga dengan flutter web 👍\n\nhttps://youtu.be/5j82wxzwFyI",oon,,oonid,0,21,5,2021,23,54,16
+6267,0,,Naufal,Nasik,Naufalnasikadani99,0,22,5,2021,3,15,12
+6268,0,,Rifky Sultan,Karisma A,rifkysltn,0,22,5,2021,9,23,5
+6269,0,,Jo,,Dejo06,0,22,5,2021,13,19,35
+6270,0,,Vicky,Ir,,0,23,5,2021,3,49,39
+6271,0,,Z I D A N,,Zidan_72,0,23,5,2021,8,16,27
+6276,0,,Yourbabyboo,,Onichannn7,0,24,5,2021,11,31,27
+6277,0,,Moon,,tahilalatdagu,0,25,5,2021,8,51,45
+6278,0,,Latip,Muhyi,Latipmuhyi,0,25,5,2021,14,8,17
+6279,0,,Tanya aja,,Ncoderdroid_free,6288229079070,25,5,2021,17,11,32
+6280,0,,"¸,ø¤º°`°º¤ø,¸¸,ø¤º° #𝐵🍬𝐿𝒟 °º¤ø,¸¸,ø¤º°`°º¤ø,¸",,anonybosz,0,26,5,2021,1,26,2
+6281,0,,Distra,,,0,26,5,2021,8,11,46
+6282,0,,Ainul,Yaqin,ainulyaqin1,0,26,5,2021,9,25,23
+6283,0,,Azura,,azuranan,0,26,5,2021,17,50,47
+6284,0,,Abd. Rasyid,,iamrasyiid,0,27,5,2021,16,26,42
+6285,0,"#ask ada yg pernah buat tampilan web flutter menggunakan row dan expand, jadi ketika browser di ubah ukurannya, ada waktunya gambar yang di dalam row jadi tidak full, padahal sudah didalam expand",D,R,dennyraymond,0,28,5,2021,2,23,36
+6286,0,,D,R,dennyraymond,0,28,5,2021,2,23,39
+6287,0,,Ashem,As Sabir,,0,28,5,2021,2,51,5
+6288,0,Nvm trnyt dr gambarnya yg ga full,D,R,dennyraymond,0,28,5,2021,3,40,35
+6289,0,😬,oon,,oonid,0,28,5,2021,3,41,3
+6290,0,,Rudi,,arifrudiantorz,0,28,5,2021,5,4,33
+6291,0,series baru yang bahas Flutter Web\n\nhttps://youtu.be/OKh6OJxMNQM,oon,,oonid,0,28,5,2021,13,0,1
+6292,0,,Edwin,,edwinseptiana,0,29,5,2021,6,23,30
+6293,0,,Bima,Janur,bim_a,0,30,5,2021,5,14,39
+6294,0,,Abimanyu,_,ppabimanyu,0,30,5,2021,5,16,26
+6295,0,,Eng Fardowsa,Abdirisak,Eng_fardowsa_abdirisak,0,31,5,2021,17,3,9
+6296,0,,Syarif,Hidayat,mhmmdsyrfhdyt,6282252248340,31,5,2021,23,57,58
+6297,0,,Faris,Ewing,FarisEwing,0,1,6,2021,2,3,7
+6298,0,,Wkwkvdis,,,0,1,6,2021,6,17,36
+6303,0,,Mas,Bramscy,Masbramscy,0,1,6,2021,14,32,6
+6304,0,,me,you,,0,1,6,2021,21,52,34
+6305,0,,Pandu,Betrian,,0,2,6,2021,5,3,11
+6306,0,,Taiso,O,Harigasken,0,2,6,2021,7,56,31
+6308,0,,Muhammad Luthfi,Akbar,luthfizone,6281383734839,2,6,2021,15,52,51
+6309,0,,foks,bertal,hackxxx_46,0,2,6,2021,19,13,55
+6310,0,,𝔍𝔞𝔫𝔱𝔢𝔯_ℌ𝔞𝔯𝔡𝔦𝔞𝔫𝔱𝔬,,,0,3,6,2021,16,34,44
+6311,3313,Kalau gk punya laptop / komputer bisa coding diandroid saja kak,Rizki Mohammad,Farhan,rizkifarhan1858,0,3,6,2021,17,49,32
+6312,3322,Pakai android saja kak 🙏,Rizki Mohammad,Farhan,rizkifarhan1858,0,3,6,2021,17,50,0
+6313,6311,"Pertanyaan bulan apa dijawab kapan ini wkwkkw 😂 sudah om, bukan lagi ngoding di android lagi ini sekarang, tapi ngoding untuk aplikasi android 😁",Dita Permata,Putra,ditateum,0,3,6,2021,22,6,30
+6314,0,,Salman,,alfarizi1906,0,3,6,2021,22,29,11
+6315,0,,Rizky,Hidayatullah,Rizky308,0,4,6,2021,2,59,14
+6316,0,,Toro,,,0,4,6,2021,4,35,12
+6317,6313,Bisa lowh kak ngoding di android,Rizki Mohammad,Farhan,rizkifarhan1858,0,4,6,2021,5,2,6
+6318,3313,Bisa,Rizqi,,rizqialif,0,4,6,2021,5,4,20
+6319,6317,"Hahhaa dak om, aku di laptop aja pake kotlin. Flutternya kapan kapan aja 😁",Dita Permata,Putra,ditateum,0,4,6,2021,5,18,16
+6320,6319,Owh lavi belajar buat aplikasi ya mas,Rizki Mohammad,Farhan,rizkifarhan1858,0,4,6,2021,5,38,13
+6321,0,,Dicky,Nh,dicky_nh,0,4,6,2021,14,16,28
+6322,0,,Sebastian Jeremia,Napitupulu,Babas70,6282370055808,4,6,2021,16,25,59
+6323,0,,IHSAN IT ( jasa desain),,IhsanIT,0,4,6,2021,23,24,14
+6324,0,,Dinar Permadi,,narr07,0,5,6,2021,14,12,39
+6325,0,,Dov,YR_Liberty,,0,6,6,2021,4,13,48
+6326,0,,Taufiq Qurohman,Ruki,Fixx_98,0,6,6,2021,5,31,6
+6333,0,,TINTON,,Tintonhome,0,7,6,2021,4,29,22
+6334,0,assalamualaikum para master ....\nmohon pencerahannya\nwebsite saya bermasalah seperti ini ada cara untuk mengatasunya ??,TINTON,,Tintonhome,0,7,6,2021,4,30,22
+6335,0,ada yg tau cara print yg ini nggak,Rizky,Hidayatullah,Rizky308,0,7,6,2021,4,32,4
+6336,0,*\n**\n***\n****\n*****,Rizky,Hidayatullah,Rizky308,0,7,6,2021,4,32,7
+6337,0,for (int i = 1; i <= 100; i++) {\n  print(i);\n},Rizky,Hidayatullah,Rizky308,0,7,6,2021,4,32,28
+6338,0,,,,,0,7,6,2021,4,35,38
+6339,6334,"masalahnya ada di server (backend), mengalami error HTTP 500.",oon,,oonid,0,7,6,2021,5,16,17
+6340,6335,nggak paham pertanyaannya 😬,oon,,oonid,0,7,6,2021,5,16,44
+6341,6339,untuk solusinya gimana ya mas ? atau saya bisa japrik ?,TINTON,,Tintonhome,0,7,6,2021,5,17,49
+6342,6341,hubungi yang punya (backend) server aja..\nperbaikannya di sisi backend server,oon,,oonid,0,7,6,2021,5,18,26
+6343,6342,Katanya normal2 saja mas.. Saya pun bingung jadinya,TINTON,,Tintonhome,0,7,6,2021,5,19,30
+6344,6343,"kasih screenshot yang itu tadi, HTTP 500 itu internal error,\nkalo normal HTTP 200.",oon,,oonid,0,7,6,2021,5,21,53
+6345,0,okedeh mas makasih infonya yaa,TINTON,,Tintonhome,0,7,6,2021,7,19,32
+6346,0,,I am,Ali,,0,7,6,2021,12,52,59
+6347,0,,Sanjari,Alfian,sanjari_alfian,0,8,6,2021,10,3,20
+6348,0,,Abu Abdillah,,,0,8,6,2021,10,8,56
+6349,0,Flutter web bisa connect ke database sql nggak mas ?,hm,,,0,8,6,2021,12,55,20
+6350,6349,"ini mau connect langsung?\nkalo iya, dari dart harus pakai driver databasenya.\n\ntapi biasanya, pilihan yang lain, nggak langsung connect database, tapi pakai API gitu misalnya",oon,,oonid,0,8,6,2021,14,9,59
+6351,0,Kalo pakai Api berarti backend nya beda sama dart nya ya mas ?,hm,,,0,8,6,2021,14,12,1
+6352,6351,"betul, kalo pakai API, ya pakai backend.\nbikin backend pakai dart juga bisa.",oon,,oonid,0,8,6,2021,14,12,52
+6353,0,"kalo pakai driver database, ya bisa search di pub dev, paketnya.",oon,,oonid,0,8,6,2021,14,13,55
+6354,0,"Oke mas, terima Kasih mas,",hm,,,0,8,6,2021,14,14,38
+6355,0,,Ahmad,Taqiyudin,ahmadtaqiyudin,0,8,6,2021,14,14,38
+6356,0,,HellSing69,,OSSAMA69,0,8,6,2021,16,3,53
+6357,0,,Hans,Star,Hans_Star,0,10,6,2021,2,8,0
+6358,0,https://docs.google.com/document/d/1w1SGwoorhHkYMV46D7SbHQCe97M1mjIVpl7bAvxbBb4/edit?usp=sharing,Rizky,Hidayatullah,Rizky308,0,10,6,2021,4,57,53
+6359,0,ada yg tau,Rizky,Hidayatullah,Rizky308,0,10,6,2021,4,57,57
+6360,0,,Dare,Devil,exia_clone,0,10,6,2021,9,18,26
+6367,0,,Khoirul,Umam,AuthenticXploit,0,10,6,2021,21,29,27
+6368,6358,"hint, pake loop abis itu pake modulus buat ngecek angka",Adithya Firmansyah,Putra,Adithya_13,0,13,6,2021,17,38,4
+6369,0,,Kinan,Yovelda,Kepin53,6283826083795,14,6,2021,2,11,42
+6370,0,,𝓘𝓢𝓝𝓐𝓘𝓝𝓘,,isnaini_python,0,14,6,2021,9,57,11
+6373,0,,,,,0,15,6,2021,16,58,51
+6374,0,,Arif,Prabowo,Upgradeyourpassion,0,15,6,2021,22,16,14
+6375,0,oke bang udah ketemu,Rizky,Hidayatullah,Rizky308,0,16,6,2021,1,21,6
+6376,0,,Raindy,,Rnd888,0,16,6,2021,6,7,32
+6377,0,,Warn,| 7870a,a7870a,0,16,6,2021,10,5,11
+6381,0,,Erich,Hartawan,,0,16,6,2021,11,11,4
+6382,0,"Halo Jogja,\n\nSaat ini Nutapos lagi butuh beberapa posisi neh buat kalian.\n\nKami lagi nunggu keluarga baru yang seru dan passion di bidangnya. \n\nKalau kamu merasa memiliki itu maka kamu layak jadi keluarga kami.\n\nKami tunggu di rumah ya 😊\n\nKirim CV dan portfolio ke hrd@nutapos.com.\n\ninfo loker lebih lengkap klik nutapos.com/lowongan-kerja🔻",Erich,Hartawan,,0,16,6,2021,11,11,7
+6383,0,,Amelia,Akef,,0,17,6,2021,6,55,52
+6391,0,,G,,voetnuzzz,0,17,6,2021,10,55,55
+6396,0,,Dhila,,nadhilaa_01,0,18,6,2021,12,55,39
+6397,0,,Rama Edwinda,,ramepitsme,0,19,6,2021,13,16,44
+6398,0,,Khasan96,,Khasan96,0,19,6,2021,16,23,36
+6399,0,,Mr. Adybala,Nyutbrew,mrnyutbrew,0,19,6,2021,16,51,44
+6402,0,,nova,r8,,0,20,6,2021,10,54,25
+6403,0,"Misi om mau nanya, disni ada yang pernah install Java spring boot ga ya?",ProF,,ProfKhosasih,0,20,6,2021,12,16,35
+6404,0,😬 bisa cari grup yang lebih sesuai mungkin ya..\n\ndi sini kita bahasnya pemrograman web pakai dart.,oon,,oonid,0,20,6,2021,12,18,46
+6408,0,,Radhitya,Hermawan,Radhitya200674,0,22,6,2021,13,23,46
+6409,0,,ziyech,,hakim_ziyech22,0,22,6,2021,17,21,18
+6410,0,,Zen,,zeinirfansyah,0,22,6,2021,19,27,9
+6411,0,,Kiki,,,0,23,6,2021,1,43,44
+6412,0,"Assalamu'alaikum, saya kan baru belajar Dart ngikutin tutorialnya youtube pak eriko, tapi ko ini error ya? sedangkan di tutorial nya tidak error",Kiki,,,0,23,6,2021,1,48,58
+6413,6412,Mungkin yg di youtube dart versi lama. Dan yg kamu pake versi terbaru. Di versi terbaru ada namanya Null Safety. Coba di pelajari aja,Ahmad,Taqiyudin,ahmadtaqiyudin,0,23,6,2021,2,30,16
+6414,6413,Baik mas terimakasih,Kiki,,,0,23,6,2021,3,2,1
+6415,0,,Prana,,Prana10,0,23,6,2021,3,8,30
+6416,6412,"Bisa pakai tanda seru `!` di akhir statementnya\n`String input = stdin.readLineSync()!;`\n`int number = int.tryParse(input)!;`\n\nDi bagian ""Casting away nullability"" dari doc\n> A postfix exclamation mark (!) takes the expression on the left and casts it to its underlying non-nullable type.\nhttps://dart.dev/null-safety/understanding-null-safety#null-assertion-operator",Evan H,,elvanhd,0,23,6,2021,3,30,16
+6421,0,,Wahyu,Lahamid,wahyulahamid,0,23,6,2021,19,48,0
+6422,0,,NuLz,,nulz404,0,24,6,2021,8,10,5
+6423,0,,Rizki,Moza,Moza1107,0,24,6,2021,8,41,51
+6433,0,,Syahrul,Kurniawan,,0,24,6,2021,17,17,58
+6434,0,,Me,,,0,25,6,2021,7,6,50
+6435,0,,Aldi,,,0,25,6,2021,19,21,35
+6436,0,,fu4d«,,Selowinaja,0,26,6,2021,2,23,47
+6437,0,,Dede,Iskandar,Andidedesuhendra,0,26,6,2021,8,11,50
+6438,0,,AL[-]::::::::,,the_972,0,27,6,2021,4,19,2
+6439,0,,ادينايا داسكا,,,0,27,6,2021,15,58,20
+6440,0,,Cristi,Agusseni,dikara_senja,0,28,6,2021,23,43,38
+6441,0,,Alih,Drajat,AlihDrajat,0,30,6,2021,2,56,46
+6442,0,,Hanif Dwy,,hanifdwypoetra,0,30,6,2021,3,57,47
+6444,0,,,,,0,30,6,2021,17,31,42
+6445,0,,Dicky,Nh,dicky_nh,0,1,7,2021,1,41,49
+6446,0,,Gelas,,catack,0,1,7,2021,13,33,21
+6447,0,,Ryan,,RyanArdyan,0,1,7,2021,16,45,23
+6448,0,,Eka,Ppt,ekappt,0,3,7,2021,8,39,26
+6449,0,,Makhluk,Mars,M4khlu5,0,4,7,2021,7,57,10
+6450,0,Siapa yang bisa,Anto,Prasetyo,,0,4,7,2021,9,56,6
+6451,0,Jelasin alur program aku,Anto,Prasetyo,,0,4,7,2021,9,56,15
+6452,0,Aku kasih free nya,Anto,Prasetyo,,0,4,7,2021,9,56,23
+6453,0,Duit,Anto,Prasetyo,,0,4,7,2021,9,56,26
+6454,0,"""fee"" kak.. \n\nprogram dart ini maksudnya?",oon,,oonid,0,4,7,2021,9,58,13
+6455,0,,あなたをファック,,,0,5,7,2021,12,28,46
+6456,0,,Amai,Kiring,geopelia,0,6,7,2021,0,53,4
+6457,0,Selamat pagi,あなたをファック,,,0,6,7,2021,2,16,59
+6458,0,👋,oon,,oonid,0,6,7,2021,2,22,31
+6459,0,,reyhan,kafi pratama,reyhaaankafi,0,6,7,2021,10,17,20
+6461,0,,Webe,,,0,6,7,2021,17,49,5
+6462,0,,arrye,gunawan,,0,7,7,2021,3,28,55
+6463,0,👍👍👍 Hai,arrye,gunawan,,0,7,7,2021,3,29,5
+6467,0,,ivan,kesruth,ivankesruth,0,8,7,2021,9,10,7
+6468,0,Penyebabnya apa ya kak?,ivan,kesruth,ivankesruth,0,8,7,2021,9,12,1
+6469,6468,install git,oon,,oonid,0,8,7,2021,9,21,52
+6470,0,Makasih kak,ivan,kesruth,ivankesruth,0,8,7,2021,9,50,29
+6471,0,Kenapa ya gak bentuk file main. Dart di bin kak?,ivan,kesruth,ivankesruth,0,8,7,2021,10,56,1
+6472,6471,prosesnya yang dilakukan gimana.. kurang paham maksud pertanyaannya.,oon,,oonid,0,8,7,2021,13,24,34
+6473,0,Apakah setiap bikin project baru otomatis main. dart akan terbentuk kak?,ivan,kesruth,ivankesruth,0,9,7,2021,1,41,39
+6474,0,Maaf bahasanya belibet kak 🙏,ivan,kesruth,ivankesruth,0,9,7,2021,1,56,59
+6475,6473,Benar kak,_ignore,,Igggnoore,0,9,7,2021,3,35,8
+6476,0,"Blm berhasil jg sy, knp gak  terbentuk main.dart nya",ivan,kesruth,ivankesruth,0,9,7,2021,6,57,33
+6477,0,,Veronika,,,0,9,7,2021,7,20,32
+6478,0,,Miral,Agustian,,0,9,7,2021,11,18,32
+6479,0,Misi kk mohon maaf mau nanya gimana cara nya lacak imei hp.,Webe,,,0,9,7,2021,14,28,9
+6480,6479,"salah grup kak, di sini kita belajarnya bahasa pemrograman Dart.",oon,,oonid,0,9,7,2021,14,29,34
+6481,0,,Asep,Sobarudin,UNXeon,0,9,7,2021,15,24,37
+6482,0,,Denay,Nst,,0,9,7,2021,19,2,0
+6483,0,,Đarmansyah,,Asus213,0,10,7,2021,4,53,54
+6484,0,Kk abg. \nNaya bg klau disini ada yg tau \nYolpai kjh/*hjypu'ygjbkp«portal1€kajoi1.0.0.0823.080 milik australia bg,Denay,Nst,,0,10,7,2021,19,33,4
+6485,0,Nya bg,Denay,Nst,,0,10,7,2021,19,33,7
+6486,0,Soal nya bg data data dari dart biasa di ambil dari sana konon kata nya bg,Denay,Nst,,0,10,7,2021,19,34,7
+6487,0,"Pygh«top«linux;! 'hokap=,nya""dot""/*kompontop 1.1.1.1.2.8.0.5.4.",Denay,Nst,,0,10,7,2021,19,35,28
+6488,0,,Andiah,,aaandiah,0,11,7,2021,4,12,20
+6489,0,,va,,unameva,0,11,7,2021,8,43,39
+6490,0,Ada yang bisa bantu ubah format date???,TINTON,,Tintonhome,0,12,7,2021,4,15,38
+6491,0,,Nuraeni,nur12,Nuraeninur12,0,12,7,2021,7,42,30
+6492,0,,G_RchmtP,,grchmtp,0,12,7,2021,8,14,32
+6493,0,"web: http://bahasakoding.com/fungsi-metode-dengan-return-java-kotlin-scala-python-dart-code-video/\n\nMetode/ Fungsi adalah sekumpulan kode yang ditujukan untuk melaksanakan suatu tugas tertentu yang melekat dalam suatu objek/ kelas dan kode-kode tersebut akan dijalankan kelau metode tersebut dipanggil. Metode dibuat untuk menyederhanakan kode, terutama kalau kode tersebut sering digunakan. Sebagai contoh, kita bisa menghitung akar suatu bilangan dengan mudah menggunakan fungsi: Math.sqrt.\n\ncode: Java, Kotlin, Scala, Python & Dart",Raden,Pratama,radenRanggaPratama,0,12,7,2021,14,28,44
+6494,0,,Swapnil,,,0,14,7,2021,3,0,28
+6495,0,,Dinosaurus,Prana,pranahonk,0,15,7,2021,16,24,25
+6496,0,,nas,staiko,nas_staiko,0,16,7,2021,12,15,42
+6497,0,,Yudit,W.A.S,Yuditwas,0,16,7,2021,15,42,50
+6498,0,Izin tanya.\n\nada tutorial angular dart? bahasa indonesia? Untuk membuat aplikasi web?,Raden,Pratama,radenRanggaPratama,0,18,7,2021,1,45,11
+6499,0,,Yaff,,yaff_alhakim,0,18,7,2021,1,58,28
+6500,0,,goofy,,habisbatre,0,18,7,2021,12,26,45
+6501,0,,Renaldy Gaotama,Wikarsa,,0,19,7,2021,4,2,19
+6502,0,"Salam kenal saya yudit dari malang, mohon bantuannya belajar dart",Yudit,W.A.S,Yuditwas,0,19,7,2021,6,16,12
+6503,0,👋,oon,,oonid,0,19,7,2021,6,46,32
+6504,0,,AJI,PANGESTU,Capunk_kismis,0,20,7,2021,0,5,20
+6505,0,bikin single page scrollable website pake flutter\n\nhttps://medium.com/flutter-community/flutter-for-single-page-scrollable-websites-with-navigator-2-0-part-1-introduction-c219b471bbec,oon,,oonid,0,20,7,2021,5,15,20
+6506,0,,Fadlan,Lubis,,0,20,7,2021,9,59,54
+6507,0,Assalamualaikum,Fadlan,Lubis,,0,20,7,2021,9,59,58
+6508,0,Myschool.fadlanlubis.net,Fadlan,Lubis,,0,20,7,2021,10,0,11
+6509,0,Sarannya temen temen,Fadlan,Lubis,,0,20,7,2021,10,0,13
+6510,0,,Sky,We,,0,20,7,2021,13,47,57
+6511,0,,Fajra,,,0,21,7,2021,4,18,7
+6512,0,,Isti,Amelia,,0,22,7,2021,12,22,19
+6513,0,,Andre,,,0,23,7,2021,16,52,26
+6514,0,Ada yang bisa bantu \nBuat criptografi metode block\nPakai bahasa dart,Andre,,,0,23,7,2021,16,53,10
+6515,6514,nggak pakai library dari pub aja?,oon,,oonid,0,24,7,2021,2,3,58
+6516,0,Ini tugas sih bang \nAbang bisa bantu?,Andre,,,0,24,7,2021,2,5,0
+6517,0,"ya kalo gitu cek aja library yang sudah ada di pub tersebut, ada potongan kodenya, bisa buat bikin tugas.\nngurusin kriptografi bakal panjang bikinnya kalo dari nol.",oon,,oonid,0,24,7,2021,2,6,48
+6518,0,PUB ya ?,Andre,,,0,24,7,2021,4,25,3
+6519,0,pub.dev,oon,,oonid,0,24,7,2021,4,28,18
+6520,0,"cari paketnya di situ,\nbbrp ada yang open source,\nnanti bisa liat source code nya",oon,,oonid,0,24,7,2021,4,28,40
+6521,0,Ok makasih banyak ya bang 🙏👍,Andre,,,0,24,7,2021,4,29,9
+6522,0,,Riswanda,Al Farisi,riswandaaf,0,24,7,2021,16,2,47
+6523,0,,Crypto.io,,,0,25,7,2021,3,48,22
+6524,0,,꧁ঔৣ☬🆆🅰🅹🅰☬ঔৣ꧂,,ka_waja,0,25,7,2021,6,41,44
+6525,0,,Fitrah,Muhammad,fitrh,0,25,7,2021,16,16,14
+6526,0,Mau tanya cara run project flutter pakek hp bagaimana ya untuk konekin ada revensi tutornya?,Fevilo,,Fevilo,0,26,7,2021,14,0,0
+6527,6526,hemmm.. menarik pertanyaannya.. udh pke termux?,Arief,fajar gemilang,,0,26,7,2021,14,37,52
+6528,0,Masud saya emulatornya pakai hp bukan android studio,Fevilo,,Fevilo,0,26,7,2021,15,12,28
+6529,6528,"kalo udah ada android studio nya, trus coba pasang aja hp nya, terdeteksi nggak dengan android studio (adb) nya?",oon,,oonid,0,26,7,2021,15,19,27
+6530,0,"Ini gak perlu setting"" mas? Siap mas saya coba 🙏",Fevilo,,Fevilo,0,26,7,2021,15,20,49
+6531,0,"oalah.. kirain jalanin project flutter di hp.. ternyta debug pke device toh, gk pke emulator..",Arief,fajar gemilang,,0,26,7,2021,15,23,37
+6532,0,"maap maap,salah paham ak mas @oonid  kwkwkw",Arief,fajar gemilang,,0,26,7,2021,15,23,52
+6534,0,,Adib,B,dipoez,0,27,7,2021,4,3,23
+6535,0,,Kang,Acil,KangAcil,0,27,7,2021,14,26,16
+6536,0,,thaariq,Wirayudha,Aldebaran_al_fahri,0,28,7,2021,6,59,57
+6537,0,,Asdr,.....,Abdan_sdr,0,28,7,2021,10,15,23
+6538,0,Mas mau tanya ada yang punya kumpulan script buat termux ga ya??,Kang,Acil,KangAcil,0,28,7,2021,10,33,33
+6539,0,,Ananda Widitomo,| RS FS PKU Demak,anandawiditomo,0,28,7,2021,16,20,42
+6540,0,"Pernisi mau tanya, dart bisa pake vscode?\nPake intelijidea beraat",Yudit,W.A.S,Yuditwas,0,29,7,2021,11,41,46
+6541,6540,"bisa, ada official plugin juga untuk vscode",oon,,oonid,0,29,7,2021,11,42,17
+6542,0,"Siaap, makasih bang",Yudit,W.A.S,Yuditwas,0,29,7,2021,11,42,34
+6543,0,,Ase,Ramdan,Aseramdan,0,29,7,2021,15,0,27
+6544,0,,raYMon,Č̶̰̦̥̍̃̽͋̈́̉̽́̏R̴̠̭͛ ̱̦̣ͅN̷̯̩̍́́̈́͝,gggamingk,0,29,7,2021,21,40,41
+6545,6528,"Hp ny di setting dulu mas, di setelan pengembang biar ke detect sbgai emulator nantiny",Riswanda,Al Farisi,riswandaaf,0,30,7,2021,6,19,59
+6546,0,,Ifdal,Graviz,,0,30,7,2021,14,39,13
+6547,0,Ada yang tau kenapa menjalankan dart di vscode ketika di run keluarnya setting json?,Yudit,W.A.S,Yuditwas,0,30,7,2021,22,33,55
+6548,0,,Arif,,arief_rachman1,0,31,7,2021,3,29,27
+6549,0,,Ramdani,Dani,,0,31,7,2021,3,39,48
+6550,0,,samsul,aripin,samsul_arpin,0,31,7,2021,13,31,43
+6551,0,,Fathor,Rosi,NightSky2517,0,31,7,2021,16,0,1
+6552,0,,Kai,,tuankaizo,0,31,7,2021,22,18,20
+6553,0,,Febriqgal,,Febriqgal,0,1,8,2021,2,25,22
+6554,6545,Siap mas udah bisa,Fevilo,,Fevilo,0,1,8,2021,2,26,41
+6555,0,,Fortuno,Faqih,fortuntun,0,1,8,2021,3,38,35
+6556,0,"Menghitung pangkat di Java, Kotlin, Scala, Python dan Dart (code + video)\n\n\nWeb\nhttp://bahasakoding.com/menghitung-pangkat-di-java-kotlin-scala-python-dan-dart-code-video/",Raden,Pratama,radenRanggaPratama,0,2,8,2021,4,2,47
+6557,0,,MardanZen,,MardanZen,0,2,8,2021,10,42,1
+6558,0,,Kurniadi,Lubis,,0,2,8,2021,11,19,29
+6559,0,,What is my name,,,0,2,8,2021,19,19,24
+6560,0,,Leo,Gunadarma,leogunadarma16,0,3,8,2021,6,5,48
+6561,0,,Adnan,,Adnan2309,0,3,8,2021,22,36,38
+6562,0,,Hartanto,,hartanto6,0,4,8,2021,1,35,4
+6563,0,,Iya Apa,,Iyaapa88,0,5,8,2021,9,42,22
+6564,0,,Angga,Gumelar,anggagumelar,0,6,8,2021,13,50,21
+6565,0,,Didit,Tjajono,,0,7,8,2021,20,42,14
+6566,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation (Junior/Middle) \n3. Sr. QA Engineer (Senior) \n4. Computer Vision - Data Scientists (Middle/Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. ETL Developer  (Junior/Middle/Senior) \n8. Sr. SAP BW/BPC (Senior) \n9. FullStack Developer (Middle/Senior) \n10. Business Analyst (Junior/Middle) \n11. Project Manager (Senior) \n12. Power BI Developer (Senior) \n13. SAP BASIS (Middle/Senior) \n14. ReactJS Developer (Junior/Middle) \n15. Android Developer (Junior/Middle) \n16. Java Developer (Middle/Senior) \n17. Flutter Developer (Junior/Middle) \n18. ERP Consultant (Middle/Senior) \n \nStatus: Contract \nPlacement: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :)",Angga,Gumelar,anggagumelar,0,8,8,2021,10,5,14
+6567,0,,@Suryadi,,,0,8,8,2021,20,44,41
+6568,0,Dart ini program untuk apa,@Suryadi,,,0,9,8,2021,6,43,26
+6569,0,"Dart itu nama bahasa pemrograman.\nbisa untuk banyak platform, misalnya untuk aplikasi mobile ataupun web.\n\nbisa cek juga situs resminya di https://dart.dev",oon,,oonid,0,9,8,2021,6,45,16
+6570,0,Kaka kandung python bukan,@Suryadi,,,0,9,8,2021,6,46,51
+6571,0,"karena python bukan dibuat oleh tim google,\nkayaknya bukan ""saudara kandung"".\nkalo sama golang, mungkin masih ada hubungan ""saudara""(?)",oon,,oonid,0,9,8,2021,6,47,57
+6572,0,Beda nama beda keamanan kah?,@Suryadi,,,0,9,8,2021,6,59,1
+6573,0,"ya gampangnya kayak orang aja,\nbeda nama ya beda ""semuanya"".",oon,,oonid,0,9,8,2021,6,59,45
+6574,0,Contoh dari hasil dart.web apa?,@Suryadi,,,0,9,8,2021,7,1,8
+6575,0,Lowongan Pekerjaan (Loker)\nImperial Healthtech mencari Flutter Developers \nRemote domisili Jawa Tengah/Jawa Timur\nDaftar sekarang di https://imperialhealthtech.com/#career,Choirunnisa,Hapsari,choirunnisa,0,9,8,2021,7,1,52
+6576,6575,Blm jago gan,@Suryadi,,,0,9,8,2021,7,2,45
+6577,6574,"ini kutipan dari google nya sendiri:\n\n```The AngularDart packages power some of Google's most critical applications. It's built on Dart and is used by Google Ads, Google AdSense, Google Fiber, Google Play Console and many more projects.```\n\njadi layanan Google Ads itu dibangun dari web Dart.\n\nhttps://github.com/angulardart/angular",oon,,oonid,0,9,8,2021,7,4,1
+6578,0,Klo GitHub Aku sering ketik di termux,@Suryadi,,,0,9,8,2021,7,4,52
+6579,0,,adam,yasin,,0,9,8,2021,9,16,10
+6580,0,,Hielmy,Nur Evansyah,Hielmy,0,9,8,2021,14,15,15
+6581,0,"assalamu'alaikum maaf melenceng dari pembahasan grup, saya sedang mencari tempat magang yang menerima mahasiswa tingkat akhir untuk daerah bogor atau jakarta yang kerja secara WFH, kalau ada mohon chat saya secara personal. \n\nNama saya : Dandy Firnanda H.P\nSemester :  6\nJurusan : Ilmu komputer\nUniversitas Pakuan Bogor\nTerima kasih",Mas,Dan,Masdan1408,0,9,8,2021,14,43,44
+6582,0,,fauzaan,irsyaadi,Fauzaanirsyaadi,0,10,8,2021,8,12,4
+6583,0,,Muhammad,Rizky,,0,10,8,2021,11,43,47
+6584,0,,Muhamad,Ridwan,ri_one,0,10,8,2021,12,27,0
+6585,0,,Diah ayu r.s,,,0,10,8,2021,16,4,59
+6587,0,,Endi,Maulana,,0,11,8,2021,12,55,19
+6588,0,,ABOU-SAAD,,AbouSaad31,0,12,8,2021,13,18,8
+6589,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation (Junior/Middle) \n3. Sr. QA Engineer (Senior) \n4. Computer Vision - Data Scientists (Middle/Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. ETL Developer  (Junior/Middle/Senior) \n8. Sr. SAP BW/BPC (Senior) \n9. FullStack Developer (Middle/Senior) \n10. Business Analyst (Junior/Middle) \n11. Project Manager (Senior) \n12. Power BI Developer (Senior) \n13. SAP BASIS (Middle/Senior) \n14. ReactJS Developer (Junior/Middle) \n15. Android Developer (Junior/Middle) \n16. Java Developer (Middle/Senior) \n17. Flutter Developer (Junior/Middle) \n18. ERP Consultant (Middle/Senior) \n \n \nStatus: Contract \nPlacement: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :) \n \n#Loker #Programmer #Frontend #Backend #FullStack #Developer #SoftwareEngineer",Angga,Gumelar,anggagumelar,0,12,8,2021,14,56,18
+6590,6589,sabar kak.. baru 4 hari lalu posting hal yang sama.\nsilakan posting hal yang terkait diskusi grup ya.. \njangan cuma iklan loker.,oon,,oonid,0,12,8,2021,14,57,41
+6591,0,,Faundra,Zahran,faundra18,0,12,8,2021,23,34,17
+6592,0,Assalamualaikum,Faundra,Zahran,faundra18,0,12,8,2021,23,34,42
+6593,6592,waalaikumussalam warahmatullahi wabarakatuh 👍,oon,,oonid,0,12,8,2021,23,35,43
+6594,0,"Saya punya peluang nih buat bangun web besar,dicari rekan yang punya tekad tinggi dan tentunya jiwa web developer,pc ya😁👍",Faundra,Zahran,faundra18,0,12,8,2021,23,36,45
+6595,0,"Bocoran,jenis web nya seperti e commerce,ditunggu ya semoga ada",Faundra,Zahran,faundra18,0,12,8,2021,23,38,14
+6596,0,,,,,0,13,8,2021,6,7,42
+6599,0,,,,,0,13,8,2021,7,32,6
+6608,0,,Frengki,Akbar,star09721,0,16,8,2021,7,56,43
+6609,0,Hallo gaes izin gabung ya😊,Frengki,Akbar,star09721,0,16,8,2021,7,57,7
+6610,0,👋,oon,,oonid,0,16,8,2021,7,57,58
+6617,0,"Mau tanya para master, tau coding buat video call sama audio call ga?",Yugi,Ugie,Yugi90,0,18,8,2021,15,50,2
+6618,0,Trus pake apa?,Yugi,Ugie,Yugi90,0,18,8,2021,15,50,13
+6619,0,"Coba pake jitsi mas, https://jitsi.org/",Dimas,Pratama,,0,19,8,2021,3,28,44
+6620,0,Master mau tanya cara kerja server aplikasi game gimana sihh,@Suryadi,,,0,19,8,2021,8,51,20
+6621,6619,trima kasih master.. 😀,Yugi,Ugie,Yugi90,0,19,8,2021,14,21,56
+6622,0,,Dhiva,Putra S.,dps981,0,19,8,2021,22,13,39
+6623,0,,unknown,,blackhaxe79,0,20,8,2021,0,42,20
+6624,0,Selamat pagi kak\nMau tanya kira-kira ini output nya berapa ya? Udah di eksekusi pake compiler ternyata malah error :),unknown,,blackhaxe79,0,20,8,2021,0,43,28
+6625,6624,erornya apa waktu dicoba pakai compiler?,oon,,oonid,0,20,8,2021,1,46,44
+6626,0,"siang kak\nmau tanya ini create project flutternya kok lama ya, padahal kemarin"" itu aman aj\nada solusi?",Alih,Drajat,AlihDrajat,0,20,8,2021,4,29,5
+6627,6626,koneksi internetnya(?)\natau coba pilih bikinnya offline (ada di pilihan menunya),oon,,oonid,0,20,8,2021,4,29,57
+6628,0,siap kak\nterima kasih,Alih,Drajat,AlihDrajat,0,20,8,2021,5,32,34
+6629,0,,Badrol,,,0,20,8,2021,12,24,25
+6636,0,,BAROKAH JAYA,,JAYABISA12,0,20,8,2021,16,49,27
+6637,0,,HASRUL,,JAYAKAYA11,0,20,8,2021,17,9,18
+6640,0,,Syahrial,Arie,syahrialarie,0,21,8,2021,8,24,7
+6641,0,,Alka,Prasetya,,0,21,8,2021,10,28,27
+6642,0,,Rizky,GMP,,0,21,8,2021,15,59,13
+6643,0,,Fauzi,Sutiono,,0,22,8,2021,5,47,0
+6644,0,,ninaa,,bobabybuu,0,22,8,2021,19,37,4
+6645,0,,Muhammad Rusdy,,,0,22,8,2021,21,5,17
+6646,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation - Katalon or Selenium (Junior/Middle) \n3. Sr. QA Engineer Automation (Senior) \n4. Computer Vision - Data Scientists (Middle/Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. SAP ABAP (Middle/Senior) \n8. FullStack Developer - ReactJS,NodeJS,VuesJS (Middle/Senior) \n9. IT Project Manager - Exp. Mining Industry (Senior) \n10. ReactJS Developer (Junior/Middle) \n11. Android Developer (Junior/Middle) \n12. Java Developer (Middle/Senior) \n13. ERP Consultant - Ms. Dynamics AX 2012 (Middle/Senior) \n14. Sr. Digital Architect (Senior) \n15. Tech Lead (Middle/Senior) \n16. SCRUM Master (Middle/Senior) \n17. IT Strategy & Architecture Specialist (Senior) \n18. DevOps (Middle) \n19. IT System Admin (Middle/Senior) \n \nStatus: Contract \nLocation: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for detail & fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :) \n \n#Loker #Programmer #Frontend #Backend #FullStack #Developer #SoftwareEngineer #Golang #ReactJS #NodeJS #VueJS",Angga,Gumelar,anggagumelar,0,23,8,2021,3,29,39
+6651,0,,Deya,,,0,23,8,2021,10,40,36
+6652,0,,Bagas,Kusuma,,0,23,8,2021,12,40,3
+6653,0,,Tegar,Saputra,,0,24,8,2021,1,34,2
+6654,0,,Jafar,Fajar,fajarakajafar13,0,24,8,2021,2,46,17
+6655,0,Izin admin \nAda yg bisa buat tool buat akun google secara otomatis one klik gitu 🙏,andra,,Andrabro,0,24,8,2021,7,5,37
+6656,0,,Jeffrey,M,JeffreyMaulana1,0,24,8,2021,12,35,34
+6663,0,,Tom,,tomafrialdi,0,27,8,2021,7,17,17
+6664,0,"Salam kenal. Saya tommy. \nKami sedang membutuhkan backend developer (full time) dan bisa remote/wfh. Kalo temen"" disini ada yg minat bisa kirim cv dan resumenya ke tommy@elemes.id\n\nInformasi lebih lanjut bisa hub/chat wa 081375243479 \n\nTerimakasih 😁",Tom,,tomafrialdi,0,27,8,2021,7,17,49
+6672,0,,Fardli,871,Fadly778,0,27,8,2021,23,4,4
+6673,0,Misi pak,Fardli,871,Fadly778,0,27,8,2021,23,4,9
+6674,0,Salam kenal semuaa izin bertanya,Fardli,871,Fadly778,0,27,8,2021,23,4,17
+6675,0,Kalo solusi untuk problem begini gimana yaa..,Fardli,871,Fadly778,0,27,8,2021,23,4,31
+6676,0,,Fardli,871,Fadly778,0,27,8,2021,23,4,31
+6677,0,,Kedo,,nesnyx,0,28,8,2021,13,48,22
+6678,0,,Ilham Prasetyo Putra Utama,,Putra_Ahong,0,28,8,2021,17,8,7
+6679,0,,Hisyam,,sammrdn,0,29,8,2021,15,19,37
+6680,0,,Tarmuji,,,0,30,8,2021,8,7,50
+6685,0,,Fitri,Widyaningsih,,0,31,8,2021,14,12,12
+6686,0,,Oeil,,Wahoei,0,31,8,2021,23,28,36
+6687,0,,3386 Seyavan,,seyavan,0,1,9,2021,11,7,49
+6688,0,,Farid,Anggoro,faridanggoro_05,0,2,9,2021,16,37,29
+6689,0,,sinta,,sintaanjelinaa,0,2,9,2021,16,45,37
+6690,0,,Rohmani,Nasrul,Ups_on,0,4,9,2021,4,7,59
+6691,0,,7Sensei,,pithu_sensei,0,5,9,2021,11,13,50
+6692,0,,Mahendra,,mahendrakun,0,5,9,2021,12,45,31
+6699,0,,King,Knight,bibionf,0,8,9,2021,1,19,1
+6700,0,,Benelux,Leathergoods,Benelux_leathergoods,0,9,9,2021,2,8,19
+6701,0,,Rommi,Kaestria,rommikaestria,0,10,9,2021,5,29,22
+6702,0,,Tias,,,0,10,9,2021,9,36,26
+6703,0,"Halo semua, salam kenal.. \n \nDibutuhkan Mobile Developer (Flutter) dengan pengalaman minimal 2 tahun yang bisa join ASAP. \nJika ada yang berminat bisa langsung PM saya ya.. \n \nTerima kasih",Tias,,,0,10,9,2021,9,36,30
+6704,0,,Daffa Budi,,daffaabp,0,12,9,2021,15,33,25
+6705,0,,Kepo,Lau,,0,13,9,2021,3,32,10
+6706,0,,Yulliam,Prasetiyo,Yuliamprasetiyo,0,13,9,2021,6,0,52
+6707,0,"Hi Tech people ✋\nCurrently PT Bimasakti Multi Sinergi is looking for :\n\nIOS Developer = https://www.bm.co.id/blog/ios-developer/\nWeb Developer = https://www.bm.co.id/blog/web-developer/\nJava Developer = https://www.bm.co.id/blog/java-developer/\n\nExperience : Min 2 years\nPlacement : Sidoarjo Jawa Timur\nCompany : PT Bimasakti Multi Sinergi\nSalary : Negotiable\n\nIOS : Swift\nWeb Developer : CSS, javascript, vue, angular, bootstrap\nJava Developer : MySQL & PostgreSQL\n\nWeb : https://www.bm.co.id",Yulliam,Prasetiyo,Yuliamprasetiyo,0,13,9,2021,6,1,21
+6708,0,,Yulliam,Prasetiyo,Yuliamprasetiyo,0,13,9,2021,6,1,25
+6709,0,,Yulliam,Prasetiyo,Yuliamprasetiyo,0,13,9,2021,6,1,27
+6710,0,,Juliana_ana,,Juliana_ana2428,0,13,9,2021,10,47,46
+6711,0,,Restu,Swanda,,0,13,9,2021,11,37,38
+6712,0,,H,...,FiberDeveloper,0,14,9,2021,19,22,45
+6713,0,,Ramadhani,,ramadhani997,0,14,9,2021,21,48,55
+6716,0,,Luki,Sanjaya,lukisanjaya,0,16,9,2021,2,17,42
+6717,0,"Ijin Share🙏🏻 #LOKER #Flutter #Jakarta\nDibutuhkan Lowongan Flutter Dev\nOnSite Jakarta Selatan Kebayoran Lama\nKirim CV anda, Link github/link portofolio, beserta gaji yang anda harapkan ke rekrutmen@jpnn.com\nDengan Subjek ""Flutter Programmer""",Luki,Sanjaya,lukisanjaya,0,16,9,2021,2,17,52
+6722,0,,hmm,,,0,16,9,2021,10,18,3
+6727,0,,bubbie,,axvbng,0,18,9,2021,1,29,50
+6728,0,,Sekali sebelum,,Sekalisebelum,0,18,9,2021,1,41,23
+6729,0,,Nancy,,N52279156,0,18,9,2021,2,26,27
+6733,0,,Faiz,Why,Ahmad030895,0,18,9,2021,7,8,46
+6734,0,,Tri,We,Trivori,0,18,9,2021,8,14,36
+6736,0,,Hankis,Gregg,,0,18,9,2021,14,58,44
+6737,0,,AEM,DE,A3emde,0,19,9,2021,4,11,28
+6738,0,,Risco Ramdani,,mrisco80,0,19,9,2021,11,35,37
+6739,0,,kahfi,,,0,19,9,2021,13,46,0
+6740,0,,Afwiq,Rojun,,0,19,9,2021,13,54,18
+6741,0,Angular Dart v7.0.0\n\nhttps://github.com/angulardart/angular/releases/tag/angular-v7.0.0,oon,,oonid,0,20,9,2021,9,5,37
+6742,0,,R,Rajagukguk,richardrajagukguk,0,20,9,2021,16,29,31
+6743,0,,Greghar,Maruanaya,GregharMaruanaya,0,21,9,2021,9,26,42
+6744,0,,Kadek,Darmayasa,kadekdarmayasaa,0,21,9,2021,13,4,31
+6745,0,,Januar,,Abdyunior,0,21,9,2021,16,3,44
+6746,0,,Jayus.,,,0,22,9,2021,3,36,29

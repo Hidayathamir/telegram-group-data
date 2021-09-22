@@ -1,0 +1,613 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+2135,0,Nama : Akram Firmansyah\nProdi : Teknik Informatika UNHAS\nSalam Kenal,Akram Firmansyah,,,0,19,9,2020,9,34,48
+2136,0,"Hello, welcome on board",Andi,Wijaya,andiwijayaid,0,19,9,2020,10,13,47
+2137,0,,Faisal Rahareng,,,0,19,9,2020,18,24,43
+2139,0,Nama : FAISAL RAHARENG\nProdi : Teknik Informatika UMI\nSalam Kenal,Faisal Rahareng,,,0,19,9,2020,18,25,32
+2142,0,"Halo temen-temen. Ada yg bersedia bantu aku khusus Android Developer? Aku butuh sekitar 10 responden gitu buat wawancara dengan TurianLabs mengenai platform Play Academy. Gampang kok pake bahasa Indonesia, setiap pertanyaan ga ada jawaban benar atau salah... Kalo bersedia silakan hubungi aku aja di WA 08981505373.\n\nTerima Kasih.\n\n> oh iya kalo wawancaranya tuntas, akan ada benefitnya lho. Kemarin saya dapat. Lumayan  buat ganjal perut. heheheh",A.R.A,,,0,21,9,2020,11,56,15
+2143,0,,Fifi,Ardhiana,ifiardh,0,21,9,2020,12,54,34
+2145,0,Halo\nNama: Fifi Ardhiana\nProdi: teknik informatika STMIK\nBaru belajar tentang pemrograman mohon bimbingannya,Fifi,Ardhiana,ifiardh,0,21,9,2020,13,0,7
+2146,0,Salam kenal,Fifi,Ardhiana,ifiardh,0,21,9,2020,13,0,19
+2147,0,iyaa,Hanan,Asyrawi,hananloser,0,21,9,2020,13,0,57
+2150,0,,Bakti,Menanga,Menanga,0,23,9,2020,15,7,14
+2152,0,,double,d,damakuro221,0,23,9,2020,18,1,13
+2154,0,,,,,0,23,9,2020,21,44,19
+2156,0,,Wawan,Yuliyanto,waoneyuli,0,24,9,2020,4,6,41
+2158,0,,,,,0,24,9,2020,19,13,43
+2164,0,hello developers....\nuntuk menemani FE Flutter saya bersedia mengajari satu siklus lengkap tentang BE Java Spring Boot... please pm me,Nanang Rustianto,,v13nr,0,25,9,2020,4,55,41
+2165,0,"Mas, kenapa ya, ketika sya run aplikasinya, kok yang muncul seperti ini?",Alba,Purnama,,0,26,9,2020,4,46,31
+2166,0,,Alba,Purnama,,0,26,9,2020,4,46,31
+2167,2165,Dart:html not found mas...sdh d import ya?,Evan,Lund,,0,26,9,2020,4,59,22
+2168,0,Alhamdulillah sudah bisa ter running.,Alba,Purnama,,0,26,9,2020,5,4,37
+2169,0,Mau tanya apakah di flutter bisa menulis utk tulisan arab?,Alba,Purnama,,0,26,9,2020,5,4,57
+2170,0,"Blum pernah nyoba mas, bisa aj coba pke font aj d pubspec.yaml",Evan,Lund,,0,26,9,2020,5,6,27
+2171,0,seperti ini mas,Alba,Purnama,,0,26,9,2020,5,7,58
+2172,2171,hmm belum pernah coba,Hanan,Asyrawi,hananloser,0,26,9,2020,5,8,50
+2173,0,"mas, rencana sya mau buat seperti ini. terdiri dari 9 baris. saya ingin membuat tombol tiap-tiap baris sekaligus ada background suaranya ketika di klik pada masing2 tombol.",Alba,Purnama,,0,26,9,2020,5,14,55
+2174,0,caranya bagaimana ya?,Alba,Purnama,,0,26,9,2020,5,15,8
+2175,2169,Bisa coba dgn localization (sesuai pilihan bahasa) atau tambah widget Directionaly di MaterialDesign,Andi,Wijaya,andiwijayaid,0,26,9,2020,5,15,16
+2176,2175,Bs terapkan ini dan dibuat dlm list dgn child flatbutton,Andi,Wijaya,andiwijayaid,0,26,9,2020,5,16,44
+2177,2175,mas punya tutorial ya?,Alba,Purnama,,0,26,9,2020,5,20,4
+2178,2177,"coba di goolging aja dlu gan pakai keyword diatas, untuk tutorial spesifik yang agan mau saya nd punya",Andi,Wijaya,andiwijayaid,0,26,9,2020,5,44,34
+2180,0,,Muh,Afrizal,,0,26,9,2020,10,30,45
+2182,0,"Saya afrizal dari Palopo ,salam kenal",Muh,Afrizal,,0,26,9,2020,10,32,34
+2183,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,27,9,2020,3,24,52
+2184,0,Siapa yg bisa bahasa php5 dan sql?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,27,9,2020,3,26,37
+2185,0,hmm untuk keperluan apa kaka ?,Hanan,Asyrawi,hananloser,0,27,9,2020,3,27,9
+2186,0,"Mau bisa bikin proyek IoT tapi kok lompat sana sini kak belajarnya?\nsulit buat paham loh, iya kan?\n\n*Nusabot* lagi ada event nih kak\npotongan harga 50% untuk kursus *Kelas IoT Pemula Menggunakan ESP8266 Dengan Blynk, IFTTT, dan Google Assistant*\nCatat yah kak, kupon hanya untuk 20 pendaftar pertama setiap hari nya\nKhusus di tanggal 27-30 September 2020\n\nSekarang hanya Rp. 100.000\nkaka bisa akses materi seumur hidup, saat ada penambahan materi kaka gak perlu bayar lagi sama sekali, bisa diskusi dengan pengajarnya seumur hidup, akses materi lewat perangkat apapun\n\nBahkan kakak bisa pakai Server IoT milik Nusabot loh secara bebas 😆\nJadi gak perlu lagi tuh keluar modal tambahan buat sewa server\n\nDaftar sekarang kak dan masukan kode kupon nya\n*BIAR GAK CUMA BISA COPY PASTE DOANG*\n\nLink kelas:\nhttps://nusabot.id/kelas/iot-kelas-pemula-esp8266-dengan-blynk-ifttt-dan-google-assistant/",Kamaniya batari,,Ic_aaaaaaaaaa,0,27,9,2020,12,6,14
+2188,0,"Gan mau tanya,, sya mau buat tombol pada tiap2 huruf, ketika saya klik huruf alif maka keluar suara, tanpa harus pindah halaman. bagaimana ya?",Alba,Purnama,,0,27,9,2020,14,13,49
+2189,0,,Alba,Purnama,,0,27,9,2020,14,13,49
+2190,2188,yachh di buat function truss bungjus gesture dectector,Hanan,Asyrawi,hananloser,0,27,9,2020,14,21,24
+2191,0,Apakah ada yg pernah dapat error seperti ini? Tolong bantuannya,Ahmad,,PohondiMusimHUjan,0,27,9,2020,15,20,27
+2192,2191,Sy coba di emulator nga bisa kecuali langsung dari HP,Ahmad,,PohondiMusimHUjan,0,27,9,2020,15,20,58
+2193,0,Daftar sha-1 key nya di firebase console,Muhammad,Rahmatullah,muhrahmatullah,0,28,9,2020,5,33,42
+2201,0,Adakah TabBar yang keren2 om?,Dercology,,dercology,0,28,9,2020,12,48,30
+2202,0,,Rick,_,,0,29,9,2020,6,54,6
+2204,0,"Halo, Nama saya Riki saya dari makassar, saya bergabung di grub ini mau belajar 🙏",Rick,_,,0,29,9,2020,6,55,33
+2205,0,,M Yaasiin H,,myaasiinh,0,29,9,2020,10,22,21
+2207,0,,Athar,Ar-rifa'i,,0,30,9,2020,0,41,56
+2209,0,Halo... Saya Athar Ar-rifa'i dari Makassar. Salam kenal..,Athar,Ar-rifa'i,,0,30,9,2020,0,43,38
+2210,0,"Selamat pagi...\nSaya mau nanya, ini erornya apa ya ?",Athar,Ar-rifa'i,,0,30,9,2020,0,44,33
+2211,0,Nd kutauki juga saya om,Dercology,,dercology,0,30,9,2020,2,5,34
+2212,0,"Assalamualaikum..\nMau nanya, ini erornya apa ya ?",Athar,Ar-rifa'i,,0,30,9,2020,7,5,45
+2213,2212,bukan udh jelas itu om user udh ada ?,Hanan,Asyrawi,hananloser,0,30,9,2020,7,7,51
+2214,0,,,,,0,30,9,2020,23,3,56
+2216,0,"permisi gan mau tanya, bnagaimana ya supaya gambarnya keatas?",Alba,Purnama,,0,1,10,2020,3,54,46
+2217,0,,Alba,Purnama,,0,1,10,2020,3,54,46
+2218,0,digaris 28 error,Alba,Purnama,,0,1,10,2020,3,55,17
+2219,0,"supaya gambarnya keatas, gimana ya?",Alba,Purnama,,0,1,10,2020,3,56,25
+2220,0,"tadi, bodynya center, tapi pas aku rubah menjadi column, malah error.",Alba,Purnama,,0,1,10,2020,3,58,50
+2221,0,Klw di pasang crossaxis alignment...,Evan,Lund,,0,1,10,2020,4,3,43
+2222,0,Trus kasih .start,Evan,Lund,,0,1,10,2020,4,3,55
+2223,0,"halo aga kareba?\n\nAwal bulan ada info menarik untuk teman-teman yang masih kuliah atau sekolah atau kamu yang baru lulus.\n\nKami sedang buat kegiatan dengan nama `megabit`, Mentoring dan Beasiswa IT.\n\nKegiatan ini merupakan bentuk giving back to community dari mentor-mentor hebat dari beberapa komunitas IT di kota Makassar. Calon penerima beasiswa berkesempatan untuk mendapatkan mentor dan langsung belajar dengan expertnya.\n\nKamu dapat memilih 5 bidang berikut\n1. Project Management\n2. Android/Flutter \n3. Web Frontend\n4. Web Backend\n5. UI/UX\n\nUntuk informasi lebih lanjut mengenai kegiatan ini silahkan kunjungi\n\nhttps://megabitid.github.io\n\ndan follow kami di  instagram.com/megabitid",Andi,Wijaya,andiwijayaid,0,1,10,2020,10,8,5
+2224,0,,Andi,Wijaya,andiwijayaid,0,1,10,2020,10,8,12
+2225,0,,Einz Bakurru,,Einzbk,6285156484407,1,10,2020,14,59,5
+2227,0,,,,,0,2,10,2020,9,30,34
+2229,0,,,,,0,4,10,2020,5,57,54
+2231,0,"#ASK \nkira-kira supaya ada Container putih itu ketika di klik marker icon location gimana ya ??\njadi niatnya, mau munculin informasi tempat alamat dll, ketika udah klik marker itu.. jadi klo belum di klik.. informasinya belum muncul",Raka,Fajar,RakaFS,0,4,10,2020,6,8,50
+2232,0,"Pke state mngemnt mas,",Evan,Lund,,0,4,10,2020,6,12,17
+2233,0,"bagaimana ya, membuat TabBar bisa bergeser begini?",Alba,Purnama,,0,4,10,2020,6,26,17
+2234,0,sya mau terabkan disini..,Alba,Purnama,,0,4,10,2020,6,27,48
+2235,0,,Alba,Purnama,,0,4,10,2020,6,28,13
+2236,0,,Alba,Purnama,,0,4,10,2020,6,28,13
+2237,0,,Alba,Purnama,,0,4,10,2020,6,28,13
+2238,0,tolong gan..,Alba,Purnama,,0,4,10,2020,6,34,46
+2239,0,https://youtu.be/2AphasZ9Hs0,Evan,Lund,,0,4,10,2020,8,10,19
+2240,0,Bisa jd refrnsi,Evan,Lund,,0,4,10,2020,8,10,31
+2241,0,bukan seperti ini mas.,Alba,Purnama,,0,4,10,2020,9,32,26
+2242,0,"udah betul tab menunya, tapi sya mau buat seperti video yg barusan sy kirim. tab menunya bisa digeser kesamping.",Alba,Purnama,,0,4,10,2020,9,33,11
+2243,2242,"Di widget `TabBar` nya, tambahkan parameter `isScrollable` `: true`",Fitrah,Muhammad,fitrh,0,4,10,2020,11,41,17
+2244,0,,,,,0,6,10,2020,1,36,0
+2246,0,"#loker\n\n- Senior Site Reliability Engineer, SuperApp Partnerships\n- Engineering Manager II, SuperApp Partnerships\n- Engineering Manager, Merchant Experience\n- Senior Software Engineer, Mobile (Flutter)\n\nYang berminat dan memenuhi qualifikasi bs japri saya ya :) atau langsung kirim cv: muh.rahmatullah@grab.com dengan subject dan body yg appropriate. Thank you!",Muhammad,Rahmatullah,muhrahmatullah,0,6,10,2020,8,3,33
+2247,0,"- [Senior Site Reliability Engineer, SuperApp Partnerships](https://grab.careers/jobs/job-details/?id=d312584b1bbd012d37d6df6428010f1d)\n- [Engineering Manager II, SuperApp Partnerships](https://grab.careers/jobs/job-details/?id=d312584b1bbd01987ce6018c2801b51d)\n- [Engineering Manager, Merchant Experience](https://grab.careers/jobs/job-details/?id=d312584b1bbd01bdfd1463548a008207)\n- [Senior Software Engineer, Mobile](https://grab.careers/jobs/job-details/?id=8c144191e9f301db576e196492003b95)",Muhammad,Rahmatullah,muhrahmatullah,0,6,10,2020,8,3,47
+2248,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,7,10,2020,1,21,1
+2249,0,Apa ada yg ahli backend PHP dan PWA?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,7,10,2020,1,21,32
+2250,0,Ada peluang bagus nih,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,7,10,2020,1,31,11
+2251,2250,Bisa mungkin dijabarkan peluangnya... supaya jelas...,Rabiuldien,,Rabiuldien,0,7,10,2020,1,33,43
+2252,0,Lowongan utk tim IT startup sdh berjalan :\n1. Bisa backend PHP 5 keatas dan lebih diutamakan bisa PWA\n2. Bisa juga CI ato laravel \n3. Utk renumirasi bisa bagi hasil dari hadiah kompetisi dan hasil usaha,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,7,10,2020,1,47,25
+2253,0,,,,,0,7,10,2020,2,41,8
+2255,0,,,,,0,7,10,2020,5,32,2
+2260,0,,,,,0,8,10,2020,10,4,54
+2263,0,,AJ,,Ranleo,0,11,10,2020,12,31,5
+2265,0,nama rajan asal sualawesi,AJ,,Ranleo,0,11,10,2020,12,31,16
+2266,0,,,,,0,11,10,2020,18,51,58
+2268,0,,,,,0,12,10,2020,17,6,27
+2270,0,,,,,0,13,10,2020,11,34,9
+2272,0,malam agan agan... ada yang pernah implementasi platform channel diman native androidnya mengimplementasikan library aar ?,Nanang Rustianto,,v13nr,0,13,10,2020,14,10,17
+2274,0,"Siapa yang ngga sabar dengan #DevFest 2020? 🤩\n\nMulai besok  1️⃣5️⃣ Oktober, bergabunglah dengan GDG di seluruh Indonesia untuk pengalaman belajar virtual baru. Dipenuhi dengan keynote, tech talk, live demo, dan  banyak lagi!\n\nCek speaker & agenda disini → http://devfestindonesia.com",Fordyta Abubakar,,DhytoDev,0,14,10,2020,11,30,4
+2275,0,,Fordyta Abubakar,,DhytoDev,0,14,10,2020,11,52,53
+2276,0,,,,,0,14,10,2020,16,23,38
+2278,0,"Jangan ketinggalan keseruan #DevFest Indonesia 2020, 15-18 Okt. \n\n▶️ Live :\n\nDay-1️⃣ goo.gle/devfest1\n\nDay-2️⃣ goo.gle/devfest2\n\nDay-3️⃣ goo.gle/devfest3\n\nDay-4️⃣ goo.gle/devfest4\n\n🕘 Set reminder kalian dari sekarang! \n\nCek speaker dan agenda di sini ➡️ http://devfestindonesia.com",Fordyta Abubakar,,DhytoDev,0,15,10,2020,5,0,4
+2279,0,,Fordyta Abubakar,,DhytoDev,0,15,10,2020,5,0,4
+2280,0,,Rendi,Septia,Rendisepti,0,15,10,2020,23,26,26
+2282,0,"Halo,\n\nJangan sampai ketinggalan keseruan Day 2 #DevFest🇮🇩 2020, ya. \n\nHari ini membahas Flutter, Firebase, sampai ekosistem Software di Indonesia.\n\n#acara",Fordyta Abubakar,,DhytoDev,0,16,10,2020,10,42,46
+2283,2282,http://goo.gle/devfest2,Fordyta Abubakar,,DhytoDev,0,16,10,2020,10,42,54
+2284,0,https://gdg.community.dev/events/details/google-gdg-makassar-presents-devfest-indonesia-2020-gdg-makassar/\n\njangan lupa claim ticketnya 👆🏻,Andi,Wijaya,andiwijayaid,0,16,10,2020,10,58,47
+2286,2243,"mas, ikonnya jadi besar begini, knpa ya ?",Alba,Purnama,,0,17,10,2020,9,33,36
+2287,2243,"terimakasih mas, Alhamdulillah sudah bisa.",Alba,Purnama,,0,17,10,2020,9,42,45
+2288,0,,Nanang Rustianto,,v13nr,0,18,10,2020,12,47,1
+2289,0,#info\nSudah berhasil Printing dari Flutter ke Mesin EDC,Nanang Rustianto,,v13nr,0,18,10,2020,12,47,26
+2290,0,Mantap 👍👍,ROOT,,imtoor,0,18,10,2020,12,47,56
+2291,0,"Assalamualaikum bang...\nMaaf mau nanya, bisa nggak ya kontrol alat menggunakan android tapi aplikasi androidnya di buat dari flutter ?",Athar,Ar-rifa'i,,0,20,10,2020,8,16,16
+2292,0,bisa lewat api,Hanan,Asyrawi,hananloser,0,20,10,2020,8,47,41
+2293,2291,"alat kalau sdh di jual di pasaran harus punya SDK, nah kalau flutter ada platform channel untuk komunikasi ke bahasa alat misal java",Nanang Rustianto,,v13nr,0,20,10,2020,9,23,36
+2294,0,ada yg sudah pernah upload apps flutter ke apple appstore ?,Irsyad,Ashari,tiereurdecouer,0,20,10,2020,9,37,55
+2295,0,"permisi gan mau tanya, apakah errornya dapat berefek ketika sya menggunakan emulator hp sendiri?",Alba,Purnama,,0,21,10,2020,5,30,34
+2296,0,"Gak berefek kayaknya, coba aja bang",Dercology,,dercology,0,21,10,2020,5,59,51
+2297,0,"permisi, sya mau buat menu bookmark. ada ngak yg punya tutorial yg direkomendasi?",Alba,Purnama,,0,21,10,2020,6,5,40
+2298,0,besok ada kak @muhrahmatullah\nberbagi soal flutter at Grab.\n\nhttps://www.meetup.com/Flutter-Jakarta/events/274032431/,oon,,oonid,0,23,10,2020,10,48,49
+2299,0,Ayoo kita ngobrol bareng tentang flutter,Muhammad,Rahmatullah,muhrahmatullah,0,23,10,2020,13,10,45
+2300,2299,Udah live ya https://youtu.be/hMyx6XibhPs,Muhammad,Rahmatullah,muhrahmatullah,0,24,10,2020,6,26,24
+2301,2300,👍 live dari Soppeng,oon,,oonid,0,24,10,2020,7,8,29
+2302,2301,🙌🙌🙌,Muhammad,Rahmatullah,muhrahmatullah,0,24,10,2020,8,37,33
+2303,0,Bagi taman2 yang bisa buat aplikasi kasir berbasis android ?  PM me harga + portotfolio 🙏🏻,ZAN,,,0,24,10,2020,10,27,16
+2304,0,knpa ya?,Alba,Purnama,,0,24,10,2020,16,41,8
+2305,2304,Kurang [ ],Rabiuldien,,Rabiuldien,0,24,10,2020,17,39,20
+2306,0,sma...errorr..,Alba,Purnama,,0,24,10,2020,17,45,3
+2307,2306,"Izin mastah, coba masukkan dalam container child imagenya",Nur Insan,Akbar,Nurinsanakbar,0,24,10,2020,17,46,17
+2308,0,"Iyaa, atau klo mau pake children bisa di wrap dlu pakai column / row",Marco,Alfan,Marcoalfan,0,24,10,2020,17,47,50
+2309,0,sama...,Alba,Purnama,,0,24,10,2020,17,49,38
+2310,0,"mas, kok error ya? padahal kodingannya ngak ada yg error.",Alba,Purnama,,0,25,10,2020,14,11,10
+2311,2310,Coba run flutter --info,Rabiuldien,,Rabiuldien,0,25,10,2020,15,21,22
+2312,0,"permisa ga, kok setelah saya update flutter, malah banyak yang error",Alba,Purnama,,0,26,10,2020,4,55,21
+2313,0,,Alba,Purnama,,0,26,10,2020,4,55,21
+2314,0,,Alba,Purnama,,0,26,10,2020,4,55,21
+2315,0,Coba di cek dlu gan error nya apa,Rahmat,Hidayat HM,rahmathm,0,26,10,2020,4,58,2
+2316,0,ini kenapa ya?,Alba,Purnama,,0,26,10,2020,4,58,13
+2317,0,,Alba,Purnama,,0,26,10,2020,4,58,13
+2318,0,Seperti nya itu di pubspec.yaml nya ada yg salah block space nya mungkin kelebihan atau kekurangan spasi,Rahmat,Hidayat HM,rahmathm,0,26,10,2020,4,59,49
+2319,2318,sekarang yang ini.,Alba,Purnama,,0,26,10,2020,5,37,6
+2320,2318,Kyaknya sama ji dengan ini,Rahmat,Hidayat HM,rahmathm,0,26,10,2020,5,56,55
+2321,0,kalaw yg ini ?,Alba,Purnama,,0,26,10,2020,6,3,44
+2322,0,,Alba,Purnama,,0,26,10,2020,9,58,9
+2323,2321,coba di flutter doctor -v dluu,Raka,Fajar,RakaFS,0,27,10,2020,3,18,19
+2324,0,"ada error ga ??, klo engga terus flutter clean dlu",Raka,Fajar,RakaFS,0,27,10,2020,3,19,13
+2325,0,,Muhammad,Muflih,,0,27,10,2020,20,49,1
+2327,0,"permisi gan, saya mau minta tolong,, bagaimana ya contoh code utk merubah imagelink menjadi image lokal?",Alba,Purnama,,0,28,10,2020,12,18,49
+2328,2327,coba liat di google bnyak referensi nya itu klo engga salah di set di pubspec nya,Hanan,Asyrawi,hananloser,0,28,10,2020,12,23,16
+2329,0,"mas, aku rubah ke lokal ko, malah error. solusi..?",Alba,Purnama,,0,28,10,2020,12,35,32
+2330,2329,sudah di load di pubspec nya,Hanan,Asyrawi,hananloser,0,28,10,2020,12,39,19
+2331,0,,Alba,Purnama,,0,28,10,2020,12,40,10
+2332,2330,sudah,Alba,Purnama,,0,28,10,2020,12,40,27
+2333,0,iya kamu load nya satu gambar,Hanan,Asyrawi,hananloser,0,28,10,2020,12,40,36
+2334,0,truss ada titik koma di dalam kurung itu,Hanan,Asyrawi,hananloser,0,28,10,2020,12,41,8
+2335,0,aku ngak aktifkan yg lain. tetap aja error,Alba,Purnama,,0,28,10,2020,12,46,10
+2336,0,img link itu type nya apa yang di terima sama construct Choice,Hanan,Asyrawi,hananloser,0,28,10,2020,12,47,34
+2337,2336,"aku ngak tau.. tolong dibantu mas,, penting banget",Alba,Purnama,,0,28,10,2020,12,48,12
+2338,0,itu ada titik koma nya,Hanan,Asyrawi,hananloser,0,28,10,2020,12,48,36
+2339,0,,Hanan,Asyrawi,hananloser,0,28,10,2020,12,49,29
+2340,0,coba kita baca error nya di situ sudah di tunjukan,Hanan,Asyrawi,hananloser,0,28,10,2020,12,49,59
+2341,0,"aku udah ganti tanda titik koma, menjadi koma malah tetap aja error. bahkan aku hapus komanya tetap aja error",Alba,Purnama,,0,28,10,2020,12,52,31
+2342,0,coba liat error nya,Hanan,Asyrawi,hananloser,0,28,10,2020,12,52,51
+2343,0,https://flutter.dev/docs/development/ui/assets-and-images coba baca ki ini,Hanan,Asyrawi,hananloser,0,28,10,2020,12,53,50
+2344,0,aku udah rubah malah tetap aja error,Alba,Purnama,,0,28,10,2020,12,58,31
+2345,0,mknya kasi liat error nya,Hanan,Asyrawi,hananloser,0,28,10,2020,12,59,2
+2346,2331,Disini sampai *.jpg* aja. di akhir ngak pakai /,Irwan,Ardyansah,,0,28,10,2020,13,2,34
+2347,2346,ahh betull,Hanan,Asyrawi,hananloser,0,28,10,2020,13,3,28
+2348,0,,Alba,Purnama,,0,28,10,2020,13,11,21
+2349,0,typo imae harus nya image liat ki error nya,Hanan,Asyrawi,hananloser,0,28,10,2020,13,27,9
+2350,0,solusi gan?,Alba,Purnama,,0,30,10,2020,9,42,13
+2351,0,,,,,0,31,10,2020,10,50,19
+2353,0,"Permisi, adakah tempat yg dijadikan tempat berkumpul untuk baku tumbuk soal Flutter?",Dercology,,dercology,0,6,11,2020,3,35,56
+2354,0,baku tumbuk 🤣🤣🤣,Hanan,Asyrawi,hananloser,0,6,11,2020,3,39,2
+2355,0,dimna ki biasa bertengker klo di mksr,Hanan,Asyrawi,hananloser,0,6,11,2020,3,39,25
+2356,0,Hahaha alihkan mi bang ke per pc an,Dercology,,dercology,0,6,11,2020,3,40,53
+2357,0,solusi?,Alba,Purnama,,0,6,11,2020,8,47,32
+2358,0,,Muhammad,Aan,muh_aan,0,6,11,2020,9,47,51
+2360,0,,Muhammad Ilham,,Ilhammhd14,6282176641318,6,11,2020,11,55,3
+2362,0,"Permisi bang.. saya sdah buat icon bookmark, tpi sya tdk thu bagaimana buat functionnya. Supaya kalaw sy tekan iconnya, maka datanya  langsung masuk di halaman bookmark. Mohon solusinya.",Alba,Purnama,,0,11,11,2020,3,36,12
+2363,0,"Coba disimpan ke database bang, path image-nya",Irwan,Ardyansah,,0,12,11,2020,2,7,23
+2364,0,,hafez husin,,hafezhusin,0,13,11,2020,23,21,38
+2366,0,,R,,,0,14,11,2020,9,45,28
+2368,0,,,,,0,14,11,2020,19,14,40
+2370,0,,Yo,Ga,BossOkav,0,18,11,2020,11,48,53
+2372,0,Halo,Yo,Ga,BossOkav,0,18,11,2020,12,6,33
+2373,0,Baru bljr flutterdr Bali,Yo,Ga,BossOkav,0,18,11,2020,12,6,44
+2374,0,Salam,Yo,Ga,BossOkav,0,18,11,2020,12,6,56
+2375,0,,IT Puspresnas 2021,,itpuspresnas2021,0,21,11,2020,9,10,41
+2377,0,"Halo, izin join 🙏 salam dari tangsel",IT Puspresnas 2021,,itpuspresnas2021,0,21,11,2020,9,11,46
+2378,0,,ghosts is real,,ghosts88,0,22,11,2020,11,22,13
+2380,0,"Halo,salam dari gowaa",ghosts is real,,ghosts88,0,22,11,2020,11,23,7
+2381,0,"Halo teman"", saya lagi cari Flutter Dev satu orang. Yang tertarik bisa DM kita diskusi"" Dulu",Arhen,,rhslamet,0,22,11,2020,13,31,11
+2383,0,,Irwan,Ardyansah,,0,22,11,2020,14,8,27
+2385,0,"Apakah kalian sudah tahu Flutlab.io?\n\nFlutlab.io adalah website IDE Flutter Online untuk mengcompile, mendebug, membuat cross-platform projects, tanpa ribet mengkonfigurasi SDK dan lainnya, menarik bukan? Apa saja sih fitur yang disediakan flutlab.io? yuk cek di blog saya \ndibawah ini hehe\n\nhttps://kotakode.com/blogs/2542/FlutLab.io---Flutter-IDE-Online",Adithya Firmansyah,Putra,Adithya_13,0,23,11,2020,5,35,40
+2386,0,,,,,0,24,11,2020,6,28,7
+2388,0,"Mau tanya gais... diluar materi flutter.\n\nAda nga yg perna mengalamin ""kook file"" yg terkena virus. Bagaimana cara mengatasinya?",Alba,Purnama,,0,25,11,2020,2,4,22
+2389,2388,cari `kook malware removal tool`,Musa,Amin,musaamin,0,25,11,2020,5,25,37
+2390,0,,Dani,Gunawan,dani_gunawan,0,25,11,2020,7,13,13
+2392,0,,ardi,,ancha109,0,26,11,2020,8,58,35
+2394,0,perkenalakan nama saya ardiansah,ardi,,ancha109,0,26,11,2020,8,59,24
+2395,0,,Abdul,Samad,,0,26,11,2020,16,29,48
+2397,0,"Halo sobat flutter. Disini, ada nga yg pernah menggunakan algoritma LCM, yg di gunakan utk pengacakan soal pada aplikasi.",Alba,Purnama,,0,27,11,2020,5,58,19
+2398,0,tim flutter upload aplikasi di toko aplikasi microsoft\n\nhttps://www.microsoft.com/en-us/p/flutter-desktop-photo-search/9nh719dxcpj4?activetab=pivot:overviewtab,oon,,oonid,0,27,11,2020,9,1,42
+2399,0,,foo-bar,,barbar195,0,28,11,2020,6,37,40
+2401,0,nama saya bar,foo-bar,,barbar195,0,28,11,2020,6,37,47
+2402,0,,Asyhari,Asdi,opititerus,0,29,11,2020,7,37,55
+2404,0,Hai salam kenal semua,Asyhari,Asdi,opititerus,0,29,11,2020,7,38,11
+2405,0,Saya dari Pangkep,Asyhari,Asdi,opititerus,0,29,11,2020,7,38,23
+2406,2405,Wahh ngobar bisa nih,Irwan,Ardyansah,,0,29,11,2020,8,44,23
+2407,0,Ada referensi create & preview pdf di flutter?,Marco,Alfan,Marcoalfan,0,30,11,2020,5,1,59
+2408,2407,https://pub.dev/packages/flutter_pdfview,Hanan,Asyrawi,hananloser,0,30,11,2020,11,43,7
+2409,0,Terimakasih mas🙏🏻,Marco,Alfan,Marcoalfan,0,30,11,2020,11,43,32
+2411,0,"halo teman2, sya baru sja mendapatkan tutorial membuat bookmark.",Alba,Purnama,,0,30,11,2020,11,57,4
+2412,2411,iyee,Hanan,Asyrawi,hananloser,0,30,11,2020,11,57,19
+2413,0,"sya ingin merubahnya. sy ingin kalu sya tekan icon bookmarknya yg ada di tappbar, maka page yang ada didalam tersebut tersimpan tersimpan semua dihalaman bookmark.",Alba,Purnama,,0,30,11,2020,12,0,17
+2414,0,,Alba,Purnama,,0,30,11,2020,12,0,17
+2415,0,,Alba,Purnama,,0,30,11,2020,12,0,17
+2416,0,,Alba,Purnama,,0,30,11,2020,12,0,17
+2417,0,,Alba,Purnama,,0,30,11,2020,12,0,17
+2418,0,,Alba,Purnama,,0,30,11,2020,12,0,18
+2419,0,,Alba,Purnama,,0,30,11,2020,12,0,18
+2420,0,hasil kodingan yg diatas.,Alba,Purnama,,0,30,11,2020,12,2,23
+2421,0,,Alba,Purnama,,0,30,11,2020,12,2,23
+2422,0,,Alba,Purnama,,0,30,11,2020,12,2,23
+2423,0,"Pada halaman Bookmark flutter, dia menggunakan List item. dan kalau saya mau disave di halaman bookmarks, saya harus klik satu persatu list itemnya. sya pengen merubahnya menjadi,,, ketika sya mengklik icon bookmark yang ada diappbar pada halaman  Bookmark Flutter, maka secara otomatis semua isi yang ada di halam Bookmark Plutter Tersave dihalaman Bookmarks tanpa harus mengklik 1 per 1 list Itemnya.",Alba,Purnama,,0,30,11,2020,12,7,36
+2424,0,tolong gan.,Alba,Purnama,,0,30,11,2020,12,13,23
+2425,0,Tinggal buat logic aja sih get semua data bookmard dan ubah status nya menjadi sudah terklik,Jason,,jps98,0,30,11,2020,13,44,7
+2426,0,Ada punya E-Book Flutter?,Abdul,Samad,,0,3,12,2020,9,2,25
+2427,2426,,Rabiuldien,,Rabiuldien,0,3,12,2020,11,14,15
+2428,0,mw tnya klw belajar flutter ap harus Dart dlu?,hesdin,,hesdin,0,3,12,2020,11,16,35
+2429,2428,"iya kak, bahasa pemrograman untuk buat aplikasi flutter pake Dart, jadi ya belajar Dart dulu.",oon,,oonid,0,3,12,2020,11,28,7
+2430,2429,ada tutorial rekomendasi?,hesdin,,hesdin,0,3,12,2020,11,58,0
+2431,0,"di youtube banyak banget,\nbahasa Indonesia, bahasa Inggris, bahasa Arab ada semua 🙊",oon,,oonid,0,3,12,2020,11,58,51
+2432,0,👍,Abdul,Samad,,0,3,12,2020,14,37,59
+2433,0,,Mario,Firera,,0,3,12,2020,14,41,57
+2435,2430,"Paling direkomendasikan tentu dokumentasi resmi. Yg bikin tutorial di youtube, juga belajarnya dari situ ✌",Fordyta Abubakar,,DhytoDev,0,3,12,2020,18,42,53
+2436,0,"Halo semua, yang belum tahu untuk menggunakan custom Icon di Flutter, bisa cek Blog ini ya, terima kasih hehe\n\nhttps://kotakode.com/blogs/3059/Custom-Icon---Flutter",Adithya Firmansyah,Putra,Adithya_13,0,5,12,2020,6,16,20
+2440,0,,Sepehran,,isepehran,0,7,12,2020,23,14,18
+2442,0,,Fauzy,,ahmad_fauzy,0,8,12,2020,15,3,24
+2444,0,"Hii, izin bergabung salam dari Cipanas, Cianjur",Fauzy,M. Rachman,fauzymrachman,6287714788881,8,12,2020,15,4,40
+2448,0,,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,48,17
+2453,0,,fullah,,fullah14,0,10,12,2020,9,4,10
+2455,0,"assalamualaikum, salam dari makassar sappo",fullah,,fullah14,0,10,12,2020,9,4,35
+2456,0,,Zul,,,0,11,12,2020,4,7,44
+2458,0,,mpj,,empeje,0,12,12,2020,5,21,0
+2460,0,,Khaerul,Ansari,Khaerul_Naba,0,13,12,2020,16,4,38
+2462,0,Halo kak Nama saya Khaerul Ansari saya mahasiswa dari salah satu universitas suasta di Makassar,Khaerul,Ansari,Khaerul_Naba,0,13,12,2020,16,5,34
+2466,0,Foto dari z,Zul,,,0,14,12,2020,21,30,28
+2467,0,Assalamualaikum kak,Zul,,,0,14,12,2020,21,30,38
+2468,0,Minta solusi kak,Zul,,,0,14,12,2020,21,30,49
+2469,2466,coba flutter clean,Hanan,Asyrawi,hananloser,0,14,12,2020,21,39,38
+2471,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,12,2020,6,39,51
+2472,0,Apa ada yg bisa buat webview websitetoapk.com?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,12,2020,6,40,18
+2473,0,,Ju Silva,,jusilver1,0,18,12,2020,4,49,12
+2475,0,"I'm Kuji, I'm not a robot",Ju Silva,,jusilver1,0,18,12,2020,4,50,14
+2476,0,,Muh,Zainal,Muhzainal_0,0,19,12,2020,6,56,48
+2484,0,"Pagi semua, izin share Blog mengenai Localization di Flutter\n\nhttps://kotakode.com/blogs/3685/Internationalization-dan-Localization-Flutter",Adithya Firmansyah,Putra,Adithya_13,0,19,12,2020,22,28,39
+2485,2484,mantak kak.. 👍👍,Dianto,,Dian_774,0,20,12,2020,2,9,32
+2486,0,Okke kak👍,Muh,Zainal,Muhzainal_0,0,20,12,2020,2,9,52
+2487,0,,,,,0,20,12,2020,7,18,18
+2497,0,,Irman,,,0,22,12,2020,6,23,39
+2502,0,,Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,5,31,27
+2503,0,"Assalamu'alaikum. \n\nSantri dan teknologi, mungkin terdengar sangat asing, tidak masuk akal dan bahkan mustahil bagi teman - teman semua. Dimana santri dan teknologi adalah 2 domain yang sangat amat berbeda, tetapi bukan berarti kami (santri) pasrah begitu saja dengan keadaan zaman. Kami berusaha semaksimal mungkin untuk mempersempit celah demi celah antara teknologi dan santri. \n\nMaka dari itu, sebagai awalan untuk langkah nyata 'Santri Teknologi'. Kami mengundang teman - teman semua untuk ikut berkontribusi di 'Hackathon Santri 2021', hackathon yang insyaallah bukan hanya event cuap - cuap belaka, bukan hanya ceremonial belaka, bukan hanya embel - embel belaka. \n\nTetapi yang kami harapkan, dan tentunya dengan bantuan kamu para problem solver, kamu para pemerhati pesantren, kamu para tech entusiast, atau siapapun kamu yang ingin mewujudkan perubahan, Hackathon ini benar - benar mempersempit dan bahkan menghilangkan gap antara domain santri dan teknologi. \n\nTerimakasih atas segala bentuk dukungannya, mulai dari izinkan postingan ini mampir di grup anda, atau bahkan anda sendiri ingin berkontribusi di 'Hackathon Santri'. Kami tunggu solusimu. \n\nDaftar disini : https://bit.ly/registhackathonsantri2021",Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,5,31,50
+2504,0,Ada yg mau patungan sama sy beli kelas ini?,Muhammad,Muzaki,muzakiassarpiyoh,0,24,12,2020,22,37,43
+2505,0,https://www.buildwithangga.com/kelas/full-stack-laravel-flutter-foodmarket-apps,Muhammad,Muzaki,muzakiassarpiyoh,0,24,12,2020,22,38,4
+2506,0,Materinya ini,Muhammad,Muzaki,muzakiassarpiyoh,0,24,12,2020,22,38,17
+2507,0,,Nrfa,,Nurfa_yn,0,25,12,2020,6,23,23
+2509,0,,Ishak,Pasolle,Ishakputrapasolle,0,25,12,2020,9,3,18
+2511,2510,assalamualaikum,Ishak,Pasolle,Ishakputrapasolle,0,25,12,2020,9,3,27
+2512,0,salam kenal semua,Ishak,Pasolle,Ishakputrapasolle,0,25,12,2020,9,3,37
+2513,0,salam dari sulawesi,Ishak,Pasolle,Ishakputrapasolle,0,25,12,2020,9,3,47
+2514,0,nama:ishak\numur:20\nalamat:palopo,Ishak,Pasolle,Ishakputrapasolle,0,25,12,2020,9,4,2
+2515,0,,DIFashion,Official,DIFashion_Official,0,26,12,2020,8,58,30
+2517,0,Assalamu alaikum,DIFashion,Official,DIFashion_Official,0,26,12,2020,8,58,47
+2518,0,Saya andi syamsul,DIFashion,Official,DIFashion_Official,0,26,12,2020,8,59,10
+2519,0,"Assalamu alaikum, kami sementara mulai startup dan kami butuh 1 sdm yg bisa programmer android untuk wilayah makassar, kalau teman2 ada yg bisa silahkan japri yah. Terima kasih",DIFashion,Official,DIFashion_Official,0,26,12,2020,9,5,23
+2520,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,26,12,2020,9,15,29
+2521,0,Ini ada bahan startup..dan alhamdulillah bisnis sdh menghasilkan selama 6 tahun tinggal dibuatkan sistemnya yg minat bisa japri...dan lumayan hasilnya tp bukan gotukang.co.id ya...,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,26,12,2020,9,16,5
+2522,0,,Rini,,,0,26,12,2020,9,49,36
+2524,0,"Izin share ya 🙏\n\nMALAM INI  ✨✨\n\nAda Online Class MDVonCAMPUS X Universitas Al Asyariah Mandar ""How to Become a Senior Software Engineer in Tech Company"" bersama  Muh Isfhani Ghiath, Sr. Software Engineer - Android, Tokopedia.\n\nWaktu : 20.00-22.00 WITA\nJoin Zoom Meeting \nhttps://us02web.zoom.us/j/84238137296?pwd=QXJ4K3lQa0FDcW1FRE1XS0FHOThndz09 \n \nMeeting ID: 842 3813 7296 \nPasscode: 856148 \n\nGabung yuk, sampai jumpa :D",Rini,,,0,26,12,2020,9,54,18
+2525,2524,"keren ini kesempatannya,\ntrims mbak Rini infonya. 👍🏼",oon,,oonid,0,26,12,2020,9,58,16
+2526,2525,"Iya mas, sama sama 🙏 semoga bermanfaat buat teman2 yg gabung malam ini.",Rini,,,0,26,12,2020,10,25,22
+2527,2526,ini jamnya kelewat mbak Rini 😬\nbelum ada info jamnya.,oon,,oonid,0,26,12,2020,10,29,43
+2528,2524,,Rini,,,0,26,12,2020,10,34,54
+2529,2527,Iya mas hehe terlampir ya posternya 🙏,Rini,,,0,26,12,2020,10,35,51
+2530,2528,"ah jam 8, terima kasih..",oon,,oonid,0,26,12,2020,10,36,30
+2531,0,Iya mas jam 8 WITA hehe,Rini,,,0,26,12,2020,10,37,30
+2532,0,Makasih ya kak @Dian_996 hehe,Rini,,,0,26,12,2020,10,37,44
+2533,2532,sama2 kak Rini..🙏🙏,Dianto,,Dian_774,0,26,12,2020,11,29,37
+2539,0,knpa ya?,Alba,Purnama,,0,27,12,2020,2,26,24
+2540,0,,Alba,Purnama,,0,27,12,2020,2,26,24
+2541,0,Sy mau buat bookmark,Alba,Purnama,,0,27,12,2020,2,28,18
+2542,0,,Rizki,,RizkiSA,0,27,12,2020,8,14,23
+2544,2540,Tidak ketemu BookmarkBloc... belum inisialisasi sepertinya...,Rabiuldien,,Rabiuldien,0,27,12,2020,14,50,30
+2551,0,,,,,0,30,12,2020,10,4,10
+2553,0,,,,,0,30,12,2020,10,6,14
+2555,0,"Salam,sy butuhkan yg bisa buat applikasi,tlong dm\n@jhonsitorus",,,,0,30,12,2020,10,11,10
+2556,2544,sya sdah inisialkan di ymlnya.,Alba,Purnama,,0,1,1,2021,8,45,55
+2557,2484,Mantab,Muhammad,Aan,muh_aan,0,1,1,2021,14,35,53
+2558,0,,Agung,Fir,agungfir10,6282322177118,1,1,2021,16,3,5
+2599,0,Assalamu alaikum kawan2 🙏\nMuh. Akram asal soppeng sulsel,Muh,Akram,Akrammuh,0,5,1,2021,10,47,10
+2600,2599,Wa 'alaikum salam... Selamat datang di welcome,Rizky,Arlin,rizkyarlin,0,5,1,2021,11,32,33
+2613,0,Salam kenal semuanya🙏,Fadhil,Abrar,fadhilabrar,0,7,1,2021,12,31,24
+2645,0,Halo.. Herman Joni asal Mamasa Sulbar😁,Herman,Joni,Joo02,0,12,1,2021,11,50,25
+2646,0,Salam knal,Herman,Joni,Joo02,0,12,1,2021,11,50,40
+2647,0,😁,Herman,Joni,Joo02,0,12,1,2021,11,50,51
+2648,0,"Assalamu'alaikum. Sya mau tanya.. digroup ini apakah ada yg pernah buat aplikasi quizz acak, yg menerapkan algoritma  LCM(Linear Congruent Method).",Alba,Purnama,,0,12,1,2021,14,13,36
+2649,0,waalaikumussalam wr wb\n\nkalo linear congruent generator nya sendiri sudah diimplementasikan? pakai flutter(dart)?,oon,,oonid,0,12,1,2021,14,24,26
+2657,0,"#oot\n\nSelamat pagi semua, izin membagikan Blog saya mengenai cara membuat AutoSlider di Flutter, terima kasih  semoga bermanfaat 😄\n\n[Membuat AutoSlider di Flutter dengan Carousel Slider](https://kotakode.com/blogs/4505/Membuat-Auto-Slider-dengan-Carousel-Slider)",Adithya Firmansyah,Putra,Adithya_13,0,12,1,2021,20,38,46
+2660,2649,baru mau diimplementasikan. Tapi sya bingung caranya.,Alba,Purnama,,0,13,1,2021,11,16,1
+2661,0,kalau soal2nya apakah sebaiknya dibuat perpaket atau cukup dalam 1 file sja?,Alba,Purnama,,0,13,1,2021,11,16,39
+2662,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,3,49,24
+2663,0,Walaikumsalam,Irwan,Ardyansah,,0,14,1,2021,3,49,42
+2664,0,Kalo mau update apps apa tinggal upload setela di ttd keystorenya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,3,50,0
+2665,0,Udah upgrade versionCode + versionName-nya?,Irwan,Ardyansah,,0,14,1,2021,3,51,1
+2666,0,Sdh jadi apk..yg buat bilang sdh di ttd di dlmnya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,4,2,57
+2667,0,Ohiya berarti tinggal upload aja. tpi Coba Upload aja dlu.,Irwan,Ardyansah,,0,14,1,2021,5,7,23
+2668,0,Kalo buat update aplikasi skg bagus pakai SDK 1-30 apa bisa supaya bisa jangkau yg HP jadul (jadi hp jadul tetap bisa pakai) aplikasinya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,5,28,19
+2669,2668,"Susah om, perusahaan kelas dunia seperti whatsapp saja cuma cakup level 15 ke atas....",Dianto,,Dian_774,0,14,1,2021,9,33,50
+2670,0,Iya ini 14 saja memang,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,9,39,49
+2671,0,Sdh di survey dr statistiknya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,9,40,1
+2672,0,Itu kadang2 ada fitur tdk bisa jalan apa disebabkan SDK nya kurang lengkap?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,9,52,22
+2673,2669,Apa SDK nya kurang lengkap om?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,14,1,2021,9,52,54
+2674,2673,"bukan masalah itu sih om, tp masalah compatibility, itu sdh seperti hukum alam di pengembangan software dan OS, \n\nsebagai contoh program yg dibuat untuk berjalan di windows 98, atau menggunakan library untuk windows 98 kemungkinan besar tdk bisa berjalan di windows 10, tpi sebagian besar yg dibuat untuk windows 7 masih bisa dijalankan di windows 10, karna arsitekturnya masih banyak kemiripan...",Dianto,,Dian_774,0,14,1,2021,10,8,38
+2675,0,"Atau kalau dianalogikan, kayak kita ini programer sebagai tukang jahit baju, trus diminta bikin baju yg bisa digunakan anak umur 1 tahun sampai 30 tahun, kira2 yg jadi patokan ukuran yg mana supaya masih tetap pas dipakai? pasti kalau buat untuk pas digunakan umur 1 tahun, pasti tdk bisa dipakai 10 tahun ke atas.. hehe",Dianto,,Dian_774,0,14,1,2021,10,15,51
+2680,2675,Ini kalo tdk bisa diupload kenapa ya ..padahal PS minta di buat zip..setelah di zip tetap tdk bisa upload,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,1,2021,6,7,38
+2681,0,Padahal tulisan di consol kan apk ato aab ya extension filenya?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,1,2021,6,8,5
+2682,2680,"Klw zip ngak bsa om, apk atau aab",Irwan,Ardyansah,,0,15,1,2021,6,13,53
+2683,0,Td sdh apk kok ditolak,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,1,2021,6,14,19
+2684,2681,Ada pemberitahuan ngak om knpa di tolak?,Irwan,Ardyansah,,0,15,1,2021,6,14,55
+2685,0,Dia bilang buat zip file dulu baru upload ulang,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,1,2021,6,15,25
+2686,0,"Coba di screenshotkan dan di kirim disini aja pemberitahuannya om. Soalnya selama mengupload dan di rejected, sya ngak pernah dapat pemberitahuan sejenis seperti itu om",Irwan,Ardyansah,,0,15,1,2021,6,20,7
+2687,0,Foto dari Gotukang(adaDi Playstore),Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,15,1,2021,7,7,32
+2688,0,itu zipnya bukan zip compressor data mksdnya. Ada memang fitur zip di dalam android studio,Irsyad,Ashari,tiereurdecouer,0,15,1,2021,22,55,10
+2689,2688,O gitu..jadi di zip dulu yg dr andoid studio baru di compile/bundle,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,16,1,2021,1,55,40
+2690,0,,ROOT,,imtoor,0,18,1,2021,19,32,58
+2691,0,Kenapa nih om @Gotukang,ROOT,,imtoor,0,18,1,2021,19,33,9
+2692,2690,Ini waktunya update...sdh lama memang versi ini,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,18,1,2021,20,40,19
+2693,2692,"webview aja kan ini om, gak ada tambahan yg lain ?",ROOT,,imtoor,0,18,1,2021,21,0,41
+2694,0,Pake apa bundling(bungkus) nya ?,ROOT,,imtoor,0,18,1,2021,21,1,8
+2697,0,Apa ada yg pernah buat webview?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,19,1,2021,0,23,8
+2698,2690,🙈🙈,Rizky,Arlin,rizkyarlin,0,19,1,2021,4,2,45
+2699,0,API 16+ Trus SDK TARGET 30 itu muncul pas mau rilis apa sdh bagus,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,20,1,2021,7,57,43
+2700,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,24,1,2021,8,34,23
+2701,0,"Apa ada yg pengalaman rilis di playstore,akhir2 ini berapa lama dr rilis sejak upload....apa memang berhari2 utk update aplikasi yg sdh ada?",Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,24,1,2021,8,34,37
+2702,2701,biasany cmn beberapa menit hingga hitungan jam kalau cuma update...,Dianto,,Dian_774,0,24,1,2021,8,55,35
+2703,2690,mungkin karna masalah ini om..😂,Dianto,,Dian_774,0,24,1,2021,8,56,20
+2708,0,Mat malam,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,2,2021,13,8,4
+2709,0,Kenapa setelah install webview di aplikasi ada url.wa.me yang tdk jalan(err url unknown scheme) ketika dijalankan lewat aplikasi..apa kira2 masalahnya? Apa ada yg pernah alami?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,2,2021,13,8,28
+2712,0,#ask\nada yg pernah nyoba pake library printing dan get data all document di firestore pake streambuilder untuk tampilkan datanya di pdf review ? klo ada gimana nampilin datanya?\nmakasih sebelumnya...,Fadli,Jaya,fadlyjaya,0,5,2,2021,0,25,52
+2716,0,Perkenalkan nama saya dion,Valendion,,Valendion,0,11,2,2021,16,4,46
+2717,2716,Hai dion,rizno,usbal,usbal,0,11,2,2021,16,6,15
+2718,0,di sini ki pale,Valendion,,Valendion,0,11,2,2021,16,7,31
+2721,0,Selamat malam menjelang sebuh kak perkenalkan nama saya kiel salam kenal buat kakak² semua 🙏,Yeheskel,Febri Anto,kiel17,0,11,2,2021,16,16,8
+2722,0,Hahaha adek2 ta bang @Dian_774,rizno,usbal,usbal,0,11,2,2021,16,18,26
+2723,0,"Halo semuanya 😊\n\nLIMITED SEAT !!!\n\nOnline Class Up-Dev Series MDV ""Introducing Null Safety in Flutter""\n\nHalo, Up-Dev Series Makassar Digital Valley hadir lagi loh bulan ini, jadi jangan sampai ketinggalan ya karena kamu bisa mengikuti sesi ini dengan mudah dari rumah melalui Video Conference.\n\nEdisi Online Class Up-Dev Series kali ini kamu berkesempatan belajar bersama dengan Mobile Developer rock.so sekaligus Google Developers Expert in Flutter, Angga Arifandi yang akan mengulas topik ""Introducing Null Safety in Flutter"".\n\nCatat waktu dan tanggalnya ya, akan berlangsung pada :\n\nTanggal : 20 Februari 2021\nWaktu : 20.00-22.00 WITA\nLink Registrasi : bit.ly/nullsflutter\nLIVE via Video Conference\n\n\nOnline Class ini FREE !!!\n*Dapatkan*\n- E-Certificate\n\nPastikan kamu telah terdaftar sebagai member Makassar Digital Valley ya, buat yang belum terdaftar WAJIB melakukan registrasi di bit.ly/regismembermdv",Rini,,,0,12,2,2021,2,29,43
+2724,0,,Rini,,,0,12,2,2021,2,30,9
+2729,0,Hallo perkenalkan nama sy fahmimuhfaqi\nUmur saya 23 tahun \nSyaa berasal dr masamba,Fahmimuhfaqi,,,0,15,2,2021,1,14,53
+2731,2729,Welcome bro 👍🏻,ROOT,,imtoor,0,15,2,2021,6,9,31
+2734,0,Mohon bantuanx belajar kanda,Fahmimuhfaqi,,,0,15,2,2021,22,8,49
+2737,0,"hallo,  nama saya fitriyanti S",Fitri,,,0,16,2,2021,9,18,7
+2738,2734,"Apa yg bisa dibantu sama kakak-kakak di sini, kak?",Fordyta Abubakar,,DhytoDev,0,16,2,2021,11,38,23
+2739,2737,"Halo, selamat bergabung 🖐",Fordyta Abubakar,,DhytoDev,0,16,2,2021,11,38,39
+2740,2724,,Dianto,,Dian_774,0,16,2,2021,11,54,46
+2741,2734,"Itu di pined message ada event, amankan seatnya kak.. 😊",Dianto,,Dian_774,0,16,2,2021,11,55,41
+2742,0,Siap,Fahmimuhfaqi,,,0,16,2,2021,12,55,55
+2747,0,"halo nama saya ramadhan cahyo nugroho, umur 21 tahun",Ramadhan,Cahyo,,0,18,2,2021,3,29,54
+2752,0,"Halo nama saya Louis ,umur 17 tahun ,saya asal Toraja",Louis,Grigniond,Louis_kalua,0,19,2,2021,13,1,0
+2753,0,"MALAM INI !!!\nHANYA UNTUK 100 ORANG :)\n\nOnline Class Up-Dev Series MDV ""Introducing Null Safety in Flutter"" bersama Angga Arifandi (Mobile Developer rock.so sekaligus Google Developers Expert in Flutter)\n\n20 Februari 2021\n20.00-22.00 WITA\nJoin Zoom Meeting \nhttps://us02web.zoom.us/j/86141011652?pwd=NVE2NGF0c21Eek9EWTR4ZTVxV2gyUT09 \n \nMeeting ID: 861 4101 1652 \nPasscode: 019442\n\nSee you MDVers :)",Dianto,,Dian_774,0,20,2,2021,8,36,2
+2754,2753,,Dianto,,Dian_774,0,20,2,2021,8,36,45
+2755,0,"bang mau tanyak, bagaimana cara ukuran file gambar yang kita upload melalui image picker bisa di kecilkan sebelum tersimpan",Andri Irwan Zahri,,andrirzah,0,20,2,2021,20,34,55
+2756,2755,"Belum coba sih, tp ini ada referensi yg bisa dicoba:\n\n\nhttps://stackoverflow.com/a/49371190/7664493",Dianto,,Dian_774,0,20,2,2021,20,59,52
+2757,2756,makasih bg ya,Andri Irwan Zahri,,andrirzah,0,20,2,2021,21,15,24
+2760,2757,👍🏻,Dianto,,Dian_774,0,21,2,2021,4,42,31
+2765,0,kak @Dian_774 mau coba apply ke flutter network? 😬\n\nhttps://www.meetup.com/pro/flutter,oon,,oonid,0,2,3,2021,7,28,38
+2766,2765,"Wah... bung @oonid mungkin bisalahh,, secara sdh berpengalaaman di meetup..  hehehe",Dianto,,Dian_774,0,2,3,2021,7,30,33
+2767,2766,😁 kak Dian aja deh,oon,,oonid,0,2,3,2021,7,45,45
+2768,0,"bg mau tanya , ada ngak referensi untuk membuat project besar dengan flutter ,",Andri Irwan Zahri,,andrirzah,0,3,3,2021,19,58,50
+2769,2768,Apanya yang besar? Bisa diperjelas pertanyaannya? 😅,Dianto,,Dian_774,0,3,3,2021,22,49,16
+2770,0,#Info https://developers.googleblog.com/2021/03/announcing-flutter-2.html,Musa,Amin,musaamin,0,4,3,2021,3,24,58
+2771,2770,,Dianto,,Dian_774,0,4,3,2021,21,47,59
+2774,0,"Izin belajar, Rangga",Raden,Pratama,radenRanggaPratama,0,5,3,2021,15,21,49
+2779,0,https://www.dicoding.com/events/3822,Rizky,Arlin,rizkyarlin,0,6,3,2021,4,12,13
+2780,0,,Rizky,Arlin,rizkyarlin,0,6,3,2021,4,13,16
+2781,0,Om @muhrahmatullah bawa materi soal Architecture Component,Rizky,Arlin,rizkyarlin,0,6,3,2021,4,14,0
+2782,0,"thank you om @rizkyarlin sudah dishare, kuy heheh",Muhammad,Rahmatullah,muhrahmatullah,0,6,3,2021,5,2,6
+2785,0,,Andri Irwan Zahri,,andrirzah,0,8,3,2021,16,25,25
+2786,2785,Untuk imagenya lokasinya pada mipmap kak?,Rabiuldien,,Rabiuldien,0,9,3,2021,2,18,2
+2789,0,Halo kak,Malik,Mulki,,0,9,3,2021,10,28,36
+2790,0,Saya malik dari makassar,Malik,Mulki,,0,9,3,2021,10,28,43
+2791,2789,Halo juga...\nSy juga skrg domisili makassar...,Rabiuldien,,Rabiuldien,0,10,3,2021,3,8,55
+2792,2791,Makassar nya dimana kak?,Malik,Mulki,,0,10,3,2021,9,28,10
+2797,0,"Haai salam kenal, dengan Nisa dari Imperial Healthtech.\nKegiatan sehari-hari selain develop apps adalah mengurus keluarga dan 3 anak ✌️",Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,34,0
+2798,0,Mau ijin sharing lowongan pekerjaan Flutter Developer bagaimana caranya ya? Terimakasih sebelumnya 🙏,Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,34,36
+2799,2792,Tamalanrea kak...,Rabiuldien,,Rabiuldien,0,11,3,2021,12,44,56
+2800,2799,Jauh juga yah kak,Malik,Mulki,,0,11,3,2021,12,45,20
+2801,2798,Langsung post di group bisa kak....,Rabiuldien,,Rabiuldien,0,11,3,2021,12,45,29
+2802,0,Boleh lah kapan2 ketemu kak sharing2 ilmu😂,Malik,Mulki,,0,11,3,2021,12,45,39
+2803,2798,Iya kak bisa tuh,Malik,Mulki,,0,11,3,2021,12,45,48
+2804,2801,Baik terimakasih Kak 🙏🙏,Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,46,16
+2805,0,Dicari Flutter Developer Min. Lulusan SMK.\nPenempatan terbuka untuk seluruh wilayah di Indonesia.\nSilahkan daftar sekarang di: https://imperialhealthtech.com/#career,Choirunnisa,Hapsari,choirunnisa,0,11,3,2021,12,46,29
+2811,0,"kakak abg2 boleh tanya ngak , ini kenapa ya...\nsaat lagi run google signin nya mengalami error ya...\nmohon pencerahannya abg"" kakak""",Andri Irwan Zahri,,andrirzah,0,16,3,2021,19,59,27
+2812,0,,Andri Irwan Zahri,,andrirzah,0,16,3,2021,19,59,46
+2813,0,,Andri Irwan Zahri,,andrirzah,0,16,3,2021,20,0,32
+2816,0,Hallo 👍👍,Imam Akbar,Mega AR,iamantariksa13,0,18,3,2021,7,41,42
+2827,0,Halo semua 😅,Lutfi,Sirajs,lutfisirajs,0,8,4,2021,3,20,21
+2828,0,halo juga,Muhammad,Aan,muh_aan,0,8,4,2021,5,42,8
+2843,0,"Halo salam kenal sy ubaidah, mohon bantuannya🙏",Ubaidah,Abdurrahman S.,,0,28,4,2021,0,34,1
+2846,0,"Hi Sobat \nYuk, Upgrade Skill,  Kuasai digital skill, programing dan desain, di SanberCode Bootcamp!\n- Online - Intensif - Interaktif -\nMulai Bulan Ramadhan ini semua kelas bootcamp levelnya jadi beginner, jadi klo kamu baru mau mulai, bisa ikut kelas mana aja, yuk dipilih kelasnya!\nAda 4 kelas baru juga lho!\nKelas yang dibuka :\n1. Python - Data Science\n2. Laravel - Web Development\n3. React Native - Mobile Apps Dev\n4. FLutter - Mobile Apps Dev✨\n5. React JS - Web FrontEnd Dev\n6. Vue JS - Web FrontEnd Dev✨\n7. Python - BackEnd Microservices✨\n8. NodeJS - BackEnd with Adonis✨\n9. Wordpress Dev\n10. UI/UX Design\n11. Ai Ps Blender - Grafik & 3D Design\n12. Agile Dev using SCRUM\n\n--------------------------------------------------\n⭐ Bootcamp ini terbuka untuk umum dan tanpa seleksi di awal.\n⭐ Dilatih oleh trainer profesional berpengalaman dan dapat sertifikat resmi.\n⭐ Bisa mendapatkan peluang project dan kesempatan bekerja di perusahaan mitra SanberCode.\n⭐ Materi kelas dan grup diskusi dapat diakses kapan pun setelah kelas berakhir.\nInfo detail materi, teknis pelaksanaan dan pendaftaran, klik link sanbercode . com\nBuat yang ingin daftar dan dapatkan diskon 10% silahkan Masukan kode voucher : RAMADHAN",Design & Code Your Future Career,,kelas_bootcamp,0,2,5,2021,4,13,13
+2847,2811,Coba liat build.gradle nya,Mudassir,,ukieTux,0,2,5,2021,4,16,54
+2848,2812,Sama coba belajar cara screenshot biar keliatan jelas text nya 😅,Mudassir,,ukieTux,0,2,5,2021,4,17,54
+2849,0,bisa share loker min?,Ahmad,Muflih,muflih0195,0,3,5,2021,5,58,31
+2850,2849,Tentu saja boleh selama berkaitan dgn flutter.. Silakan 😊,Fordyta Abubakar,,DhytoDev,0,3,5,2021,8,15,28
+2857,0,"Selamat sore, perkenalkan rekan"" saya tommy",haripin,,haripin9,0,12,5,2021,10,2,24
+2863,0,"#loker\n\nYg lagi nyari #loker remote / onsite bidang IT tp capek apply sana sini boleh DM CVnya.. \n\nNtar dimatch ama company yg cocok skillnya.\n\nRata2 company Singapore.\nSalary start from 1000 SGD.\n\nSyarat cuma 2, punya experience minimal 1 tahun dari salah satu di bawah ini:\n- Frontend\n- Backend\n- Fullstack\n- QA\n- DevOps\n\nWajib bahasa inggris, tdk harus setara native, yg penting bisa komunikasi dengan lancar.",Dianto,,Dian_774,0,19,5,2021,8,13,4
+2864,0,"bisa buat aplikasi flutter pakai flutterflow di web,\ndibangunnya juga dengan flutter web 👍\n\nhttps://youtu.be/5j82wxzwFyI",Dianto,,Dian_774,0,22,5,2021,0,58,53
+2867,0,Halo salam kenal,Jo,,Dejo06,0,22,5,2021,13,20,23
+2872,0,halo salam kenal saya dari Sulteng,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,26,5,2021,4,48,22
+2873,0,daeng ada tmpat buat blajar flutter online yg bagus dimana,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,26,5,2021,10,0,59
+2874,0,https://youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV,ROOT,,imtoor,0,26,5,2021,10,3,9
+2875,2874,Boleh disini,ROOT,,imtoor,0,26,5,2021,10,3,23
+2876,0,#loker \nDicari Junior Flutter Dev untuk helperid.com\nFresh Grads are welcome.\n\n\nJika tertarik bisa kirim CV ke rizky@helperid.com dengan subject Junior Flutter Dev,Rizky,Arlin,rizkyarlin,0,26,5,2021,11,57,15
+2877,2876,Ohiya salah satu perks nya adalah satu tim dengan kak @DhytoDev 🙈,Rizky,Arlin,rizkyarlin,0,26,5,2021,11,57,46
+2878,0,msi blajar ma,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,26,5,2021,12,9,20
+2879,2877,🙈,Fordyta Abubakar,,DhytoDev,0,26,5,2021,14,10,21
+2880,0,"gmn caray nah, bkin buttom pake card widget?",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,26,5,2021,14,51,27
+2881,2880,Bisa di wrap pakai GestureDetector atau InkWell om,Irwan,Ardyansah,,0,26,5,2021,14,54,4
+2885,0,"kenapa nah raisedbutton, digaris tengah dan jadi error?",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,26,5,2021,20,52,50
+2886,2885,"bisa dibaca di IDE itu ada pesannya.\nRaisedButton itu sudah usang (deprecated), sekarang digantikan oleh ElevatedButton\n\nliat dokumentasi \nhttps://api.flutter.dev/flutter/material/RaisedButton-class.html",oon,,oonid,0,26,5,2021,23,20,56
+2887,2885,pake ElevatedButton gan,Fadli,Jaya,fadlyjaya,0,26,5,2021,23,22,26
+2888,0,"oh sama itu jga, pake required mala error tapi pas pake @required jadi aman. maksuy itu gimana kah",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,27,5,2021,8,9,40
+2891,2888,Kira2 knp tuh?,Fordyta Abubakar,,DhytoDev,0,28,5,2021,9,47,48
+2892,0,itu mediaquery atau flexibel,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,28,5,2021,13,56,52
+2895,0,"Salam, saya Teuku rovid dari aceh",Teuku Rovid,,Rovid1,0,31,5,2021,4,9,2
+2896,0,"#loker teman lagi cari dev flutter, lokasi makassar",Musa,Amin,musaamin,0,1,6,2021,6,24,22
+2897,2896,🆙,Mudassir,,ukieTux,0,1,6,2021,13,51,35
+2898,2896,"sudah ada 2 org yg daftar, terima kasih",Musa,Amin,musaamin,0,1,6,2021,22,16,27
+2903,0,"Malam kak, mau nanya klo mau buat kyk gini keywordnya apa ya ? tks",harizah,,hrzaid,0,13,6,2021,13,57,43
+2908,2903,cara membuat screenshot?,Dianto,,Dian_774,0,15,6,2021,16,17,59
+2909,2908,nampilin nama kak,harizah,,hrzaid,0,15,6,2021,17,8,4
+2910,2909,nampilin nama dari data profil?,Rabiuldien,,Rabiuldien,0,16,6,2021,2,13,37
+2911,0,Betulkak,harizah,,hrzaid,0,16,6,2021,2,13,53
+2912,2911,Saat user login simpan namanya... bisa simpan ke sharedpref atau lainnya... dan load saat akses menu report...,Rabiuldien,,Rabiuldien,0,16,6,2021,2,15,32
+2913,0,Oke makasih kak,harizah,,hrzaid,0,16,6,2021,2,15,59
+2918,0,saya ardi,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,21,6,2021,9,48,28
+2919,0,"tabe daeng, itu garis tengah gantiy apa..e",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,21,6,2021,9,49,3
+2920,2919,autovalidateMode: AutovalidateMode.....,Irwan,Ardyansah,,0,21,6,2021,9,54,41
+2921,0,mksih 👍👍,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,21,6,2021,10,0,27
+2922,0,tabe daeng \napa sebutany function sprti ini\n({}),𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,23,6,2021,9,10,54
+2923,0,"Hai semuanya, izin share Link zoom kegiatan MDV malam ini 🙏\n\nHai MDVers, jangan sampai ketinggalan Online Class Malam ini, sharing bersama Andri Suranta Ginting selaku Mobile Engineer yang akan mengulas topik ""Improve Performance Android App"".\n\n25 Juni 2021\n20.00-22.00 WITA\nhttps://us02web.zoom.us/meeting/register/tZEkduyqqzwpEtC_XmtcdKFGpEegrUmGhZec\n\nSampai jumpa di kelas ya!",Rini,,,0,25,6,2021,11,53,44
+2924,0,"Satu lagi di Online Class MDV malam ini, jangan sampai ketinggalan ya MDVers!\n\nOnline Class Up-Dev Series sesi ini akan dibawakan oleh Ibnu Sina Wardy selaku Founder Gits yang akan berbagi bersama MDVers tentang ""Pantau Performa Aplikasi Secara Akurat dan Realtime""\n\nYuk, jangan sampai ketinggalan ya !\n29 Juni 2021\n20.30 WITA - Selesai\nhttps://us02web.zoom.us/meeting/register/tZYocOyhqj8uHNMMB5iyhDddv1S24u2uB31P\n\nSampai jumpa di kelas!",Rini,,,0,29,6,2021,12,18,50
+2931,0,gan kenapa ya fluttet clean jadi error. ada solusi ngak.masa nyusun code lgi,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,9,7,2021,7,0,0
+2932,2931,Jalankan flutter pub get lagi,Fordyta Abubakar,,DhytoDev,0,9,7,2021,7,2,36
+2933,0,tabe dii. saya build debug to trus sy copy dihpku apkny hasil dari build. tpi kenapa nah sy instal dihpku sukses tpi tidak ada tampil di hpku nah,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,14,7,2021,2,42,23
+2938,2933,Apanya yg tidak tampil ini om?,Rabiuldien,,Rabiuldien,0,15,7,2021,9,19,47
+2939,2938,apknya stlah slsai instal tdk ada,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,15,7,2021,9,23,36
+2940,2939,"Knpa ngak build release aja om? Klw nge generate APK dri APK debug, code2 debug-nya ikut ke-inject ke APK generate",Irwan,Ardyansah,,0,16,7,2021,3,4,55
+2943,0,"Halo, salam kenal. Saya Je dr Toraja, lagi nyari developer flutter area makassar dan sekitarnya. Ada project ini butuh dev kerja remote, meeting 2-3 kali",Je,,,0,16,7,2021,3,22,11
+2944,2940,debug apk cmn tes doang.,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,7,2021,3,31,19
+2945,2944,Test-nya untuk test apakah apk debug yg di generate bisa jln di smartphone lain om? Atau ada purpose lain?,Irwan,Ardyansah,,0,16,7,2021,3,45,12
+2950,0,,Rini,,,0,21,7,2021,1,30,12
+2951,0,"Halo semuanya, izin untuk berbagi informasi kegiatan Online Class Makassar Digital Valley ya. Semoga bermanfaat.\n___________________________________\nHai MDVers, Waktunya kembali belajar di Online Class Up-Dev Series untuk upgrade skill programming kamu lagi bersama Expert ! Yuk, semangat!\n\nOnline Class Up-Dev Series kali ini, Makassar Digital Valley berkolaborasi dengan STMIK KHARISMA dan Universitas Negeri Makassar Jurusan Teknik Informatika dan Komputer.\n\nJangan sampai kelewatan ya MDVers ! Sesi ini kamu berkesempatan belajar bersama Mobile Developer rock.so sekaligus Google Developers Expert in Flutter, Angga Arifandi yang akan mengulas topik ""Using Google Maps & Firebase in Flutter to Create Simple Ridehailing App"".\n\nCatat jadwalnya yuk berikut ini ! Akan berlangsung pada :\nHari/Tanggal : Rabu/28 Juli 2021\nWaktu : 20.00 - 22.00 WITA\nLink Registrasi : goers.co/updevgmf\nLIVE via Video Conference\n\nEvent ini FREE + Dapatkan :\nEcertificate dan Give Away Saldo LinkAja\n\nPastikan kamu telah terdaftar sebagai member Makassar Digital Valley ya, buat yang belum terdaftar WAJIB melakukan registrasi di bit.ly/regismembermdv",Rini,,,0,21,7,2021,1,30,13
+2954,0,Salam kenal,Semut,Liar,,0,22,7,2021,12,5,16
+2963,0,ada yg udah pake win11? nah sala satu fitury sprti gambar diatas. jadi untuk develop flutter/mobile msih instal android studio?,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,3,2,4
+2964,2963,"Bedakan emulator dgn IDE atau code editor. Itu 2 hal yg berbeda. \n\nJadi, tdk ada hubungannya antara win 11 yg punya fitur bisa menjalankan aplikasi android tanpa emulator dengan Android Studio sbg IDE untuk mengembangkan aplikasi.",Fordyta Abubakar,,DhytoDev,0,29,7,2021,5,51,25
+2965,0,"Selama ini pun, untuk mengembangkan aplikasi flutter tdk wajib dgn AS kok, bisa jg dgn code editor seperti VS Code.",Fordyta Abubakar,,DhytoDev,0,29,7,2021,5,54,0
+2966,0,"Klo mau ribet, dgn Notepad sekali pun sebenarnya bisa bikin aplikasi mobile selama flutter & android sdk sdh terinstall. \n\nTapi, ya itu, siapa yg mau menghabiskan umur mengetik kode program di notepad 😂",Fordyta Abubakar,,DhytoDev,0,29,7,2021,6,0,16
+2969,2966,"wkwkwk eh jgn salah itu texteditor legend loh, dlu jamanku kuliah bikin web pake notepad, html4 lgi, apa lgi dlu tak se indah skrang buat web. dlu buat web keren. di design dlu di photoshop trus dislice satu"". wkwkwkk",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,11,14,54
+2970,2969,ada yg seangkatan ngak😂😂,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,11,15,10
+2971,2969,notepad atau notepad++ nih? jauh loh bedanya .-.\n\nnotepad++ rilis 2003 btw,Rizky,Arlin,rizkyarlin,0,29,7,2021,11,48,12
+2972,2971,trus?? kan saya mulai ngoding di 2009. kedua duanya dipake. yg satu hitam putih yg pluss udah bercolor,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,11,49,58
+2973,2972,wah sudah sangat berpengalaman ternyata. Sungkem 🙏,Rizky,Arlin,rizkyarlin,0,29,7,2021,11,50,33
+2974,2973,"sntai bertahun tahun sy tingalkan coding. soly dlu trend jarkom jadi fokusy distu. 2018 liat kurikulum web. wihh trnyata udah berubah smua, mulai dri java, js, php, dibantu smua pake framework dn library dlu susah. tpi skrng main flutter lah ciamik👍👍 mski msih sdikit sih di indonesia",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,11,53,3
+2975,2974,dr dulu bukannya sdh ada framework yah kak?,Rizky,Arlin,rizkyarlin,0,29,7,2021,11,56,54
+2976,2975,"emm sepengetahuanku msih jquery yg legend. soal trend framework, dulu tidak pernah disbut sebut, dulu istilah disebut code murni, dulu ada event web smuay ditulis code. itu tidak pake autocomplite sprti skrang dan error ditampilkan dibawah texteditor. klau cek error ya dirunning dulu baru ditau errory dimana.",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,12,0,31
+2977,2976,"barusan sy googling2.  sdh ada codeigniter 2006, spring 2002, jquery 2006. Waktu itu artinya kt masih sangat lambat adopsi teknologi yah",Rizky,Arlin,rizkyarlin,0,29,7,2021,12,4,4
+2978,2976,"kalau yg dimaksud autocompile untuk cek error adalah linter,.. phpeclipse rilisnya di 2006",Rizky,Arlin,rizkyarlin,0,29,7,2021,12,6,27
+2979,2977,"codeingiter seangkatanku tdk ada yg pake ntah apapun itu projecty. tpi benar lambat teknologi, mnkin codeingniter dn spring ada tpi kyaky blum secangih skrng penanganany. makay dulu lau buat project itu baris code banyak kebawah.",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,12,6,37
+2980,2978,"tidak kenal dulu, pokoky diangap lemah kalau ngoding pake bantuan. krena dulu ada istilah code murni dn itu lau dikuasai, diangap hebat👍👍 orang cerdas",𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,12,7,42
+2981,2980,banyak yg *gatekeeping* dulu dih wkwkwk,Rizky,Arlin,rizkyarlin,0,29,7,2021,12,8,37
+2982,2981,wwkwkwk tpi skrng serba praktis krena emang trend kebutuhan srba cepat,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,7,2021,12,10,45
+2983,2969,"Yah, klo untuk awal belajar buat web statis atau web dinamis sederhana masih oke lah pakai notepad.\n\n Di tahun-tahun segitu, seingatku yg populer itu Macromedia Dreamweaver.. \n\n*Duh, jebakan umur ini 🙈",Fordyta Abubakar,,DhytoDev,0,29,7,2021,15,10,52
+2984,2980,"Apami itu dibilang code murni, mmg ada code yg tdk murni? wkwk",Fordyta Abubakar,,DhytoDev,0,29,7,2021,15,21,29
+2985,2979,"Yg suka bilang begini, biasanya pusing sendirimi setelah na buka kembali proyeknya setahun berikutnya wkwk",Fordyta Abubakar,,DhytoDev,0,29,7,2021,15,27,54
+2986,2984,wah pelecehan terhadap code kalau begini...,Rizky,Arlin,rizkyarlin,0,30,7,2021,0,42,22
+2987,0,,Badrol,,,0,31,7,2021,11,54,38
+2988,0,,Badrol,,,0,31,7,2021,11,54,39
+2989,0,,Badrol,,,0,31,7,2021,11,54,39
+2990,0,,Badrol,,,0,31,7,2021,11,54,39
+2991,0,,Badrol,,,0,31,7,2021,11,54,39
+2992,0,,Badrol,,,0,31,7,2021,11,54,39
+3001,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,4,8,2021,12,31,21
+3002,0,Apa ada yg bisa buat webview..kalo ada bisa japri..,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,4,8,2021,12,31,43
+3003,0,Ngelink ke url ?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,4,8,2021,12,32,2
+3004,3003,Maksudnya ngelink ke url?,Rabiuldien,,Rabiuldien,0,4,8,2021,14,58,8
+3005,0,Apa ada yg bisa buat web view app..silahkan japri kalo ada..,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,5,8,2021,8,15,15
+3008,0,"Halo, salam kenal",Zero,Day,zer0dayx,0,5,8,2021,8,23,36
+3009,0,Saya adi,Zero,Day,zer0dayx,0,5,8,2021,8,23,43
+3010,0,Ada aturan main di sdk 30 PS gimana mengenai webview apa aman?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,5,8,2021,8,24,29
+3011,3005,"Boleh nih, budget berapa om",Zero,Day,zer0dayx,0,5,8,2021,8,24,52
+3012,3011,Japri saja,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,5,8,2021,8,25,13
+3013,0,Photo from Muh. Rizky Eka Arlin,Rizky,Arlin,rizkyarlin,0,6,8,2021,14,43,23
+3014,3013,"Yg minat japri dih, jalur referral",Rizky,Arlin,rizkyarlin,0,6,8,2021,14,43,35
+3019,0,"Selamat pagi teman"", maaf mengganggu waktunya.\n\nSaya mau nanya, bagaimana cara bikin screen, yg app bar nya tetap, yg berganti ganti cuma layout dibawah app bar.\n\nTerimakasih semua",_ignore,,Igggnoore,0,10,8,2021,3,35,8
+3020,0,"Assalamualaikum suhu, itu kalau mau build aplikasi ios harus nd bisa dapat mentahannya saja kah kayak android yg pake ekstensi .apk",Dercology,,dercology,0,12,8,2021,7,4,43
+3021,3020,"Bisa, digenerate ipa-nya lewat XCode",Irwan,Ardyansah,,0,12,8,2021,7,6,21
+3022,3021,Maksudnya itu kak hasilnya nanti master aplikasi ios yg berkekstensi .ipa?,Dercology,,dercology,0,12,8,2021,7,7,2
+3023,3019,"Coba cari referensi ""Persistant App Bar""",Irwan,Ardyansah,,0,12,8,2021,7,7,21
+3024,3022,Iya betul ekstensi-nya  .ipa,Irwan,Ardyansah,,0,12,8,2021,7,7,40
+3025,0,Tp harus pake iTunes untuk instal di IOS brarti?,Dercology,,dercology,0,12,8,2021,7,9,50
+3026,3025,"Kemarin sya lewat diawi, tpi butuh UUID-nya di daftarin dlu",Irwan,Ardyansah,,0,12,8,2021,7,13,54
+3027,0,Tp mmng iTunes bisaji di?,Dercology,,dercology,0,12,8,2021,7,16,22
+3028,3027,Krn blum pernah tes wkwk,Dercology,,dercology,0,12,8,2021,7,17,25
+3029,3027,Iya betul install ipa-nya salah satunya lewat ITunes,Irwan,Ardyansah,,0,12,8,2021,7,27,2
+3030,0,Siap makasih 🙏,Dercology,,dercology,0,12,8,2021,7,59,42
+3031,3023,"Hoo baik mas, kalo make persistant app bar bagian body nya bisa ganti"" mas ?",_ignore,,Igggnoore,0,12,8,2021,8,13,58
+3032,0,"klw flownya seperti aplikasi quiz yg ada progress app-bar-nya, bisa pakai PageView di body Scaffold-nya. Karna PageView dia nyimpannya Array Widget, jadi Widget parent Page2nya di deklarasikan didalam array-nya. nanti sisa di increment / decrement index-nya",Irwan,Ardyansah,,0,12,8,2021,8,26,22
+3033,0,"Ada yang bisa develop aplikasi multi platform dengan flutter? Android, web, iOS\n\nAplikasi penghubung antara user dengan vendor, ada pembayaram dalam aplikasi",Semut,Liar,,0,13,8,2021,12,28,39
+3038,0,"Hi halo namaku angga, salam kenal, mohon bimbingan nya 🙏🏻😄",Angga,Pratama,aaangga,0,15,8,2021,4,26,55
+3041,3038,Salam kenal gan,Muhammad,Rahmatullah,muhrahmatullah,0,15,8,2021,13,54,16
+3042,0,Mat maam,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,17,8,2021,12,25,16
+3043,0,Ini sdh ada pemberitahuan email dr google console kata nya sdh live tp kok tdk muncul aplikasinya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,17,8,2021,12,25,53
+3044,0,udah muncul kalau begitu,ROOT,,imtoor,0,17,8,2021,12,30,25
+3045,0,cek aja om,ROOT,,imtoor,0,17,8,2021,12,30,27
+3046,3044,Apa benar 1x24 jam munculnya aplikasi,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,18,8,2021,1,3,55
+3047,0,Setelah dìberitahu di email?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,18,8,2021,1,4,10
+3048,0,Ada situs atau tempat kursus flutter yg recomended kah bang abang?,Dercology,,dercology,0,18,8,2021,6,17,13
+3049,0,Youtube boleh,ROOT,,imtoor,0,18,8,2021,6,36,47
+3050,0,Atau buildwithangga juga bagus,ROOT,,imtoor,0,18,8,2021,6,36,58
+3051,3048,udemy angela yu,Adithya Firmansyah,Putra,Adithya_13,0,18,8,2021,6,39,4
+3052,3051,Ini saya juga ikuti 👍🏻,ROOT,,imtoor,0,18,8,2021,6,39,44
+3053,0,Terima Kasih 🙏,Dercology,,dercology,0,18,8,2021,6,43,50
+3058,0,,Muhammad,Rahmatullah,muhrahmatullah,0,26,8,2021,11,3,27
+3059,0,numpang share #acara ya,Muhammad,Rahmatullah,muhrahmatullah,0,26,8,2021,11,3,43
+3060,3058,paling kece yg ditengah memang...,Dianto,,Dian_774,0,27,8,2021,5,58,54
+3061,0,🙌,Dianto,,Dian_774,0,27,8,2021,5,59,9
+3062,3060,Mohon bimbingannya kanda wkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,27,8,2021,9,11,41
+3063,0,Btw yg mau join linknya https://grb.to/GrabTechTalkAgustusZoom,Muhammad,Rahmatullah,muhrahmatullah,0,27,8,2021,9,11,49
+3065,3063,Grap pake Flutter 🙌 mantapp.. 😁,Dianto,,Dian_774,0,27,8,2021,10,17,44
+3066,3065,grab.careers sikat kanda hahah,Muhammad,Rahmatullah,muhrahmatullah,0,27,8,2021,10,32,39
+3067,0,Mat malam,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,27,8,2021,12,4,17
+3068,0,Apa.di grop ini..ada yg mahir fluter dan rumah di gowa sulsel?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,27,8,2021,12,5,15
+3069,3068,"yg punya grup, om…",Rizky,Arlin,rizkyarlin,0,27,8,2021,12,16,34
+3070,3069,itu yg lagi di tv bawa presentasi om..,Dianto,,Dian_774,0,27,8,2021,12,17,32
+3073,0,"Hallo kak, salam kenal",Masyita,Mija,maasitaaaaa,0,30,8,2021,16,28,48
+3074,3073,Apa tinggal di gowa ato mksr?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2021,0,14,46
+3075,3073,Salken sy iwan..kebetulan ini lagi buat aplikasi...sdh jalan mau tambah partner utk CTO kalo bisa yg pintar fluter,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2021,2,2,50
+3076,0,Gmn apa ada yg bisa flutter,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2021,12,19,15
+3077,3076,Sepertinya ada jhi yg bisa om...\n\nLebih dijabarkan mungkin sedikit kebutuhan CTOnya om...\nseperti CTO untuk aplikasi apa yg akan dibikin...\nsupaya lebih tertarik teman2 yg mau join...,Rabiuldien,,Rabiuldien,0,31,8,2021,15,31,6
+3078,3076,Cari CTO atau Cari Programmer sih,ROOT,,imtoor,0,1,9,2021,0,6,27
+3079,3077,Iya CTO utk startup,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,0,17,56
+3080,0,Nanti dijelaskan pas ketemuan,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,0,18,5
+3081,0,"Langsung aja disini om aplikasi apa, kebutuhan nya apa, jangan harap ada yang japri kalau tidak di sebutkan aplikasi nya apa ?, kebutuhan nya apa ?, Gaji, fasilitas, dll ?",ROOT,,imtoor,0,1,9,2021,0,27,1
+3082,3080,Buang2 waktu untuk ketemuan om... kalau dari awal kurang jelas...,Rabiuldien,,Rabiuldien,0,1,9,2021,2,11,4
+3083,0,AS sama flutter mana yg lebih cpt loading kalo diinstall di PS,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,7,3,6
+3084,0,AS yg dimaksud itu android studio?,garfield,,garfield_09,0,1,9,2021,7,56,28
+3085,0,Ya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,8,53,3
+3086,0,oh maksudnya android native dan flutter?,garfield,,garfield_09,0,1,9,2021,9,14,52
+3087,3086,Ya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,9,16,12
+3088,0,kalau install dari ps itu loading nya tergantung size app nya,garfield,,garfield_09,0,1,9,2021,9,17,3
+3089,3088,Kalo banyak icon tp uk.png kecil..tp banyak icon apa mempengaruhi?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,13,0,12
+3090,0,tetap mempengaruhi size app nya,garfield,,garfield_09,0,1,9,2021,13,1,27
+3091,3090,Ini size pas di install ato sebelum?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,13,2,14
+3092,0,biasanya kalau pakai format .aab size downloadnya agak kecil nnti setelah terinstall baru kliatan size aslinya,garfield,,garfield_09,0,1,9,2021,13,3,41
+3093,3092,Kalo uk.30 setelah install apa besar?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,13,4,54
+3094,0,30 apa? mb?,garfield,,garfield_09,0,1,9,2021,13,5,23
+3095,0,Ya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,1,9,2021,13,5,39
+3096,0,"itu mnurutku relatif tergantung aplikasinya sperti apa, ya mungkin lebih kecil ukuran aplikasi lebih bagus untuk user",garfield,,garfield_09,0,1,9,2021,13,14,12
+3097,0,"tergantung user butuh apa nggak aplikasinya, mau segede apapun kalau butuh ya pasti di install",Semut,Liar,,0,2,9,2021,2,15,53
+3098,0,"game game sekarang itu sizenya besar , tapi masih ada yang install",Semut,Liar,,0,2,9,2021,2,16,9
+3099,0,#loker,Rizky,Arlin,rizkyarlin,0,7,9,2021,9,31,21
+3100,0,Mat sore,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,9,2021,6,41,3
+3101,0,Ini ada source code bagus apa ada yg bisa kembangkan ..,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,9,2021,6,41,23
+3102,0,Bisa japri..source code flutter,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,9,2021,6,41,44
+3103,0,Nanti siapa tahu bisa startup.sendiri,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,9,2021,6,42,1
+3104,3103,Maksudnya gmn nih om?,Aguz,New,,0,9,9,2021,6,47,28
+3105,0,Jadi yg minat bisa dpt source code fluter dan bisa buat startup sendiri dan kembangkan,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,9,2021,7,13,36
+3106,0,Apa ada yg pernah punya akun apstore di aple ..di grop ini?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,9,2021,7,49,12
+3109,0,"Halo semua, salam kenal.. \nSaya Tias, recruiter dari Jakarta",Tias,,,0,10,9,2021,9,35,53
+3110,0,Dibutuhkan Mobile Developer (Flutter) dengan pengalaman minimal 2 tahun yang bisa join ASAP. \nJika ada yang berminat bisa langsung PM saya ya.. \n \nTerima kasih,Tias,,,0,10,9,2021,9,36,1
+3111,0,"#tanya, kalau flutter bisa record database SQLite berapa banyak ya?",Semut,Liar,,0,12,9,2021,3,22,30
+3112,0,trus apakah bisa menyimpan seperti blob ?,Semut,Liar,,0,12,9,2021,3,23,7
+3113,0,setau sya sqlite bisa nyimpan type blob. tpi untuk mobile mungkin bagus path nya aja yg disimpan didatabase untuk file nya simpan di internal storage,garfield,,garfield_09,0,12,9,2021,4,3,16
+3114,0,mmng kebutuhannya mau simpan brapa banyak record?,garfield,,garfield_09,0,12,9,2021,4,6,38
+3115,3113,Aplikasi tryout nyimpen gambar di dalam sqlite supaya tidak dicopy sama user lain,Semut,Liar,,0,12,9,2021,9,44,40
+3116,0,"Izin share ya kegiatan IndigoHub Makassar.. \n\n[KUOTA 500 PESERTA]\n\nWaktunya kembali belajar bersama IndigoHub Makassar di Online Class Up-Dev Series untuk upgrade skill programming kamu lagi bersama Expert ! Yuk, semangat!\n\nOnline Class Up-Dev Series kali ini, IndigoHub Makassar berkolaborasi dengan STMIK KHARISMA dan Universitas Negeri Makassar Jurusan Teknik Informatika dan Komputer menghadirkan Angga Arifandi yang merupakan CTO Bicarakan.id sekaligus Google Developers Expert in Flutter.\n\nAkan berlangsung pada :\nHari/Tanggal : Kamis/30 September 2021\nWaktu : 20.00 - 21.30 WITA\nLink Registrasi : goers.co/ihmstackwebapp\nLIVE via Video Conference\n\nPastikan kamu telah terdaftar sebagai member IndigoHub Makassar ya, buat yang belum terdaftar WAJIB melakukan registrasi di bit.ly/memberindigohubmks\n\nEvent ini FREE + Dapatkan :\nEcertificate dan Give Away Saldo LinkAja",Rini,,,0,13,9,2021,1,15,6
+3119,0,ada yang pernah pakai API Mobilepulsa.com ?,Semut,Liar,,0,14,9,2021,8,23,43
+3120,3119,sy,Rizky,Arlin,rizkyarlin,0,14,9,2021,8,30,5
+3121,0,sdh lama di production,Rizky,Arlin,rizkyarlin,0,14,9,2021,8,30,56
+3122,0,"mauka tanya, sebaiknya user top up atau langsung bayar via payment gateway untuk setiap pembelian?",Semut,Liar,,0,14,9,2021,8,56,19
+3123,0,kalau kami pakainya untuk nukar poin yg didapat dari tiap transaksi di apps nya kami sih… jd bukan aplikasi ppob mmg,Rizky,Arlin,rizkyarlin,0,14,9,2021,8,57,33
+3124,0,"untuk milih salah satu ada trade off nya yg harus diputuskan sama stakeholder.\n\nUser top up duluan ini lebih sedikit kemungkinan error yg terjadi, implementasi jg akan lebih mudah. Karena dipastikan selesai dulu 1 transaksi, terus lanjut ke transaksi lain",Rizky,Arlin,rizkyarlin,0,14,9,2021,8,58,46
+3125,0,"selanjutnya kalau langsung bayar lewat payment gateway, usernya akan merasa lebih simpel untuk transaksi pertamanya…",Rizky,Arlin,rizkyarlin,0,14,9,2021,8,59,38
+3126,0,tp sy lebih lean untuk masukkan ke saldo internal dulu (topup),Rizky,Arlin,rizkyarlin,0,14,9,2021,9,0,34
+3127,0,"jadi boleh masuk ke halaman order, tp pas mau selesaikan transaksi diarahkan untuk topup dulu",Rizky,Arlin,rizkyarlin,0,14,9,2021,9,0,48
+3128,3127,struktur databasenya yang aman bagaimana bagusnya? karena ada kemungkinan karyawan nakal permainkan log top upnya...,Semut,Liar,,0,14,9,2021,9,16,6
+3129,0,masalah HR mi itu kalau karyawan nakal 😅,Rizky,Arlin,rizkyarlin,0,14,9,2021,9,17,55
+3130,3129,adakah referensi struktur DB untuk penggunaan saldo saldo begini?,Semut,Liar,,0,14,9,2021,9,24,36
+3131,0,agak was was juga,Semut,Liar,,0,14,9,2021,9,24,41
+3132,0,yg perlu diperkuat itu adalah log perubahan saldonya...,Rizky,Arlin,rizkyarlin,0,14,9,2021,9,48,20
+3133,0,bahkan ada yg tdk membuat field untuk menyimpan saldo. Jd caranya untuk dapat saldo terkininya adalah dengan melakukan agregat dari data transaksi,Rizky,Arlin,rizkyarlin,0,14,9,2021,9,48,57
+3134,3133,"kalau karyawannya nakal mainkan topup, bisa pakai cara ini",Rizky,Arlin,rizkyarlin,0,14,9,2021,9,50,11
+3135,0,tp BEnya harus implement caching supaya operasi aggregat nya tdk dilakukan setiap saat,Rizky,Arlin,rizkyarlin,0,14,9,2021,9,50,45
+3136,0,"jd setiap ada transaksi baru, cache nya diexpire, lalu run job untuk perbarui nilai dari saldo terkini yg tersimpan di cache",Rizky,Arlin,rizkyarlin,0,14,9,2021,9,51,28
+3137,0,"tp kalau karyawannya nakal dan ada aksesnya untuk ke cache, yah tetapji sama 😅",Rizky,Arlin,rizkyarlin,0,14,9,2021,9,51,48
+3138,3137,wkwkwk,Semut,Liar,,0,14,9,2021,9,51,53
+3139,0,"jd selain struktur db, harus ada jg pembatasan akses",Rizky,Arlin,rizkyarlin,0,14,9,2021,9,51,56
+3140,3133,nice nice,Semut,Liar,,0,14,9,2021,9,55,10
+3141,0,Jazakallah Khair Ilmunya @rizkyarlin,Semut,Liar,,0,14,9,2021,9,55,20
+3142,3141,https://monadical.com/posts/Designing-A-Banking-System.html\n\nini bacaan yg implementasinya sama dengan yg sy jelaskan singkat di atas,Rizky,Arlin,rizkyarlin,0,14,9,2021,9,55,45
+3143,3141,wa fiik,Rizky,Arlin,rizkyarlin,0,14,9,2021,9,55,52
+3148,0,Halo semuanya.. izin share kegiatan IndigoHub Makassar.. silakan yg mau gabung di kelasnya besok malam..,Rini,,,0,17,9,2021,1,6,43
+3149,0,"[KUOTA : 500 PESERTA]\n\nSatu lagi Online Class Up-Dev Series IndigoHub Makassar yang akan hadir menambah pengetahuan kamu dan tentunya akan upgrade skill programming kamu lagi bersama Expert !\n\nOnline Class Up-Dev Series kali ini, IndigoHub Makassar berkolaborasi dengan Universitas Sulawesi Barat, STMIK KHARISMA dan Universitas Negeri Makassar Jurusan Teknik Informatika dan Komputer.\n\nPada sesi online class Up-Dev Series ini, akan hadir Senior Software Engineer - Android, Tokopedia, Muh Isfhani Ghiath yang akan membahas topik ""Exploring Dependency Injection, from Dagger to Hilt on Android"". Jangan lewatkan kelas ini ya, pelajari lebih jauh seputar tren terbaru dari expert nih!\n\nAkan berlangsung pada :\n\nTanggal : 18 September 2021\nWaktu : 20.00 - 21.30 WITA\nLink Registrasi : goers.co/ihmupdev3\nLIVE via Video Conference\n\nEvent ini FREE + Dapatkan :\nEcertificate dan Give Away Saldo LinkAja",Rini,,,0,17,9,2021,1,6,47
+3150,0,,Rini,,,0,17,9,2021,1,7,1
+3156,0,Halo,Ramadhani,,ramadhani997,0,20,9,2021,5,37,57

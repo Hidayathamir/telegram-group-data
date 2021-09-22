@@ -1,0 +1,1042 @@
+id,reply_to_msg_id,text,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc,first_name,last_name,phone,username
+1,0,,15,7,2019,14,3,47,,,0,
+2,0,,15,7,2019,14,34,12,Dianto,,0,Dian_774
+3,0,,29,8,2019,9,42,45,Fadli,Jaya,0,fadlyjaya
+4,0,,13,9,2019,13,33,44,F I R M A N,,0,pimen
+5,0,Welcome bro @pimen,13,9,2019,13,39,2,Dianto,,0,Dian_774
+6,5,"ijin gabung kak 🙏, sambil belajar",13,9,2019,13,40,4,F I R M A N,,0,pimen
+7,0,Selamat datang di welcome brader @pimen,13,9,2019,13,40,8,Fadli,Jaya,0,fadlyjaya
+8,6,Sama2 belajar hehe,13,9,2019,13,40,28,Dianto,,0,Dian_774
+9,0,,13,9,2019,13,51,26,resa,p,0,Wazzzl
+10,0,,13,9,2019,13,58,20,Arhen,,0,rhslamet
+11,0,Eh ada bang @rahmatslamet2 sungkem -/\-,13,9,2019,13,59,14,Dianto,,0,Dian_774
+12,11,"Eh. Ah. 😂. Ndak thu apa* saya flutter. Baru sekadad baca"" dan pin repo menarik d git. \n\nMhon bantuannya",13,9,2019,14,0,27,Arhen,,0,rhslamet
+13,0,Salken kanda 🙏😅,13,9,2019,14,1,6,Fadli,Jaya,0,fadlyjaya
+14,0,Salken. Saya mash muda. Disini banyak kakanda,13,9,2019,14,4,55,Arhen,,0,rhslamet
+15,0,Upana mulai melirik flutter om @rahmatslamet2 ??,13,9,2019,14,6,5,Dianto,,0,Dian_774
+16,15,"Ah nggak om. Biasa, cuman mau ikut tech doang. Apalg setelah om @DhytoDev kemrn perkenalkan flutter web d Hacklearn",13,9,2019,14,7,59,Arhen,,0,rhslamet
+17,0,,14,9,2019,0,40,52,oon,,0,oonid
+18,0,noob ikut gabung belajar flutter ya kakak-kakak 😁,14,9,2019,0,41,48,oon,,0,oonid
+19,0,dimana tempat belajar flutter macam tutorial yang oke?\nbukan di Flutter boring show kan? 😁,14,9,2019,1,16,46,oon,,0,oonid
+20,0,https://www.youtube.com/watch?v=6ZCz6Ylqk3A,14,9,2019,1,22,17,Dianto,,0,Dian_774
+21,0,"Itu bang,",14,9,2019,1,22,23,Dianto,,0,Dian_774
+22,0,,14,9,2019,1,22,25,Luqman,H,0,Luqeckr
+23,0,"Yg paling oke dari udemy pematerinya,",14,9,2019,1,22,47,Dianto,,0,Dian_774
+24,0,Kalau mau yg langsung to the point penjelasan widgetnya bisa ikuti playlist youtube resmi flutter,14,9,2019,1,24,23,Dianto,,0,Dian_774
+25,0,https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG,14,9,2019,1,24,30,Dianto,,0,Dian_774
+26,25,widget nya banyaakk 😁\ntapi belum butuh widget yang ajaib-ajaib.\n\nbaru sampe scaffold 😬,14,9,2019,1,38,13,oon,,0,oonid
+27,0,Kalo bang @oonid paling sehari kelar puluhan widget 😬,14,9,2019,1,39,57,Dianto,,0,Dian_774
+28,0,"Kalau yg udah belajar css, pasti cepat sih belajarnya, saya aja tdk kelar css.😂",14,9,2019,1,41,47,Dianto,,0,Dian_774
+29,0,"noob .. coding pelan-pelan.. 😁\n\nsebetulnya tertarik bikin web,\ntapi gpp deh, belum banyak contohnya, bikin app dulu aja..\n\nkayaknya sederhana bikin pake widget 🤔",14,9,2019,1,42,0,oon,,0,oonid
+30,29,"Yup, mau coba senggol2 ke sana juga, siapatau enak.",14,9,2019,1,46,36,Dianto,,0,Dian_774
+31,0,😁,14,9,2019,1,46,41,Dianto,,0,Dian_774
+32,0,"ada ribut-ribut apaan sih androidx?\nemang kalo buat project baru, udah androidx apa belum taunya gimana? 🤔",14,9,2019,2,16,5,oon,,0,oonid
+34,0,Yang ini yaa? Hmmm,14,9,2019,2,22,4,Dianto,,0,Dian_774
+35,0,iya.. androidx .. trus project flutter perlu upgrade ke situ..\nnggak tau deh gimana bedain yang udah androidx sama yang belum..,14,9,2019,2,23,40,oon,,0,oonid
+36,0,"Hmm saya udah sebulan lebih gak cek update,",14,9,2019,2,25,6,Dianto,,0,Dian_774
+37,0,Ntar tak cobain,14,9,2019,2,25,19,Dianto,,0,Dian_774
+38,0,"sip.. sip.. lagi nyari tau, jadi project yang baru dibuat ini perlu migrasi apa nggak :D",14,9,2019,2,28,14,oon,,0,oonid
+39,0,Belum pernah dapat masalah di android karna selalu pakai emulator iOS untuk testing 😂,14,9,2019,2,32,49,Dianto,,0,Dian_774
+40,0,Ntar tak coba eksplorasi,14,9,2019,2,33,10,Dianto,,0,Dian_774
+41,0,https://developer.android.com/jetpack/androidx/migrate,14,9,2019,2,34,6,Dianto,,0,Dian_774
+42,0,"nah kalo udah masuk ke situsnya android dot com,\nudah bingung nggak ngerti..\nranahnya kak Dhyto",14,9,2019,2,35,13,oon,,0,oonid
+43,0,Yoi kalau mau main flutter harus ada pengetahuan native sedikit2 😬,14,9,2019,2,36,15,Dianto,,0,Dian_774
+44,0,"Paling tidak untuk setting graddle,",14,9,2019,2,36,51,Dianto,,0,Dian_774
+45,0,"Atau kalau butuh sensor seperti kamera atau main dengan flashlight,",14,9,2019,2,37,45,Dianto,,0,Dian_774
+46,0,scroll ke atas.. scroll ke bawah.. :))\n\nhttps://github.com/Solido/awesome-flutter,14,9,2019,3,33,5,oon,,0,oonid
+47,0,Langsung autofokus ke sini😂,14,9,2019,3,58,7,Dianto,,0,Dian_774
+48,0,ini yang waktu acara rilis di UK itu ya.. keren banget sih..\n\nkalo nggak salah ada petanya juga?,14,9,2019,3,59,37,oon,,0,oonid
+49,48,Peta?,14,9,2019,4,1,48,Dianto,,0,Dian_774
+50,0,Google maps di dalam app nya,14,9,2019,4,2,10,oon,,0,oonid
+51,0,Oh iyaa ada tp belum pernah coba langsung sih,14,9,2019,4,2,59,Dianto,,0,Dian_774
+52,0,Tp masih developer preview kyknya,14,9,2019,4,3,17,Dianto,,0,Dian_774
+53,0,Masih versi 0.5 an gitu,14,9,2019,4,3,45,Dianto,,0,Dian_774
+54,0,https://pub.dev/packages/google_maps_flutter#-versions-tab-,14,9,2019,4,4,5,Dianto,,0,Dian_774
+55,0,"hahah skornya dong, 💯",14,9,2019,4,4,37,oon,,0,oonid
+56,55,"Hahah, karna satu2nya wajib ada di mobile platform jadi wajib maintain 😂",14,9,2019,4,7,20,Dianto,,0,Dian_774
+57,0,Baru mau belajr saya 😆,14,9,2019,4,46,34,anfrb°,,0,anfrb
+58,0,sama dong 😁\n\nmulai dari contoh..\napa ya yang gampang 😆,14,9,2019,4,49,19,oon,,0,oonid
+59,0,Sapa tau ad yg mau share crud pake flutter sprti login regis update dan delete 😂,14,9,2019,4,50,32,anfrb°,,0,anfrb
+60,46,"gimana kalo pilih satu dari sini?\n\ntrus nanti dicoba bersama 😁\n\nbiasanya CRUD itu di Todo gitu, nah registrasi dan login itu di Auth..\n\npilih coba project yang mana enaknya? 🤔",14,9,2019,5,1,12,oon,,0,oonid
+61,0,,14,9,2019,5,6,9,,,0,
+62,0,Siap boleh di coba,14,9,2019,5,11,27,anfrb°,,0,anfrb
+63,0,Aku ikut,14,9,2019,5,12,18,anfrb°,,0,anfrb
+64,0,hahah.. pilih yang mana ya? 🤔\n\ntutorial ini?\n\nhttps://github.com/lesnitsky/todolist_flutter,14,9,2019,5,20,14,oon,,0,oonid
+65,0,,14,9,2019,6,36,53,Firdaus,,0,Firdausshi
+66,0,"agak susah juga mencari dengan keyword ""CRUD"",\nkayaknya keyword ini hanya tenar di seputar developer Indonesia.. heheh\n\nini dapat daftar contoh-contoh flutter tapi yang dikurasi ""resmi"" oleh tim flutter..\n\nhttps://github.com/flutter/samples/blob/master/INDEX.md\n\nada yang udah pernah nyobain samples web nya?",14,9,2019,6,58,20,oon,,0,oonid
+67,0,"sampai sekarang saya bahkan belum sampai CRUD, tapi fokus pelajari di unfair advantagenya flutter. ""UI yang bebas"". ya walaupun memang enaknya kalau ngoding bahasa baru langsung bisa CRUD, hehe",14,9,2019,8,41,18,Dianto,,0,Dian_774
+68,0,bingung mau buat percobaan aplikasi apa..\nhello world sih udah 😆\nhabis itu apa lagi?,14,9,2019,8,59,10,oon,,0,oonid
+69,0,Helo worl jg sudh,14,9,2019,8,59,57,anfrb°,,0,anfrb
+70,0,Scaffold widget sudah belum?,14,9,2019,9,2,12,oon,,0,oonid
+71,69,kalau mau langsung CRUD bagusnya mulai dari sqlite: https://www.techiediaries.com/flutter-sqlite-crud-tutorial/,14,9,2019,9,3,33,Dianto,,0,Dian_774
+72,0,siyaapp,14,9,2019,9,4,0,oon,,0,oonid
+73,71,waa.. langsung database.. 😁,14,9,2019,9,4,58,oon,,0,oonid
+74,70,"kalau saya jarang pakai scaffold om, biar bebas stylingnya.. hehe",14,9,2019,9,5,10,Dianto,,0,Dian_774
+75,74,trus pake apa?\nkupikir biar cepat jadi kayak aplikasi material desain gitu.. heheheh,14,9,2019,9,5,38,oon,,0,oonid
+76,75,"kalau pakai scaffold kan aksennya jadi bisa kayak material atau cupertinoScaffold kalau mau kayak iOS, tpi bisa juga tanpa itu,,",14,9,2019,9,7,22,Dianto,,0,Dian_774
+77,0,"jadi bebas mau UI yang bagaimana dari bawah sampai ke atas, custom,",14,9,2019,9,7,54,Dianto,,0,Dian_774
+78,76,"betul.. heheh.. itu maksudku.. \nbiar cepat jadi tampilannya kayak material gitu..\n\noh, ya.. ya.. custom sendiri tumpukan widget nya..",14,9,2019,9,8,17,oon,,0,oonid
+79,0,"iyaa, jadi dalam statefull atau stateless widget, langsung ada container, dan anak2nya..",14,9,2019,9,8,55,Dianto,,0,Dian_774
+80,0,hehe,14,9,2019,9,8,57,Dianto,,0,Dian_774
+82,0,"hahah.. bentar.. pelan-pelan.. masih belajar, belum ngerti 🙊",14,9,2019,9,9,58,oon,,0,oonid
+83,0,Ini contoh case yg saya pelajari buat wkwkkw,14,9,2019,9,10,7,Dianto,,0,Dian_774
+84,0,😂,14,9,2019,9,10,14,Dianto,,0,Dian_774
+85,0,tanpa scaffold,14,9,2019,9,10,41,Dianto,,0,Dian_774
+86,81,kereenn 👍🏼,14,9,2019,9,11,43,oon,,0,oonid
+87,0,😬,14,9,2019,9,12,33,Dianto,,0,Dian_774
+88,0,mau buat aplikasi pencari coto ah 😆,14,9,2019,9,13,2,oon,,0,oonid
+89,88,Ide bagus bang. 😆,14,9,2019,9,13,29,Dianto,,0,Dian_774
+90,0,"Saya malah fokusnya di awal2 belajar state management, pertama coba scoped model, kemudian akhirnya menetap di bloc pattern. Step berikutnya, belajar implementasi clean architecture di flutter..",14,9,2019,9,14,2,Fordyta Abubakar,,0,DhytoDev
+91,90,jadi bloc aja? 😁,14,9,2019,9,14,30,oon,,0,oonid
+92,0,Hasil eksplorasi saya bisa diintip2 di sini 😆\n\nhttps://github.com/DhytoDev/flutter-recipe-app,14,9,2019,9,14,32,Fordyta Abubakar,,0,DhytoDev
+93,81,Keren. Harus bnyak belajar sama om @diand_99 ini 😅,14,9,2019,9,14,49,Firdaus,,0,Firdausshi
+94,88,Inovasi baru ini😂,14,9,2019,9,15,34,Firdaus,,0,Firdausshi
+95,94,ya dimana lagi dibutuhkan aplikasi pencari coto kalo bukan di Makassar.. 🙊,14,9,2019,9,16,12,oon,,0,oonid
+96,90,Ini yg state management seribet di native kah bang?,14,9,2019,9,16,29,Dianto,,0,Dian_774
+97,95,Pallubasanya iri dong 😂,14,9,2019,9,16,41,Fordyta Abubakar,,0,DhytoDev
+98,81,Lokasinya itu autoloc ya ? bgaimana cara bautnya om?,14,9,2019,9,16,58,Firdaus,,0,Firdausshi
+99,0,*Buat,14,9,2019,9,17,4,Firdaus,,0,Firdausshi
+100,93,Masih pemula kok 😂,14,9,2019,9,17,7,Dianto,,0,Dian_774
+101,96,Klo sdh terbiasa dgn konsep stream di RX Java sih nda..,14,9,2019,9,17,20,Fordyta Abubakar,,0,DhytoDev
+102,98,"Ini baru sebatas UI, belum fungsional 😂",14,9,2019,9,17,44,Dianto,,0,Dian_774
+103,97,oyodi 🙊,14,9,2019,9,18,30,oon,,0,oonid
+104,0,Jalangkote bgaimana? Sang legenda dari zaman ke zaman😂😂,14,9,2019,9,19,12,Firdaus,,0,Firdausshi
+105,0,"gini aja, nanti saya buat yang coto,\nbuat yang suka lainnya,\nsilakan fork aja di repository.. gimana? 😆",14,9,2019,9,19,41,oon,,0,oonid
+106,0,Nanti di endorse sama jalangkote rasa keju,14,9,2019,9,19,47,Dianto,,0,Dian_774
+107,105,Bisa2,14,9,2019,9,20,4,Dianto,,0,Dian_774
+108,0,Haha,14,9,2019,9,20,7,Dianto,,0,Dian_774
+109,0,bang ada yg udh tau pakai bolc ga?,14,9,2019,9,20,52,Fadli,Jaya,0,fadlyjaya
+110,109,bloc?\nitu kak Dhyto tadi pakai di app nya,14,9,2019,9,21,9,oon,,0,oonid
+111,92,ini pakai bloc ya?\n\nstrukturnya kayak yang pernah baca di di sini ya.. \nhttps://medium.com/flutter-community/code-sharing-with-bloc-b867302c18ef,14,9,2019,9,21,44,oon,,0,oonid
+112,109,Saya pake bloc + clean architecture 😁,14,9,2019,9,21,59,Fordyta Abubakar,,0,DhytoDev
+113,0,makasih referensinya bang,14,9,2019,9,23,15,Fadli,Jaya,0,fadlyjaya
+115,111,"Betul, inspirasinya dari sini.. Tapi, bagian yg angular dart, diganti dgn flutter web",14,9,2019,9,23,20,Fordyta Abubakar,,0,DhytoDev
+116,115,kasihlah screenshot itu di README.md\n\nbiar menarik gitu repo nya 😆,14,9,2019,9,24,29,oon,,0,oonid
+117,0,nyimak saja,14,9,2019,9,25,6,anfrb°,,0,anfrb
+118,0,ini repo nya cuma 3 kali commits \ndalam satu hari\nlangsung selesai..\n\nlah gimana mau ngikutinnn 🙈,14,9,2019,9,25,17,oon,,0,oonid
+119,116,Itu aja belum ada waktu lagi buat ngelanjutin 🙊🙈,14,9,2019,9,25,19,Fordyta Abubakar,,0,DhytoDev
+120,118,"initial, dan finish.. 😂",14,9,2019,9,25,45,Dianto,,0,Dian_774
+121,0,hhaahha,14,9,2019,9,25,55,anfrb°,,0,anfrb
+122,0,"Nyimak, belum ngerti membahasan ini😂",14,9,2019,9,25,57,Firdaus,,0,Firdausshi
+123,117,"ayo ikut kak,\nmau buat aplikasi apa?\n\ntadi saya udah book mau buat aplikasi pencari coto..",14,9,2019,9,26,8,oon,,0,oonid
+124,0,"Hahaha kesalahan prosedur itu, jadi ketimpa semua commit historynya wkwkwk",14,9,2019,9,26,25,Fordyta Abubakar,,0,DhytoDev
+125,116,"mungkin niatnya untuk dokumentasi pribadi aja,",14,9,2019,9,26,28,Dianto,,0,Dian_774
+126,123,"mungkin bagus pakai metode yang kemarin itu bang, belajar sehari, presentasi kemudian, *eh",14,9,2019,9,27,33,Dianto,,0,Dian_774
+127,0,tapi khusus Flutter,14,9,2019,9,28,20,Dianto,,0,Dian_774
+128,0,Ini lebih manusiawi commitnya wkwkwk \n\nhttps://github.com/DhytoDev/flutter-movie-app,14,9,2019,9,28,46,Fordyta Abubakar,,0,DhytoDev
+129,123,Sa mau buat app wisata di selayar😂,14,9,2019,9,29,15,anfrb°,,0,anfrb
+130,126,"oh hackalearn\n\nboleh kok dipakai dimana aja..\n\ntrus ada lagi, dulu yang menarik dari flutter indonesia adalah challenge..\njadi ada tantangan (lupa mingguan apa bulanan gitu),\nmisalnya disepakati membuat A gitu..\nmaka semua akan mencoba membuat A.\n\nya asal jangan yang susah-susah, semua bisa mencoba bersama..",14,9,2019,9,30,23,oon,,0,oonid
+131,128,"wahh, ini project serius ini,, 😂 commitnya rentang 1 tahun..",14,9,2019,9,30,27,Dianto,,0,Dian_774
+132,0,"Sebenarnya banyak yg pengen dioprek2 lagi, tp belum kesampean lagi.. (sok sibuk) 😂😂😂",14,9,2019,9,30,51,Fordyta Abubakar,,0,DhytoDev
+133,129,wah cakeepp.. aplikasi wisata kalo bisa ada animasinya emang kereenn.. pake flutter.. :D,14,9,2019,9,30,52,oon,,0,oonid
+134,131,"Lebih tepatnya, proyek eksperimen, buat mengeksplor.. 😂",14,9,2019,9,31,29,Fordyta Abubakar,,0,DhytoDev
+135,134,ini DBnya local bang?,14,9,2019,9,32,22,Dianto,,0,Dian_774
+136,0,atoo..,14,9,2019,9,32,29,Dianto,,0,Dian_774
+137,0,"Klo di repo di atas dari awal banget, mulai dari scoped model, kemudian di refactor ke bloc, dan refactor lagi jadi modular dgn clean architecture..",14,9,2019,9,33,25,Fordyta Abubakar,,0,DhytoDev
+138,135,Seingatku belum.. Pake Tmdb API..,14,9,2019,9,33,54,Fordyta Abubakar,,0,DhytoDev
+139,0,"secara singkat aja,\n\napa sih bedanya scoped model sama bloc?\n\n🙈",14,9,2019,9,34,2,oon,,0,oonid
+140,138,,14,9,2019,9,34,12,Dianto,,0,Dian_774
+141,0,hmm pake api yang di KEJAR di'? hehe,14,9,2019,9,34,36,Dianto,,0,Dian_774
+142,0,andalang memang.. 😁,14,9,2019,9,34,59,Dianto,,0,Dian_774
+143,0,Jdi muali dri mna in😢,14,9,2019,9,35,7,anfrb°,,0,anfrb
+144,129,dari sini mi om.. hehe,14,9,2019,9,35,48,Dianto,,0,Dian_774
+145,143,"dari nyoba widget?\n\ntadi saya tanya, siapa tau mau nyoba Material App sama Scaffold gitu..\n\neh karena hp saya android sih, bisa disesuaikan.. heheh",14,9,2019,9,35,53,oon,,0,oonid
+146,139,"Scoped model itu library untuk state menagement mas.. \n\nKlo BLoC lebih ke architectural pattern sih, sama seperti MVC, MVP, dan sebangsanya.",14,9,2019,9,36,11,Fordyta Abubakar,,0,DhytoDev
+147,0,"😢 saya pusing,",14,9,2019,9,36,42,anfrb°,,0,anfrb
+148,0,lagi baca2 ini (BLOC): \n\nhttps://medium.com/flutter-community/flutter-bloc-pattern-for-dummies-like-me-c22d40f05a56,14,9,2019,9,37,17,Dianto,,0,Dian_774
+149,145,"Betul, mulainya dari sini, terus coba2 bermain dgn API, abis itu dgn database sqlite.",14,9,2019,9,38,18,Fordyta Abubakar,,0,DhytoDev
+150,0,baikalh saya mulai,14,9,2019,9,38,41,anfrb°,,0,anfrb
+151,0,ikuutt,14,9,2019,9,38,49,oon,,0,oonid
+152,149,mungkin dari situ baru belajar design pattern ya bang?,14,9,2019,9,39,5,Dianto,,0,Dian_774
+153,147,"Klo gak mulai2, ya pusing. Intinya, #MulaiAjaDulu 😂",14,9,2019,9,39,8,Fordyta Abubakar,,0,DhytoDev
+154,152,"Betul.. Sy belajarnya seperti itu.. Mulai dari Vanilla, Scoped Model, lalu ke Bloc.",14,9,2019,9,40,27,Fordyta Abubakar,,0,DhytoDev
+155,148,"scroll scroll sampai bawah, ternyata dia mengacu yang sama juga.. yang felix angelov itu tadi..\nternyata saya dumber.. soalnya lewat sudah dummies tetap tidak mengerti",14,9,2019,9,40,47,oon,,0,oonid
+156,153,Analysis Paralysis 😁,14,9,2019,9,40,49,Dianto,,0,Dian_774
+157,155,"itu di dalamnya ada 3 referensi lagi, lagi nonton yang pertama.. 😁",14,9,2019,9,42,10,Dianto,,0,Dian_774
+158,157,"ah nanti aja deh..\nmau buat tumpukan widgets aja dulu..\nyang penting ada judulnya.. ""pencari coto""",14,9,2019,9,43,58,oon,,0,oonid
+159,0,hehe betul bang #mulaiajadulu,14,9,2019,9,45,11,Dianto,,0,Dian_774
+160,0,😁,14,9,2019,9,45,14,Dianto,,0,Dian_774
+161,0,"Jadi, kpn meetup nih ?",14,9,2019,9,45,37,Fordyta Abubakar,,0,DhytoDev
+162,0,#pastiadajalan,14,9,2019,9,45,59,Fordyta Abubakar,,0,DhytoDev
+163,0,Tokopedia apa Gojek nih?,14,9,2019,9,46,13,oon,,0,oonid
+164,0,Tokped mo,14,9,2019,9,46,27,anfrb°,,0,anfrb
+165,0,Hahah,14,9,2019,9,46,32,anfrb°,,0,anfrb
+166,0,#pastiadajalan untuk #mulaiajadulu,14,9,2019,9,47,14,Dianto,,0,Dian_774
+167,0,#eeaaaaa,14,9,2019,9,47,27,Fordyta Abubakar,,0,DhytoDev
+168,161,"nahh,, langsung bawa materi movieApp, *ehh",14,9,2019,9,48,50,Dianto,,0,Dian_774
+169,0,😁,14,9,2019,9,48,57,Dianto,,0,Dian_774
+170,0,ikuutt meetup.. asal gratis(?) 🤣,14,9,2019,9,49,42,oon,,0,oonid
+171,0,"Boleh, asal @diand_99 yg arrange waktu dan tempatnya.. Gmn ? 😊",14,9,2019,9,50,30,Fordyta Abubakar,,0,DhytoDev
+172,153,Eh jadi iklan😂,14,9,2019,9,50,41,Firdaus,,0,Firdausshi
+173,0,ikuk,14,9,2019,9,51,7,anfrb°,,0,anfrb
+174,0,Sekalian bisami di follow up yg Flutter Study Jamnya Google..,14,9,2019,9,51,35,Fordyta Abubakar,,0,DhytoDev
+175,0,Siap ikut,14,9,2019,9,51,51,Firdaus,,0,Firdausshi
+176,174,ada minimal peserta nggak?,14,9,2019,9,52,32,oon,,0,oonid
+177,176,nahh ini,14,9,2019,9,52,41,Dianto,,0,Dian_774
+178,176,"Eh, ini belum ditanyain sih.",14,9,2019,9,52,55,Fordyta Abubakar,,0,DhytoDev
+179,0,"Tapi, gpp.. Ada google atau gak. Mulai aja dulu..",14,9,2019,9,53,10,Fordyta Abubakar,,0,DhytoDev
+180,179,ada tokopedia(?),14,9,2019,9,53,32,oon,,0,oonid
+181,180,Ada Om Chaidir 🙊,14,9,2019,9,53,46,Fordyta Abubakar,,0,DhytoDev
+182,0,Sing penting ada Sekolah Koding 😁,14,9,2019,9,54,8,Fordyta Abubakar,,0,DhytoDev
+183,0,"kalau soal tempat, banyak cara jalan lah ya.. hehe",14,9,2019,9,54,22,Dianto,,0,Dian_774
+184,0,"banyak, numpang kantor orang, atau numpang coworking space orang 😁",14,9,2019,9,54,50,oon,,0,oonid
+185,0,Sekoah koding andalang guee..,14,9,2019,9,55,3,Dianto,,0,Dian_774
+186,0,Bikin acara flutter di markas fesbuk 😂😂😂,14,9,2019,9,55,34,Fordyta Abubakar,,0,DhytoDev
+187,186,langsung murka endi ini 😂,14,9,2019,9,55,53,Dianto,,0,Dian_774
+188,186,"Wahh, lama2 bentrok😂",14,9,2019,9,56,44,Firdaus,,0,Firdausshi
+189,0,Anak RN langsung ngamuk😂,14,9,2019,9,57,17,Firdaus,,0,Firdausshi
+190,0,"kalo di lantai satu tidak bisa,\nkita rekues lantai dua \n😁",14,9,2019,9,57,44,oon,,0,oonid
+191,190,😂😂😂😂,14,9,2019,9,58,2,Dianto,,0,Dian_774
+192,0,"hackalearn yang pertama dulu nyari warkop depan mcd Alaudin, hahah.. cuma diskusi aja bawa notebook, tunjuk-tunjuk layar masing-masing, nggak pake proyektor.. 😁\nversi hemat juga..",14,9,2019,10,1,23,oon,,0,oonid
+193,192,"mentok2 pake kayak kemarin aja kayaknya bang, yang bayar 10rb itu, 😁",14,9,2019,10,2,58,Dianto,,0,Dian_774
+194,0,tapi naikin jadi 100k. *eh,14,9,2019,10,3,18,Dianto,,0,Dian_774
+195,193,20k confie itu.. 😁\nnah itu kalo 100k aku tak mampuu.. 😅,14,9,2019,10,4,21,oon,,0,oonid
+196,0,eh kemarin dapat diskon yaa?,14,9,2019,10,4,58,Dianto,,0,Dian_774
+197,178,"tanyain dong kak,\ntelponin google.. 😁",14,9,2019,10,5,41,oon,,0,oonid
+198,194,bercanda bang,14,9,2019,10,5,44,Dianto,,0,Dian_774
+199,197,"asik2, bilang aja, masa kalah sama facebook 😁",14,9,2019,10,6,38,Dianto,,0,Dian_774
+200,0,eh,14,9,2019,10,6,43,Dianto,,0,Dian_774
+201,0,,14,9,2019,10,42,25,محمد اسدر,,0,Asdarmld
+202,0,"usul,\nsiapa tau ada yang mau ikutan atau menambahkan..\n\ndalam seminggu,\nmencoba ini [1],\ntrus di-custom sendiri aja,\nsesuai aplikasi yang diinginkan..\n\nmenurutku lumayan,\nbelajar stateless, statefull, list, sama paket external.\n\nkalo bisa selesai part 1,\nbisa lanjut part 2.\n\ntrus bisa dikirim ke git,\ndibagikan di sini.. 🤔\n\nya harap maklum kalo sederhana banget, kan baru permulaan.. 😆\n\nhttps://flutter.dev/docs/get-started/codelab",14,9,2019,11,10,38,oon,,0,oonid
+203,0,Sabi sabii 😆,14,9,2019,11,18,26,Dianto,,0,Dian_774
+204,203,hahah apa artinya 😁\nbaru mulai nih codelab.. 🙈,14,9,2019,11,43,23,oon,,0,oonid
+205,0,"Oh iya bisa juga pakai codelab,",14,9,2019,11,47,0,Dianto,,0,Dian_774
+206,0,"Lebih update, dan to the point,,",14,9,2019,11,47,13,Dianto,,0,Dian_774
+207,0,Hehe,14,9,2019,11,47,14,Dianto,,0,Dian_774
+208,0,https://codelabs.developers.google.com/?cat=Flutter,14,9,2019,11,47,26,Dianto,,0,Dian_774
+209,0,"Ini tinggal pilih salah satu,,",14,9,2019,11,47,44,Dianto,,0,Dian_774
+210,208,https://flutter.dev/docs/codelabs\n\nbanyak juga ya 😆\ngpp.. mulai dari 0 duluu,14,9,2019,11,55,29,oon,,0,oonid
+211,38,"oh begini ternyata pakai SDK baru, yang terkait AndroidX tadi sudah ada pilihannya.",14,9,2019,12,32,2,oon,,0,oonid
+212,0,🙊,14,9,2019,13,39,14,oon,,0,oonid
+213,0,Cuba ganti list ya jadi nama coto2,14,9,2019,13,41,25,Dianto,,0,Dian_774
+214,0,Seperti :,14,9,2019,13,41,30,Dianto,,0,Dian_774
+215,0,Coto lempar daging,14,9,2019,13,41,52,Dianto,,0,Dian_774
+216,0,(Lemak paru daging),14,9,2019,13,41,59,Dianto,,0,Dian_774
+217,0,😂,14,9,2019,13,42,3,Dianto,,0,Dian_774
+218,0,sabarrr.. 🤣\nbelum sampe pelajarannya,14,9,2019,13,42,28,oon,,0,oonid
+219,0,Ehh,14,9,2019,13,42,32,Dianto,,0,Dian_774
+220,0,😆,14,9,2019,13,42,39,Dianto,,0,Dian_774
+222,0,"Sekalian, buatin juga API nya, biar kami juga bisa pakai😂",14,9,2019,13,48,21,Firdaus,,0,Firdausshi
+223,0,wah urusan API silakan di grup sebelah.. 😋\n\n(padahal nggak tau mau isi apa datanya 😆),14,9,2019,13,50,0,oon,,0,oonid
+224,0,Pakai api IMDB jg bisa,14,9,2019,14,8,19,Dianto,,0,Dian_774
+225,0,Kayk yg dipakai om @DhytoDev di project sebelumnya di share,14,9,2019,14,8,43,Dianto,,0,Dian_774
+226,0,https://www.youtube.com/watch?v=DVGIBU109nI,14,9,2019,14,21,22,Dianto,,0,Dian_774
+227,0,,15,9,2019,15,37,14,Gunawan Saleh,,0,gunsky7
+228,0,gara-gara di sebelah ada yang nanya object detection di aplikasi mobile..\n\nlucu juga ini sudah mendukung YOLO\n\nhttps://pub.dev/packages/tflite,16,9,2019,1,48,1,oon,,0,oonid
+229,0,Yoi...,16,9,2019,2,8,17,Dianto,,0,Dian_774
+230,0,"Ini paling enak untuk image classifier mobile,",16,9,2019,2,8,33,Dianto,,0,Dian_774
+231,0,Trainingnya tdk terlalu lama,16,9,2019,2,8,42,Dianto,,0,Dian_774
+232,0,pake model yang udah jadi aja 🙈\n\n(malas training),16,9,2019,2,9,22,oon,,0,oonid
+233,0,"Kalo aku sih suka pakai pretrained model,",16,9,2019,2,9,57,Dianto,,0,Dian_774
+234,0,"Jadi tinggal menyesuaikan mau di tambahkan dataset apa,",16,9,2019,2,10,19,Dianto,,0,Dian_774
+235,0,😆,16,9,2019,2,10,20,Dianto,,0,Dian_774
+236,228,"Tp tdk tau sih kalau tflite untuk flutter sdh di otimize, kemarin pakainya android native, hp agak cepat panas pas aplikasinya jalan,",16,9,2019,2,13,42,Dianto,,0,Dian_774
+237,233,👍,16,9,2019,2,32,42,oon,,0,oonid
+238,0,"Silahkan di komentari dan berikan sarannya, newbie 😂",16,9,2019,6,44,22,anfrb°,,0,anfrb
+239,0,Ad mi sudh ku pelajri 😂,16,9,2019,6,44,45,anfrb°,,0,anfrb
+240,238,Mantap skulllyyyy!! 😍,16,9,2019,6,46,32,Dianto,,0,Dian_774
+241,0,Mari bikin startup.. *eh,16,9,2019,6,47,2,Dianto,,0,Dian_774
+242,0,,16,9,2019,6,47,13,anfrb°,,0,anfrb
+243,238,kereenn 😁,16,9,2019,6,47,19,oon,,0,oonid
+244,0,Saya pake android studio packagenya sprti itu ad saran yg lebih baik 🙏,16,9,2019,6,47,42,anfrb°,,0,anfrb
+245,242,Masih terbawa coding di Android sepertinya... 😆 (fragment),16,9,2019,6,48,24,Dianto,,0,Dian_774
+246,0,"Hahaha, biar gampng ingat saja",16,9,2019,6,48,44,anfrb°,,0,anfrb
+247,0,kenapa ada direktori `java` ya?,16,9,2019,6,49,2,oon,,0,oonid
+248,0,🤔,16,9,2019,6,49,8,oon,,0,oonid
+249,0,"Mubgkin karena mode projectx android, klo saya pake mode project dia ada dapam package lib juga.",16,9,2019,6,51,11,anfrb°,,0,anfrb
+250,0,,16,9,2019,7,54,5,Nur Insan,Akbar,0,Nurinsanakbar
+251,241,Baru belajr dulu om,16,9,2019,8,12,4,anfrb°,,0,anfrb
+252,0,,18,9,2019,9,58,29,Dianto,,0,Dian_774
+253,0,,18,9,2019,10,19,45,,,0,
+254,252,grafik rata-rata (average) itu kayaknya nanti akan lewat kalo bintang di github nya flutter melewati react native ya 😁,18,9,2019,10,29,54,oon,,0,oonid
+255,254,Yoi bang 😆,18,9,2019,11,40,1,Dianto,,0,Dian_774
+256,0,Karna pengguna github lebih sedikit dari pada developer pakai git 🧐,18,9,2019,11,41,5,Dianto,,0,Dian_774
+257,0,😍,18,9,2019,11,54,15,anfrb°,,0,anfrb
+258,0,Jdi meetup kh ?,18,9,2019,11,54,49,anfrb°,,0,anfrb
+259,256,Eh daripada yg tdk pakai mksdnyaa... 😬,18,9,2019,11,55,13,Dianto,,0,Dian_774
+260,258,Up up,18,9,2019,11,55,54,Dianto,,0,Dian_774
+261,260,Berdua mi sja 😂,18,9,2019,11,57,13,anfrb°,,0,anfrb
+262,0,up 😆,18,9,2019,12,43,32,oon,,0,oonid
+263,259,memangnya masih ada kah developer tidak pake git? 😁,18,9,2019,13,18,38,oon,,0,oonid
+264,263,masih om... 😆,18,9,2019,13,32,53,Dianto,,0,Dian_774
+265,261,ke MDV saja jalan2...  hampir setiap hari ji di sana.. 😆,18,9,2019,13,33,45,Dianto,,0,Dian_774
+266,0,"kubaca-baca lagi..\nyang biasanya mengadakan study jam itu google developer group (GDG) atau DSC (student club).\n\nnah di makassar itu yang aku tau adanya DSC di kampus (unhas dan mana lagi ya?)\n\njadi sebetulnya bisa kerja sama dengan DSC,\nmengadakan study jam flutter.\n\nnanti bahannya bisa dari online aja, misalnya dari codelabs atau dari udacity..\n\nada masukan?",19,9,2019,7,56,5,oon,,0,oonid
+267,266,"Iyaa sebenarnya kalau mau kerjasama google, bisa apply GDG, cuman ya itu, harus bisa commit event routine,,,",19,9,2019,9,26,57,Dianto,,0,Dian_774
+268,0,Ntar di bayarin meetup premium jg. Sama google,19,9,2019,9,27,25,Dianto,,0,Dian_774
+269,0,Kalau tdk salah 3 bulan sekali atau gmn gtu,19,9,2019,9,27,58,Dianto,,0,Dian_774
+270,0,Minimal,19,9,2019,9,29,3,Dianto,,0,Dian_774
+271,0,Ada perbedaan syarat,19,9,2019,9,29,29,Dianto,,0,Dian_774
+272,0,"iya, agak ribet urusan gdg,\nyang penting coding flutter jalan terus 😆",19,9,2019,9,29,51,oon,,0,oonid
+273,0,"Apply aja apa gimana yaa, urusan tdk sustainable uruan blkng kali ya..🙈",19,9,2019,9,32,9,Dianto,,0,Dian_774
+274,0,"udah pernah gagal (nggak jalan) di Makassar,\njadi makin susah yang apply lagi.\naku pernah nanya.",19,9,2019,9,33,15,oon,,0,oonid
+275,0,"Hmmm,",19,9,2019,9,33,53,Dianto,,0,Dian_774
+276,0,di grup sebelah bbrp bulan kemarin ada yang apply juga.,19,9,2019,9,33,53,oon,,0,oonid
+277,0,belum cek lagi kabarnya gimana.,19,9,2019,9,34,15,oon,,0,oonid
+278,0,Alasan penolakannya apa? Katanya di tolak pun akan ada balasan kenapa2nya,19,9,2019,9,34,34,Dianto,,0,Dian_774
+279,0,"wah nggak tau ya, aku nggak pernah apply.\nudah pernah manage jakarta, jadi udah tau pusingnya.\nsekarang nyari mainan lain.\n\njauh lebih menyenangkan coding flutter aja 😂",19,9,2019,9,35,49,oon,,0,oonid
+280,0,"Kalau yg student punya, tahun lalu di gawangi Rahmatullah kalau tdk salah",19,9,2019,9,35,50,Dianto,,0,Dian_774
+281,279,😂😂,19,9,2019,9,36,6,Dianto,,0,Dian_774
+282,0,Itu dibayrin jalan2 ke SF ya bang? 🙄,19,9,2019,9,37,13,Dianto,,0,Dian_774
+283,0,"jauh sebelum jalan-jalan ke SF itu tren.. \ndan namanya pun belum GDG, jadi masih jadul 😆\n\nbarusan cek di grup sebelah, bilangnya agustus propose gdg.. sekarang belum ada kabar..",19,9,2019,9,38,30,oon,,0,oonid
+284,283,😅,19,9,2019,9,39,29,Dianto,,0,Dian_774
+285,0,Yg apply siapa kalo boleh tau bang?,19,9,2019,9,40,17,Dianto,,0,Dian_774
+286,285,search aja keyword gdg di sebelah 😁,19,9,2019,9,41,0,oon,,0,oonid
+287,0,Otw,19,9,2019,9,41,8,Dianto,,0,Dian_774
+288,0,https://www.youtube.com/watch?v=X-4LJSqCPzM,19,9,2019,12,7,38,Dianto,,0,Dian_774
+289,0,Padahal cuman pakai beberapa widget,20,9,2019,6,12,2,Firdaus,,0,Firdausshi
+290,0,apa karena masih belum versi rilis?,20,9,2019,6,12,45,oon,,0,oonid
+291,0,,20,9,2019,6,13,53,Firdaus,,0,Firdausshi
+292,290,Harus pakai --release?,20,9,2019,6,17,13,Firdaus,,0,Firdausshi
+293,292,sebetulnya nanti saja waktu aplikasinya sudah jadi.\n\nkalo sekarang paling cuma untuk mengetahui ukuran saja.\nkarena kalo belum pakai `--release` memang ukurannya besar.,20,9,2019,6,18,50,oon,,0,oonid
+294,0,"Ok siap , dimengerti om",20,9,2019,6,20,25,Firdaus,,0,Firdausshi
+295,0,Masih belajar2,20,9,2019,6,20,39,Firdaus,,0,Firdausshi
+296,0,Ikut2 tutorial di YouTube,20,9,2019,6,20,49,Firdaus,,0,Firdausshi
+297,0,"Kalau masih debug mode besar memang filenya,",20,9,2019,6,21,4,Dianto,,0,Dian_774
+298,0,"Waktu debug 100an mb, build release 20an mb",20,9,2019,6,41,32,Firdaus,,0,Firdausshi
+299,0,20mb menurutku masih besar,20,9,2019,6,41,48,Firdaus,,0,Firdausshi
+300,0,"Kalau di banding native ia sih,",20,9,2019,6,42,8,Dianto,,0,Dian_774
+301,0,apa saja tuh padahal library yang diikutkan?,20,9,2019,6,42,34,oon,,0,oonid
+302,0,Saya lihat di stackoverflow ngaruh di material component,20,9,2019,6,42,46,Firdaus,,0,Firdausshi
+303,302,"Bisa jadi, kalau saya sendiri tdk pernah bawa bawaan material sih, biasa pakai cupertino sedikit, sisanya widget custom,",20,9,2019,6,44,15,Dianto,,0,Dian_774
+304,0,"saya sih nggak pusing sama ukuran di awal 🙈\nya banyak kemudahan yang didapat di sisi development, kemudian membuat ukuran jadi besar.. menurutku ya udah di terima dulu aja 😆",20,9,2019,6,46,17,oon,,0,oonid
+305,0,"Sebenarnya coba2 aja build, berhasil atau ga.\nSeperti waktu ionic kemarin, udah capek2 buat project pas di build malah ga bisa, sebulan kemudian baru fix buildnya😂 keburu malas lanjutin projectnya😂",20,9,2019,6,50,35,Firdaus,,0,Firdausshi
+306,0,wah sebulan.. seru banget kayaknya belajarnya 😬,20,9,2019,6,51,43,oon,,0,oonid
+307,304,Betul sekalii... apalagi sekarang hp storagenya mayan sekali...,20,9,2019,6,51,58,Dianto,,0,Dian_774
+308,0,"Facebook aja aplikasinya ratusan MB installer, pas sudah instal ukuran GB 🙈",20,9,2019,6,53,5,Dianto,,0,Dian_774
+309,308,"isinya trojan semua, kirim data ke fb 🙊",20,9,2019,6,53,35,oon,,0,oonid
+310,0,"Wkwkkw, terllu banyak jebakan batman di dalam,",20,9,2019,6,54,19,Dianto,,0,Dian_774
+311,0,Walaupun tdk aktifkan gps ttp bisa di track usernya,20,9,2019,6,54,37,Dianto,,0,Dian_774
+312,0,"Lewat bluetooth,",20,9,2019,6,54,45,Dianto,,0,Dian_774
+313,0,Ngambil data lokasi dari device lain,20,9,2019,6,54,58,Dianto,,0,Dian_774
+314,0,Sekitarnya,20,9,2019,6,55,4,Dianto,,0,Dian_774
+315,0,Horor pak,20,9,2019,6,55,13,Dianto,,0,Dian_774
+316,0,"OS kecolongan permission bluetooth,",20,9,2019,6,55,56,Dianto,,0,Dian_774
+317,0,"Di iOS 13 baru ketahuan,",20,9,2019,6,56,8,Dianto,,0,Dian_774
+318,0,🙈,20,9,2019,6,56,15,Dianto,,0,Dian_774
+319,0,Dan banyak aplikasi lain melakukan hal sama,20,9,2019,6,56,44,Dianto,,0,Dian_774
+320,306,Justru pusing cari cara buildnya.\nTernyata waktu itu buildnya ionic 4 belum stabil jadi saya balik ke ionic 3 dan ternyata lagi ada lib yg ga support di ionic 3. Preett😂,20,9,2019,6,57,30,Firdaus,,0,Firdausshi
+321,320,🤷🏻‍♂️,20,9,2019,6,57,52,oon,,0,oonid
+322,0,😂😂,20,9,2019,6,58,37,Firdaus,,0,Firdausshi
+323,0,"Tinggalkan ionic, masuk flutter, flutter memudahkan developer, amin,",20,9,2019,6,58,48,Dianto,,0,Dian_774
+324,0,🥳🥳,20,9,2019,6,58,58,Dianto,,0,Dian_774
+325,0,Saya pernah build apk production cuma 9an MB kok.. Nda beda jauh sama native lah..,20,9,2019,6,59,1,Fordyta Abubakar,,0,DhytoDev
+326,0,Pake material / cupertino itu kaks?,20,9,2019,6,59,28,Dianto,,0,Dian_774
+327,0,Itu setelah di shrink dan obfuscate,20,9,2019,6,59,32,Fordyta Abubakar,,0,DhytoDev
+328,325,Cara buildnya gimana ?,20,9,2019,6,59,32,Firdaus,,0,Firdausshi
+329,0,"skrg sih harusnya bisa lebih kecil, krn udah support aab",20,9,2019,7,0,26,Fordyta Abubakar,,0,DhytoDev
+330,326,Iya.. full material,20,9,2019,7,0,56,Fordyta Abubakar,,0,DhytoDev
+331,328,ada kok di dokumentasi..,20,9,2019,7,2,9,Fordyta Abubakar,,0,DhytoDev
+332,0,,20,9,2019,14,11,18,Dianto,,0,Dian_774
+333,332,itu akun siapa sih?\n\niklan kerjaan zaman now..\ndi telegram account name 🙈,20,9,2019,14,24,48,oon,,0,oonid
+334,0,Dari group flutter.id,20,9,2019,14,26,43,Dianto,,0,Dian_774
+335,0,Frofilnya menimbulkan sangat banyak pertanyaan. 😂,20,9,2019,14,27,3,Dianto,,0,Dian_774
+336,0,"aku udah coba followup ke DSC Unhas dari nanya di grup sebelah, dapat kontaknya kak @andiwijayaid\n\nkebetulan lagi di luar kota sampai minggu depan.\nsecara umum sih mau ngadain acara study jam flutter bareng..\n\nnah mayan kaann.. jadi nggak meetup 3 orang doank kita 😆",21,9,2019,0,55,13,oon,,0,oonid
+337,0,Hahhahaee,21,9,2019,0,56,22,Dianto,,0,Dian_774
+338,0,Asikkk,21,9,2019,0,56,25,Dianto,,0,Dian_774
+339,0,Ditunggu,21,9,2019,0,56,29,Dianto,,0,Dian_774
+340,0,ya nanti minggu depan di-follow-up lagi..\npaling butuhnya cuma tempat aja kan?\npembicara udah banyak kan.. ada 200 orang pembicara 🙊,21,9,2019,0,57,15,oon,,0,oonid
+341,0,😂😂,21,9,2019,0,57,34,Dianto,,0,Dian_774
+342,0,"Tenang,, di baris depan ada bung @DhytoDev",21,9,2019,0,58,2,Dianto,,0,Dian_774
+343,0,😆,21,9,2019,0,58,9,Dianto,,0,Dian_774
+344,0,"Bertanya om, apa cuma saya klo klik item pertama kali selalu leg aplikasix bru  ad action?",21,9,2019,13,13,8,anfrb°,,0,anfrb
+345,0,Setelh 2x dst sudh smooth,21,9,2019,13,14,14,anfrb°,,0,anfrb
+346,0,itu item dari apakah? list?,21,9,2019,13,31,12,oon,,0,oonid
+347,0,List at grid,21,9,2019,13,31,27,anfrb°,,0,anfrb
+348,0,belum pernah main grid.. 😆\n\nitu test nya di real device?,21,9,2019,13,32,31,oon,,0,oonid
+349,0,Real device,21,9,2019,13,32,42,anfrb°,,0,anfrb
+350,0,List jg gitu,21,9,2019,13,32,50,anfrb°,,0,anfrb
+351,0,Jd saya buat dalam custom scoll ad list  horizontal ata grid posisi vertical,21,9,2019,13,33,19,anfrb°,,0,anfrb
+352,0,kalo list belum pernah sih kayak lag gitu..,21,9,2019,13,33,29,oon,,0,oonid
+353,0,sadiiss udah ngebut belajarnyaaa,21,9,2019,13,33,56,oon,,0,oonid
+354,0,😆,21,9,2019,13,33,59,oon,,0,oonid
+355,0,"Hahah, penasaran mau liht hasilnya",21,9,2019,13,37,42,anfrb°,,0,anfrb
+356,0,😂,21,9,2019,13,38,14,anfrb°,,0,anfrb
+357,0,,21,9,2019,13,47,16,anfrb°,,0,anfrb
+358,0,,21,9,2019,13,47,16,anfrb°,,0,anfrb
+359,0,👏🏼 kereenn,21,9,2019,13,49,54,oon,,0,oonid
+360,0,Setelh beljr krng lebih seminggu,21,9,2019,13,49,56,anfrb°,,0,anfrb
+361,0,"itu sudah ""nyambung"" sama backend?",21,9,2019,13,50,34,oon,,0,oonid
+362,0,Blum 😂,21,9,2019,13,50,46,anfrb°,,0,anfrb
+363,0,😬,21,9,2019,13,51,3,oon,,0,oonid
+364,0,Tp pake data list harcode,21,9,2019,13,51,14,anfrb°,,0,anfrb
+365,0,itu gambar-gambar dari online apa asset?,21,9,2019,13,51,39,oon,,0,oonid
+366,0,Asset,21,9,2019,13,51,49,anfrb°,,0,anfrb
+367,0,Saya coba jalan versi release ndk ad leg dan ukuranya juga kecil 2 kali debug.,21,9,2019,14,57,26,anfrb°,,0,anfrb
+368,0,1/2 kali mungkin maksudnya?,21,9,2019,14,57,46,oon,,0,oonid
+369,0,Iya,21,9,2019,14,57,59,anfrb°,,0,anfrb
+370,0,Heheh,21,9,2019,14,58,1,anfrb°,,0,anfrb
+371,0,mantab kalo udah nggak lag!\ndikit lagi udah mau publish ke store :D,21,9,2019,14,58,14,oon,,0,oonid
+372,0,Blum  ad datanya 😂,21,9,2019,14,58,49,anfrb°,,0,anfrb
+373,357,Mantap,21,9,2019,15,31,25,Dianto,,0,Dian_774
+375,0,👌🏻,21,9,2019,15,33,43,Dianto,,0,Dian_774
+376,0,,21,9,2019,15,33,59,Dianto,,0,Dian_774
+377,0,,22,9,2019,6,42,35,resa,p,0,Wazzzl
+378,0,adakah,22,9,2019,16,51,50,anfrb°,,0,anfrb
+379,0,Saya lagi nyari remote freelancer flutter nih.. Ada yg berminat ? hehe,23,9,2019,12,17,59,Fordyta Abubakar,,0,DhytoDev
+381,379,Aku aku aku hehe,23,9,2019,12,23,48,Dianto,,0,Dian_774
+382,0,lagi free kah kak ? hehe,23,9,2019,12,24,38,Fordyta Abubakar,,0,DhytoDev
+383,382,"Bisa dibilang bgtu kaks, lagi mencoba merintis startup, tp agak santai sih, hhe",23,9,2019,12,26,33,Dianto,,0,Dian_774
+384,379,sadeess..\n\nudah langsung kasih kerjaan aja 😆,23,9,2019,12,26,35,oon,,0,oonid
+385,383,nda di tempat yg dulumi kah ?,23,9,2019,12,26,57,Fordyta Abubakar,,0,DhytoDev
+386,385,"Yoi kak, sdh resign dari bulan mei lalu, 😁",23,9,2019,12,27,47,Dianto,,0,Dian_774
+387,0,"Baiklah, nanti kukabari lebih lanjut nah mas bro @diand_99",23,9,2019,12,28,46,Fordyta Abubakar,,0,DhytoDev
+388,0,😊😊😊,23,9,2019,12,29,5,Fordyta Abubakar,,0,DhytoDev
+389,387,Siapp kanda 👌🏻,23,9,2019,12,29,20,Dianto,,0,Dian_774
+390,0,butuh sekalian yg bisa native java/kotlin juga,23,9,2019,12,29,26,Fordyta Abubakar,,0,DhytoDev
+391,0,Sip2,23,9,2019,12,30,13,Dianto,,0,Dian_774
+392,0,🤓,23,9,2019,12,30,25,Dianto,,0,Dian_774
+393,0,"Masih berlaku ji sertifikatku iaa, ehh",23,9,2019,12,30,47,Dianto,,0,Dian_774
+394,0,Wkkw,23,9,2019,12,30,50,Dianto,,0,Dian_774
+395,393,tambah susahmi testnya AAD skrg wkwk,23,9,2019,12,31,19,Fordyta Abubakar,,0,DhytoDev
+396,0,Masa ia? 😆,23,9,2019,12,31,33,Dianto,,0,Dian_774
+397,384,"kerjaan kantor, mas 😂",23,9,2019,12,32,3,Fordyta Abubakar,,0,DhytoDev
+398,0,Tahun depan sudah kadaluarsa punyaku 🤣,23,9,2019,12,32,11,Dianto,,0,Dian_774
+399,383,"kalo dijadikan bahasa baku Indonesia, ini jadinya\n\nsedang merintis perusahaan rintisan.. 😁\n\nlebih enak kayaknya bilang, sedang merintis Unicorn 🦄",23,9,2019,12,33,5,oon,,0,oonid
+400,399,😂😂😂,23,9,2019,12,33,19,Dianto,,0,Dian_774
+401,0,Amin,23,9,2019,12,33,37,Dianto,,0,Dian_774
+402,0,Mau ta jg tp baru ki belajr bela 😂,23,9,2019,12,35,31,anfrb°,,0,anfrb
+403,402,"Mdd, baru proyek di gubernur tdk habis2, 🤣🤣",23,9,2019,12,36,52,Dianto,,0,Dian_774
+404,0,"Hahaah, bukan proyek bro",23,9,2019,12,37,40,anfrb°,,0,anfrb
+405,0,Mdd baru sama2 jeki di sana kemarin 😂,23,9,2019,12,39,23,Dianto,,0,Dian_774
+406,0,😂,23,9,2019,12,42,10,anfrb°,,0,anfrb
+407,404,Wahyu yg update Smartoffice Mobile sekarang kah bro?,23,9,2019,12,42,15,Dianto,,0,Dian_774
+408,0,Iya pake flutter ki itu,23,9,2019,12,42,28,anfrb°,,0,anfrb
+409,0,Mantapp hehe,23,9,2019,12,42,34,Dianto,,0,Dian_774
+411,408,Jadi baruga mobile di kerja ulang pake flutter jg ini nanti?,23,9,2019,12,43,57,Dianto,,0,Dian_774
+412,0,Iya,23,9,2019,12,44,16,anfrb°,,0,anfrb
+413,0,Hahah,23,9,2019,12,44,23,anfrb°,,0,anfrb
+414,0,"Mantap, hahaha",23,9,2019,12,44,28,Dianto,,0,Dian_774
+415,0,Mals ki pake react,23,9,2019,12,44,42,anfrb°,,0,anfrb
+416,0,Sekalian webnya nanti pake flutter juga 😆,23,9,2019,12,44,43,Dianto,,0,Dian_774
+417,416,Sebaiknya,23,9,2019,12,44,53,anfrb°,,0,anfrb
+418,0,Stu kli jalan saja,23,9,2019,12,45,1,anfrb°,,0,anfrb
+419,0,"Hahaha mantap,",23,9,2019,12,45,7,Dianto,,0,Dian_774
+420,0,Maslhx masih newbie mi di flutter,23,9,2019,12,45,24,anfrb°,,0,anfrb
+421,0,Ahh tapi cepat saya liat itu keluar versi barunya itu yg SO kemarin,23,9,2019,12,45,55,Dianto,,0,Dian_774
+422,0,Padahal kompleks sekali backendnya itu barang,23,9,2019,12,46,4,Dianto,,0,Dian_774
+423,0,😂,23,9,2019,12,46,7,Dianto,,0,Dian_774
+424,0,"Hahah, ndk ji kan di buat mudah ki. 😂",23,9,2019,12,47,28,anfrb°,,0,anfrb
+425,416,🙌🏼,23,9,2019,12,54,51,oon,,0,oonid
+426,228,masih tentang `tflite` dengan flutter\n\nsiapa tau ada yang mau pakai di aplikasi flutter nya..\n\nmisalnya membedakan coto dengan palubasa.. 🙊\n\nhttps://towardsdatascience.com/cross-platform-on-device-ml-inference-a55b67e306b3,27,9,2019,3,24,29,oon,,0,oonid
+427,0,,27,9,2019,5,19,5,,,0,
+428,426,Keren yah bisa pake tf,27,9,2019,7,9,16,anfrb°,,0,anfrb
+429,426,Bisa ini,27,9,2019,7,15,19,Dianto,,0,Dian_774
+430,0,Trus pasang ads masukkan playstore *ehh,27,9,2019,7,15,57,Dianto,,0,Dian_774
+431,0,https://medium.com/@pmutisya/dark-mode-in-flutter-3742062f9f59?source=email-98d3af52989a-1569784875630-digest.reader------0-58------------------e7126c4d_b73d_4aab_8713_4604ce67afc0-1-----&sectionName=top,30,9,2019,3,44,11,Dianto,,0,Dian_774
+432,0,wah peta bisa dark mode ya? 😆,30,9,2019,4,24,45,oon,,0,oonid
+433,0,"sudah bisa menyesuaikan siang dan malam,,, 😁",30,9,2019,4,25,56,Dianto,,0,Dian_774
+434,0,https://github.com/divyanshub024/day_night_switch,30,9,2019,5,48,57,oon,,0,oonid
+435,0,https://raw.githubusercontent.com/divyanshub024/day_night_switch/master/day_night_switch.gif,30,9,2019,5,49,16,oon,,0,oonid
+436,435,Canggih mmng,30,9,2019,7,4,21,Dianto,,0,Dian_774
+437,0,👏🏻,30,9,2019,7,4,25,Dianto,,0,Dian_774
+438,0,"kak mau nanya nih, kok data detailnya nda tampil? padahal udah getData Seafoodnya nya berdasarkan id nya",30,9,2019,8,38,39,Fadli,Jaya,0,fadlyjaya
+439,0,,30,9,2019,8,38,49,Fadli,Jaya,0,fadlyjaya
+440,0,,30,9,2019,8,39,3,Fadli,Jaya,0,fadlyjaya
+441,0,"Mungkin bisa di perlihatkan errornya lognya,",30,9,2019,8,41,1,Dianto,,0,Dian_774
+442,0,,30,9,2019,8,42,6,Fadli,Jaya,0,fadlyjaya
+443,440,Sdh coba ini urlnya d browser?,30,9,2019,8,43,32,Dianto,,0,Dian_774
+444,0,,30,9,2019,8,44,36,Fadli,Jaya,0,fadlyjaya
+445,0,ini base url detail nya,30,9,2019,8,44,45,Fadli,Jaya,0,fadlyjaya
+446,440,Ini yg seafood.idmeal sdh cocok?,30,9,2019,8,48,49,Dianto,,0,Dian_774
+447,446,"iya, buat nampilin data detailnya berdasarkan idMeal",30,9,2019,8,51,2,Fadli,Jaya,0,fadlyjaya
+448,440,"Ini strMealThumb di network image isinya apa? Null kyknya,",30,9,2019,15,56,24,Dianto,,0,Dian_774
+449,448,buat nampilin image bang,30,9,2019,16,42,30,Fadli,Jaya,0,fadlyjaya
+451,449,Isiny null tuh,30,9,2019,16,44,19,Dianto,,0,Dian_774
+452,451,kok bisa yah bang nilainya null? padahal udah base url nya udh benar,30,9,2019,16,47,50,Fadli,Jaya,0,fadlyjaya
+453,439,"btw, project ini buat sendiri atau dari referensi artikel di internet?\nkalo dari referensi artikel, pengen nyoba juga.. heheh",30,9,2019,16,48,19,oon,,0,oonid
+454,0,"di project saya, pake api di atas 😁",30,9,2019,16,51,16,Fordyta Abubakar,,0,DhytoDev
+455,0,"iya tadi liat postman nya,\nmakanya kepikir misalnya ada referensi online gitu yang kasih tutorial project itu",30,9,2019,16,52,18,oon,,0,oonid
+456,454,bagi doms bang 😂,30,9,2019,16,52,50,Fadli,Jaya,0,fadlyjaya
+457,92,ini,30,9,2019,16,53,51,Fordyta Abubakar,,0,DhytoDev
+458,457,thx bang,30,9,2019,16,54,23,Fadli,Jaya,0,fadlyjaya
+459,453,Iseng² testing new project bang 😂,1,10,2019,2,22,11,Fadli,Jaya,0,fadlyjaya
+460,459,siaap.. \nsemoga lancar proyeknya 👍,1,10,2019,2,22,47,oon,,0,oonid
+461,460,Siapp bang 😅,1,10,2019,2,54,44,Fadli,Jaya,0,fadlyjaya
+462,0,Kpn meetupnya 😳,1,10,2019,5,51,21,anfrb°,,0,anfrb
+463,0,"ini pembicaranya sudah tidak sabarr.. 😆\n\ntungguu.. besok tanya lagi, ngajakin kerja sama DSC lagi..",1,10,2019,12,6,34,oon,,0,oonid
+464,0,😆😆😆,1,10,2019,12,8,28,Dianto,,0,Dian_774
+465,0,Saya butuh inpirasi 😂,1,10,2019,12,16,13,anfrb°,,0,anfrb
+466,0,Meetup,4,10,2019,2,46,36,anfrb°,,0,anfrb
+467,0,😳,4,10,2019,2,46,43,anfrb°,,0,anfrb
+468,0,Mencurrygakan 😼,4,10,2019,2,54,22,Dianto,,0,Dian_774
+469,0,😃,4,10,2019,2,56,57,Dianto,,0,Dian_774
+470,466,"Mariki broo, di tunggu mi sama ade2 gemmesh di sini",4,10,2019,2,57,10,Dianto,,0,Dian_774
+471,470,Asik,4,10,2019,3,8,3,anfrb°,,0,anfrb
+472,0,Dmn ki in?,4,10,2019,3,8,14,anfrb°,,0,anfrb
+473,472,Upnormal perintis bro,4,10,2019,3,43,8,Dianto,,0,Dian_774
+474,0,Wets kelas memang 😅,4,10,2019,3,47,47,anfrb°,,0,anfrb
+475,0,"Wahh tdk bro, lokal ji 😀",4,10,2019,3,58,11,Dianto,,0,Dian_774
+476,0,ada punya referensi buat detailpage?,4,10,2019,6,58,37,Firdaus,,0,Firdausshi
+477,0,"jadi saya buat list dari json local, saya mau buat detailpagenya",4,10,2019,6,59,30,Firdaus,,0,Firdausshi
+478,0,https://pastebin.com/YpM8pAQD,4,10,2019,7,5,56,Firdaus,,0,Firdausshi
+479,336,"kak @andiwijayaid\nsudah merespon oke.\n\njadi nanti bisa mengadakan pertemuan bersama dengan DSC (komunitas developer di kampus-kampus).\n\naku mengusulkan ke ybs untuk ada dua pembicara..\n\n1 materi pemula.. (karena tentu banyak yang datang masih pemula, seperti saya).\n\n1 materi lebih mendalam (ini buat developer yang sudah cepat sekali progresnya dan nggak sabar mau meetup.. lirik-lirik.. 😆)\n\nnah dua pembicara tersebut, bisa sekaligus dalam satu sesi pertemuan, atau dibuat dua kali pertemuan.. \n\nsilakan kalo ada masukan..\n\nnanti kak Andi juga cari-cari tempat, kampus atau non-kampus untuk acaranya..",12,10,2019,8,50,16,oon,,0,oonid
+480,0,"nanti saya yg ambil bab1 pemula (perkenalan), bab 2 sampai expert ada kak @DhytoDev 👌🏻",12,10,2019,9,4,39,Dianto,,0,Dian_774
+481,0,Aku siap jadi pendengar 😂,12,10,2019,9,5,50,anfrb°,,0,anfrb
+482,0,Nanti saya jadi tukang geser slidenya kak @diand_99,12,10,2019,9,9,8,Fordyta Abubakar,,0,DhytoDev
+483,0,klo sya jadi yg tukang pegang² kabelnya mo kak,12,10,2019,10,33,31,Fadli,Jaya,0,fadlyjaya
+484,0,kabel hdmi spa tau tergeserki,12,10,2019,10,33,51,Fadli,Jaya,0,fadlyjaya
+485,0,sy ikut belajar 🙏,12,10,2019,10,33,56,F I R M A N,,0,pimen
+486,484,Nanti saya yg nonton kabel hdminya. 😬,12,10,2019,10,34,25,Dianto,,0,Dian_774
+487,486,fokus mki kita kak jadi pemateri,12,10,2019,10,35,19,Fadli,Jaya,0,fadlyjaya
+488,0,,17,10,2019,3,30,39,Imam,Baehaqi,6281235050427,imambaehaqi
+489,0,"Perkenalkan, saya Imam Baehaqi dari Sidoarjo, Umur 22th, terima kasih",17,10,2019,3,46,25,Imam,Baehaqi,6281235050427,imambaehaqi
+490,489,Wahh mainnya jauh sekali...,17,10,2019,3,46,57,Dianto,,0,Dian_774
+491,489,Selamat datang hehehe,17,10,2019,3,47,5,Dianto,,0,Dian_774
+492,0,"iyaa, aku join semua se Indonesia😅",17,10,2019,3,47,58,Imam,Baehaqi,6281235050427,imambaehaqi
+493,0,Luarbiasaaa 🙌🏻😂,17,10,2019,3,48,21,Dianto,,0,Dian_774
+494,0,ada grup menarik nih flutter,17,10,2019,3,50,18,Imam,Baehaqi,6281235050427,imambaehaqi
+495,0,@flutterando,17,10,2019,3,50,23,Imam,Baehaqi,6281235050427,imambaehaqi
+496,495,Espanolaa??,17,10,2019,3,50,55,Dianto,,0,Dian_774
+497,0,iya bang,17,10,2019,3,51,54,Imam,Baehaqi,6281235050427,imambaehaqi
+498,0,"Ini bukan jauh lagi,",17,10,2019,3,52,14,Dianto,,0,Dian_774
+499,495,Kejauhan😂,17,10,2019,3,52,21,Dianto,,0,Dian_774
+500,0,wkwkwkw,17,10,2019,3,52,39,Imam,Baehaqi,6281235050427,imambaehaqi
+501,0,"gapapa bang, sosmed :D",17,10,2019,3,52,49,Imam,Baehaqi,6281235050427,imambaehaqi
+502,0,,20,10,2019,19,2,49,anfrb°,,0,anfrb
+503,0,"Mauka pamer2 hasil belajar ku dulu supaya di kritik, kasih saran dulu kakak.",20,10,2019,19,2,49,anfrb°,,0,anfrb
+504,0,,20,10,2019,19,2,49,anfrb°,,0,anfrb
+505,502,"Kalau saya tdk perlu mi di kritik ini,,",21,10,2019,1,43,57,Dianto,,0,Dian_774
+506,504,Mantap2.. Sdh bisa jadi pemateri ini.,21,10,2019,6,27,30,Fordyta Abubakar,,0,DhytoDev
+507,0,"Jadi, kpn meetup?",21,10,2019,6,28,0,Fordyta Abubakar,,0,DhytoDev
+508,0,"Kasih saran dong, 🙏",21,10,2019,6,39,58,anfrb°,,0,anfrb
+509,506,"Belum, sampai ilmu ku saya.",21,10,2019,6,40,37,anfrb°,,0,anfrb
+510,509,Gpp.. Sharing2 aja yg sdh dipelajari. Sharing itu salah satu cara biar gak lupa 😅,21,10,2019,6,42,17,Fordyta Abubakar,,0,DhytoDev
+511,510,Betull heheh,21,10,2019,6,42,29,Dianto,,0,Dian_774
+512,0,Bisa jg klo sharing yg saya plajari 😂,21,10,2019,6,43,48,anfrb°,,0,anfrb
+513,0,"Mungkin bisa dimulai dengan sharing, widget apa saja yg digunakan untuk membuat layout di atas.",21,10,2019,6,45,14,Fordyta Abubakar,,0,DhytoDev
+514,0,"Seperti, bagaimana caranya bikin itu floating button yg beranak dll😂",21,10,2019,6,45,59,Dianto,,0,Dian_774
+515,0,Bgusnya klo meet2 bru sahring  😂,21,10,2019,7,0,8,anfrb°,,0,anfrb
+516,514,"Saya pake UnicornDialler, trus saya pake child buttonya itu list UnicornButton 😅",21,10,2019,7,2,28,anfrb°,,0,anfrb
+517,502,"wuii.. cakepp bangett.. 😂\n\nsudah siap dipaketkan, upload play store 😬",21,10,2019,7,56,10,oon,,0,oonid
+518,0,summon kak Arhen @rahmatslamet2 \n\nbikin flutter pakai blazor nih.. 🤔\n\nhttps://www.infoq.com/news/2019/10/blazor-client-ui-dotnet-30/,21,10,2019,7,57,46,oon,,0,oonid
+519,518,? Ini kan yg udah saya simulasikan bahkan ngoding dan test demonya d Hacklearn kemrn kak 😅,21,10,2019,8,4,25,Arhen,,0,rhslamet
+520,519,berarti sekarang sudah bisa juga untuk flutter web(?),21,10,2019,8,5,17,oon,,0,oonid
+521,0,Kalau sama flutter  belum pernah nyoba,21,10,2019,8,5,54,Arhen,,0,rhslamet
+522,0,...,21,10,2019,8,5,56,Arhen,,0,rhslamet
+523,0,"nah ya itu, bukan cuma blazor nya, tapi di videonya itu dia demo flutter juga\nhttps://www.youtube.com/watch?v=uW-Kk7Qpv5U&feature=youtu.be&t=3244",21,10,2019,8,7,39,oon,,0,oonid
+525,0,Wait. Screening video dulu,21,10,2019,8,9,6,Arhen,,0,rhslamet
+526,525,itu sudah dikasih di detik pas bahas flutter.,21,10,2019,8,9,30,oon,,0,oonid
+527,0,Holly molly\n BLUTTER FOR THE LYFE 😂,21,10,2019,8,16,46,Arhen,,0,rhslamet
+528,0,wah wah wahwahh,21,10,2019,8,16,51,Arhen,,0,rhslamet
+529,0,Hahahaha,21,10,2019,8,16,52,Arhen,,0,rhslamet
+530,0,Baru thu saya. Tambah jatuh cinta saya sama blazor. lmao  XD. Sementara belum mau ngajak nikah. Mash d pantau,21,10,2019,8,17,33,Arhen,,0,rhslamet
+531,520,"Bukan hanya web aja kalau gini mah.\nCrossplatform, Cross-OS",21,10,2019,8,20,23,Arhen,,0,rhslamet
+532,0,"Jdi, ""bye(?)"" Sama node_modules ini?\nPecinta static type programming akhirnya nggak terpaksa pake JS",21,10,2019,8,21,13,Arhen,,0,rhslamet
+533,532,Nah,21,10,2019,9,37,54,Fordyta Abubakar,,0,DhytoDev
+534,504,Widihh sangar widget fab nya,23,10,2019,7,31,9,Fadli,Jaya,0,fadlyjaya
+535,502,langsung jatuh hati 😍,2,11,2019,8,43,57,F I R M A N,,0,pimen
+536,535,Bisami saingi foursquare ini.. 🤩,2,11,2019,8,46,20,Dianto,,0,Dian_774
+537,536,hehehehe... cek performance 😁,2,11,2019,8,46,44,F I R M A N,,0,pimen
+538,0,Beri msukn om 😁,2,11,2019,8,51,57,anfrb°,,0,anfrb
+539,0,,8,11,2019,4,58,2,,,0,
+540,0,makassar kapan?,10,11,2019,15,33,6,Firdaus,,0,Firdausshi
+541,0,,20,11,2019,15,19,29,Andi,Wijaya,0,andiwijayaid
+542,0,halo.. selamat datang kak Andi..\n\ndatang membawa kabar gembira 😁,20,11,2019,15,19,56,oon,,0,oonid
+543,0,,20,11,2019,15,20,10,Andi,Wijaya,0,andiwijayaid
+544,0,Hi teman2 dan suhu2 sekalian...,20,11,2019,15,20,36,Andi,Wijaya,0,andiwijayaid
+545,0,"Selamat datang, 😁 selamat berbagi",20,11,2019,15,21,8,Dianto,,0,Dian_774
+546,0,yang ditunggu-tunggu sudah datang.. 🙊,20,11,2019,15,21,9,oon,,0,oonid
+548,540,Up kk 😂,22,11,2019,2,0,38,Fadli,Jaya,0,fadlyjaya
+549,0,"Assalamua'alaikum , ada yg bisa jadi pemateri flutter di Flutter Workshop dan Event Flutter Interrect ?",23,11,2019,3,49,28,Fadli,Jaya,0,fadlyjaya
+550,0,yang adakan DSC UINAM,23,11,2019,3,51,26,Fadli,Jaya,0,fadlyjaya
+551,0,spa tau kk kk sekalian mau berbagi ilmu,23,11,2019,3,52,7,Fadli,Jaya,0,fadlyjaya
+552,0,"Colek the one and only, kakanda @DhytoDev 😁",23,11,2019,3,54,23,Dianto,,0,Dian_774
+553,0,Halo kakak @fadlyjaya \nDari DSC Unhas udah daftar untuk buat Flutter Interact\n\nUdah ada kak Dyto dan core team saya yang jadi pemateri. Mungkin kita bisa collab untuk acaranya.,23,11,2019,3,55,22,Andi,Wijaya,0,andiwijayaid
+554,553,Sdh ada jadwal tayangnya masbro?,23,11,2019,3,56,35,Dianto,,0,Dian_774
+555,0,,23,11,2019,3,57,11,anfrb°,,0,anfrb
+556,554,"Udah daftar tanggal 14 Desember, tgg feedback dari Flutterx kaka",23,11,2019,3,57,24,Andi,Wijaya,0,andiwijayaid
+557,556,Pendaftaran peserta sudah buka?,23,11,2019,3,58,28,Dianto,,0,Dian_774
+558,0,Hehe,23,11,2019,3,58,33,Dianto,,0,Dian_774
+559,0,Belum kak hahaha,23,11,2019,3,58,41,Andi,Wijaya,0,andiwijayaid
+560,556,Ini sdh pasti?,23,11,2019,3,58,58,Dianto,,0,Dian_774
+561,559,Ditunggu hehhe,23,11,2019,3,59,7,Dianto,,0,Dian_774
+562,0,@anfrb inimi yg dicari2 masbro...😁,23,11,2019,3,59,41,Dianto,,0,Dian_774
+563,560,Di dftr ke Flutterx tanggal segitu...,23,11,2019,3,59,42,Andi,Wijaya,0,andiwijayaid
+564,0,Siap,23,11,2019,3,59,51,anfrb°,,0,anfrb
+565,0,"@fadlyjaya @andiwijayaid nah, kolaborasikan saja. \n\nApa nda bisa digabungkan saja ya acaranya, jadi DSC Unhas x UINAM? \n\nBiar sekali capek dan sekali rame juga 😆",23,11,2019,4,12,5,Fordyta Abubakar,,0,DhytoDev
+566,0,Boleh banget,23,11,2019,4,12,34,Andi,Wijaya,0,andiwijayaid
+567,0,Nah..,23,11,2019,4,13,26,Fordyta Abubakar,,0,DhytoDev
+568,0,Kolaborasi lebih baik..,23,11,2019,4,13,57,Fordyta Abubakar,,0,DhytoDev
+569,0,"Untuk teknisnya, mungkin bisa ngopi bareng @andiwijayaid @fadlyjaya 😊",23,11,2019,4,17,14,Fordyta Abubakar,,0,DhytoDev
+570,0,Boleh kakak kita obrolin disini jadwalx?,23,11,2019,4,18,56,Andi,Wijaya,0,andiwijayaid
+571,0,Menunggu respon dari Kak @fadlyjaya dulu..,23,11,2019,4,20,20,Fordyta Abubakar,,0,DhytoDev
+572,0,Saya sudah bicara sama leadx DSC UINAM\nmereka bersedia untuk kolaborasi\ntinggal tanggal ngopi2x ini,23,11,2019,6,39,6,Andi,Wijaya,0,andiwijayaid
+573,0,,23,11,2019,7,12,16,Andi,Wijaya,0,andiwijayaid
+575,0,halo kakak @dhilasadrah,23,11,2019,7,15,6,Andi,Wijaya,0,andiwijayaid
+576,575,Halo juga kakak @andiwijayaid,23,11,2019,8,4,24,,,0,
+577,0,"Kak @dhilasadrah ini lead DSC UINAM, lebih jauhx mungkin bisa perkenalkan diri kak",23,11,2019,8,5,51,Andi,Wijaya,0,andiwijayaid
+580,0,"Salam kenal kakak-kakak🙏 Saya Nur Fadhilah Sadrah, biasa dipanggil dhila/dilla, lead DSC UIN Alauddin Makassar. Saya mahasiswi jurusan TI angkatan 2016 di UINAM",23,11,2019,10,13,14,,,0,
+581,571,Untuk teknisnya bisa sama saya saja kak. Saya bersedia ngobrol bareng :-),23,11,2019,10,13,26,,,0,
+582,0,Siap menyimak 😆,23,11,2019,10,21,13,anfrb°,,0,anfrb
+583,0,,24,11,2019,9,46,9,Andi,Wijaya,0,andiwijayaid
+584,580,"Halo, Salam kenal juga Dila 😊",25,11,2019,6,23,56,Fordyta Abubakar,,0,DhytoDev
+585,580,Salam kenal Mbak. 😁,25,11,2019,6,25,3,Dianto,,0,Dian_774
+586,0,Rabu atau kamis kita jumpa2 dan ngopi2 ya @andiwijayaid @dhilasadrah.. Saya menyelesaikan beberapa pekerjaan dulu ☕😆,25,11,2019,6,25,18,Fordyta Abubakar,,0,DhytoDev
+587,0,Siap om @DhytoDev,25,11,2019,7,50,33,Andi,Wijaya,0,andiwijayaid
+588,586,Siap kak @DhytoDev,25,11,2019,10,27,18,,,0,
+589,556,sudah ada update soal tanggal 14?\n\nini baru liat ada Flutter Tangerang ngadain tanggal 21\n\nhttps://www.meetup.com/Flutter-Meetup-Tangerang/events/266747702/,26,11,2019,6,11,40,oon,,0,oonid
+590,0,"[ Flutter Interact Viewing Party Makassar ]\n\nHi guys,\n\nKali ini Developer Student Clubs Universitas Hasanuddin & UIN Alauddin Makassar akan mengadakan event Flutter Interact Viewing Party Makassar.\n\nPada event ini kita akan membahas mengenai Flutter, toolkit UI dari Google yang dapat digunakan untuk membangun aplikasi di berbagai platform seperti mobile, web, dan desktop dari satu codebase/source code.\n\nNah, kita akan mengenal lebih mendalam mengenai Flutter dan fitur-fitur terbarunya, dan mempelajari langsung bagaimana cara membangun aplikasi menggunakan Flutter.\n\nYuk datang dan gabung bersama kami!\nTanggal: Sabtu, 14 Desember 2019\nWaktu: 10.00 - 13.00 WITA\nWarunk Upnormal, Jl. Andi Djemma No. 72, Makassar\n\nBenefits:\n- E-sertifikat\n- SWAG\n- Networking\n\nJangan lupa bawa laptop kalian dan siapkan Android Studio / IntelliJ / Visual Studio Code yaa!\n\nLink pendaftaran: bit.ly/dscfim2019\n\nSee you there!",9,12,2019,12,24,38,Andi,Wijaya,0,andiwijayaid
+592,0,yang ditungguu tungguuu 😂,9,12,2019,12,25,28,oon,,0,oonid
+593,0,Asixx skullyyyy... 😆,9,12,2019,12,26,16,Dianto,,0,Dian_774
+594,0,,9,12,2019,12,40,24,Andi,Wijaya,0,andiwijayaid
+595,0,,10,12,2019,6,45,34,ZAN,,0,
+596,0,salam gabung,10,12,2019,6,46,12,ZAN,,0,
+597,0,selamat welcome....,10,12,2019,6,47,3,Dianto,,0,Dian_774
+598,0,😁,10,12,2019,6,47,13,Dianto,,0,Dian_774
+599,0,👍🏻😎,10,12,2019,6,47,38,ZAN,,0,
+600,590,ada yang belum daftar buat hari sabtu?,10,12,2019,6,57,20,oon,,0,oonid
+601,0,,10,12,2019,6,59,0,,,0,
+602,0,otw daftar,10,12,2019,7,1,33,ZAN,,0,
+603,600,😂😂,10,12,2019,7,2,54,Dianto,,0,Dian_774
+604,0,Pake waitinglist,10,12,2019,7,3,3,Dianto,,0,Dian_774
+605,603,😪 waiting list aja nomor 58?,10,12,2019,7,3,46,oon,,0,oonid
+606,0,"wah 58 orng bnyak jg ,,  😎👍🏻",10,12,2019,7,3,48,ZAN,,0,
+607,0,"Nanti saya datang jadi pengunjung upnormal saja kalau tdk dapat seat,, 😂",10,12,2019,7,4,5,Dianto,,0,Dian_774
+608,0,kumpul aj di upnormal hehe,10,12,2019,7,4,12,ZAN,,0,
+609,0,"Wah, waiting list ke-58.. \n\nArtinya, sdh 168 orang pendaftar 🙈",10,12,2019,7,4,26,Fordyta Abubakar,,0,DhytoDev
+610,605,"Bagus sih, artinya sdh lumayan flutter di makassar 😁",10,12,2019,7,4,42,Dianto,,0,Dian_774
+611,609,"Mantaapp,,",10,12,2019,7,4,55,Dianto,,0,Dian_774
+612,609,🙄upnormal nih...,10,12,2019,7,5,29,oon,,0,oonid
+613,0,"abis meetup, langsung rame grup ini 🙊",10,12,2019,7,6,36,Fordyta Abubakar,,0,DhytoDev
+614,0,ramaikan perkodean mksr hehe,10,12,2019,7,6,59,ZAN,,0,
+615,613,"Mantap, cari Flutter dev sdh agak legaa ... 🥳",10,12,2019,7,7,49,Dianto,,0,Dian_774
+616,0,"btw, sdh ada yg punya aplikasi yg dibuat menggunakan flutter mejeng di playstore/app store?",10,12,2019,7,8,12,Fordyta Abubakar,,0,DhytoDev
+617,0,Iya kaks @DhytoDev jangan lupa promote group,10,12,2019,7,8,15,Dianto,,0,Dian_774
+618,617,"Tolong diingatkan, klo saya lupa 🙊",10,12,2019,7,8,48,Fordyta Abubakar,,0,DhytoDev
+619,618,Siap kaks 😬😬😬,10,12,2019,7,9,0,Dianto,,0,Dian_774
+620,616,cc kak @anfrb,10,12,2019,7,10,33,oon,,0,oonid
+621,0,Belum ad saya om 😂,10,12,2019,7,11,30,anfrb°,,0,anfrb
+622,0,Blum daftar saya,10,12,2019,7,12,27,anfrb°,,0,anfrb
+623,616,Ini npertanyaan ke kita ji seharusnya yg tinggi kemungkinan kanda 😂,10,12,2019,7,12,35,Dianto,,0,Dian_774
+624,0,share2 apk nya coba biar sama2 belajar,10,12,2019,7,16,57,ZAN,,0,
+625,0,😄,10,12,2019,7,18,7,ZAN,,0,
+626,0,"https://bit.ly/2CZsgwN\n\ntabe bisa di lirik2,, jgn di review jelek nah 😂🙏🏻",10,12,2019,7,23,46,ZAN,,0,
+627,0,"review di sini saja,, wkwk 😂",10,12,2019,7,24,24,ZAN,,0,
+628,0,Wahh sdh ada yg on air,10,12,2019,7,29,31,Dianto,,0,Dian_774
+629,0,Mantapp 👍👍👍,10,12,2019,7,29,42,Dianto,,0,Dian_774
+630,0,😇,10,12,2019,7,30,11,ZAN,,0,
+631,0,"selamat sore, mau nanya ada yang sudah pernah buat payment gateway diflutter? 😊",10,12,2019,7,37,0,,,0,
+632,0,Mantap punya... Udah pada daftar nih yg ad dlm group?,10,12,2019,7,37,24,Andi,Wijaya,0,andiwijayaid
+633,0,List dong yg dlm group ini dan masuk waiting list\nNanti dimasuklam ke daftar hadir,10,12,2019,7,37,45,Andi,Wijaya,0,andiwijayaid
+634,0,Waiting list:\n1.\n2.\n3.,10,12,2019,7,37,58,Andi,Wijaya,0,andiwijayaid
+635,634,1. Dianto\n2.,10,12,2019,7,43,10,Dianto,,0,Dian_774
+636,0,Thanks 😊,10,12,2019,7,43,22,Dianto,,0,Dian_774
+637,631,"Baru mau coba juga bro, mau pake payment gateway apa?",10,12,2019,7,44,33,Dianto,,0,Dian_774
+638,637,midtrans biasanya 😄 tapi kalau ada referensi lainta,10,12,2019,7,45,45,,,0,
+639,622,"Ituee daftarmi om, spya dapat seat",10,12,2019,7,45,47,Dianto,,0,Dian_774
+640,638,"Kalau kemudahan daftar, midtrans, kalau yg lebih banyak fungsi xendit, tp agak ketat pendaftarannya (app sdh harus ready hingga ke product) baru bisa apply full,",10,12,2019,7,47,11,Dianto,,0,Dian_774
+641,640,ya itu juga sih. banyak juga dia ambil setiap transaksi,10,12,2019,7,49,54,,,0,
+642,641,"Kayaknya kurang lebih sama ji deh,,",10,12,2019,7,51,3,Dianto,,0,Dian_774
+643,0,Bedanya xendit bisa transfer keluar,10,12,2019,7,51,33,Dianto,,0,Dian_774
+644,635,waiting list:\n\n1. Dianto\n2. Dary Kusuma\n3.,10,12,2019,7,51,46,,,0,
+645,642,"sama"" 10% 😄",10,12,2019,7,52,23,,,0,
+646,645,10% dari fee transaksi,10,12,2019,7,52,39,Dianto,,0,Dian_774
+647,645,bnyak jg tuh,10,12,2019,7,52,42,ZAN,,0,
+648,0,"Bukan 10% dari total transaksi, 😅",10,12,2019,7,53,4,Dianto,,0,Dian_774
+649,0,"Kalau mau aman, setting di midtrans atau xendit cuma aktifkan metode trf bank saja, flat Rp. 4500 sdh termasuk ppn",10,12,2019,7,56,32,Dianto,,0,Dian_774
+650,0,Biar tdk beban ke customer,10,12,2019,7,56,59,Dianto,,0,Dian_774
+651,650,nah mntab,10,12,2019,7,58,14,ZAN,,0,
+652,644,@andiwijayaid,10,12,2019,8,1,30,Dianto,,0,Dian_774
+653,644,waiting list:\n\n1. Dianto\n2. Dary Kusuma\n3. oon (belum daftar 🙈),10,12,2019,8,4,48,oon,,0,oonid
+654,0,"Daftar lah bang,",10,12,2019,8,5,41,Dianto,,0,Dian_774
+655,0,"Itu simple kok,",10,12,2019,8,5,50,Dianto,,0,Dian_774
+656,0,Tinggal login pake google atau fb 😅,10,12,2019,8,6,10,Dianto,,0,Dian_774
+657,656,oke.. oke.. malam nanti daftar ya..\n\nmoga-moga belum daftar tunggu ke-100 😂,10,12,2019,8,8,34,oon,,0,oonid
+658,653,"udah di add yah, tinggal mas @oonid yg belum dftr hahaha",10,12,2019,9,40,20,Andi,Wijaya,0,andiwijayaid
+659,658,maaf.. maaf.. baru mendaftar..\nantrian ke-60.. 🙈\n\nsadis banget ini acaranya DSC.. laku keraass..,10,12,2019,9,43,3,oon,,0,oonid
+660,0,waiting list:\n\n1. Dianto\n2. Dary Kusuma\n3. oon (belum daftar 🙈)\n4. Faiz blum dftr jg,10,12,2019,9,43,16,anfrb°,,0,anfrb
+661,660,waiting list ya kak @andiwijayaid \n\n1. Dianto (sudah ditambahkan)\n2. Dary Kusuma (sudah ditambahkan)\n3. oon\n4. Faiz (blum daftar)\n\nterima kasih,10,12,2019,9,44,23,oon,,0,oonid
+662,0,Yeyeye lalalala,10,12,2019,9,44,47,Dianto,,0,Dian_774
+663,0,udah di add mas @oonid,10,12,2019,9,44,53,Andi,Wijaya,0,andiwijayaid
+664,0,yeyeye lalala 🤣\nterima kasih kak @andiwijayaid \n\nenak juga punya kenalan orang dalam.. 🙊,10,12,2019,9,45,32,oon,,0,oonid
+665,664,#Akukenalorangdalam,10,12,2019,9,50,7,Dianto,,0,Dian_774
+666,0,,10,12,2019,9,50,56,Andi,Wijaya,0,andiwijayaid
+667,0,Hahahaha,10,12,2019,9,50,58,Andi,Wijaya,0,andiwijayaid
+668,666,🤣 keras kehidupan,10,12,2019,9,53,40,Dianto,,0,Dian_774
+669,0,1. Dianto (sudah ditambahkan)\n2. Dary Kusuma (sudah ditambahkan)\n3. oon\n4. Faiz (blum daftar)\n5. Fauzan (waitinglist),10,12,2019,9,55,15,ZAN,,0,
+670,0,😁👍,10,12,2019,10,0,46,,,0,
+671,0,sunyi bet,10,12,2019,11,38,51,ZAN,,0,
+672,0,,10,12,2019,11,39,13,ZAN,,0,
+673,0,Simpan tenaga untuk hari sabtu 🙈,10,12,2019,11,55,14,Andi,Wijaya,0,andiwijayaid
+674,0,"wkwkw, ehemm  lg ngoding  di daun cafe",10,12,2019,11,56,54,ZAN,,0,
+675,626,"Mantap.. Ini ngerjainnya sendiri?\n\nBtw, sizenya lumayan besar ya (29M).. Apakah tdk diminify ?",10,12,2019,14,11,43,Fordyta Abubakar,,0,DhytoDev
+676,675,Msih perlu pengembangan 😅🙏. Krn sendiri mknya butuh waktu lama u pengembangannya.,10,12,2019,14,42,5,ZAN,,0,
+679,0,acara flutter interact itu nanti malam ya?\n\npada streaming dari (warkop) mana? 😬,11,12,2019,13,2,7,oon,,0,oonid
+680,0,oh 50 menit lagi..\nsiapkan cemilannya.. \n\nhttps://youtu.be/n-Oqtlkerq0,11,12,2019,13,7,27,oon,,0,oonid
+681,679,Dari kamar 😂,11,12,2019,13,8,18,Dianto,,0,Dian_774
+682,0,,11,12,2019,13,58,37,,,0,
+683,0,Rundown Panjaangg\n\nhttps://developers.google.com/events/flutter-interact/schedule,11,12,2019,16,56,10,Dianto,,0,Dian_774
+684,0,"besok di acara Flutter hari sabtu,\njangan lupa ajak semua peserta untuk kasih 🌟di repo Flutter 😁\nbutuh 2K 🌟 lagi untuk melewati tetangga.. 😂",11,12,2019,18,2,10,oon,,0,oonid
+685,0,Colek @DhytoDev 😬,11,12,2019,18,2,54,Dianto,,0,Dian_774
+686,0,"Selain menonton video keynote Flutter Interact semalam di official youtube channel Flutter.\n\nBisa juga dgn membaca teks recap announcement dari Flutter 1.12, di bawah ini. \n\nIni lagi baca2, yg menarik akan dibawain hari Sabtu nanti 😁\n\nhttps://medium.com/flutter/announcing-flutter-1-12-what-a-year-22c256ba525d",12,12,2019,11,0,13,Fordyta Abubakar,,0,DhytoDev
+687,0,"versi video, rekap 5 hal dari Flutter Interact 2019\n\nhttps://youtu.be/_7kYhXEv3uQ",12,12,2019,12,26,16,oon,,0,oonid
+688,0,"Karena yg ad digroup ini adalah ""orang dalam"", pastikan cepat datang ya... Jangan sampai kehabisan tempat 🙊",12,12,2019,12,30,42,Andi,Wijaya,0,andiwijayaid
+689,688,👌🏻👌🏻🙌🏻,12,12,2019,12,37,53,Dianto,,0,Dian_774
+690,0,Nanti datang subuh2... ehh,12,12,2019,12,38,14,Dianto,,0,Dian_774
+691,688,"siaapp.. 😄\n\nkalo tempat mungkin lama habis, tapi kalo colokan listrik itu cepat habisnya 🙊",12,12,2019,13,4,25,oon,,0,oonid
+692,0,,12,12,2019,13,8,2,محمد اسدر,,0,Asdarmld
+693,0,,12,12,2019,13,8,43,محمد اسدر,,0,Asdarmld
+694,0,Takkala bermlm mki disana bro @diand_99 😂,12,12,2019,15,18,3,anfrb°,,0,anfrb
+695,694,😂 ide bagusss,12,12,2019,16,3,50,Dianto,,0,Dian_774
+696,688,dehh orang dalam 😂,12,12,2019,16,52,35,Fadli,Jaya,0,fadlyjaya
+697,684,1850 🌟 lagi Flutter lebih laku dibanding yang native-native itu.. 🙊,13,12,2019,3,39,6,oon,,0,oonid
+698,0,,13,12,2019,5,27,22,Dianto,,0,Dian_774
+699,0,,13,12,2019,7,18,14,محمد اسدر,,0,Asdarmld
+700,0,,13,12,2019,14,1,4,Andi,Wijaya,0,andiwijayaid
+701,0,Sebelum di publikasikan 😂\nLet's see the magic tomorrow,13,12,2019,14,1,8,Andi,Wijaya,0,andiwijayaid
+702,0,13 Des 2019 10.00\n28 members,13,12,2019,14,1,41,Andi,Wijaya,0,andiwijayaid
+703,0,14 Des 2019 10.00\n10 members,13,12,2019,14,2,27,,,0,
+704,0,😱,13,12,2019,14,2,28,,,0,
+705,0,,14,12,2019,2,1,12,Afdal,,0,
+706,0,,14,12,2019,2,1,14,kafri,bung,0,kafri_bung
+707,0,,14,12,2019,2,1,27,,,0,
+708,0,,14,12,2019,2,1,34,Gabriel,Hozana,0,gabrielhozana
+709,0,,14,12,2019,2,2,2,M. Zulfahmi,Sadrah,0,zulfahmisadrah
+710,0,,14,12,2019,2,2,21,Bibo,,0,Bibomoe
+711,0,,14,12,2019,2,2,22,M suryadi,Triputra,0,Msuryaditriputra
+712,0,,14,12,2019,2,2,31,Ahmad,Muflih,0,muflih0195
+713,0,,14,12,2019,2,2,36,Kennedy,,0,
+714,0,,14,12,2019,2,2,39,Arsyi,Aziz,0,ArsyiAziz
+715,0,,14,12,2019,2,2,42,sumitro,,0,
+716,0,,14,12,2019,2,2,51,Rabiuldien,,0,Rabiuldien
+717,0,,14,12,2019,2,3,3,Sony,Lembang,0,yukiao19
+718,0,,14,12,2019,2,3,7,,,0,
+719,0,,14,12,2019,2,3,22,Suci,Ramadhani,0,suciramadhanirauf
+720,0,,14,12,2019,2,4,10,ToKu - イクサン,,0,ToKu404
+721,0,,14,12,2019,2,46,54,Ali,,0,aliasgarzainalabidin
+722,0,,14,12,2019,2,51,36,ZAN,,0,
+723,0,"web ini dibuat pakai Flutter web, open source, bisa cek kodenya..\n\nweb menampilkan jumlah 🌟 dari Flutter dan cross-platform framework lainnya..\n\nhttps://jhbitencourt.github.io/stars-race/",14,12,2019,3,0,21,oon,,0,oonid
+724,0,,14,12,2019,3,6,14,Suci,Ramadhani,0,suciramadhanirauf
+725,0,,14,12,2019,3,43,5,Andi,Wijaya,0,andiwijayaid
+726,0,Jangan sampai ketinggalan ya!\n\nHadiahnya kelas flutter berbayar di http://appbrewery.co,14,12,2019,3,43,41,Andi,Wijaya,0,andiwijayaid
+727,0,,14,12,2019,3,44,29,Dianto,,0,Dian_774
+728,0,,14,12,2019,3,45,44,Kevin,Jordi,0,kevinjordi
+729,0,Sampai jam brp bro @diand_99 ?,14,12,2019,3,46,4,anfrb°,,0,anfrb
+730,0,,14,12,2019,3,46,59,fr,,0,farhanramdhani
+731,0,,14,12,2019,3,47,55,strabiatul,,0,jinuvi
+732,729,"Otw saja broo,,  😁",14,12,2019,3,48,35,Dianto,,0,Dian_774
+733,0,,14,12,2019,3,48,57,Rizky,Alfiansyah,0,rizkyalfnsyah
+734,0,,14,12,2019,3,48,59,Mujahid Abdillah,ㅤ,0,mj3smile
+735,670,Sampai ini kyknya bro @anfrb,14,12,2019,3,49,9,Dianto,,0,Dian_774
+736,0,😂,14,12,2019,3,49,24,anfrb°,,0,anfrb
+737,0,Siap makasih om,14,12,2019,3,50,7,anfrb°,,0,anfrb
+738,0,,14,12,2019,3,50,52,,,0,
+739,0,,14,12,2019,3,52,26,Ichsanul,Alifwan,0,ichsanulalifwan
+740,0,,14,12,2019,3,53,16,.,,6282393139115,wooky_01
+741,0,ad sesi sharing startup2 ini  😂,14,12,2019,3,53,40,ZAN,,0,
+742,0,,14,12,2019,3,54,14,Gilbert,HG,0,GilbertHG
+743,741,"habis ini broo, mari2.... 😁",14,12,2019,3,54,20,Dianto,,0,Dian_774
+744,0,Merapat hahaha...,14,12,2019,3,55,17,Andi,Wijaya,0,andiwijayaid
+745,0,hahay,14,12,2019,3,58,34,ZAN,,0,
+746,0,siapp,14,12,2019,3,58,41,ZAN,,0,
+747,0,,14,12,2019,4,0,6,rfr,,0,raflifr80
+748,0,,14,12,2019,4,5,24,,,0,
+749,0,,14,12,2019,4,6,52,Diki,Siswanto,0,dikisiswanto
+750,0,,14,12,2019,4,8,23,Fery,,0,
+751,0,,14,12,2019,4,9,6,AzwaR,,0,azwarbahar
+752,0,,14,12,2019,4,14,23,NasgorDev,,0,fianputra157
+753,0,,14,12,2019,4,17,7,Yusril,,0,yysrll
+754,0,,14,12,2019,4,21,43,Rahmat,Hidayat HM,0,rahmathm
+755,0,,14,12,2019,4,24,21,rival,,0,rvl_o
+756,0,,14,12,2019,4,32,43,Muhammad,Musyawir,0,mmusyawir
+757,0,,14,12,2019,4,33,56,Nurul,Haerunnisa,0,holahaerunnisainhere
+758,0,,14,12,2019,4,35,49,Arjun,Sutrisno,0,junaarjunx
+759,0,,14,12,2019,4,39,27,Rizky,Arlin,0,rizkyarlin
+760,0,Alhamdullilah dah slesai,14,12,2019,4,58,32,ZAN,,0,
+761,0,,14,12,2019,4,58,58,Ninda,Dwiyana,0,nindadwiyana
+762,0,,14,12,2019,4,59,35,Rinn 🌸,,0,eyyooitsmerinn
+763,741,Gmn ini hha,14,12,2019,5,0,0,ZAN,,0,
+764,0,Share foto2 yg tdi tawwa,14,12,2019,5,0,18,Dianto,,0,Dian_774
+765,763,Mari2,14,12,2019,5,0,22,Dianto,,0,Dian_774
+766,0,Msih d lantai 2 ini duduk2,14,12,2019,5,3,48,ZAN,,0,
+767,0,Hehe,14,12,2019,5,3,49,ZAN,,0,
+768,0,,14,12,2019,5,19,13,Nurkhaliq Futhra Maulana,,0,ComputerPhysics
+769,0,,14,12,2019,5,24,14,Musfirah,,0,fira301
+770,0,,14,12,2019,5,25,58,Adhy08 |,ONext,0,Adhy08
+771,0,Kpan lgi ada acarax nih kakanda semua ? Maaf bru gabung !🙏,14,12,2019,5,27,41,Adhy08 |,ONext,0,Adhy08
+772,0,,14,12,2019,5,30,9,Nasrullah M. Haris,,0,NasroelLah
+773,0,,14,12,2019,5,40,6,,,0,
+774,0,,14,12,2019,5,40,8,,,0,
+775,0,,14,12,2019,5,41,7,,,0,
+776,0,salam kenal semua,14,12,2019,5,42,47,,,0,
+777,0,Salam kenal,14,12,2019,5,49,17,,,0,
+778,0,,14,12,2019,5,50,23,fathul,,0,
+779,0,,14,12,2019,5,50,27,Muhammad Rifki,,0,Myrif21
+780,0,,14,12,2019,5,57,33,与金,,0,hyugenius
+781,0,,14,12,2019,5,59,20,Andy,Adrian,0,andhy25
+782,0,,14,12,2019,6,0,29,Awhal,nano,0,Aksa1503
+783,0,,14,12,2019,6,11,27,G-,Boys,0,imahobbit
+784,0,,14,12,2019,6,13,24,Elisa,Altasani,0,eltasni01
+785,0,,14,12,2019,6,13,44,Abdul,Rahim,0,abdul_rahim_s
+786,0,,14,12,2019,6,14,4,Asmira,Sari,0,asmirasari10
+787,0,,14,12,2019,6,14,32,,,0,
+788,0,,14,12,2019,6,19,33,Apriandi,,0,Apriand
+789,0,,14,12,2019,6,22,46,Irfan,RZ,0,IrfanRZ
+790,0,,14,12,2019,6,29,9,Monkey,D Luffy,0,luffyDMonkey55
+791,771,colek @andiwijayaid 😁,14,12,2019,6,32,12,Dianto,,0,Dian_774
+792,0,Dipantau sj groupx...\nFollow ig dsc_unhas dsc.uinam,14,12,2019,6,34,19,Andi,Wijaya,0,andiwijayaid
+793,0,,14,12,2019,6,36,44,Ainurr,,0,ainurx_78
+794,0,Foto acara tadi pagi:\nhttps://photos.app.goo.gl/LxhpgQRZB58oWA1F6,14,12,2019,6,37,52,Andi,Wijaya,0,andiwijayaid
+795,0,,14,12,2019,6,44,54,Muhammad,Rahmatullah,0,muhrahmatullah
+796,0,,14,12,2019,6,46,7,Amalia,Ayu,0,
+797,0,,14,12,2019,6,48,8,Den,Mas,0,RadenMas99
+798,0,,14,12,2019,6,53,17,Netizen,,0,netizenns
+799,0,,14,12,2019,6,54,11,,,0,
+800,0,,14,12,2019,6,57,32,Fae_ra,,0,Fae00
+801,0,,14,12,2019,7,29,16,Nurhidayah,,0,
+802,0,2 lagi kita menyentuh angka 100,14,12,2019,7,31,7,Andi,Wijaya,0,andiwijayaid
+803,0,berapa lagi starnya bisa lewati tetangga ? haha,14,12,2019,7,31,41,Fitrah,Muhammad,0,fitrh
+804,803,kurang 1k hehe,14,12,2019,7,32,22,ZAN,,0,
+805,0,😂,14,12,2019,7,32,41,anfrb°,,0,anfrb
+806,0,Jgn ribut2 lg acara tetangga,14,12,2019,7,32,54,Andi,Wijaya,0,andiwijayaid
+807,0,😂,14,12,2019,7,33,22,ZAN,,0,
+808,0,haha msih slisih 1700 trnyata,14,12,2019,7,35,19,Fitrah,Muhammad,0,fitrh
+809,0,sudah dihitungkan di sini 😬\n\nhttps://piedcipher.github.io/hasFlutterPassedReactNativeYet/,14,12,2019,7,45,9,oon,,0,oonid
+810,0,1699,14,12,2019,7,45,29,oon,,0,oonid
+811,0,,14,12,2019,8,0,45,Cici Madinah,,0,CiMadd
+812,794,"Wih, seandainya...",14,12,2019,8,10,12,Dercology,,0,dercology
+813,0,,14,12,2019,8,46,29,Tiyan Attirmidzi,,0,onggolt
+814,813,🥳🥳🥳🥳,14,12,2019,8,49,37,Dianto,,0,Dian_774
+815,0,"Selamat datang semuanya,,,  😁",14,12,2019,8,50,32,Dianto,,0,Dian_774
+816,0,,14,12,2019,8,50,48,,,0,
+817,0,,14,12,2019,9,23,14,Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,0,profLingu
+818,0,,14,12,2019,9,52,54,Musa,Amin,0,musaamin
+819,0,,14,12,2019,9,57,6,Hilda,,0,
+820,0,Welcome semuanya kawan 👋😉,14,12,2019,9,58,37,Fadli,Jaya,0,fadlyjaya
+821,0,widih..udah 104 member,14,12,2019,10,0,45,Fadli,Jaya,0,fadlyjaya
+822,0,👍,14,12,2019,10,7,59,,,0,
+823,821,Selamat berkarya.. 😁🥳,14,12,2019,10,11,30,Dianto,,0,Dian_774
+824,823,siap mastah 😁,14,12,2019,10,13,16,Fadli,Jaya,0,fadlyjaya
+825,0,,14,12,2019,10,17,10,Nurul,litha,0,
+826,0,,14,12,2019,10,46,53,Hasrul,,0,Hasrul_BS3
+827,0,,14,12,2019,12,47,31,Zulqifli,Tahir,0,zulqifli_ht
+828,0,"Yang malam minggunya cmn sama Flutter + Dart, selamat kita satu server",14,12,2019,12,58,54,Dercology,,0,dercology
+829,0,😄😄😄😄,14,12,2019,13,0,21,Adhy08 |,ONext,0,Adhy08
+830,828,"Mantaapp, sekalian live streaming,, 😁😁",14,12,2019,13,7,34,Dianto,,0,Dian_774
+831,0,Tutorial kak😅,14,12,2019,13,8,17,,,0,
+832,0,,14,12,2019,13,31,4,,,0,
+833,0,"aplikasi flutter apa yang udah lengkap (open source),\nyang cukup mudah dicontoh.. dipelajari..",14,12,2019,13,39,12,oon,,0,oonid
+834,833,"Mungkin yg app resep om, tdk lengkap sih, cmn lumayan jauh karna sdh sampai implementasi API,",14,12,2019,14,26,21,Dianto,,0,Dian_774
+835,0,"Halo. Jika ada yg merasa kacamatanya ketinggalan di Warunk UpNormal lt.2 hari ini, ada disimpan di kasir lt.2 ya. Trims.",14,12,2019,14,29,26,Dianto,,0,Dian_774
+836,0,https://github.com/flutter/flutter_clock\n\n👍🏻,14,12,2019,14,32,12,ZAN,,0,
+837,833,"https://github.com/brianegan/flutter_architecture_samples\naplikasi todolist kak dgn contoh state management, dari yg vanilla flutter sampai yg pake thirdparty ada",14,12,2019,14,36,24,Fitrah,Muhammad,0,fitrh
+838,833,https://flutter.dev/docs/development/data-and-backend/state-mgmt/options,14,12,2019,14,45,40,Muhammad,Rahmatullah,0,muhrahmatullah
+839,0,makasih kakak-kakak.. akan segera dicek.. 😆,14,12,2019,14,53,53,oon,,0,oonid
+840,0,,14,12,2019,15,26,24,Andi,Wijaya,0,andiwijayaid
+841,0,,14,12,2019,15,26,24,Andi,Wijaya,0,andiwijayaid
+842,0,Wah 😍...,14,12,2019,15,26,35,Andi,Wijaya,0,andiwijayaid
+843,834,"eh salah, mksdnya movie app om @oonid kurang fokus, https://github.com/roughike/inKino \n\nkalau untuk pelajari banyak widget sekaligus koneksi ke backend, ini udah lumayan sih, dikemas dalam 1 aplikasi, sdh ada contoh automated testingnya juga..",14,12,2019,15,30,3,Dianto,,0,Dian_774
+844,841,kykynya yg lain bisa ikut ramaikan juga di twitter haha,14,12,2019,15,30,36,Fitrah,Muhammad,0,fitrh
+845,843,kalo inKino pernah nyoba..\nhahah kompleks banget 🙈,14,12,2019,15,30,44,oon,,0,oonid
+846,0,,14,12,2019,15,30,46,Andi,Wijaya,0,andiwijayaid
+847,0,,14,12,2019,15,30,47,Andi,Wijaya,0,andiwijayaid
+848,0,Double kill... 👍,14,12,2019,15,30,53,Andi,Wijaya,0,andiwijayaid
+849,840,👍👍👍,14,12,2019,15,31,22,Dianto,,0,Dian_774
+850,848,bentar lagi muncul Sundar Pichai..😁,14,12,2019,15,33,21,Dianto,,0,Dian_774
+851,844,"otw,,,",14,12,2019,15,35,3,Dianto,,0,Dian_774
+852,0,siapa tau dinotice sama @FlutterDev,14,12,2019,15,35,35,Fitrah,Muhammad,0,fitrh
+853,852,Langsung buka kantor cabang makassar di'?,14,12,2019,15,36,8,Dianto,,0,Dian_774
+854,845,"yaaa, namanya 1 app lengkap paket komplit,,,",14,12,2019,15,40,50,Dianto,,0,Dian_774
+855,0,,14,12,2019,15,41,0,Dianto,,0,Dian_774
+856,0,Sapitto mami.... 😂,14,12,2019,15,47,52,Andi,Wijaya,0,andiwijayaid
+857,0,,14,12,2019,21,55,49,Hamzah,Abdullah,0,Almarozy
+858,0,,15,12,2019,9,25,36,,,0,
+859,0,"Yang kemarin dapat hadiah dan belum daftar emailnya, tolong PC saya ya. Mau dikirim **piring cantiknya**",15,12,2019,12,13,11,Andi,Wijaya,0,andiwijayaid
+860,0,🙊,15,12,2019,12,26,0,oon,,0,oonid
+861,859,"Hmmmm, 😅",15,12,2019,14,9,59,Dianto,,0,Dian_774
+862,0,flutter base dmn ini? hehe masa upnormal 😁,15,12,2019,14,48,30,ZAN,,0,
+863,0,"#survey Klo bikin event flutter lagi, topik apa yg menarik dibahas?",15,12,2019,14,50,39,Fordyta Abubakar,,0,DhytoDev
+864,0,"hands-on tapi kodenya sudah dikasih sebelum acara..\njadi bisa dicoba-coba..\n\nsatu contoh aplikasi ""lengkap"" sih menarik.. ada list, ada detail, ada halaman depan.",15,12,2019,14,53,10,oon,,0,oonid
+865,0,Lebih bagus lagi klo yg mengusulkan topik bersedia menjadi narasumber/tutor dari topik tsb 🙊,15,12,2019,14,53,50,Fordyta Abubakar,,0,DhytoDev
+866,865,sejutu 👍,15,12,2019,14,54,0,,,0,
+867,863,😂,15,12,2019,14,54,1,Dianto,,0,Dian_774
+868,0,Setuju,15,12,2019,14,54,11,anfrb°,,0,anfrb
+869,865,baru mau mengusulkann.... 😂,15,12,2019,14,54,38,Dianto,,0,Dian_774
+870,0,mundur perlahannn.. 😂,15,12,2019,14,54,50,Dianto,,0,Dian_774
+871,865,langsung sunyi survey nya 😂,15,12,2019,14,55,1,oon,,0,oonid
+872,869,aku sudah terlambat mundur 🙈,15,12,2019,14,55,28,oon,,0,oonid
+873,0,Hahahaha,15,12,2019,14,55,47,Fordyta Abubakar,,0,DhytoDev
+874,864,"tadi sudah ngetik ini,,  untung belum tekan enter.. 😂",15,12,2019,14,55,58,Dianto,,0,Dian_774
+875,874,apa aku hapus aja ya .. 😆,15,12,2019,14,56,18,oon,,0,oonid
+876,0,Jadi ingat wejanganx om Riza Fahmi dan tante Anne... 😂,15,12,2019,14,57,15,Andi,Wijaya,0,andiwijayaid
+877,0,Apa lg yg sdh dpt kelas gratis... Bolehlah di share knowledge barux 🙈,15,12,2019,14,57,56,Andi,Wijaya,0,andiwijayaid
+878,876,😂,15,12,2019,14,58,7,Dianto,,0,Dian_774
+879,864,"Nah, menarik sih ini. \n\nMulai dari app yg sederhana aja dulu kali ya. Misal : fokus ke penggunaan widget aja dulu. Jadi, fokusnya ke membuat tampilannya saja.",15,12,2019,14,59,12,Fordyta Abubakar,,0,DhytoDev
+880,879,waktu itu ada yang sudah jago buat tampilannya di grup ini..\n\nbentar skrol dulu.. 🙊,15,12,2019,14,59,47,oon,,0,oonid
+881,879,UI penting tuh,15,12,2019,15,0,25,ZAN,,0,
+882,881,"Iya, dan memang flutter ""branding""nya UI toolkit sih 😂",15,12,2019,15,1,10,Fordyta Abubakar,,0,DhytoDev
+883,880,colekk @anfrb 😁,15,12,2019,15,1,15,Dianto,,0,Dian_774
+884,0,ato buat animasi ckckc,15,12,2019,15,1,16,ZAN,,0,
+885,0,😢,15,12,2019,15,2,1,anfrb°,,0,anfrb
+886,0,Walaupun sebenarnya selama ini sy lebih senang mengoprek dari sisi arsitektur dan state management 😂,15,12,2019,15,2,12,Fordyta Abubakar,,0,DhytoDev
+887,0,"yg gini nih,, mikir flutternya gmn T_T",15,12,2019,15,4,10,ZAN,,0,
+888,879,"yaa paling tidak peserta kalau selesai kelas sdh bisa buat 1 halaman dengan beberapa widget yg umum digunakan,.",15,12,2019,15,4,12,Dianto,,0,Dian_774
+889,0,"Klo UI suka bingung mau bikin apa, kecuali sdh ada design mockupnya. Ada yg mau menyumbangkan design? 😁",15,12,2019,15,4,57,Fordyta Abubakar,,0,DhytoDev
+890,886,"tdk apa2 ji kak,, kami siap ji mengikutii kemana saja.. 😁",15,12,2019,15,5,2,Dianto,,0,Dian_774
+891,889,"design apa nih,, ku up eksekusi",15,12,2019,15,5,33,ZAN,,0,
+892,889,banyak di dribble sama pinterest kaks 😁,15,12,2019,15,6,8,Dianto,,0,Dian_774
+893,0,enak pke supernova tp knp hrus di ios T_T,15,12,2019,15,6,9,ZAN,,0,
+894,891,Apa aja.. Yg bisa dijadiin challenge 😁,15,12,2019,15,6,29,Fordyta Abubakar,,0,DhytoDev
+895,887,kenapa ini bro?,15,12,2019,15,7,0,Dianto,,0,Dian_774
+896,894,seru ini kalau dibikin challenge kak 😁👍,15,12,2019,15,7,9,,,0,
+897,877,ini juga menarik sih..\n\nkelasnya itu disusun oke banget..\n\nsalah satu percobaannya bisa nonton bareng lalu coding bareng dari materi videonya..,15,12,2019,15,7,10,oon,,0,oonid
+898,894,setujuu,15,12,2019,15,7,53,Dianto,,0,Dian_774
+899,0,"Bagus juga, bikin flutter UI Challenge. Nanti masing-masing peserta disuruh presentasi 😛",15,12,2019,15,8,13,Fordyta Abubakar,,0,DhytoDev
+900,0,"jadi habis materi dan latihan bikin challenge, balapan bikin mockup yang dikasih",15,12,2019,15,8,20,Dianto,,0,Dian_774
+901,897,@fitrh siap katanya...,15,12,2019,15,8,32,Andi,Wijaya,0,andiwijayaid
+902,900,kren nih,15,12,2019,15,8,46,ZAN,,0,
+903,0,Mungkin ad mw menyumbang tmpt... Hahaha,15,12,2019,15,8,50,Andi,Wijaya,0,andiwijayaid
+904,903,tmpat nya hrus besar ini haha,15,12,2019,15,10,54,ZAN,,0,
+905,0,"Nah, sdh banyak opsi cara belajar tuh. Makin banyak metode, menurutku bagus sih.",15,12,2019,15,11,14,Fordyta Abubakar,,0,DhytoDev
+906,0,Sebagai upaya mendukung #MerdekaBelajar,15,12,2019,15,11,28,Fordyta Abubakar,,0,DhytoDev
+907,0,"spesifikasi tempat ini apa cukup meja-kursi, colokan listrik, dan proyektor? 🤔",15,12,2019,15,12,41,oon,,0,oonid
+908,903,upnormal again? 😄,15,12,2019,15,12,49,,,0,
+909,908,Mahal 😂,15,12,2019,15,13,3,Fordyta Abubakar,,0,DhytoDev
+910,909,😂😂😂,15,12,2019,15,13,18,Andi,Wijaya,0,andiwijayaid
+911,908,mahal(2),15,12,2019,15,13,31,Dianto,,0,Dian_774
+912,0,kalau kerjasama dengan kampus lagi bagaimana?,15,12,2019,15,13,59,Dianto,,0,Dian_774
+913,0,LT nya unhas andi...,15,12,2019,15,14,32,Rizky,Arlin,0,rizkyarlin
+914,912,Yg penting siap jalan-jalan ke Gowa. Unhas dan UIN bisa sih 😂,15,12,2019,15,14,32,Fordyta Abubakar,,0,DhytoDev
+915,0,atas nama dsc ko bersurat kemarin kah itu @andiwijayaid ?,15,12,2019,15,14,46,Rizky,Arlin,0,rizkyarlin
+916,915,"Ia... Susah dapat izin kalau umum, biasax perlu bayar apa lagi akhir pekan",15,12,2019,15,15,43,Andi,Wijaya,0,andiwijayaid
+917,916,kerjasama sama coder sj,15,12,2019,15,16,4,Rizky,Arlin,0,rizkyarlin
+918,0,nanti sy kasih tau ketuanya,15,12,2019,15,16,12,Rizky,Arlin,0,rizkyarlin
+919,0,Awal perkuliahan katax coder baru bisa jalan...,15,12,2019,15,16,46,Andi,Wijaya,0,andiwijayaid
+920,0,Om2 disini udah pada gatal ingin belajar 😂,15,12,2019,15,17,10,Andi,Wijaya,0,andiwijayaid
+921,907,yang penting sih muat banyak dan kondusif om...,15,12,2019,15,17,21,Dianto,,0,Dian_774
+922,921,duh.. banyak itu berapa.. 🙈\n\nkalo kayak acara kemarin susah sih.. 100 orang.. 😅,15,12,2019,15,18,16,oon,,0,oonid
+923,922,😂,15,12,2019,15,18,28,Dianto,,0,Dian_774
+924,0,sewa ruko ? ummm,15,12,2019,15,18,59,ZAN,,0,
+925,920,"jadi nanti awal tahun buat resolusi 2020,\npunya aplikasi mobile 😂",15,12,2019,15,19,12,oon,,0,oonid
+926,0,Sewa di hotel,15,12,2019,15,19,37,anfrb°,,0,anfrb
+927,925,amin,15,12,2019,15,19,53,ZAN,,0,
+928,925,"Resolusi saya : Kebalik, mau punya aplikasi web 🙊",15,12,2019,15,19,58,Fordyta Abubakar,,0,DhytoDev
+929,926,"deh ngerii,, belum ada sponsor yang daftar omm... siapatau mau jadi sponsorr",15,12,2019,15,20,8,Dianto,,0,Dian_774
+930,926,Claro Makassar - (62-411) 833 888,15,12,2019,15,20,15,Rizky,Arlin,0,rizkyarlin
+931,928,Yayayaya 😂,15,12,2019,15,20,16,Andi,Wijaya,0,andiwijayaid
+932,0,Flutter web,15,12,2019,15,20,29,Andi,Wijaya,0,andiwijayaid
+933,0,Ngeri-ngeri usulan tempatnya 😂,15,12,2019,15,20,54,Fordyta Abubakar,,0,DhytoDev
+934,0,ngeri2 sedapp,15,12,2019,15,21,8,Dianto,,0,Dian_774
+935,0,😂,15,12,2019,15,21,12,Dianto,,0,Dian_774
+936,0,😂,15,12,2019,15,21,31,anfrb°,,0,anfrb
+937,0,"Saya menganggap, yg memberi usul tempat berarti bersedia menyediakan tempatnya sih 🙊",15,12,2019,15,21,33,Fordyta Abubakar,,0,DhytoDev
+938,937,nah siapa mi td itu yg sarankan di hotel...,15,12,2019,15,21,59,Rizky,Arlin,0,rizkyarlin
+939,0,🙈,15,12,2019,15,22,3,Rizky,Arlin,0,rizkyarlin
+940,926,up 😂,15,12,2019,15,22,20,,,0,
+941,936,"atau tanya mi pak andrew minta acc ke pak gub bro,, tdk goyang ituu.. 😁",15,12,2019,15,23,14,Dianto,,0,Dian_774
+942,926,Tgg om Sundar Pichai retweet dlu...,15,12,2019,15,23,24,Andi,Wijaya,0,andiwijayaid
+943,0,bisa ini flutter mksr buat wadah kyk Makassar Digital Valley,15,12,2019,15,25,52,ZAN,,0,
+944,0,bisa ini diaulanya telkom @ooccan 😂,15,12,2019,15,25,56,,,0,
+945,0,Ndk lebih ji jg 6 jam kegiatanx.,15,12,2019,15,25,59,anfrb°,,0,anfrb
+946,943,terbatas jamnya MDV bro,15,12,2019,15,26,49,Dianto,,0,Dian_774
+947,0,durasi mksdnya,15,12,2019,15,27,5,Dianto,,0,Dian_774
+948,943,"Buat wadah, maksudnya bikin gedung kayak MDV? 🙊",15,12,2019,15,27,5,Fordyta Abubakar,,0,DhytoDev
+949,0,Data centernya Pemprov.,15,12,2019,15,27,22,anfrb°,,0,anfrb
+950,948,nah btul,15,12,2019,15,27,34,ZAN,,0,
+951,0,Command Center ple😂,15,12,2019,15,27,42,anfrb°,,0,anfrb
+952,0,gmn itu caranya haha,15,12,2019,15,27,42,ZAN,,0,
+953,949,yang di lantai 4 bisa di pake kah?,15,12,2019,15,27,49,Dianto,,0,Dian_774
+954,0,kayaknya ada tempat itu diaulanya telkom. yg tempatnya dulu hackathon @ooccan,15,12,2019,15,28,2,,,0,
+955,952,"Iya sp tw ad yg pux ""orang dalam""",15,12,2019,15,28,13,Andi,Wijaya,0,andiwijayaid
+956,954,"mungkin bisa klo acara2 resmi,,  tp yg feksibel lbih baik, bisa pke acara maupun tmpat blajar bebas santuy",15,12,2019,15,29,56,ZAN,,0,
+957,0,,15,12,2019,15,31,10,anfrb°,,0,anfrb
+958,955,kekuatan orng dalam ckckc,15,12,2019,15,31,10,ZAN,,0,
+959,957,tegangna -_-,15,12,2019,15,31,29,ZAN,,0,
+960,0,Nanti melntai saja spya ndk tegang,15,12,2019,15,31,52,anfrb°,,0,anfrb
+961,0,😂,15,12,2019,15,32,0,anfrb°,,0,anfrb
+962,0,,15,12,2019,15,32,14,ZAN,,0,
+963,0,😁,15,12,2019,15,32,19,ZAN,,0,
+964,957,Ini dmn?,15,12,2019,15,32,25,Fordyta Abubakar,,0,DhytoDev
+965,957,wetss ada team si sayap kanan... 😁,15,12,2019,15,32,47,Dianto,,0,Dian_774
+966,0,*di,15,12,2019,15,33,2,Dianto,,0,Dian_774
+967,964,"bantu jawab, *command centre pemprov sulsel",15,12,2019,15,34,34,Dianto,,0,Dian_774
+968,0,KIRA2 KALAU PAKE HTM ADA YANG DAFTAR TIDAK YAAAAA....,15,12,2019,15,36,8,Dianto,,0,Dian_774
+969,0,*capslock jebol,15,12,2019,15,36,17,Dianto,,0,Dian_774
+970,0,ngegas om wkwkw,15,12,2019,15,36,40,ZAN,,0,
+971,967,"Oh, belum pernah main ke Pemprov 😂\n\nCuma pernah liat di yutub, desain lobinya keren hehe\n\nTerbuka untuk umumkah ruangan di sana?",15,12,2019,15,36,51,Fordyta Abubakar,,0,DhytoDev
+972,0,nanti sisa dananya sebagai doorprice untuk yang menang challenge.. *ehh,15,12,2019,15,37,15,Dianto,,0,Dian_774
+973,0,😁,15,12,2019,15,37,20,Dianto,,0,Dian_774
+974,971,"Command centre sih tidak,",15,12,2019,15,37,47,Dianto,,0,Dian_774
+975,968,bagus juga kalau pke htm kak,15,12,2019,15,37,50,,,0,
+976,972,"kalau lobi yang di bawah itu baruga, umum sih klo tdk salah",15,12,2019,15,38,34,Dianto,,0,Dian_774
+977,0,"Btw, main-main ke Command Center Pemrov, apakah om-om ini tim ITnya Pemprov?",15,12,2019,15,38,56,Fordyta Abubakar,,0,DhytoDev
+978,0,Nanti z coba tanykn sm org dalam 😂,15,12,2019,15,39,28,anfrb°,,0,anfrb
+981,979,temannyaki kak nasir toh? 😄,15,12,2019,15,40,41,,,0,
+985,983,mntab memang tawwa,15,12,2019,15,42,18,ZAN,,0,
+987,981,Kayax z blum kebal,15,12,2019,15,42,40,anfrb°,,0,anfrb
+988,0,N,15,12,2019,15,42,44,anfrb°,,0,anfrb
+989,0,tenang mi flutter mksr ☺️,15,12,2019,15,42,47,ZAN,,0,
+990,0,Terxta ini mi org dalam 😂,15,12,2019,15,43,7,Andi,Wijaya,0,andiwijayaid
+991,0,astaga beralih mki keflutter di kak @anfrb 😄,15,12,2019,15,44,1,,,0,
+992,990,the real insider 😂,15,12,2019,15,44,17,ZAN,,0,
+995,993,"Brb, search di playstore 🙈",15,12,2019,15,47,52,Fordyta Abubakar,,0,DhytoDev
+996,993,pake flutter?,15,12,2019,15,48,28,,,0,
+997,0,eh ilang 😄,15,12,2019,15,48,55,,,0,
+998,0,Baru tau ada aplikasi aduan pemprov sulsel.. Maafkan diriku om 😂,15,12,2019,15,49,22,Fordyta Abubakar,,0,DhytoDev
+999,998,wduh bru kepikir sdh ad,15,12,2019,15,49,49,ZAN,,0,
+1000,0,😂,15,12,2019,15,50,25,Dianto,,0,Dian_774
+1001,0,1 aplikasi untuk seluruh pemrov di indonesia 🤔,15,12,2019,15,50,29,ZAN,,0,
+1002,0,aplikasi penyedia tempat workshop atau seminar 😎,15,12,2019,15,52,14,,,0,
+1003,1001,"kalau ini sih qlue, tp belum semua",15,12,2019,15,53,46,Dianto,,0,Dian_774
+1004,0,"Berarti, nanti bisa lah ya om @anfrb jadi tuan rumah sekaligus tutor kita 😁",15,12,2019,15,55,27,Fordyta Abubakar,,0,DhytoDev
+1005,1003,msih kemungkinan brrti hehe,15,12,2019,15,56,48,ZAN,,0,
+1006,1004,"Saya masih newbie om, ndk enak sm senior2 😬",15,12,2019,15,59,52,anfrb°,,0,anfrb
+1007,0,pahlawan tanpa tanda error,15,12,2019,16,1,40,,,0,
+1008,1006,Kan itu sdh pernah bikin app baruga sulsel.. Bisa dong dibagi pengalamannya 😁,15,12,2019,16,3,6,Fordyta Abubakar,,0,DhytoDev
+1009,1007,doi,15,12,2019,16,5,0,ZAN,,0,
+1010,0,"Klo yg sdh punya app nangkring di playstore, tp ngaku newbie, yg baru bisa bikin hello world apa dong 🙊",15,12,2019,16,5,16,Fordyta Abubakar,,0,DhytoDev
+1011,1010,adami juga diapp store kah kak?,15,12,2019,16,7,8,,,0,
+1013,0,https://cdn.dribbble.com/users/4560281/screenshots/9051573/media/e45386b88cad4cd6e1f9360ce6b46706.jpg,15,12,2019,16,47,14,Dianto,,0,Dian_774
+1014,1013,ini mockup silahkan jadikan acuan belajar 😁,15,12,2019,16,47,59,Dianto,,0,Dian_774
+1015,0,,16,12,2019,3,37,0,Yudha Islami,Sulistya,0,yudhaislamisulistya
+1016,1013,Jd ad mi versi flutternya ini 🙄😆,16,12,2019,4,25,12,ZAN,,0,
+1017,1016,"Bikin mi toohh haha,",16,12,2019,6,43,57,Dianto,,0,Dian_774
+1018,0,Itu cuma mockup,16,12,2019,6,44,14,Dianto,,0,Dian_774
+1019,0,,16,12,2019,8,25,53,ZAN,,0,
+1020,0,ada yang punya refernsi hunbungkan node.js backend dengan flutter sudah cari tapi tidak lengkap2 ?,16,12,2019,10,50,49,,,0,
+1021,1020,Terhubung nya melalui rest API?,16,12,2019,10,54,32,Rahmat,Hidayat HM,0,rahmathm
+1022,0,terhubung bgmna kak ?,16,12,2019,10,54,40,Fitrah,Muhammad,0,fitrh
+1023,1021,iya,16,12,2019,11,9,37,,,0,
+1024,0,kayak android dan php,16,12,2019,11,9,57,,,0,
+1025,0,https://flutter.dev/docs/cookbook/networking/fetch-data\n\nCobaki bde baca² ini,16,12,2019,11,11,3,Rahmat,Hidayat HM,0,rahmathm
+1026,0,Sama aja om.. \ncari tutorial buat rest api dgn node js.\nTerus cari tutorial pakai library http client untuk flutter.,16,12,2019,11,11,5,Andi,Wijaya,0,andiwijayaid
+1027,0,Kalau mau cari sekaligus node.js + flutter mungkin agak sulit didpt,16,12,2019,11,11,31,Andi,Wijaya,0,andiwijayaid
+1028,1026,berarti main2 di json kyk php ya om ?,16,12,2019,11,12,7,,,0,
+1029,1028,Iya betul... Sama aja konsepx,16,12,2019,11,12,21,Andi,Wijaya,0,andiwijayaid
+1030,1025,thanks om,16,12,2019,11,12,35,,,0,
+1031,0,,16,12,2019,11,39,21,Alief,KR,0,
+1032,0,adain challange buat UI di flutter ntar di upload di github dan di share di sini gmn ?,17,12,2019,10,8,24,,,0,
+1033,1032,"Kayaknya kurang greget kalau online, kecuai ada hadiahnya... :3\n\nTp kalau mau share hasil karya aja monggo sih,, 👍🏻",17,12,2019,10,53,4,Dianto,,0,Dian_774
+1034,1033,iya sih tapi saya ikut kursus udemy kebanyakan moderatronya buat #100dayscodechallange 😊😁,17,12,2019,11,3,47,,,0,
+1035,1033,ok,17,12,2019,11,3,53,,,0,
+1036,1034,Tdk ada rewardnya? (Reward tdk melulu berupa duit),17,12,2019,11,5,4,Dianto,,0,Dian_774
+1037,1036,😂😂😂😂 ok mas,17,12,2019,12,11,20,,,0,
+1038,0,"Wah, mantap itu klo ada yg mau menantang diri dgn UI Challenge dan diupload ke github. Coba #MulaiAjaDulu, nanti siapa tau teman-teman yg lain jadi terpancing juga buat ikutan.",17,12,2019,17,29,57,Fordyta Abubakar,,0,DhytoDev
+1039,1038,Siap kak ini sementara buat mockup nya 😁😁,17,12,2019,17,31,19,,,0,
+1040,0,"Btw, klo ada yg mau ikutan UI Challenge dari Tim Ofisial Flutter, hadiahnya lumayan 😁\n\nBisa ikutan ini nih \n\nhttps://flutter.dev/clock",17,12,2019,17,32,59,Fordyta Abubakar,,0,DhytoDev
+1041,1040,Yg Saya rasakan pake flutter terlalu coding UI nya adakah aplikasi yg otomatis generate UI flutter,17,12,2019,17,35,1,,,0,
+1042,1041,Sdh coba supernova? \nAtau flutter plugin di Adobe XD?,17,12,2019,17,35,50,Fordyta Abubakar,,0,DhytoDev
+1043,0,Coba2 dulu Saya belum tahu pake flutter bisa pake library kyk di Android juga atau tdk ?,17,12,2019,17,36,3,,,0,
+1044,0,,17,12,2019,17,36,3,,,0,
+1045,0,,17,12,2019,17,36,3,,,0,
+1046,0,,17,12,2019,17,36,3,,,0,
+1047,1042,Belum pernah,17,12,2019,17,36,21,,,0,
+1048,0,Klo pluginnya di Adobe XD kyk bagaimn ?,17,12,2019,17,37,25,,,0,
+1049,1046,"Bisa dong.. Di flutter, istilahnya packages dan plugins. Nanti googling sendiri ya bedanya.\n\nRepo Listnya bisa dicari di sini\nhttps://pub.dev/",17,12,2019,17,38,27,Fordyta Abubakar,,0,DhytoDev
+1050,1048,"Coba digoogling aja, kan sdh sy kasih cluenya. Masih hot, baru diumumkan di Flutter Interact kemarin. \n\nSy juga belum sempat coba. Silakan dieksplor, terus nanti coba dishare pengalamannya ke sini.",17,12,2019,17,40,0,Fordyta Abubakar,,0,DhytoDev
+1051,0,"Maksudnya itu kak slogan nya flutter make web,app, and desktop with one single code base artinya code yg Kita buat di mobile bisa jalan juga di web",17,12,2019,17,40,23,,,0,
+1052,1050,Oh iye haha mantap 😍,17,12,2019,17,41,7,,,0,
+1053,1051,"Betul.. Dgn satu code base, bisa dideploy ke mobile, desktop, dan web.",17,12,2019,17,41,21,Fordyta Abubakar,,0,DhytoDev
+1054,1053,Ngeri nya berarti ngga perlu belajar react.js lagi 😂😂,17,12,2019,17,43,11,,,0,
+1055,1054,"Haha nda papa juga sih belajar React, klo tujuannya mau meniti karir. Untuk lowongan front end saat ini, React masih mendominasi. \n\nLagian, flutter web juga masih versi beta, dan flutter desktop masih alpha. So, perjalanannya masih panjang, sampai benar-benar layak digunakan di level produksi.\n\nKlo saya sih melihat, flutter bagus dipelajari sbg investasi di masa depan 🙌",17,12,2019,17,51,42,Fordyta Abubakar,,0,DhytoDev
+1056,1055,Siap 😁,17,12,2019,17,53,1,,,0,
+1057,0,#loker\nhttp://rs.unhas.ac.id/rekrutmen/,18,12,2019,1,30,18,Hamzah,Abdullah,0,Almarozy
+1058,0,ide ide design app ad kah?,18,12,2019,6,7,33,ZAN,,0,
+1059,1058,Kalau mockup monggo meluncur ke dribble.com,18,12,2019,6,42,29,Dianto,,0,Dian_774
+1060,0,"Ketik kata kunci, mobile mockup",18,12,2019,6,42,40,Dianto,,0,Dian_774
+1061,1059,triple B hehe\nhttps://dribbble.com/,18,12,2019,6,45,35,ZAN,,0,
+1062,0,"lbih enak memang klo ad project lbih tertantang haha,,",18,12,2019,6,47,14,ZAN,,0,
+1063,1061,"Cuman yaa, agak gila2 design di situ untuk di ikuti, dan dari segi UI memang menarik, tp tdk semuanya bagus sebagai UX,",18,12,2019,6,48,41,Dianto,,0,Dian_774
+1064,1063,"ia bro,, kren2 bisa jdi referensi ui",18,12,2019,6,50,31,ZAN,,0,
+1065,0,,18,12,2019,12,34,41,Dhea,,0,dhepa26
+1066,0,https://www.instagram.com/p/B6P87jXBO8N/?igshid=103v43h2j3n27,19,12,2019,9,46,35,Andi,Wijaya,0,andiwijayaid

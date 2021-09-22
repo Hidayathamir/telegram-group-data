@@ -1,0 +1,1661 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+4734,0,still in Bosnia,Bajro,Lisic,bajro91,0,1,3,2019,13,21,25
+4735,0,soon inshaAllah move to Turkey,Bajro,Lisic,bajro91,0,1,3,2019,13,21,31
+4736,0,i thought you want to apply a job here,PBud1,,pbud1,0,1,3,2019,13,21,34
+4737,0,I apply on so much jobs,Bajro,Lisic,bajro91,0,1,3,2019,13,21,51
+4738,4735,nice. as crystal or golang devv?,PBud1,,pbud1,0,1,3,2019,13,22,3
+4739,0,to live,Bajro,Lisic,bajro91,0,1,3,2019,13,22,11
+4740,0,I work remote for now,Bajro,Lisic,bajro91,0,1,3,2019,13,22,17
+4741,0,I have just one problem with this code,Bajro,Lisic,bajro91,0,1,3,2019,13,26,54
+4742,0,Socket opened\nSocket closed,Bajro,Lisic,bajro91,0,1,3,2019,13,27,12
+4743,0,instantly,Bajro,Lisic,bajro91,0,1,3,2019,13,27,19
+4744,0,why it close instantly connection,Bajro,Lisic,bajro91,0,1,3,2019,13,27,31
+4745,0,if I try connect again I get error,Bajro,Lisic,bajro91,0,1,3,2019,13,32,14
+4746,0,Unhandled exception on HTTP::Handler\nClosed socket (IO::Error)\n  from /usr/lib/crystal/http/web_socket.cr:60:5 in 'check_open'\n  from /usr/lib/crystal/http/web_socket.cr:64:5 in 'send'\n  from main.cr:10:29 in '->'\n  from /usr/lib/crystal/http/web_socket.cr:255:3 in 'run'\n  from /usr/lib/crystal/http/server/handlers/websocket_handler.cr:43:9 in 'call'\n  from /usr/lib/crystal/http/server/request_processor.cr:39:11 in 'process'\n  from /usr/lib/crystal/http/server/request_processor.cr:16:3 in 'process'\n  from /usr/lib/crystal/http/server.cr:414:5 in 'handle_client'\n  from /usr/lib/crystal/http/server.cr:380:13 in '->'\n  from /usr/lib/crystal/fiber.cr:255:3 in 'run'\n  from /usr/lib/crystal/fiber.cr:72:34 in '->'\n  from ???,Bajro,Lisic,bajro91,0,1,3,2019,13,32,19
+4747,0,"I fix this error with socket.on_close do\n    puts ""Socket closed""\n    SOCKETS.delete(socket)\n  end",Bajro,Lisic,bajro91,0,1,3,2019,13,40,37
+4748,0,just now I need figure out how to keep it alive,Bajro,Lisic,bajro91,0,1,3,2019,13,40,58
+4749,0,pure socket?\nzero mq maybe?,,,,0,1,3,2019,14,1,58
+4750,0,Pure websocket,Bajro,Lisic,bajro91,0,1,3,2019,14,2,33
+4751,0,"never tried socket in crystal, well i might try it",PBud1,,pbud1,0,1,3,2019,15,30,33
+4752,0,Halo,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,1,3,2019,15,51,5
+4753,0,Ada yang masih menyala?,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,1,3,2019,15,51,13
+4754,0,I just need way to keep connection opened,Bajro,Lisic,bajro91,0,1,3,2019,15,53,56
+4755,0,To don't close,Bajro,Lisic,bajro91,0,1,3,2019,15,54,0
+4756,0,I think it was because your client side :),Bajro,Lisic,bajro91,0,1,3,2019,16,19,20
+4757,0,this client work,Bajro,Lisic,bajro91,0,1,3,2019,16,20,40
+4758,0,❤️,Bajro,Lisic,bajro91,0,1,3,2019,16,20,44
+4759,0,and this is server,Bajro,Lisic,bajro91,0,1,3,2019,16,21,7
+4760,0,"that example just how figure out to simple websocket, so my client side, just open, send, receive, and then close, so i’m apologize not maintain the connection always open 😅",Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,21,25,35
+4761,4757,"thanks for revision, i’ll update in my code in medium",Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,21,26,52
+4762,4747,"ahahaa, i forgot it, sorry 😅",Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,21,27,26
+4763,4726,"hahaa, i’m just an ordinary devs here, i think you more deserve it @pbud1 than me 😊",Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,21,29,41
+4764,0,I send here both files,Bajro,Lisic,bajro91,0,1,3,2019,21,31,3
+4765,0,It work for me,Bajro,Lisic,bajro91,0,1,3,2019,21,31,9
+4766,0,nice @bajro91 so many thanks,Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,21,31,43
+4767,0,You most welcome,Bajro,Lisic,bajro91,0,1,3,2019,21,32,6
+4768,0,"sorry for my first time code using crystal, so many bugs 😅",Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,21,32,19
+4769,0,I will just try update it to work with JSON,Bajro,Lisic,bajro91,0,1,3,2019,21,32,21
+4770,0,Its ok,Bajro,Lisic,bajro91,0,1,3,2019,21,32,38
+4771,0,You do it perfect,Bajro,Lisic,bajro91,0,1,3,2019,21,32,44
+4772,0,❤️,Bajro,Lisic,bajro91,0,1,3,2019,21,38,12
+4773,0,after I finish this I will again post here maybe it can be useful,Bajro,Lisic,bajro91,0,1,3,2019,21,38,29
+4774,0,Hello,Bajro,Lisic,bajro91,0,2,3,2019,16,57,55
+4775,0,I want ask how to create channel on websocket,Bajro,Lisic,bajro91,0,2,3,2019,16,58,6
+4776,0,if someone know?,Bajro,Lisic,bajro91,0,2,3,2019,16,58,10
+4777,0,what do you mean by channel? somekind of topic one can sibscribe to or channel as communication for fibers?,PBud1,,pbud1,0,2,3,2019,22,57,22
+4778,0,topic to subscribe,Bajro,Lisic,bajro91,0,2,3,2019,22,58,21
+4779,0,you need to implement pubsub pattern,PBud1,,pbud1,0,3,3,2019,0,11,8
+4780,0,I try whole day,Bajro,Lisic,bajro91,0,3,3,2019,0,29,46
+4781,0,😢,Bajro,Lisic,bajro91,0,3,3,2019,0,29,53
+4782,0,I think I will continue in morning now is 1:30 am,Bajro,Lisic,bajro91,0,3,3,2019,0,30,14
+4783,0,"Yes better get some rest first, hopefully you wake up with fresh ideas. I'm interested to play with websocket, but kind of busy. I got my replacement laptop so need to install and reconfigure.",PBud1,,pbud1,0,3,3,2019,3,39,4
+4784,4783,macbook plo balu 2018 inih pasti hehee,Muhammad,Tri Wibowo,brainplusplus,0,3,3,2019,4,19,41
+4785,0,Downgrade malah ke 2015. MBP baru banyak masalah om 😊. Berasa pake product yang belum lulus QA.,PBud1,,pbud1,0,3,3,2019,5,7,17
+4786,4785,"Owhh gitu ya, padahal niatnya saya malah mau upgrade ke 2018, tp denger2 sih akan ada macbook pro 16"", kayaknya sih perbaikin issue thermal di macbook pro 2018",Muhammad,Tri Wibowo,brainplusplus,0,3,3,2019,6,18,0
+4787,0,Iya om tunggu MBP 2019 aja. Tapi saya masih kurang yakin sih sama kualitas apple kalau masih under tim cook 🤓,PBud1,,pbud1,0,3,3,2019,6,35,16
+4788,0,https://marketplace.visualstudio.com/items?itemName=veelenga.crystal-ameba#overview,PBud1,,pbud1,0,3,3,2019,6,36,4
+4789,4785,"Owhh gitu ya, padahal niatnya saya malah mau upgrade ke 2018, tp denger2 sih akan ada\n macbook pro 16"", kayaknya sih perbaikin issue thermal di macbook pro",Muhammad,Tri Wibowo,brainplusplus,0,3,3,2019,7,4,43
+4790,0,"saya baru tau kalau ada issue thermal om, yg hype sih issue keyboard sama layar mati.",PBud1,,pbud1,0,3,3,2019,11,9,48
+4791,0,setelah setahun atau lebih pemakaian,PBud1,,pbud1,0,3,3,2019,11,10,28
+4792,0,design flaw yg harus dibayar mahal oleh penggunanya 😆,PBud1,,pbud1,0,3,3,2019,11,12,0
+4794,4793,Target group nya mantap.\n\nSaling berkaitan 👍🏽,Maaf,Merepotkan... 🙏,cahgentoo,0,4,3,2019,9,7,28
+4795,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,4,3,2019,9,7,33
+4796,4790,macbook pro 2018 di taruh di freezer baru performancenya bener 😅,Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,10,3,51
+4797,0,https://www.youtube.com/watch?v=WxRblujlYOg,Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,10,4,17
+4798,0,"klo masalah layar emg ringkih macbook tahun 2016 ke atas, harus pake semacam UAG/shock proof protector",Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,10,6,16
+4799,4794,"Kick nih, spam ya?",PBud1,,pbud1,0,4,3,2019,10,31,58
+4800,4796,Hahah extreme nih,PBud1,,pbud1,0,4,3,2019,10,32,41
+4823,4806,"Layar ini sesuai hasil ifixit memang design fault om, flex cablenya ngepas banget jadi cepet aus kalau sering  buka tutup layar. Sayangnya gak bisa ganti part itu saja, tapi satu set layar harus ganti, costnya bisa 1/3 harga macbooknya. Kaya berasa kena scam 😊",PBud1,,pbud1,0,4,3,2019,10,35,6
+4824,0,"Di MBA 2018, apple bikin lebih panjang. Alhasil sebenernya apple aware dengan cacat designnya tapi tidak mau acknowlege, bisa keluar cost gede buat ganti layar free 😁",PBud1,,pbud1,0,4,3,2019,10,36,8
+4825,0,Mau reply om @brainplusplus malah ke alvi…,PBud1,,pbud1,0,4,3,2019,10,37,6
+4826,4824,"hmm, mngkin ini alasan mau ada 16” macbook ya, perbaikan layar dan thermal, probably hahaa",Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,10,38,13
+4827,0,"Issue mbp apple cepat panas biasanya di thermal paste/odol, cepet kering so hantaran panasnya kurang maximal. Cuma kalau laptop baru udah kena issue thermal sih aneh juga nih memang mengkhawatirkan.",PBud1,,pbud1,0,4,3,2019,11,15,23
+4828,0,"Perbaikan layar bisa jadi om, udah 3 release cycle biasanya sih baru bener 😊",PBud1,,pbud1,0,4,3,2019,11,22,58
+4829,0,2016 - 2018.,PBud1,,pbud1,0,4,3,2019,11,23,7
+4830,4827,"krn design chasis yg terlalu tipis dgn spek gahar macam i7/i9 H series sama vga radeon agak susah di dinginin, kecuali buat kegiatan standar kyk browsing, klo yg udah CPU/GPU intensive pasti berasa lemot/throttling",Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,13,1,12
+4831,0,"mbp saya sekarang begitu, cepet spike cpu, langsung kick fan. berisik.",PBud1,,pbud1,0,4,3,2019,13,41,7
+4832,0,eh kita sama² admin di sini ya. bebas oot 😊,PBud1,,pbud1,0,4,3,2019,13,41,28
+4833,0,"kalau 15 inch atau mungkin nanti 16, ruang buat sirkulasi dan cooling lebih luas harusnya. tapi kalau gpu atau cpu intensif memang bakal cepet panas. 2 atau 3 tahun harus ganti mac baru 😹",PBud1,,pbud1,0,4,3,2019,13,43,45
+4834,4832,😅😅😅,Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,14,51,35
+4835,0,"sayang crystal blom stable sih,,",Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,14,52,0
+4836,0,jadi blom berani banyak ulik,Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,14,52,10
+4837,0,utk production,Muhammad,Tri Wibowo,brainplusplus,0,4,3,2019,14,52,18
+4838,0,"Pakai buat microservice aja dulu mungkin om, lebih safe. Kalau fail kan effort buat gantinya lebih kecil.",PBud1,,pbud1,0,5,3,2019,4,35,29
+4839,0,,,,,0,6,3,2019,7,56,5
+4840,0,oui,,,,0,6,3,2019,7,56,8
+4841,0,jatuh cinta sama go,,,,0,6,3,2019,7,56,49
+4842,0,om rubi lebih suka go?,PBud1,,pbud1,0,6,3,2019,8,47,2
+4843,0,primary,,,,0,6,3,2019,8,47,11
+4844,0,lebih ke ekosistem library nya sih,,,,0,6,3,2019,8,47,31
+4845,0,tapi dari simple nya juga,,,,0,6,3,2019,8,47,37
+4846,0,wkwkwkwk akhirnya seneng go juga,Muhammad,Tri Wibowo,brainplusplus,0,6,3,2019,8,47,56
+4847,0,berubah seiring waktu,PBud1,,pbud1,0,6,3,2019,8,48,21
+4848,0,"gw senengnya karena simple, performance dan compile time sih",Muhammad,Tri Wibowo,brainplusplus,0,6,3,2019,8,48,22
+4849,0,dan kompor,PBud1,,pbud1,0,6,3,2019,8,48,26
+4850,0,padahal awalnya die hard crystal ya om,PBud1,,pbud1,0,6,3,2019,8,48,40
+4851,0,hahaha iya,Muhammad,Tri Wibowo,brainplusplus,0,6,3,2019,8,48,46
+4852,0,"compile time penting klo sering debug2, males kalo lama2 kayak java klo compile timenya lama",Muhammad,Tri Wibowo,brainplusplus,0,6,3,2019,8,49,14
+4853,4848,masuk juga,,,,0,6,3,2019,8,49,21
+4854,4849,inihhh hahaa,Muhammad,Tri Wibowo,brainplusplus,0,6,3,2019,8,49,52
+4855,0,"pertanyaan out of topic saya, kenapa om Rubi seneng gonta-ganti akun?",PBud1,,pbud1,0,6,3,2019,8,56,6
+4856,0,🤔,PBud1,,pbud1,0,6,3,2019,8,56,15
+4857,0,erasing the past?,PBud1,,pbud1,0,6,3,2019,8,56,30
+4858,0,"masa muda, masa2 nya labil om, kadang cari performa kadang cari syntax friendly, kadang cari yang anti mainstream, ya gitu lah",,,,0,6,3,2019,9,11,36
+4859,0,reddit udah di unblock toh di indo,,,,0,6,3,2019,9,11,46
+4860,0,"entah, ngerasa golang itu lebih bisa di ""apa apain"" dari pada crystal",,,,0,6,3,2019,9,22,32
+4861,0,"itu semua belum ngejawab pertanyaan om @pbud1, itu kan jawab why go than crystal, pertanyaannya terkait gonta ganti akun",Muhammad,Tri Wibowo,brainplusplus,0,6,3,2019,9,27,37
+4862,0,astaga,,,,0,6,3,2019,9,28,35
+4863,0,kirain gonta ganti bahasa,,,,0,6,3,2019,9,28,38
+4864,0,hm,,,,0,6,3,2019,9,28,38
+4865,0,🤓,PBud1,,pbud1,0,6,3,2019,9,29,16
+4866,4855,engga tau deh om,,,,0,6,3,2019,9,30,11
+4867,0,🤪,PBud1,,pbud1,0,6,3,2019,14,0,55
+4870,0,gila dah Go,,,,0,7,3,2019,12,58,48
+4871,0,❤️,,,,0,7,3,2019,12,58,49
+4872,0,Gila knp,Muhammad,Tri Wibowo,brainplusplus,0,7,3,2019,13,12,6
+4875,0,,Rubi,,codenoid,0,10,3,2019,14,12,44
+4876,0,ini gimana ya,Rubi,,codenoid,0,11,3,2019,2,2,47
+4877,0,cara install crystal,Rubi,,codenoid,0,11,3,2019,2,2,54
+4878,4877,Di Linux atau MacOS?,PBud1,,pbud1,0,11,3,2019,2,52,10
+4879,0,https://crystal-lang.org/reference/installation/,PBud1,,pbud1,0,11,3,2019,3,0,29
+4881,0,,A:\zhe\kun.cs,,azhe403,0,12,3,2019,17,59,28
+4882,0,driver mongo update : github.com/sam0x17/mongo.cr,,,,0,13,3,2019,1,42,6
+4883,0,"Status beta ya om, dikit lagi",PBud1,,pbud1,0,13,3,2019,4,45,14
+4884,0,so balik ke crystal atau tetap di Go,PBud1,,pbud1,0,13,3,2019,4,45,26
+4885,0,ngga tau,,,,0,13,3,2019,5,3,12
+4886,0,dua dua nya,,,,0,13,3,2019,5,3,16
+4887,0,ada project ane yang dulu di kerjain pake cr,,,,0,13,3,2019,5,3,23
+4888,0,cuma deploy doang,,,,0,13,3,2019,5,3,29
+4889,0,"@brainplusplus design begini bikin mac jadi lebih adem, lebih gampang upgrade pula, port juga bisa banyak, tak perlu dongle/adapter-adapter 😁",PBud1,,pbud1,0,13,3,2019,12,5,36
+4890,0,,PBud1,,pbud1,0,13,3,2019,12,5,39
+4891,0,KELUARGA #DELL,,,,0,13,3,2019,12,11,55
+4892,0,hehe,,,,0,13,3,2019,12,11,58
+4893,4890,"Hahaa jokesnya dave2d 😆😆, kaget jg waktu liat thumbnailnya",Muhammad,Tri Wibowo,brainplusplus,0,13,3,2019,13,3,6
+4894,0,mantabb,,,,0,14,3,2019,6,44,54
+4895,4894,Pasti gara2 MongoDB driver di GO 😁,PBud1,,pbud1,0,14,3,2019,10,47,46
+4896,0,cuma pengen chat mantabb omm,,,,0,14,3,2019,10,58,11
+4897,0,driver mgo mah udah lama make ane,,,,0,14,3,2019,10,58,24
+4905,0,"Klo di golang, pake bongo as orm 😅 drivernya mgo",Muhammad,Tri Wibowo,brainplusplus,0,14,3,2019,11,6,33
+4906,0,Noo nooo 🙊,,,,0,14,3,2019,11,43,33
+4907,0,we dont need ORM for go,,,,0,14,3,2019,11,44,4
+4908,0,mgo is enough,,,,0,14,3,2019,11,44,8
+4909,0,🤣🤣🤣,Muhammad,Tri Wibowo,brainplusplus,0,14,3,2019,11,51,7
+4920,0,,,,,0,15,3,2019,19,26,20
+4921,0,selamat pagi.. ^^,,,,0,15,3,2019,19,26,32
+4928,0,pagi,Muhammad,Tri Wibowo,brainplusplus,0,15,3,2019,20,20,29
+4929,0,bot,,,,0,15,3,2019,23,8,24
+4930,0,tf kenapa jadi banyak bot gini ya,,,,0,16,3,2019,0,24,58
+4931,0,jangan bilang bot crawling,,,,0,16,3,2019,0,25,5
+4932,0,or malah promosi di suatu hari,,,,0,16,3,2019,0,25,13
+4933,0,Om Rubi biasanya bikin bot..,PBud1,,pbud1,0,16,3,2019,2,43,10
+4934,0,Orang lain biasanya bikin bot..,,,,0,16,3,2019,2,46,6
+4935,4931,they won't get anything to crawl here. not quite active.,PBud1,,pbud1,0,16,3,2019,4,30,2
+4936,0,,Diem Diem Bae,,kasihusername,0,16,3,2019,11,43,19
+4937,0,Hello,Bajro,Lisic,bajro91,0,16,3,2019,11,43,30
+4938,0,Do you know any video course about crystal,Bajro,Lisic,bajro91,0,16,3,2019,11,43,42
+4939,0,on udemy or some other site?,Bajro,Lisic,bajro91,0,16,3,2019,11,43,50
+4940,0,"i think it’s hard to find complete tutorial about crystal even in youtube or udemy, because crystal isn’t popular",Muhammad,Tri Wibowo,brainplusplus,0,16,3,2019,12,24,49
+4941,0,https://www.youtube.com/watch?v=DxFP-Wjqtsc,Muhammad,Tri Wibowo,brainplusplus,0,16,3,2019,12,25,39
+4942,0,maybe that video can cover crystal basic,Muhammad,Tri Wibowo,brainplusplus,0,16,3,2019,12,25,58
+4943,4938,why do you get back to basic bro? few months ago you were already quite good in crystal.,PBud1,,pbud1,0,16,3,2019,13,58,5
+4944,0,sometimes i learn from ruby resource to understand something i struggle finding the doc in crystal.,PBud1,,pbud1,0,16,3,2019,14,0,35
+4946,4943,I know basic I want more video about advanced,Bajro,Lisic,bajro91,0,16,3,2019,15,23,29
+4948,0,morning ^^,,,,0,16,3,2019,18,34,18
+4949,0,night :D,Bajro,Lisic,bajro91,0,16,3,2019,19,40,50
+4950,4946,crystal lack of the advanced  resource to learn. even the new released commercial book only cover a few ones. \nwhat is your learning gap now bro? is it about macro or networking stuff?,PBud1,,pbud1,0,16,3,2019,23,1,30
+4951,0,notworking,Bajro,Lisic,bajro91,0,16,3,2019,23,2,3
+4952,0,also I have this crystal book,Bajro,Lisic,bajro91,0,16,3,2019,23,2,10
+4953,0,I buy it on pragbooks or something like that,Bajro,Lisic,bajro91,0,16,3,2019,23,2,24
+4954,0,related to websocket you told before?,PBud1,,pbud1,0,16,3,2019,23,2,42
+4955,4953,"nice, id like to buy one but reading from the sample code of the book provided i guess i dont have to. what do you think?",PBud1,,pbud1,0,16,3,2019,23,3,54
+4956,0,if you want I will send you,Bajro,Lisic,bajro91,0,16,3,2019,23,4,14
+4957,0,"well thanks, but its kinda piracy then 😀 sending copy of commercial ebook. no need i guess.",PBud1,,pbud1,0,16,3,2019,23,5,30
+4958,0,yes it piracy,Bajro,Lisic,bajro91,0,17,3,2019,0,19,32
+4959,0,but just to you check it,Bajro,Lisic,bajro91,0,17,3,2019,0,19,37
+4960,0,😂,Bajro,Lisic,bajro91,0,17,3,2019,0,19,42
+4961,0,https://repl.it/languages/crystal,PBud1,,pbud1,0,17,3,2019,2,17,53
+4962,0,,,,,0,17,3,2019,6,52,45
+4964,4963,Ban,,,,0,17,3,2019,13,45,37
+4965,0,"Yes, already",PBud1,,pbud1,0,18,3,2019,6,39,47
+4966,0,https://www.youtube.com/watch?v=EXTYDlBdLUA,,,,0,18,3,2019,7,28,6
+4967,0,https://www.youtube.com/watch?v=cSkRdfPA--I,,,,0,18,3,2019,7,28,31
+4968,0,Crystal sendiri gak support BSON natively ya om?,PBud1,,pbud1,0,18,3,2019,9,1,3
+4969,0,golang engga juga kan,,,,0,18,3,2019,10,40,52
+4970,0,Does anyone know how to make private chat with websocket I try few days no success,Bajro,Lisic,bajro91,0,18,3,2019,10,52,59
+4971,0,this https://github.com/sdogruyol/kemal-chat ?,,,,0,18,3,2019,10,55,41
+4972,0,how to make from this private,Bajro,Lisic,bajro91,0,18,3,2019,10,56,47
+4973,0,you mean between specifiied user ?,,,,0,18,3,2019,10,57,16
+4974,0,yes 1 to 1 chat,Bajro,Lisic,bajro91,0,18,3,2019,10,57,29
+4975,0,you can pass user identity in websocket url,,,,0,18,3,2019,10,57,44
+4976,0,Also one more question,Bajro,Lisic,bajro91,0,18,3,2019,10,58,19
+4977,0,I see on some libraries,Bajro,Lisic,bajro91,0,18,3,2019,10,58,44
+4978,0,they use field inside class,Bajro,Lisic,bajro91,0,18,3,2019,10,58,51
+4979,0,I would love to have this same like in Golang structure,Bajro,Lisic,bajro91,0,18,3,2019,10,59,9
+4980,0,what do you mean,,,,0,18,3,2019,10,59,33
+4981,0,can you give me example,,,,0,18,3,2019,10,59,36
+4982,0,this is how structure look in golang,Bajro,Lisic,bajro91,0,18,3,2019,11,0,10
+4983,0,type Person struct {\n  FirstName string\n  LastName  string\n  Age       int\n},Bajro,Lisic,bajro91,0,18,3,2019,11,0,11
+4984,0,is it possible in crystal to I make same with class,Bajro,Lisic,bajro91,0,18,3,2019,11,0,40
+4985,0,to be for example,Bajro,Lisic,bajro91,0,18,3,2019,11,0,46
+4986,0,class User \nfield Username : String\nend,Bajro,Lisic,bajro91,0,18,3,2019,11,1,14
+4987,0,yes,,,,0,18,3,2019,11,1,39
+4988,0,can you give me example,Bajro,Lisic,bajro91,0,18,3,2019,11,1,57
+4989,0,how it need looks like,Bajro,Lisic,bajro91,0,18,3,2019,11,2,3
+4990,0,```  struct Person\n    FirstName : String\n    LastName : String\n    Age : Uint32\n  end```,,,,0,18,3,2019,11,4,9
+4991,0,so nice,Bajro,Lisic,bajro91,0,18,3,2019,11,4,24
+4992,0,if I use this can I pass who struct to json,Bajro,Lisic,bajro91,0,18,3,2019,11,4,41
+4993,0,whole*,Bajro,Lisic,bajro91,0,18,3,2019,11,4,51
+4994,0,i'm bit forgot,,,,0,18,3,2019,11,7,35
+4995,0,no problem thank you anyway,Bajro,Lisic,bajro91,0,18,3,2019,11,7,47
+4996,0,I will try to find alone,Bajro,Lisic,bajro91,0,18,3,2019,11,7,53
+4997,0,you help me a lot,Bajro,Lisic,bajro91,0,18,3,2019,11,7,59
+4998,0,```struct Mutable\n  property value\n\n  def initialize(@value : Int32)\n  end\nend\n\ndef change(mutable)\n  mutable.value = 2\n  mutable\nend\n\nmut = Mutable.new 1\nmut = change(mut)\nmut.value # => 2```,,,,0,18,3,2019,11,19,33
+4999,0,"property firstname, lastname, age",,,,0,18,3,2019,11,19,49
+5000,0,hahahah I just read this,Bajro,Lisic,bajro91,0,18,3,2019,11,19,50
+5001,4974,"i have been creating generic messaging server in crystal since one week ago or two, it turns out this morning i read apache pulsar and feel being intimidated by its fully featured messaging server with nice failover handling. 😄",PBud1,,pbud1,0,18,3,2019,14,2,38
+5002,0,"Client libraries\n\nFlexible messaging models with high-level APIs for Java, C++, Python and GO",Bajro,Lisic,bajro91,0,18,3,2019,14,3,44
+5003,0,we can use websocket as client from crystal,PBud1,,pbud1,0,18,3,2019,14,4,45
+5004,0,to connect to any messaging server,PBud1,,pbud1,0,18,3,2019,14,6,21
+5005,0,"if we like more raw, can use socket directly",PBud1,,pbud1,0,18,3,2019,14,6,48
+5006,0,btw theres already pubsub or simple messaging server in crystal for handling chat if using third party server is overkill,PBud1,,pbud1,0,18,3,2019,14,8,28
+5007,0,I just want to learn this technic,Bajro,Lisic,bajro91,0,18,3,2019,14,8,54
+5008,0,in crystal,Bajro,Lisic,bajro91,0,18,3,2019,14,8,59
+5009,0,😔,Bajro,Lisic,bajro91,0,18,3,2019,14,9,4
+5010,0,care to read someone code? wait let me find you the shards,PBud1,,pbud1,0,18,3,2019,14,9,16
+5011,0,@bajro91 https://github.com/alternatelabs/bifrost,PBud1,,pbud1,0,18,3,2019,14,22,51
+5012,0,"it uses jwt for authentication, you can ignore that if you dont use one",PBud1,,pbud1,0,18,3,2019,14,24,54
+5013,0,its good to understand how to to use socket along with web api.,PBud1,,pbud1,0,18,3,2019,14,26,26
+5014,0,"what i've created so far does not depend on kemal, simply using pubsub pattern is enough for a lot of case",PBud1,,pbud1,0,18,3,2019,14,33,17
+5015,0,is your code available,Bajro,Lisic,bajro91,0,18,3,2019,14,33,59
+5016,0,"not published to github, not ready yet",PBud1,,pbud1,0,18,3,2019,14,34,21
+5017,0,i only work on it on weekend,PBud1,,pbud1,0,18,3,2019,14,34,36
+5018,0,anyway with this bifrost I think I can understand how it work with chanels,Bajro,Lisic,bajro91,0,18,3,2019,14,34,47
+5019,0,thank you so much,Bajro,Lisic,bajro91,0,18,3,2019,14,34,51
+5020,0,"yes channel/topic will be used to differentiate where your message go, so can be used for public chat room or private 1 to 1",PBud1,,pbud1,0,18,3,2019,14,35,46
+5021,0,Thank you so much brother,Bajro,Lisic,bajro91,0,18,3,2019,14,36,22
+5022,0,❤️,Bajro,Lisic,bajro91,0,18,3,2019,14,36,26
+5023,0,welcome,PBud1,,pbud1,0,18,3,2019,14,37,7
+5024,0,,HATSONYC,,Hatsonyc,0,19,3,2019,1,8,22
+5025,0,,Agil,Santosa,Agilll17,0,19,3,2019,11,9,1
+5026,0,selamat pagi brothers and sister,Bajro,Lisic,bajro91,0,19,3,2019,21,41,51
+5027,0,s,Bajro,Lisic,bajro91,0,19,3,2019,21,41,53
+5028,5026,Met Pagi bro 😊.,PBud1,,pbud1,0,20,3,2019,0,30,31
+5031,0,I think I finish websocket chat,Bajro,Lisic,bajro91,0,20,3,2019,10,22,1
+5032,0,I will still try today and send code here on review,Bajro,Lisic,bajro91,0,20,3,2019,10,22,34
+5033,0,woah congrats,PBud1,,pbud1,0,20,3,2019,13,23,40
+5034,0,Thank you my brother,Bajro,Lisic,bajro91,0,20,3,2019,13,41,14
+5037,0,Php is no longer my cup of tea 😊,PBud1,,pbud1,0,20,3,2019,16,21,39
+5038,0,Ngga ditulis ya,,,,0,21,3,2019,0,45,6
+5039,0,Berapa nya,,,,0,21,3,2019,0,45,9
+5040,0,Hehe,,,,0,21,3,2019,0,45,10
+5041,0,,,,,0,21,3,2019,10,27,17
+5042,0,Plug keren yak,,,,0,23,3,2019,0,56,48
+5043,0,bagian file upload nya,,,,0,23,3,2019,0,56,48
+5044,0,"dia stream, ngga nyimpen 1 file yg di upload ke memory, tapi write ke disk langsung dikit2 (stream)",,,,0,23,3,2019,0,56,49
+5045,0,"buff di memory ada, tapi defined dan biasanya kecil",,,,0,23,3,2019,1,14,22
+5046,0,`unsigned char stream[1024];` model kek gini,,,,0,23,3,2019,1,14,53
+5047,5043,Plug apa ya?,PBud1,,pbud1,0,23,3,2019,1,26,42
+5048,5045,iya kecil,,,,0,23,3,2019,1,26,57
+5049,0,elixir om,,,,0,23,3,2019,1,27,1
+5050,5048,"buff -> write ke harddisk, gitu sample kelar",,,,0,23,3,2019,1,27,23
+5051,0,"di C++ ada `filecopy` pakai `ifstream ofstream` dalemnya udah small buffed, mungkin dia bikin Lib pakai itu...",,,,0,23,3,2019,1,36,28
+5052,0,kalau di C gak ada 🤣\nPR harus nulis ulang,,,,0,23,3,2019,1,36,49
+5053,0,"erlang vm om, entah vm nya sendiri gimana",,,,0,23,3,2019,1,52,11
+5054,0,erlang apa elixir? hehe,,,,0,23,3,2019,2,0,27
+5055,0,Bedanya apaan?,,,,0,23,3,2019,2,0,28
+5056,0,elixir pake erlang vm,,,,0,23,3,2019,2,0,55
+5057,0,erlang bapak nya\nelixir anak nya\n\nsi anak pake vm bapak nya,,,,0,23,3,2019,2,1,55
+5058,0,ooo kayak kotlin ke japa\n\nya bytecode nya aja samain sama yang buffed copy di bahasa lain 😃,,,,0,23,3,2019,2,5,12
+5064,0,Done,PBud1,,pbud1,0,23,3,2019,14,44,43
+5065,0,"Weeken om, agak woles 😊",PBud1,,pbud1,0,23,3,2019,14,45,21
+5066,0,oh iya sabtu ini,,,,0,23,3,2019,14,46,19
+5067,0,Gak jalan-jalan om?,PBud1,,pbud1,0,23,3,2019,14,47,8
+5068,0,lagi banyak gawe om,,,,0,23,3,2019,14,47,41
+5071,5070,/ban,,,,0,24,3,2019,7,4,38
+5072,0,telegram group member sikit pon kena spam 😂,PBud1,,pbud1,0,24,3,2019,8,16,51
+5073,0,iya,,,,0,24,3,2019,8,17,21
+5074,0,ngga liat2,,,,0,24,3,2019,8,17,24
+5075,0,macam dibayar mahal je blast tak tengok kat mane,PBud1,,pbud1,0,24,3,2019,8,17,55
+5076,0,"waduh, om budi melayu nya keluar pas marah xD",,,,0,24,3,2019,8,20,33
+5078,0,tf,,,,0,24,3,2019,11,41,32
+5080,0,😁,PBud1,,pbud1,0,24,3,2019,13,40,59
+5081,0,Sudah dibanned om,PBud1,,pbud1,0,24,3,2019,13,41,4
+5082,0,,,,,0,25,3,2019,7,43,17
+5084,5083,"Berat amat speknya, sprtinya ga sebanding dg apa yg di dapet 😅",Muhammad,Tri Wibowo,brainplusplus,0,28,3,2019,4,58,18
+5085,5084,ya,,,,0,28,3,2019,4,58,27
+5086,0,take or leave,,,,0,28,3,2019,4,58,33
+5087,0,,,,,0,28,3,2019,5,8,9
+5088,5087,Salah satu job opening terkeren yang pernah saya lihat.\n\nKreatif. Kreatif. 👍🏽,Maaf,Merepotkan... 🙏,cahgentoo,0,28,3,2019,5,40,17
+5089,5088,👍sip,,,,0,28,3,2019,5,40,46
+5090,5087,location sama employee status kok masuk skill om ☺️,PBud1,,pbud1,0,28,3,2019,7,17,28
+5091,5090,iya,,,,0,28,3,2019,8,16,59
+5092,0,kurang tanda tanya saya 😐,PBud1,,pbud1,0,28,3,2019,8,18,29
+5093,0,iya juga,,,,0,28,3,2019,8,19,25
+5094,0,,JUAL TANAH BELI CRYPTO,,SexyLup,0,28,3,2019,9,31,3
+5096,0,,,,,0,29,3,2019,7,47,22
+5097,0,hi please help our friend with your **star**\n\nhttps://996.icu/#/en_US\n\nDevelopers' lives matter. !,,,,0,29,3,2019,9,20,21
+5098,0,I work on api for prayer times with crystal and kemal,Bajro,Lisic,bajro91,0,29,3,2019,16,34,10
+5099,0,once I finish it I will share repo to we can improve it and make it fast :),Bajro,Lisic,bajro91,0,29,3,2019,16,34,38
+5100,0,I will leave it open source,Bajro,Lisic,bajro91,0,29,3,2019,16,34,58
+5101,0,great,,,,0,29,3,2019,16,36,10
+5102,0,what frontend do you use? web or mobile?,PBud1,,pbud1,0,29,3,2019,22,49,14
+5103,0,It will be just api,Bajro,Lisic,bajro91,0,29,3,2019,23,35,4
+5104,0,You can connect on it whatever you want,Bajro,Lisic,bajro91,0,29,3,2019,23,35,21
+5105,0,Response will be json,Bajro,Lisic,bajro91,0,29,3,2019,23,35,31
+5106,0,,,,,0,30,3,2019,23,4,41
+5107,0,,inginpintar,Alfiyanm,inginpintar,0,31,3,2019,0,50,41
+5109,0,,Bstka,,Bstka20,0,31,3,2019,12,35,36
+5111,5110,"Harus dilaporin ke yg berwenang nih sptnya, supaya diblock websitenya.",PBud1,,pbud1,0,31,3,2019,16,6,10
+5112,0,laporin om,,,,0,31,3,2019,16,6,37
+5113,0,tak elok cara promonya,PBud1,,pbud1,0,31,3,2019,16,7,8
+5114,5112,🦉 nih om? lom tidur jam seginj,PBud1,,pbud1,0,31,3,2019,16,8,11
+5115,0,lagi main gem om,,,,0,31,3,2019,16,8,16
+5116,0,mau coding lagi abis ini,,,,0,31,3,2019,16,8,21
+5117,0,besok tak kerja,PBud1,,pbud1,0,31,3,2019,16,8,25
+5118,0,flexible,,,,0,31,3,2019,16,8,32
+5119,0,i see,PBud1,,pbud1,0,31,3,2019,16,8,39
+5120,0,enaknye,PBud1,,pbud1,0,31,3,2019,16,8,53
+5121,0,tergantung orang nya sih om,,,,0,31,3,2019,16,9,5
+5122,0,aku sendiri lebih suka di atur dari sana,,,,0,31,3,2019,16,9,10
+5123,0,client luar semua?,PBud1,,pbud1,0,31,3,2019,16,9,14
+5124,0,hah,,,,0,31,3,2019,16,9,24
+5125,0,bukan,,,,0,31,3,2019,16,9,26
+5126,0,kirain ada beda timezone harus koordinasi tengah malam,PBud1,,pbud1,0,31,3,2019,16,9,45
+5127,0,,Bravo Aro Cardova,,bravoarocardova,0,1,4,2019,3,39,20
+5130,5129,/ban,,,,0,2,4,2019,4,28,53
+5131,0,,Abdul Hakim Ghaniy,,ghaniy_kie,0,4,4,2019,20,33,39
+5132,0,Hello everyone,Bajro,Lisic,bajro91,0,6,4,2019,13,54,55
+5133,0,How is your day :),Bajro,Lisic,bajro91,0,6,4,2019,13,55,0
+5134,5133,"hi bro, it is good 🥳",PBud1,,pbud1,0,6,4,2019,14,45,40
+5135,0,🎉,,,,0,6,4,2019,16,6,43
+5136,0,,H,I,Ekojokop,0,6,4,2019,23,57,47
+5137,0,,.,,lovepass,0,7,4,2019,11,25,40
+5138,0,,,,,0,7,4,2019,11,27,8
+5139,0,,,,,0,8,4,2019,7,22,50
+5140,0,"Watch ""Crystal Language Core Team Live Q&A - April 2019"" on YouTube\nhttps://youtu.be/JkKqkzCoR-8",PBud1,,pbud1,0,10,4,2019,23,37,29
+5141,5087,Masbro... Ane lupa kalo bikin codingan disini pake apa dah 😂...,Abdul Hakim Ghaniy,,ghaniy_kie,0,11,4,2019,2,45,19
+5142,5141,Elixir,PBud1,,pbud1,0,11,4,2019,3,42,46
+5143,0,"Learn more programming languages, even if you won't use them - Thorsten Ball\nhttps://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/",PBud1,,pbud1,0,13,4,2019,12,38,53
+5144,0,mantap om,Muhammad,Muhajir,muhajirdev,0,13,4,2019,13,39,50
+5145,0,mantab,,,,0,13,4,2019,13,56,17
+5146,0,kemane aje lo,,,,0,13,4,2019,13,56,19
+5147,0,gw mau malming,,,,0,13,4,2019,13,56,22
+5148,5147,Besok baru,,,,0,13,4,2019,14,9,36
+5149,0,Lagi dengerin debat capres om,PBud1,,pbud1,0,13,4,2019,14,18,50
+5150,0,😀,PBud1,,pbud1,0,13,4,2019,14,19,0
+5151,5149,Wihh hidup 0*2 #sensor hahaa,Muhammad,Tri Wibowo,brainplusplus,0,13,4,2019,14,20,34
+5152,0,😆,PBud1,,pbud1,0,13,4,2019,14,22,25
+5153,0,0*2 jadi golput dong om,PBud1,,pbud1,0,13,4,2019,14,22,51
+5154,0,0102,selectman,,Maginaman,0,13,4,2019,14,22,54
+5155,0,dipasang2,selectman,,Maginaman,0,13,4,2019,14,23,4
+5156,0,,,,,0,14,4,2019,3,17,10
+5157,0,,Philip,Lambok,philiplambok,0,14,4,2019,11,51,4
+5158,0,,,,,0,15,4,2019,10,59,31
+5160,0,^ ga di banned '__'),ㅤ,ㅤ,kokizzu,0,15,4,2019,11,3,6
+5161,0,👌,PBud1,,pbud1,0,15,4,2019,12,16,42
+5164,5163,"Min min, ada spam.",Maaf,Merepotkan... 🙏,cahgentoo,0,16,4,2019,20,12,46
+5165,0,,Muhammad,Tri Wibowo,brainplusplus,0,16,4,2019,20,18,12
+5166,0,,,,,0,16,4,2019,20,56,41
+5167,0,,,,,0,17,4,2019,7,43,39
+5170,0,Crystal 0.28.0 released! - The Crystal Programming Language\nhttps://crystal-lang.org/2019/04/17/crystal-0.28.0-released.html,PBud1,,pbud1,0,18,4,2019,23,38,33
+5171,0,👏👏👏,PBud1,,pbud1,0,18,4,2019,23,38,43
+5172,0,"We are really happy to include some refactors that move us forward in the way to parallelism and to include an extension to bdwgc that will enable its multi-threading support to work with the Crystal runtime.\n\nAlthough you can’t use MT right now, the work done at [#7546](https://github.com/crystal-lang/crystal/pull/7546) will enable to compare alternatives in the GC and changes in the scheduler when -D preview_mt is used. While the MT is being developed piece by piece we are trying to avoid slow down in the single-threaded apps.",PBud1,,pbud1,0,18,4,2019,23,41,52
+5173,0,https://youtu.be/PuqvP5j4cBg bantu subscribe like dong buat Chanel baru ini🙏🏻,,,,0,19,4,2019,5,3,39
+5174,0,/qc,,,,0,20,4,2019,10,46,16
+5175,5174,"**[REAL COUNT KPU]**\nVersi : 2019-04-20 17:30:03+07:00\n\n======================\nPasangan 01 : 4,243,689 (54.92%)\nPasangan 02 : 3,481,956 (45.07%)\n======================\n\nProgress 40345 dari 813350 TPS (4.960%)",,,,0,20,4,2019,10,46,21
+5176,0,/qc,Abdul Hakim Ghaniy,,ghaniy_kie,0,20,4,2019,11,31,25
+5177,5176,**[REAL COUNT KPU]**\nVersi : 2019-04-20 18:15:03+07:00\n\n======================\nPasangan 01 : 4.341.256 (54.94%)\nPasangan 02 : 3.559.779 (45.05%)\n======================\n\nProgress 41245 dari 813350 TPS (5.071%),,,,0,20,4,2019,11,31,26
+5178,0,/rc,Abdul Hakim Ghaniy,,ghaniy_kie,0,20,4,2019,11,31,34
+5179,5178,**[REAL COUNT KPU]**\nVersi : 2019-04-20 18:15:03+07:00\n\n======================\nPasangan 01 : 4.341.256 (54.94%)\nPasangan 02 : 3.559.779 (45.05%)\n======================\n\nProgress 41245 dari 813350 TPS (5.071%),,,,0,20,4,2019,11,31,35
+5180,0,/rc,Muhammad Surya,,fs_02,0,20,4,2019,13,55,8
+5181,5180,**[REAL COUNT KPU]**\nVersi : 2019-04-20 20:45:02+07:00\n\n============================\nPasangan 01 : 4.817.416 (54.89%)\nPasangan 02 : 3.958.628 (45.10%)\n\nPerbedaan Suara : 858.788\n============================\n\nPerolehan suara saat ini di pimpin oleh **Pasangan 01**\n\nProgress 45796 dari 813350 TPS (5.630%),,,,0,20,4,2019,13,55,9
+5182,0,Is anyone already wake up,Bajro,Lisic,bajro91,0,20,4,2019,21,8,30
+5183,0,😢 I need help,Bajro,Lisic,bajro91,0,20,4,2019,21,8,37
+5184,0,Hei,,,,0,21,4,2019,3,24,8
+5185,0,yes wokep but im out of station.,PBud1,,pbud1,0,21,4,2019,6,18,41
+5186,0,I stack little with my program,Bajro,Lisic,bajro91,0,21,4,2019,11,57,27
+5187,0,now I will rework all from 0,Bajro,Lisic,bajro91,0,21,4,2019,11,57,37
+5188,0,again  this is 5th time I think,Bajro,Lisic,bajro91,0,21,4,2019,11,57,45
+5189,0,😂,Bajro,Lisic,bajro91,0,21,4,2019,11,57,49
+5190,0,but I will not give up until be get all I need,Bajro,Lisic,bajro91,0,21,4,2019,11,58,13
+5191,0,"how come you rewrite till 5 times, bad design?",PBud1,,pbud1,0,21,4,2019,13,15,23
+5192,0,nambah crystal anyone?\n\nhttps://docs.google.com/spreadsheets/d/1k7LV0eiDXV6oUnlb7b8TLyQINEEFEWt_eOunv2YImsc/edit#gid=0,ㅤ,ㅤ,kokizzu,0,21,4,2019,13,34,8
+5193,0,the problem is,Bajro,Lisic,bajro91,0,21,4,2019,14,19,55
+5194,0,because I convert it from php,Bajro,Lisic,bajro91,0,21,4,2019,14,20,3
+5195,0,and php dont care about types,Bajro,Lisic,bajro91,0,21,4,2019,14,20,13
+5196,0,and it killing me,Bajro,Lisic,bajro91,0,21,4,2019,14,20,19
+5199,0,what is this?,Bajro,Lisic,bajro91,0,21,4,2019,15,55,54
+5200,0,Ups,,,,0,21,4,2019,16,0,25
+5201,5192,"Boleh dimaintain om Kis untuk selling pointnya, pakai info dari halaman depan web crystal. https://crystal-lang.org : Type System, Macros, Null Ref Check, Concurrency.",PBud1,,pbud1,0,22,4,2019,6,29,16
+5202,0,Yas,,,,0,22,4,2019,6,38,29
+5203,0,"Aku isi elixir, tapi belum kelar",,,,0,22,4,2019,6,38,47
+5204,0,"Bagus kalau ada yang buat sebagai halaman web ya, lebih enak comparenya bisa pilih mana vs mana, sintak hilight",PBud1,,pbud1,0,22,4,2019,6,42,43
+5206,0,,,,,0,22,4,2019,10,33,2
+5208,0,,,,,0,22,4,2019,11,27,57
+5209,0,(link: https://www.crystalforrubyists.com) crystalforrubyists.com,PBud1,,pbud1,0,23,4,2019,0,50,51
+5210,0,Reborn!,PBud1,,pbud1,0,23,4,2019,0,50,56
+5211,0,,Harapan,Tambunan,ucokcode,0,23,4,2019,4,34,1
+5212,0,/rc,Abdul Hakim Ghaniy,,ghaniy_kie,0,23,4,2019,23,0,43
+5216,0,Hello :),Bajro,Lisic,bajro91,0,28,4,2019,9,57,30
+5217,0,I finish prayer calculation,Bajro,Lisic,bajro91,0,28,4,2019,9,59,20
+5218,0,😅,Bajro,Lisic,bajro91,0,28,4,2019,9,59,26
+5219,0,finally,Bajro,Lisic,bajro91,0,28,4,2019,9,59,29
+5220,0,https://github.com/bajro17/prayertimes-crystal,Bajro,Lisic,bajro91,0,28,4,2019,10,54,3
+5221,0,if you have some time I would like to know is it work correct,Bajro,Lisic,bajro91,0,28,4,2019,10,54,27
+5222,0,Join Now ! @DGraph_ID,,,,0,28,4,2019,19,46,39
+5223,0,@pbud1,Bajro,Lisic,bajro91,0,29,4,2019,7,2,30
+5224,0,or anyone else :(,Bajro,Lisic,bajro91,0,29,4,2019,7,2,40
+5225,0,Hi bro... sorry kinda busy with frontend stuff lately. Coming wednesday is holiday here in indonesia. insya Allah i will check 🤗,PBud1,,pbud1,0,29,4,2019,14,9,18
+5226,0,congrat anyway you can finally translate from php to crystal successfully,PBud1,,pbud1,0,29,4,2019,14,9,47
+5227,0,cie,,,,0,29,4,2019,14,9,53
+5228,0,abis liburan nih om,,,,0,29,4,2019,14,9,58
+5229,0,kan rabu depan mayday om,PBud1,,pbud1,0,29,4,2019,14,10,17
+5230,0,tanggal merah tuh 1 may libur,PBud1,,pbud1,0,29,4,2019,14,10,29
+5231,0,engga tau tuh ane,,,,0,29,4,2019,14,10,36
+5232,0,lupa tanggal,,,,0,29,4,2019,14,10,39
+5233,0,wk,,,,0,29,4,2019,14,10,39
+5235,0,keasikan ngedgraph si om sampe lupa ada libur tengah weekdays,PBud1,,pbud1,0,29,4,2019,14,10,53
+5236,5234,woah great news om,PBud1,,pbud1,0,29,4,2019,14,11,9
+5237,0,tapi harus balik ke jawa nya itu,,,,0,29,4,2019,14,11,28
+5238,0,hmm,,,,0,29,4,2019,14,11,29
+5239,0,ngga ada nikah online ?,,,,0,29,4,2019,14,11,34
+5240,0,hahaha,,,,0,29,4,2019,14,11,35
+5241,0,"sekarang di mana, makasar?",PBud1,,pbud1,0,29,4,2019,14,11,38
+5242,0,pontianak om,,,,0,29,4,2019,14,11,52
+5243,0,nikah mau di jawa,,,,0,29,4,2019,14,11,55
+5244,0,"iya lah om happy kalau nikah, mudik menghalalkan sang kekasih",PBud1,,pbud1,0,29,4,2019,14,12,22
+5245,0,jauh pun tak berasa lelah,PBud1,,pbud1,0,29,4,2019,14,12,58
+5246,0,haha,,,,0,29,4,2019,14,22,19
+5247,5225,Thank you so much,Bajro,Lisic,bajro91,0,29,4,2019,14,24,24
+5248,0,from now every time I'm free,Bajro,Lisic,bajro91,0,29,4,2019,14,24,36
+5249,0,I will try ask much I can things to Crystal,Bajro,Lisic,bajro91,0,29,4,2019,14,24,47
+5250,0,tomorrow I will put on heroku web app to see how all work,Bajro,Lisic,bajro91,0,29,4,2019,14,25,13
+5251,0,,Muhamad Amir,Huzein,hu231n,0,29,4,2019,17,23,4
+5252,0,,,,,0,29,4,2019,20,25,24
+5254,0,,,,,0,30,4,2019,16,32,35
+5256,0,https://prayertimes-crystal.herokuapp.com/,Bajro,Lisic,bajro91,0,30,4,2019,23,12,18
+5257,0,you can check here app it will be improved this days,Bajro,Lisic,bajro91,0,30,4,2019,23,12,35
+5258,5256,You can automatically fill the latitude and longitude textbox using html geolocation,PBud1,,pbud1,0,1,5,2019,3,8,32
+5259,0,,PBud1,,pbud1,0,1,5,2019,3,12,26
+5260,0,It works bro,PBud1,,pbud1,0,1,5,2019,3,12,52
+5261,0,Yayyy,Bajro,Lisic,bajro91,0,1,5,2019,6,54,21
+5262,0,Now I will put map and search bar,Bajro,Lisic,bajro91,0,1,5,2019,6,54,48
+5263,0,And adjustments fields,Bajro,Lisic,bajro91,0,1,5,2019,6,55,24
+5264,0,why do you choose vuejs over other frontend ui lib/frameworks,PBud1,,pbud1,0,1,5,2019,7,30,3
+5265,0,Because I love vue,Bajro,Lisic,bajro91,0,1,5,2019,7,37,28
+5266,0,For me it is more natural then other,Bajro,Lisic,bajro91,0,1,5,2019,7,37,45
+5267,0,what is natural here,PBud1,,pbud1,0,1,5,2019,7,39,42
+5268,0,Just way of write,Bajro,Lisic,bajro91,0,1,5,2019,7,40,5
+5269,0,And I need it for reactivity,Bajro,Lisic,bajro91,0,1,5,2019,7,40,28
+5270,0,Because I will add so much other things,Bajro,Lisic,bajro91,0,1,5,2019,7,40,48
+5271,0,Its just start,Bajro,Lisic,bajro91,0,1,5,2019,7,40,53
+5272,0,Nice,PBud1,,pbud1,0,2,5,2019,10,5,49
+5274,0,,,,,0,3,5,2019,7,16,38
+5275,0,,mang ujang,,,0,4,5,2019,18,37,31
+5276,0,,,,,0,8,5,2019,8,40,19
+5278,0,Spamm,ㅤ,ㅤ,kokizzu,0,8,5,2019,9,1,54
+5279,0,,BOJES,RONI,Fuck9909,0,8,5,2019,20,41,22
+5280,0,Open Lowongan Kerja Luar Negeri!,,,,0,9,5,2019,20,27,24
+5281,0,https://crystal-lang.org/2019/05/08/formatting-pretty-numbers-for-humans.html,,,,0,9,5,2019,22,27,44
+5282,0,,,,,0,10,5,2019,21,46,48
+5284,0,,,,,0,13,5,2019,17,43,1
+5285,0,,,,,0,14,5,2019,5,4,1
+5286,0,,Dedy,Irawan,dedyirawaninc,0,16,5,2019,2,56,36
+5287,0,Hellowww... Hellowww... Hellowww...,Dedy,Irawan,dedyirawaninc,0,16,5,2019,2,56,39
+5288,0,,,,,0,16,5,2019,10,44,28
+5290,0,spamm,ㅤ,ㅤ,kokizzu,0,16,5,2019,23,58,52
+5291,0,,,,,0,17,5,2019,16,30,24
+5300,0,,Muhammad Hafidl,,Hafidl,0,21,5,2019,6,57,36
+5305,0,,,,,0,23,5,2019,21,46,53
+5311,0,,Mr.,X,mrx033,0,24,5,2019,20,3,57
+5314,0,,riyo,santo,riyosanto,0,25,5,2019,13,15,1
+5320,0,,,,,0,30,5,2019,9,0,10
+5324,0,,,,,0,2,6,2019,4,2,55
+5327,0,,Hadi,Suseno,Jawzky,0,4,6,2019,0,36,50
+5331,0,,Ihwan,¯\(ツ)/¯,ihwanid,0,6,6,2019,8,40,24
+5332,0,,нεиδяαsεтια,,hss2o21,0,6,6,2019,23,17,14
+5333,0,,󠀡󠀡󠀡󠀡,𝑹𝒊𝒛𝒌𝒚,wonderestt,0,7,6,2019,6,17,47
+5337,0,,Yandi,Yandi,Yandi_Bastian,0,8,6,2019,13,38,36
+5338,0,,Reza,Rochmat,rezanurrochmat13,0,8,6,2019,14,2,47
+5339,0,https://github.com/crystal-lang/crystal/releases/tag/0.29.0,PBud1,,pbud1,0,11,6,2019,0,3,12
+5340,0,Change Log 0.29,PBud1,,pbud1,0,11,6,2019,0,3,27
+5341,0,,,,,0,11,6,2019,13,33,4
+5342,0,,,,,0,12,6,2019,2,18,54
+5344,0,Send me aplikasi Ss7,BOJES,RONI,Fuck9909,0,15,6,2019,9,4,44
+5345,0,,,,,0,16,6,2019,22,47,32
+5346,0,@investasihere\n\n\nJoin,BOJES,RONI,Fuck9909,0,17,6,2019,5,15,3
+5348,0,,,,,0,18,6,2019,10,18,51
+5351,5349,Apan ini,BOJES,RONI,Fuck9909,0,19,6,2019,8,25,7
+5353,0,Benarkah ?,Maaf,Merepotkan... 🙏,cahgentoo,0,19,6,2019,13,32,39
+5354,0,,Minion,Love Banana,MinionLoveBanana,0,20,6,2019,11,31,57
+5355,0,,Ade,Fajar,adfajar,0,20,6,2019,12,25,28
+5356,0,,,,,0,21,6,2019,4,1,4
+5357,0,,,,,0,22,6,2019,0,14,55
+5358,0,,Ama,,Dunovem,0,25,6,2019,13,14,31
+5360,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,26,6,2019,3,14,2
+5370,0,,,,,0,3,7,2019,7,42,45
+5371,0,,,,,0,3,7,2019,10,53,47
+5372,0,,,,,0,4,7,2019,0,44,34
+5375,0,Spam @pbud1,Indra,Gunawan,bossBuzz,0,4,7,2019,2,7,13
+5376,0,BTW masih unyu2... silahkan dicicipi 😄,Indra,Gunawan,bossBuzz,0,4,7,2019,2,11,21
+5377,0,https://t.me/RustLangID,Indra,Gunawan,bossBuzz,0,4,7,2019,2,11,23
+5378,5375,ashiaapp,PBud1,,pbud1,0,4,7,2019,4,11,29
+5379,5377,aww baru 2 member om,PBud1,,pbud1,0,4,7,2019,4,11,58
+5380,0,wlwl,Indra,Gunawan,bossBuzz,0,4,7,2019,4,13,51
+5381,0,,Abed,,bungbed,0,5,7,2019,9,50,57
+5382,0,,,,,0,7,7,2019,22,39,46
+5386,0,,Zaen,Ars,ZaenalArsy,0,14,7,2019,0,40,59
+5387,0,,,,,0,19,7,2019,4,57,56
+5388,0,,,,,0,19,7,2019,7,31,12
+5392,0,,Shendy,,Shendyva,0,23,7,2019,6,41,15
+5394,0,,,,,0,23,7,2019,10,10,45
+5395,0,,Kang,Galau,Memilihtakberartimenikahbesok,0,23,7,2019,13,21,55
+5396,0,,Umut,Uluer,,0,23,7,2019,22,28,1
+5397,0,,Riki,Subagja,RikiSu,0,24,7,2019,2,44,18
+5398,0,,,,,0,24,7,2019,4,36,15
+5399,0,,🇮🇩'ᴠᴏsᴇᴍ🍁,שטארק,PersoneChiuseeeee,0,24,7,2019,7,28,35
+5400,0,,Reinaldo Dwiky Prastama,,reinaldodprastama,0,26,7,2019,4,44,32
+5401,0,,,,,0,27,7,2019,11,28,52
+5402,0,,,,,0,27,7,2019,19,26,21
+5403,0,,,,,0,30,7,2019,0,26,53
+5405,0,,Yiruma,,jventer,0,2,8,2019,11,40,12
+5406,0,https://crystal-lang.org/2019/08/01/crystal-0.30.0-released.html,PBud1,,pbud1,0,2,8,2019,13,43,33
+5407,0,,Medhat,Mohamed,Medhatmohamed910,0,3,8,2019,6,43,52
+5408,0,,,,,0,3,8,2019,8,52,17
+5409,0,,,,,0,6,8,2019,10,13,31
+5414,0,,Firman F,,FirmanFathoni,0,9,8,2019,14,36,32
+5415,0,https://crystal-lang.org/2019/08/12/crystal-0.30.1-released.html,PBud1,,pbud1,0,12,8,2019,23,52,28
+5416,0,,Hsyn,Jalmaf,Hsynjalmaf,0,13,8,2019,7,38,47
+5417,5415,kapan crystal 1.0 release ya hahaa,Muhammad,Tri Wibowo,brainplusplus,0,13,8,2019,8,20,15
+5418,0,nimlang udah mau 1.0,,,,0,13,8,2019,8,22,13
+5419,5417,"Masih di awang-awang alam mimpi sepertinya om. Strateginya kurang tepat nih, sayang resourcenya dipakai buat windows support.",PBud1,,pbud1,0,13,8,2019,9,0,19
+5420,5418,Gimana experience pakai nim om,PBud1,,pbud1,0,13,8,2019,9,2,5
+5421,0,https://github.com/vlang/vorum,Muhammad,Tri Wibowo,brainplusplus,0,13,8,2019,9,10,4
+5422,0,"Menarik vlang. Kombinasi Rust and Go. Beberapa hari lalu sempet coba plain text http servernya, sadis speednya 😁",PBud1,,pbud1,0,13,8,2019,11,58,1
+5423,0,Liat 1-2 tahun ke depan,PBud1,,pbud1,0,13,8,2019,11,58,45
+5424,0,Potensinya bagus,PBud1,,pbud1,0,13,8,2019,11,59,0
+5425,5422,"ini aja masih jelek katanya http servernya alias belom pake epoll/kqueue, gmn klo dah implement",Muhammad,Tri Wibowo,brainplusplus,0,13,8,2019,12,2,22
+5426,5425,"Dia code sendiri http servernya di c ya, dicall via v. Padahal udah ada package picoev",PBud1,,pbud1,0,13,8,2019,12,37,47
+5427,0,Tinggal pake wus2,PBud1,,pbud1,0,13,8,2019,12,38,8
+5428,0,,,,,0,13,8,2019,14,8,40
+5429,0,Hi,,,,0,13,8,2019,14,8,47
+5430,0,https://dev.to/watzon/browsing-the-web-with-crystal-3mf2,PBud1,,pbud1,0,14,8,2019,11,55,13
+5431,0,,Taufiq,Wahid,taufiqwahid,0,18,8,2019,2,55,2
+5434,0,,widya huang,,Widyahuanggg,0,22,8,2019,9,57,34
+5436,0,https://github.com/crystal-lang/crystal/pull/8112,PBud1,,pbud1,0,24,8,2019,1,51,52
+5437,0,Crystal MultiThread 👏👏,PBud1,,pbud1,0,24,8,2019,1,52,34
+5438,0,Finally,PBud1,,pbud1,0,24,8,2019,1,52,56
+5439,0,,iqbal,rafsanjani,iqbaloutlaw,0,25,8,2019,13,17,57
+5440,0,,Tanov,,Ulbertanov,0,26,8,2019,4,58,23
+5441,0,,,,,0,28,8,2019,3,36,19
+5442,0,,Rey Riyan,Sanjaya,ReyRiyanSanjaya,0,29,8,2019,14,11,44
+5443,0,,Andi,Siswa,bensisva,0,31,8,2019,15,2,50
+5444,0,"Assalamualaikum, saya Andi dari Jogja mohon ijin duduk di pojokan.",Andi,Siswa,bensisva,0,31,8,2019,15,3,47
+5445,0,,Akhiruddin,Hasibuan,Khirhass,0,31,8,2019,17,12,21
+5446,5444,"waalaikumsalam, depan masih kosong om..",PBud1,,pbud1,0,1,9,2019,11,17,9
+5447,0,"Malu kak, murid baru, udah tua lagi. Ntar ngalingin yang belakang. Hehehe",Andi,Siswa,bensisva,0,1,9,2019,11,19,21
+5449,0,,Akbarcell,,,0,1,9,2019,15,34,29
+5450,5444,Wah sama kita,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,1,9,2019,22,58,36
+5451,0,Sama2 duduk dipojokan atau sama2 dari Jogja?,PBud1,,pbud1,0,1,9,2019,23,7,59
+5453,5451,Sama sama murid baru wahahha,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,1,9,2019,23,9,44
+5454,0,Kenapa tertarik dengan crystal?,PBud1,,pbud1,0,1,9,2019,23,30,59
+5455,0,Multithreading · Issue #8112 · crystal-lang/crystal · GitHub\nhttps://github.com/crystal-lang/crystal/pull/8112,PBud1,,pbud1,0,2,9,2019,17,0,20
+5456,0,MT PR dimerge ke master 👍,PBud1,,pbud1,0,2,9,2019,17,0,43
+5458,5457,"Thread Pool definisinya apa om, worker threads kah? Nunggu task dan bisa reuse?",PBud1,,pbud1,0,3,9,2019,9,49,27
+5459,0,"Saya belum explore juga kodenya, masih belum dapet info. Tunggu official release blognya aja terkait MT ini",PBud1,,pbud1,0,3,9,2019,9,50,40
+5461,0,https://forum.crystal-lang.org/t/multithreaded-crystal-initial-thoughts/1089,PBud1,,pbud1,0,3,9,2019,14,43,32
+5462,0,Single Thread : `50590.09` rps\nPreview MT : `108131.26` rps,PBud1,,pbud1,0,3,9,2019,14,44,21
+5463,0,Dobel throughput,PBud1,,pbud1,0,3,9,2019,14,45,7
+5465,5461,32 core? Ryzen Threadripper? hahah,,,,0,4,9,2019,9,35,55
+5466,5465,Arti ketawanya ambigu ini om 😊,PBud1,,pbud1,0,4,9,2019,9,40,16
+5467,0,Waduh saya hype doang ama procie itu xD,,,,0,4,9,2019,9,41,7
+5468,0,tp lom kesampean,,,,0,4,9,2019,9,41,10
+5469,5464,https://github.com/ziprandom/graphql-crystal,PBud1,,pbud1,0,4,9,2019,11,9,33
+5471,0,Parallelism in Crystal - The Crystal Programming Language\nhttps://crystal-lang.org/2019/09/06/parallelism-in-crystal.html,PBud1,,pbud1,0,6,9,2019,23,9,7
+5472,0,,iMMANUEL,PAY,immanuelpay,0,7,9,2019,10,28,3
+5473,0,,zilll,,rphelz,0,9,9,2019,11,41,18
+5474,0,,,,,0,10,9,2019,5,23,6
+5475,0,just info kalau tanggal 24 September itu akan ada workshop terkait “becoming blockchain developer”,Muhammad,Tri Wibowo,brainplusplus,0,15,9,2019,12,27,8
+5476,0,just info juga kalau tanggal 1 Oktober itu akan ada workshop terkait “Introduction to Data Science”,Muhammad,Tri Wibowo,brainplusplus,0,15,9,2019,12,47,2
+5477,5476,"Ntap om, blockchain + Data Science.",PBud1,,pbud1,0,16,9,2019,23,2,18
+5478,0,https://youtu.be/du09EF3lSIE,PBud1,,pbud1,0,16,9,2019,23,3,3
+5479,0,Part 1: Intro dan sedikit History lahirnya Crystal. 2 bulan ke depan bisa stay tune buat yang ingin learn crystal.,PBud1,,pbud1,0,16,9,2019,23,3,50
+5481,5479,Nyimak om,ervin,,ervien,0,17,9,2019,9,10,48
+5482,0,Release 0.31.0 · Issue #8190 · crystal-lang/crystal · GitHub\nhttps://github.com/crystal-lang/crystal/pull/8190/files#diff-4ac32a78649ca5bdd8e0ba38b7006a1eR19,PBud1,,pbud1,0,17,9,2019,16,0,38
+5483,0,Beware breaking changes versi crystal akan datang,PBud1,,pbud1,0,17,9,2019,16,1,36
+5485,0,,Dani,Gunawan,dani_gunawan,0,18,9,2019,1,4,26
+5486,0,,,,,0,18,9,2019,7,16,1
+5489,0,,,,,0,18,9,2019,22,33,57
+5491,0,,,,,0,19,9,2019,1,27,22
+5492,0,,,,,0,20,9,2019,11,31,40
+5493,0,,Emil,Masti,emilmasti,0,21,9,2019,5,31,50
+5496,0,🤣🤣🤣👍,PBud1,,pbud1,0,23,9,2019,12,18,6
+5497,0,Crystal 0.31.0 released! - The Crystal Programming Language\nhttps://crystal-lang.org/2019/09/23/crystal-0.31.0-released.html,PBud1,,pbud1,0,23,9,2019,22,8,2
+5498,0,Official release with MT 👏👏👏,PBud1,,pbud1,0,23,9,2019,22,8,26
+5499,0,,Alvyn,,Alvyna,0,24,9,2019,18,51,18
+5500,0,"Salam kenal, nama saya Alvyn.\nTerima kasih untuk berbagi ilmunya Bapak / Ibu.",Alvyn,,Alvyna,0,24,9,2019,18,53,8
+5503,0,Enabling Crystal’s New Multicore Support https://dev.to/jgaskins/enabling-crystal-s-new-multicore-support-4l4g,PBud1,,pbud1,0,26,9,2019,5,47,6
+5504,5503,Saya belum berhasil memahami perbedaan antara concurrency dengan paralelisme.,Maaf,Merepotkan... 🙏,cahgentoo,0,26,9,2019,6,20,23
+5505,5504,Coba lagi 😁,PBud1,,pbud1,0,26,9,2019,6,35,26
+5506,5505,Baiklah 😁,Maaf,Merepotkan... 🙏,cahgentoo,0,26,9,2019,6,54,45
+5507,0,kalau mentok baru info lagi om,PBud1,,pbud1,0,26,9,2019,6,55,21
+5508,0,nanti saya minta coba lagi 😊,PBud1,,pbud1,0,26,9,2019,6,55,37
+5509,5504,"Bayangin concurrency itu koki sedang ngerebus spaghetti sambil sedang memotong tomat. Si koki bisa mengerjakan dua kerjaan berbeda dalam satu waktu dengan catatan yg satunya pasif menunggu, sedangkan satunya aktif dikerjakan. Poinnya concurrency tidak bisa mengerjakan lebih dari 1 kerjaan aktif dalam 1 waktu.\n\nKalau parallelism bayangin ada dua koki yg bisa mengerjakan hal2 yg sama.",Kharisma,Putra,ksdwiputra,0,26,9,2019,11,24,50
+5510,5509,https://techdifferences.com/difference-between-concurrency-and-parallelism.html,Maaf,Merepotkan... 🙏,cahgentoo,0,26,9,2019,15,40,3
+5511,5507,Saya pura2 paham dulu yaks ☺️ ?\n\nKalau berkenan.,Maaf,Merepotkan... 🙏,cahgentoo,0,26,9,2019,15,40,31
+5512,0,"concurrency bahasa sederhananya...\n\ndalam satuan waktu tertentu, bs ngerjain kerjaan berapa banyak",,,,0,26,9,2019,15,43,12
+5513,0,"misal, 1 detik bisa ngerjain 10 kerjaan",,,,0,26,9,2019,15,43,22
+5514,5513,"artinya kalau dibagi rata, 1 kerjaan makan waktu 1/10 detik, atau 100 milisekon",,,,0,26,9,2019,15,43,49
+5515,0,"tapi paralelism,\n10 kerjaan itu terjadi di 100 milisekon yang sama",,,,0,26,9,2019,15,44,8
+5516,5514,Time slices.,Maaf,Merepotkan... 🙏,cahgentoo,0,26,9,2019,15,46,31
+5518,0,,Galih,Handinawa,galwa03,0,28,9,2019,12,46,22
+5519,0,,Dr.id,Sensor,,0,28,9,2019,14,47,59
+5520,0,,,,,0,29,9,2019,4,6,21
+5521,5517,"Crystal Vs Ruby\n1. Compiled vs Interpreted\n2. Static Type vs Dynamic Type (skrg ada sorbet di ruby untuk static type checking, mirip TypeScript perannya kalau di JS)\n3. Performance crystal jauh diatas ruby\n4. Crystal Full OOP\n5. Crystal self hosted lang (Ditulis pake Bahasa Crystal), Ruby sebagian masih pakai C (CMIIW)\n6. Concurrency Model Crystal ala Go Routines 😍",PBud1,,pbud1,0,30,9,2019,4,27,2
+5522,0,Nanti ditambahkan kalau ada inget bedanya,PBud1,,pbud1,0,30,9,2019,4,27,28
+5524,0,,Erik,Sanjaya,eriksanjaya,0,30,9,2019,4,37,53
+5525,0,Crystal 0.31.1 released! - The Crystal Programming Language\nhttps://crystal-lang.org/2019/09/30/crystal-0.31.1-released.html,PBud1,,pbud1,0,30,9,2019,22,41,1
+5526,0,,,,,0,1,10,2019,9,11,13
+5527,0,,Yudi,Gunawan,Behmut,0,1,10,2019,22,22,32
+5528,0,,Dadan,Suhamdani,ddhanz,0,2,10,2019,13,21,37
+5529,0,,Haikal,Saparudin,HaikalSaparudin,0,3,10,2019,22,46,44
+5532,0,"Ijin share JobInfo , terimakasih",Ade,Fajar,adfajar,0,7,10,2019,5,48,38
+5533,0,,Ubay,,ubaydinho14,0,9,10,2019,2,2,45
+5535,0,,Deri,Kurniawan,Deri_kurniawan,0,9,10,2019,4,16,35
+5536,0,,Saya,Tuli,dodychris,0,9,10,2019,7,10,51
+5537,0,Faster mutex implementation (optionally reentrant) · Issue #8295 · crystal-lang/crystal · GitHub\nhttps://github.com/crystal-lang/crystal/pull/8295,PBud1,,pbud1,0,9,10,2019,10,45,27
+5540,5539,siip,PBud1,,pbud1,0,9,10,2019,11,38,11
+5541,0,,,,,0,11,10,2019,8,58,27
+5542,0,,🐣🐣🐣🐣,,batik_jogja,0,12,10,2019,3,57,55
+5543,0,,Rubi,,codenoid,0,12,10,2019,4,7,19
+5544,5537,aktif lagi wajnerman,Rubi,,codenoid,0,12,10,2019,4,8,30
+5545,5418,udah sekarang,Rubi,,codenoid,0,12,10,2019,4,43,34
+5546,0,,Kresna Bayu,R,Kbayureynaldi,0,12,10,2019,11,59,22
+5547,0,,Daniel,Putera Alamsyah,dputeraa,0,14,10,2019,1,32,26
+5548,0,any project or job available?,Bajro,Lisic,bajro91,0,14,10,2019,5,0,8
+5549,0,:),Bajro,Lisic,bajro91,0,14,10,2019,5,0,9
+5550,0,,,,,0,15,10,2019,6,38,57
+5552,5551,job? :D,Bajro,Lisic,bajro91,0,15,10,2019,7,29,32
+5554,0,ok 😢,Bajro,Lisic,bajro91,0,15,10,2019,7,30,16
+5555,0,if someone have some project I will love to help,Bajro,Lisic,bajro91,0,15,10,2019,8,35,17
+5556,0,http://friendsofcrystal.com/,Andi,Siswa,bensisva,0,19,10,2019,12,22,52
+5557,0,https://twitter.com/sdogruyol/status/1185386255120556033?s=19,Andi,Siswa,bensisva,0,19,10,2019,12,23,23
+5558,0,,whdzera,,whdzera,0,19,10,2019,18,53,20
+5559,0,https://www.toptal.com/blockchain/crystal-programming-language-tutorial,Andi,Siswa,bensisva,0,21,10,2019,0,30,42
+5560,0,,m. fatkhul,iman,,0,21,10,2019,4,17,17
+5563,0,,,,,0,23,10,2019,3,42,58
+5564,0,Help me,,,,0,23,10,2019,3,43,5
+5566,0,,,,,0,23,10,2019,8,12,48
+5567,0,"Selamat siang mas, bagaimana biar bsa paham bhsa c++ ya?",,,,0,23,10,2019,9,9,26
+5569,0,,,,,0,24,10,2019,3,33,39
+5571,0,,,,,0,24,10,2019,3,36,10
+5572,0,,,,,0,24,10,2019,3,36,46
+5574,0,,,,,0,24,10,2019,3,38,0
+5575,0,,,,,0,24,10,2019,3,38,42
+5576,0,,,,,0,24,10,2019,3,38,59
+5577,0,,,,,0,24,10,2019,3,43,13
+5579,0,,,,,0,24,10,2019,3,43,50
+5580,0,,,,,0,24,10,2019,3,44,5
+5581,0,,,,,0,24,10,2019,3,44,36
+5582,0,,,,,0,24,10,2019,3,44,50
+5583,0,"Tiba tiba ada massive join, hopefully memang ingin belajar crystal lang",PBud1,,pbud1,0,25,10,2019,23,4,51
+5584,0,😄,PBud1,,pbud1,0,25,10,2019,23,5,0
+5585,0,welcome aboard,PBud1,,pbud1,0,25,10,2019,23,5,6
+5586,5563,"Untuk menyederhanakan penulisan code di crystal bisa menggunakan enumerable.\n```ruby\n# Solusi 1, factorial 7\nf = 1; (1..7).each {|v| f *= v}\nputs f\n\n# Solusi 2, factorial 4\nputs (1..4).reduce {|acc,i| acc * i}```",PBud1,,pbud1,0,25,10,2019,23,22,25
+5587,0,https://play.crystal-lang.org/#/r/7w0m,PBud1,,pbud1,0,25,10,2019,23,24,41
+5588,0,,Dwi Ilham,Maulana,dwiilhamm,0,25,10,2019,23,38,18
+5589,0,,Jayakusuma404,,jayakusuma404,0,25,10,2019,23,41,34
+5590,0,,Subhashish,Ray,,0,26,10,2019,10,45,46
+5591,0,"Hello guys, I have got Skillshare referral link through which you can access all the classes on Skillshare free for 2 months.. all the classes of data science and machine learning. Let me know your interest by sending a direct message to me",Subhashish,Ray,,0,26,10,2019,10,48,4
+5592,0,,Bayu Surya Atmoko,,bayu_surya_a,0,28,10,2019,5,3,53
+5593,0,,FRD,,FRD303,0,31,10,2019,0,55,10
+5594,0,,,,,0,2,11,2019,0,47,26
+5595,0,,destroyer,,Rylto,0,4,11,2019,4,49,52
+5598,0,,,,,0,6,11,2019,15,35,52
+5599,0,,Adhi,Ariyadi,adhiariyadi,0,7,11,2019,3,27,53
+5603,0,,,,,0,8,11,2019,8,52,3
+5604,0,lbarasti's Channel - Twitch\nhttps://m.twitch.tv/lbarasti/profile,PBud1,,pbud1,0,8,11,2019,12,6,25
+5605,0,List broadcast crystal,PBud1,,pbud1,0,8,11,2019,12,6,35
+5607,5606,Bisa banget,PBud1,,pbud1,0,8,11,2019,12,18,42
+5608,5604,❤️,Bajro,Lisic,bajro91,0,8,11,2019,12,51,24
+5610,5609,https://github.com/ffwff/lilith/blob/master/README.md,PBud1,,pbud1,0,8,11,2019,16,19,29
+5612,0,,Saputra,,,0,12,11,2019,6,22,27
+5613,0,,Saputra,,,0,12,11,2019,6,22,42
+5614,0,"Watch ""Chicago Crystal - Streams of Information by Brian J. Cardiff"" on YouTube\nhttps://youtu.be/LTFLY9tMvIc",PBud1,,pbud1,0,13,11,2019,22,26,6
+5615,0,,,,,0,14,11,2019,12,42,37
+5618,0,Sore om,PBud1,,pbud1,0,15,11,2019,8,24,42
+5621,0,,Akbar,,muhrizkiakbar,0,15,11,2019,14,51,51
+5622,0,,A R,Z,rizkyza,0,15,11,2019,15,12,40
+5623,0,,Lamandiri™,| ©Hil®,dorenhills,0,15,11,2019,15,39,3
+5624,0,Selamet datang teman-teman 👋,Andi,Siswa,bensisva,0,15,11,2019,16,13,30
+5625,0,holaa,Akbar,,muhrizkiakbar,0,16,11,2019,3,50,42
+5626,0,😃,Akbar,,muhrizkiakbar,0,16,11,2019,3,50,53
+5627,5619,Belum ada om,PBud1,,pbud1,0,16,11,2019,8,1,19
+5628,5625,Hola welcome om,PBud1,,pbud1,0,16,11,2019,8,1,43
+5629,0,,Azhar,,a2h4r,0,17,11,2019,2,39,40
+5632,0,"Hallo , sobat ngoding.\n\nPengen hosting situs video sendiri, kali ini mimin ingin share proyek Invidious. Proyek ini dibangun mengunakan bahasa crystal diatas framework kemal , dan tentunya perangkat lunak merdeka (free software). banyak yang menyandingkan bahwa perangkat lunak ini serupa dengan youtube, penasaran ?\nTry it.\n\nhttps://github.com/omarroth/invidious",Andi,Siswa,bensisva,0,18,11,2019,17,13,31
+5634,5633,@pbud1 Spam,Miftah,MD,mitragroups,0,19,11,2019,4,39,11
+5635,5634,siip,PBud1,,pbud1,0,19,11,2019,5,1,46
+5636,5632,"Mantab, makasih infonya mas",Miftah,MD,mitragroups,0,19,11,2019,5,28,36
+5637,0,"Terimakasih kembali mas Miftah. Saya hanya forwarding saja kok, hehe..",Andi,Siswa,bensisva,0,19,11,2019,6,51,38
+5639,0,,,,,0,22,11,2019,3,10,56
+5640,0,,,,,0,23,11,2019,0,53,18
+5643,0,,Khairul,Mhd,khairul_muhammad,0,26,11,2019,1,27,49
+5644,0,,,,,0,26,11,2019,10,19,1
+5645,5632,Keren min makasih untuk ilmunya hehe,,,,0,26,11,2019,10,19,28
+5646,5645,,Andi,Siswa,bensisva,0,26,11,2019,10,27,26
+5647,0,,,,,0,26,11,2019,23,35,40
+5648,0,"Yet, Crystal beat not only my own expectations; but beat Nim for both memory usage **AND** execution times. I really didn’t expect to see Crystal come out this far ahead in performance. \n\nhttps://embark.status.im/news/2019/11/18/nim-vs-crystal-part-1-performance-interoperability/",Andi,Siswa,bensisva,0,27,11,2019,17,0,36
+5649,0,,AB,,ABofficiial,0,28,11,2019,3,49,30
+5650,0,Python Developers Group : @python_developers_group\nJavascript Developers Group: @javascriptdevelopersgroup,AB,,ABofficiial,0,28,11,2019,3,49,34
+5653,5649,,Maaf,Merepotkan... 🙏,cahgentoo,0,28,11,2019,6,11,42
+5654,5650,Those links are not Indonesian group. Are you spamming 🤔?,Maaf,Merepotkan... 🙏,cahgentoo,0,28,11,2019,6,12,28
+5657,0,,,,,0,1,12,2019,19,16,6
+5658,0,,F,,,0,3,12,2019,10,17,47
+5659,0,,,,,0,4,12,2019,0,15,1
+5660,0,,Abi,Yasir,abionale,0,4,12,2019,6,6,16
+5661,0,,,,,0,4,12,2019,10,47,8
+5665,0,,Agil,,,0,5,12,2019,8,11,13
+5666,0,,,,,0,6,12,2019,14,2,53
+5667,0,,,,,0,6,12,2019,16,53,10
+5668,0,Jangan lupa disubscribe chanelnya ya. Bukan punya saya tapi. :D,Andi,Siswa,bensisva,0,8,12,2019,9,36,0
+5669,0,https://youtu.be/dna_h_p5PCw,Andi,Siswa,bensisva,0,8,12,2019,9,36,0
+5671,5670,curiganya biasanya yang senyum-senyum yang punya chanel.,Andi,Siswa,bensisva,0,8,12,2019,9,49,32
+5674,0,"Ntar saya bikin chanel sendiri kalo udah bisa, tapi sekarang masih nol besar, hihihi. insya Allah. Aamiin.",Andi,Siswa,bensisva,0,8,12,2019,9,52,40
+5676,5675,,Andi,Siswa,bensisva,0,8,12,2019,9,53,59
+5678,0,"Belum bisa apa-apa lho mas. Mau ikut nonton, like, dan subscribe dulu bisanya. :D",Andi,Siswa,bensisva,0,8,12,2019,9,56,21
+5680,0,,,,,0,9,12,2019,1,28,30
+5681,0,https://youtu.be/5rpZOtcCHtk,PBud1,,pbud1,0,9,12,2019,22,34,2
+5682,5668,Mantep om kelas yodel.,PBud1,,pbud1,0,9,12,2019,22,36,53
+5683,0,,,,,0,10,12,2019,7,44,28
+5684,0,Crystal 0.32.0 released! - The Crystal Programming Language\nhttps://crystal-lang.org/2019/12/11/crystal-0.32.0-released.html,PBud1,,pbud1,0,12,12,2019,6,0,42
+5686,5684,,Andi,Siswa,bensisva,0,12,12,2019,6,8,25
+5687,0,,,,,0,12,12,2019,6,12,14
+5688,0,,,,,0,13,12,2019,8,20,39
+5690,0,https://youtu.be/EF9pYMOmzsM,Andi,Siswa,bensisva,0,14,12,2019,15,18,29
+5691,0,,Xi,Xiao,Juanxia,0,15,12,2019,4,0,39
+5693,0,,,,,0,15,12,2019,6,38,59
+5694,0,,,,,0,15,12,2019,8,49,5
+5695,0,,,,,0,16,12,2019,5,11,2
+5696,0,,,,,0,16,12,2019,10,27,59
+5697,5692,mantap tutorialnya utk berbagi. ya mirip sinatra. kalo yg ini mirip rails : https://spider-gazelle.net/#/    saya sdh coba utk dibenchmark: json web service yg dibuat dg spider lbh tinggi speed nya daripada actix (rust). padahal actix no 1. di https://www.techempower.com/benchmarks/,F,,,0,16,12,2019,22,14,48
+5699,5697,Keren.. 👍,Andi,Siswa,bensisva,0,17,12,2019,6,38,54
+5704,0,,,,,0,18,12,2019,11,58,14
+5706,0,,,,,0,18,12,2019,22,31,18
+5707,0,https://crystal-lang.org/2019/12/18/crystal-0.32.1-released.html,PBud1,,pbud1,0,19,12,2019,0,25,16
+5708,0,,,,,0,19,12,2019,0,52,20
+5709,0,,,,,0,19,12,2019,10,25,37
+5712,0,Demen banget ya orang kirim spam di group crystal 😁,PBud1,,pbud1,0,20,12,2019,2,1,16
+5715,0,,,,,0,21,12,2019,23,48,33
+5717,0,https://crystal.libhunt.com/categories,Andi,Siswa,bensisva,0,23,12,2019,3,14,20
+5719,0,,,,,0,23,12,2019,18,17,37
+5720,0,,,,,0,23,12,2019,18,56,8
+5723,0,,,,,0,25,12,2019,20,43,53
+5724,0,,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,26,12,2019,7,23,19
+5727,5725,"Hosting mungkin general aja om, sepanjang bisa akses linux terminal atau bisa deploy dalam bentuk docker container.",PBud1,,pbud1,0,26,12,2019,23,32,57
+5728,5725,"Paling vps, harga $5/ bulan macam DO, vultr, linode sdh cukup",Muhammad,Tri Wibowo,brainplusplus,0,27,12,2019,0,12,18
+5736,0,,,,,0,28,12,2019,15,50,1
+5739,0,,Tingfeng,Key,tingfeng520,0,29,12,2019,9,15,8
+5740,0,,,,,0,30,12,2019,0,9,13
+5741,0,,,,,0,30,12,2019,3,47,34
+5742,0,,PBud1,,pbud1,0,30,12,2019,4,34,58
+5744,0,,...,,sangua169,0,30,12,2019,10,21,5
+5750,0,,,,,0,1,1,2020,11,49,44
+5751,0,,Abdullah,Haris,Harisogie,0,2,1,2020,7,13,7
+5753,5752,siip om tq,PBud1,,pbud1,0,2,1,2020,8,17,25
+5757,0,,,,,0,6,1,2020,13,20,12
+5761,0,,,,,0,7,1,2020,12,46,57
+5762,0,,,,,0,7,1,2020,19,53,33
+5764,0,,Addin,M,Addin_M,0,8,1,2020,13,36,24
+5765,0,,,,,0,9,1,2020,11,55,56
+5766,0,Woy,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,9,1,2020,12,26,4
+5768,5767,mantulele ada dimana mana,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,9,1,2020,13,59,32
+5769,5766,,Maaf,Merepotkan... 🙏,cahgentoo,0,9,1,2020,13,59,35
+5771,0,,keselin ✪,,rusakutub,0,9,1,2020,17,46,23
+5772,0,,waey,@nwar (RSAU),waeyanwar,0,10,1,2020,7,45,7
+5773,0,,,,,0,10,1,2020,9,35,17
+5774,0,,,,,0,10,1,2020,10,34,22
+5775,0,,Rahmatullah,Amat,,0,12,1,2020,12,1,58
+5785,0,,Muhammad,Ihsan,ihsandroid1,0,19,1,2020,9,8,14
+5786,0,Welcome,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,19,1,2020,23,9,17
+5787,0,,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,19,1,2020,23,9,32
+5788,0,,,,,0,20,1,2020,22,4,29
+5789,0,,IQ,,MrB5999,0,21,1,2020,6,9,5
+5790,0,,Mohammad,Hatami,hatami30,0,21,1,2020,21,43,41
+5791,0,,"""M.D""",,MDkrAlg,0,22,1,2020,17,32,37
+5793,0,,Bajro,Lisic,bajro91,0,23,1,2020,16,34,22
+5794,0,Why 😄,PBud1,,pbud1,0,24,1,2020,1,15,8
+5795,0,Maybe more people come,Bajro,Lisic,bajro91,0,24,1,2020,7,2,47
+5796,0,And most of time I don't know what you talk,Bajro,Lisic,bajro91,0,24,1,2020,7,3,18
+5797,0,😢,Bajro,Lisic,bajro91,0,24,1,2020,7,3,23
+5798,0,I don't know Indonesian,Bajro,Lisic,bajro91,0,24,1,2020,7,3,36
+5801,5798,"Since I am not an admin, I do not know about rule of this group. But I know exactly what you are craven for. I feel you.\n\nIn some Indonesian group in Facebook, there are this explicit rule: __do not hesitate to use english__, __we understand__.\n\nNow in my group I also welcome people from other country. But I cannot change the nature of the member that most of us already speak Indonesia.\n\nLet us be that way. And in the same time, we welcome anyone.",Maaf,Merepotkan... 🙏,cahgentoo,0,24,1,2020,8,43,35
+5802,5800,"The same case with openBSD community in telegram. There are three openBSD groups.\n\n1. Brazil.\n2. Russia.\n3. Indonesia.\n\nEnglish group, gathered together in BSD group.\n\nWhy not make new crystal group in english ?",Maaf,Merepotkan... 🙏,cahgentoo,0,24,1,2020,8,46,36
+5803,0,Theres already one for crystal english group,PBud1,,pbud1,0,24,1,2020,9,32,38
+5804,0,i was there before but too quiet,PBud1,,pbud1,0,24,1,2020,9,32,51
+5805,0,"But thanks anyway bajro, it means you care 😄",PBud1,,pbud1,0,24,1,2020,9,33,32
+5806,0,ofc I care my brother,Bajro,Lisic,bajro91,0,24,1,2020,9,55,12
+5807,0,,,,,0,25,1,2020,14,20,7
+5810,0,,,,,0,27,1,2020,5,7,27
+5811,0,,,,,0,27,1,2020,16,7,41
+5812,0,,,,,0,28,1,2020,12,44,28
+5813,0,,,,,0,28,1,2020,18,18,13
+5814,0,,,,,0,29,1,2020,8,19,29
+5817,0,,,,,0,31,1,2020,11,58,41
+5818,0,,Indah,,T1212121212,0,31,1,2020,15,39,45
+5821,0,,,,,0,2,2,2020,9,19,27
+5829,0,Kok banyak spam nya sih,,,,0,4,2,2020,5,30,6
+5830,0,Pindahin grupnya ke spectrum.chat aja atau gitter.im,,,,0,4,2,2020,5,31,28
+5831,5697,"berikut ini bbrp source code (ada php, java, scala, rust, dan crystal) yg sdh sy coba utk benchmark tsb : https://github.com/sharing-lab/ws-benchmark",F,,,0,5,2,2020,4,50,19
+5833,0,"Sepertinya harus intro nih yang join ke group, otherwise suspect as spammer",PBud1,,pbud1,0,5,2,2020,7,9,36
+5834,0,😁,PBud1,,pbud1,0,5,2,2020,7,9,41
+5835,0,,Deep Tech,Foundation,deeptechfoundation,0,5,2,2020,8,58,0
+5836,0,,,,,0,5,2,2020,11,22,41
+5837,0,Please introduce yourself [Deep Tech](tg://user?id=993006734) and @Cottman007,PBud1,,pbud1,0,5,2,2020,13,32,9
+5838,0,om @brainplusplus boleh bantu pasang bot untuk delete spam barangkali atau angkat @bajro91 as admin untuk handle spam,PBud1,,pbud1,0,5,2,2020,13,36,22
+5839,0,thanks,PBud1,,pbud1,0,5,2,2020,13,36,23
+5841,0,"Salam, saya Cottrell dri Sumut",,,,0,5,2,2020,13,44,18
+5843,0,Welcome om @Cottman007,PBud1,,pbud1,0,5,2,2020,13,50,1
+5844,5838,Done,Muhammad,Tri Wibowo,brainplusplus,0,5,2,2020,14,22,3
+5845,0,Sorry late response 🙏,Muhammad,Tri Wibowo,brainplusplus,0,5,2,2020,14,22,12
+5846,0,"rekan2 ysh, melanjutkan postingan yg sy awali di awal desember th kemarin, sy sdh posting penjelasan yg agak lebih lengkap di https://forum.crystal-lang.org/t/json-webservice-benchmark/1678",F,,,0,6,2,2020,3,38,58
+5847,0,"silakan barangkali ada teman2 yg mau memberikan masukan2/pencerahan\nterutama ...apa ada yg kurang di code utk actix (rust) sehingga performance nya di bawah spider gazelle (crystal), padahal di techempower benchmark, actix yg paling tinggi.",F,,,0,6,2,2020,3,41,38
+5848,0,terimakasih,F,,,0,6,2,2020,3,41,40
+5849,0,[F](tg://user?id=583600894) sudah ada yang reply di forum ya.,PBud1,,pbud1,0,7,2,2020,2,4,2
+5850,5849,"Iya mas, data2 dari https://www.techempower.com/benchmarks/ tentu saja jauh lebih lengkap.\nCuman kok ga ada data penggunaan memory ya,\nKalo framework x perlu 200 MB, dan framework y hanya perlu 10 MB saja, kan jadi beda di anggarannya, vps dg memory 1 GB kan beda harga nya dg vps 4 GB",F,,,0,7,2,2020,2,23,30
+5852,0,,Rubi,,codenoid,0,9,2,2020,12,4,1
+5854,0,,Muthi,Amrillah,mutakaa19,0,10,2,2020,3,22,30
+5855,0,,Bita,,,0,11,2,2020,3,33,48
+5857,0,,,,,0,11,2,2020,13,55,17
+5861,0,Yes om @karenguide,PBud1,,pbud1,0,12,2,2020,3,34,51
+5863,0,,Deva,Zamili,devazamili,0,12,2,2020,4,5,43
+5864,0,,,,,0,13,2,2020,18,25,39
+5866,0,,,,,0,14,2,2020,21,34,21
+5867,0,,,,,0,15,2,2020,8,51,1
+5868,0,,,,,0,16,2,2020,8,54,35
+5869,0,https://crystal-lang.org/2020/02/14/crystal-0.33.0-released.html,PBud1,,pbud1,0,17,2,2020,1,47,10
+5872,0,,,,,0,17,2,2020,6,58,38
+5875,0,,,,,0,18,2,2020,21,28,49
+5876,0,,,,,0,18,2,2020,21,30,38
+5878,0,https://www.everbase.co/blog/open-sourcing-our-graphql-library-for-crystal,PBud1,,pbud1,0,19,2,2020,23,30,56
+5879,0,,,,,0,20,2,2020,11,50,16
+5880,0,F,,,,0,20,2,2020,11,52,30
+5882,0,"Mau PHP ataupun assembly ga masalah, yang penting kode & flow aplikasi ditulis dengan benar.\n\nmari belajar bersama untuk menulis kode dengan benar di @CodeReviewID",,,,0,20,2,2020,12,30,34
+5883,0,,,,,0,20,2,2020,16,39,40
+5893,0,,,,,0,29,2,2020,16,55,41
+5894,0,,Dudung,,,0,1,3,2020,15,43,57
+5897,0,https://crystal-lang.org/2020/03/03/towards-crystal-1.0.html,PBud1,,pbud1,0,4,3,2020,13,2,54
+5898,0,👏👏👏,PBud1,,pbud1,0,4,3,2020,13,3,14
+5899,0,I hope soon we will get 1.0,Bajro,Lisic,bajro91,0,4,3,2020,13,6,27
+5900,0,,,,,0,4,3,2020,22,27,34
+5902,0,,Dwi Atmaja,Krisnantara,dwiatmajakrisnantara,62895358913800,5,3,2020,8,58,26
+5905,5899,Yes.,PBud1,,pbud1,0,8,3,2020,12,36,46
+5906,0,"""it’s very stable in the sense that once it compiles it won’t crash. Either way, it’s more stable than Java.""",PBud1,,pbud1,0,8,3,2020,12,36,51
+5907,0,https://manas.tech/blog/2020/02/11/nikola-motor-company/,PBud1,,pbud1,0,8,3,2020,12,36,57
+5908,0,👏👏👏,PBud1,,pbud1,0,8,3,2020,12,37,12
+5909,0,I just share this article on reddit,Bajro,Lisic,bajro91,0,8,3,2020,12,39,54
+5910,0,:D,Bajro,Lisic,bajro91,0,8,3,2020,12,39,55
+5915,0,,,,,0,11,3,2020,4,45,6
+5924,0,https://github.com/fukaoi/crystal-nodejs,PBud1,,pbud1,0,13,3,2020,4,10,52
+5925,0,"**over 11,000,000** npm modules can be used in crystal and Will expand the Crystal Lang ecosystem",PBud1,,pbud1,0,13,3,2020,4,11,13
+5926,5924,Wah keren inihhh,Muhammad,Tri Wibowo,brainplusplus,0,14,3,2020,1,33,31
+5927,0,,MUH.,SIDDIQ,Muhsiddiq182221897,0,14,3,2020,8,32,42
+5928,0,,,,,0,15,3,2020,11,57,6
+5929,0,,Moh,Irfansyah,,0,15,3,2020,16,17,28
+5930,0,,Mas,Q,KWDanu,0,16,3,2020,11,48,57
+5931,0,,Asep,Suratno,,0,16,3,2020,14,58,21
+5933,0,https://youtu.be/qM7uKADQClw,Andi,Siswa,bensisva,0,20,3,2020,7,41,48
+5934,0,,Abdul Bashiir,Arhammuddin,santrimillionaire,0,20,3,2020,14,5,58
+5935,0,,indra,,heyheynotbaddd,0,23,3,2020,2,20,24
+5936,0,"Ada mereka yang melawan Corona tak kenal LELAH, saat kita diam di rumah.\n.\nBarangkali mereka juga ingin, bercengkerama bersama keluarga seperti kita, tapi tak bisa.\n.\nKalau mereka tumbang? Lalu siapa lagi yang akan berdiri di garis depan?\nKITA?\n.\nBerangkat ke medan perang tentu tidak bisa dengan tangan kosong!\nMari kita yang tak mampu seperti mereka, bekali mereka dengan peralatan terbaik!\n.\nAyo Bergerak!\nSekalipun kita #dirumahaja!\nBantu Para petugas medis dengan donasi ke AyoBergerak.id dan jadilah pahlawan untuk para pahlawan!\n.\nSalurkan donasi terbaik anda ke Rekening Donasi:\nAtas nama Juara Insani Yayasan\nBCA # 464 635 0000\nMohon Konfirmasi setelah transfer donasi via WA ke:\nBu Rini +62 818-952-520\n.\n#AyoBergerakBantuMedis",Muhammad,Tri Wibowo,brainplusplus,0,23,3,2020,8,4,10
+5938,0,,Iga,Ariansyah21,IgaAriansyah21,0,23,3,2020,13,34,38
+5939,0,,,,,0,24,3,2020,18,10,28
+5940,5924,Kenapa ga sekalian pake NodeJS aja 😁,Indra,Gunawan,bossBuzz,0,26,3,2020,2,27,55
+5941,5940,"Berarti C Binding juga gak usah dong om, sekalian pake C nya aja heheh",PBud1,,pbud1,0,26,3,2020,4,49,3
+5942,0,Wkwk,Indra,Gunawan,bossBuzz,0,26,3,2020,4,59,11
+5945,0,,inoholy,,Fabian590,0,28,3,2020,21,11,55
+5946,0,,,,,0,1,4,2020,3,54,0
+5947,0,,Icha,,aichaaaw,0,1,4,2020,11,52,25
+5948,0,,,,,0,2,4,2020,6,37,7
+5949,0,https://crystal-lang.org/2020/04/06/crystal-0.34.0-released.html,PBud1,,pbud1,0,7,4,2020,1,6,26
+5950,0,Versi 0.x terakhir sebelum release 1.0.,PBud1,,pbud1,0,7,4,2020,1,6,42
+5952,0,,,,,0,9,4,2020,8,2,33
+5953,0,Yes,Bajro,Lisic,bajro91,0,9,4,2020,20,5,32
+5954,0,Its almost 1.0,Bajro,Lisic,bajro91,0,9,4,2020,20,5,39
+5955,0,I cant wait :D,Bajro,Lisic,bajro91,0,9,4,2020,20,5,47
+5956,0,Yes right bro,PBud1,,pbud1,0,11,4,2020,9,54,39
+5957,0,,,,,0,11,4,2020,20,14,5
+5958,0,,,,,0,12,4,2020,8,53,46
+5959,0,,,,,0,13,4,2020,6,22,48
+5961,0,,,,,0,20,4,2020,7,44,0
+5963,0,,,,,0,21,4,2020,3,55,35
+5967,0,"if you want use Pi network to mine some cryptocurrency with your phone here is my code Bajro91 you need it to enter to app, you can download it from app store. For now it worth about 0.41$ 1 PI but who knows maybe it be like bitcoin",Bajro,Lisic,bajro91,0,24,4,2020,21,42,31
+5968,0,Sorry to admin if it is against rules,Bajro,Lisic,bajro91,0,24,4,2020,21,42,53
+5970,5967,"you're already an admin bro, and have privilege to ban spammers",PBud1,,pbud1,0,25,4,2020,13,1,49
+5971,0,Oh I dont know this :D,Bajro,Lisic,bajro91,0,25,4,2020,20,43,31
+5972,0,@pbud1 ❤️,Bajro,Lisic,bajro91,0,25,4,2020,20,43,53
+5973,0,,,,,0,26,4,2020,5,32,48
+5974,0,,,,,0,28,4,2020,12,18,13
+5975,0,,AGUS SALIM,,guss676,0,29,4,2020,21,59,46
+5976,0,,,,,0,30,4,2020,13,24,14
+5977,0,,,,,0,30,4,2020,14,1,1
+5980,0,,Diego,,,0,2,5,2020,20,46,10
+5986,0,,josse,,wakbrex,0,4,5,2020,15,7,17
+5990,0,,Maikel,Chandika,maikelchandika,0,5,5,2020,16,26,16
+5991,0,,,,,0,6,5,2020,0,38,25
+5995,0,"izin gabung teman"" 🙏",Maikel,Chandika,maikelchandika,0,6,5,2020,10,51,49
+5996,0,Selamat bergabung Mas Maikel 👋,Andi,Siswa,bensisva,0,6,5,2020,11,48,3
+5997,5996,👍,Maikel,Chandika,maikelchandika,0,6,5,2020,12,36,44
+5999,0,"Siang teman"" izin share apps hasil oprekan di Crystal lang",Maikel,Chandika,maikelchandika,0,7,5,2020,4,44,31
+6000,0,https://github.com/mkdika/lff-cr,Maikel,Chandika,maikelchandika,0,7,5,2020,4,44,34
+6001,0,kl berkenan silakan di star ya 😂 semoga bermanfaat 🙏,Maikel,Chandika,maikelchandika,0,7,5,2020,4,44,51
+6002,0,👍,F,,,0,7,5,2020,4,55,28
+6003,6001,"Sudah dicoba mas, mantap!",Andi,Siswa,bensisva,0,7,5,2020,14,38,30
+6004,6003,"Sama"" mas, jgn lupa star nya 🙈",Maikel,Chandika,maikelchandika,0,7,5,2020,15,8,30
+6005,0,@maikelchandika Good job brother :),Bajro,Lisic,bajro91,0,7,5,2020,15,21,20
+6006,6005,Thank u brother,Maikel,Chandika,maikelchandika,0,7,5,2020,15,24,24
+6008,0,,Indra,Ramadhan,indra48,0,8,5,2020,15,23,8
+6009,0,,Ari,Anto,Ari417to,0,9,5,2020,4,10,36
+6010,0,,silvi,,lvwpi,0,10,5,2020,0,46,50
+6013,0,,FATHAN,QORIB,fathan_qorib25,0,11,5,2020,13,47,55
+6014,0,,,,,0,12,5,2020,6,34,9
+6015,0,,Angga,,febriangga01,0,12,5,2020,12,31,59
+6016,0,,,,,0,12,5,2020,15,54,1
+6017,0,,,,,0,13,5,2020,19,48,45
+6018,0,"siang teman"", belakangan oprek Kemal micro web framework, terus bikin repo simple CRUD REST API, lengkap dengan test specs nya",Maikel,Chandika,maikelchandika,0,14,5,2020,7,15,21
+6019,0,https://github.com/mkdika/kemal-rest-api,Maikel,Chandika,maikelchandika,0,14,5,2020,7,15,21
+6020,0,"mana tau ada yang lagi blajar juga, semoga bermanfaat 🙏",Maikel,Chandika,maikelchandika,0,14,5,2020,7,18,25
+6023,0,,Rubi,,codenoid,0,16,5,2020,7,4,48
+6025,0,Belum pernah,Maikel,Chandika,maikelchandika,0,16,5,2020,8,47,16
+6026,0,Masi tahap belajar & evaluasi,Maikel,Chandika,maikelchandika,0,16,5,2020,8,47,29
+6027,0,,,,,0,17,5,2020,5,12,16
+6028,0,"morning all, btw teman"" disini uda ada yang jalankan apps Crystal di production?",Maikel,Chandika,maikelchandika,0,18,5,2020,1,37,20
+6029,0,kl ada aplikasi/ usecase apa ya?,Maikel,Chandika,maikelchandika,0,18,5,2020,1,37,30
+6031,0,,,,,0,19,5,2020,3,56,34
+6033,0,,,,,0,21,5,2020,15,29,18
+6034,0,,,,,0,22,5,2020,7,34,16
+6036,0,,Gigi,,,0,26,5,2020,0,6,21
+6037,0,,,,,0,26,5,2020,23,18,45
+6038,0,,Muhamad Jefrry,,amamiyaBrother,0,27,5,2020,8,8,19
+6039,0,,Sup,Durian,hillzacky,0,28,5,2020,11,10,37
+6040,0,,Asep,Suratno,,0,29,5,2020,6,25,0
+6041,0,,Bastian,,Bastian4196,0,30,5,2020,2,44,58
+6044,0,,ALDY,,,0,30,5,2020,15,7,45
+6045,0,,Aldi senja,,aldirenadi,0,30,5,2020,19,40,3
+6047,0,,,,,0,1,6,2020,7,6,2
+6049,0,,Khalid,Rizky,bisul_gajah,0,1,6,2020,16,8,6
+6050,0,,,,,0,1,6,2020,22,1,24
+6051,0,,AKM,,AKMrudin,0,2,6,2020,11,52,59
+6054,0,,,,,0,2,6,2020,17,9,29
+6065,0,,,,,0,6,6,2020,6,15,48
+6066,0,,,,,0,6,6,2020,6,22,14
+6067,0,,Yoseph,M,yooosep,0,7,6,2020,13,12,27
+6068,0,,,,,0,7,6,2020,15,7,14
+6069,0,,Bandi,,,0,9,6,2020,13,11,27
+6070,0,https://crystal-lang.org/2020/06/09/crystal-0.35.0-released.html,PBud1,,pbud1,0,10,6,2020,0,10,40
+6071,0,,Risna,Wati,,0,10,6,2020,16,14,58
+6072,0,,Chaz,Cash,Chaz_Cash,0,11,6,2020,4,34,4
+6073,6070,menunggu versi 1.0.0 aja ah...,Maikel,Chandika,maikelchandika,0,11,6,2020,5,39,36
+6075,0,,Alex,,,0,12,6,2020,6,8,2
+6076,0,,Raihan,,rainrs212,0,13,6,2020,2,31,20
+6078,0,,Laras,,,0,14,6,2020,8,56,50
+6079,0,,A,A,,0,15,6,2020,8,18,1
+6080,0,,Sifa,Faris,kudasaix,0,15,6,2020,12,0,3
+6081,0,,,,,0,15,6,2020,14,52,57
+6082,6073,good decision 😊,PBud1,,pbud1,0,15,6,2020,16,37,21
+6083,0,,Ammar,,CMBMN94,0,15,6,2020,22,51,38
+6084,0,,Arief,,Musashi7,0,16,6,2020,5,5,14
+6085,0,,Vyn,,Vynnn99,0,16,6,2020,8,11,22
+6086,0,,,,,0,16,6,2020,8,54,21
+6087,0,,Z L U C I F E R.,,XilauXenn,0,16,6,2020,18,16,36
+6089,0,,h1dd3n,,h1dd3n_31,0,18,6,2020,12,5,21
+6096,0,,,,,0,19,6,2020,10,49,28
+6098,0,https://crystal-lang.org/2020/06/19/crystal-0.35.1-released.html,PBud1,,pbud1,0,19,6,2020,23,47,42
+6099,0,This patch release is needed to iterate on some recent additions and fix a couple of regressions.,PBud1,,pbud1,0,19,6,2020,23,47,54
+6100,6000,"pagi teman"", Pull request gw untuk `lff-cr` ke repo curated Awesome Crystal, uda di approved lo :D",Maikel,Chandika,maikelchandika,0,20,6,2020,0,19,42
+6101,0,https://github.com/veelenga/awesome-crystal#cli-utils,Maikel,Chandika,maikelchandika,0,20,6,2020,0,19,44
+6102,0,,Maikel,Chandika,maikelchandika,0,20,6,2020,0,20,28
+6103,0,,Maikel,Chandika,maikelchandika,0,20,6,2020,0,21,18
+6104,0,Mantap om @maikelchandika,PBud1,,pbud1,0,20,6,2020,0,26,40
+6105,0,Ini belum pakai concurrent processing ya om?,PBud1,,pbud1,0,20,6,2020,0,28,23
+6106,0,biar lebih sedep lagi performa find files nya,PBud1,,pbud1,0,20,6,2020,0,29,14
+6107,6105,Uda pake csp di recursive file search nya,Maikel,Chandika,maikelchandika,0,20,6,2020,0,32,3
+6108,0,Cm karena concurrency csp crystal masi cuma jalan di single thread jadinya kayak gk gitu berasa sih,Maikel,Chandika,maikelchandika,0,20,6,2020,0,32,33
+6109,0,Waktu build udah pakai flag `-Dpreview_mt`,PBud1,,pbud1,0,20,6,2020,1,12,25
+6110,0,supaya bisa multithread,PBud1,,pbud1,0,20,6,2020,1,12,40
+6111,6109,oh woke,Maikel,Chandika,maikelchandika,0,20,6,2020,1,13,0
+6112,0,baru tau,Maikel,Chandika,maikelchandika,0,20,6,2020,1,13,2
+6113,0,nice info,Maikel,Chandika,maikelchandika,0,20,6,2020,1,13,4
+6114,0,"btw, fitur pararel adalah salah satu milestone 1.0.0",Maikel,Chandika,maikelchandika,0,20,6,2020,1,17,44
+6115,6109,"btw gw coba ini di `shard build` bisa"" aja tuh, cm ntah ngefek gk",Maikel,Chandika,maikelchandika,0,20,6,2020,1,23,41
+6116,0,,Jo,,Jovoir,0,20,6,2020,2,43,20
+6117,6114,iya sebelum 1.0 masih harus pakai flag itu baik run/build,PBud1,,pbud1,0,20,6,2020,2,55,18
+6118,0,masi preview,PBud1,,pbud1,0,20,6,2020,2,55,28
+6119,6115,"Bole dibenchmark before sama after. Multi thread bukan jaminan juga sih lebih cepat, depend on case juga.",PBud1,,pbud1,0,20,6,2020,2,57,15
+6120,6119,"betul, setuju",Maikel,Chandika,maikelchandika,0,20,6,2020,3,52,47
+6123,0,,Aa,Cen,aacen_id,0,21,6,2020,0,55,46
+6124,0,,,,,0,21,6,2020,12,55,49
+6125,0,,,,,0,21,6,2020,15,49,44
+6127,0,,Bro Jan,,bijantyum,0,22,6,2020,12,36,46
+6128,0,,Recruitment DEOS Group,(recruiting for internal Group),DEOSgroup,0,23,6,2020,7,28,51
+6129,0,"#Loker  \nGood day Everyone!! \n\nThere are opportunities in our #internalDEOSGroup for you! (www.deosgroup.id)\n\nSend your best CV to: recruitment.hrm@deosgroup.id   \nEmail Subject: Apply from (telegram/Linkedin/Ig, etc.. please choose 1 source) - Position applied",Recruitment DEOS Group,(recruiting for internal Group),DEOSgroup,0,23,6,2020,7,31,33
+6130,0,,Recruitment DEOS Group,(recruiting for internal Group),DEOSgroup,0,23,6,2020,7,31,33
+6131,0,,Recruitment DEOS Group,(recruiting for internal Group),DEOSgroup,0,23,6,2020,7,31,33
+6133,0,,Fauzy,M. Rachman,fauzymrachman,6287714788881,23,6,2020,14,5,58
+6134,0,,P,,Hoodnigga69,0,24,6,2020,12,56,28
+6135,0,,,,,0,25,6,2020,2,23,55
+6136,0,,,,,0,25,6,2020,7,18,23
+6141,0,,Nabila,Khaerunnisa,NabilKim,0,28,6,2020,14,55,14
+6142,0,,Vista,Pramudiya,xomarshop15,0,30,6,2020,20,22,36
+6143,0,,Subair,Dg Tojeng | 0321S001,Bair753,6285824481838,2,7,2020,13,58,51
+6144,0,,Andi,Simanjuntak,Andi_16,0,3,7,2020,16,6,4
+6145,0,,,,,0,4,7,2020,2,52,55
+6146,0,,Luc,,vitaelibero,0,4,7,2020,9,55,24
+6148,0,,,,,0,6,7,2020,7,0,5
+6149,0,,Yan,,azisrefriyanto,0,7,7,2020,5,37,35
+6154,0,,Mayaa,,,0,9,7,2020,22,35,22
+6155,0,,,,,0,10,7,2020,6,22,58
+6156,0,,,,,0,11,7,2020,4,2,24
+6157,0,,Reina,,re_21zakira,0,11,7,2020,5,35,53
+6159,0,,Vee,,nadia_intan,0,12,7,2020,1,55,15
+6164,0,,chali,ar7,Hailikid,0,12,7,2020,12,54,54
+6165,0,,Jodi,Rizaldi,,0,13,7,2020,10,16,59
+6166,0,,rizki,,HeyYou_20,0,13,7,2020,12,33,35
+6168,0,,rahmawan,,rahmawanya,0,14,7,2020,16,10,54
+6169,0,,Catur Eka,Januar Prasetyo,Caturekajanuarprasetyo,0,15,7,2020,0,50,27
+6170,0,,Agryanno Je,,nasi_liwet,0,16,7,2020,9,28,44
+6171,0,,Farih Zulula,,,0,16,7,2020,11,28,32
+6172,0,,,,,0,18,7,2020,4,27,11
+6173,0,,M Shiddiq,Fathullah,masdiq,0,18,7,2020,5,35,17
+6174,0,,Kafhkazh,777,,0,19,7,2020,14,43,59
+6175,0,,J,F,,0,20,7,2020,6,40,12
+6176,0,,Al.KaD,,ALVIAN_KD,0,20,7,2020,10,22,1
+6177,0,,Aby,,Azali_Farabi,0,20,7,2020,13,37,0
+6179,0,,,,,0,21,7,2020,10,51,4
+6181,0,,,,,0,23,7,2020,11,56,26
+6182,0,,M,y,,0,24,7,2020,12,19,38
+6183,0,,Adin,Mekar,Adinmekar,0,24,7,2020,17,42,42
+6184,0,,February,14,,0,26,7,2020,12,53,21
+6185,0,,,,,0,27,7,2020,3,0,12
+6186,0,,Abyan,,,0,27,7,2020,9,39,21
+6187,0,,Fandy,Bellamy,fandybellamy,0,28,7,2020,3,43,40
+6188,0,,May,PM,ubaycpc,6282255968433,28,7,2020,20,49,3
+6189,0,,Ndra,,,0,29,7,2020,0,27,50
+6190,0,,Arjuna Sakti,,BaangJunet,0,29,7,2020,13,18,7
+6191,0,,Andari,,,0,30,7,2020,1,21,0
+6192,0,,Yoshiharu,Hisomu,Yoshi_hru,0,1,8,2020,2,10,43
+6193,0,,Deyan,Cut,Deyancut,0,2,8,2020,16,26,20
+6194,0,,Marqui,,MarquiCrypto,0,2,8,2020,22,11,35
+6195,0,https://itnext.io/comparing-crystals-concurrency-with-that-of-go-s-part-i-cd45a3388935,PBud1,,pbud1,0,3,8,2020,5,6,6
+6196,0,https://itnext.io/comparing-crystals-concurrency-with-that-of-go-part-ii-89049701b1a5,PBud1,,pbud1,0,3,8,2020,5,6,38
+6198,0,,Nikkaido7,,risman_febrian9,0,3,8,2020,15,46,27
+6199,0,,Tulus,Prasetyo,tulusprasetyo23,0,3,8,2020,18,58,44
+6200,0,,,,,0,4,8,2020,12,1,30
+6201,0,,,,,0,4,8,2020,16,52,3
+6202,0,,modestus,,modstu,0,4,8,2020,18,48,5
+6203,0,,Fransiskus,Bago,BangBago87,0,5,8,2020,2,55,17
+6204,0,,Siwan,Lahagu,Siwanlahagu27,0,5,8,2020,3,58,41
+6205,0,,,,,0,5,8,2020,11,10,39
+6206,0,,,,,0,6,8,2020,10,5,4
+6207,0,,,,,0,6,8,2020,14,39,10
+6208,0,,hafif,saputra,,0,7,8,2020,16,35,39
+6209,0,,.,,useredtelegram,0,9,8,2020,9,48,40
+6210,0,,dapo,,dapoarr,0,9,8,2020,17,22,21
+6211,0,,,,,0,10,8,2020,14,0,22
+6212,0,,,,,0,10,8,2020,14,2,41
+6213,0,,B̷a̷d̷S̷i̷n̷s̷,,badsins,0,11,8,2020,8,36,46
+6214,0,,,,,0,11,8,2020,12,55,31
+6215,0,,,,,0,11,8,2020,21,37,54
+6216,0,,Fajar Hadil,,fajarhadil,0,12,8,2020,10,12,14
+6217,0,,Zainudin,Dahlan,Zainuddin_Dahlan,0,12,8,2020,19,18,12
+6218,0,,PBud1,,pbud1,0,15,8,2020,1,43,26
+6222,0,,"Matheus F Pandjaitan, M.Eng",,,0,16,8,2020,5,6,43
+6223,0,,Secret,Admiere,,0,17,8,2020,12,59,33
+6224,0,,Didik,Farhan,DidikFarhan,0,17,8,2020,17,26,56
+6225,0,,Zalfa,,zalfanjihan,0,18,8,2020,13,5,36
+6226,0,,Rom,,roma_sdblk,0,18,8,2020,15,18,11
+6227,0,,Rr. Ike Rachmania,S.,rrikers,0,19,8,2020,8,54,27
+6228,0,,Dicky,Chands,BoejangRuwet,0,20,8,2020,10,7,19
+6230,0,,,,,0,20,8,2020,21,15,29
+6234,0,,Giorgi,Kavrelishvili,grrkek,0,21,8,2020,16,18,18
+6235,0,Yo,Giorgi,Kavrelishvili,grrkek,0,21,8,2020,16,18,23
+6236,0,Hello 🙂,Giorgi,Kavrelishvili,grrkek,0,21,8,2020,16,18,29
+6237,0,,Muhamad Riziq,Zulfian,mriziqz,0,21,8,2020,23,40,19
+6239,0,,Ozay_,Zay,Ozay_zay_Official,0,22,8,2020,16,12,37
+6240,0,,,,,0,23,8,2020,6,41,47
+6242,0,,Yudistira,Elton Jhon,yudistiraelton,0,23,8,2020,15,2,44
+6243,6235,Hello..,PBud1,,pbud1,0,24,8,2020,5,36,58
+6245,0,,,,,0,24,8,2020,8,25,2
+6246,0,,PBud1,,pbud1,0,24,8,2020,9,23,55
+6248,0,,,,,0,25,8,2020,0,14,0
+6249,0,,Imam,Syafi'i,,0,25,8,2020,2,58,15
+6251,0,,Rahmat hernandez femayor,,,0,25,8,2020,11,18,4
+6252,0,E hi:),Rahmat hernandez femayor,,,0,25,8,2020,11,18,29
+6253,6252,Hi....,PBud1,,pbud1,0,25,8,2020,11,38,49
+6254,0,Ini group apa ya,Rahmat hernandez femayor,,,0,25,8,2020,11,43,49
+6255,6254,Pemrograman bahasa crystal,modestus,,modstu,0,25,8,2020,15,20,59
+6256,0,,Han,Jakc,,0,25,8,2020,16,11,51
+6257,0,Salah masuk group :D,Rahmat hernandez femayor,,,0,25,8,2020,16,50,40
+6258,0,,Syariaid,,,0,27,8,2020,5,51,11
+6260,0,,,,,0,27,8,2020,10,36,54
+6265,0,,Raizen,Owen,cmm96,0,28,8,2020,8,18,40
+6266,0,,Muqorrobin,,taqorrub,0,28,8,2020,23,43,53
+6267,0,Tes,Muqorrobin,,taqorrub,0,29,8,2020,7,37,59
+6268,0,,,,,0,29,8,2020,13,44,7
+6269,0,,,,,0,30,8,2020,3,25,11
+6271,0,,,,,0,30,8,2020,4,29,51
+6272,0,,,,,0,30,8,2020,18,28,49
+6273,0,Tes,,,,0,30,8,2020,18,38,45
+6274,0,,,,,0,31,8,2020,7,6,2
+6275,0,,Ilham,Hutomo Putro,Ilham_hp,0,31,8,2020,10,37,36
+6276,0,Ijin gabung mastah semuanya,Ilham,Hutomo Putro,Ilham_hp,0,31,8,2020,10,37,42
+6277,0,Welcome,PBud1,,pbud1,0,31,8,2020,11,1,21
+6278,0,,,,,0,1,9,2020,1,8,26
+6279,0,,A,I,Nycthophile1423,0,1,9,2020,12,20,32
+6280,0,,ty,,christyschai,0,1,9,2020,15,50,49
+6282,0,,,,,0,5,9,2020,17,10,50
+6286,0,,Alhazirakbar,,Alhazirakbar,0,7,9,2020,9,9,44
+6288,0,,Nurul,Falah,,0,8,9,2020,5,25,26
+6289,0,,,,,0,8,9,2020,16,26,1
+6290,0,,Andryantz,,andryantz,0,9,9,2020,0,35,40
+6292,0,,,,,0,10,9,2020,8,5,0
+6294,0,,Amalia,,amalgalleryid,0,11,9,2020,6,7,26
+6295,0,,SULTAN,.,THESULTANSTUDIOS,0,11,9,2020,7,21,36
+6296,0,,Chykitha,Rahmadhani,,0,14,9,2020,3,1,19
+6298,0,,Elfrado,,,0,14,9,2020,11,6,55
+6299,0,,said,,,0,14,9,2020,15,14,6
+6300,0,,,,,0,15,9,2020,7,31,41
+6301,0,,yumei,,,0,15,9,2020,7,34,12
+6304,0,,Juli,Anto,,0,15,9,2020,11,3,59
+6305,0,Izin gabung ya kak saya Juli dari Bekasi 🙏,Juli,Anto,,0,15,9,2020,11,4,2
+6307,0,,,,,0,15,9,2020,23,51,28
+6308,6305,Welcome om Juli,PBud1,,pbud1,0,16,9,2020,2,49,38
+6311,0,,Hena Safna,Dicoding Indonesia,hensaf,0,17,9,2020,3,31,49
+6314,0,,Aisia,,daofen008,0,18,9,2020,10,52,20
+6315,0,,Thony,,fahdsulthony,0,19,9,2020,5,44,40
+6316,0,,klstak,,klstak,0,19,9,2020,6,17,9
+6317,0,,Niaa,,aniacns,0,19,9,2020,14,32,33
+6348,0,,,,,0,20,9,2020,17,16,5
+6349,0,Salken semua🙏,,,,0,20,9,2020,17,16,13
+6350,0,Yoi,,,,0,21,9,2020,5,46,22
+6351,0,Salam kenal om,PBud1,,pbud1,0,21,9,2020,5,54,38
+6352,0,,,,,0,22,9,2020,7,5,38
+6357,0,,Martin,Simanjuntak,martinsmnjntk,0,22,9,2020,12,30,13
+6359,0,,,,,0,23,9,2020,3,24,45
+6361,0,,,,,0,23,9,2020,12,45,59
+6362,0,,Wawan,Yuliyanto,waoneyuli,0,24,9,2020,4,5,2
+6363,0,,,,,0,24,9,2020,4,10,45
+6364,0,,,,,0,24,9,2020,8,26,59
+6365,0,,Aditya,Rahmani,adityarahmani,0,25,9,2020,5,51,13
+6368,0,,,,,0,25,9,2020,7,42,31
+6369,0,,,,,0,25,9,2020,7,58,21
+6370,0,Hi,,,,0,25,9,2020,10,1,14
+6371,0,Hi,,,,0,25,9,2020,10,3,46
+6373,0,,Rhima,Nurul Fathia,,0,25,9,2020,11,54,20
+6374,0,,Zidan,Karim,zdnkarim,0,25,9,2020,15,58,41
+6375,0,,Azwaa,,Zwryn,0,27,9,2020,7,3,5
+6376,0,,R,C,Richen6,0,27,9,2020,10,50,56
+6378,0,,,,,0,27,9,2020,18,58,52
+6379,0,,M Yaasiin H,,myaasiinh,0,29,9,2020,10,21,51
+6380,0,,,,,0,29,9,2020,23,21,48
+6381,0,,jasonn,,renjuf1,0,30,9,2020,3,7,37
+6384,0,,,,,0,1,10,2020,5,39,8
+6385,0,,sugiyanto,,Sugiyanto22,0,1,10,2020,14,16,2
+6386,0,,,,,0,2,10,2020,0,45,33
+6387,0,,,,,0,2,10,2020,20,20,33
+6389,0,,,,,0,3,10,2020,18,27,52
+6390,0,,ALEXA,GRAZELA,AlexanGrazela,0,5,10,2020,2,20,23
+6391,0,,,,,0,5,10,2020,15,19,26
+6393,0,,Rain,,dududuye,0,6,10,2020,2,50,16
+6394,0,,,,,0,6,10,2020,10,30,18
+6397,0,,,,,0,6,10,2020,10,51,18
+6400,0,,,,,0,6,10,2020,17,6,5
+6403,0,,,,,0,8,10,2020,2,22,25
+6406,0,,Dev,,Devv121,0,8,10,2020,8,28,31
+6407,0,,,,,0,9,10,2020,10,25,17
+6409,0,,,,,0,9,10,2020,22,21,21
+6410,0,,,,,0,10,10,2020,16,34,16
+6411,0,,,,,0,11,10,2020,6,32,53
+6412,0,,,,,0,11,10,2020,6,51,3
+6414,0,,,,,0,11,10,2020,7,2,53
+6420,0,,,,,0,11,10,2020,12,48,57
+6421,0,,Ja,,rezamhndra,0,11,10,2020,13,11,16
+6422,0,,,,,0,12,10,2020,3,16,15
+6423,0,,Ahmad,Taufiq,,0,12,10,2020,4,13,2
+6424,0,,,,,0,12,10,2020,5,14,21
+6428,0,,,,,0,13,10,2020,4,58,44
+6429,0,,,,,0,14,10,2020,6,0,12
+6430,0,,Naby,,,0,14,10,2020,13,2,27
+6432,0,,,,,0,15,10,2020,18,16,45
+6433,0,,Dina,,dinaaaaads_22,0,15,10,2020,21,40,25
+6434,0,,Rendi,Septia,Rendisepti,0,15,10,2020,23,21,36
+6442,0,,,,,0,18,10,2020,2,0,7
+6443,0,,Gita,,Excaliburl,62895636661002,18,10,2020,4,10,57
+6444,0,,Tarisa Salsabila,,Tarisa_salsabila,0,19,10,2020,10,57,13
+6445,0,,,,,0,19,10,2020,20,24,35
+6447,0,,,,,0,21,10,2020,2,9,36
+6448,0,,,,,0,21,10,2020,17,57,21
+6449,0,,Diki,Kurniawan,shinnichi7,0,22,10,2020,5,26,27
+6450,0,yang mau mendownload atau menonton video naruto atau anime yang lainnya silahkan klik link di bawah ini                     https://pastelink.net/24u52,,,,0,22,10,2020,11,39,52
+6451,0,,Kepo,,CintaKamu0,0,22,10,2020,11,48,39
+6452,0,,Erwin,Rommel,Erwin_Rommel131,0,26,10,2020,5,1,49
+6453,0,,Giorgi,Kavrelishvili,grrkek,0,26,10,2020,8,30,5
+6454,0,,Freya,Sopi,,0,26,10,2020,12,2,7
+6455,0,,Fitra Surya,Saputra,Mfaa05,0,27,10,2020,4,59,45
+6456,0,,,,,0,27,10,2020,18,57,27
+6457,0,,Matrix,IM3 Ooreedo,mgunawan5t0r3,0,28,10,2020,9,44,25
+6458,0,,,,,0,28,10,2020,14,25,26
+6460,0,,,,,0,29,10,2020,10,4,31
+6461,0,,Puput,,PujiKP,0,29,10,2020,11,40,7
+6462,0,"🌟KESEMPATAN TERAKHIR (26-31 Oktober 2020)🌟 REGISTRASI SEKARANG, LOMBANYA BULAN DEPAN @sejutacita.futureleaders\nSERIUS? Hadiah Para Pemenang Rp20juta/orang atau Trip beasiswa ke HARVARD dan MIT dibayarin 100%? 😱🎓 – Gak virtual, berangkat beneran! 🇺🇸✈️\n\n🎓*Daftar sekarang* (proses pendaftaran 5-10 menit). Pilih satu (atau daftar dua juga boleh):\n✍️Seleksi *Jalur Esai* (1-8 November 2020)\n🧠Seleksi *Jalur Kuis* (14/15 November 2020)\n\n🌟*Hadiah Pemenang Utama*🌟\n1️⃣ 100% Beasiswa Life-Changing Trip ke New York City dan Boston selama 6 hari 5 malam (jika tidak berangkat, bisa diuangkan menjadi Rp20juta/orang) 🇺🇸🗽\n2️⃣Pembiayaan full untuk pembuatan paspor & visa, keberangkatan & kepulangan (transportasi), akomodasi ✈️\n3️⃣Asuransi kesehatan dan biaya COVID-19 selama perjalanan\n4️⃣Jutaan uang saku 💰\n5️⃣Kunjungan ke Harvard University dan Massachusetts Institute of Technology 🎓\n6️⃣Kesempatan untuk mengikuti in-class seminar di Harvard/MIT\n7️⃣Sesi networking dan diskusi dengan mahasiswa/alumni Indonesia yang",Aby,,Azali_Farabi,0,30,10,2020,7,0,51
+6463,0,,Tungki,,xtunqki,0,1,11,2020,7,15,47
+6465,0,,,,,0,3,11,2020,6,33,30
+6467,0,,Arief,Novianto,ariefnovianto,0,4,11,2020,4,3,40
+6468,0,,WB user,,,0,4,11,2020,20,13,45
+6469,0,,R151,,,0,5,11,2020,18,36,34
+6470,0,,,,,0,6,11,2020,4,25,2
+6471,0,,Erich,Hartawan,,0,6,11,2020,6,21,53
+6472,0,"Bosan dengan semua yang serba ideal ?\n\nMerasa kurang tantangan dengan kondisi saat ini ?\n\nIngin memiliki andil yang lebih besar dalam sebuah startup ?\n\nBagaimana kalau kamu bergabung dengan kami, mungkin kita bisa membuat sedikit sejarah untuk negeri ini.\n\n*Hanya untuk mereka yang PRO",Erich,Hartawan,,0,6,11,2020,6,22,5
+6473,0,,Muhammad Ilham,,Ilhammhd14,6282176641318,6,11,2020,11,21,1
+6474,0,,Giono Budi,Santoso,gionobudisantoso,0,6,11,2020,23,30,29
+6475,0,,Sebastian,Kevin,,0,7,11,2020,15,55,24
+6476,0,,りゃん,,Ilyzz_abd,0,8,11,2020,4,2,44
+6478,0,,singgih,,basari_s,0,8,11,2020,23,50,16
+6479,0,,,,,0,9,11,2020,10,50,37
+6480,0,,,,,0,10,11,2020,0,8,45
+6481,0,,Efri,Yansyah,,0,10,11,2020,1,33,40
+6482,0,Hello semua,Efri,Yansyah,,0,10,11,2020,2,12,21
+6483,0,Di sini ada paham termux gk,Efri,Yansyah,,0,10,11,2020,2,41,39
+6484,0,,Rizki Mohammad,Farhan,rizkifarhan1858,0,10,11,2020,18,40,6
+6485,0,,Basuki,H.,,0,11,11,2020,1,23,30
+6486,0,,,,,0,11,11,2020,10,2,47
+6487,0,,,,,0,11,11,2020,10,44,48
+6488,0,,,,,0,11,11,2020,21,11,29
+6489,0,,,,,0,11,11,2020,21,39,4
+6490,0,,,,,0,12,11,2020,14,49,38
+6491,0,,,,,0,13,11,2020,7,34,47
+6492,0,,,,,0,13,11,2020,7,35,1
+6493,0,"Ingin belajar pengodean (coding) secara gratis? Nah, ini saatnya kamu mencoba kelas dari Progate. Ada berbagai kelas yang telah disediakan, diantaranya ialah Node JS, Python, PHP, HTML, Java, dan lain sebagainya.\n\nAyo, klaim kuponnya sekarang juga!\nKode kupon: CICILNGODING3EE\nBatas claim kupon 23 November 2020\n\nDaftar di sini: https://progate.com/\n\nUntuk pertanyaan dan lain-lain \nCP: wa.me/6285359186052 (Haiqal)\n\nGrup Tanya-tanya : t.me/onemonthprogate",,,,0,13,11,2020,7,35,7
+6494,0,,Yupy,,yupy28,0,13,11,2020,12,36,40
+6495,0,,Maungg,57,Mgz57i,0,14,11,2020,5,25,12
+6496,0,Hi guys,Maungg,57,Mgz57i,0,14,11,2020,5,25,46
+6497,0,,,,,0,14,11,2020,10,46,59
+6498,0,,Agus,Syarifudin,agoessyarifoedin,0,14,11,2020,11,19,57
+6499,0,,,,,0,14,11,2020,15,22,20
+6500,0,,,,,0,14,11,2020,16,0,5
+6501,0,,Wawan,Kurniawan,Wawank07,0,14,11,2020,22,49,57
+6502,0,,AH SIAW,,AHSIAW88,0,15,11,2020,1,3,11
+6503,0,,Rla,,Ice_caffee,0,15,11,2020,1,26,6
+6504,0,"[OPEN RECRUITMENT TEAMWORK GENZ AGENCY]\nHalo para Z Generation🙌\n GenZ Agency Open Recruitment nih😉, ayo daftar dan gabung dengan team GenZ dan bekerja sama untuk membangun GenZ Agency!!\n \nGenZ adalah organisasi pemuda sekaligus sebuah Digital Agency yang memberikan wadah bagi anak muda agar bisa belajar, mencari pengalaman dan membangun relasi yang luas dengan mengeluarkan pendapat, pemikiran, ide yang kreatif dan inovatif agar bisa dikembangkan.\n\nPersyaratan \n- Berusia 16 – 29 Tahun.\n- Mau belajar dan mencari pengalaman.\n- Berkomitmen selama 1 Tahun.\n- Bertanggung jawab.\n- Mampu kerja sama tim.\n- Memiliki Basic maupun beberapa Skill yang diperlukan dalam divisi atau posisi yang dipilih.\n- Memiliki ambisi dan semangat serta pantang menyerah.\n- Bahasa asing (TIDAK WAJIB, namun Nilai + terutama bagi Divisi Bisnis).\n- CV.\n- Portofolio bagi Divisi Operasional/IT,Social Media, dan Creative. (TIDAK WAJIB, namun Nilai +) .\n- Motivation Letter (TIDAK WAJIB, namun Nilai +).\n\n Pendaftaran \n1. Follow akun instagram @generasiz20 dan @idvolunteering.\n2. Like postingan ini. \n3. Tag 5 teman kamu di kolom komentar.\n4. Repost di instastory tag @generasiz20 dan 3 teman kamu.\n5. Share Postingan dan Caption ini ke 5 grup Sosial Media kamu (Misal : Grup WA/Telegram). \n6. Screenshot (1-5).\n7. Isi Formulir dan baca Guidebook, link di bio.\n\n@idvolunteering\n#volunteer #volunteering #volunteerindonesia #internship #magang #idvolunteering #organisasi #pemuda #IDVolunteeringSemua #openrecruitment #oprec #oprecvolunteer #oprec2020 #digitalagency",Rla,,Ice_caffee,0,15,11,2020,1,27,34
+6505,0,,Rla,,Ice_caffee,0,15,11,2020,1,27,41
+6506,0,,Rla,,Ice_caffee,0,15,11,2020,1,27,41
+6507,0,,Rla,,Ice_caffee,0,15,11,2020,1,27,41
+6508,0,,Ulin,Nuha,Ulinnuhashubhkhi,0,15,11,2020,3,50,6
+6509,0,#Roleplayer,,,,0,15,11,2020,3,54,8
+6510,0,,,,,0,15,11,2020,4,19,25
+6511,0,,,,,0,15,11,2020,4,28,5
+6512,0,,,,,0,15,11,2020,9,19,28
+6513,0,,,,,0,15,11,2020,18,51,25
+6514,0,,,,,0,15,11,2020,19,1,56
+6515,0,,,,,0,15,11,2020,22,23,30
+6516,0,,,,,0,15,11,2020,23,33,42
+6517,0,,Ellie R,,,0,16,11,2020,2,7,58
+6518,0,,,,,0,16,11,2020,2,48,0
+6519,0,,,,,0,16,11,2020,5,54,43
+6520,0,,,,,0,16,11,2020,6,19,22
+6523,0,,,,,0,17,11,2020,15,0,49
+6524,0,,,,,0,18,11,2020,1,9,0
+6525,0,,Andrian,Mitnick,,0,18,11,2020,15,30,6
+6526,0,,,,,0,18,11,2020,18,25,36
+6527,0,,Krayon Shinchan,,MatSoolaR,0,21,11,2020,0,30,41
+6528,0,,IT Puspresnas 2021,,itpuspresnas2021,0,21,11,2020,6,39,55
+6531,0,https://hub.docker.com/r/devnasser/crystal-lang,Andi,Siswa,bensisva,0,21,11,2020,16,11,12
+6536,0,,,,,0,23,11,2020,8,44,28
+6537,0,,Adam,Iban,Adamiban,0,24,11,2020,12,27,33
+6538,0,,,,,0,26,11,2020,4,23,26
+6539,0,"Never let yourself down by words people say that you can’t make it online. At first I thought they are right but Mr Basil proved me wrong, she changed my life and my friends, today we are all great fun to him. \n\nhttps://t.me/joinchat/AAAAAFbn9P4DZUCcyTKGQw\nhttps://t.me/joinchat/AAAAAFbn9P4DZUCcyTKGQw\nhttps://t.me/joinchat/AAAAAFbn9P4DZUCcyTKGQw",,,,0,26,11,2020,18,46,47
+6540,0,,,,,0,27,11,2020,2,50,58
+6543,0,,,,,0,27,11,2020,23,17,34
+6545,0,"#IzinShareMin halo guys, buat kalian yang lagi kesulitan nemuin media buat belajar programming, kalian bisa join ke channel @onlyngoding 🔥\nDi channel ini, kalian bisa akses ratusan source code buat bahan belajar dan latihan mengasah skill ngoding kalian, tapi tenang aja disini kalian juga bisa belajar materi programming apapun secara gratis loh 😇\nYuk buat yang penasaran bisa langsung klik tautan biru dibawah ini ya:\n@onlyngoding @onlyngoding\n@onlyngoding @onlyngoding\n@onlyngoding @onlyngoding",yumei,,,0,28,11,2020,4,57,3
+6546,0,,foo-bar,,barbar195,0,28,11,2020,5,3,42
+6549,0,,>>>,YoNi08 <<<,AnekSo,0,28,11,2020,19,53,29
+6550,0,,,,,0,28,11,2020,21,37,42
+6551,0,,,,,0,28,11,2020,23,55,1
+6552,0,,,,,0,28,11,2020,23,55,31
+6553,0,,,,,0,29,11,2020,15,27,40
+6556,0,,,,,0,29,11,2020,17,15,23
+6557,0,,,,,0,30,11,2020,10,9,17
+6558,0,,,,,0,30,11,2020,12,4,32
+6559,0,PEGADAIAN SYARIAH  LELANG ONLINE SECARA TERBUKA YANG JATUH TEMPO PEBAYARAN\nYang minat  ! membeli barang murah ikuti dan lihat daftar barang dan harga yg jatuh tempo di PEGADAIAN syariah yang dilelang terbuka secara online'\n https://t.me/joinchat/WI4VVx17UStSgz0yv3lIyQ,,,,0,30,11,2020,14,42,1
+6560,0,,Dave,,Lov3y0uu,0,30,11,2020,20,1,1
+6561,0,,Me,,sidavee,0,1,12,2020,5,32,47
+6562,0,,s/ia. 𝐊𝐚𝐢𝐧𝐚,,kynanr,0,1,12,2020,13,19,30
+6563,0,,,,,0,1,12,2020,18,47,26
+6564,0,,,,,0,1,12,2020,19,51,42
+6566,0,,Rizki,,RizkiSA,0,2,12,2020,13,41,26
+6567,0,,,,,0,2,12,2020,17,13,35
+6568,0,,,,,0,2,12,2020,17,44,9
+6569,0,,,,,0,2,12,2020,19,27,20
+6570,0,,quen,,Diva_1209,0,3,12,2020,13,44,56
+6571,0,,,,,0,4,12,2020,4,54,16
+6572,0,,Iyan,Emce,Iyanemce12,0,4,12,2020,19,38,59
+6573,0,https://twitter.com/luckycasts/status/1335656345475944449?s=21,Andi,Siswa,bensisva,0,6,12,2020,18,59,48
+6574,0,,,,,0,7,12,2020,13,42,17
+6575,0,,,,,0,7,12,2020,13,42,21
+6576,0,,,,,0,7,12,2020,13,51,25
+6577,0,,Ilzam,Mulkhaq,Ilz4m,0,8,12,2020,7,22,54
+6578,0,,Ilzam,Mulkhaq,Ilz4m,0,8,12,2020,13,26,23
+6579,0,"Assamualaikum, selamat pagi, izin promosi event webinar yah temen - temen semua, maaf jika terkesan spam\n\nMungkin disini, temen - temen semua sudah sering mendengar kata - kata cloud / cloud computing.\nDan mungkin juga temen - temen masih bingung, sebenernya apa sih itu cloud computing ?\n\nMaka dari itu, kami mengundang temen - temen semua untuk bergabung di 'Ngaji Teknologi' webinar series.\nYang kali ini kita akan berkenalan dengan cloud computing bersama mbak megah, salah satu solution architect di \nAmazon Web Services (AWS)\n\nDan tentunya masih ada beberapa webinar yang lainnya yah temen - temen semua. Dan insyaallah\nwebinar series menjadi dari awal dari 'Hackathon Santri', sebuah event yang mempertemukan\nmasalah santri dengan solusi teknologi. Terimakasih teman - teman semua atas perhatiannya\n\nLink nya disini : https://bit.ly/ngajicloud",Ilzam,Mulkhaq,Ilz4m,0,8,12,2020,13,26,26
+6582,0,Me and my family was looking for cash to go on a vacation this December we didn't had much so we decided to trade with the little we have all thanks to Richard who made it possible for me thank you so much I highly recommend everyone to him\nhttps://t.me/joinchat/AAAAAE57316H3p2kBwroKQ,,,,0,9,12,2020,10,56,53
+6583,0,,,,,0,10,12,2020,2,11,59
+6584,0,,Info,Sailendra Institute,sainsinfo,0,11,12,2020,8,5,45
+6585,0,Webinar Introduction to Data Engineering,Info,Sailendra Institute,sainsinfo,0,11,12,2020,8,6,21
+6586,0,,Wahyu,,,0,11,12,2020,12,24,26
+6587,0,,Anto,Prasetyo,,0,12,12,2020,4,30,10
+6588,0,,mpj,,empeje,0,12,12,2020,4,54,13
+6589,0,,الفاحري,,Vairusa,0,12,12,2020,13,39,4
+6592,0,,,,,0,14,12,2020,16,53,9
+6593,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,16,12,2020,0,30,3
+6594,0,,John,,,0,16,12,2020,2,33,57
+6597,0,,Sony,,sonysan24,0,16,12,2020,13,34,54
+6598,0,,Alistin,Mandasari,,0,16,12,2020,14,21,9
+6600,0,,tita,,,0,17,12,2020,15,31,52
+6601,0,,Adam,Iris,Irisadam27,0,17,12,2020,19,41,12
+6602,0,,Ju Silva,,jusilver1,0,18,12,2020,4,40,38
+6603,0,,Haris,Hidayatulloh,Harishidayatul,0,18,12,2020,16,45,26
+6608,0,,KHL,,K_181218,0,21,12,2020,7,15,58
+6609,0,,Khaerul,,rkkhaerul,0,22,12,2020,10,46,9
+6610,0,,Micheal,,,0,23,12,2020,18,30,36
+6611,0,,,,,0,24,12,2020,16,55,9
+6612,0,,,,,0,25,12,2020,7,16,5
+6613,0,,Malik Ahmad,2307,mad2306,0,25,12,2020,12,6,3
+6614,0,,Supriati,Elsago,SupriatiElsago2410,0,25,12,2020,16,39,55
+6619,0,,,,,0,28,12,2020,13,52,58
+6622,0,Ternyata `crystal` mudah🙂. Akan segera kubikin artikelnya.,Maaf,Merepotkan... 🙏,cahgentoo,0,28,12,2020,22,7,4
+6623,0,"Kawan-kawan, sudah jadi artikel-nya\n\n🕷 https://epsi.bitbucket.io/lambda/2020/11/22/playing-with-records-crystal/\n\nSemoga dapat menjadi titik awal bagi teman2 yang ingin mencoba `crystal` 🙏🏽. Artikel ini kubikin karena aku sadar betul aku tidak tahu apa2, dan masih butuh belajar 🙇🏻‍♂️.",Maaf,Merepotkan... 🙏,cahgentoo,0,28,12,2020,23,28,43
+6626,0,,Nusi,Aryaaaa,Nusixfx11,0,31,12,2020,14,38,21
+6627,0,"kalau yang background dari ruby lang, dan apalagi ada pengalaman di static typed lang juga, akan cepat menyesuaikan ke Crystal",Maikel,Chandika,maikelchandika,0,1,1,2021,13,54,35
+6628,0,:),Maikel,Chandika,maikelchandika,0,1,1,2021,13,54,43
+6629,0,"berbagi pengalaman, gw waktu awal blajar crystal n nulis code `lff-cr` hampir bisa di bilang secara sengaja dan sadar saya nulis code crystal sambil mikir nulis ruby biasa aja, plus golang coroutine n channel dan dengan beberapa penyesuaian static typed nya :P",Maikel,Chandika,maikelchandika,0,1,1,2021,14,15,40
+6632,0,,,,,0,3,1,2021,11,29,17
+6633,0,,TANG HUI,BJ IGG,,0,3,1,2021,11,29,18
+6634,0,,𝕺𝖒𝖐𝖆𝖗 𝕾𝖚𝖙𝖆𝖗,,,0,4,1,2021,0,51,10
+6638,0,Es-selamu aleykum,Bajro,Lisic,bajro91,0,4,1,2021,12,40,26
+6639,0,I want to know if here is some PHP/Wordpress developers with portfolio available for work,Bajro,Lisic,bajro91,0,4,1,2021,12,40,54
+6640,0,?,Bajro,Lisic,bajro91,0,4,1,2021,12,40,56
+6641,0,Wa’alaikumussalam 👋.,Andi,Siswa,bensisva,0,4,1,2021,12,44,55
+6642,0,https://youtu.be/lVqoH8-IA-I,𝕺𝖒𝖐𝖆𝖗 𝕾𝖚𝖙𝖆𝖗,,,0,4,1,2021,13,28,11
+6643,0,Why is there so many deleted account in this group 🤔?\n\nWho is the owner of this group?,Maaf,Merepotkan... 🙏,cahgentoo,0,4,1,2021,13,40,50
+6644,0,https://youtu.be/lVqoH8-IA-I,𝕺𝖒𝖐𝖆𝖗 𝕾𝖚𝖙𝖆𝖗,,,0,5,1,2021,14,21,6
+6645,0,,Rathi,Sihombing,rathis9,0,6,1,2021,9,8,29
+6649,0,,,,,0,7,1,2021,9,24,39
+6650,0,"▬▬▬▬ஜ۩💼۩ஜ▬▬▬▬\n              RESMI RILIS\n     APLIKASI RAJA BAYAR\n▬▬▬▬ஜ۩💎۩ஜ▬▬▬▬\n\n💢 *JADILAH YANG TEDEPAN , GAS DI AWALL BIAR CUAN* 🥳!!\n\n☑️ FREE AKUN 3 HARI\n☑️ KOMISI TERTINGGI \n☑️ TRANSAKSI SUPPORT BANK LOKAL DAN E WALLET\n☑️ DEPOSIT MURAH MERIAH\n☑️ PROSES TRANSAKSI CEPAT\n☑️ PENDAPATAN TANPA BATAS \n☑️ PEMEGANG LEGALITAS IZIN RESMI \n\nLINK PENDAFTARAN RESMI : bit.ly/pendaftaran-rajabayar",,,,0,7,1,2021,9,25,14
+6651,0,,,,,0,8,1,2021,7,52,6
+6652,0,,,,,0,8,1,2021,7,52,9
+6655,0,,Imran Digitital,,imranHasanA,601133129526,8,1,2021,11,14,15
+6656,0,t.me/TemplateDesainGratis smoga membantu,Imran Digitital,,imranHasanA,601133129526,8,1,2021,11,14,24
+6661,0,,,,,0,10,1,2021,3,34,5
+6662,0,https://youtu.be/lVqoH8-IA-I,𝕺𝖒𝖐𝖆𝖗 𝕾𝖚𝖙𝖆𝖗,,,0,10,1,2021,14,44,20
+6663,0,"Aku mau lanjut bahas concurrency yacc.\n\n🕷 https://crystal-lang.org/reference/guides/concurrency.html\n\nHanya aku mesti istirahat, mau ke kantor.",Maaf,Merepotkan... 🙏,cahgentoo,0,10,1,2021,19,48,17
+6664,0,,Rini,Maryani,,0,11,1,2021,23,52,14
+6665,0,,Deni,,Densxn07,0,12,1,2021,17,28,36
+6668,0,,"""Ation",,,12548224650,13,1,2021,23,54,36
+6669,0,,Adit,Anggoro,,0,14,1,2021,9,47,39
+6670,0,Ehhhh ngakak wkwkwkwk\nhttps://youtu.be/VNIDK8TGwKo,Adit,Anggoro,,0,14,1,2021,11,58,27
+6671,0,,Muhammad,Farrel,,0,15,1,2021,10,48,22
+6674,0,,Mahrus,Q,mq210,0,16,1,2021,1,18,14
+6675,0,Technology🖥️ and knowledge🧠(HINDI)\nhttps://t.me/techknowgiri,𝕺𝖒𝖐𝖆𝖗 𝕾𝖚𝖙𝖆𝖗,,,0,16,1,2021,4,46,52
+6676,0,,Yolandaaa,,yyolnda,0,18,1,2021,4,57,7
+6677,0,,rafli,zocky,raflizocky,0,19,1,2021,3,1,26
+6678,0,,Tio,Pardiansyah,tiopardiansyah,0,19,1,2021,7,44,31
+6679,0,,,,,0,19,1,2021,14,25,7
+6681,0,"**Berbagi apa hari ini?\n\n**Halo semuaaaa... \n\nBerikut mengenai **concurrency** dengan **fiber** di `crsytal`. Ternyata concurrency di `crystal` mudah. Dan singkat pula.\n\n🕷 https://epsi.bitbucket.io/lambda/2020/11/22/playing-with-records-crystal/\n\nSemoga dapat menjadi titik awal bagi teman2 yang ingin mencoba `crystal` 🙏🏽. Artikel ini kubikin karena aku sadar betul aku tidak tahu apa2, dan masih butuh belajar 🙇🏻‍♂️.",Maaf,Merepotkan... 🙏,cahgentoo,0,21,1,2021,2,27,20
+6682,0,,Ahmad,Ardi,,0,21,1,2021,3,4,1
+6683,0,,Astrofisher,,,0,21,1,2021,8,2,27
+6684,0,Hai Gatrimo_ 👋🏻\nBerikut ini adalah Link Undangan Mu\nhttps://t.me/uangtunai_bot?start=r01836739450,Astrofisher,,,0,21,1,2021,8,2,33
+6685,0,,Nur,Anisah,anisa_sz,0,22,1,2021,9,0,1
+6686,0,,Ika,Yunika,Rfkaynka,0,23,1,2021,17,14,21
+6687,0,,,,,0,23,1,2021,20,32,14
+6688,0,,Chipman,,,0,23,1,2021,22,42,21
+6689,0,Hello from beautiful southern Illinois USA.,Chipman,,,0,23,1,2021,22,42,57
+6690,0,,Sheena,Hayden,,0,23,1,2021,23,25,29
+6691,0,,Rozanne,Elmore,Relmore,0,24,1,2021,4,35,56
+6692,0,,Dottie,,,0,24,1,2021,16,46,51
+6693,0,https://t.me/joinchat/SLFfJ2UpY9xttLv1,,,,0,24,1,2021,23,21,25
+6696,0,,Indah,,,0,29,1,2021,12,26,33
+6697,0,,,,,0,30,1,2021,0,50,13
+6698,0,,,,,0,30,1,2021,9,5,19
+6705,0,,,,,0,3,2,2021,8,29,36
+6706,0,,Buku : Mahasiswa Rantau,,Rahmat_belio,0,3,2,2021,22,25,56
+6708,0,,Ryuu,,Nerosaku,0,5,2,2021,17,34,44
+6710,0,"sofware follower unlimated,bisa 10.000/hari . like dan comment juga bisa smua nya auto.\nhttps://t.me/joinchat/I5OBiKO2_QgEEDbS",Imran Digitital,,imranHasanA,601133129526,7,2,2021,2,36,39
+6712,0,,,,,0,8,2,2021,1,7,4
+6713,0,,,,,0,8,2,2021,23,37,19
+6714,0,http://semawur.com/SM3bsr1,,,,0,8,2,2021,23,46,22
+6719,0,,Anggiat,,AnggiatUye,0,10,2,2021,8,29,52
+6722,0,,A,Y,ayustiva,0,10,2,2021,10,29,34
+6726,0,,febby,Nasyhita,,0,11,2,2021,19,43,47
+6727,0,,,,,0,12,2,2021,10,32,19
+6728,0,vcsss 100rb yu say via rek prbdi,,,,0,12,2,2021,10,32,26
+6729,0,,W A N N N,,NJS_ZX1,0,12,2,2021,23,26,10
+6730,0,,,,,0,15,2,2021,0,54,52
+6731,0,Ready Virtual Private Server (VPS) & Remote Desktop Protocol (RDP)\nOs : Windows & Linux\n\n- 4GB Ram\n- Cpu 2 Core\n- Uptime 99%\n- No Garansi Jika Dipakai Untuk Ilegal\n- IPv6 & Floatings IP\n- Private Networking\nHarga : Rp 100.000\nOrder?Chat https://wa.me/6285878750717/,Ryuu,,Nerosaku,0,15,2,2021,4,47,1
+6732,0,,,,,0,15,2,2021,12,5,2
+6733,0,,Saiful,Riza,,0,15,2,2021,12,23,18
+6734,0,,Halen,.m,,0,15,2,2021,19,50,34
+6735,0,Nice,Halen,.m,,0,15,2,2021,19,50,40
+6736,0,,Ahyundra,,ahyundra,0,16,2,2021,6,31,44
+6738,0,,Farid,Rahman,jkt48u,0,18,2,2021,10,49,27
+6739,0,,punten,,jokkendaraan,0,19,2,2021,6,10,53
+6740,0,,Erba,Afidotama | Abu Kautsar,erbaafidotama,0,19,2,2021,7,3,54
+6741,0,,【Ama】,,,0,20,2,2021,17,55,50
+6742,0,,Dwi Gunawiyana,,degewe,0,21,2,2021,5,25,44
+6743,0,,Danny,,dannycreations,0,23,2,2021,12,4,8
+6744,0,,I,,Iqbalfajarafrian,0,23,2,2021,18,39,30
+6748,0,,Haniful,Khalid,localdiskh,0,27,2,2021,14,47,26
+6749,0,,,,,0,27,2,2021,22,8,29
+6754,0,,Fmooney,,fmooney,0,28,2,2021,20,48,7
+6755,0,"Join for Rp 52.000 free! http://sck.io/1jc3ecdO, with code 179 504 077",Fmooney,,fmooney,0,28,2,2021,20,48,53
+6758,0,,Ambren,,Ambrennnn,0,4,3,2021,3,23,49
+6759,0,,~ Ima ~,,,0,4,3,2021,4,27,1
+6769,0,,Jefri,Krd,Jeff2689,0,8,3,2021,23,36,0
+6770,0,https://t.me/Getpays_bot?start=r03704432470\nBagi bagi pulsa gratis telegram,Jefri,Krd,Jeff2689,0,8,3,2021,23,36,22
+6771,0,,Betranneth X Jorslly,,betrannethxjorslly,0,12,3,2021,2,30,20
+6772,0,Hai,Betranneth X Jorslly,,betrannethxjorslly,0,12,3,2021,2,30,34
+6776,0,,,,,0,12,3,2021,14,31,55
+6777,0,,CKB,,,0,12,3,2021,18,29,19
+6778,0,,Ad,,adra_san,0,17,3,2021,6,26,20
+6779,0,"Permisi, izin share, mungkin temen2 ada yg butuh? \nDiskon 66%!!!! \nReselling Voucher belajar online di Website Dicoding untuk akses 30 hari semua kelas Pemrograman yang tersedia. Anda bisa beli 1 voucher dengan harga Rp 500.000. Saat ini tersedia 1 Voucher. Voucher dapat diaktivasi paling lambat 31 Desember 2021. Semakin banyak kelas diselesaikan, sertifikat yang didapat semakin banyak. Silakan cek harga asli di tokopedia saat ini (1,5 juta = 1 voucher), kapan lagi dapat diskon sebesar ini! Berminat? Kontak WA/Telp : 0857 7152 9306",Ad,,adra_san,0,17,3,2021,6,27,32
+6780,0,,Ad,,adra_san,0,17,3,2021,6,27,32
+6781,0,,Ad,,adra_san,0,17,3,2021,6,27,32
+6782,0,,Bintang,Putra,,0,18,3,2021,11,9,32
+6783,0,hallo,Bintang,Putra,,0,18,3,2021,11,10,17
+6784,0,,F60BY7,,affalximam,0,22,3,2021,4,41,28
+6785,0,,Andini,Fadhila,,0,25,3,2021,7,1,28
+6786,0,Crystal 1.0 released ya?,Kharisma,Putra,ksdwiputra,0,26,3,2021,1,15,5
+6787,6786,Benarkah 🤔?,Maaf,Merepotkan... 🙏,cahgentoo,0,26,3,2021,3,8,58
+6788,6787,,Kharisma,Putra,ksdwiputra,0,26,3,2021,3,18,15
+6789,0,Benar ternyata Kapten,Kharisma,Putra,ksdwiputra,0,26,3,2021,3,18,21
+6790,0,,Aditya,Ananda,,0,26,3,2021,3,40,55
+6791,6788,Baiklah.,Maaf,Merepotkan... 🙏,cahgentoo,0,26,3,2021,3,46,48
+6792,0,Benarkah Papua Ingin Merdeka? Konflik kemerdekaan Indonesia Timur sudah berlangsung sejak tahun 1961. Mengapa gerakan yang mengklaim damai ini punya kelompok bersenjata yang menggunakan tentara anak? Ungkap rahasia gelap di balik gerakan Merdeka bumi Cendrawasih yang punya kaitan dengan partai politik asing dan perusahaan global! \n\nhttp://bit.ly/apakahpapuaharusmerdeka,Andini,Fadhila,,0,26,3,2021,4,13,58
+6793,0,"Inilah Alasan KSB Wajib Dinobatkan Sebagai Teroris\nhttps://ksbadalahteroris.medium.com/inilah-alasan-ksb-layak-disebut-kelompok-teroris-662c1c08cb7a\n\nKarena adanya desakan dari masyarakat, Badan Nasional Penanggulangan Terorisme (BNPT) sedang mempertimbangkan untuk memasukkan Kelompok Sipil Bersenjata (KSB) sebagai organisasi teroris. Karena KSB terus meneror, membunuh warga sipil, merampok, menggunakan senjata api, memperkosa, melatih tentara anak hingga mengusir misionaris Kristen dari Papua. Lembaga riset UGM menyatakan setidaknya KSB sudah melakukan 118 tindak kejahatan sejak 2010 sampai Mei 2020. Angka tersebut otomatis menjadikan KSB sebagai pelaku pelanggaran HAM terbesar di Papua.\n\nAnehnya, ada pihak yang menentang wacana penetapan separatis sebagai teroris ini. Kelompok yang tidak sepakat ini masih mempertimbangan HAM anggota KSB. Bagaimana bisa kita membela hak asasi kelompok teroris yang terbukti menjadikan warga Papua sebagai komoditas konflik?\n\nBeberapa waktu lalu, dalam sebuah video KSB mengancam akan menculik dan memperkosa perempuan di Kabupaten Paniai (18/3) demi merampas uang rakyat sebesar Rp. 2,35 Milyar! Separatis bersenjata juga melatih tentara anak, membunuh 19 pekerja (2/1/18), menculik guru dan perawat (3/10/18), memperkosa guru (7/10/18), membakar pesawat misionaris (6/1/21), dan sederet kejahatan lainnya! Setelah melakukan aksi kejahatan, separatis akan mencari perhatian publik seperti dengan memanfaatkan isu pengungsian untuk mendapatkan simpati yang lebih besar dari dunia internasional.  \n\nSiapakah donor yang menyokong pergerakan separatis ? Benny Wenda, ketua ULMWP, sangat dekat dengan dengan beberapa partai asing seperti Partai Buruh Inggris, Partai Hijau Australia dan Partai Hijau Selandia Baru. \n\nTak cuma dari donor asing, agar amunisi senjata terpenuhi, KSB juga merampas dana desa yang seharusnya digunakan untuk mensejahterakan rakyat di bidang pendidikan dan kesehatan. Bukankah ini membuktikan jika KSB ingin warga Papua selalu hidup dalam ketertinggalan?\n\nDimanakah aktivis HAM saat anak-anak direkrut menjadi tentara? Saat perawat dan guru diculik dan diperkosa? Saat ada petani yang dimutilasi? Dan sederet kejahatan hak asasi lain yang dilakukan oleh separatis!\n\nPejuang HAM tebang pilih! Mereka berteriak dengan lantang ketika ada satu KSB yang meninggal, sementara mereka mendadak tuli ketika ada warga sipil yang mati karena kejahatan KSB.",Andini,Fadhila,,0,26,3,2021,4,14,5
+6794,0,,,,,0,28,3,2021,22,53,28
+6795,0,,,,,0,29,3,2021,1,12,10
+6797,0,,Hanafi,,hnfby,0,30,3,2021,6,37,59
+6801,0,,Kega,,,0,2,4,2021,17,4,21
+6802,0,,,,,0,4,4,2021,2,41,14
+6803,0,pagi gan maaf iseng mw nanya 😅,,,,0,4,4,2021,2,41,32
+6804,0,crystal bisa dibikin apa aja yh?,,,,0,4,4,2021,2,41,45
+6805,0,*bikin,,,,0,4,4,2021,2,42,16
+6806,0,Cincin gan,Kharisma,Putra,ksdwiputra,0,4,4,2021,6,12,0
+6807,0,Canda.,Kharisma,Putra,ksdwiputra,0,4,4,2021,6,12,25
+6808,0,Crystal tu all purpose language setau gw. Tp dr community nya lebih byk pakai buat web,Kharisma,Putra,ksdwiputra,0,4,4,2021,6,12,59
+6809,0,,Airavata,,mikrofon_pelunas_hutang,0,4,4,2021,13,30,22
+6811,0,,Tegar,Pamungkas,,0,5,4,2021,15,11,34
+6812,0,"Drama Lukas Enembe Terkuak! Sering ke PNG Diam-diam Karena Alasan Transaksi Politik dengan Aktivis OPM\nhttps://medium.com/@andikataufik378/drama-lukas-enembe-terkuak-4dfcd614c661 \n\nGubernur Indonesia Timur, Lukas Enembe kembali menciptakan drama baru setelah dideportasi oleh pemerintah Papua New Guinea (PNG) karena memasuki perbatasan secara ilegal (31/3/21). Ini bukan kali pertama Lukas Enembe mengendap-endap ke PNG, tapi baru tertangkap basah sekarang! Enembe sering bertemu dengan ketua Organisasi Papua Merdeka (OPM), Jeffrey Bomanak dan politisi PNG, Garry Jufa untuk transaksi politik dan uang terutama dalam pengelolaan konflik Papua merdeka!\n\nPantas selama 8 tahun menjabat tak ada satupun kasus korupsi yang tak tersentuh sehingga bisa menduduki kursi kekuasaan dan memiliki kekayaan melimpah karena pandai mengelola konflik Papua. Masih ingat dengan kasus viral tertangkapnya Lukas Enembe tengah bermain judi di Singapura. Sungguh memalukan! Enembe yang seharusnya menggunakan dana Otsus untuk kesejahteraan rakyat malah berfoya-foya! \n\nBukti Enembe terlibat dalam konflik Papua merdeka diperkuat dengan munculnya reaksi berlebihan dari OPM dan kroni-kroninya pasca kejadian deportasi dari imigrasi PNG. OPM yang panik langsung membuat pembelaan konyol di media sosial bahwa Enembe sedang terancam nyawanya karena sudah 5 kali diracun menggunakan merkuri, bertolak belakang dengan keterangan Enembe yang mengaku ke PNG untuk terapi syaraf kaki. Anehnya, Enembe dan OPM yang mengaku tak saling kenal. Tapi kenapa OPM begitu membela Enembe mati-matian jika keduanya tidak terlibat dalam isu Papua merdeka? Ini semakin membuktikan jika selama ini Enembe mendanai OPM yang tinggal di hutan dan tanpa pekerjaan jelas untuk bisa terus membeli senjata untuk meneror rakyat Papua dan menutupi korupsi.\n\nSetali tiga uang dengan OPM, ULMWP juga kebakaran jenggot membela Enembe dengan narasi diracun menggunakan merkuri. Enembe juga diduga membiayai hidup nyaman ULMWP yang tinggal di luar negeri agar isu Papua merdeka tetap panas di internasional. Selain itu, hoax racun merkuri ini juga terlalu dangkal! Bukankah ini sama saja dengan menuduh istri dan keluarga Enembe yang selama ini memberinya makan? Seharusnya separatis pakai otak kalau mau menyebar kebohongan! \n\nTak hanya OPM dan ULMWP, pasca deportasi Enembe, kenapa KNPB juga sibuk buat postingan dengan menyebut Enembe sebagai Yesus, juru selamat bagi orang Papua. Apa hubungannya kesehatan dengan Papua merdeka? Ini semakin membuktikan kalau kedatangan Enembe ke PBG hanya untuk transaksi uang dengan OPM dan KNPB! Berfikir kritis! Inilah bukti jika selama ini KNPB yang beroperasi layaknya partai bisa memperoleh dana untuk menghidupi organisasi mereka yang besar dan memiliki banyak cabang di daerah.\n\nHidup Lukas Enembe! Hidup Korupsi! Hidup rakyat Papua yang terus dibohongi dan disuapi dengan janji-janji kemerdekaan padahal hanya akal-akalan segelintir orang yang berkepentingan! Pintar ya, 20 tahun korupsi Lukas Enembe dan separatis bisa ditutupi dengan isu Papua merdeka? Rakyat Papua jangan tertipu lagi! Selama ini kita sudah dibodohi oleh Lukas Enembe yang ternyata menjadi donatur Papua merdeka dan separatis yang terus menerus membakar isu kemerdekaan untuk menutupi isu korupsi dan melanggengkan kekuasaan.",Tegar,Pamungkas,,0,5,4,2021,15,11,39
+6813,0,,Rfann,Sy,Rfann18,0,7,4,2021,14,52,48
+6814,0,,Faqih,Azzam,,0,9,4,2021,2,27,48
+6815,0,,🔥NEED ADULT GAMES? GO in MY PROFILE🔥,,traneto2,0,9,4,2021,15,44,20
+6816,0,,🔥NEED ADULT GAMES? GO in MY PROFILE🔥,,traneto2,0,9,4,2021,23,11,13
+6817,0,,Andika Wahyu,Putra,,0,10,4,2021,7,23,12
+6818,0,"*Nestapa Guru Pedalaman Oktovianus Rayo Tewas Ditembak KSB, Mengabdi Hingga Mati*\nhttps://semangatmengabdi.medium.com/nestapa-guru-pedalaman-oktovianus-rayo-tewas-ditembak-ksb-mengabdi-hingga-mati-401471eaedbf \n\nMenjadi seorang guru di pedalaman Indonesia Timur adalah perjuangan yang luar biasa karena harus bertaruh nyawa. Seperti yang terjadi pada guru SD Oktovianus Rayo. Tanpa hati nurani, KSB membunuh Oktovianus di Kampung Julukoma, Distrik Beoga, Kabupaten Puncak (8/4/2021). Setelah lelah mengajar, Oktovianus yang ingin beristirahat malah harus menutup mata selamanya. \nTeroris KSB tiba-tiba datang ke rumah Oktovianus dan dua kali memberondong peluru saat Oktovianus menjaga kios di rumahnya (8/4/2021). Inikah yang KSB sebut perjuangan merdeka dengan menembaki guru yang sedang mengabdi untuk Papua? Kenapa KSB membunuh para guru ini seperti membunuh binatang?\n\nSungguh biadab perlakuan KSB kepada para guru di Papua! Jika guru laki-laki dibunuh, maka guru perempuan diperkosa. Jika semua guru harus bertaruh nyawa untuk mengajar di Papua, siapa yang mau berangkat mengabdi mencerdaskan anak-anak Papua? Kita menolak lupa bagaimana KSB dengan keji menculik 15 guru dan tenaga medis di Nduga (3/10/18), bahkan memperkosa 1 guru wanita secara bergiliran sehingga banyak tenaga pendidik trauma tak mau datang lagi ke Papua. \n\nBelum kering darah guru Oktavianus di tangan KSB, separatis bersenjata juga dengan biadabnya membakar rumah seorang guru. Guru dibunuh, rumah guru dibakar, KSB juga menyengsarakan anak-anak Distrik Beoga dengan membakar tiga sekolah mereka yaitu SD Jambul, SMPN 1 Beoga, dan SMA 1 Beoga malah dibakar tak bersisa. Bahkan harta warga diperas dengan mudah oleh separatis yang meminta uang ke warga. Warga yang takut pasca pembunuhan guru Oktovianus kabur dan mengungsi. \n\nInikah yang KSB sebut sebagai kemerdekaan dimana KSB merasa sok berkuasa sehingga bisa menindas dan mengambil nyawa warga yang tak berdaya sesuka hati? Padahal, KSB pimpinan Sabinus Waker hanya segerombolan pengecut yang kelimpungan karena terdesak wilayah kekuasaannya di Intan Jaya dikuasai aparat. Pembunuhan guru, pembakaran sekolah hanyalah umpan bagi separatis agar aparat datang ke Distrik Beoga. Kemudian KSB akan mengobarkan konflik Papua merdeka, playing victim untuk mendapat simpati sehingga bisa terus mendapat donor dan eksistensi di dunia internasional? \n\nKemana para aktivis HAM,  media internasional seperti Reuters, LSM seperti Kontras dan Amnesty Internasional Indonesia serta dewan gereja yang selama ini selalu berteriak soal HAM Papua dan membuat separatis bersenjata seolah tak berdosa? Apa menurut kalian guru layak mati dan dibantai seperti hewan? Padahal menurut hasil riset UGM membuktikan separatis bersenjata adalah pelanggar HAM terbesar di Papua. Sebanyak 64% dari total kasus kekerasan dari 118 kasus dilakukan oleh KSB selama 10 tahun belakangan ini.\n\nMau sampai kapan KSB terus memberikan duka nestapa untuk tenaga pendidik di Papua? Guru laki-laki dibunuh, guru perempuan diperkosa, sekolah dibakar dan anak-anak dijadikan tentara. \nKSB yang sok berkuasa tidak sama sekali memperjuangkan rakyat, hanya kelompok teroris pengecut yang menjadikan warga sebagai tameng demi uang dan kekuasaan!",Andika Wahyu,Putra,,0,10,4,2021,7,23,16
+6819,0,,Tommie,,,0,11,4,2021,0,1,14
+6820,0,"Are you afraid of taking these risks during investing in cloud mining? MVU cloud mining (https://bit.ly/3fZFBJW) can slove this problem by its Hashrate for New Users plan. Believe it or not, I have earned $25.20 in 3 days and I want more.",Tommie,,,0,11,4,2021,0,1,15
+6822,0,,kennedy,ㅤ ㅤ ,Gedekennedy,0,11,4,2021,20,9,15
+6823,0,,Gilang,Rm,,0,12,4,2021,11,53,40
+6825,0,,Dar,,Desember_017,0,14,4,2021,7,50,52
+6827,0,,Adi,Arriansyah,adiarr,0,15,4,2021,2,26,42
+6828,0,,Retno,Wiyati,Retnowiyati,0,16,4,2021,6,30,41
+6829,0,"GRATIS: Online Course Dasar-Dasar Pemrograman Python\n\nPython sebuah pemrograman multiguna yang banyak digunakan untuk AI, Datascience, Cybersecurity, Backend sistem, dsb. Pelajari cara penggunaannya GRATIS dengan bergabung ke grup WA dibawah ini:\n\nhttps://chat.whatsapp.com/FXdGdIPKe3p7VP0UXwVb0f\n\nMohon menunggu di dalam group sampai course dimulai, Senin 19 April 2021.\n\nMateri kami sampaikan hari Senin dan Kamis pukul 13.00 WIB (tidak live) di grup WA, Youtube, dan Instagram. Dilengkapi Quiz, Sertifikat, Rekap nilai, dan Konsultasi instruktur. Detail kami sampaikan di grup WA beberapa hari sebelum course dimulai.\n\nSilahkan bergabung\n\n(boleh dishare)",Retno,Wiyati,Retnowiyati,0,16,4,2021,6,30,45
+6830,0,,Kurnia.,fadhil,,0,17,4,2021,0,6,36
+6832,0,,Kezia,,,0,18,4,2021,13,44,49
+6833,0,,Naily,Fakhriah,nailyfakhriah,0,18,4,2021,15,23,32
+6834,0,,HB,,ABIBOKTO,0,19,4,2021,7,56,56
+6835,0,"Selamat siang, permisi Kak. Numpang share informasi terkait yang mungkin bermanfaat untuk temen-temen di sini 🙏 \n\nSelama bulan Ramadan, Pacmann mengadakan Hands-On Workshop Series dengan berbagai tema menarik setiap minggunya. \n\nInfo selengkapnya dapat dilihat pada gambar. Untuk pendaftaran bisa melalui tautan ini: bit.ly/PendaftaranPacmannWorkshop\n\nAda Free webinarnya juga di sini:\nbit.ly/PendaftaranPacmannWebinar\n\nTerimakasih Kak",HB,,ABIBOKTO,0,19,4,2021,7,57,38
+6836,0,,TIF_E41210069_SHILMIA MADINA,,shmiadin28,6285232368543,19,4,2021,7,59,24
+6837,0,,Abieb,Jr,Jr_abieb,0,19,4,2021,16,37,8
+6838,0,,Dinda,Aviolita,dindaav,0,21,4,2021,0,36,18
+6839,0,,Mustova,Rahmad,mustova12,0,21,4,2021,3,5,18
+6840,0,"*Aksi Separatis Bersenjata Papua: Sadis Bunuh OAP Pelajar SMA 16 Tahun Hingga Tewas Mengenaskan*\nhttps://terbarudaripapua.medium.com/aksi-separatis-bersenjata-papua-sadis-bunuh-oap-pelajar-sma-16-tahun-hingga-tewas-mengenaskan-e5a1891fcba3\n\nWarga Puncak Jaya kembali berduka gara-gara Kelompok Separatis Bersenjata (KSB) beraksi brutal membunuh 1 Orang Asli Papua (OAP) siswa SMA usia 16 tahun, Ali Mom, hingga tewas dengan mata terserak di tanah (15/04/21) di Ilaga, Puncak. Sungguh jahanam! Padahal sebelumnya, KSB telah membantai guru Oktovianus Rayo (08/04/21), guru Yonatan Renden (09/04/21), dan tukang ojek Udin (14/04/21), serta membakar 3 sekolah, rumah pendeta, guru-guru, dan kepala sekolah. \n\nSeakan pembunuhan guru dan pembakaran sekolah belum cukup membawa pilu bagi warga Puncak, separatis bersenjata sengaja menjebak Ali Mom yang masih berusia 16 tahun dengan menelepon minta dibawakan rokok dan pinang ke Kampung Uloni lalu menembak kepala anak 16 tahun itu 2 kali. Tega KSB membunuh Ali Mom, sesama OAP yang bahkan masih SMA! Perjuangan macam apa yang tega membunuh remaja Papua biasa berusia 16 tahun hanya demi menciptakan konflik dan teror di Papua? Apakah ini cara licik KSB untuk tarik kedatangan aparat, sehingga nanti bisa dikambinghitamkan sebagai penjahat dalam konflik Papua? Ini hanyalah terorisme yang disembunyikan KSB di balik kedok perjuangan! \n\nSeparatis bersenjata, berhenti pakai kedok perjuangan hanya untuk penuhi nafsu binatang kalian! Kesaksian pilu para pendeta di Beoga juga buktikan kebejatan KSB yang suka menculik dan memperkosa anak-anak gadis di desa. Bahkan, ada video mengerikan detik-detik KSB melepas tembakan dan menggedor-gedor pintu saat memburu gadis-gadis! Seorang ibu, 2 balita, dan 5 gadis meringkuk bersembunyi serta menangis ketakutan di dalam kamar mandi sempit! \n\n*PENDETA JUPINUS WAMA*\n*Pendeta Gereja Beoga, Puncak, Papua*\n_Jadi hancur itu bukan hanya sekolah saja (yang dibakar oleh KSB). Kita punya anak-anak perempuan juga sudah hancur (diperkosa KSB). Kita juga sudah hancur, rumah sudah hancur semua._\n\nWarga Papua marah besar dan mengutuk KSB! Pengabdian guru Oktovianus Rayo selama 10 tahun di pedalaman Papua sia-sia hanya karena tak memberi separatis uang Rp 20 juta. Bahkan KSB meminta tebusan Rp 500 juta untuk jenazah guru Oktovianus yang KSB sandera!\n\nSudah cukup banyak darah dan air mata yang tumpah di tanah Papua. Berapa banyak lagi anak remaja yang akan KSB bacok? Berapa banyak lagi anak-anak gadis yang akan separatis perkosa? Berapa banyak guru lagi yang KSB bantai layaknya hewan?",Mustova,Rahmad,mustova12,0,21,4,2021,3,5,23
+6841,0,,irtupin,,irtupin,0,23,4,2021,13,21,54
+6842,0,,Anshor,,anshor_ramadhon,0,24,4,2021,13,44,57
+6843,0,,Anshor,,anshor_ramadhon,0,24,4,2021,13,45,23
+6844,0,"Hi Sobat \nYuk, Upgrade Skill,  Kuasai digital skill, programing dan desain, di SanberCode Bootcamp!\n- Online - Intensif - Interaktif -\nMulai Bulan Ramadhan ini semua kelas bootcamp levelnya jadi beginner, jadi klo kamu baru mau mulai, bisa ikut kelas mana aja, yuk dipilih kelasnya!\nAda 4 kelas baru juga lho!\nKelas yang dibuka :\n1. Python - Data Science\n2. Laravel - Web Development\n3. React Native - Mobile Apps Dev\n4. FLutter - Mobile Apps Dev✨\n5. React JS - Web FrontEnd Dev\n6. Vue JS - Web FrontEnd Dev✨\n7. Python - BackEnd Microservices✨\n8. NodeJS - BackEnd with Adonis✨\n9. Wordpress Dev\n10. UI/UX Design\n11. Ai Ps Blender - Grafik & 3D Design\n- Biaya investasi 200rb\n- Lama pelatihan 4 pekan\n- Tidak ada syarat minimum skill\n12. Agile Dev using SCRUM\n- Biaya investasi 100rb\n- Lama pelatihan 2 pekan\n- Tidak ada syarat minimum skill\n--------------------------------------------------\n⭐ Bootcamp ini terbuka untuk umum dan tanpa seleksi di awal.\n⭐ Dilatih oleh trainer profesional berpengalaman dan dapat sertifikat resmi.\n⭐ Bisa mendapatkan peluang project dan kesempatan bekerja di perusahaan mitra SanberCode.\n⭐ Materi kelas dan grup diskusi dapat diakses kapan pun setelah kelas berakhir.\n📣 PENDAFTARAN 3 April - 24 April 2021\n📆 Kelas dimulai tanggal 26 April 2021\nInfo detail materi, teknis pelaksanaan dan pendaftaran, klik link sanbercode.com\nBuat yang ingin daftar dan dapatkan diskon 10% silahkan Masukan kode voucher : RAMADHAN",Anshor,,anshor_ramadhon,0,24,4,2021,13,45,26
+6845,0,"Hi Everyone! \n\n**Pacmann AI is looking for ML Researcher - Course Lecturer** who loves to:\n1. Conduct literature study on State of The Art Machine Learning and Statistics, understand how the algorithm works and how to implement it industry cases, and be able to explain it in a great detail.\n2. Share your knowledge to the others. We want you to teach our top-notch students.\n3. Conduct research and trying new stuff.\n\nIf you are interested, please apply here: https://www.linkedin.com/jobs/view/2491640003/?refId=p0e0yA6w%2BG84aPktdf7l7A%3D%3D&trackingId=Cq%2FdDeMfMoTHNkTHpIESPQ%3D%3D&trk=d_flagship3_company\n\nNote: There will be a short video test that applicants need to submit (more details on the link above) dont forget to submit the test before 5th of May, 2021 at teaching@pacmannai.com",HB,,ABIBOKTO,0,26,4,2021,6,54,33
+6846,0,,Andria,Bagus,AndriaBagus,0,26,4,2021,14,49,1
+6847,0,,Design & Code Your Future Career,,kelas_bootcamp,0,27,4,2021,1,8,57
+6848,0,,Eka,Pras,,0,27,4,2021,4,11,4
+6849,0,"Lapor Komandan, Tugas Kami Menjaga Negara di Samudra dan Tanah Papua Telah Usai\nhttps://patriotsejati.medium.com/lapor-komandan-tugas-kami-menjaga-negara-di-samudra-dan-tanah-papua-telah-usai-d69da51a0db \n \nAda yang berjuang di samudera, berani tenggelam demi menjaga bangsa. Telah gugur 53 prajurit terbaik Indonesia saat berpatroli di perairan laut utara Bali (22/04/21). Ada juga yang berjuang di daratan, gugur mulia demi menjaga bangsa. Kini satu lagi pahlawan bangsa Kepala BIN Daerah (Kabinda) I Gusti Putu Danny Nugraha gugur di belantara Papua melawan Kelompok Separatis Bersenjata (KSB) (25/04/21). Kabinda Danny memang datang langsung berpatroli di Puncak, Papua, karena KSB merajalela membantai 2 guru Oktovianus Rayo dan Yonatan Renden (08/04/21), tukang ojek (14/04/21), anak SMA asli Papua Ali Mom (15/04/21), membakar 4 sekolah (08/04/21), dan memperkosa gadis-gadis desa. \n\nKedatangan Kabinda Danny ke Puncak, Papua, tak hanya untuk melakukan observasi langsung di Puncak, Papua, demi mempercepat pemulihan keamanan bagi warga yang mengungsi karena takut KSB menyerang, membunuh, atau memperkosa mereka. Kabinda juga ingin menyampaikan bela sungkawa dan dukungan kepada keluarga korban pembunuhan KSB dan juga para pengungsi yang masih berduka. Memang hanya pengecut seperti KSB yang melakukan serangan terhadap konvoi Kabinda yang terdiri dari 4 sepeda motor, menyasar Kabinda Danny dengan sengaja pada 15:50 WIT, Minggu sore itu, dan menyebabkan gugurnya Kabinda Danny yang dengan gagah berani melindungi anak buahnya! \n\nBagi prajurit, seperti 53 pelaut Nanggala-402 yang kini mengarungi samudra selamanya, mati dalam tugas adalah simbol pengabdian terbesar dalam mempertahankan negara. Tak berbeda dengan Kabinda Danny yang gugur demi mempertahankan kedaulatan bangsa dari teroris Papua Merdeka yang tak punya hati meneror dan membunuh warga Papua hanya untuk memantik konflik dan mendapatkan uang serta kekuasaan instan!\n\nBuktinya, KSB Papua Merdeka dengan keji membantai guru Rayo dan Renden yang sudah mengabdi di pedalaman Papua selama 10 tahun (08/04/21), KSB bahkan meminta tebusan jenazah Rp 500 juta kepada warga Papua dan keluarga yang berduka! KSB menembak dan membacok kepala anak SMA bernama Ali Mom yang masih 16 tahun hingga keluar matanya (15/04/21). Dalam video viral KSB melepas tembakan, menggedor pintu rumah, memburu 6 wanita dan 2 balita yang meringkuk ketakutan sembunyi di kamar mandi sempit. Ini bukan perjuangan, ini terorisme yang harus dilawan!\n\nLapor Komandan, tugas kami untuk menjaga bangsa telah usai.\nKami tidak tenggelam, kami akan menjaga lautan Indonesia selamanya.\nKami tidak kalah, kami akan menjaga Papua dan Indonesia selamanya.\n\nTertanda, \n53 prajurit tangguh KRI Nanggala 402 di Samudera \nKepala BIN Papua Gusti Putu Danny Nugraha dan belasan prajurit pemberani yang gugur di Tanah Papua.",Eka,Pras,,0,27,4,2021,4,11,10
+6850,0,,bagus,aryadi,Bertus_lam,0,27,4,2021,12,32,29
+6853,0,,𝗚𝗔𝗟𝗜𝗛 𝗔𝗥𝗗𝗜𝗔𝗡𝗦𝗔𝗛,,Galih_Ardiiansah,0,30,4,2021,16,14,0
+6854,0,"Hi Sobat \nYuk, Upgrade Skill,  Kuasai digital skill, programing dan desain, di SanberCode Bootcamp!\n- Online - Intensif - Interaktif -\nMulai Bulan Ramadhan ini semua kelas bootcamp levelnya jadi beginner, jadi klo kamu baru mau mulai, bisa ikut kelas mana aja, yuk dipilih kelasnya!\nAda 4 kelas baru juga lho!\nKelas yang dibuka :\n1. Python - Data Science\n2. Laravel - Web Development\n3. React Native - Mobile Apps Dev\n4. FLutter - Mobile Apps Dev✨\n5. React JS - Web FrontEnd Dev\n6. Vue JS - Web FrontEnd Dev✨\n7. Python - BackEnd Microservices✨\n8. NodeJS - BackEnd with Adonis✨\n9. Wordpress Dev\n10. UI/UX Design\n11. Ai Ps Blender - Grafik & 3D Design\n- Biaya investasi 200rb\n- Lama pelatihan 4 pekan\n- Tidak ada syarat minimum skill\n12. Agile Dev using SCRUM\n- Biaya investasi 100rb\n- Lama pelatihan 2 pekan\n- Tidak ada syarat minimum skill\n--------------------------------------------------\n⭐ Bootcamp ini terbuka untuk umum dan tanpa seleksi di awal.\n⭐ Dilatih oleh trainer profesional berpengalaman dan dapat sertifikat resmi.\n⭐ Bisa mendapatkan peluang project dan kesempatan bekerja di perusahaan mitra SanberCode.\n⭐ Materi kelas dan grup diskusi dapat diakses kapan pun setelah kelas berakhir.\n\nTertarik Bergabung?  \nInfo detail materi, teknis pelaksanaan dan pendaftaran, klik link sanbercode.com\nBuat yang ingin daftar dan dapatkan diskon 10% silahkan Masukan kode voucher : RAMADHAN",Design & Code Your Future Career,,kelas_bootcamp,0,2,5,2021,3,53,53
+6855,6854,Mantap,Anshor,,anshor_ramadhon,0,2,5,2021,4,21,31
+6856,0,"TROJAN THE MALWARE\n(Free Online Course Cybersecurity)\n\nIkuti kelas online gratis cara pembuatan dan pencegahan Trojan The Malware. Course dilengkapi materi, quiz, tanya jawab dgn instruktur, sertifikat, dan rekap nilai quiz.\n\nCukup bergabung dgn masuk kedalam grup WA berikut. Mohon menunggu didalam grup sampai course dimulai hari Jum'at 7 Mei pukul 13.00 WIB. Info lainnya kami share didalam grup.\n\nhttps://chat.whatsapp.com/GgQSbEouy9DJ40CuvWDKyj\n\nCourse ini terselenggara oleh KampusBiner\n\nSilahkan dishare",Retno,Wiyati,Retnowiyati,0,3,5,2021,3,14,45
+6857,0,,DIKA,.,Andika_kharisma,6282141469219,3,5,2021,18,32,11
+6858,0,,Claryta,Sherina,,0,5,5,2021,2,49,7
+6859,0,"Biadab! Rampas Hak Sipil Demi Eksistensi Konflik, Teroris KSB Bakar Sekolah dan Puskesmas di Ilaga!\nhttps://beritakriminal.medium.com/biadab-rampas-hak-sipil-demi-eksistensi-konflik-teroris-ksb-bakar-sekolah-dan-puskesmas-di-ilaga-70573f71e4bd \n\nKelompok Kriminal Bersenjata (KSB) semakin brutal! Belum kering luka dan duka korban kekerasan di Kabupaten Puncak, teroris bersenjata kembali berulah dengan membakar sekolah dan puskesmas di Distrik Ilaga, Puncak (2/5/21). Separatis bersenjata membagi tim pengrusakan menjadi beberapa kelompok. Ada yang bertugas membakar sekolah, puskesmas, dan merusak 3 titik ruas jalan. \n\nApa maumu wahai separatis bersenjata? Mengapa merusak fasilitas vital yang menjamin hak pendidikan bagi anak-anak Papua? Inikah perjuangan kemerdekaan teroris KSB, menghalangi anak-anak Papua untuk bisa sekolah dan belajar? KSB tak hanya membakar sekolah hingga anak-anak tak bisa belajar, tapi juga mempersulit rakyat untuk mendapat akses kesehatan dan infrastruktur. Ini bukan perjuangan rakyat, tapi perjuangan membuat warga Papua semakin terbelakang dan tidak sejahtera!\n\nApakah teroris KSB belum puas setelah menjagal 2 guru (08/04/21), membantai 1 anak SMA asli Papua (15/04/21), dan memembaki 1 tukang ojek (14/04/21) seperti hewan? Sungguh biadab, melukai warga sipil adalah tindakan pengecut!\n\nNegara tak tinggal diam! Saat KSB terus merenggut nyawa sipil untuk menyalakan konflik, pemerintah sigap menurunkan pasukan Yonif/315 atau yang kerap disebut dengan pasukan setan diturunkan ke Papua untuk melindungi keamanan warga sipil dari berbagai tindakan teror keparat KSB! Pasukan elit ini terdiri dari 400 prajurit terbaik yang sudah teruji ketangguhannya dan pernah diturunkan untuk menjaga masyarakat sipil dari serangan separatis Timor Leste dan Gerakan Aceh Merdeka. \n\nAparat berjuang untuk rakyat, separatis bersenjata malah menjadikan nyawa warga sebagai komoditas konflik dan menjual isunya ke pendonor Internasional. Dengan senjata, KSB juga bertindak sewenang-wenang, mengancam kepala desa dan merampok dana desa, sampai menutupi kasus korupsi Otsus elit Papua yang sudah berjalan 20 tahun dengan isu Papua merdeka! \n\nTengoklah hasil riset UGM! Untuk saat ini, teroris KSB adalah pelanggar HAM terbesar di Papua, dan setidaknya sudah melakukan 118 tindak kejahatan terhitung dari 2010 sampai Mei 2020. Dan menurut data dari Kementerian Koordinator Politik, Hukum, dan Keamanan tidak kurang dari 110 warga menjadi korban teror KKB di Papua selama tiga tahun terakhir.\n\nKelompok teroris Papua Merdeka memang pantas diburu! KSB tega membantai 2 guru, Oktavianus Rayo dan Yonatan Renden (08/04/21), untuk meminta tebusan Rp 500 juta untuk jenazah kedua guru itu. Menukar nyawa demi eksistensi konflik! KSB bisa mendapatkan uang dan kekuasaan dengan mudah setelah membantai guru, membunuh tukang ojek, membakar sekolah, dan sederet kejahatan lain. \n\nJangan biarkan KSB menjadikan warga Papua sebagai bahan bakar politik untuk mendapat uang dan kekuasaan. KSB hanya bisa memberi darah dan air mata, merusak infrastruktur warga agar terus hidup dalam ketertinggalan. Tumpas teroris KSB yang selalu merasa layaknya raja rimba!",Claryta,Sherina,,0,5,5,2021,2,49,13
+6860,0,,steven,,,0,7,5,2021,12,3,15
+6861,0,,Design & Code Your Future Career,,kelas_bootcamp,0,8,5,2021,3,22,8
+6862,0,,Kaka,Cantik,,0,9,5,2021,9,14,35
+6864,0,,Joel,Lonbeck,da1nerd,0,10,5,2021,7,41,25
+6865,0,,Alfi,,,0,10,5,2021,11,47,25
+6866,0,,Claryta,Sherina,,0,11,5,2021,3,45,26
+6867,0,"Victor Yeimo, Juru Bicara KNPB, Dalang Di Balik Kerusuhan Wamena-Jayapura 2019 Akhirnya Ditangkap!\nhttps://seputarinfoid.medium.com/victor-yeimo-juru-bicara-knpb-dalang-di-balik-kerusuhan-wamena-jayapura-2019-akhirnya-ditangkap-5efc7e045f72 \n\nSetelah menjadi buronan sejak 2019, Satgas Nemangkawi pun akhirnya resmi menangkap Victor Yeimo (9/5), juru bicara KNPB yang menjadi dalang di balik kerusuhan berdarah Wamena.\n\nhttps://papuasatu.com/peristiwa/tolak-diajak-demo-oleh-simpatisan-knpb-siswa-smp-di-wamena-dibakar/ \nAkibat provokasi Victor Yeimo, Waktu itu warga non-Papua menjadi sasaran. Mereka dikejar, diburu, dan dibakar oleh massa perusuh. Buntut Provokasi Victor Yeimo pada demo anti-rasisme, seorang siswa sekolah bernama Frans Tabuni dan dua orang ibu pernah dibakar hidup-hidup dalam kerusuhan Wamena September 2019 lalu. \n\nBerdasarkan penelusuran polisi, KNPB menyamar menjadi siswa SMA, namun tetap saja ketahuan karena mukanya tampak tua dan berjenggot. Victor dan kongsinya masuk ke sekolah-sekolah dan memaksa pelajar untuk turut berdemonstrasi. Menolak? Bakar!! Kerusuhan menyebabkan 33 orang warga mayoritas non-Papua kehilangan nyawa dan 17.000 orang mengungsi pada tragedi rusuh berdarah ini! \n\nVictor juga memobilisasi massa untuk aksi anarkis pada demonstrasi di Jayapura 19 dan 29 Agustus 2019 lalu. KNPB menduduki kantor gubernur Papua, dan menggantikan bendera Merah Putih dengan bendera Bintang Kejora (29/8/2019). Mengorbankan nyawa warga untuk menghidupkan berita! Kerusuhan Wamena-Jayapura memang sengaja diciptakan untuk menarik perhatian dunia internasional, karena sehari setelahnya Benny Wenda hadir dalam sidang PBB 2019. \n\nTak hanya mengkoordinir rusuh Wamena-Jayapura, KNPB juga menyuplai senjata kepada teroris KSB yang digunakan teroris KSB untuk membantai rakyat Papua, baru-baru ini saja KSB  membantai 1 siswa SMA asli Papua bernama Ali Mom (15/04/21), membunuh 2 guru (08/04/21), serta membakar 3 sekolah.  Percuma saja KNPB berkedok perjuangan damai jika bekerjasama dengan teroris pembunuh! Darimana separatis bisa punya uang untuk membeli senjata? Apalagi harganya tidak murah! Di Nabire saja, senjata api ilegal yang dipakai KSB menembak warga sipil dijual berkisar Rp300- Rp350 juta. \n\nKNPB biadab mendapat uang dari hasil menjual isu Papua Merdeka pada oknum pejabat korup yang tak mau kasusnya terbongkar serta partai dan perusahaan asing pengincar pamor politik dan SDA. Sementara Victor Yeimo dan Kroninya memakan uang korupsi! Elit Papua dan separatis kompak menjadi tim solid dalam praktik korupsi otsus, satu menjadi tikus pencuri dan satu lagi menjadi tukang memanaskan isu setiap wacana audit digelontorkan! \n\nSederet kejahatan diatas sudah lebih dari cukup untuk menjadi alasan penangkapan Victor Yeimo! Rakyat Papua harus dilindungi dari KNPB dan sosok seperti Victor Yeimo yang terus menjadikan nyawa warga sebagai bahan bakar konflik dan dikapitalisasi sana sini demi kepentingan kelompoknya belaka!",Claryta,Sherina,,0,11,5,2021,3,58,35
+6868,0,,Iwan syahputra,,joinAwp,0,11,5,2021,20,38,52
+6869,0,,haripin,,haripin9,0,12,5,2021,5,5,29
+6870,0,,Gadjah,Muda,GadjahMuda,0,14,5,2021,11,57,0
+6872,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,15,5,2021,16,55,45
+6873,0,,Mery,,Meryanti12,0,15,5,2021,23,58,25
+6874,0,,Sela,,Bagiedong,6288286964373,17,5,2021,6,22,53
+6875,0,Hy,Sela,,Bagiedong,6288286964373,17,5,2021,6,22,58
+6876,0,,almira,hurairah,,0,19,5,2021,2,6,38
+6877,0,"Penuh Kepalsuan! KKB teroris dan SJW Sebar Hoax Murahan tentang Penembakan Tiga Perempuan\nhttps://medium.com/@viralllagiiii/penuh-kepalsuan-kkb-teroris-dan-sjw-sebar-hoax-murahan-tentang-penembakan-tiga-perempuan-6c0127cf82be\n\nSejak awal April 2021, Kelompok Kriminal Bersenjata (KKB) telah mengubah Kabupaten Puncak menjadi neraka dengan membantai dua guru (08-09/04), menembaki tukang ojek (16/04) hingga membakar sekolah SD dan puskesmas (02/05). Negara tak tinggal diam! Pada 29 April 2021, Pemerintah Indonesia resmi melabeli KKB sebagai teroris sesuai dengan UU no 5/2018. Dengan demikian, lumpuh sudah ruang gerak kelompok teroris yang sudah semena-mena menghilangkan ratusan nyawa warga Papua.  \n\nKKB teroris panik! Dalam keadaan terdesak, KKB teroris bersama SJW dan media pro-separatis malah playing victim dengan menyebar berita palsu tentang penembakan 3 wanita tanpa bukti foto dan hanya bersumber dari omongan informan tanpa nama. Sungguh memalukan!\n\nDangkal sekali permainan para antek teroris separatis  ini! Jika memang benar ada peristiwa penembakan tersebut, mengapa tidak ada satupun bukti foto para korban yang ditampilkan? Mencurigakan! Mengapa media pro separatis Suarapapua.com sebagai pihak pertama penyebar berita palsu ini tidak mengangkat telepon Kolonel Czi IGN Suristiawa yang ingin meminta konfirmasi jika memang bukan hoax? Jika benar informasi penembakan 3 wanita didapat dari warga, kenapa di era teknologi sekarang warga tidak langsung memberikan bukti foto kepada media? Bagaimana jika informan tersebut adalah separatis? Apakah bisa dipertanggungjawabkan? \n\nBegitu juga dengan SJW! Selama ini SJW selalu menyebarkan informasi yang tidak bisa diminta pertanggungjawabannya. Bagaimana SJW seperti Veronica Koman bisa mempertanggungjawabkan sumber informasi ghaib itu padahal ia tidak tinggal di Papua? Veronica Koman bahkan dengan pengecutnya selalu menutup kolom komentarnya di twitter! \n\nSeperti itulah siklus kerja gerakan palsu Papua Merdeka. Teroris separatis beserta SJW dan pendukungnya sengaja menyebarkan hoax di media sosial agar bisa mengkambinghitamkan aparat untuk mendapat eksistensi konflik Papua Merdeka demi meraih simpati publik internasional dan uang dari donor asing. \n\nSeharusnya media dan SJW itu buka mata saat KKB teroris dengan brutalnya memburu gadis-gadis Papua untuk diperkosa! Kekejaman KKB teroris juga berlaku untuk orang asli Papua. Lantas kemana suara para SJW gadungan saat monster teroris ini dengan sadisnya membacok siswa 16 tahun bernama Ali Mom hingga mata Ali berjatuhan ke tanah?!\n\nSejak 2010 sampai April 2021, KKB teroris telah melakukan 188 aksi kejahatan dengan sedikitnya 299 kasus, membunuh 395 orang dan membuat 1.579 orang terluka! Atas kebiadaban nya, KKB teroris terbukti menjadi pelanggar HAM terbesar di Papua. Mengapa ada “aktivis HAM” yang malah membela pelaku pelanggaran HAM?\n\nTeroris Gerakan Papua Merdeka beserta kaki tangannya hanyalah gerakan cari uang dan kekuasaan semata. KKB teroris menjadikan nyawa manusia sebagai bahan bakar konflik Papua Merdeka, serta merampas dana desa dan mengemis donor asing untuk membeli senjata! SJW pendukung teroris sama saja dengan pembunuh! Masyarakat Indonesia sudah cerdas, KKB teroris dan para SJW tidak usah sok menjadi korban dengan menyebarkan hoax remeh! Tumpas habis KKB teroris beserta seluruh perpanjangan tangannya!",almira,hurairah,,0,19,5,2021,2,9,9
+6878,0,,Felicia,Haliman,feliciahaliman,0,19,5,2021,5,55,42
+6879,0,,Naufal,Nasik,Naufalnasikadani99,0,22,5,2021,3,15,0
+6880,0,,Admin,,admonAF,0,22,5,2021,22,43,5
+6881,0,,Ardian,Lutfi,ardianupi,0,24,5,2021,1,52,1
+6882,0,,almira,hurairah,,0,25,5,2021,8,48,26
+6883,0,"Berkedok Isu Palestina, Mahasiswa Palsu Minta Victor Yeimo Dalang Rusuh Wamena 2019 Dibebaskan\nhttps://infovirall.medium.com/berkedok-isu-palestina-mahasiswa-palsu-minta-victor-yeimo-dalang-rusuh-wamena-2019-dibebaskan-b4b7909a768f \n\nDi tengah panasnya demo bela Palestina, separatis Papua Merdeka tak mau ketinggalan hiruk-pikuk ikut demo pakai mahasiswa palsu di Melbourne, Jakarta, Bandung, Semarang, Yogyakarta, dan Manokwari, tetapi ujung-ujungnya minta Victor Yeimo dalang rusuh Wamena 2019 dibebaskan.\n\nDi Melbourne, ada pihak asing yang mengkoordinasikan aksi demo bela Palestina yang justru jadi aksi pembebasan Ketua Separatis KNPB Victor Yeimo (22/05/21). Sudah rahasia umum ada oknum partai, politisi, dan perusahaan yang suka panaskan isu Papua Merdeka di Australia. Belasan massa buatan separatis juga cari muka pakai isu Palestina untuk bebaskan Victor Yeimo di Manokwari. Meski tidak diperbolehkan turun ke jalan demi keselamatan umum, aparat mempersilakan massa berorasi damai di halaman Polres Manokwari (22/05/21).\n\nTak tahu malu! Berani-beraninya separatis eksploitasi isu Palestina untuk bela Ketua KNPB Victor Yeimo dalang rusuh Wamena 2019 yang menunggangi demo damai jadi kerusuhan besar, sehari sebelum Debat Umum Sidang PBB (23/09/21), yang jatuhkan 33 korban mayoritas non-Papua? \nWarga Wamena yang mati di tangan separatis KNPB itu seperti orang-orang Palestina tak bersalah yang mati di tangan Israel! Setebal apa muka separatis sampai bisa menyamakan Papua Merdeka dengan perjuangan warga Palestina?\n\nDosa-dosa separatis KNPB sudah menumpuk dan tak berhenti hanya dengan mendalangi Rusuh Wamena 2019:\n\n1) Separatis KNPB suplai senjata ke Kelompok Kriminal Bersenjata (KKB) Teroris\n\nSeparatis KNPB Naftali Tipagau yang tertangkap tangan transaksi senjata di Jayapura (25/1/21) dan Nabire (12/11/20) adalah penyuplai senjata KKB Teroris dan dengan senjata itu KKB Teroris mengakibatkan 395 orang tewas dan 1.579 orang terluka sejak awal 2010 hingga April 2021 sesuai riset terbaru Universitas Gadjah Mada. Sungguh teroris!\n\n2) Separatis KNPB beroperasi pakai dana korupsi pejabat Papua\n\nSetelah ditangkap aparat (09/05/21), Ketua separatis KNPB Victor Yeimo membongkar fakta ada dana Rp 1 miliar yang ditransfer pejabat Papua korup untuk mendanai separatis membuat kerusuhan di Wamena hingga jatuh 33 korban! Keji! Tak heran kalau KNPB bisa memasok senjata untuk KKB Teroris yang sepucuknya saja dijual Rp 300- Rp 350 juta.\n\n3) Separatis KNPB pasok informasi palsu ke asing\n\nKNPB yang berada di Papua juga sering pasok informasi palsu kepada pendukung separatis di luar negeri, seperti Veronica Koman, untuk disebarkan melalui media sosial agar isu Papua makin panas dan menarik donor-donor asing untuk mendanai separatis Papua.\n\nPapua Merdeka cuma gerakan uang dan kekuasaan yang tega pakai isu Palestina untuk eksploitasi simpati. Victor Yeimo dan KNPB harus ikut bertanggung jawab atas semua korban KKB Teroris!",almira,hurairah,,0,25,5,2021,8,51,32
+6884,0,,Ian,Chandra,,0,27,5,2021,6,21,37
+6885,0,,Feldy,Maulana,feldymaulana,0,30,5,2021,8,51,47
+6886,0,,tulis,.,,0,31,5,2021,13,4,0
+6887,0,,,,,0,31,5,2021,16,0,18
+6888,0,,Erika Julianti,,Erikabayu,0,1,6,2021,5,31,42
+6890,0,,Seta,,Murdha_p,0,2,6,2021,0,8,9
+6892,0,,IHSAN IT ( jasa desain),,IhsanIT,0,4,6,2021,23,20,58
+6893,0,,,,,0,7,6,2021,4,35,12
+6894,0,,I am,Ali,,0,7,6,2021,12,52,55
+6898,0,,Tulkin,Filippov,,0,11,6,2021,2,41,38
+6899,0,,,,,0,12,6,2021,13,41,7
+6902,0,,Kinan,Yovelda,Kepin53,6283826083795,14,6,2021,2,5,28
+6903,0,,,,,0,14,6,2021,13,40,28
+6904,0,,,,,0,15,6,2021,12,21,8
+6907,0,,Daisuke,Kanbe,declts,0,17,6,2021,1,3,22
+6908,0,@teknologi_umum,Daisuke,Kanbe,declts,0,17,6,2021,1,3,35
+6909,0,,Airavata,,mikrofon_pelunas_hutang,0,17,6,2021,1,3,57
+6910,0,,Amelia,Akef,,0,17,6,2021,6,54,35
+6911,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6912,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6913,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6914,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6915,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6916,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6917,0,,Amelia,Akef,,0,17,6,2021,6,54,52
+6919,0,,ara ara ara,,,0,17,6,2021,23,15,36
+6920,0,,Jude,Matt,,0,18,6,2021,13,48,13
+6921,0,,Aadila,Mitri,,0,18,6,2021,14,7,55
+6922,0,,Shayna,Haddad,,0,18,6,2021,14,8,41
+6923,0,,Harriet,Jerkins,,0,18,6,2021,14,9,27
+6924,0,,Thomas,Lorenzo,,0,18,6,2021,14,11,14
+6925,0,,Edward,Frank,,0,18,6,2021,14,12,26
+6926,0,,Isaac,Max,,0,18,6,2021,14,13,4
+6927,0,,Ethan,Daniel,,0,18,6,2021,14,13,56
+6928,0,,Alfie,Williams,,0,18,6,2021,14,14,37
+6929,0,,Leo,Henry,,0,18,6,2021,14,15,10
+6930,0,,Joseph,Johnson,Josephjohns,0,18,6,2021,14,15,54
+6931,0,,Arthur,Lucas,,0,18,6,2021,14,16,23
+6932,0,I have feeling like a lot of crypto bots enter in chat 😅,Bajro,Lisic,bajro91,0,18,6,2021,14,16,40
+6933,0,,Logan,Mike,,0,18,6,2021,14,16,50
+6934,0,,Sebastian,Finley,sebastianfin,0,18,6,2021,14,19,4
+6935,0,,Hugo,Reggie,,0,18,6,2021,14,20,4
+6936,0,,Ronnie,Mohammad,,0,18,6,2021,14,20,39
+6937,0,,Alisha,Jones,,0,18,6,2021,14,21,16
+6938,0,,Cathleen,Garcia,,0,18,6,2021,14,21,54
+6939,0,,,,,0,18,6,2021,14,22,52
+6940,0,,Harry,Edward,,0,18,6,2021,14,30,39
+6941,0,,Harrison,Matt,,0,18,6,2021,14,40,40
+6942,0,,aryanRy_,,,0,20,6,2021,2,56,44
+6944,0,kak SSD sama HDD bedanya apa yaa?,aryanRy_,,,0,23,6,2021,6,29,6
+6946,0,,Canabila Halim,,,0,25,6,2021,1,37,1
+6948,0,,Dede,Iskandar,Andidedesuhendra,0,26,6,2021,7,35,51
+6949,0,,ادينايا داسكا,,,0,27,6,2021,15,57,41
+6950,0,"Hi everyone, currently Ula is looking for Software Engineer to joining us as kawula! If you are interested, kindly check this link ya... Do not hesitate to chat me if you have any question regarding this role or Ula. Thankyou and have a nice day!\n \nhttps://glints.com/opportunities/jobs/00fb2671-6176-4863-92ea-c612b40c1cc2?utm_medium=share&utm_campaign=employers",Canabila Halim,,,0,28,6,2021,13,49,30
+6951,6950,@everyone,Bajro,Lisic,bajro91,0,28,6,2021,14,2,29
+6952,0,,,,,0,29,6,2021,5,40,25
+6953,0,https://www.youtube.com/watch?v=H5ak7QvPxcw,,,,0,29,6,2021,5,46,28
+6954,0,"Kumpulan video Youtube tentang cara isolasi mandiri (isoman) covid19, oleh pembicara - pembicara kompeten. \nhttps://sariguru.com/materi/c7mdtua253",Dwi Gunawiyana,,degewe,0,29,6,2021,8,59,2
+6956,0,,Gelas,,catack,0,1,7,2021,13,33,11
+6957,0,,Abigail Reid,,,0,2,7,2021,1,35,20
+6962,0,,Give,Away,,0,6,7,2021,6,54,50
+6963,0,,arrye,gunawan,,0,7,7,2021,3,28,21
+6964,0,,Denay,Nst,,0,9,7,2021,19,0,29
+6965,0,"Teroris KKB Tembaki Warga Puncak Saat Upacara Bakar Batu, 1.000 Orang Termasuk Bupati Nyaris Tewas!\nhttps://medium.com/@panasbaru/teroris-kkb-tembaki-warga-puncak-saat-upacara-bakar-batu-1-000-orang-termasuk-bupati-nyaris-tewas-165cc174f272 \n \nTak senang melihat Papua damai, Teroris KKB kembali membuat rakyat berderai air mata! Teroris KKB pimpinan Lekagak Telenggen menembaki dan hampir menewaskan 1.000 warga, termasuk Bupati Puncak Willem Wandik yang sedang menggelar tradisi bakar batu di Ilaga, Kabupaten Puncak (8/7). \n\nTeroris KKB sampai hati melakukan percobaan pembantaian, saat penduduk sedang melakukan Ibadah Pemulihan! Beruntung, aparat berhasil memukul mundur Teroris KKB dan memastikan warga serta bupati aman sehingga kegiatan Ibadah Pemulihan terlaksana. Meski warga selamat, tapi penembakan ini menjadi luka baru bagi warga Puncak yang sedang bersuka cita menyambut kepulangan para pengungsi pasca rentetan pembunuhan beruntun oleh Teroris KKB sejak April 2021.\n\nTeroris KKB sengaja menjadikan warga sebagai tumbal! Semakin banyak korban, semakin besar sorotan publik internasional pada konflik Papua merdeka. Teroris KKB pun menjual isu Papua ke donor asing demi uang dan kekuasaan! Inikah kelakuan KKB yang mengaku pejuang rakyat?\n\nKKB memanfaatkan penderitaan rakyat, menjual nyawa warga untuk mendapat publikasi internasional agar k0nflik Papua merdeka terus membara. Dengan begitu, separatis semakin lancar menjual isu ke partai asing seperti British Labors, Australian Greens, dan New Zealand Greens untuk uang! \n\nKejam! Teroris KKB menghalalkan darah rakyat dengan dalih perjuangan Papua Merdeka. Guru dan tenaga medis dibantai bahkan kepala desa Kampung Nipurlema yang asli Papua, Petianus Kogoya beserta dua anggota lainnya pun dihabis sampai tak bernyawa (3/6). Warga sudah trauma berat menyaksikan mayat tak berdosa berserakan.  Jerit tangis keluarga pecah ketika Ali Mom, siswa SMA 16 tahun yang dibunuh hingga berlumuran darah dan mata yang jatuh ke tanah (14/4). Orang tua mana yang kuat menyaksikan anak kesayangannya dibantai bak binatang?\n\nKulit sama hitam, rambut sama ikal, Teroris KKB juga tega menghabisi Habel Halenti, pekerja bangunan asal NTT yang hidup sebatang kara dari kecil dan merantau ke Tanah Papua untuk bekerja (2/6). Inikah bentuk perjuangan Papua merdeka yang dibanggakan Teroris KKB? Separatis Papua merdeka tak peduli warga disiksa. KKB pun memakai anak-anak untuk dijadikan tentara, memerkosa perempuan, dan melakukan berbagai cara biadab lainnya untuk mendapat uang dan kekuasaan!\nYang dibawa KKB bukanlah Papua merdeka melainkan kesengsaraan, kematian, luka dan tangisan! Saat Teroris KKB sudah menewaskan 22 orang dalam 6 bulan terakhir, mau sampai kapan KKB terus menumbalkan warga dengan kedok Papua merdeka?\n\nKekejaman Teroris KKB menorehkan trauma tiada akhir. Teroris KKB tak senang melihat Papua damai. Teroris KKB akan terus menyerang area padat penduduk agar ada warga yang mati agar bisa ditukar dengan uang dan kekuasaan. Rakyat yang menderita, KKB lah yang bersenang-senang di atas penderitaan rakyat.",Give,Away,,0,10,7,2021,12,49,13
+6967,0,,Lizard,Squad,myblacked_store,0,11,7,2021,7,0,39
+6969,0,,Acenk,,,0,13,7,2021,15,12,39
+6970,0,@everyone,Bajro,Lisic,bajro91,0,15,7,2021,8,17,20
+6971,0,is here any solidity developer,Bajro,Lisic,bajro91,0,15,7,2021,8,17,32
+6972,0,Maybe I have job for you,Bajro,Lisic,bajro91,0,15,7,2021,8,17,42
+6973,0,:),Bajro,Lisic,bajro91,0,15,7,2021,8,17,43
+6974,0,"do you use it in prod? its not even version 1, and every minor update it still breaking changes 🤔",Kharisma,Putra,ksdwiputra,0,15,7,2021,10,20,39
+6975,0,https://slips.io/,Bajro,Lisic,bajro91,0,15,7,2021,12,53,7
+6976,0,yes this project,Bajro,Lisic,bajro91,0,15,7,2021,12,53,10
+6977,0,,,,,0,17,7,2021,1,53,10
+6978,0,,Renaldy Gaotama,Wikarsa,,0,19,7,2021,3,2,5
+6979,0,,Reza,Yudha Prasetyo,,0,19,7,2021,3,34,17
+6980,0,,Fadlan,Lubis,,0,20,7,2021,9,59,6
+6981,0,Assalamualaikum,Fadlan,Lubis,,0,20,7,2021,9,59,9
+6982,0,Myschool.fadlanlubis.net,Fadlan,Lubis,,0,20,7,2021,9,59,29
+6983,0,Sarannya temen temen,Fadlan,Lubis,,0,20,7,2021,9,59,35
+6984,0,does anyone need tokopedia categories and subcategories,Bajro,Lisic,bajro91,0,21,7,2021,9,50,36
+6985,0,I scrap them like JSON file,Bajro,Lisic,bajro91,0,21,7,2021,9,50,45
+6986,0,also is there any discord server for developers in indonesia,Bajro,Lisic,bajro91,0,21,7,2021,9,53,8
+6987,0,https://gist.github.com/bajro17/2c548ef36d91ce5867446f5f9cc57e54,Bajro,Lisic,bajro91,0,21,7,2021,11,5,32
+6988,0,,Ananda,Widitomo,,0,21,7,2021,14,35,58
+6989,0,,Ananda Widitomo,| RS FS PKU Demak,anandawiditomo,0,28,7,2021,16,20,51
+6990,0,ok,Me,,sidavee,0,28,7,2021,18,10,32
+6991,0,,raYMon,Č̶̰̦̥̍̃̽͋̈́̉̽́̏R̴̠̭͛ ̱̦̣ͅN̷̯̩̍́́̈́͝,gggamingk,0,29,7,2021,21,40,44
+6992,0,,Angga,Gumelar,anggagumelar,0,6,8,2021,13,49,30
+6993,0,"#event\nHalo, Selamat Pagi/Siang/Malam Sobat!\n\nIngin lebih paham belajar dunia siber/jaringan/atau IoT/Linux? \nKali ini SS membuka kesempatan buat teman-teman belajar dan mengelaborasi lebih dalam akan hal tersebut seiring menemani masa isoman kamu #DiKamarAja #DiRumahAja\n \nSpesial Cybersecurity:\n- Introduction to Cybersecurity (Bahasa Indonesia/English) - Fundamental\n- Cybersecurity Essential - Intermediate\n- CyberPatriot - Advanced\n\nSpesial Networking:\n- Networking Essential\n- CCNA : Bridging \n\nSpesial IoT/Linux:\n- Introduction to IoT\n- NDG Linux I\n- NDG Linux II\n- NDG Linux Essentials\n\nBatas Akhir Pendaftaran:\n9 Agustus 2021\n\nMulai Kursus:\n10 Agustus 2021\n\nSelesai:\n30 September 2021\n\n__Free Course __tersebut berupa materi, video pembelajaran, dan labs. Peserta yang telah mengikuti __Free Course __akan mendapatkan __badge__ dan sertifikat. Bagi teman-teman yang berminat dapat langsung mengakses link berikut: \n\nhttps://s.id/PreEventSS\n(Pemilihan lebih dari 2 course dapat mengisi ulang form)\n#CyberSecurity #Cisco #Netacad",Nadya Cathrine,,narincath,0,7,8,2021,14,4,30
+6994,0,,Joshua Mills,,,0,7,8,2021,14,32,44
+6995,0,,Bagus,Nuralam,Bagusnuralam,0,8,8,2021,3,56,42
+6996,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation (Junior/Middle) \n3. Sr. QA Engineer (Senior) \n4. Computer Vision - Data Scientists (Middle/Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. ETL Developer  (Junior/Middle/Senior) \n8. Sr. SAP BW/BPC (Senior) \n9. FullStack Developer (Middle/Senior) \n10. Business Analyst (Junior/Middle) \n11. Project Manager (Senior) \n12. Power BI Developer (Senior) \n13. SAP BASIS (Middle/Senior) \n14. ReactJS Developer (Junior/Middle) \n15. Android Developer (Junior/Middle) \n16. Java Developer (Middle/Senior) \n17. Flutter Developer (Junior/Middle) \n18. ERP Consultant (Middle/Senior) \n \nStatus: Contract \nPlacement: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :)",Angga,Gumelar,anggagumelar,0,8,8,2021,10,4,46
+6997,0,,"FLuv,-",,Foxgluv00,0,9,8,2021,8,11,17
+6998,0,,,,,0,13,8,2021,15,38,30
+7000,0,"Delusional Rebel Leader Keeps Pursuing His Political Ambitions While Free Papua Terrorists Kill 22 During Pandemic\nhttps://medium.com/@breakingtoday/delusional-rebel-leader-keeps-pursuing-his-political-ambitions-while-free-papua-terrorists-kill-22-ceaad6cfd9\n\nUnlike the image of peaceful movement the separatists try to show abroad,  the Free P4pua terrorists kept instilling fear and forcing people to flee by slaughtering 22 victims during pandemic in 2021, including 2 teachers from Toraja (8/4), and a native high-schoolers student Ali Mom (16/4). This is how the Free Papua separatists kept on fueling the Papuan conflict, selling it to foreign donors such as the British Labors, Australian Greens, and New Zealand Greens in exchange for money and power!\n\nSelling Free Papua issues, s3paratist Benny Wenda is pooling donations and reeling global publicity from foreign corporations such as palm oil and mining companies who want Papuan natural resources, as well as arms manufacturers who profit from the Papuan armed conflict. And to do that, the Free Papua terrorists have carried out 11 terror attacks, killing at least 395 people and wounding 1,579 others in the last 10 years. Not to mention recruiting child soldiers that these terrorists flaunted at Associated Press in 2019.\n\nWhile the people cried over the terrorists' atrocities, Benny Wenda comfortably spoke in a webinar moderated by human rights lawyer Jennifer Robinson (12/8), who gained overnight fame after her encounter with the Free Papua issue in 2008. When Wenda escaped prison and made his way to the UK, Robinson was at Heathrow Airport to help with Wenda’s asylum applications. Using the Free Papua issue, young Robinson got connected to the UK Labors chasing fame through West Papua’s conflict.\n\nTalk about hypocrisy! Benny Wenda boasted about establishing a Green state, lectured us on climate change, yet openly accepted funds through the All-Party Parliamentary Group (APPG) from mining, oil, and gas companies that destroy Papuan nature! How do you think a full time s3paratist like Benny Wenda and celebrity lawyer Jennifer Robinson could gain quick fame, quick money, and a comfortable life in the UK?\n\nBenny Wenda, the megalomaniac-narcissistic declared himself Free Papua unification leader, had long dreamed of being a president but he didn’t understand how to make one, let alone have a master plan for his so-called country. But Wenda is not the first to claim as the President of Papua. There was also Dr. Thomas Wainggai, Forkorus Yoboisembut, Michael Karet, and Jeffrey Bomanak. Wasn’t there enough presidents to last West Papua a few decades? Why are these people claiming to fight for the people when they were trying to topple each other just to be a President? Is it a struggle for people or is it a struggle for power?\n\nAnd while locals are fighting this pandemic, what have the Free Papua separatists done? The separatists keep fueling c0nflict and sell Free P4pua issues to corrupt officials! Not only gaining money from foreign donors, rebels received a fund transfer of US$200,000 which was used to purchase weapons that in the end killed the people as the tragic victims of corruption. The weapons are then used to k1ll civilians to keep the Free P4pua issues alive to cover up the scandalous corruption. This evil circle is the key to wealth and power for Benny Wenda and his Free Papua gang!\n\nWe should always question the integrity of a group involved with foreign parties. For anything involved with politics will ultimately bear ulterior motives: and that is to gain money and power. The more chaotic West Papua is, the more money the separatist get! Not a cent for the people!",Give,Away,,0,14,8,2021,11,43,30
+7008,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation (Junior/Middle) \n3. Sr. QA Engineer (Senior) \n4. Computer Vision - Data Scientists (Middle/Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. ETL Developer  (Junior/Middle/Senior) \n8. Sr. SAP BW/BPC (Senior) \n9. FullStack Developer (Middle/Senior) \n10. Business Analyst (Junior/Middle) \n11. Project Manager (Senior) \n12. Power BI Developer (Senior) \n13. SAP BASIS (Middle/Senior) \n14. ReactJS Developer (Junior/Middle) \n15. Android Developer (Junior/Middle) \n16. Java Developer (Middle/Senior) \n17. Flutter Developer (Junior/Middle) \n18. ERP Consultant (Middle/Senior) \n \n \nStatus: Contract \nLocation: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for detail & fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :) \n \n#Loker #Programmer #Frontend #Backend #FullStack #Developer #SoftwareEngineer",Angga,Gumelar,anggagumelar,0,16,8,2021,16,10,12
+7009,0,,Badrol,,,0,20,8,2021,12,23,15
+7010,0,,Badrol,,,0,20,8,2021,12,23,24
+7011,0,,Badrol,,,0,20,8,2021,12,23,25
+7012,0,,Badrol,,,0,20,8,2021,12,23,25
+7013,0,,Badrol,,,0,20,8,2021,12,23,25
+7014,0,,Badrol,,,0,20,8,2021,12,23,25
+7015,0,"Hari gini masih gak punya skills? Atau mau ikut pelatihan tapi mahal? Atau kamu takut gabisa? 🙄\n\nUntuk kamu yang masih bingung, udah gausah khawatir lagi nih!\n\nSecangkir Ilmu akan segera hadir dengan pelatihan yang cocok banget buat para lifelong learner seperti kamu!\nPelatihan ini dijamin berguna sekali untuk era society seperti saat ini lho!🔥🔥🔥\n\nAda apa saja ya pelatihannya?\n1. Pelatihan Desain Grafis (bit.ly/KelasDesignGraphic)\n2. Pelatihan Front End Developer (bit.ly/KelasFrontEnd)\n3. Pelatihan Back End Developer (bit.ly/KelasBackend)\n\nPenasaran dengan harganya?\nKalian bisa mengikuti pelatihan hanya dengan 99 RIBU! \n\nKeren bangetkan?! Bukan hanya itu, dengan mengikuti beberapa pelatihan ini kamu bisa mendapatkan sertifikat, gratis konsultasi dengan tutor berpengalaman, bahan pembelajaran tak terbatas, materi eksklusif, harga terjangkau, dan masih banyak yang lainnya!\n\nSo, tunggu apalagi segera daftarkan dirimu! \n\nIG : @secangkirilmu_\nTwitter : @secangkirilmu_ \nFacebook : secangkirilmu\nYouTube : secangkirilmu\nWeb : secangkirilmu.web.id",Badrol,,,0,20,8,2021,12,23,28
+7016,0,"Open Recruitment @periodjustice.id \nOnline Campaign Volunteers\nhttps://instagram.com/periodjusticeid?utm_mediumcopylink\n\nFREE! NO TWIBBON! NO INTERVIEW! EVERYONE IS WELCOME! \n\nHalo PJz . Period Justice lagi oprec untuk online campaign kita yang pertama kalinya Iho! Period Justice mengajak kalian semua untuk mengikuti online campaign kami yang bertema \n""Ending Period Stigma""\n\nBenefit : \n1. E-CERTIFICATE for ALL volunteers \n2. Relasi \n3. Networking \n4. Invaluable experience and knowledge \n5. SPECIAL e-certificate for BEST volunteers \n\nTimeline event: Pendaftaran: 18 Agustus - 09 September 2021 \nPelaksanaan: 12 - 15 September 2021 \n\nYuk buruan daftarkan diri kamu sekarang untuk menjadi bagian dari online campaign kami!\n\nFor more information, please contact periodjustice.id through our instagram @periodjustice.id, or contact us through our email periodjustice.id@gmail.com \nLink pendaftaran: bit.ly/3jKs9de",Ika,Yunika,Rfkaynka,0,20,8,2021,13,19,37
+7017,0,,HASRUL,,JAYAKAYA11,0,20,8,2021,16,28,27
+7018,0,,Osukaru,,osukaruu,0,22,8,2021,22,23,9
+7019,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation - Katalon or Selenium (Junior/Middle) \n3. Sr. QA Engineer Automation (Senior) \n4. Computer Vision - Data Scientists (Middle/Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. SAP ABAP (Middle/Senior) \n8. FullStack Developer - ReactJS,NodeJS,VuesJS (Middle/Senior) \n9. IT Project Manager - Exp. Mining Industry (Senior) \n10. ReactJS Developer (Junior/Middle) \n11. Android Developer (Junior/Middle) \n12. Java Developer (Middle/Senior) \n13. ERP Consultant - Ms. Dynamics AX 2012 (Middle/Senior) \n14. Sr. Digital Architect (Senior) \n15. Tech Lead (Middle/Senior) \n16. SCRUM Master (Middle/Senior) \n17. IT Strategy & Architecture Specialist (Senior) \n18. DevOps (Middle) \n19. IT System Admin (Middle/Senior) \n \nStatus: Contract \nLocation: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for detail & fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :) \n \n#Loker #Programmer #Frontend #Backend #FullStack #Developer #SoftwareEngineer #Golang #ReactJS #NodeJS #VueJS",Angga,Gumelar,anggagumelar,0,23,8,2021,3,29,33
+7020,0,,Jeffrey,M,JeffreyMaulana1,0,23,8,2021,4,32,50
+7021,0,,Deya,,,0,23,8,2021,10,40,1
+7022,0,,Tegar,Saputra,,0,24,8,2021,1,33,59
+7023,0,,Tom,,tomafrialdi,0,27,8,2021,7,16,30
+7024,0,"Salam kenal. Saya tommy. \nKami sedang membutuhkan backend developer (full time) dan bisa remote/wfh. Kalo temen"" disini ada yg minat bisa kirim cv dan resumenya ke tommy@elemes.id\n\nInformasi lebih lanjut bisa hub/chat wa 081375243479 \n\nTerimakasih 😁",Tom,,tomafrialdi,0,27,8,2021,7,17,0
+7025,0,,Andra,,,0,27,8,2021,7,30,42
+7026,0,,Sigma,,Sigma050703,0,29,8,2021,15,50,36
+7027,0,"ADI Consulting still hiring for many positions: \n \n1. Golang Developer (Junior/Middle) \n2. QA Automation - Katalon or Selenium (Junior/Middle) \n3. Computer Vision - Data Scientists (Middle/Senior) \n4. IT Strategy & Architecture Specialist (Senior) \n5. Sharepoint365 Developer (Middle/Senior) \n6. iOS Developer (Junior/Middle) \n7. SAP ABAP (Middle/Senior) \n8. FullStack Developer - (NodeJS, ReactJS/VuesJS) (Middle/Senior) \n9. IT Project Manager - Exp. Mining Industry (Senior) \n10. ReactJS Developer (Junior/Middle) \n11. Android Developer (Junior/Middle) \n12. Java Developer (Middle/Senior) \n13. IT System Admin (Middle/Senior) \n14. Sr. Digital Architect (Senior) \n15. Tech Lead (Middle/Senior) \n16. SCRUM Master (Middle/Senior) \n \nStatus: Contract \nLocation: Jakarta (full WFH / Shifting) \n \nKindly send your updated CV to: \nsrc2@adiconsulting.co (not .com) \nwith subject: [Your name - Position] \n \nPhone/WA for detail & fast response: 0818 0740 1048 (Angga) \n \nThanks, \nKeep healthy and stay at home :) \n \n#Loker #Programmer #Frontend #Backend #FullStack #Developer #SoftwareEngineer #Golang #ReactJS #NodeJS #VueJS",Angga,Gumelar,anggagumelar,0,30,8,2021,15,0,7
+7028,0,,🔥 П0ШЛЫE_DEB4EНKI 🔥,💋 ccылka_v_пpоfиle 💋,siechithmamar,0,30,8,2021,17,44,21
+7029,0,,Yolanda,,yolandaadystia,0,31,8,2021,4,10,15
+7030,0,Aplikasi membaca novel ini luar biasa! Ini benar-benar gratis dan saya sudah membaca banyak novel asli dan tidak membayar sepeser pun. Luar biasa! Anda dapat mengklik tautan di bawah ini untuk mengunduh dan menggunakannya. Jangan lupa untuk memasukkan kode undangan saya 1320592 untuk tambahan 30000 poin bonus!\nhttps://zei6iaqu-fey3ybur3q-an.a.run.app/dffnovelah.html?ggc=1320592%7C3%7C1%7C215&shareDate=20210831&t=1,Yolanda,,yolandaadystia,0,31,8,2021,4,10,22
+7031,0,,,,,0,2,9,2021,3,28,13
+7032,0,,n,,,0,2,9,2021,7,7,4
+7033,0,,Apa,,ibnusapei,0,2,9,2021,16,18,16
+7035,0,,Rohmani,Nasrul,Ups_on,0,4,9,2021,4,7,41
+7036,0,,Nadya Cathrine,,narincath,0,5,9,2021,8,19,30
+7037,0,"**SEMINAR VIRTUAL : Mengapa Perlu Transisi ke Quantum Cryptography?\n\n**Hadiri Seminar Virtual Eksklusif oleh Pusat Penelitian dan Pengabdian Kepada Masyarakat Politeknik Siber dan Sandi Negara, dengan tema ""Mengapa Perlu Transisi ke Quantum Cryptography?"", seminar virtual akan diselenggarakan dalam 3 sesi.\n\nMateri akan disampaikan oleh pembicara-pembicara yang berkompeten dibidangnya, yaitu :\n👤 Agung Trisetyarso, Ph.D - Ketua Konsentrasi Ilmu Komputer, Departemen Doktor Ilmu Komputer Universitas Bina Nusantara\n👤 Dr. Santi Indarjani - Wakil Direktur Bidang Akademik Politeknik Siber dan Sandi Negara\n👤 Dr. Martianus Frederic Ezerman, Ph.D - Senior Research Fellow Nanyang Technological University\n\nModerator:\n👤 Dr Amiruddin - Kepala Pusat PPM Politeknik Siber dan Sandi Negara\n\nTopik Pembicaraan:\n💡 Fundamental Concepts of Quantum Computer\n💡 What is Post Quantum Cryptography?\n💡 Quantum-Secure Cryptographic Protocols\nKegiatan akan diselenggarakan pada:\n\n🗓 : Jumat, 17 September 2021\n🕛 : 13.30 WIB – 16.30 WIB\n📍 : ZOOM Meeting\n💥 : Gratis!\n\nDapatkan Sertifikat Eksklusif, dan hadiah menarik bagi peserta yang beruntung.\n\nInformasi lebih lanjut kunjungi : https://www.linkedin.com/feed/update/urn:li:activity:6840136258157735936",Nadya Cathrine,,narincath,0,5,9,2021,8,19,30
+7038,0,,Craig S. McCoy,,,0,6,9,2021,17,1,13
+7039,0,,Dewi,,dawat123,0,6,9,2021,23,32,14
+7040,0,,Yuhuu,Aku disini,Blitzz122,0,7,9,2021,9,43,11
+7042,0,Gan ada yg bisa bagi saya panel botnet?,Lizard,Squad,myblacked_store,0,8,9,2021,11,2,39
+7044,0,Saya memerlukan untuk kloning kartu kredit orang,Lizard,Squad,myblacked_store,0,8,9,2021,11,2,39
+7045,0,,Nasa'i,,Nanasss02,0,8,9,2021,13,46,51
+7046,0,,Imron MCA,,Apasibanh,0,9,9,2021,10,43,3
+7047,0,,Rozez,Market,rozezmarket,0,11,9,2021,8,12,51
+7049,0,,©Mr.X-HUNTER,,MrXHUNTER,0,14,9,2021,7,53,38
+7050,0,,Bento,Saputra,,0,14,9,2021,14,46,48
+7052,0,,SUHU,,,0,16,9,2021,9,18,18
+7053,0,,Advisia,,remtiid,0,17,9,2021,6,46,22
+7054,0,,bubbie,,axvbng,0,18,9,2021,1,28,51
+7055,0,,Angela,,a54832967,0,18,9,2021,7,14,4
+7056,0,"Agen perekrutan: dengan gaji pokok, bonus, komisi, gaji diselesaikan seminggu sekali, promosi dapat dilakukan jika tugas selesai, dan pemecatan jika tugas tidak selesai. Mereka yang memiliki kemampuan dapat dipromosikan seminggu sekali, gaji mingguan hingga Rp5.000.000, ditambah bonus, komisi, dan gaji mingguan Rp20.000.000. Kandidat silakan mengobrol dengan saya secara pribadi: https://t.me/N52279156\nAgen magang: gaji mingguan Rp300000, bonus referral Rp30000/orang.\nSuper agent: gaji mingguan Rp500000, bonus referral Rp50000/orang.\nAgen emas: gaji mingguan Rp1000000, bonus referral Rp100000/orang.\nPlatinum agent: gaji mingguan Rp2000000, bonus referral Rp2000000/orang.\nDiamond agent: gaji mingguan Rp5000000, bonus referral Rp500000/orang.",Angela,,a54832967,0,18,9,2021,7,14,12
+7057,0,,Joe,mickey,,0,18,9,2021,15,1,45
+7059,0,,Abdul,Gapur,abdulgopur10,0,19,9,2021,11,29,53

@@ -1,0 +1,710 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+733,0,wah udah bisa neh bang @hayinukman,Nasrul,Alawy,nasrulalawy,0,15,5,2020,16,18,28
+734,0,ternyata tinggal gitu doang astaga.. 😂,Nasrul,Alawy,nasrulalawy,0,15,5,2020,16,18,50
+735,0,pas do compress codenya,Nasrul,Alawy,nasrulalawy,0,15,5,2020,16,19,0
+736,0,hahaha,Nasrul,Alawy,nasrulalawy,0,15,5,2020,16,19,2
+737,0,😂,Anwar,,MbunMalam,0,15,5,2020,16,19,8
+738,0,thanks pencerahannya bang,Nasrul,Alawy,nasrulalawy,0,15,5,2020,16,19,9
+739,0,Nah.. 😂,h a y i,,hayinukman,0,15,5,2020,16,19,11
+740,734,"astage, ndk ada kerjaan, kok ngga defaullt = true aja kwwk",Devin,Pradana,DavePradana,0,15,5,2020,16,20,38
+741,740,hahaha.. makanya..,Nasrul,Alawy,nasrulalawy,0,15,5,2020,16,54,2
+742,0,,"Jiad, ジハード",,jiadmiftx,0,15,5,2020,20,19,26
+743,0,"[LEBARAN-YA-HACKATHON]\n.\nApakah kamu seorang Pelajar? Mahasiswa? Developer Student Clubs Universitas Bumigora Menantang kamu untuk membuat Aplikasi Website menggunakan Flutter. \n.\nKriteria Website : \n1. Portofolio Web Personal/Company\n2. Menggunakan Technolgy Flutter\n3. Content Web yg harus ada : ( Foto profile, Nama lengkap, Email, Pekerjaan/Profesi, Experiences, Riwayat pendidikan, 5 Top Skill kalian (kasi rate 1-10), Interest kalian dan Hobi.)\n4. Portfolio : Foto, deskripsi, dan apa yg kalian kerjakan di situ. (apa saja, minimal 5 item, boleh diisi random, misal Foto sepeda yg kalian service, atau mungkin tugas kampus, bikin kolam ikan, semakin professional semakin bagus.).\n5. Web harus di deploy ke: [username_github_kalian.github.io](http://username_github_kalian.github.io/) Repository code harus d buat opensource dan public project. see : https://bit.ly/3dOl5HU\n.\nKriteria Juara :\n1. Most Unique\n2. Memikat Hati Para Juri\n.\nTim Juri :\n1. Hayi Nukman (Senior Software Engineer at Bukalapak)\n2. Lalu Lian Hari W. (CEO Lumbung Inovasi)\n3. Lalu Raynaldi Pratama (Enterprise Application Engineer at Gojek)\n.\nTertarik? Tertantang? ayo daftar segera pada link : bit.ly/dscubg_hack\n.\nFree! tidak dipungut biaya.\n.\nMentoring akan di infokan via Group Telegram setelah mendaftar.\n.\nBatas submit 22 Mei 2020 pukul 18.00 WITA pada link : https://bit.ly/dscubg_submit\ndan Awarding pada pukul 20.30 WITA di hari yang sama via Zoom.\n.\n.\n.\n#dschackathon #dscbumigora #developerstudentclubs #lumbunginovasi #google #dscindonesia #flutter #lebaranyatakbiran","Jiad, ジハード",,jiadmiftx,0,15,5,2020,20,19,26
+744,0,27-28 juni😍,Anwar,,MbunMalam,0,16,5,2020,20,38,54
+745,0,Ini ngatasinnya gimana gan ?,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,3,50,10
+746,0,Btw kalau buat flutter web langsung ada iya pas kita tekan type ctrl+shift+p ? Kok punya saya enggak ada bisa bantuannya gan😅🙏🏻,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,3,51,17
+747,745,Itu disuruh restart IDE,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,7,17
+748,0,Maksudnya gan😅,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,7,38
+749,0,Text editor restart,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,7,49
+750,0,close dari vsc ?,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,7,49
+751,0,Atau restart pc ?,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,7,59
+752,0,Restart text editor yg kau pake,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,8,21
+753,0,Caranya klik tombol close pada vsc kan ? 😅,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,8,54
+754,0,coba gimana kira2 cara restart vscode mu?,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,12,20
+755,0,,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,12,30
+756,0,,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,15,26
+757,0,Klik tombol close dan buka lagi😅👍🏻,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,15,41
+758,0,Saya mau install flutter web soalnya😅,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,16,45
+759,0,Biasanya kalau udh install flutter sama dartnya kalo buka command palletnya cari flutter biasanya ada flutter web dia bilang🤔,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,17,49
+760,0,Tapi ini enggak muncul2😑,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,18,7
+761,0,kan belum buat project nya,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,18,16
+762,0,```flutter create myapp```,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,19,0
+763,0,run ```flutter run -d chrome```,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,19,17
+764,0,Ini gan gimana cara buat projectnya sedangkan flutter web untuk buat projectnya web enggak ada soalnya saya lihat di tutorial cara install flutter web biasanya ada,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,20,16
+765,763,Bisa langsung kayak gini gan🤔,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,22,17
+766,0,Errornya gini gan😑🙏🏻,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,23,23
+767,0,Ini maksudnya apa gan😅,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,4,25,6
+768,767,Keterangannya ada diatas,Rian Asmara P.,,rianasmaraputra,0,17,5,2020,4,37,41
+769,766,Masum dulu ke directory project nya... Itu masih d home kau..,h a y i,,hayinukman,0,17,5,2020,4,39,41
+770,764,"Untuk web, perlu ganti ke channel master atau beta...\nKalo channel stable ga bisa.",h a y i,,hayinukman,0,17,5,2020,4,40,21
+771,764,di terminal ``````flutter create namawebmu``````,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,49,32
+772,0,trus masuk root project yg kamu buat itu\n```cd namawebmu```,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,50,30
+773,0,abis tu coba run dgn cara\n```flutter run -d chrome```,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,50,57
+774,770,diperhatikan juga ini channel flutternya. cara checknya ```flutter channel```,"Jiad, ジハード",,jiadmiftx,0,17,5,2020,4,51,42
+775,0,Okke siyap mencoba👍🏻,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,8,49,5
+776,764,Biasakan Screenshot jangan difoto 😭,Nasrul,Alawy,nasrulalawy,0,17,5,2020,8,49,43
+777,0,,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,8,50,4
+778,0,Tampilan kenapa kosong iya ?,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,13,28,17
+779,778,Pakai\nflutter run -d chrome,Azay,Zayyuruki,IymaAlaydrus,0,17,5,2020,13,28,38
+780,0,"Hi Developers! 😃\n\nSaat ini Glints TalentHub Batam & Lombok Dev berkolaborasi bareng lo!! \nKita akan mengadakan sharing session ""Interview & Personal Branding Tips"" yang akan diadakan:\n- Jumat, 22 Mei 2020, Jam 15.30  - 17.15 (WITA)\n- Pendaftaran: https://bit.ly/GlintsInterviewTips (Gratis)\n- Join sesinya di zoom: https://bit.ly/ZoomInterviewTips\n\nKalian akan dikasih tau cara-cara jitu saat menjalani interview pekerjaan dan bagaimana memaksimalkan personal branding kalian sehingga bisa mendapatkan pekerjaan dan perusahaan impian kalian. Nggak hanya itu, kalian juga akan dapat informasi mengenai Glints dan program Academy-nya sehingga akan memperluas kesempatan kalian untuk memiliki karir di perusahaan internasional!\n\nSo, jangan ketinggalan sesi ini dan ajak temen-temen kalian yang lain ya! 😎😎\n\nSampai ketemu Developers 😉",Anwar,,MbunMalam,0,18,5,2020,6,3,58
+781,0,https://gist.github.com/ha-yi/5279d8ef9dff368e15474994bd163872,h a y i,,hayinukman,0,19,5,2020,18,36,49
+782,781,sample,h a y i,,hayinukman,0,19,5,2020,18,37,14
+783,0,"ih,, lumayan enak dart sekarang.. 😄",h a y i,,hayinukman,0,19,5,2020,19,42,37
+784,0,sudah ada extension nya...,h a y i,,hayinukman,0,19,5,2020,19,42,40
+785,0,jadi enak extends2 operator… hahahahaha...,h a y i,,hayinukman,0,19,5,2020,19,42,49
+786,0,jadi bisa bikin \n`IconData - Widget`,h a y i,,hayinukman,0,19,5,2020,19,43,22
+787,0,buat helper....,h a y i,,hayinukman,0,19,5,2020,19,43,27
+788,0,buat pengganti operartor `to` kalo di kotlin.. haha,h a y i,,hayinukman,0,19,5,2020,19,43,46
+789,0,"use cases:\nmisal mau bikin banyak menu, yg content nya simple: Icon dan CustomWidget.\n\nada opsi sih bikin class MeniItem, cuma pengen nyoba yg lain….\nkalo pake opsi MenuItem jadinya:\n```var menu = [\nMenuItem(xx, yyy), \nMenuItem(xx, yyy), \nMenuItem(xx, yyy),\n]```",h a y i,,hayinukman,0,19,5,2020,19,47,20
+790,0,"kalo pake operator overload dan helper ini:\n```var menu = [\nxx - yy, \nxx - yy, \nxx - yyy,\n]```",h a y i,,hayinukman,0,19,5,2020,19,47,44
+791,783,"btw, `Pair` class ini usefull banget menurut sy, terutama buat saving 2 data yg regardless key/value nya… kalo map kan key nya ga bisa duplicate… nah sejauh yg sy tau di dart class helper Pair ini ga ada,,,",h a y i,,hayinukman,0,19,5,2020,19,50,27
+792,0,"TIL, baru nemu ini.... \nada yg menarik juga dengan Widget, terutama StatefulWidget…\nsejauh ini palingan kita taunya StatefulWidget itu terdiri dari 2 class Widget nya sama State nya…\n\nsatu satetful widget bisa multiple State…\nsejauh ini palingan sudah aware kalo sampe sini…\n\ncuma ada yg menarik\nmisalnya kita punya widget tree kayak gini:\n\nWidgetA  —> WidgetB (stateful widget)\n\nketika mau update WidgetB dari dalam Widget A, kita sering menjadikan WidgetA ini menjadi stateful dan mengubah state dri WidgetA supaya force rendering child nya…. ini overkill in some cases, misalnya child dari WidgetA ini banyak..….\nNah, WidgetB ini sebenarnya bisa d update dari WidgetA tanpa harus memanggil setState dari WidgetA itu, yakni dengam memanfaatkan `GlobalKey`…\n\nGlobalKey digunakan untuk mengakses public state dari sebuah widget.  Untuk bisa mengakses state dari WidgetB dari parentnya, maka step nya:\n\nPertama - Ubah access modifier dari state nya si WidgetB menjadi public…. loh emangnya ada?? \nada: biasanya nama class state dari stateful widget yg d buat selalu diawali underscore `_` nah, tanda _ ini menandakan kalo access modifiernya private… cukup remove Underscore ini… misal nama aslinya `_WidgetBState` menjadi `WidgetBState`\n\nKedua - Buat contructor dari WidgetB, kalau ga ada param lain yg mau di include di constructor, tambahkan param `{Key key}` misalnya `WidgetB({Key key})` \nKetika - pada constructor yg dibuat, panggil super constructor nya dan passing key ke sana, sehingga akan menjadi `WidgetB({Key key}): super(key)`\n\nSelanjutnya dari widget Paretnya (dlm contoh ini WidgetA) buat property dari global key. misalnya:\n`GlobalKey<WidgetBState> _keyB = GlobalKey();`\ndan pada saat membuat WidgetB di dalam class ini, set paramketer `key` nya ke `_keyB`\nmisalnya: `WidgetB( key: _keyB )`\n\nterakhir, ketika mau update WidgetB cukup gunakan: `_keyB.currentState.methodDiDalemWidgetBState()`",h a y i,,hayinukman,0,19,5,2020,20,39,13
+793,783,"another use cases…. untuk extension:\nmisalnya kita sering make style TextStyle tertentu dalam mebuat sebuah text, \nmisal `Text(“hello”, style: TextStyle(….))` dan yg berbeda cuma text content nya saja…\n\nnah ini kita bisa extends string… \n```extension StringToText on String {\n  Text toHeading({Color color = App.textColor}) {\n    return Text(\n      this,\n      style: App.textStyle(fontSize: 20, fontWeight: FontWeight.bold,),\n    );\n  }\n\n  Text toTitle({Color color = App.textColor}) {\n    return Text(\n      this,\n      style: App.textStyle(fontSize: 18, fontWeight: FontWeight.bold,),\n    );\n  }\n\n  Text toSubTitle({Color color = App.textColor}) {\n    return Text(\n      this,\n      style: App.textStyle(fontSize: 16, fontWeight: FontWeight.bold,),\n    );\n  }\n}```",h a y i,,hayinukman,0,19,5,2020,21,40,30
+794,0,cara pake tinggal gini: `child: “Hello”.toHeading()` atau  `child: “Hello”.toSubTitle()`,h a y i,,hayinukman,0,19,5,2020,21,40,53
+795,0,Yukk sudah mulai https://us02web.zoom.us/j/88377183495?pwd=bWsyWXowZEFQVWkveGR4aGJvNHQzdz09,Anwar,,MbunMalam,0,22,5,2020,7,27,41
+796,0,https://youtu.be/yyeDRBMI4No,Anwar,,MbunMalam,0,22,5,2020,7,46,55
+797,0,di group sebelah…. 😆,h a y i,,hayinukman,0,23,5,2020,11,24,32
+798,0,Maaf lahir bathin ya om om semua...,Guntur Sulistyo,Raharjo,GunturSulistyoRaharjo,0,24,5,2020,1,24,48
+799,0,sama. saya juga mas :),"Jiad, ジハード",,jiadmiftx,0,24,5,2020,1,41,28
+800,0,Saya ma'afkan... 😂,h a y i,,hayinukman,0,24,5,2020,2,1,7
+801,798,"Saya juga mas, 🙈",Aryan,,LinkerErrors,0,24,5,2020,14,33,26
+802,0,https://www.youtube.com/channel/UC55B2X2yaKTC7l4Hkq0ViXQ/featured,Nanda,Adisaputra,Nandaadisaputra100,0,26,5,2020,23,28,33
+803,0,,Uzix,Code,uzixCode,0,29,5,2020,8,53,20
+804,0,,Suryo,Mujahid,suryomujahid,0,29,5,2020,8,59,26
+805,0,,Rey,,,0,29,5,2020,9,29,38
+806,0,,Ibnu,,Ibnusub,0,29,5,2020,11,10,20
+807,0,https://events.withgoogle.com/flutter-day/,h a y i,,hayinukman,0,29,5,2020,12,49,15
+808,0,,A,W,,0,30,5,2020,14,11,22
+809,0,https://flutlab.io/,Anwar,,MbunMalam,0,6,6,2020,18,6,11
+810,0,Gaes,Nasrul,Alawy,nasrulalawy,0,9,6,2020,2,22,42
+811,0,Nanya dong,Nasrul,Alawy,nasrulalawy,0,9,6,2020,2,22,44
+812,0,Ada yg pernah punya pengalaman bikin filter by #hashtag ga ?,Nasrul,Alawy,nasrulalawy,0,9,6,2020,2,23,1
+813,0,Sy masih belum kebayang nih gimana logikanya,Nasrul,Alawy,nasrulalawy,0,9,6,2020,2,23,39
+814,0,,【﻿ｂａｌｉｎｕｘ】,,balinux,0,9,6,2020,2,46,25
+815,0,filter apa?,h a y i,,hayinukman,0,9,6,2020,4,20,5
+816,0,searching gitu?,h a y i,,hayinukman,0,9,6,2020,4,20,17
+817,0,Iya,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,36,23
+818,0,Tapi by hashtag,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,36,34
+819,0,Kan langsung bisa di klik tulisannya kalo make hashtag,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,36,42
+820,0,Kayak telegram ini,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,36,47
+821,0,Langsung auto search dia,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,37,7
+822,0,Ooh..,h a y i,,hayinukman,0,9,6,2020,12,37,44
+823,0,Tinggal filer aja list item nya..,h a y i,,hayinukman,0,9,6,2020,12,38,3
+824,0,*filter,h a y i,,hayinukman,0,9,6,2020,12,38,13
+825,0,Klo need custom text widget... Yg clickable... Buat aja al...,h a y i,,hayinukman,0,9,6,2020,12,38,41
+826,825,Hmm... Terus gimana caranya supaya auto jadi widget ?? Ketika di tulis #hashtag kayak gini,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,39,22
+827,0,Kalo cuma 1 text kan bisa kita pake inkwell,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,41,29
+828,826,Tapi kalo dia dalam paragraph seperti ini. Gimana yak,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,41,44
+829,0,Cara ngesave nya ke db,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,41,50
+830,0,🤣,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,41,51
+831,0,Bingung sy,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,41,54
+832,0,Kalo html kan bisa kita convert dia pake js..,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,42,23
+833,0,Kalo flutter ?,Nasrul,Alawy,nasrulalawy,0,9,6,2020,12,42,27
+834,826,"Buat widget baru, stateful...\nProperty nya text,\nPas initState chunl text ini jd beberapa bagian berdasarkan tanda #\n\nMisal textnya: hello #welcome to the new app.\n\nMaka hasil chunk nya: [""hello"", ""#welcome"", ""to the new app.""]\nMasing2 string d cek apakah startwith # kalau iya jadiin spannable text yg clickable.. Kalo ga jadiin text biasa... \nPake rich text untuk handle ini....",h a y i,,hayinukman,0,9,6,2020,13,4,47
+835,0,coba test ini al...,h a y i,,hayinukman,0,9,6,2020,13,28,26
+836,0,https://gist.github.com/ha-yi/14b110feaa175ef450f4de163b7fd84e,h a y i,,hayinukman,0,9,6,2020,13,28,27
+837,0,"sy belum bisa run, d device,,,  di dartpad ga muncul...",h a y i,,hayinukman,0,9,6,2020,13,28,58
+838,0,bisa nih...,h a y i,,hayinukman,0,9,6,2020,13,36,59
+839,0,,h a y i,,hayinukman,0,9,6,2020,13,37,0
+840,0,tinggal di benerin dikit logic nya.. 😄,h a y i,,hayinukman,0,9,6,2020,13,37,8
+841,0,refined...,h a y i,,hayinukman,0,9,6,2020,13,41,36
+842,0,refined lagi… pake predefined text...,h a y i,,hayinukman,0,9,6,2020,13,45,42
+843,0,dan splitter...,h a y i,,hayinukman,0,9,6,2020,13,45,46
+844,0,tinggal benerin logic di splitter nya aja… 😄,h a y i,,hayinukman,0,9,6,2020,13,47,0
+845,0,Hmm ok,Nasrul,Alawy,nasrulalawy,0,9,6,2020,16,49,30
+846,0,Vesok sy coba,Nasrul,Alawy,nasrulalawy,0,9,6,2020,16,49,39
+847,0,"#ASK\nAsk dong, ini gimana cara ngatasiinya ?",Ari Purnama,Aji,ariaji25,0,11,6,2020,12,36,22
+848,847,sudah search di google dan stackoverflow?,h a y i,,hayinukman,0,11,6,2020,21,12,44
+849,0,,永遠,,MorethangoId,0,11,6,2020,21,15,6
+850,848,"Sudah bang, udah resolve, instal lewat android studio flutter nya baru normal",Ari Purnama,Aji,ariaji25,0,11,6,2020,22,14,34
+851,0,,Nusantech,Academy,nusantech,0,17,6,2020,6,57,8
+852,0,https://youtu.be/xg4S67ZvsRs,Nasrul,Alawy,nasrulalawy,0,25,6,2020,15,24,7
+853,0,Gaes,Nasrul,Alawy,nasrulalawy,0,25,6,2020,15,24,13
+854,0,30menit lagi,Nasrul,Alawy,nasrulalawy,0,25,6,2020,15,24,17
+855,0,FLUTTER DAY 2020,Nasrul,Alawy,nasrulalawy,0,25,6,2020,15,24,23
+856,0,,Nasrul,,Dendeq,0,25,6,2020,15,28,26
+857,855,kirain hackatwon itu bang,Anwar,,MbunMalam,0,25,6,2020,15,30,0
+858,0,Pembukaannya,Nasrul,Alawy,nasrulalawy,0,25,6,2020,15,30,12
+859,0,Hackathonnya tgl 27-28,Nasrul,Alawy,nasrulalawy,0,25,6,2020,15,30,26
+861,0,@nasrulalawy udh selesai ni bang?,Anwar,,MbunMalam,0,25,6,2020,17,0,47
+862,0,Weh,Nasrul,Alawy,nasrulalawy,0,25,6,2020,17,1,57
+863,0,Sy lupa nonton,Nasrul,Alawy,nasrulalawy,0,25,6,2020,17,2,0
+864,0,Hahhaha,Nasrul,Alawy,nasrulalawy,0,25,6,2020,17,2,1
+865,0,We’re ready to keep this #FlutterDay party going. Join us today at 8PM PDT to learn how to build performant apps in Flutter.,Anwar,,MbunMalam,0,25,6,2020,17,2,35
+866,865,gini katanya bang,Anwar,,MbunMalam,0,25,6,2020,17,2,44
+867,0,bahas sekilas ttng codepan aja tadi,Anwar,,MbunMalam,0,25,6,2020,17,2,57
+868,0,Iya ini sy liat siaran ulang tadi,Nasrul,Alawy,nasrulalawy,0,25,6,2020,17,3,10
+869,0,wah tinggal 9 jam lagi🙈,Anwar,,MbunMalam,0,25,6,2020,17,4,2
+870,0,Voting for theme has ended. Choosen Themes are: Saving the Planet and Creating a Cyberpunk Future 💙\n\njiir...,h a y i,,hayinukman,0,26,6,2020,4,57,34
+871,0,temanya hard banget....,h a y i,,hayinukman,0,26,6,2020,4,57,38
+872,0,saving the planet related ke Green kayaknya ini....,h a y i,,hayinukman,0,26,6,2020,4,58,51
+873,0,reporting kerusakan….,h a y i,,hayinukman,0,26,6,2020,4,59,1
+874,0,cause?,h a y i,,hayinukman,0,26,6,2020,4,59,13
+875,0,community actions for saving planet?,h a y i,,hayinukman,0,26,6,2020,4,59,43
+876,0,"hmmm,,,,",h a y i,,hayinukman,0,26,6,2020,4,59,54
+877,0,belum terpikir apa2…. T_T,h a y i,,hayinukman,0,26,6,2020,5,0,9
+878,0,Tabrak dulu bang😂,Anwar,,MbunMalam,0,26,6,2020,6,18,45
+879,0,Creating a Cyberpunk Future ? wow,Devin,Pradana,DavePradana,0,26,6,2020,7,41,29
+880,0,"but CyberPunk Future is highly polluted, it does not save the planet 😅",Devin,Pradana,DavePradana,0,26,6,2020,7,41,55
+881,0,Ikutan yang hackathon itu bang @nasrulalawy @hayinukman ?,Anwar,,MbunMalam,0,27,6,2020,4,52,7
+882,0,https://www.facebook.com/groups/fluttercommunity/permalink/707731043120409/,h a y i,,hayinukman,0,29,6,2020,16,22,50
+883,0,Assalamu'alaikum Wr wb,,,,0,30,6,2020,8,27,6
+884,0,Waalaikumus'salam,Lalu,Hawari,,0,2,7,2020,0,22,18
+886,0,wa’alaykumussalam. \nkalo pertanyaan nya “adakah yg pernah…” simply jawabannya: “Ada”…,h a y i,,hayinukman,0,11,7,2020,14,19,15
+887,885,"Kan ini pertanyaan pancingan,pas ada yang bilang ""ada""baru dah tu nanyak,""gimana bang"",""ajarin dong bang"",""kasi tau dong bang"",""refrensi dong bang"",hehe",Uzix,Code,uzixCode,0,11,7,2020,14,37,32
+889,0,"Assalamualaikum, sy ingin bertanya bagaimana cara mengintegrasikan aplikasinya dengan e wallet sebagai sistem pembayarannya? Apakah menggunakan API atau tidak, kaloq menggunakan API ada rekomendasi API yang bisa digunakan\nKalo ada referensi mohon share link bang\nTerima kasih",Anas,Mulachela,anasmc97,0,11,7,2020,15,3,2
+890,887,"kan ngasi tau jawaban yg sudah pasti,,, siapa tau ybs ga tau kunci jawabannya...",h a y i,,hayinukman,0,11,7,2020,15,42,18
+891,889,"nah,, pas gini dong pertanyaan nya.. 😄",h a y i,,hayinukman,0,11,7,2020,15,42,43
+892,0,"tergantung mau pake e-wallet apa…\nmisal kalo pake midtrans mereka sediain library sendiri…. \nkita tinggal pake lib nya, paypal juga sama, google wallet juga sama….\nklo ewallet  bank local, kayak BNI, ga tau apakah ada apa ga....",h a y i,,hayinukman,0,11,7,2020,15,43,50
+893,891,Iya bang hehe,Anas,Mulachela,anasmc97,0,11,7,2020,16,27,17
+895,0,,Uzix,Code,uzixCode,0,11,7,2020,16,31,59
+896,895,Terima kasih infonya bang,Anas,Mulachela,anasmc97,0,11,7,2020,16,46,33
+897,892,Terima kasih infonya bang\nAkhirnya saya jd paham bang,Anas,Mulachela,anasmc97,0,11,7,2020,16,47,39
+898,0,"Guys, mohon infonya,\n\nmisal ada case sy mau parsing data dari apps lain dengan manggil package apps nya misal ""com.project.client.com"" dengan data {""param"":""data1"",""param2"":""data2""}. untuk push dan get nya di flutter kira kira gmana ya..\n\nboleh minta sarannya, \nmakasi sebelum nya....",Rey,,,0,15,7,2020,3,38,49
+899,0,case ini kira kira possible atau ga ya..? dan apakah best practice ?,Rey,,,0,15,7,2020,3,41,23
+900,0,there is no best practice…. all is best on different cases…. 😄,h a y i,,hayinukman,0,15,7,2020,4,8,29
+901,0,sejauh ini ada 2 cara yg biasa sy pake bang @lalu_raynaldi,h a y i,,hayinukman,0,15,7,2020,4,8,48
+902,0,1. pake skema Content Provider….\n2. Broadcast,h a y i,,hayinukman,0,15,7,2020,4,9,6
+903,0,ada lagi pake Action Intent....,h a y i,,hayinukman,0,15,7,2020,4,9,52
+904,0,eh kebalik Intent Action… 😄,h a y i,,hayinukman,0,15,7,2020,4,10,39
+905,0,"klo skema 1:\n- app A sedia content provider..\n\n- app B akses data yg ada di content provider \n\njadi kayak B request data ke A…. A menyediakan logic untuk provide data, dan respon balik berupa data ke requester….",h a y i,,hayinukman,0,15,7,2020,4,12,52
+906,0,skema 2:\n\n- app A Broadcast Sender\n- app B Broadcast receiver\n\n- App A send broadcast berupa data…\n- App B always listening data berdasarkan signature broadcast ttt…\n\njadi di sini receiver nunggu updatean data…. ga bisa request data….,h a y i,,hayinukman,0,15,7,2020,4,14,55
+907,0,"skema 3. Intent Action…\n- App A sediain Intent Action/listen Intent Action misalnya INTENT_BANTAI, register di manifest\n\n- app B lakukan request intent dengan action: INTENT_BANTAI sekalian passing data ke sana….\n\njadi di sini intent penyedia Intent Action adalah penerima data… dia ga bisa request data…..",h a y i,,hayinukman,0,15,7,2020,4,16,38
+908,0,"nah,,, tergantung cases nya…..",h a y i,,hayinukman,0,15,7,2020,4,16,45
+909,0,"skema broadcast lebih flexible….\nmisal A, dan B sama2 punya sender dan receiver….",h a y i,,hayinukman,0,15,7,2020,4,17,12
+910,0,"untuk data yg besar ukurannya, misal file, gambar, json yg gede, atau sejenisnya sebaiknya yg d share adalah:\n- notifikasi ada data share\n- send filename atau identifier data\n- phisical data di simpan ke database, atau external storage…",h a y i,,hayinukman,0,15,7,2020,4,19,6
+911,0,Terima kasih banyak bang @hayinukman \n\nCoba di serap dlu ilmu nya.. 😁👍,Rey,,,0,15,7,2020,4,20,55
+912,0,klo ada skema lain share bang.. 😄,h a y i,,hayinukman,0,15,7,2020,4,50,35
+913,0,"siap bang, hehe",Rey,,,0,15,7,2020,5,4,31
+914,0,"Pengembangan Talenta Digital Kreatif dari Kementerian Pariwisata dan Ekonomi \nKreatif/Badan Pariwisata dan Ekonomi Kreatif adalah inisiatif dari Pemerintah untuk \nmengembangkan dan meningkatkan kapasitas pelaku ekonomi kreatif, khususnya Pengembang \nAplikasi. \nMelalui program tersebut, Anda dapat mengembangkan skill programming secara online di \nDicoding. Tanpa biaya. Silakan pilih antara kelas: \n- Belajar Fundamental Aplikasi Android, atau \n- Membangun Progressive Web Apps \nSelain program fasilitasi tsb, Anda dapat langsung belajar dari para Narasumber Expert \n(Teknologi, Android, Permainan Digital dan Web) lewat event online “Baparekraf Developer Day \n2020.” Program ini berlangsung pada Sabtu-Minggu, 18-19 Juli 2020 (wajib bagi peserta \nfasilitasi). \nDaftar sekarang. GRATIS! https://bdd.kemenparekraf.go.id/",h a y i,,hayinukman,0,15,7,2020,9,28,30
+915,0,,,,,0,18,7,2020,10,48,2
+916,0,,Yan,Febriansyah,,0,20,7,2020,13,19,14
+917,0,[Yan](tg://user?id=1062086669) hai,Ivan,Andrianto,ivandrian11,0,20,7,2020,14,34,13
+922,0,,Arian,Saputra,rhyanz46,0,26,7,2020,7,37,54
+924,0,Assalamualaikum,,,,0,26,7,2020,23,48,42
+925,0,waalaikum'mussalam,Lalu,Hawari,,0,27,7,2020,5,52,8
+927,0,hackathon\n\nhttps://indonesiamajuhackfest.devpost.com/,Arian,Saputra,rhyanz46,0,31,7,2020,3,14,43
+928,0,"Hello everyone, \n\n\nI’m excited to share with you that Flutter Indonesia collaborated with Google Developers in hosting an online hackathon, Indonesia Maju HackFest 2020, and currently accepting applications from 1 to 23 August, winner will be announced on 29 August. 🥳\n\n\nWe are focusing on 3 themes: Economic Recovery, Health, and Education. This hackathon is open for all developers, students, innovators, tech enthusiasts across Indonesia. The 3 best submissions will receive prize money. \n\n\n✍🏻 Submissions will be scored by the following panel of judges:\n\nNilay Yener, Program Manager, Flutter DevRel, Google\n\nDanny Ardianto, Government Affairs & Public Policy, Google\n\nTruongSinh Tran-Nguyen, Flutter Expert\n\nIbnu Sina Wardy, Founder GITS Indonesia\n\n\nWe would like to ask for your help to share this across our communities / personal social media. You can use the following template and asset attached:\n\n\nFlutter Indonesia, berkolaborasi dengan Google Developers, mengadakan hackathon online - Indonesia Maju HackFest - mulai tanggal 1 sampai 23 Agustus. Kami mengundang developers, mahasiswa, inovator, tech enthusiast terbaik di Indonesia untuk bersama membangun solusi yang berdampak dan menangkan hadiahnya.\n\n\nDaftar → https://indonesiamajuhackfest.devpost.com/\n\n\nThank you so much for your help. 😊 🙏 \n\n\nPS.  If you would like to join please feel free to participate. \n\n\n\nHope you and your loved ones are safe and healthy,\n\nFrom: Laura","Jiad, ジハード",,jiadmiftx,0,4,8,2020,14,31,5
+929,0,,"Jiad, ジハード",,jiadmiftx,0,4,8,2020,14,31,5
+930,0,kita jangan 1 tim ya guys… 😄,h a y i,,hayinukman,0,5,8,2020,6,6,2
+931,0,yg indonesia maju hackfest itu....,h a y i,,hayinukman,0,5,8,2020,6,6,13
+932,0,hahaha,h a y i,,hayinukman,0,5,8,2020,6,6,15
+933,0,cari team member dr luar aja....,h a y i,,hayinukman,0,5,8,2020,6,6,23
+934,0,biar seru….,h a y i,,hayinukman,0,5,8,2020,6,6,27
+935,0,Atau masing2 sendiri aja 🤣,M. Salihin,Alfarizi,Ihin_Alfarizi,0,5,8,2020,6,9,10
+936,931,Wkwkwk,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,15,21
+937,0,Hackathon sendirian biar ide buanyak 🤣🤣🤣,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,15,38
+938,0,Jadi yg ikut dari lombok banyak hahaha,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,15,49
+939,937,mampus sendiri implement nya...,h a y i,,hayinukman,0,5,8,2020,6,15,52
+940,0,Biar gak 4L🙈,Anwar,,MbunMalam,0,5,8,2020,6,15,53
+941,939,🤣🤣🤣,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,16,3
+942,0,max 1 submission soalnya ini,h a y i,,hayinukman,0,5,8,2020,6,16,15
+943,0,Sampai tanggal berapa ??,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,16,35
+944,0,23 aug,h a y i,,hayinukman,0,5,8,2020,6,16,46
+945,0,"concern ke economy, edukasi, dan health….\nklo health sy ga ada ide….",h a y i,,hayinukman,0,5,8,2020,6,17,18
+946,0,klo yg economy —> ujung2nya online market…. 😆,h a y i,,hayinukman,0,5,8,2020,6,17,33
+947,0,Sy mau join di edukasi 🤣,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,17,41
+948,0,"edukasi sy ada sih ide,,, mau sy curi idenya bang lian… 😆",h a y i,,hayinukman,0,5,8,2020,6,18,7
+949,948,Wkwkwk,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,18,18
+950,0,Embat aja,Nasrul,Alawy,nasrulalawy,0,5,8,2020,6,18,28
+951,0,"but, must be flutter ya,,, ini yg aga repot sih....",h a y i,,hayinukman,0,5,8,2020,6,18,32
+952,945,SIKA ?,Ari Purnama,Aji,ariaji25,0,5,8,2020,6,58,47
+953,0,you need alat nya buat ini...,h a y i,,hayinukman,0,5,8,2020,8,22,52
+954,0,sedangkan yg d hackathon kan ini kayaknya bakalan susah klo sika...,h a y i,,hayinukman,0,5,8,2020,8,23,13
+955,954,"Bisa sih tanpa alat bang, kan sekarang musim karantina tuh perlu di kontrol juga bb nya, biar gak obesitas gitu😂",Anwar,,MbunMalam,0,5,8,2020,8,25,15
+956,955,Di apa ?? Kok rada aneh bacanya ??,Nasrul,Alawy,nasrulalawy,0,5,8,2020,9,9,49
+957,955,"Gitu dong, sekali kali 😂",Alfian,NM,alfian_nm,0,5,8,2020,9,11,59
+958,956,Ampun bang🙈,Anwar,,MbunMalam,0,5,8,2020,9,31,27
+959,955,Typonya ngeri kwkak,Gilang,Ramdhani,Gilangramdhanip,0,5,8,2020,9,32,22
+960,0,"lol, baru nyadar....",h a y i,,hayinukman,0,5,8,2020,9,37,14
+961,0,parah anwar ini,h a y i,,hayinukman,0,5,8,2020,9,37,21
+962,0,bang @Gilangramdhanip  kayaknya sensitif dengan kata2 itu… 😆,h a y i,,hayinukman,0,5,8,2020,9,37,49
+963,0,hahahaha,Nasrul,Alawy,nasrulalawy,0,5,8,2020,9,38,23
+964,0,Astage typo baru baca🙈,Anwar,,MbunMalam,0,5,8,2020,9,39,24
+965,0,,Anwar,,MbunMalam,0,5,8,2020,9,39,28
+966,0,hahadhaha,Nasrul,Alawy,nasrulalawy,0,5,8,2020,9,39,43
+967,0,itu murni typo kan bukan auto fix gitu war?,h a y i,,hayinukman,0,5,8,2020,9,40,42
+968,0,hahaha... auto fix,Nasrul,Alawy,nasrulalawy,0,5,8,2020,9,43,34
+969,967,"Iya typo bang wkwk, susah ngetik pake auto fix🙈",Anwar,,MbunMalam,0,5,8,2020,9,46,43
+970,968,"klo auto fix, pertanda text itu sering kepake…. 😆",h a y i,,hayinukman,0,5,8,2020,9,56,45
+971,956,Wkwkwk,"Jiad, ジハード",,jiadmiftx,0,5,8,2020,11,32,52
+972,0,,"Jiad, ジハード",,jiadmiftx,0,5,8,2020,11,33,18
+973,970,Paraahhhh parahhh 😆,"Jiad, ジハード",,jiadmiftx,0,5,8,2020,11,34,4
+974,0,kejam memang internet history ini….,h a y i,,hayinukman,0,5,8,2020,11,34,54
+975,0,😆,h a y i,,hayinukman,0,5,8,2020,11,34,55
+976,0,kok sy jadi ikutan liar nerjemahin statemen anwar it… lol,h a y i,,hayinukman,0,5,8,2020,11,35,26
+977,972,"Wah parah di ss dong, udh ane edit itu wkwk",Anwar,,MbunMalam,0,5,8,2020,13,2,59
+978,977,Hahaha,Nasrul,Alawy,nasrulalawy,0,5,8,2020,13,7,50
+979,0,Jejak digital memang kejam,Nasrul,Alawy,nasrulalawy,0,5,8,2020,13,7,56
+980,976,"Itu tdi koneksi sya putus, pas pesan terakhirnya anwar. Wkwowkowkwo","Jiad, ジハード",,jiadmiftx,0,5,8,2020,13,9,47
+981,0,,Anwar,,MbunMalam,0,5,8,2020,13,20,21
+982,962,Kata kontrol harus selalu di perhatikan bang 😂,Gilang,Ramdhani,Gilangramdhanip,0,5,8,2020,14,20,46
+983,982,Untung ga typo dan ga edited... Bisa curyga sy... 😂,h a y i,,hayinukman,0,5,8,2020,14,24,19
+984,0,sitip next tulis control biar aman dari typo wkwkwk,Anwar,,MbunMalam,0,5,8,2020,15,3,33
+985,0,ternyata....,h a y i,,hayinukman,0,17,8,2020,9,33,21
+986,0,flutter desktop script nya banyak yg pake go...,h a y i,,hayinukman,0,17,8,2020,9,33,30
+987,0,"flutter klo mau all out musti bisa:\ndart, kotlin, swift, C++, go…",h a y i,,hayinukman,0,17,8,2020,9,34,4
+988,987,"kalo udah kayak gini, pas lamar kerjaan apa perlu kita tambahkan skill ""flutter android"" ya bang? biar gak salah paham dikiranya nanti kita bisa semua.",zayedelfasa,,zayedelfasa,0,17,8,2020,9,36,12
+989,987,Waduhhh 😆😆,M. Salihin,Alfarizi,Ihin_Alfarizi,0,17,8,2020,10,6,13
+990,987,sya mndur bang,Devin,Pradana,DavePradana,0,17,8,2020,12,42,14
+991,0,ngobrol bareng Google Developer Expert Flutter pertama di Indonesia\n\nsang juri hackthon yg sedang berlangsung saat ini 😁\n\nhttps://www.youtube.com/watch?v=lbP1riigUIQ&feature=push-u-sub&attr_tag=MMNgpUDcJTzgRRGl%3A6,Arian,Saputra,rhyanz46,0,18,8,2020,6,6,36
+993,0,akhir2 ini group sepi….,h a y i,,hayinukman,0,19,8,2020,9,2,49
+994,993,grup yg mana bang ? yg ini kah ?,zayedelfasa,,zayedelfasa,0,19,8,2020,9,3,46
+995,0,semua yg di sini…,h a y i,,hayinukman,0,19,8,2020,9,3,55
+996,0,wah. ehehehe,zayedelfasa,,zayedelfasa,0,19,8,2020,9,4,8
+997,0,bosen ga ada yg seru yg d bahas....,h a y i,,hayinukman,0,19,8,2020,9,4,22
+998,0,"biar gak terlalu sepi, sy izin share catatan kecil ttg flutter sy di github ya mas. ehehe.\nhttps://github.com/zayedelfasa/dart_note\n\nuntuk contoh flutter hooks masih pengerjaan sedikit2 karena masih sibuk di kerjaan utama. eheheh..",zayedelfasa,,zayedelfasa,0,19,8,2020,9,6,58
+999,997,"perlu meetup offline ni bang biar seru, kaloq online susah dapet peserta wkwk",Anwar,,MbunMalam,0,19,8,2020,9,11,5
+1000,999,Boleh,Anas,Mulachela,anasmc97,0,19,8,2020,9,20,53
+1001,0,btw ada yg mau bantuin sy bikin game?,h a y i,,hayinukman,0,19,8,2020,9,24,46
+1002,0,pke flutter flame....,h a y i,,hayinukman,0,19,8,2020,9,24,54
+1003,0,lg belajar sih.. haha,h a y i,,hayinukman,0,19,8,2020,9,25,4
+1004,0,berarti buatin animasinya di flame kah bang hayi ?,zayedelfasa,,zayedelfasa,0,19,8,2020,9,25,33
+1005,0,iya,h a y i,,hayinukman,0,19,8,2020,9,26,8
+1006,0,https://flame-engine.org,h a y i,,hayinukman,0,19,8,2020,9,26,14
+1007,0,menarik sih,h a y i,,hayinukman,0,19,8,2020,9,26,16
+1008,0,seru....,h a y i,,hayinukman,0,19,8,2020,9,26,18
+1009,1006,neh game 2d ni bang,Anwar,,MbunMalam,0,19,8,2020,9,27,7
+1010,0,udh coba integrasi sekalian sama 2dimention gak bang?,Anwar,,MbunMalam,0,19,8,2020,9,27,33
+1011,0,sama” 2d kan wkwk,Anwar,,MbunMalam,0,19,8,2020,9,27,40
+1012,1010,belum… sy ga bisa bikin carakter nya...,h a y i,,hayinukman,0,19,8,2020,9,29,48
+1013,0,"yang di 2dimention sy kemarin nyoba” ambil di flaticon yang svg kyk kereta api dll, bisa di import jadiin animasi gitu, nah kaloq import karakter dari svg di flame ni udh coba bang?😁",Anwar,,MbunMalam,0,19,8,2020,9,32,30
+1014,0,nah itu yg sy belum bisa… 😆,h a y i,,hayinukman,0,19,8,2020,9,33,17
+1015,0,sy baru coba2 bikin animasi pake sprites nya aja...,h a y i,,hayinukman,0,19,8,2020,9,33,32
+1016,0,kemarin nyba yg 2 dimension,h a y i,,hayinukman,0,19,8,2020,9,33,51
+1017,0,bingung malah… wkwkwkwkwk,h a y i,,hayinukman,0,19,8,2020,9,33,55
+1018,0,bukan type visual programmer… 😆,h a y i,,hayinukman,0,19,8,2020,9,34,30
+1019,0,Recorded by Capture Recorder: https://play.google.com/store/apps/details?id=com.screenrecorder.recorder.audio.videoeditor,h a y i,,hayinukman,0,19,8,2020,9,36,58
+1020,0,baru bikin kayak gini.. 😆,h a y i,,hayinukman,0,19,8,2020,9,37,51
+1021,0,baru buka lagi banyak juga yang like animasi coding ni wkwk,Anwar,,MbunMalam,0,19,8,2020,9,37,56
+1022,0,https://rive.app/a/anwar907/files/flare/coding/preview,Anwar,,MbunMalam,0,19,8,2020,9,38,13
+1023,928,,Aryan,,LinkerErrors,0,20,8,2020,2,50,56
+1024,0,#ASK ada yang sudah nyoba masukin data bentuk `List` ke dalam tabel? dari kemarin belum bisa” ni udh pakai 2 model tabel ttp blank isinya🙈,Anwar,,MbunMalam,0,23,8,2020,16,10,14
+1025,1024,Maksudnya ?,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,10,29
+1026,1025,"jadi gini bang rencana mau manggil data bentuk `List` dari firebase trus dimasukin di dalam tabelnya, jadi ketika ada data baru tabelnya jadi auto nambah gitu valuenya",Anwar,,MbunMalam,0,23,8,2020,16,13,0
+1027,1026,Tabel dimana ?,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,15,22
+1028,0,Hahhaa.. sy kok belum mudeng ya,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,15,55
+1029,0,Wkwkwk,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,15,57
+1030,0,kurang lebih gambaran tabelnya seperti ini bang😁,Anwar,,MbunMalam,0,23,8,2020,16,16,24
+1031,0,Ooh bikin tabel di flutter,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,16,49
+1032,1031,ye gati bang😁,Anwar,,MbunMalam,0,23,8,2020,16,17,0
+1033,0,Terus masalahnya dimana ?,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,18,25
+1034,1033,"gak muncul” bang data maupun tabelnya, blank isinya🙈",Anwar,,MbunMalam,0,23,8,2020,16,18,59
+1035,0,,Anwar,,MbunMalam,0,23,8,2020,16,19,29
+1036,0,Pas add data nanti auto gitu nambah di dalam tabelnya di atas button itu,Anwar,,MbunMalam,0,23,8,2020,16,20,1
+1037,0,Di firebase udah masuk datanya ?,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,20,22
+1038,0,Coba share code nya,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,21,10
+1039,1037,"datanya udh masuk bang, tinggal panggil urutan `List` nya",Anwar,,MbunMalam,0,23,8,2020,16,23,27
+1040,0,gini source code nya,Anwar,,MbunMalam,0,23,8,2020,16,23,53
+1041,1039,Mana ? Itemnya gaada,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,26,12
+1042,0,"ada bang, wait, kaloq bentuk text langsung mau dia muncul tapi kaloq dimasukin ke tabel gak mau dia jadi blank",Anwar,,MbunMalam,0,23,8,2020,16,29,22
+1043,1041,Ini data namanya muncul bang tapi bentuk text\n```child: Text()```\nkaloq di masukin ke tabel\n```Child: Table()```\ngak mau muncul🙈,Anwar,,MbunMalam,0,23,8,2020,16,33,42
+1044,0,"Sepertinya gak bisa ya langsung masukin bentuk List gitu ke tabel mesti di definisikan Listnya terlebih dahulu, cc bang @hayinukman mungkin udh nyoba😁",Anwar,,MbunMalam,0,23,8,2020,16,43,45
+1045,1044,Hm,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,54,21
+1046,0,Seharusnya sih bisa,Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,54,25
+1047,0,"Ntar deh tak cobain, lagi ga buka laptop",Nasrul,Alawy,nasrulalawy,0,23,8,2020,16,54,57
+1048,0,"siap bang, coba” model lain sambil nunggu final bola juga ne😂",Anwar,,MbunMalam,0,23,8,2020,17,3,50
+1049,0,nah indexnya versi manual bisa dia😂,Anwar,,MbunMalam,0,23,8,2020,18,11,39
+1050,0,,Anwar,,MbunMalam,0,23,8,2020,18,13,33
+1051,0,"nah udh bisa,, thankyou bang abang udh bisa, pas star final champion baru kelar😂",Anwar,,MbunMalam,0,23,8,2020,19,2,21
+1052,1040,"ListView.builder —> parameter builder nya buat bikin item list nya….\njdi kalo item nya ada 3 maka outputnya:\n[widget]\n[widget]\n[widget]\n\nnah, kalo buildernya kau taruhin Table maka jadinya gini:\n[Table]\n[Table]\n[Table]\n\n\nakan berulang2 bikin item table….. \n\nkalo row nya yg d buat dinamis, bertambah dan berkurang, logic generate row nya yg d ubah, dan ga bisa pake ListView…\n\nListView —> container view\nTable —> container juga….\n\nmemang bisa table di dalem listview, tapi usage nya beda,,, misal: ketika kau butuh menampilkan multiple table, contoh: List Tabel harga, \ntabel pendapatan,\ntabel jualan,\ntabel hutang,\ndimana masing item bisa berbeda struktur, beda jumlah row,,, nah ini kalo di masukin listview masih make sense….",h a y i,,hayinukman,0,24,8,2020,1,33,29
+1053,1052,"Iya juga bang, setelah liat hasil yg punya beberapa data dalem tabel berulang dia😁, semalem liat cuma 1 data aja🙈",Anwar,,MbunMalam,0,24,8,2020,1,51,45
+1054,0,flutter menuju 100ribu stars! Congrats..,zayedelfasa,,zayedelfasa,0,25,8,2020,10,43,42
+1055,0,Yay,【﻿ｂａｌｉｎｕｘ】,,balinux,0,25,8,2020,10,43,50
+1056,0,,Novael,,Novaely_R,0,29,8,2020,3,38,22
+1057,0,flutter sudah mencapai 100k stars. congrats.,zayedelfasa,,zayedelfasa,0,2,9,2020,12,53,10
+1058,0,,zayedelfasa,,zayedelfasa,0,2,9,2020,12,53,11
+1059,1057,monitor terus abang ini.. 😄,h a y i,,hayinukman,0,2,9,2020,13,48,9
+1060,0,hehe,h a y i,,hayinukman,0,2,9,2020,13,48,12
+1061,0,heueheueheu.. \nsampai 100k udah cukup lah monitoringnya 😅,zayedelfasa,,zayedelfasa,0,2,9,2020,13,49,18
+1062,0,,Zian,Fahrudy,zianfahrudy,0,5,9,2020,5,31,41
+1063,0,butuh bantuan:\nflutter developer yg pake os Windows...,h a y i,,hayinukman,0,6,9,2020,7,59,27
+1064,0,mau mintol run & test kan project untuk windows desktop.,h a y i,,hayinukman,0,6,9,2020,8,0,9
+1065,1064,@jeeats,Arian,Saputra,rhyanz46,0,6,9,2020,11,15,12
+1066,0,Udh sy coba,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,15,34
+1067,0,Gakuat pake windows 🥺,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,15,41
+1068,0,Pindah ke linux lagi ini,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,15,49
+1069,1068,udh gak dualbot lagi ni?,Anwar,,MbunMalam,0,6,9,2020,11,17,48
+1070,1069,Ga,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,18,2
+1071,0,Full windows,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,18,11
+1072,0,Memory tidk memadai,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,18,15
+1073,0,Baru install adobe premiere udh mau full ssd 😂,"Jiad, ジハード",,jiadmiftx,0,6,9,2020,11,18,33
+1074,1072,kaloq memory gimana” besarnya sepertinya ttp kepakai pull,Anwar,,MbunMalam,0,6,9,2020,11,19,26
+1075,0,,,,,0,8,9,2020,14,45,15
+1076,0,Foto dari Bagus Suharta,,,,0,8,9,2020,14,54,20
+1077,0,Ijin bertanya bang ada solusi ngga untuk masalah yg ini soalnya baru belajar pke flutter,,,,0,8,9,2020,14,54,45
+1078,0,🙏,,,,0,8,9,2020,14,54,57
+1079,1076,udah baca ini mas ??? \n\nhttps://developer.android.com/studio/build/multidex?hl=id,Arian,Saputra,rhyanz46,0,8,9,2020,14,57,28
+1080,1079,Sudah mas yg multidex itu kan sudah sy tambahiin di gradlenya tpi ttep ngga bisa run debuggingnya mas,,,,0,8,9,2020,15,20,20
+1081,0,,Calon Programmer,,rickyanwar,0,8,9,2020,23,30,49
+1082,0,klo eror yg kya gni gmna solusinya mas?,,,,0,8,9,2020,23,56,31
+1083,0,,,,,0,8,9,2020,23,56,31
+1084,1083,Asset imag iconnya salah masih.,"Jiad, ジハード",,jiadmiftx,0,9,9,2020,0,0,43
+1085,0,Gabis di load,"Jiad, ジハード",,jiadmiftx,0,9,9,2020,0,0,50
+1086,0,#ASK\nada yang sudah mencoba buat splash screen dari xml dngn menampilkan `TEXT`?\n\nsy udh nyoba buat tapi cuma nampilin gambar dapet dari panduan ini https://flutter.dev/docs/development/ui/advanced/splash-screen\n\nuntuk `TEXT` nya blm bisa muncul” dari tadi😁,Anwar,,MbunMalam,0,9,9,2020,16,29,46
+1087,1086,"saya kira flutter,,, 🤣",Arian,Saputra,rhyanz46,0,10,9,2020,2,42,11
+1088,0,pake flame aja war buat splash screen nya...,h a y i,,hayinukman,0,10,9,2020,5,23,44
+1089,0,efeknya keren....,h a y i,,hayinukman,0,10,9,2020,5,23,51
+1090,1088,Udh beberapa sih sy buat bang tapi blm sy coba pake😁,Anwar,,MbunMalam,0,10,9,2020,8,7,8
+1091,1087,Iya flutter itu cuma di custom xml nya aja biar gak buat wedget baru untuk splash,Anwar,,MbunMalam,0,10,9,2020,8,7,41
+1092,0,bang ada referensi ngga buat nambahin data sma table secara dinamis lwat vscodenya?,,,,0,10,9,2020,15,53,2
+1093,0,ke firebase 🙏,,,,0,10,9,2020,15,54,35
+1094,1092,ini maksudnya bikin plugin VS Code gitu?,h a y i,,hayinukman,0,10,9,2020,23,13,24
+1095,0,klo yg kontext pertanyaannya:\n***** lewat vscode \natau \n***** lewat Android studio…\n\nJawabannya ini ya:\n\nhttps://code.visualstudio.com/api/get-started/your-first-extension\nhttps://jetbrains.org/intellij/sdk/docs/basics/getting_started.html,h a y i,,hayinukman,0,10,9,2020,23,15,17
+1096,0,bang @hayinukman masih pakai Stetho untuk flutter network debugging  ?,Darmawan,Zulkifli,sudah_punya_jodoh,0,14,9,2020,5,19,48
+1097,0,Flipper ada,h a y i,,hayinukman,0,14,9,2020,5,20,31
+1098,0,yang ini ya ? https://pub.dev/packages/flutter_flipperkit,Darmawan,Zulkifli,sudah_punya_jodoh,0,14,9,2020,5,27,51
+1099,0,,Aryan,,LinkerErrors,0,14,9,2020,5,29,16
+1100,0,Iya,h a y i,,hayinukman,0,14,9,2020,5,29,23
+1101,1099,@jeeats,Aryan,,LinkerErrors,0,14,9,2020,5,29,25
+1102,0,,"Jiad, ジハード",,jiadmiftx,0,14,9,2020,5,29,37
+1103,1100,"ngerai setup"" nya",Darmawan,Zulkifli,sudah_punya_jodoh,0,14,9,2020,5,40,22
+1104,0,tapi ini aman bang @hayinukman ? sampai graddle.settings di replace 🤔,Darmawan,Zulkifli,sudah_punya_jodoh,0,14,9,2020,6,9,29
+1105,0,"manteb si ini, detail bingint",Darmawan,Zulkifli,sudah_punya_jodoh,0,14,9,2020,6,10,29
+1106,0,,Darmawan,Zulkifli,sudah_punya_jodoh,0,14,9,2020,6,10,38
+1107,0,aman apanya?,h a y i,,hayinukman,0,14,9,2020,7,5,11
+1108,1099,"yay,, ketua baru....",h a y i,,hayinukman,0,14,9,2020,7,5,39
+1109,0,"bakar2 ayam nih kayakanya, selametan…",h a y i,,hayinukman,0,14,9,2020,7,6,4
+1110,1109,selametan yudisium kan bang?😂,Anwar,,MbunMalam,0,14,9,2020,7,6,40
+1111,0,oh you di sium juga??,h a y i,,hayinukman,0,14,9,2020,7,6,58
+1112,0,mantabs...,h a y i,,hayinukman,0,14,9,2020,7,6,59
+1113,0,sekalian selametan wis sudahan juga deh….,h a y i,,hayinukman,0,14,9,2020,7,7,25
+1114,0,lebih bagus lagi sekalian walimahan @jeeats,h a y i,,hayinukman,0,14,9,2020,7,7,48
+1115,1109,,"Jiad, ジハード",,jiadmiftx,0,14,9,2020,9,33,52
+1116,1111,Dirumh side aja bang. Kan ina juga yudisium 😆,"Jiad, ジハード",,jiadmiftx,0,14,9,2020,9,34,13
+1117,1114,Skip :v,"Jiad, ジハード",,jiadmiftx,0,14,9,2020,9,34,18
+1118,0,,"Jiad, ジハード",,jiadmiftx,0,14,9,2020,9,34,24
+1119,0,bang apa bedanya build APK dngn metode cara 1:\n```keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android```\nsama build apk dngn cara 2: ```flutter build apk```\n\ncc bang @hayinukman yg saranin dulu build apk dngn cara 1😁,Anwar,,MbunMalam,0,15,9,2020,17,56,4
+1120,0,Keytool cuma buat generate key... Output nya bukan apk... Tapi sign key...,h a y i,,hayinukman,0,15,9,2020,18,57,20
+1121,1119,"Flutter build apk, generate apk debug",【﻿ｂａｌｉｎｕｘ】,,balinux,0,15,9,2020,21,54,25
+1122,1120,oh iya brarti untuk mengizinkan perangkat buat ngakses aplikasi yang sedang di develop ni bang,Anwar,,MbunMalam,0,16,9,2020,0,22,3
+1123,1121,generate apk release ada model lain gak bang?,Anwar,,MbunMalam,0,16,9,2020,0,25,38
+1124,1122,Bukan,h a y i,,hayinukman,0,16,9,2020,3,59,57
+1125,0,Key itu untuk keperluan rilis...,h a y i,,hayinukman,0,16,9,2020,4,0,9
+1126,1125,"nah semisal kita gak pake firebase gimana model penggunaan key buat rilis ini bang? dulu kan key SHA2 nya kita input di firebase sebagi data base, kaloq yang tidak mengunakan database gimana bang?",Anwar,,MbunMalam,0,16,9,2020,4,1,5
+1127,0,baca aja dokumentasi firebase nya war...,h a y i,,hayinukman,0,16,9,2020,4,37,27
+1128,0,"dapet ini pas release bang @hayinukman .setelah make flipper 🤔\n\n```/root/.pub-cache/hosted/pub.dartlang.org/flutter_flipperkit-0.0.23/lib/plugins/network/flipper_http_client_request.dart:8:7: Error: The non-abstract class 'FlipperHttpClientRequest' is missing implementations for these members:\n  - HttpClientRequest.abort\n Try to either\n  - provide an implementation,\n  - inherit an implementation from a superclass or mixin,\n  - mark the class as abstract, or\n  - provide a 'noSuchMethod' implementation.\n class FlipperHttpClientRequest implements HttpClientRequest {\n       ^^^^^^^^^^^^^^^^^^^^^^^^\n org-dartlang-sdk:///third_party/dart/sdk/lib/_http/http.dart:2045:8: Context: 'HttpClientRequest.abort' is defined here.\n   void abort([Object? exception, StackTrace? stackTrace]);\n        ^^^^^\n FAILURE: Build failed with an exception.```",Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,4,28,0
+1129,0,Udah di kasih permission internet ndak di file xml nya,Uzix,Code,uzixCode,0,17,9,2020,4,37,44
+1130,0,Kan xml debug sama release beda,Uzix,Code,uzixCode,0,17,9,2020,4,38,5
+1131,0,Androidmanifest maksud saya,Uzix,Code,uzixCode,0,17,9,2020,4,39,7
+1132,0,"ini ternyata biang keroknya:\n\n```// If you use http library, you must set it to false and use https://pub.dev/packages/flipperkit_http_interceptor\n    // useHttpOverrides: false,```",Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,4,39,23
+1133,0,kalau versi release semua permission untuk android ditulis manual di manivest ?,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,4,39,56
+1134,0,Yup,Uzix,Code,uzixCode,0,17,9,2020,4,40,14
+1135,0,owalah kirain flutter sudah otomatis 😂,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,4,40,39
+1136,0,"Kalo di manifest debug default nya udah otomatis di taruhin permission internet nya,tapi kalo release nya harus tulis manual",Uzix,Code,uzixCode,0,17,9,2020,4,41,15
+1137,1128,flippernya klo bisa jangan d ikutin ke rilis…. debug only saja...,h a y i,,hayinukman,0,17,9,2020,5,9,57
+1138,0,"nah ini sedang saya ulik, saya juga tidak rela flipper ini masuk release 😂",Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,11,8
+1139,0,tapi settings.graddlenya bagaimana bang 🤔,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,12,16
+1140,0,kan it ada...,h a y i,,hayinukman,0,17,9,2020,5,13,50
+1141,0,`dev_dependencies:`,h a y i,,hayinukman,0,17,9,2020,5,14,6
+1142,0,```  if (kDebugMode) {\n    final flipperClient = FlipperClient.getDefault();\n    flipperClient.addPlugin(FlipperNetworkPlugin());\n    flipperClient.addPlugin(FlipperSharedPreferencesPlugin());\n    flipperClient.start();\n  }```,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,27,57
+1143,0,gile....,h a y i,,hayinukman,0,17,9,2020,5,28,43
+1144,0,enak gajian tiap 2 minggu… 😄,h a y i,,hayinukman,0,17,9,2020,5,28,49
+1145,0,jd semangat kerja… 😄,h a y i,,hayinukman,0,17,9,2020,5,28,56
+1146,0,nah nah dimana itu,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,29,5
+1147,0,di pluto...,h a y i,,hayinukman,0,17,9,2020,5,29,13
+1148,0,sinih.. cari front end ini...,h a y i,,hayinukman,0,17,9,2020,5,29,20
+1149,0,kance .net,h a y i,,hayinukman,0,17,9,2020,5,29,34
+1150,0,full stack,h a y i,,hayinukman,0,17,9,2020,5,29,39
+1151,0,frontend React ? 😂,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,29,41
+1152,0,iye,h a y i,,hayinukman,0,17,9,2020,5,29,44
+1153,0,tyescript juga,h a y i,,hayinukman,0,17,9,2020,5,29,49
+1154,0,wallohua’lam ama aja tuh kebutuhannya...,h a y i,,hayinukman,0,17,9,2020,5,29,58
+1155,1140,"settings.graddle tetep pake ini ?\n\n\n```\ndef flutterProjectRoot = rootProject.projectDir.parentFile.toPath()\n\ndef plugins = new Properties()\ndef pluginsFile = new File(flutterProjectRoot.toFile(), '.flutter-plugins')\nif (pluginsFile.exists()) {\n    pluginsFile.withReader('UTF-8') { reader -> plugins.load(reader) }\n}\n\nplugins.each { name, path ->\n    def pluginDirectory = flutterProjectRoot.resolve(path).resolve('android').toFile()\n    include "":$name""\n    project("":$name"").projectDir = pluginDirectory\n\n    if (name == 'flutter_flipperkit') {\n        include ':flipper-no-op'\n        project(':flipper-no-op').projectDir = new File(pluginDirectory, 'flipper-no-op')\n    }```",Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,30,46
+1156,0,kalau gagitu gabisa jalan 😂,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,31,7
+1157,0,wallohua’lam...,h a y i,,hayinukman,0,17,9,2020,5,31,21
+1158,0,"di lombok yg pertama kali setting flipper buat di flutter, side sendiri dah....",h a y i,,hayinukman,0,17,9,2020,5,31,35
+1159,0,"mungkin di indonesia bagian timur, side pertama...",h a y i,,hayinukman,0,17,9,2020,5,31,44
+1160,0,bahkan bisa jadi di Indonesia side masuk 10 besar…. 😆,h a y i,,hayinukman,0,17,9,2020,5,31,55
+1161,0,,h a y i,,hayinukman,0,17,9,2020,5,32,9
+1162,0,lah,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,36,22
+1163,0,,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,36,29
+1164,0,sy cuma pemakai di native.. 😄,h a y i,,hayinukman,0,17,9,2020,5,37,8
+1165,0,klo d flutter belum sempet nyoba…,h a y i,,hayinukman,0,17,9,2020,5,37,15
+1166,0,hehe,h a y i,,hayinukman,0,17,9,2020,5,37,16
+1167,0,peace...,h a y i,,hayinukman,0,17,9,2020,5,37,20
+1168,0,,h a y i,,hayinukman,0,17,9,2020,5,37,35
+1169,0,enak si kalau debug sampe ada untuk SP tapi perlu replace graddle segala 🤔,Darmawan,Zulkifli,sudah_punya_jodoh,0,17,9,2020,5,37,46
+1170,0,https://iiro.dev/2018/03/02/separating-build-environments/ ini solusinya bang @hay,Darmawan,Zulkifli,sudah_punya_jodoh,0,18,9,2020,3,6,21
+1171,0,@hayinukman,Darmawan,Zulkifli,sudah_punya_jodoh,0,18,9,2020,3,6,28
+1172,0,,Darmawan,Zulkifli,sudah_punya_jodoh,0,18,9,2020,3,6,31
+1173,0,jadi enak mau ngapain aja di dev environtment,Darmawan,Zulkifli,sudah_punya_jodoh,0,18,9,2020,3,7,4
+1174,0,CMIWIW,Darmawan,Zulkifli,sudah_punya_jodoh,0,18,9,2020,3,7,7
+1175,0,,h a y i,,hayinukman,0,18,9,2020,4,11,49
+1176,0,,Roby Huzwandar,,robyhuzwandar,0,18,9,2020,8,26,53
+1177,1175,"bang hayi... saya mau bertanya, untuk appsnya bang hayi yang delivering halal food itu pas bagian search kan ada animation text ke ganti2 itu logic atau dependency bang?",Aufa,Ahdi,aufaahdi,0,22,9,2020,11,20,15
+1178,1177,Akalin pake flare bang😂,Anwar,,MbunMalam,0,22,9,2020,11,24,47
+1179,1178,Owh okok terimakasih infonya gan..😁👍,Aufa,Ahdi,aufaahdi,0,22,9,2020,11,29,25
+1180,1177,Ada librarynya. Text ke ganti2 bang,"Jiad, ジハード",,jiadmiftx,0,22,9,2020,11,30,5
+1181,1180,Ape itu namanya?,Aufa,Ahdi,aufaahdi,0,22,9,2020,11,30,31
+1182,0,https://github.com/aagarwal1012/Animated-Text-Kit,"Jiad, ジハード",,jiadmiftx,0,22,9,2020,11,31,1
+1183,1182,@aufaahdi,"Jiad, ジハード",,jiadmiftx,0,22,9,2020,11,31,19
+1184,1182,Bah mantap sudah... Thx gan infonya...👍😁,Aufa,Ahdi,aufaahdi,0,22,9,2020,11,32,43
+1185,0,Sudah terjawab... 😂,h a y i,,hayinukman,0,22,9,2020,12,1,35
+1186,1185,"Iya mas sudah.. saya kira project yg itu mas upload ke github, ternyata gak ada saya cari.., makanya saya tanya langsung..😂",Aufa,Ahdi,aufaahdi,0,22,9,2020,12,12,34
+1187,0,"ada yang sering dapet error gini pas mau nge run? sampe” flutter doctor juga ttp error gini, sementara yang sy pake restart laptop baru kelar, ada cara mengatasi selain restart laptop? bari tips dong bang😁",Anwar,,MbunMalam,0,23,9,2020,6,44,18
+1188,0,Hape nya tu kepenuhan memorinya,Uzix,Code,uzixCode,0,23,9,2020,6,45,2
+1189,0,Atau di laptopnya,Uzix,Code,uzixCode,0,23,9,2020,6,45,16
+1190,1187,pake virtual device ?,Arian,Saputra,rhyanz46,0,23,9,2020,6,46,0
+1191,1190,pake hp langsung menggunakan adb,Anwar,,MbunMalam,0,23,9,2020,6,46,24
+1192,1189,kebetulan di laptop udh hampir penuh juga penyimpanan ni😁,Anwar,,MbunMalam,0,23,9,2020,6,47,3
+1193,1188,"sama juga di hp penuh, tapi udh uninstall beberapa aplikasi ttp dia",Anwar,,MbunMalam,0,23,9,2020,6,47,39
+1194,0,🙈,Anwar,,MbunMalam,0,23,9,2020,6,52,8
+1195,0,kosongin hardisk laptop war...,h a y i,,hayinukman,0,23,9,2020,6,52,53
+1196,0,coba cek build project2 flutter lain nya yg kau punya...,h a y i,,hayinukman,0,23,9,2020,6,53,6
+1197,0,hapus folder build nya,h a y i,,hayinukman,0,23,9,2020,6,53,14
+1198,0,itu bisa makan space lebih dr setengah giga....,h a y i,,hayinukman,0,23,9,2020,6,53,29
+1199,0,atau simplenya jalanin `flutter clean`  di folder2 project flutter kau yg lama2....,h a y i,,hayinukman,0,23,9,2020,6,54,14
+1200,0,"oiya lupa di clean bang, pantes rata” 1, 2 GB an isinya masing” folder🙈",Anwar,,MbunMalam,0,23,9,2020,6,55,10
+1201,0,klo pake linux coba cari file2 sampah yg ukuran gede...,h a y i,,hayinukman,0,23,9,2020,6,55,13
+1202,0,https://www.makeuseof.com/tag/linux-disk-space-how-to-visualize-your-usage/,h a y i,,hayinukman,0,23,9,2020,6,55,17
+1203,0,pake tools2 yg di situ buat mapping dan cari yg aneh....,h a y i,,hayinukman,0,23,9,2020,6,55,31
+1204,1200,"iyap,, dia ga auto clean,, jadi memang mau tak mau d clean manual....",h a y i,,hayinukman,0,23,9,2020,6,55,49
+1205,0,"drawback hot reload flutter memang gitu,,, makan space hardisk lumayan gede...",h a y i,,hayinukman,0,23,9,2020,6,56,10
+1206,0,terutama hardisk laptop...,h a y i,,hayinukman,0,23,9,2020,6,56,23
+1207,0,ketauan korupsi space🙈,Anwar,,MbunMalam,0,23,9,2020,7,0,39
+1208,0,btw bang @hayinukman sy penasaran gimana cara kosongin space other ni yang 50GB?,Anwar,,MbunMalam,0,23,9,2020,7,1,13
+1209,0,setengah dari hdd di makan😌,Anwar,,MbunMalam,0,23,9,2020,7,1,26
+1211,0,https://medium.com/flutter/announcing-flutter-windows-alpha-33982cd0f433,Anwar,,MbunMalam,0,24,9,2020,11,46,13
+1212,0,Alhamdulillah…,h a y i,,hayinukman,0,24,9,2020,14,50,34
+1213,0,semoga para pembuat flutter ini diberikan hidayah dan taufiq...,h a y i,,hayinukman,0,24,9,2020,14,50,52
+1214,0,sangat membantu sekali...,h a y i,,hayinukman,0,24,9,2020,14,50,58
+1215,0,😄,h a y i,,hayinukman,0,24,9,2020,14,50,59
+1216,1213,aamiin 😭,Devin,Pradana,DavePradana,0,24,9,2020,17,20,50
+1217,0,,-,,,0,25,9,2020,8,16,37
+1218,0,Assalamualaikum..\nMhn izin bertanya..\nBagaimana cara panggil image ke flutter dari API yang methode nya post ya?😁🙏,-,,,0,25,9,2020,8,17,49
+1219,0,Biasanya sih url image dari server backend dengan get,【﻿ｂａｌｉｎｕｘ】,,balinux,0,25,9,2020,8,49,2
+1220,0,Mantap suhu @balinux,-,,,0,25,9,2020,9,11,41
+1221,0,Yang ini post😄🙏,-,,,0,25,9,2020,9,12,32
+1223,0,Foto dari Insan Biasa,-,,,0,25,9,2020,10,19,23
+1224,1218,Wa'alaykumussalam warohmatullohi wabarokatuh,h a y i,,hayinukman,0,25,9,2020,12,15,5
+1225,0,Bisa mas.,h a y i,,hayinukman,0,25,9,2020,12,15,5
+1226,0,Rrquest post saja dulu...\nCek response nya bentuknya apa? String atau file jpg nya...\nKlo file jpg nya get bytes nya dr response...,h a y i,,hayinukman,0,25,9,2020,12,15,6
+1227,0,"Nah, klo dah dpt bytes nya, tinggal d convert ke bitmap.",h a y i,,hayinukman,0,25,9,2020,12,15,6
+1228,0,Bytes image nya tinggal d render pake: Image.memory(bytes),h a y i,,hayinukman,0,25,9,2020,12,15,6
+1229,0,Alhamdulillah..\nTerima Kasih Mas Hayi..\nIzin saya cb...🙏😊,-,,,0,25,9,2020,12,17,20
+1230,0,,Muhammad,Hidayatullah,dayat_1221,0,30,9,2020,19,48,5
+1231,0,"pabapak izin bertanya, possible tidak listen provider dari parent  widget.\n\njadi casenya saya ada parent dan child component, child ini generic. cuma ada satu child yang datanya itu dibutuhkan di parent, saya coba watch provider dari si child masih belum bisa 🤔  \n\nsaya sudah wrap parent dengan child provider, kemudian di komponen parent nya saya pakai `context.watch<ChildProvider>().getSomething` sama nihil, coba `Provider.of<ChildProvider>().getSomething` sama nihil.",Darmawan,Zulkifli,sudah_punya_jodoh,0,12,10,2020,7,32,39
+1232,0,@hayinukman @nasrulalawy dll,Darmawan,Zulkifli,sudah_punya_jodoh,0,12,10,2020,7,33,25
+1233,0,pake change notifier ga?,h a y i,,hayinukman,0,12,10,2020,7,34,12
+1234,0,pakai bang,Darmawan,Zulkifli,sudah_punya_jodoh,0,12,10,2020,7,34,19
+1235,0,sudah di notify?,h a y i,,hayinukman,0,12,10,2020,7,34,26
+1236,0,sudah bang,Darmawan,Zulkifli,sudah_punya_jodoh,0,12,10,2020,7,34,30
+1237,0,di child sudah ke update,Darmawan,Zulkifli,sudah_punya_jodoh,0,12,10,2020,7,34,35
+1238,0,pake consumer coba...,h a y i,,hayinukman,0,12,10,2020,7,34,38
+1239,0,"`Consumer<ProviderNyaApa>(builder: (context, provider, child){ return Widget();})`",h a y i,,hayinukman,0,12,10,2020,7,35,28
+1240,0,cob coba,Darmawan,Zulkifli,sudah_punya_jodoh,0,12,10,2020,7,35,51
+1241,0,ada rekomended pluggin socket flutter pabapak,Darmawan,Zulkifli,sudah_punya_jodoh,0,13,10,2020,4,18,55
+1242,0,socket client,Darmawan,Zulkifli,sudah_punya_jodoh,0,13,10,2020,4,19,1
+1243,0,Cc pak @hayinukman,Darmawan,Zulkifli,sudah_punya_jodoh,0,13,10,2020,11,59,39
+1244,0,😁,Darmawan,Zulkifli,sudah_punya_jodoh,0,13,10,2020,11,59,45
+1245,0,apa ya kemarin sy pake...,h a y i,,hayinukman,0,13,10,2020,12,0,35
+1246,0,lupa… 😄,h a y i,,hayinukman,0,13,10,2020,12,0,37
+1247,0,`web_socket_channel: ^1.1.0`,h a y i,,hayinukman,0,13,10,2020,12,1,26
+1248,0,"```import 'dart:convert';\nimport 'dart:io';\n\nimport 'package:beats_ft/helper.dart';\nimport 'package:beats_ft/providers/GameBoardData.dart';\nimport 'package:flutter/material.dart';\nimport 'package:provider/provider.dart';\nimport 'package:web_socket_channel/io.dart';\nimport 'package:web_socket_channel/web_socket_channel.dart';\n\nclass ServerInfo extends ChangeNotifier {\n  String serverAddress;\n  final String _defaultPort = ""9999"";\n  WebSocketChannel channel;\n  bool connected = false;\n  var error;\n  bool loading = false;\n  bool timeout = false;\n\n  GameCommad dataFromServer;\n  GroupTestData groupData;\n\n  String getServerFullAddress() {\n    print(serverAddress);\n    if (serverAddress != null && !serverAddress.contains("":"")) {\n      serverAddress += "":$_defaultPort"";\n    }\n    return serverAddress;\n  }\n\n  startConnect() {\n    stderr.writeln('Start connection to ws://${getServerFullAddress()}');\n    error = null;\n    loading = true;\n    channel = IOWebSocketChannel.connect(\n      'ws://${getServerFullAddress()}',\n      pingInterval: Duration(milliseconds: 1000),\n    );\n\n    channel.stream.listen((data) => onData(data),\n        onError: (e) => onError(e),\n        onDone: () => onDone(),\n        cancelOnError: false);\n    notifyListeners();\n  }\n\n  sendGameData(int command, dynamic data) {\n    channel.sink.add(GameCommad(command, data).toJson().toString());\n  }\n\n  onData(dynamic data) {\n    loading = false;\n    error = null;\n    dataFromServer = null;\n    print(data);\n    if (data.trim() == ""connected"") {\n      connected = true;\n      stderr.writeln('init connection');\n      notifyListeners();\n      return;\n    }\n    dataFromServer = GameCommad.fromJson(json.decode(data));\n    print(dataFromServer);\n\n    switch (dataFromServer.code) {\n      case START_GROUP_GAME:\n        timeout = false;\n        groupData = GroupTestData(0);\n        break;\n      case START_GROUP_TASK:\n        timeout = false;\n        groupData = GroupTestData(dataFromServer.data);\n        break;\n      case ADD_GROUP_GAME_TIMEOUT:\n        timeout = true;\n        break;\n      case ADD_GROUP_GAME_TILE:\n        print(""ADD_GROUP_GAME_TILE from server"");\n        TileInfo i = TileInfo.fromJson(dataFromServer.data);\n        groupData.data.addTile(i);\n        print(groupData.data.toJson().toString());\n        break;\n      case ADD_GROUP_GAME_DATA:\n        if (groupData != null) {\n          groupData.data = GameBoardData.fromJson(dataFromServer.data);\n        }\n        break;\n    }\n\n    notifyListeners();\n  }\n\n  onError(WebSocketChannelException e) {\n    loading = false;\n    print(""WS conenction error $e"");\n    connected = false;\n    error = e;\n    if (channel.closeCode != null || e != null) {\n      stderr.writeln('Connection closed,, reconnecting....');\n      startConnect();\n    }\n    notifyListeners();\n  }\n\n  onDone() {\n    print(""WS conenction done"");\n    if (channel.closeCode != null) {\n      stderr.writeln('Connection closed,, reconnecting....');\n      startConnect();\n    }\n  }\n\n  localAddTile(TileInfo i) {\n    groupData.data.addTile(i);\n    notifyListeners();\n    sendGameData(ADD_GROUP_GAME_TILE, i.toJson().toString());\n  }\n}```",h a y i,,hayinukman,0,13,10,2020,12,4,34
+1249,0,contoh nya,h a y i,,hayinukman,0,13,10,2020,12,5,3
+1250,0,Waaah cniwiw langsung dapet contoh 😁,Darmawan,Zulkifli,sudah_punya_jodoh,0,13,10,2020,15,53,9
+1251,0,"Misi pabapak, ada rekomended folder picker flutter ? 😂 kok belum nemu yang kece",Darmawan,Zulkifli,sudah_punya_jodoh,0,14,10,2020,11,41,30
+1252,0,"Owh aman, gajadi 🙈",Darmawan,Zulkifli,sudah_punya_jodoh,0,14,10,2020,12,11,34
+1254,0,Mungkin ada yang pernah mengalami 😭 \n\nhttps://stackoverflow.com/questions/64386483/flutter-build-with-ci-getting-error-program-type-already-present-com-google-com,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,36,15
+1255,1254,Ngeri bapak flutter sekarang,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,42,13
+1256,0,Wkwkwk,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,42,14
+1257,0,tuntutan profesi 😭\,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,42,41
+1258,1257,Mantap.. sy sekarang gaada profesi,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,42,59
+1259,0,Udah dipecat,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,43,5
+1260,0,,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,43,7
+1261,0,Emang bapaknya mau kluar kayanya 🤣,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,43,50
+1262,1261,,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,44,19
+1263,0,Gaes sekarang sy pengangguran,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,44,34
+1264,0,Hampir 2 bulan 🤣,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,44,53
+1265,0,Tinggal klik applay,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,45,47
+1266,1265,Mana tombolnya ?,Nasrul,Alawy,nasrulalawy,0,19,10,2020,11,46,18
+1267,0,Di linkedin,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,53,22
+1268,0,Glints,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,53,25
+1269,0,,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,10,2020,11,53,28
+1270,1263,Phk bang?🙈,Anwar,,MbunMalam,0,19,10,2020,12,6,5
+1271,0,"Izin bertanya🙏\n\nKnp kl kita update di ps lama ya?\nSedangkan dengan console yg sama, app yg berbeda cepat hanya 1 hari? Apakah krna kategori rating 3+ atau 12+ appnya?\n\nKemudian di PS ada tombol,, produksi cepat.. apakah menggunakan fitur tsb bs langsung rilis?",-,,,0,20,10,2020,5,25,41
+1272,0,Mohon petunjuk🙏,-,,,0,20,10,2020,5,25,50
+1273,0,ini apa ya mas?,h a y i,,hayinukman,0,20,10,2020,5,26,14
+1274,0,sy bingung dengan pertanyaan nya...,h a y i,,hayinukman,0,20,10,2020,5,26,24
+1275,0,apakah flutter bisa di run di PS?,h a y i,,hayinukman,0,20,10,2020,5,26,36
+1276,0,"Izin Bang.. maksudnya,, untuk update rilis di Playstore🙏",-,,,0,20,10,2020,5,27,6
+1277,0,"oh,,,",h a y i,,hayinukman,0,20,10,2020,5,27,15
+1278,0,tak kira PS —> console buat main game… 😆,h a y i,,hayinukman,0,20,10,2020,5,27,32
+1279,0,setau sy perihal rilis dan update ini sekarang lumayan strict…,h a y i,,hayinukman,0,20,10,2020,5,28,26
+1280,0,ada proses review...,h a y i,,hayinukman,0,20,10,2020,5,28,30
+1281,0,san sehari itu bisa ribuan apps yg d review...,h a y i,,hayinukman,0,20,10,2020,5,28,43
+1282,0,makanya biasanya aga lam,h a y i,,hayinukman,0,20,10,2020,5,28,49
+1283,0,Ada App A : hanya butuh 1 hari rilis update\nApp B : sdh hampir 4 hari belum rilis update..,-,,,0,20,10,2020,5,29,44
+1284,1280,Siap Bang.. berarti karna memang di review dl ya🙏😊,-,,,0,20,10,2020,5,30,17
+1285,0,Terima Kasih Bang atas pencerahannya,-,,,0,20,10,2020,5,30,17
+1286,0,Lagi release juga. Sudah 2 hari belum kelar review 🤣,Darmawan,Zulkifli,sudah_punya_jodoh,0,20,10,2020,15,38,59
+1287,0,"lagi bingung ni masteah,lagi belajar django ,trus tertarik juga belajar flutter ,minta saran dong",petot,,,0,2,11,2020,13,24,52
+1288,0,Wihh kereeen. Langsung gas dua duanya,Darmawan,Zulkifli,sudah_punya_jodoh,0,2,11,2020,17,21,46
+1289,0,,Darmawan,Zulkifli,sudah_punya_jodoh,0,2,11,2020,17,21,50
+1291,1287,"Jangan bingun django untuk service API, flutter consume API\nkombo mantap",【﻿ｂａｌｉｎｕｘ】,,balinux,0,4,11,2020,8,2,14
+1292,1291,,h a y i,,hayinukman,0,4,11,2020,8,18,10
+1293,0,bang gmn cara print hello world di flutter bang,Devin,Pradana,DavePradana,0,4,11,2020,8,19,29
+1294,1293,Becanda suhu ini,【﻿ｂａｌｉｎｕｘ】,,balinux,0,4,11,2020,8,34,20
+1295,1294,dia ngajakin berantem...,h a y i,,hayinukman,0,4,11,2020,8,39,16
+1296,0,Wkwkkw embe arak lapangan sk luas skedik,【﻿ｂａｌｉｎｕｘ】,,balinux,0,4,11,2020,8,55,53
+1297,0,berantem nya online aja bang.. 😄,h a y i,,hayinukman,0,4,11,2020,9,1,15
+1298,0,ada dota… 😄,h a y i,,hayinukman,0,4,11,2020,9,1,29
+1299,0,Hayuk gas wkwkwk,【﻿ｂａｌｉｎｕｘ】,,balinux,0,4,11,2020,9,19,18
+1300,0,hahaha,Devin,Pradana,DavePradana,0,4,11,2020,10,6,52
+1301,0,nunggu game bang @nasrulalawy bisa pvp…. 😄,h a y i,,hayinukman,0,4,11,2020,11,11,36
+1302,1301,Wkwkwk...,Nasrul,Alawy,nasrulalawy,0,4,11,2020,11,12,59
+1303,0,Game pesawat udah bisa online kok 🤣,Nasrul,Alawy,nasrulalawy,0,4,11,2020,11,13,16
+1304,1301,ok kita gelud online di mediasi oleh game nya @nasrulalawy hahaha,Devin,Pradana,DavePradana,0,4,11,2020,11,15,5
+1305,0,gelud hi tech,Devin,Pradana,DavePradana,0,4,11,2020,11,15,8
+1306,0,Hahaha..,Nasrul,Alawy,nasrulalawy,0,4,11,2020,11,15,26
+1307,1303,Bagi chit bang🙈,Anwar,,MbunMalam,0,4,11,2020,11,51,57
+1308,1307,"trus ntar bikin artikel biar banyak yg sercing di gugel,,",Arian,Saputra,rhyanz46,0,4,11,2020,11,53,11
+1309,1308,,Anwar,,MbunMalam,0,4,11,2020,12,27,41
+1310,0,"Bang hay, @hayinukman .. ada settingan khusus buat running flutter di device pos?","Jiad, ジハード",,jiadmiftx,0,10,11,2020,2,4,18
+1311,0,Ga ada.,h a y i,,hayinukman,0,10,11,2020,2,10,14
+1312,0,Pernah coba run kan.,h a y i,,hayinukman,0,10,11,2020,2,10,19
+1313,0,Ini lagi coba bang.,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,2,12,59
+1314,1312,Oh side di bc ya bang?,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,2,13,46
+1315,0,Belum berangkat.,h a y i,,hayinukman,0,10,11,2020,2,15,40
+1316,0,Mau ke bangket dulu.,h a y i,,hayinukman,0,10,11,2020,2,15,58
+1317,0,Cincau mau sy bawakan ga?,h a y i,,hayinukman,0,10,11,2020,2,16,10
+1318,1317,Bsok aja pas sya kesana ambil sendiri bang :D sama bu rina. InsyaAllah,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,2,16,47
+1319,1317,Boleh bang,RONI {Mataram},,nakpisang,0,10,11,2020,2,17,0
+1320,0,😂,RONI {Mataram},,nakpisang,0,10,11,2020,2,17,3
+1321,1319,Invalid...,h a y i,,hayinukman,0,10,11,2020,2,17,24
+1322,0,Sy bawain punya bang cep aja klo gitu...,h a y i,,hayinukman,0,10,11,2020,2,18,4
+1323,0,Oke bang. Nnti sya ke bc juga.,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,2,18,24
+1324,1322,😂😂😂😂,RONI {Mataram},,nakpisang,0,10,11,2020,2,18,45
+1325,0,,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,3,52,44
+1326,0,sya dah googling .. katanya si masalah storage emu/devicenya. sudah sya unistall di device nya. tpi masih juga.,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,3,53,25
+1327,0,ada NPE 😂,Arian,Saputra,rhyanz46,0,10,11,2020,3,53,58
+1328,1327,"di device,.","Jiad, ジハード",,jiadmiftx,0,10,11,2020,3,57,37
+1329,0,dari devicenya,"Jiad, ジハード",,jiadmiftx,0,10,11,2020,3,57,50
+1330,0,Guys ada yang pernah implemen jitsi meet di flutter web?,Ari Purnama,Aji,ariaji25,0,13,11,2020,5,21,47
+1331,0,XMPP ya?,【﻿ｂａｌｉｎｕｘ】,,balinux,0,13,11,2020,5,25,27
+1332,0,Free video conferencing sdk dari apache,Ari Purnama,Aji,ariaji25,0,13,11,2020,5,50,5
+1333,0,"Kalo di mobile normal, pas ke web yang dependcie nya ndk suport",Ari Purnama,Aji,ariaji25,0,13,11,2020,5,50,46
+1334,0,bang-abang mau nanya.. @siapa_tau_jodoh @hayinukman,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,39,2
+1335,0,apa?,h a y i,,hayinukman,0,19,11,2020,4,39,10
+1336,0,,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,39,48
+1337,0,"saya kan mau atur tampilan fab dengan text ""jalankan order"" jika kondisi status bernilai ""assigned"" ..","Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,40,35
+1338,0,nah.. saya set nilai ```stsOrder``` pada saat snapshot.hasData di Future builder,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,41,20
+1339,0,seperti ini,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,42,17
+1340,0,tpi saat initState screen dibuka.. dari screen sebelumnya nilainya kan masih null,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,42,42
+1341,1336,"maka yg tampil itu ""Complete order""...","Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,43,12
+1342,0,nah pas hasData nilainya baru ada.. tpi yg text pada fab ga berubah.. butuh setState..,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,43,35
+1343,0,untuk reload,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,43,39
+1344,0,tpi sy bingung mau taruh setState dimananya.. menurut side dimana ya bang?,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,44,0
+1345,0,atau pke state management yg lain?,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,44,7
+1346,0,"Pake Provider….\n\npas init, load data async pake ChangeNotifier untuk provider nya….\ndi build nya pake consumer….\ncek data di providernya apakah loaded or not,,,",h a y i,,hayinukman,0,19,11,2020,4,44,15
+1347,0,,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,45,34
+1348,0,ada contoh mas?,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,45,35
+1351,0,@siapa_tau_jodoh bagi resep dong bang,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,46,21
+1352,0,Resepnya langsung obrak abrik dikode 😭,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,11,2020,4,53,28
+1353,1352,sini kode side sya obrak abrik haha,"Jiad, ジハード",,jiadmiftx,0,19,11,2020,4,53,51
+1354,0,Bentar masih memahamibsoal,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,11,2020,4,54,23
+1355,0,"itu kayanya bisa diakali, kodenya kependekan gatau mau taruh dimana setState wkwkwk. \npakai state manajemen saja biar enak kali, bebas mau pakai bloc/provider/dll yang mana enaknya",Darmawan,Zulkifli,sudah_punya_jodoh,0,19,11,2020,5,3,43
+1356,0,UI tinggal anteng nungguin data,Darmawan,Zulkifli,sudah_punya_jodoh,0,19,11,2020,5,4,1
+1357,0,,Q,,Riky_kyy,0,23,11,2020,14,11,47
+1358,0,,𝓘𝓢𝓝𝓐𝓘𝓝𝓘,,isnaini_python,0,25,11,2020,5,22,10
+1361,0,mohon pencerahan senpai.. masih newbie,Hardiansyah,,hardypx,0,20,12,2020,23,28,25
+1362,0,Install git coba meton,【﻿ｂａｌｉｎｕｘ】,,balinux,0,20,12,2020,23,30,54
+1363,0,tHANKS METON,Hardiansyah,,hardypx,0,20,12,2020,23,33,44
+1364,0,,Obidia,,odhan12,0,27,12,2020,14,2,38
+1366,0,#ASK saya sedang mencoba oprek” kodingan orang di git ini: https://github.com/bizz84/bottom_bar_fab_flutter\n\ndan masih berkendala di pindah halaman apabila di klik salah satu button yang ada pada FAB `floatingActionButton` sejauh ini cuma repo/orang ini yang saya temui buat custom FAB `floatingActionButton` untuk yang di flutter kaloq ada saran mintol rekomenadsi yang serupa dan apabila berhasil implement pindah halaman pada repo ini akan bagus digunakan kedepannya😁.\nterimakasih,Anwar,,MbunMalam,0,31,12,2020,6,20,7
+1368,1367,erornya ada war?,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,29,7
+1369,0,ente udah pasang buat navigasi kemananya?,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,29,33
+1370,1368,gak ada bang,Anwar,,MbunMalam,0,31,12,2020,6,30,20
+1371,1369,"udh ada ni ke halaman registrasi kaloq di klik icon create itu, cuma masih blm bisa pindah",Anwar,,MbunMalam,0,31,12,2020,6,30,39
+1372,0,onPressed nya udh?,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,36,8
+1373,1371,coba liat aksi onpressnya,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,36,33
+1374,0,onPressnya dia di bagian `onIconTapped` ni,Anwar,,MbunMalam,0,31,12,2020,6,38,4
+1375,1374,coba liat function _selectFab itu?,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,39,38
+1376,0,"ini dia, udh sy akali dngn widget yang di tuju masih gak mau😁",Anwar,,MbunMalam,0,31,12,2020,6,40,40
+1378,0,itu ndk ad kamu,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,41,7
+1379,0,di fab,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,41,9
+1380,1377,bentar bukannya ini untuk close `floatingActionButton` ya? yang butuh onPress soalnya kedua tombol yang muncul apabila di klik itu,Anwar,,MbunMalam,0,31,12,2020,6,42,23
+1381,1374,kaloq untuk kedua tombol itu iconnya ada di sini bagian `onIconTapped` itu di jadiin fungsi untuk pindah ke halaman lain,Anwar,,MbunMalam,0,31,12,2020,6,43,47
+1382,0,Nama function di onIconTaoped itu _selectFab / _selectedFab?,Ari Purnama,Aji,ariaji25,0,31,12,2020,6,44,22
+1383,0,function _selectFab itu isinya boleh diliatin?,Ari Purnama,Aji,ariaji25,0,31,12,2020,6,45,5
+1385,1376,nah maksud saya tau dari mana dia selectFab itu larinya kemana di setiap indexnya...,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,45,44
+1386,1383,,Anwar,,MbunMalam,0,31,12,2020,6,46,18
+1387,1386,ini bukan text nya aja ?,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,47,17
+1388,0,"Pas dipanggil fungsi itu beneran work kaga, coba showToast tiap kali ditap",Ari Purnama,Aji,ariaji25,0,31,12,2020,6,47,17
+1389,0,yg berubah?,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,47,21
+1390,0,Cek fungsinya beneran kepanggil apa kaga,Ari Purnama,Aji,ariaji25,0,31,12,2020,6,48,11
+1391,0,kok ribet sih itu fab nya wkwk,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,49,3
+1392,1389,"untuk sementara sy ikutin yang di github itu cuma text aja, yang sy mau coba pindahin ke halaman lain ni wkwk",Anwar,,MbunMalam,0,31,12,2020,6,49,26
+1394,1391,iya cuma nemu ini aja sy tadi wkwk,Anwar,,MbunMalam,0,31,12,2020,6,50,14
+1395,1388,otw coba,Anwar,,MbunMalam,0,31,12,2020,6,50,23
+1396,0,simple lagi,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,50,25
+1397,0,ga perlu urus custom2 nya yg kesana kemari,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,50,42
+1398,0,ada lib nya,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,50,52
+1399,0,Ga apa sih kalo belajar custom sendiri kan 🤞,Ari Purnama,Aji,ariaji25,0,31,12,2020,6,51,18
+1400,0,ya sih.. coba aja dh dulu itu war.. klo emg itu yg ente suka,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,51,44
+1401,1400,nte pakai yang ini yad?,Anwar,,MbunMalam,0,31,12,2020,6,53,3
+1402,1388,iya ini bener war.. atau print aja hasilnya,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,53,8
+1403,1402,coba dulu ini war ewkwek,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,53,57
+1404,0,maksudnya ente gak pindah itu karna ente belum set kali klo pake functionnya _selectFab sama _selectTabnya,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,54,10
+1405,0,onIconTapped coba print hasilnya,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,54,19
+1406,0,atau belum ente satuin screennya,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,54,23
+1407,0,jadi yang selectFab udah manggil tapi ketutup defaultscreen dari _selectTab,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,55,12
+1408,0,mungkin....😁,Aufa,Ahdi,aufaahdi,0,31,12,2020,6,55,22
+1409,0,kaloq sy baca issue yang mau dicoba ini juga cuma bisa `pushReplacementNamed` aja🙈,Anwar,,MbunMalam,0,31,12,2020,6,55,34
+1410,1404,berarti `_selectedTab` nya mesti di inisial ke page yang ingin di tuju ni bang?,Anwar,,MbunMalam,0,31,12,2020,6,56,30
+1411,1410,"terserah ente.. ente mau tetep di view yang ada navigasinya atau gak ada... klo ada kan berarti harus satu screen dia yang di namis, klo mau beda ya udah tinggal navigasi biasa aja ke screen yang di tuju",Aufa,Ahdi,aufaahdi,0,31,12,2020,6,57,50
+1412,1409,oh ini fab yang tetap muncul klo pindah screen.,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,58,33
+1413,0,i see baru ngeh wkwk,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,58,38
+1414,0,sorry2 ga nyambung brarti sya :v,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,6,59,9
+1415,1409,"ini issuenya aja yad kaloq pakai customFab ni, kaloq pakai `pushReplacementNamed` kan pas kembali close aplikasinya kaloq gak salah, udh lama gak make biasanya pake Get.to(halaman) langsung pindah😁",Anwar,,MbunMalam,0,31,12,2020,7,1,56
+1416,1388,"ada muncul ni ji, berarti `onIconTapped` ini tempat fungsi kedua tombol itu",Anwar,,MbunMalam,0,31,12,2020,7,4,35
+1417,0,,Anwar,,MbunMalam,0,31,12,2020,7,5,2
+1418,1417,coba print yang di functionnya war,Aufa,Ahdi,aufaahdi,0,31,12,2020,7,18,13
+1419,0,jangan pass ontapnya...,Aufa,Ahdi,aufaahdi,0,31,12,2020,7,18,19
+1420,0,indexnya berneran berubah gak?,Aufa,Ahdi,aufaahdi,0,31,12,2020,7,18,29
+1421,1420,"ini yang muncul bang, kaloq di tekan button yang atas dapet 0 kaloq icon yang di bawah ditekan dapat 1",Anwar,,MbunMalam,0,31,12,2020,7,24,35
+1422,0,nah itu udah bisa kan dia pindah kesetiap indexnya... tinggal ente pasang navigasinya index 0 kemana index 1 kemana...,Aufa,Ahdi,aufaahdi,0,31,12,2020,7,28,52
+1424,1423,,Aufa,Ahdi,aufaahdi,0,31,12,2020,7,51,44
+1425,1422,Panutan emg abang auf ini ehehe,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,7,54,27
+1426,1425,senior yad😁,Anwar,,MbunMalam,0,31,12,2020,7,55,8
+1427,1425,"Jangan, kesasar nanti Anwar kalo jadikan saya panutan had..😂",Aufa,Ahdi,aufaahdi,0,31,12,2020,8,2,34
+1428,1426,Senioritas?😂,Aufa,Ahdi,aufaahdi,0,31,12,2020,8,3,57
+1429,0,flutter road-map\nhttps://drive.google.com/file/d/1d5AycYqz7u_HyuyTN1SQcHzvMSuij57q/view,zayedelfasa,,zayedelfasa,0,31,12,2020,10,36,9
+1430,0,,"Jiad, ジハード",,jiadmiftx,0,31,12,2020,12,48,0
+1431,0,remote..,zayedelfasa,,zayedelfasa,0,5,1,2021,10,56,43
+1432,0,,zayedelfasa,,zayedelfasa,0,5,1,2021,10,56,43
+1433,1432,bisa parttime?,h a y i,,hayinukman,0,5,1,2021,11,15,0
+1434,1433,"waduuu, sy cuma share aja mas hayi 😅 tp kayaknya fulltime.",zayedelfasa,,zayedelfasa,0,5,1,2021,11,48,3
+1435,1433,Bisa bang,Roby Huzwandar,,robyhuzwandar,0,5,1,2021,12,29,0
+1436,0,ga percaya,h a y i,,hayinukman,0,5,1,2021,12,30,7
+1437,1436,"Yg disana jam 8-12 + 20-23 , yg ini jam 13-18 +23-3 pagi menariiik....",Roby Huzwandar,,robyhuzwandar,0,5,1,2021,12,37,44
+1438,1437,no life banget itu bang… 😆,h a y i,,hayinukman,0,5,1,2021,12,38,28
+1439,0,emg kapan pernah have life bang 😆,Roby Huzwandar,,robyhuzwandar,0,5,1,2021,12,39,29
+1440,0,,h a y i,,hayinukman,0,5,1,2021,12,39,44
+1441,0,,M. Nurdin,Sapariansyah,orang_ga_jahat,0,6,1,2021,21,3,5
+1442,0,,Olan | CoinBreakOuts,,Blyatlife,0,9,1,2021,17,54,29
+1443,0,Mas gmana ya caranya membuat chat app pake  firestore semisal punya 2 aplikasi A B. App A ini untuk user. Dan app B untuk admin. Nah di app A hanya nampilin user admin di app B untuk di chat.,Olan | CoinBreakOuts,,Blyatlife,0,9,1,2021,18,1,38
+1444,1443,"Sama seperti chat2 biasa mas.. mau satu, dua atau lebih app yg penting database di firestorenya sama untuk olah datanya..",Aufa,Ahdi,aufaahdi,0,10,1,2021,9,5,35
+1445,0,,Achmed,Islamic Hernawan,achmedislamic,0,10,1,2021,15,18,22
+1446,0,Assalamualaikum,,,,0,12,1,2021,4,23,42
+1447,0,wa’alaykumussalam.,h a y i,,hayinukman,0,12,1,2021,4,29,26
+1448,0,"Assalamu'alaikum warahmatullahiwabarokatuh.  \nPerkenalkan, kami mahasiswa S1 Sistem Informasi, Fakultas Teknik Universitas Hamzanwadi Selong. Saat ini kami sedang melakukan *penelitian tugas akhir* Untuk teman-teman yang pernah berbelanja di B ERL satu tahun terakhir atau lebih, kami harap teman-teman bisa membantu kelancaran penelitian dengan mengisi google form di bawah: https://docs.google.com/forms/d/e/1FAIpQLSdGmPGqp92gH_7n700zFoNhIRjOvh0HciQsK78eWNOktNRNTA/viewform?usp=sf_link Mohon dishare ke teman-teman yang pakai produk B ERL COSMETICS juga iya🙏🏻\nTerima kasih banyak atas bantuan teman-teman. Semoga Allah membalas kebaikan teman-teman 🍃",Agus,Hartawan,agus10ywo,0,12,1,2021,15,43,58
+1449,0,,Andrian,Cimen,,0,18,1,2021,22,49,5
+1450,0,"permisi, jadi saya mau menggunakan google_fonts untuk pembuatan aplikasi.. nah dpet error begini, kira kira apa yang salah ya?",Gilang,Ramdhani,Gilangramdhanip,0,24,1,2021,19,24,25
+1451,0,```Pub```\nget udeh,Ari Purnama,Aji,ariaji25,0,24,1,2021,21,37,56
+1452,0,?,Ari Purnama,Aji,ariaji25,0,24,1,2021,21,37,59
+1453,0,"Itu errornsi gradle kan, path provider",Ari Purnama,Aji,ariaji25,0,24,1,2021,21,38,29
+1454,0,"Udah semua saya tes pub get, hapus path providernya, terus mattin firewall ttp gak bsa jik",Gilang,Ramdhani,Gilangramdhanip,0,25,1,2021,2,54,19
+1455,0,Kwkw,Gilang,Ramdhani,Gilangramdhanip,0,25,1,2021,2,54,21
+1456,0,Kalo tanpa saya pake dependencies tambahan kaya google_fonts lancar jaya dia wkw,Gilang,Ramdhani,Gilangramdhanip,0,25,1,2021,2,55,3
+1457,1456,"Coba dngn cara download fonts yang mau digunakan, trus taruh di style baru panggil dia di pubspec.yaml nya",Anwar,,MbunMalam,0,25,1,2021,3,29,25
+1458,0,Cuma sy blm tau mana lebih efisien dari segi performance penggunaan library fonts dari pada menaruh fonts di style cc bang @hayinukman mungkin pernah mencoba😁,Anwar,,MbunMalam,0,25,1,2021,3,30,46
+1459,1450,clean gradle nya,h a y i,,hayinukman,0,25,1,2021,3,32,29
+1460,0,itu ada cache yg orphaned… dan ter lock,h a y i,,hayinukman,0,25,1,2021,3,32,43
+1461,1457,"Nah kayanya ini solusi bagus bang wkkw.. cuma kalo gak pake libnya google_fonts, harus masukkin satu satu ya fontnya wkkw",Gilang,Ramdhani,Gilangramdhanip,0,25,1,2021,18,27,40
+1462,1459,"Wah siap bang hayi, tak coba dlu.. kmrin udah coba flutter clean cuma blm ada perubahan",Gilang,Ramdhani,Gilangramdhanip,0,25,1,2021,18,28,6
+1463,1461,Iyaps,Anwar,,MbunMalam,0,25,1,2021,22,34,29
+1464,1462,"Clean gradle cache....\nSama dengan hapus directory cache gradle yg d user.... Gradle sifatnya global to user, bukan per project.... Cache nya ada di home...",h a y i,,hayinukman,0,25,1,2021,23,14,46
+1465,0,Klo flutter clean mah itu sudah ada di flutternya...,h a y i,,hayinukman,0,25,1,2021,23,15,16
+1466,0,Klo clean cache: \nKau masuk ke home directory user kau...,h a y i,,hayinukman,0,25,1,2021,23,15,36

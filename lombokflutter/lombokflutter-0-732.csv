@@ -1,0 +1,645 @@
+id,reply_to_msg_id,text,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc,first_name,last_name,phone,username
+1,0,,29,5,2018,15,37,37,,,0,
+5,0,,29,5,2018,15,44,36,Aryan,,0,LinkerErrors
+10,0,,1,6,2018,7,13,54,"Jiad, ジハード",,0,jiadmiftx
+34,0,,1,6,2018,13,29,9,"Jiad, ジハード",,0,jiadmiftx
+37,0,Pak ketua @MbunMalam,23,1,2019,17,17,54,"Jiad, ジハード",,0,jiadmiftx
+38,37,Nte admin bukan saya😂,23,1,2019,17,18,18,Anwar,,0,MbunMalam
+39,0,Dart Programming Language based,23,1,2019,19,17,30,Erfandi,"Maula Yusnu, Lalu",0,nunenuh
+40,39,This mean we will study about dart programing if have understand we can move to flutter framework mr??,24,1,2019,4,21,42,Anwar,,0,MbunMalam
+41,0,Its better to do that of course...,24,1,2019,6,20,21,Erfandi,"Maula Yusnu, Lalu",0,nunenuh
+43,0,Wkwk,24,1,2019,10,13,5,Aryan,,0,LinkerErrors
+44,0,Asik....,24,1,2019,10,23,26,h a y i,,0,hayinukman
+45,0,Wkwk,24,1,2019,11,47,27,Aryan,,0,LinkerErrors
+46,0,apaan ini??,22,2,2019,4,10,36,h a y i,,0,hayinukman
+47,0,😆,22,2,2019,4,10,37,h a y i,,0,hayinukman
+48,0,baru nyadar ada group ini....,22,2,2019,4,11,1,h a y i,,0,hayinukman
+49,0,wkwkwkwkwk,22,2,2019,4,11,2,h a y i,,0,hayinukman
+50,0,Krik krik krik,22,2,2019,4,11,24,Eby,Sofyan,6287765335445,ebysofyan
+51,0,lol,22,2,2019,4,11,32,h a y i,,0,hayinukman
+52,0,LOL,22,2,2019,5,57,16,"Jiad, ジハード",,0,jiadmiftx
+53,0,https://flutter.dev/create\n\nserbuu submit app lumayan hadiahnya ni,23,2,2019,4,26,57,Anwar,,0,MbunMalam
+54,53,,23,2,2019,8,39,43,"Jiad, ジハード",,0,jiadmiftx
+55,0,https://flutter.io/research-signup.,14,5,2019,3,29,9,Anwar,,0,MbunMalam
+59,0,Wkwk,13,6,2019,6,35,27,"Jiad, ジハード",,0,jiadmiftx
+64,0,,13,6,2019,8,41,4,no one know,,0,a_ulul15
+65,0,,13,6,2019,8,41,4,no one know,,0,a_ulul15
+66,0,ambl data di array list kelas lain gmna bang???,13,6,2019,8,41,21,no one know,,0,a_ulul15
+67,0,D jadikan static,13,6,2019,9,4,1,h a y i,,0,hayinukman
+68,0,List nya.,13,6,2019,9,4,1,h a y i,,0,hayinukman
+69,0,,13,6,2019,9,7,4,Islamul,Hadi,0,seijushiro
+70,0,List<String> daftarsuperhero = new List();\n\n\ngini kah>>???,13,6,2019,9,9,2,no one know,,0,a_ulul15
+71,0,Di tambahin static d depan nya,13,6,2019,9,26,10,h a y i,,0,hayinukman
+72,71,Di depan apa?,13,6,2019,9,30,15,no one know,,0,a_ulul15
+73,0,Dpan String?,13,6,2019,9,30,24,no one know,,0,a_ulul15
+74,0,static List<Container> daftarsuperhero = new List();,13,6,2019,9,31,34,no one know,,0,a_ulul15
+75,0,https://dart.dev/guides/language/language-tour,13,6,2019,9,33,4,h a y i,,0,hayinukman
+83,0,cara ngambil data json sperti ini gimana bang?,15,6,2019,11,50,46,Romeo,KT,0,romeokt
+84,0,Pke http request,15,6,2019,11,59,26,"Jiad, ジハード",,0,jiadmiftx
+85,0,boleh minta refrensi ndk bang?\ngimana modelnya klo pke http request,15,6,2019,12,0,23,Romeo,KT,0,romeokt
+86,0,https://medium.com/@paul.allies/flutter-http-get-json-and-list-4e8b014ee541,15,6,2019,12,2,0,"Jiad, ジハード",,0,jiadmiftx
+87,0,terimakasih bang biar sy coba baca dulu,15,6,2019,12,2,47,Romeo,KT,0,romeokt
+88,83,Tergantung...\nKlo di Server pk http request kalo di file biasa tinggal pake File...,15,6,2019,12,2,58,h a y i,,0,hayinukman
+89,0,nah iya :'v,15,6,2019,12,3,28,"Jiad, ジハード",,0,jiadmiftx
+90,0,"kira kira bentuk json nya gini bang, https://kitsu.io/api/edge/manga/",15,6,2019,12,8,8,Romeo,KT,0,romeokt
+91,0,"ada data yg bentuknya list, trus ada array di dalemnya",15,6,2019,12,8,35,Romeo,KT,0,romeokt
+92,0,Nah itu mah tinggal pake http aja.,15,6,2019,12,8,40,h a y i,,0,hayinukman
+93,86,modelnya gini ndk bang yg request itu?,15,6,2019,12,9,5,Romeo,KT,0,romeokt
+94,0,bingung backend nya gimana,15,6,2019,12,9,15,Romeo,KT,0,romeokt
+95,94,Ini mau baca di flutter kan? Android apa Web?,15,6,2019,12,10,51,h a y i,,0,hayinukman
+96,0,flutter bang,15,6,2019,12,11,3,Romeo,KT,0,romeokt
+97,0,"Yah, ngapain pusingin backend??",15,6,2019,12,11,17,h a y i,,0,hayinukman
+98,0,gimana bang cara make http itu?,15,6,2019,12,12,5,Romeo,KT,0,romeokt
+99,86,Dibaca dulu ini,15,6,2019,12,12,46,"Jiad, ジハード",,0,jiadmiftx
+100,0,"Ada kok caranya disitu mas,",15,6,2019,12,13,2,"Jiad, ジハード",,0,jiadmiftx
+101,0,siap terimakasih bang,15,6,2019,12,14,6,Romeo,KT,0,romeokt
+102,101,sama2 mas,15,6,2019,12,14,16,Aufa,Ahdi,0,aufaahdi
+103,0,https://daengweb.id/belajar-flutter-basic-5-http-request,15,6,2019,12,14,43,"Jiad, ジハード",,0,jiadmiftx
+104,0,"versi indo mas,. :D",15,6,2019,12,14,50,"Jiad, ジハード",,0,jiadmiftx
+105,0,lebih mantap lagi siapp,15,6,2019,12,15,8,Romeo,KT,0,romeokt
+106,104,yang india mas,15,6,2019,12,15,28,Aufa,Ahdi,0,aufaahdi
+107,106,"adaa,..",15,6,2019,12,15,37,"Jiad, ジハード",,0,jiadmiftx
+108,0,https://www.youtube.com/watch?v=skQ_m8Tcdlk,15,6,2019,12,16,3,"Jiad, ジハード",,0,jiadmiftx
+109,0,"Raja Yogan :""v",15,6,2019,12,16,11,"Jiad, ジハード",,0,jiadmiftx
+110,0,mantap,15,6,2019,12,16,26,Romeo,KT,0,romeokt
+111,108,kirain kmu kasih saya link dr zakir,15,6,2019,12,16,54,Aufa,Ahdi,0,aufaahdi
+112,0,wkwkw,15,6,2019,12,17,5,"Jiad, ジハード",,0,jiadmiftx
+113,0,the best bang,15,6,2019,12,18,41,Romeo,KT,0,romeokt
+114,0,Terminology:\nBackend = aplikasi Core server yg hasil output nya yg diterima oleh user adalah file json atau file xml.\n\nFront end = aplikasi web/mobile/desktop yg umumnya menjadi pengguna data yg d hasil kan oleh backend....\n\nJangan kebalik2....,15,6,2019,12,19,29,h a y i,,0,hayinukman
+115,0,Makasih bang @hayinukman,15,6,2019,12,20,31,Romeo,KT,0,romeokt
+134,0,Referensi 😊\n13GB 😱\n\nhttps://drive.google.com/uc?id=1zBU0JLVhZKTiENiKQHub8Kw2Rhy7CXRs&export=download,29,6,2019,14,25,4,Aryan,,0,LinkerErrors
+135,134,cc @nakpisang  download di PC BC,29,6,2019,14,42,16,h a y i,,0,hayinukman
+136,135,still download \,29,6,2019,14,42,41,RONI {Mataram},,0,nakpisang
+137,0,SEDIH. file was moved to D. but ndek mele,29,6,2019,14,45,30,RONI {Mataram},,0,nakpisang
+138,39,Asik,29,6,2019,14,48,12,Guntur Sulistyo,Raharjo,0,GunturSulistyoRaharjo
+139,135,kalau udah ke download sy minta dong :D,29,6,2019,14,49,29,Roby Huzwandar,,0,robyhuzwandar
+140,0,,29,6,2019,14,57,51,RONI {Mataram},,0,nakpisang
+141,0,besar amat yak badannya,29,6,2019,14,58,12,RONI {Mataram},,0,nakpisang
+142,0,FILENYA,29,6,2019,14,58,16,RONI {Mataram},,0,nakpisang
+143,0,maksud saya,29,6,2019,14,58,18,RONI {Mataram},,0,nakpisang
+144,134,ukuran setelah di download : 14GB,29,6,2019,23,9,36,Aryan,,0,LinkerErrors
+145,144,Password : coursesdaddy.com,30,6,2019,0,56,23,Aryan,,0,LinkerErrors
+147,144,mantap,30,6,2019,2,10,7,Roby Huzwandar,,0,robyhuzwandar
+148,144,passwordnya apa???,30,6,2019,2,36,7,RONI {Mataram},,0,nakpisang
+149,145,@nakpisang,30,6,2019,2,38,11,Roby Huzwandar,,0,robyhuzwandar
+150,0,naah ok2 thanks,30,6,2019,2,38,38,RONI {Mataram},,0,nakpisang
+151,144,Boleh dibagi om ?,30,6,2019,3,17,35,Rian Asmara P.,,0,rianasmaraputra
+152,151,Bisa om,30,6,2019,6,11,14,Aryan,,0,LinkerErrors
+153,144,Copy ke server yan,30,6,2019,7,20,41,Guntur Sulistyo,Raharjo,0,GunturSulistyoRaharjo
+154,148,Boleh mntaa om😊,30,6,2019,7,47,59,,,0,
+155,153,Siap mas,30,6,2019,8,20,11,Aryan,,0,LinkerErrors
+156,0,#ASK\n\n\nBagaimana cara agara bottomsheetnya tidak ketutupan sama keyboardnya ?\n\nThanks,30,6,2019,11,58,58,Rian Asmara P.,,0,rianasmaraputra
+158,0,Terculik,1,7,2019,10,15,9,Aryan,,0,LinkerErrors
+159,0,😂,1,7,2019,10,15,22,Aryan,,0,LinkerErrors
+160,0,https://flutterbyexample.com/stateful-widget-lifecycle/,17,7,2019,2,36,26,Roby Huzwandar,,0,robyhuzwandar
+161,0,,17,7,2019,12,11,36,,,0,
+162,0,,19,7,2019,3,24,41,Roby Huzwandar,,0,robyhuzwandar
+163,0,,21,7,2019,10,6,58,M. Husnul,Wardi,0,bangnull_id
+164,0,#ASK \n\nhttps://android-developers.googleblog.com/2019/03/changes-to-google-play-developer-api.html\n\nupdate ini di flutter gimna ya \n\ncolek @hayinukman,23,7,2019,3,11,43,Roby Huzwandar,,0,robyhuzwandar
+165,0,dn colek teman2 yg lain,23,7,2019,3,11,51,Roby Huzwandar,,0,robyhuzwandar
+166,0,nah kurang tau juga itu....,23,7,2019,3,13,30,h a y i,,0,hayinukman
+167,0,kalau di native itu di bagian mananya bang ?,23,7,2019,3,14,1,Roby Huzwandar,,0,robyhuzwandar
+168,0,https://github.com/flutter/flutter/issues/34881,23,7,2019,3,14,21,Roby Huzwandar,,0,robyhuzwandar
+169,0,,26,7,2019,14,22,11,bukan siapa siapa,,0,rakyatsipil62
+170,0,,28,7,2019,2,7,40,yifberlin,,0,yifberlin
+171,0,"Roby Huzwandar al Kuthiy, [30.07.19 17:20]\nwuiih ngeriiii lengkap bgt :\n\nhttps://github.com/iampawan/FlutterExampleApps",30,7,2019,9,21,1,Roby Huzwandar,,0,robyhuzwandar
+172,0,"Mau minta penjelasan dkit mngenai ini bang, itu kita harus bikin class baru apa gimana?",31,7,2019,17,28,57,,,0,
+173,0,,3,8,2019,1,36,10,ophwl,,0,ImaginationCall
+174,172,Setau saya... Itu bisa di buatkan class baru klo mau di simpen di file main.dart jika di file main.dart juga ada class lain.. bisa juga di buatkan file tersendiri buat nampung class itu saja..,4,8,2019,4,22,11,Aufa,Ahdi,0,aufaahdi
+175,0,"permisi bang mau nanya\nada yg pernah make http request flutter pke data restapi di localhost?\nsy pke flutter web, trus datanya dri restapi di localhost. nah web flutter sma webservicenya sma"" run di localhost cuma beda port.\nproblem nya : get data json (local) pke http request.\nterimakasih sebelumnya",6,8,2019,13,27,14,Romeo,KT,0,romeokt
+176,0,,7,8,2019,2,53,16,AIbnuHibban,,0,AibnuHibban
+177,0,,7,8,2019,3,13,39,Nanang,Prasetya,0,biscuit_uiux
+178,0,,7,8,2019,5,49,43,M̵͙̜͖̜̠̬̣̾̓̽̃̈́̈͘͜r̶̀̈́̓͗̌͛ ̤̖̲̝͙̝̯͕,É̶̘̗̫̱̠̥̤̭̀͒ṅ̷̢̢̥̬̘̹̯̾͑͝t̷̐ ̡̫̽͑͆͆̔̓á̴̲͈͍̄̏͛̇̉͠ ̘ḧ̶͍͔͍͉̯̣̤̟́̓,0,Mohdd_20
+179,0,Hello,7,8,2019,5,49,47,M̵͙̜͖̜̠̬̣̾̓̽̃̈́̈͘͜r̶̀̈́̓͗̌͛ ̤̖̲̝͙̝̯͕,É̶̘̗̫̱̠̥̤̭̀͒ṅ̷̢̢̥̬̘̹̯̾͑͝t̷̐ ̡̫̽͑͆͆̔̓á̴̲͈͍̄̏͛̇̉͠ ̘ḧ̶͍͔͍͉̯̣̤̟́̓,0,Mohdd_20
+180,0,hello 🖐,7,8,2019,5,52,38,h a y i,,0,hayinukman
+181,0,🖐,7,8,2019,5,53,10,Roby Huzwandar,,0,robyhuzwandar
+182,0,Mau tnye,7,8,2019,6,36,53,M̵͙̜͖̜̠̬̣̾̓̽̃̈́̈͘͜r̶̀̈́̓͗̌͛ ̤̖̲̝͙̝̯͕,É̶̘̗̫̱̠̥̤̭̀͒ṅ̷̢̢̥̬̘̹̯̾͑͝t̷̐ ̡̫̽͑͆͆̔̓á̴̲͈͍̄̏͛̇̉͠ ̘ḧ̶͍͔͍͉̯̣̤̟́̓,0,Mohdd_20
+183,0,Tanya,7,8,2019,6,36,56,M̵͙̜͖̜̠̬̣̾̓̽̃̈́̈͘͜r̶̀̈́̓͗̌͛ ̤̖̲̝͙̝̯͕,É̶̘̗̫̱̠̥̤̭̀͒ṅ̷̢̢̥̬̘̹̯̾͑͝t̷̐ ̡̫̽͑͆͆̔̓á̴̲͈͍̄̏͛̇̉͠ ̘ḧ̶͍͔͍͉̯̣̤̟́̓,0,Mohdd_20
+184,0,Bagaimana hendak contral raspberry pie menggunakan flutter,7,8,2019,6,37,21,M̵͙̜͖̜̠̬̣̾̓̽̃̈́̈͘͜r̶̀̈́̓͗̌͛ ̤̖̲̝͙̝̯͕,É̶̘̗̫̱̠̥̤̭̀͒ṅ̷̢̢̥̬̘̹̯̾͑͝t̷̐ ̡̫̽͑͆͆̔̓á̴̲͈͍̄̏͛̇̉͠ ̘ḧ̶͍͔͍͉̯̣̤̟́̓,0,Mohdd_20
+185,184,"harus ada bridge yang menhubungkan antara Raspi dengan Flutter….\n\nBasically, you just need to make the raspi act as a Server, and your flutter apps as client....",7,8,2019,6,39,47,h a y i,,0,hayinukman
+186,0,Bagaimana caranya,7,8,2019,6,46,51,M̵͙̜͖̜̠̬̣̾̓̽̃̈́̈͘͜r̶̀̈́̓͗̌͛ ̤̖̲̝͙̝̯͕,É̶̘̗̫̱̠̥̤̭̀͒ṅ̷̢̢̥̬̘̹̯̾͑͝t̷̐ ̡̫̽͑͆͆̔̓á̴̲͈͍̄̏͛̇̉͠ ̘ḧ̶͍͔͍͉̯̣̤̟́̓,0,Mohdd_20
+187,0,"di Raspi, buat python script yg bertugas sebagai server….\nServer ini nanti menerima request POST dan GET….\ndan ketika ada POST request, proses untuk mengeksekusi PIN GPIO dari raspberry pi….\n\n\nJalankan script ini, keudian koneksikan dengan internet….\nCek IP address dari raspi itu, kemudian lakukan HTTP call (get/post) dari flutter….",7,8,2019,6,56,5,h a y i,,0,hayinukman
+188,187,"klo udah gitu, raspinya itu gk hanya untuk aplikasi flutter aja, tp semuanya (web/desktop/android)",7,8,2019,8,24,44,Aryan,,0,LinkerErrors
+189,187,"pastinya harus ip statis,,,sewa inetnya yg dedicated,,sewa dmn? di netzen aja wkwkwkwkkw",7,8,2019,8,26,53,Guntur Sulistyo,Raharjo,0,GunturSulistyoRaharjo
+190,189,"ah, 🤣",7,8,2019,8,27,21,Aryan,,0,LinkerErrors
+191,0,ga harus IP statis sih kalo untuk devices IOT ini....,7,8,2019,9,1,19,h a y i,,0,hayinukman
+192,0,gila aja satu2 pake ip statis....,7,8,2019,9,1,26,h a y i,,0,hayinukman
+193,0,hahaha namanya juga promosi pak,7,8,2019,9,1,38,Guntur Sulistyo,Raharjo,0,GunturSulistyoRaharjo
+194,0,kalo deploy 100 unit bisa masuk angka milyaran… -_-,7,8,2019,9,1,42,h a y i,,0,hayinukman
+195,0,,7,8,2019,9,3,30,<ambo/>,,0,
+196,193,Wakaka,7,8,2019,10,2,35,Aryan,,0,LinkerErrors
+201,0,lah bahas apa ini wkwk,7,8,2019,10,3,54,Roby Huzwandar,,0,robyhuzwandar
+202,0,Astaga salah kirim,7,8,2019,10,3,59,Guntur Sulistyo,Raharjo,0,GunturSulistyoRaharjo
+203,0,😂,7,8,2019,10,4,4,Roby Huzwandar,,0,robyhuzwandar
+204,0,https://medium.com/@authmane512/how-to-build-an-apk-from-command-line-without-ide-7260e1e22676,7,8,2019,22,46,22,Aryan,,0,LinkerErrors
+205,0,https://medium.com/google-developer-experts/exploring-the-android-app-bundle-ca16846fa3d7,7,8,2019,22,46,30,Aryan,,0,LinkerErrors
+206,0,,8,8,2019,0,45,17,bob,,0,nankaisuu
+207,0,,8,8,2019,1,30,12,Komang,Suwima,0,Suwima
+208,0,,10,8,2019,13,7,11,,,0,
+209,0,,13,8,2019,8,2,53,Azizun,,0,aziznntk
+210,0,Kpan ya ada beasiswa utk kelas flutter dicoding lol,13,8,2019,15,42,32,Devin,Pradana,0,DavePradana
+211,204,"Ini yg utk linux ya,  kalo yg di windows gmna?",14,8,2019,0,17,36,Azizun,,0,aziznntk
+212,211,https://medium.com/@quicky316/install-flutter-sdk-on-windows-without-android-studio-102fdf567ce4,14,8,2019,0,18,46,Roby Huzwandar,,0,robyhuzwandar
+213,0,eh tapi husus untuk windows ori yah,14,8,2019,0,19,0,Roby Huzwandar,,0,robyhuzwandar
+214,0,yg bajakan gk boleh,14,8,2019,0,19,3,Roby Huzwandar,,0,robyhuzwandar
+215,0,,16,8,2019,0,13,42,Nazham,,0,
+216,0,,17,8,2019,13,1,3,Ari Purnama,Aji,0,ariaji25
+217,0,,17,8,2019,20,49,6,Hidayatullah,,0,Yout_0
+218,0,salam kenal dan mohon bimbingannya,17,8,2019,20,49,18,Hidayatullah,,0,Yout_0
+219,0,,24,8,2019,0,39,45,Muhammad,Fatkhur Rozi,0,kakzieaja
+220,0,,24,8,2019,1,41,3,Rosid,Mustofa,0,rosid3376
+221,0,,24,8,2019,9,49,4,Alfian,NM,0,alfian_nm
+222,0,,24,8,2019,11,24,3,Yadin,,0,Tambora1
+223,0,,25,8,2019,2,7,49,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+224,0,,28,8,2019,11,57,4,Tri,,0,Tribrotos
+225,0,"Assalamualaikum...\n\nSobat, klo aplikasi udh d upload d playstore, terus pas di instalasi oleh banyak tipe Hp android, dan ada yg bisa tp ada jg yg hanya muncul Layar Hitam..\n\nKira2 problemnya dmna ya??",29,8,2019,3,10,12,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+226,0,wa’alaykumussalam....,29,8,2019,3,10,40,h a y i,,0,hayinukman
+227,0,you are not dukun my friend…..,29,8,2019,3,10,50,h a y i,,0,hayinukman
+228,0,always include crashlytic atau fabric di app nya...,29,8,2019,3,11,15,h a y i,,0,hayinukman
+229,0,dari situ nanti kau bisa lihat problem apa yg sebenarnya terjadi di user….,29,8,2019,3,11,38,h a y i,,0,hayinukman
+230,0,tanpa harus datengin usernya satu2 buat ngecek apa masalahnya....,29,8,2019,3,11,53,h a y i,,0,hayinukman
+231,0,https://pub.dev/packages/flutter_crashlytics,29,8,2019,3,12,24,h a y i,,0,hayinukman
+232,0,dari dashboard nya crashlytics kau bisa dapet paling ga log device user nya seperti apa…..,29,8,2019,3,13,13,h a y i,,0,hayinukman
+233,0,terutama yg related dengan crash….,29,8,2019,3,13,19,h a y i,,0,hayinukman
+234,0,"ANR, atau sejenisnya yg nge block user....",29,8,2019,3,13,36,h a y i,,0,hayinukman
+235,0,sekali lagi…..\nprogrammer bukan dukun yg bisa tau langsung dari cuma ngeliat raut muka app di device user…..,29,8,2019,3,14,12,h a y i,,0,hayinukman
+236,0,pake bantuan tools lain buat ngemonitor/menganalisa masalah d user...,29,8,2019,3,14,40,h a y i,,0,hayinukman
+237,0,"apalagi usernya ada ratusan, bahkan ribuan, atau jutaan….. gile aja klo d cek atu2…..",29,8,2019,3,15,0,h a y i,,0,hayinukman
+239,0,Dukun,29,8,2019,3,17,8,Alfian,NM,0,alfian_nm
+240,0,😂😂😂😂😂,29,8,2019,3,52,15,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+241,0,👍,29,8,2019,3,52,17,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+242,0,"Yg pernah bikin Maps Route flutter, share dong sobat.. 😁",30,8,2019,0,53,16,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+243,0,Yg gini,30,8,2019,0,53,37,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+244,0,Atau ada yg tau cara send koordinat lokasi user ke kolom tujuan di Aplikasi Google Maps??,30,8,2019,0,54,26,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+246,0,,7,9,2019,19,19,39,Nanda,Adisaputra,0,Nandaadisaputra100
+247,0,,18,9,2019,1,27,53,Alwan,H,0,alwan_h
+248,0,Aplikasi buat pemrograman flutter apa ya?,18,9,2019,13,36,15,Alfian,NM,0,alfian_nm
+249,248,"bisa menggunakan Android studio / VSCode, etc",18,9,2019,13,36,36,Devin,Pradana,0,DavePradana
+250,0,Berarti kalo mau buat aplikasi login bisa pake VSCode?,18,9,2019,13,37,6,Alfian,NM,0,alfian_nm
+251,250,Pake apapun bisa mas.. seperti yang di jelaskan mas devin..,18,9,2019,13,39,8,Aufa,Ahdi,0,aufaahdi
+252,0,Oke,18,9,2019,13,39,31,Alfian,NM,0,alfian_nm
+253,0,Di VSCode bisa buat aplikasi gak?,18,9,2019,13,47,31,Alfian,NM,0,alfian_nm
+254,253,memang itu tujuan utama codeEditor spti vsCode om.,18,9,2019,13,47,54,Devin,Pradana,0,DavePradana
+255,253,"ga bisa mas,,,",18,9,2019,13,48,29,h a y i,,0,hayinukman
+256,0,mas musti nulis code nya dulu,18,9,2019,13,48,35,h a y i,,0,hayinukman
+257,0,"terus compile,",18,9,2019,13,48,39,h a y i,,0,hayinukman
+258,0,baru jadi aplikasi....,18,9,2019,13,48,43,h a y i,,0,hayinukman
+259,0,vscode nya sendiri ga bisa bikin apps…,18,9,2019,13,48,53,h a y i,,0,hayinukman
+260,0,"sy dah dr kemarin nyobain nyuruh dia bikin,,,",18,9,2019,13,49,3,h a y i,,0,hayinukman
+261,0,tapi diem aja dianya….,18,9,2019,13,49,7,h a y i,,0,hayinukman
+262,0,#sad,18,9,2019,13,49,9,h a y i,,0,hayinukman
+263,0,,18,9,2019,13,49,15,h a y i,,0,hayinukman
+264,0,Oo ok,18,9,2019,13,50,2,Alfian,NM,0,alfian_nm
+265,255,yang ini sampe seterusnya lucu,18,9,2019,13,51,6,Ari Purnama,Aji,0,ariaji25
+266,0,😅,18,9,2019,13,51,17,Devin,Pradana,0,DavePradana
+267,0,,28,9,2019,12,52,40,A.B.U,,0,oz4ns
+268,0,,6,10,2019,14,4,56,Budhin22,,0,Budhin22
+269,0,,12,10,2019,2,41,49,linkonet.mediaid,,0,cso_linkonetmediaid
+270,0,,20,10,2019,13,27,55,imam,syuhada,0,Imamsyyuhada
+271,0,,20,10,2019,15,53,37,,,0,
+272,0,,26,10,2019,18,38,57,Wira,Ade,0,Wira_AP
+273,0,,30,10,2019,10,47,42,Gilang,Ramdhani,0,Gilangramdhanip
+274,0,Flutter sepi yak,30,10,2019,12,4,10,Ari Purnama,Aji,0,ariaji25
+275,0,"Iya, Sepi karna kemaren udah di ambil semua sama kotlin everywhere",30,10,2019,12,5,19,Aufa,Ahdi,0,aufaahdi
+276,0,Wkwkwkwkwk 😅,30,10,2019,12,15,25,Ari Purnama,Aji,0,ariaji25
+277,0,Ayok flutter ngadain event kek gitu juga,30,10,2019,12,15,41,Ari Purnama,Aji,0,ariaji25
+278,0,Ayo flutter jgn mau klah,30,10,2019,12,29,53,Devin,Pradana,0,DavePradana
+279,0,😃,30,10,2019,12,29,57,Devin,Pradana,0,DavePradana
+280,0,Flutter everywhere...,30,10,2019,13,6,32,h a y i,,0,hayinukman
+281,0,Iya sih bisa buat ios android Web desktop.,30,10,2019,13,6,46,h a y i,,0,hayinukman
+282,0,Single code...,30,10,2019,13,6,50,h a y i,,0,hayinukman
+283,0,Bsa deploy ke semuanya...,30,10,2019,13,7,3,h a y i,,0,hayinukman
+284,283,Bener2 bisa everywhere,30,10,2019,13,19,3,Aufa,Ahdi,0,aufaahdi
+285,0,,30,10,2019,13,19,32,Guntur Sulistyo,Raharjo,0,GunturSulistyoRaharjo
+286,275,"dart juga everywhere loh, 🤣",30,10,2019,13,20,41,Aryan,,0,LinkerErrors
+287,0,https://dart.dev/platforms,30,10,2019,13,21,43,Aryan,,0,LinkerErrors
+288,0,backend jg okeheee\n\nhttps://dart.dev/tutorials/server/httpserver,30,10,2019,13,23,16,Aryan,,0,LinkerErrors
+289,0,,4,11,2019,1,42,6,MOH,FAHRURROZI,0,mohfahrurrozi
+290,0,"@hayinukman yg ini jg bang, jgn ketinggalan 🙈",4,11,2019,4,49,25,Devin,Pradana,0,DavePradana
+291,0,😆 ini lead nya si @MbunMalam mana nih??,4,11,2019,4,49,57,h a y i,,0,hayinukman
+292,291,Masih mengungsi ke .kt dulu bang😂,4,11,2019,5,1,57,Anwar,,0,MbunMalam
+293,0,btw lombok.kt kok ga ada ya ? yg lain2 ada atau sy aja yg blm trundang 🙈,4,11,2019,5,3,32,Devin,Pradana,0,DavePradana
+294,293,bikin mas.. gpp… nanti kita support… 😄,4,11,2019,5,3,51,h a y i,,0,hayinukman
+295,293,isinya itu lagi lagii wkwk,4,11,2019,5,3,59,"Jiad, ジハード",,0,jiadmiftx
+296,0,sy dah kebanyakan group yg sy buat...,4,11,2019,5,4,0,h a y i,,0,hayinukman
+297,295,wkwk L4,4,11,2019,5,4,5,Devin,Pradana,0,DavePradana
+298,0,kena limit,4,11,2019,5,4,6,h a y i,,0,hayinukman
+299,295,ayo kk jihad buat aja,4,11,2019,5,4,19,Devin,Pradana,0,DavePradana
+300,299,wkwk side yg buat om :v,4,11,2019,5,4,49,"Jiad, ジハード",,0,jiadmiftx
+301,0,"sbnrnya sya malu mau buat krn blm bner2 bisa dikatakan sudah paham kotlin, tpi krn sya ingin memotivasi dri ya sudah lah, sya buat ya😅",4,11,2019,5,5,47,Devin,Pradana,0,DavePradana
+302,0,ntr sepi kaya group ini :v,4,11,2019,5,6,11,"Jiad, ジハード",,0,jiadmiftx
+303,0,lombok android dh mewakili kayanya wkwk,4,11,2019,5,6,21,"Jiad, ジハード",,0,jiadmiftx
+304,301,sy aja bikin group VR/AR dev ga tau apa2 ttg itu...,4,11,2019,5,7,13,h a y i,,0,hayinukman
+305,0,sama nasibnya kayak ISQA… 😄,4,11,2019,5,7,20,h a y i,,0,hayinukman
+306,0,ga tau apa2… wkwkwkwkw....,4,11,2019,5,7,26,h a y i,,0,hayinukman
+307,304,cek inv bng 🙈,4,11,2019,5,7,35,Devin,Pradana,0,DavePradana
+308,0,akhirnya setelah membernya bejibun sy serahkan ke orang lain....,4,11,2019,5,7,40,h a y i,,0,hayinukman
+309,0,Wah sepi ntar grub androidnya😁,4,11,2019,5,8,45,Anwar,,0,MbunMalam
+310,0,"https://www.udemy.com/course/flutter-advanced-course/?couponCode=78CA8AD83ED03CCEC7C6\n\nhttps://www.udemy.com/course/flutter-intermediate/?couponCode=F2420C447705004A84C8\n\nhttps://www.udemy.com/course/flutters-beginners-course/?couponCode=B39E864BE42AD1BF6B29\n\nBagi yang mau free course flutter, silahkan ambil kupon ini..",4,11,2019,8,4,26,Anwar,,0,MbunMalam
+311,0,ada modul flutter,4,11,2019,10,23,42,MOH,FAHRURROZI,0,mohfahrurrozi
+312,0,Assalamualaikum...\nMau tanya gan2\nApakah dart hanya bisa di jalankan di system yg 64 bit ya gan?\nCoz sya coba install di linux 32 bit gak bisa\nTerima kasih...,5,11,2019,13,37,31,Budhin22,,0,Budhin22
+313,312,wa’alaykumussalam…\napa ga install yg 64 aja mas?,5,11,2019,13,49,29,h a y i,,0,hayinukman
+314,0,rata2 mesin sekarang dah 64 bit...,5,11,2019,13,49,40,h a y i,,0,hayinukman
+315,0,kecuali pake Raspi atau intel pentium....,5,11,2019,13,49,53,h a y i,,0,hayinukman
+316,0,Owh gitu coz laptop sya msh yg 32 bit😥,5,11,2019,14,18,26,Budhin22,,0,Budhin22
+317,316,spec laptopnya apa ?,5,11,2019,14,20,20,Devin,Pradana,0,DavePradana
+318,0,processor type dan seri,5,11,2019,14,20,26,Devin,Pradana,0,DavePradana
+319,318,Intel Celeron N2840,5,11,2019,14,23,6,Budhin22,,0,Budhin22
+320,319,"coba mas cek di dokumentasi resmi intel\n\nhttps://ark.intel.com/content/www/us/en/ark/products/82103/intel-celeron-processor-n2840-1m-cache-up-to-2-58-ghz.html\n\ndisitu dikatakan processor mas itu sudah arsitektur 64bit, jadi seharusnya sudah bisa diinstall OS 64bit",5,11,2019,14,24,18,Devin,Pradana,0,DavePradana
+321,0,,5,11,2019,14,24,33,Devin,Pradana,0,DavePradana
+322,0,self-diagnosis itu bahaya 😅,5,11,2019,14,25,19,Devin,Pradana,0,DavePradana
+323,0,Sya gak pernah cek coz dah biasa install yg 32 bit😅,5,11,2019,14,27,8,Budhin22,,0,Budhin22
+324,0,Maksih infonya gan,5,11,2019,14,27,26,Budhin22,,0,Budhin22
+325,0,OS yg 64bit ga ada beda rasanya kok mas,5,11,2019,14,27,27,Devin,Pradana,0,DavePradana
+326,0,sama2,5,11,2019,14,27,28,Devin,Pradana,0,DavePradana
+327,325,Iya sih😅,5,11,2019,14,30,7,Budhin22,,0,Budhin22
+328,0,,9,11,2019,12,33,29,,,0,
+329,0,https://octoverse.github.com/#top-languages,9,11,2019,17,0,44,Aryan,,0,LinkerErrors
+330,0,Wih dart,10,11,2019,7,21,24,no one know,,0,a_ulul15
+331,0,,13,11,2019,2,46,50,Didik,,0,didikk1
+332,0,,17,11,2019,17,50,44,Candra,Prasetya,0,candraprasetya
+333,0,"Assalammualaikum.. Selamat pagi, salam kenal. Mohon bantuannya..",17,11,2019,17,52,58,Candra,Prasetya,0,candraprasetya
+334,333,"Waalaikumsalam, salam kenal juga pak...",18,11,2019,1,10,14,Aufa,Ahdi,0,aufaahdi
+335,0,Flutter web responsive... https://kardusinfo.com/flutter/\n\nUntuk source codenya bisa dilihat di github.com/candraprasetya\n\nSemoga bermanfaat hehehe,18,11,2019,5,26,50,Candra,Prasetya,0,candraprasetya
+336,0,,20,11,2019,2,51,3,muas,dev,0,Muasdev
+337,0,,20,11,2019,13,15,3,faozanafandi,,0,
+338,0,,20,11,2019,13,50,47,Muhammad,Thohir,0,thohirdev
+339,0,,20,11,2019,14,19,48,Rendi Ramdani,,0,Rendi_Ramdani
+340,0,,20,11,2019,14,44,2,Khalil,Adel,0,khalil3adel
+341,0,,20,11,2019,20,56,19,Muhammad Luthfi,Taqwim,0,Iluth_taqwim
+342,0,,21,11,2019,2,9,19,Ahmad,Subki,0,junioracademyid
+343,0,,21,11,2019,11,18,34,petot,,0,
+344,0,Yuk ketemu disini...\nTgl 8 desember di PALMA\n\nLink:  http://bit.ly/lombokdevmeetup8,21,11,2019,11,18,52,Roby Huzwandar,,0,robyhuzwandar
+345,0,,21,11,2019,16,52,39,Aryan,,0,LinkerErrors
+346,0,,22,11,2019,4,49,29,Yogi,,0,YogiS21
+347,0,,22,11,2019,7,22,52,Zaa,,0,DevPro0011
+348,0,,22,11,2019,8,20,40,Fariza,Ahmad,0,ahmadfariza0410
+349,0,,22,11,2019,9,21,38,,,0,
+350,0,,22,11,2019,14,33,29,Andryan,Nugraha,0,
+351,0,test,25,11,2019,15,28,56,Devin,Pradana,0,DavePradana
+352,0,,25,11,2019,15,35,49,Nasrul,Alawy,0,nasrulalawy
+353,0,"welcome, telat @nasrulalawy 😅",25,11,2019,15,35,59,Devin,Pradana,0,DavePradana
+354,0,Oh ada grupnya 🤣🤣🤣,25,11,2019,15,36,3,Nasrul,Alawy,0,nasrulalawy
+355,0,Mana dong t shirt nya ? 🤣,25,11,2019,15,36,50,Nasrul,Alawy,0,nasrulalawy
+356,0,bikin sendirian ah.. wkwk,25,11,2019,15,56,59,Nasrul,Alawy,0,nasrulalawy
+357,356,Udh ada model designnya bang😁,25,11,2019,16,18,42,Anwar,,0,MbunMalam
+358,356,Ane pake yg ini aja 🤣,25,11,2019,16,19,38,Nasrul,Alawy,0,nasrulalawy
+359,0,Biar pake logo barunya Flutter Community,25,11,2019,16,19,57,Nasrul,Alawy,0,nasrulalawy
+360,0,,25,11,2019,16,20,39,Nasrul,Alawy,0,nasrulalawy
+361,357,kpan realisasi bang ?,25,11,2019,16,29,33,Devin,Pradana,0,DavePradana
+362,361,Pas flutter hackathon international beberapa bln lalu bang,25,11,2019,17,0,28,Anwar,,0,MbunMalam
+363,356,Persennya gimana ni bang?,26,11,2019,3,41,55,Ahmad,Subki,0,junioracademyid
+364,363,Persen apa bang ??,26,11,2019,3,49,4,Nasrul,Alawy,0,nasrulalawy
+366,0,itu stypo…,26,11,2019,3,52,1,h a y i,,0,hayinukman
+367,0,😂,26,11,2019,3,52,7,Aryan,,0,LinkerErrors
+368,364,Pesen pesen 😂,26,11,2019,4,2,52,Ahmad,Subki,0,junioracademyid
+369,0,ikut,26,11,2019,4,3,3,h a y i,,0,hayinukman
+370,0,Ikut juga 😅,26,11,2019,5,36,50,M. Husnul,Wardi,0,bangnull_id
+371,0,"Guys, Ada yg ikut event Startup Weekend besok?",28,11,2019,10,5,13,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+372,371,Low budget😁,28,11,2019,10,8,19,Anwar,,0,MbunMalam
+373,372,Cma 200 kan,28,11,2019,11,39,36,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+374,371,Hadir 🖐️,28,11,2019,11,40,36,M. Husnul,Wardi,0,bangnull_id
+375,374,👍,28,11,2019,11,41,30,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+376,0,Ikut juga kah bang?,28,11,2019,11,48,54,M. Husnul,Wardi,0,bangnull_id
+377,0,Ane ga ikut,28,11,2019,13,13,32,Nasrul,Alawy,0,nasrulalawy
+378,0,Ga disediain tempat nginep 🤣,28,11,2019,13,14,6,Nasrul,Alawy,0,nasrulalawy
+379,0,Nginep d kosan @MbunMalam aja....,28,11,2019,13,14,39,h a y i,,0,hayinukman
+380,0,Tiap malem banyak yg nginep d sana...,28,11,2019,13,14,49,h a y i,,0,hayinukman
+381,0,Luas.. Pake ac...,28,11,2019,13,15,24,h a y i,,0,hayinukman
+382,378,Saya nginep di BTN temen malah,28,11,2019,13,16,34,M. Husnul,Wardi,0,bangnull_id
+383,378,Sini bang wifi kenceng+ac,28,11,2019,13,44,3,Anwar,,0,MbunMalam
+384,0,,29,11,2019,6,27,24,Izaq,Qiu,0,
+385,0,,29,11,2019,14,25,12,Hardiansyah,,0,hardypx
+386,0,,30,11,2019,0,13,38,Hamdani,IT,0,
+387,0,,30,11,2019,8,56,2,N413,,0,sy4hdu
+388,0,Halo Guys...,30,11,2019,9,10,9,h a y i,,0,hayinukman
+389,0,kira2 kalo kita bikin open-course module untuk flutter ada yg berminat kontribusi?,30,11,2019,9,11,16,h a y i,,0,hayinukman
+390,389,@Jiadibo @rianasmaraputra @MbunMalam,30,11,2019,12,13,42,Aryan,,0,LinkerErrors
+391,0,,3,12,2019,20,26,19,Een,Pahlefi,0,eenpahlefi
+392,0,Boleh bang,3,12,2019,23,1,4,Ari Purnama,Aji,0,ariaji25
+393,0,,5,12,2019,9,50,20,Habibi,Abdullah,0,
+394,0,,5,12,2019,10,1,3,Wahyu,Syarif,0,wahyush04
+395,0,,9,12,2019,5,52,39,Muhammad Luthfi,Taqwim,0,Iluth_taqwim
+396,395,"bang mau tanya, kalo di flutter bikin tab bar nya di bawah sliver app bar gimana ya?",9,12,2019,5,53,37,Muhammad Luthfi,Taqwim,0,Iluth_taqwim
+397,396,https://medium.com/@diegoveloper/flutter-persistent-tab-bars-a26220d322bc\n\nBegini maksudnya?,9,12,2019,7,11,13,Aufa,Ahdi,0,aufaahdi
+398,397,"bukan bang, kalo itu kan pake app bar biasa. kalo misal make  nya sliver cara nya gimana?",9,12,2019,8,26,42,Muhammad Luthfi,Taqwim,0,Iluth_taqwim
+399,398,https://medium.com/flutter-community/flutter-increase-the-power-of-your-appbar-sliverappbar-c4f67c4e076f,9,12,2019,9,3,7,Aufa,Ahdi,0,aufaahdi
+401,0,,10,12,2019,1,44,1,Kutbi,,0,tbetzain
+402,0,,10,12,2019,1,48,52,,,0,
+403,0,,10,12,2019,11,11,18,Anggi,Maulida Handayani,0,Nggimaulida
+404,0,Pesan dimana nih,13,12,2019,4,24,6,MOH,FAHRURROZI,0,mohfahrurrozi
+405,0,Udh ada model designnya bang😁,13,12,2019,4,24,6,MOH,FAHRURROZI,0,mohfahrurrozi
+406,405,Iya udh ada,13,12,2019,5,4,7,Anwar,,0,MbunMalam
+407,0,@Jiadibo,13,12,2019,5,4,15,Anwar,,0,MbunMalam
+408,0,hello,15,12,2019,6,46,43,Kutbi,,0,tbetzain
+409,0,Hello,15,12,2019,13,33,17,Aryan,,0,LinkerErrors
+410,0,Hello World,15,12,2019,13,33,27,Dian,,0,muhardian
+411,0,Foo Bar Baz,15,12,2019,13,33,34,Dian,,0,muhardian
+412,0,System out println,15,12,2019,14,26,17,,,0,
+413,412,Dasar Java,15,12,2019,21,41,48,Kutbi,,0,tbetzain
+414,0,hi,17,12,2019,15,31,41,Devin,Pradana,0,DavePradana
+415,0,Hi,18,12,2019,2,20,7,Aryan,,0,LinkerErrors
+416,0,ada rncana flutter meetup bang ? 😁,18,12,2019,2,44,20,Devin,Pradana,0,DavePradana
+417,415,flutter meetup dong. need nih,18,12,2019,2,44,55,RONI {Mataram},,0,nakpisang
+418,417,@Jiadibo,18,12,2019,2,46,48,Aryan,,0,LinkerErrors
+419,0,siapa yg mau jadi pemilik? 😆,18,12,2019,13,22,29,Aryan,,0,LinkerErrors
+420,0,"Grup di buat mei 2018, flutter rilis desember 2018, Gk ada yg ngurus kan hahhaa, siapa yg mau jadi pemilik? 😆😆😆",18,12,2019,13,24,23,Aryan,,0,LinkerErrors
+421,420,"nah ayo, arian jadi lead Lombok Flutter",18,12,2019,14,35,52,Dian,,0,muhardian
+422,421,"Mau sy gantiin pemiliknya bang, saya udah gk megang flutter lg wkwkwkw",18,12,2019,14,41,4,Aryan,,0,LinkerErrors
+423,422,skrng megang apa bang ?,18,12,2019,15,23,19,Devin,Pradana,0,DavePradana
+424,423,sesuatu yang ada di backend aja bang 😅,18,12,2019,15,26,13,Aryan,,0,LinkerErrors
+425,424,"wah2, ada udang dibalik backend ya",18,12,2019,15,26,44,Devin,Pradana,0,DavePradana
+426,0,Wkwkwwk,18,12,2019,18,46,36,Aryan,,0,LinkerErrors
+427,0,,19,12,2019,2,20,37,Tuan,Putri,0,Alifiaalif
+428,0,,19,12,2019,2,55,46,Wiwin,Mistiani,0,
+429,0,,19,12,2019,2,58,32,,,0,
+430,0,Gaees,19,12,2019,10,9,3,Nasrul,Alawy,0,nasrulalawy
+431,0,niiinuuuniiinuuu,19,12,2019,10,9,25,RONI {Mataram},,0,nakpisang
+432,0,Ada yg mau kerja bareng ane gak ?? Flutter.. wkwk,19,12,2019,10,9,31,Nasrul,Alawy,0,nasrulalawy
+433,0,Perusahaan ane lagi nyari 1 lagi flutter dev,19,12,2019,10,9,39,Nasrul,Alawy,0,nasrulalawy
+434,0,Kirim CV ke ane yak 😁😁😁,19,12,2019,10,10,15,Nasrul,Alawy,0,nasrulalawy
+435,0,"Masih loncat"" bang🙈",19,12,2019,10,15,26,Anwar,,0,MbunMalam
+436,435,Gas war.. biar nambah ilmu sekalian,19,12,2019,10,21,11,Aufa,Ahdi,0,aufaahdi
+437,435,Gpp,19,12,2019,10,21,20,Nasrul,Alawy,0,nasrulalawy
+438,0,Sambil tambah2 pengalaman,19,12,2019,10,21,27,Nasrul,Alawy,0,nasrulalawy
+439,0,Santuy,19,12,2019,10,21,29,Nasrul,Alawy,0,nasrulalawy
+440,0,Sini CV 🤭🤭,19,12,2019,10,30,48,Nasrul,Alawy,0,nasrulalawy
+441,433,Remote?,19,12,2019,10,31,31,h a y i,,0,hayinukman
+442,433,brp dijit bang ?,19,12,2019,10,32,55,Devin,Pradana,0,DavePradana
+443,441,Engga 🤣,19,12,2019,10,32,57,Nasrul,Alawy,0,nasrulalawy
+444,0,🙈,19,12,2019,10,32,59,Devin,Pradana,0,DavePradana
+445,443,Ih sedih...,19,12,2019,10,33,14,h a y i,,0,hayinukman
+446,442,"Tergantung permintaan, nanti kan bisa di nego2.. wkwk",19,12,2019,10,33,18,Nasrul,Alawy,0,nasrulalawy
+447,0,Ga family friendly...,19,12,2019,10,33,29,h a y i,,0,hayinukman
+448,445,Kalo bisa remote mah ane udah pulang.. hahaha,19,12,2019,10,33,32,Nasrul,Alawy,0,nasrulalawy
+449,447,Betollll\n\n#ikutngomporin,19,12,2019,11,35,21,Eby,Sofyan,6287765335445,ebysofyan
+450,0,Ayoo.. gaada yg mau nih ?? 🤣,19,12,2019,12,25,30,Nasrul,Alawy,0,nasrulalawy
+451,0,Perusahaan sy baik loh..,19,12,2019,12,25,42,Nasrul,Alawy,0,nasrulalawy
+452,0,Interviewnya cuma sekali 🤣,19,12,2019,12,25,55,Nasrul,Alawy,0,nasrulalawy
+453,451,klo baik ngasi remote… 😄,19,12,2019,12,25,57,h a y i,,0,hayinukman
+454,452,Gaada teknikal tesnya juga.. haha,19,12,2019,12,26,18,Nasrul,Alawy,0,nasrulalawy
+455,453,Belum sebaik itu,19,12,2019,12,26,29,Nasrul,Alawy,0,nasrulalawy
+456,0,🤣,19,12,2019,12,26,31,Nasrul,Alawy,0,nasrulalawy
+457,452,Baik atau lagi butuh karyawan? 🙈\n\nEh,19,12,2019,12,29,26,Eby,Sofyan,6287765335445,ebysofyan
+458,457,Baik..,19,12,2019,12,53,19,Nasrul,Alawy,0,nasrulalawy
+459,0,Soalnya kalo kerjaan ga banyak 🤣,19,12,2019,12,53,34,Nasrul,Alawy,0,nasrulalawy
+460,0,Ngapain ya cari karyawan lagi,19,12,2019,12,53,41,Nasrul,Alawy,0,nasrulalawy
+461,0,Ane juga bingung,19,12,2019,12,53,44,Nasrul,Alawy,0,nasrulalawy
+462,0,Hahaha,19,12,2019,12,53,46,Nasrul,Alawy,0,nasrulalawy
+463,0,Ane aja ngangak2 terus..,19,12,2019,12,53,54,Nasrul,Alawy,0,nasrulalawy
+464,0,Gaada task..,19,12,2019,12,53,59,Nasrul,Alawy,0,nasrulalawy
+465,0,Wkwk,19,12,2019,12,54,3,Nasrul,Alawy,0,nasrulalawy
+466,0,,19,12,2019,12,54,32,Dian,,0,muhardian
+467,463,Gaji buta #eh,19,12,2019,13,16,45,Eby,Sofyan,6287765335445,ebysofyan
+468,467,Hahhaa. 🤣🤣🤣 Yah mau gimana.. gaada task,19,12,2019,13,27,59,Nasrul,Alawy,0,nasrulalawy
+469,467,gaji dota 😂,19,12,2019,14,49,47,Devin,Pradana,0,DavePradana
+470,0,bang abang. mau nanya. memang lama ya. creating flutter project??? ini udah ada 10 menitan. \n\nmaaf jika pertanyaannya kurang berbobot. maklum masih noob,29,12,2019,1,4,12,RONI {Mataram},,0,nakpisang
+471,470,Biasanya sebentar,29,12,2019,1,9,49,Nasrul,Alawy,0,nasrulalawy
+472,471,lama ini jak. udah masuk 20 menitan,29,12,2019,1,10,25,RONI {Mataram},,0,nakpisang
+473,0,Coba ulangi bang.,29,12,2019,1,10,34,Nasrul,Alawy,0,nasrulalawy
+474,0,tak coba lagi,29,12,2019,1,10,43,RONI {Mataram},,0,nakpisang
+475,0,Sy ga pernah coba create pake android studio soalnya,29,12,2019,1,11,23,Nasrul,Alawy,0,nasrulalawy
+476,0,Biasanya pake vscode,29,12,2019,1,11,29,Nasrul,Alawy,0,nasrulalawy
+477,0,kadu ape dong bang,29,12,2019,1,11,31,RONI {Mataram},,0,nakpisang
+478,0,ohhh meh jakku try again,29,12,2019,1,11,40,RONI {Mataram},,0,nakpisang
+479,134,,30,12,2019,13,1,52,Anwar,,0,MbunMalam
+480,479,Siapa yg akses telegram sy ya🤔,30,12,2019,13,16,6,Anwar,,0,MbunMalam
+481,480,di?,30,12,2019,13,19,43,h a y i,,0,hayinukman
+482,480,PC BC. nyari video flutter tadi,30,12,2019,13,23,16,RONI {Mataram},,0,nakpisang
+483,0,Shiyap bang udacity nice👍,30,12,2019,13,23,44,Anwar,,0,MbunMalam
+484,483,piran tulak. sepi BC😂,30,12,2019,13,24,4,RONI {Mataram},,0,nakpisang
+485,0,wah parah.,30,12,2019,13,24,8,h a y i,,0,hayinukman
+486,0,roni..,30,12,2019,13,24,11,h a y i,,0,hayinukman
+487,485,efek nunggu gorengan ga dateng dateng,30,12,2019,13,24,26,RONI {Mataram},,0,nakpisang
+489,470,Knp ga pake vs code aja gan?,31,12,2019,10,44,19,Yogi,,0,YogiS21
+490,0,,6,1,2020,11,43,17,h a y i,,0,hayinukman
+491,0,loker punya temen yg jd CEO nya...,6,1,2020,11,43,29,h a y i,,0,hayinukman
+492,0,,6,1,2020,21,51,9,Rida,Zaimus,0,Daa15
+493,0,,6,1,2020,22,12,23,,,0,
+494,0,Congratulation Flutter !,8,1,2020,17,48,1,Devin,Pradana,0,DavePradana
+495,0,,12,1,2020,14,26,36,aman,,0,aman_asmuei
+496,0,,13,1,2020,0,49,19,Hendra,,0,
+497,0,Ada Challenge #FlutterClock di Twitter. Dsini ada yg ikut ? :v,22,1,2020,11,52,54,Rian Asmara P.,,0,rianasmaraputra
+498,0,Kira2 keytool nya kenapa ya..?\nKok gk bisa?,23,1,2020,4,22,7,,,0,
+499,498,Klo gak salah itu pathnya masih salah atau tidak terbaca.. jadi file .jks gak ketrmu,23,1,2020,4,27,42,Aufa,Ahdi,0,aufaahdi
+500,0,Path flutter.a bang?,23,1,2020,4,31,9,,,0,
+501,500,Di key.properties klo gak salah.. buat atur pathnya..,23,1,2020,4,39,22,Aufa,Ahdi,0,aufaahdi
+502,0,https://flutter.dev/docs/deployment/android,23,1,2020,4,39,56,Aufa,Ahdi,0,aufaahdi
+503,502,Seperti disini mas.. coba cek2 lagi..,23,1,2020,4,40,42,Aufa,Ahdi,0,aufaahdi
+504,0,,24,1,2020,7,9,53,,,0,
+505,0,,25,1,2020,14,18,50,Agus,Hartawan,0,agus10ywo
+506,0,"Cara puter musik ,,tapi di masukin ke asset gimana om? Atau kalo ada link refrensinya om",28,1,2020,15,20,29,Hidayatullah,,0,Yout_0
+507,0,https://github.com/iampawan/Flute-Music-Player\n\npake api klo ini mas.. atau internet,28,1,2020,15,27,37,Aufa,Ahdi,0,aufaahdi
+508,0,reponya,28,1,2020,15,27,53,Aufa,Ahdi,0,aufaahdi
+509,0,"Udah nyoba yg ini om,,ada refrensi yg tanpa internet om?",28,1,2020,15,28,47,Hidayatullah,,0,Yout_0
+510,0,https://github.com/Abdullahi-1998/FLUTTER-LOCAL-AUDIO,28,1,2020,15,30,22,Aufa,Ahdi,0,aufaahdi
+511,0,"ini lokal, extension .mp3 nya di taro di assset",28,1,2020,15,30,42,Aufa,Ahdi,0,aufaahdi
+512,0,udah coba?,28,1,2020,15,31,19,Aufa,Ahdi,0,aufaahdi
+513,0,Kebetulan saya lagi coba yg ini om tapi ada tempat nya error dan hampir dua hari gk bisa ke solve😅,28,1,2020,15,31,58,Hidayatullah,,0,Yout_0
+517,515,bermasalah gimana maksudnya? tapi bisa jalan kan?,28,1,2020,15,50,56,Aufa,Ahdi,0,aufaahdi
+518,0,Gagal pas debug nya om,28,1,2020,15,51,23,Hidayatullah,,0,Yout_0
+519,0,apa erornya?,28,1,2020,15,51,50,Aufa,Ahdi,0,aufaahdi
+521,0,owh itu kurang androidXnya,28,1,2020,15,55,27,Aufa,Ahdi,0,aufaahdi
+522,0,android.useAndroidX=true\n\ntambahin ini di gradle.properties,28,1,2020,15,56,26,Aufa,Ahdi,0,aufaahdi
+523,0,Oke om saya coba dulu,28,1,2020,15,56,45,Hidayatullah,,0,Yout_0
+524,0,android.enableJetifier=true,28,1,2020,15,58,56,Aufa,Ahdi,0,aufaahdi
+525,524,klo masih eror tambahin ini juga,28,1,2020,15,59,8,Aufa,Ahdi,0,aufaahdi
+526,0,"Iya om masih,,oke saya coba dulu",28,1,2020,15,59,30,Hidayatullah,,0,Yout_0
+527,0,saya soalnya baru baca eror atasnya sorry hehe,28,1,2020,15,59,47,Aufa,Ahdi,0,aufaahdi
+528,0,"Gk apa² om,,saya aja baru kepikiran kalo masalahnya di androidx,,soalnya dari kemarin saya malah fokus buat ngilangin garis tengah itu 😅",28,1,2020,16,1,17,Hidayatullah,,0,Yout_0
+529,0,bisa gak?,28,1,2020,16,1,44,Aufa,Ahdi,0,aufaahdi
+530,0,Masih loading om,28,1,2020,16,2,49,Hidayatullah,,0,Yout_0
+531,0,Oke om bisa,28,1,2020,16,5,10,Hidayatullah,,0,Yout_0
+532,0,Terimakasih om😁,28,1,2020,16,5,22,Hidayatullah,,0,Yout_0
+533,0,sip👍\nklo yg di coret itu saya lupa apa namanya klo di flutter yg jelas itu cuman kasih warning aja...,28,1,2020,16,8,8,Aufa,Ahdi,0,aufaahdi
+534,0,"Kirain saya eror itu om,makanya jadi gk terlalu merhatiin pesan yg di bebug console nya😅",28,1,2020,16,10,14,Hidayatullah,,0,Yout_0
+535,0,oke😁,28,1,2020,16,14,56,Aufa,Ahdi,0,aufaahdi
+536,0,"Nanya lagi om,,refrensi yg 13gb ini dlm bentuk bahasa inggris ?",28,1,2020,16,16,47,Hidayatullah,,0,Yout_0
+537,0,13gb maksudnya?,28,1,2020,16,19,17,Aufa,Ahdi,0,aufaahdi
+538,0,Yg di pinned message om,28,1,2020,16,19,43,Hidayatullah,,0,Yout_0
+539,0,"iya, klo gak salah dalam b.inggris",28,1,2020,16,21,2,Aufa,Ahdi,0,aufaahdi
+541,0,Oke Terimakasih lagi kalo gitu om😁,28,1,2020,16,22,32,Hidayatullah,,0,Yout_0
+542,0,👌,28,1,2020,16,23,45,Aufa,Ahdi,0,aufaahdi
+543,0,,30,1,2020,7,47,4,zayedelfasa,,0,zayedelfasa
+544,0,,30,1,2020,7,48,25,M. Roniyandi,Pratama,0,
+545,0,Reshare lg… spa tau ada yg perlu…\n\nhttps://t.me/lombokdev\nhttps://t.me/lombok_py\nhttps://t.me/machinelearninglombok\nhttps://t.me/android_lombok\nhttps://t.me/lombok_iot\nhttps://t.me/LombokCyber\nhttps://t.me/lombokjs\nhttps://t.me/lombokflutter\nhttps://t.me/uxidlombok\nhttps://t.me/lombokgamedev\nhttps://t.me/lombok_kotlin\n\nLOKER related\nhttps://t.me/LowonganKerjaIT\nhttps://t.me/LokerDeveloper\nhttps://t.me/freelancerID\nhttps://t.me/freelancers_int\nhttps://t.me/freelance_01\nhttps://t.me/freelancers_intl_job\nhttps://t.me/sharingupwork\nhttps://t.me/remotejobpositions,30,1,2020,7,49,36,h a y i,,0,hayinukman
+546,0,,30,1,2020,8,14,11,Naufal,,0,Naufal_17
+547,0,,30,1,2020,8,57,31,Budi,S,0,setiawanboedy
+548,0,,30,1,2020,9,19,5,Ricky,noviansyah,0,rickybrainware
+549,0,,31,1,2020,4,9,29,Muhammad,Yunus,0,Son_OF_Zeuus
+550,0,,31,1,2020,7,47,37,Azhar,Rafiq,0,azharrafiq
+551,0,,31,1,2020,12,3,2,Thania,Than,0,
+552,0,,31,1,2020,15,6,20,Roby,Sukmana,0,Obet90
+553,0,,3,2,2020,2,2,12,Dinta,Aliff,0,definedguy
+554,0,,3,2,2020,11,30,51,h a y i,,0,hayinukman
+555,0,LOL,3,2,2020,11,31,19,Azhar,Rafiq,0,azharrafiq
+556,0,xd,3,2,2020,11,33,16,Dinta,Aliff,0,definedguy
+557,0,,4,2,2020,20,17,41,Geo,& Innovation,0,
+558,0,,5,2,2020,1,24,9,Azay,Zayyuruki,0,IymaAlaydrus
+559,0,,5,2,2020,1,59,1,,,0,
+560,0,,5,2,2020,2,30,44,,,0,
+561,0,,5,2,2020,3,7,10,Muhammad,Shafa,0,mushaf_nms
+563,0,,8,2,2020,11,26,19,Sirajul,Wathani,0,wathony
+565,0,,16,2,2020,4,27,42,Ivan,Andrianto,0,ivandrian11
+566,0,,24,2,2020,0,24,34,,,0,
+567,0,,26,2,2020,14,51,53,,,0,
+568,0,halo,26,2,2020,15,22,35,Devin,Pradana,0,DavePradana
+569,0,halu,26,2,2020,17,18,5,Aryan,,0,LinkerErrors
+570,0,,1,3,2020,10,24,47,h a y i,,0,hayinukman
+571,0,Mungkin bisa kita tiru konsepnya buat event...,1,3,2020,10,40,25,h a y i,,0,hayinukman
+572,0,One day with flutter.\nMisal untuk guru2 SMK RPL....,1,3,2020,10,40,49,h a y i,,0,hayinukman
+573,0,Atau untuk anak2 smk.. M,1,3,2020,10,40,58,h a y i,,0,hayinukman
+574,0,Cc pak ketua @MbunMalam,1,3,2020,10,41,13,h a y i,,0,hayinukman
+575,0,"Next bang, setelah lombok dev meetup😁",1,3,2020,10,44,25,Anwar,,0,MbunMalam
+576,434,"Saya dh, tp Part time aja 🤣🤣🤣",2,3,2020,3,36,15,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+577,441,🤣🤣,2,3,2020,3,36,28,M. Salihin,Alfarizi,0,Ihin_Alfarizi
+578,0,,8,3,2020,4,45,27,JustOne,,0,justone94
+579,0,https://youtu.be/Sgral3tRk2Q,17,3,2020,11,43,34,Muh,,6285338445958,Muuuuuuh
+580,0,CALLING FLUTTER DEVELOPER\n\nPusat Informasi dan Koordinasi Covid19 Provinsi Jabar membutuhkan relawan programmer flutter untuk membantu pengembangan mobile apps Pikobar.\n\nAdapun kebutuhan relawan programmer tersebut adalah sebagai berikut:\n\n- Menguasai bahasa pemrograman flutter\n\n- Biasa berkolaborasi menggunakan code repository\n\n- Bisa bekerjasama dalam tim\n\n- Bisa bekerja dan berkomunikasi secara remote\n\nPendaftaran Relawan:\n\nhttps://relawancovid19.id/j/pikobar-flutter-developer,19,3,2020,4,42,31,Devin,Pradana,0,DavePradana
+581,0,,20,3,2020,7,24,52,Emma,,0,EmmanuelTT_AppDev
+582,0,,22,3,2020,20,27,11,Ariyanda,Z,0,Divkaming
+583,0,,23,3,2020,19,17,1,obrazdev,,0,obrazdev
+584,0,,26,3,2020,23,22,5,,,0,
+585,0,,5,4,2020,16,51,9,Anas,Mulachela,0,anasmc97
+587,0,,6,4,2020,8,13,32,,,0,
+588,570,Setuju,6,4,2020,8,42,31,Candra,Prasetya,0,candraprasetya
+589,0,,7,4,2020,14,57,6,,,0,
+591,0,Mantep nih😁\nhttps://m.youtube.com/watch?v=S7S3UNlPTiA,12,4,2020,0,22,21,Anwar,,0,MbunMalam
+592,0,https://www.appbrewery.co/courses/intro-to-flutter,12,4,2020,0,25,49,Anwar,,0,MbunMalam
+593,0,ada yg mau ikut bedonsi via code?,12,4,2020,6,10,6,h a y i,,0,hayinukman
+594,0,ada apps untuk system donasi yg mau dikeroyok mau di LGPL kan supaya bisa di pake oleh lembaga amil zakat manapun di Indonesia  terdampak corona…. 😄,12,4,2020,6,10,6,h a y i,,0,hayinukman
+595,0,tech stack:\n- backend: kotlin\n- front end: ReactJS\n- mobile: Flutter,12,4,2020,6,10,6,h a y i,,0,hayinukman
+596,0,https://github.com/DonasiKode,12,4,2020,6,10,6,h a y i,,0,hayinukman
+597,0,yg berminat join kabarin ya...,12,4,2020,6,10,6,h a y i,,0,hayinukman
+598,597,wah mantap bang. semoga lancar. mohon maaf belum bisa join..,12,4,2020,10,45,26,zayedelfasa,,0,zayedelfasa
+600,0,Ada group flutter iya😅,15,4,2020,12,37,19,Azay,Zayyuruki,0,IymaAlaydrus
+601,0,ada,15,4,2020,12,44,7,h a y i,,0,hayinukman
+602,0,isinya 4L kok,15,4,2020,12,44,14,h a y i,,0,hayinukman
+603,0,,15,4,2020,12,45,9,Azay,Zayyuruki,0,IymaAlaydrus
+604,0,"Baru makai flutter ketika di run jadi gini, padahal flutter udh di install, dart juga fix normal ketika run menggunakan device jadi gini 😢🙏",16,4,2020,3,38,52,Azay,Zayyuruki,0,IymaAlaydrus
+605,0,internet nya,16,4,2020,3,39,16,h a y i,,0,hayinukman
+606,0,Hmm...sudah aktif pakai wifi juga🤔,16,4,2020,3,39,41,Azay,Zayyuruki,0,IymaAlaydrus
+607,0,ada text> COuld not bla bla bla,16,4,2020,3,40,4,h a y i,,0,hayinukman
+608,0,Harus offline ?,16,4,2020,3,40,4,Azay,Zayyuruki,0,IymaAlaydrus
+609,0,coba copy link itu paste d browser...,16,4,2020,3,40,14,h a y i,,0,hayinukman
+610,0,Okke👍🏻,16,4,2020,3,40,24,Azay,Zayyuruki,0,IymaAlaydrus
+611,0,ada response ga,16,4,2020,3,40,24,h a y i,,0,hayinukman
+612,0,https://….,16,4,2020,3,45,32,h a y i,,0,hayinukman
+613,0,itu..,16,4,2020,3,45,34,h a y i,,0,hayinukman
+614,0,itu kan link ke library nya...,16,4,2020,3,45,49,h a y i,,0,hayinukman
+615,0,"klo dr browser bisa d akses,",16,4,2020,3,45,58,h a y i,,0,hayinukman
+616,0,berarti tinggal di Vscode nya ...,16,4,2020,3,46,12,h a y i,,0,hayinukman
+617,0,Hmm...sudah🤔👍🏻 udh di download👍🏻,16,4,2020,3,46,37,Azay,Zayyuruki,0,IymaAlaydrus
+618,0,coba ulang yg d vs code nya sekarang.,16,4,2020,3,46,57,h a y i,,0,hayinukman
+619,0,flutter run,16,4,2020,3,47,9,h a y i,,0,hayinukman
+620,0,Ehh..tapi dimana taruh download nya😅,16,4,2020,3,48,20,Azay,Zayyuruki,0,IymaAlaydrus
+621,0,,16,4,2020,3,48,52,Azay,Zayyuruki,0,IymaAlaydrus
+622,0,itu cuma buat ngecek...,16,4,2020,3,49,8,h a y i,,0,hayinukman
+623,0,,16,4,2020,3,49,14,Azay,Zayyuruki,0,IymaAlaydrus
+624,0,ga perlu d download segala...,16,4,2020,3,49,15,h a y i,,0,hayinukman
+625,0,buat mastiin kalo komputer kau bisa akses file itu…,16,4,2020,3,49,31,h a y i,,0,hayinukman
+626,0,Okke siyap2👍🏻,16,4,2020,3,49,38,Azay,Zayyuruki,0,IymaAlaydrus
+627,0,"klo bisa, tinggal coba run ulang",16,4,2020,3,49,42,h a y i,,0,hayinukman
+628,0,"kalo masih gagal, run ulang...",16,4,2020,3,49,48,h a y i,,0,hayinukman
+629,0,Yokkai desu,16,4,2020,3,50,2,Azay,Zayyuruki,0,IymaAlaydrus
+630,0,,16,4,2020,3,50,6,Azay,Zayyuruki,0,IymaAlaydrus
+631,0,,16,4,2020,3,56,40,h a y i,,0,hayinukman
+632,0,,16,4,2020,3,57,46,Azay,Zayyuruki,0,IymaAlaydrus
+633,604,Kalo ini biasanya tinggal ganti minimum sdk nya ke 21 🤣,16,4,2020,4,15,18,Nasrul,Alawy,0,nasrulalawy
+634,633,`read timeout` itu…,16,4,2020,5,4,35,h a y i,,0,hayinukman
+635,0,Biasanya sy kalo gitu ganti minimum sdk nya langsung bisa,16,4,2020,5,5,23,Nasrul,Alawy,0,nasrulalawy
+636,0,"itu ga related ke SDK version, related ke jaringan/network state.",16,4,2020,5,5,27,h a y i,,0,hayinukman
+637,0,klo related sama SDK version error nya beda..,16,4,2020,5,5,43,h a y i,,0,hayinukman
+638,0,Mirip2 sy liat errornya 🤣,16,4,2020,5,6,30,Nasrul,Alawy,0,nasrulalawy
+639,0,bisa jadi gini al...,16,4,2020,5,6,40,h a y i,,0,hayinukman
+640,0,itu kan sebenarnya tinggal resync ulang gradle nya…,16,4,2020,5,6,54,h a y i,,0,hayinukman
+641,0,"nah, pas kau ganti SDK version, mau tak mau kan dia re-sync gradle nya...",16,4,2020,5,7,13,h a y i,,0,hayinukman
+642,0,nah pas itu koneksi internet kau aman lagi….,16,4,2020,5,7,26,h a y i,,0,hayinukman
+643,0,Nah.. mungkin juga 🤣,16,4,2020,5,7,36,Nasrul,Alawy,0,nasrulalawy
+644,0,Bisa jadi,16,4,2020,5,7,39,Nasrul,Alawy,0,nasrulalawy
+645,0,pembuat lib/api/gradle ga mungkin ngasi error messages yg missleading....,16,4,2020,5,7,59,h a y i,,0,hayinukman
+646,0,clue penyelesaian pasti ada di error messages yg diberikan....,16,4,2020,5,8,32,h a y i,,0,hayinukman
+647,0,"makanya kalo ada developer yg bikin code kayak gini, minta di tabok rame….\n\n```try {\n….\n} catch(_: Exception){}```",16,4,2020,5,9,19,h a y i,,0,hayinukman
+648,0,catch exception ini untuk visualise masalahnya d mana… supaya bisa d buatin error messages yg lebih manusiawi….,16,4,2020,5,9,56,h a y i,,0,hayinukman
+649,0,"klo kosong, serius, minta di Tabok….",16,4,2020,5,10,7,h a y i,,0,hayinukman
+650,0,apalagi di library….,16,4,2020,5,10,18,h a y i,,0,hayinukman
+651,0,atau utility tools...,16,4,2020,5,10,25,h a y i,,0,hayinukman
+652,0,"bayangin aja kalo errornya karena SDK version, yg d salahin network nya….",16,4,2020,5,10,51,h a y i,,0,hayinukman
+653,0,Hahhaha.. 🤣🤣🤣,16,4,2020,5,10,54,Nasrul,Alawy,0,nasrulalawy
+654,0,atau yg salah networknya eh d suruh update SDK ke yg terbaru….,16,4,2020,5,11,12,h a y i,,0,hayinukman
+655,0,"pas sudah ganti ke yg terbaru, ternyata bubar jalan….",16,4,2020,5,11,24,h a y i,,0,hayinukman
+656,0,ga compatible...,16,4,2020,5,11,34,h a y i,,0,hayinukman
+657,0,kan bangke....,16,4,2020,5,11,39,h a y i,,0,hayinukman
+658,0,"atau bayangin, error minimum SDK musti 21, error messages nya ga ada…..",16,4,2020,5,12,6,h a y i,,0,hayinukman
+659,0,emang kite dukun???,16,4,2020,5,12,13,h a y i,,0,hayinukman
+660,0,,17,4,2020,10,23,59,Azay,Zayyuruki,0,IymaAlaydrus
+661,0,Pegiat startup bersama dengan MIKTI berinisiatif melakukan gerakan #DukungGuruDigital. Gerakan ini merupakan upaya agar proses belajar mengajar para guru dan siswa secara online di tengah Covid-19 berjalan dengan maksimal. Salah satunya dengan memberikan donasi dan pengumpulan relawan mendampingi guru memberikan metode pembelajaran digital.\n\nDonasi yang terkumpul dari gerakan #DukungGuruDigital akan disalurkan untuk ketersediaan akses digital berupa kuota internet kepada guru-guru honorer. Ayo donasi melalui link berikut: https://bit.ly/startuppeduli,17,4,2020,10,25,38,Nasrul,Alawy,0,nasrulalawy
+662,0,Saya memiliki kendala pada pubspec.yaml di assets untuk gambar saya search di internet caranya seperti ini..bisa berikan saya solusi 😅🙏,18,4,2020,11,16,12,Azay,Zayyuruki,0,IymaAlaydrus
+663,662,buat sejajar `asset` itu dengan yg d atas,18,4,2020,11,23,22,h a y i,,0,hayinukman
+664,0,`- res ` nya ini di indent lagi 1 tab ke dalam,18,4,2020,11,23,59,h a y i,,0,hayinukman
+665,0,,18,4,2020,11,24,14,"Jiad, ジハード",,0,jiadmiftx
+666,0,Okke😁👍🏻,18,4,2020,11,24,55,Azay,Zayyuruki,0,IymaAlaydrus
+667,664,Nakk coba dulu sensei🙇🏻,18,4,2020,11,25,18,Azay,Zayyuruki,0,IymaAlaydrus
+668,0,@hayinukman arrigato sensei🙇🏻 is done👍🏻,18,4,2020,11,56,55,Azay,Zayyuruki,0,IymaAlaydrus
+669,0,https://codepen.io/topic/flutter/templates,19,4,2020,1,34,45,Anwar,,0,MbunMalam
+670,0,"Hallo Temen, perkenalkan saya people Development nya Glints Academy\nnah temen2 saya sedang berkolaborasi dengan Amman Mineral, dalam meningkatkan SDM yang ada di NTB\n\nkelas ini hanya untuk peserta dari NTB, yang mana akan di bantu mendapatkan pekerjaan di perushaaan singapore sperti mas Alawy\n\nini adalah program CSR dari Amman Mineral\nada 20-30 orang yang akan dilatih\n\nhttps://academy.glints.com/amman-partnership/\n\n\nfell free jika ada pertnyaan",21,4,2020,5,1,31,Devin,Pradana,0,DavePradana
+671,0,Sore.. sekedar sharing aja ya.. Di flutter ternyata dari bulan lalu sudah ada library jitsi (sebuah library yang dapat dimasukkan ke dalam project kita untuk melakukan video conference). Tapi saya kurang paham apakah ini support langsung dari Jitsi nya atau library dari komunitas..\nhttps://github.com/gunschu/jitsi_meet\n\nsilahkan dan selamat mencoba 😁,22,4,2020,8,50,41,zayedelfasa,,0,zayedelfasa
+673,0,,5,5,2020,4,13,1,,,0,
+674,0,welcome Gorgon66 😄,5,5,2020,4,14,36,h a y i,,0,hayinukman
+675,0,Thanks!,5,5,2020,4,15,2,,,0,
+676,675,New account😁,5,5,2020,5,16,17,Anwar,,0,MbunMalam
+677,0,Halo meton! Brembe kabar? Saya harap baik-baik saja ya!\n\nNgabuburit Santuy bareng Lombok Dev! \nVirtual via Zoom tiap sore Pukul 16:00 WITA dari Senin 4-9 Mei 2020\n\nMateri yang bakal nemenin sore ini:\n \n**1. **Backend Buru-Buru? di RoR in Aja\n\nuntuk yang belum registrasi bisa registrasi disini https://bit.ly/LombokDevMeetup009,5,5,2020,7,24,10,Anwar,,0,MbunMalam
+678,0,https://youtu.be/6pPWz8YxKG4,5,5,2020,8,29,23,Anwar,,0,MbunMalam
+679,0,Halo meton! Brembe kabar? Saya harap baik-baik saja ya!\n\nNgabuburit Santuy bareng Lombok Dev! \nVirtual via Zoom tiap sore Pukul 16:00 WITA dari Senin 4-9 Mei 2020\n\nMateri yang bakal nemenin sore ini:\n \n**1. **Kotlin for Backdend Development: Super easy way to create REST API using Kotlin\n\nuntuk yang belum registrasi bisa registrasi disini: https://bit.ly/LombokDevVirtualMeetup,6,5,2020,7,12,3,Anwar,,0,MbunMalam
+680,0,Halo meton! Brembe kabar? Saya harap baik-baik saja ya!\n\nNgabuburit Santuy bareng Lombok Dev! \nVirtual via Zoom tiap sore Pukul 16:00 WITA dari Senin 4-9 Mei 2020\n\nMateri yang bakal nemenin sore ini:\n \n1. Common Attack in Modern Web Apps\n\nuntuk yang belum registrasi bisa registrasi disini: https://bit.ly/LombokDevVirtualMeetup,7,5,2020,7,35,54,Anwar,,0,MbunMalam
+681,0,https://youtu.be/HYO3RGH9cXQ,7,5,2020,8,11,55,Anwar,,0,MbunMalam
+682,0,Halo meton! Brembe kabar? Saya harap baik-baik saja ya!\n\nMohon permakluman jam tayang untuk sore hari ini beralih ke jam 20:30. Terimakasih\n\nNgabuburit Santuy bareng Lombok Dev! \nVirtual via Zoom Beralih ke malam hari Ba'da tarawih🙏\n\nMateri yang bakal nemenin malam ini:\n \n1. Infrastruktur Kunci Publik\n\nuntuk yang belum registrasi bisa registrasi disini: https://bit.ly/LombokDevVirtualMeetup,8,5,2020,8,19,45,Anwar,,0,MbunMalam
+683,0,,8,5,2020,9,16,52,RONI,,0,Nakterong
+684,0,"just info (lagi). \nEmily Fortuna salah satu orang pentingnya Flutter, yg sering ada di ""The Boring Show"" flutter pamit dari flutter.. dan Google.. \n\n😄",8,5,2020,12,28,37,zayedelfasa,,0,zayedelfasa
+685,0,Halo meton! Brembe kabar? Saya harap baik-baik saja ya!\n\n\nTadarus Santuy bareng Lombok Dev! \nVirtual via Zoom malam ini jam 20:40\n\nMateri yang bakal nemenin malam ini:\n \n1. Infrastruktur Kunci Publik\n\njoin disini: https://us02web.zoom.us/j/88638020632?pwd=MnVuNXRKR0g0ZW92WE1zNHpOYTNJQT09,8,5,2020,12,31,24,Anwar,,0,MbunMalam
+686,0,Link Zoom:\nhttps://us02web.zoom.us/j/88638020632?pwd=MnVuNXRKR0g0ZW92WE1zNHpOYTNJQT09\n\nLink Youtube:\nhttps://www.youtube.com/watch?v=zvOPWC70bK0,8,5,2020,12,48,37,Anwar,,0,MbunMalam
+687,0,,9,5,2020,3,49,58,Lalu,Hawari,0,
+688,0,Halo meton! Brembe kabar? Saya harap baik-baik saja ya!\n\n\nMalam Mingguan bareng Lombok Dev! \nVirtual via Zoom malam ini jam 20:40 PM\n\nMateri Terakhir kali ini bakal ditemani dengan materi:\n \n1. DIY IoT Devices\n\nJoin di link: https://bit.ly/LombokDevVirtualMeetup \n\nLink Ready jam 20:00 PM,9,5,2020,9,7,9,Anwar,,0,MbunMalam
+689,0,Klik to Join\nhttps://us02web.zoom.us/j/88638020632?pwd=MnVuNXRKR0g0ZW92WE1zNHpOYTNJQT09,9,5,2020,12,15,38,Anwar,,0,MbunMalam
+690,0,https://youtu.be/p_lGtE0AVlM,9,5,2020,12,31,43,Anwar,,0,MbunMalam
+691,0,https://play.google.com/store/apps/details?id=com.kottland.mega_downloader,10,5,2020,21,41,43,Emma,,0,EmmanuelTT_AppDev
+692,0,https://www.youtube.com/watch?v=G3iW7HbqQ7c&feature=youtu.be,11,5,2020,20,35,6,h a y i,,0,hayinukman
+693,0,Selamat sore semuanya,12,5,2020,9,55,41,Lalu,Hawari,0,
+695,0,"Challenge, khusus mahasiswa NTB, deadline tgl 20 Mei….\n\nTask:\n- Buat Sebuah system Linux (LFS boleh, Remastering juga boleh) untuk Flutter Development.\n\nApp yg harus ada di OS linux yg d buat:\n- Visual Studio Code\n- git\n- coreutils\n- dart & flutter - flutter nya harus ada di /bin atau /usr/bin\n- desktopnya XFCE\n- di saat booting sertakan Nama submitter sebagai logo.\n\nDelivery:\n- iso file atau VMDK (VMware) file yg bisa d run d semua Virtual Machine.\n- harus bisa develop dipake untuk develop Flutter Web, dan  (optionally) bisa digunakan untuk serving web hasil build flutternya.\n- ukuran file tidak boleh lebih dari 1GB\n- submission send link google drive dari file yg dimiliki ke- @hayinukman\n\n\nReward: THR Cash senilai 1 Juta rupiah. (bapak2 yang mau nambahin juga boleh)…\n\nBoleh di share.",12,5,2020,14,4,28,Devin,Pradana,0,DavePradana
+696,0,https://github.com/LombokDeveloperRemote/LinuxOsChallenge,12,5,2020,14,21,40,Devin,Pradana,0,DavePradana
+697,695,👍 X 100,12,5,2020,16,11,59,zayedelfasa,,0,zayedelfasa
+698,0,,14,5,2020,22,13,29,zayedelfasa,,0,zayedelfasa
+699,0,"Nasrul Alawy:\n#ask\n\nAda yg pernah ngalamin ga ?\n\nUpload video ke firebase, tapi suara videonya jadi hilang kalau uploadnya dari iOS. ? Kalau dari android sih aman.",14,5,2020,23,22,10,Nasrul,Alawy,0,nasrulalawy
+700,0,Codec ios nya mungkin...,15,5,2020,1,43,44,h a y i,,0,hayinukman
+701,0,pake library yg mana ini buat handle video nya?,15,5,2020,1,44,48,h a y i,,0,hayinukman
+702,0,ada processing sebelum upload ga?,15,5,2020,1,44,58,h a y i,,0,hayinukman
+703,0,atau directly file upload?,15,5,2020,1,45,9,h a y i,,0,hayinukman
+704,0,mungkin kalo video in app recorded… try something like this:\n- record\n- save to file \n- upload file\n- try to compare locally saved file with uploaded file...,15,5,2020,1,46,46,h a y i,,0,hayinukman
+705,701,Yg video_flutter,15,5,2020,15,28,20,Nasrul,Alawy,0,nasrulalawy
+706,702,Ada..,15,5,2020,15,29,19,Nasrul,Alawy,0,nasrulalawy
+707,0,Record -> compress -> upload,15,5,2020,15,29,57,Nasrul,Alawy,0,nasrulalawy
+708,0,Kasusnya ini sama juga ketika ambil video yg sudah ada di galery,15,5,2020,15,30,28,Nasrul,Alawy,0,nasrulalawy
+709,707,Di compress nya itu bisa jadi al...,15,5,2020,15,49,4,h a y i,,0,hayinukman
+710,0,Cek opsi nya yg d ios... Mungkin harus menyertakan codec audio nya...,15,5,2020,15,49,25,h a y i,,0,hayinukman
+711,0,Dan FYI codec audio seperti mp3 itu berbayar loh... 😂,15,5,2020,15,49,53,h a y i,,0,hayinukman
+712,0,hey,15,5,2020,15,50,4,Emma,,0,EmmanuelTT_AppDev
+713,711,lah.. wkwk,15,5,2020,15,50,10,Nasrul,Alawy,0,nasrulalawy
+714,0,Klo android setau sy ada versi lame nya...,15,5,2020,15,50,18,h a y i,,0,hayinukman
+715,0,XD to flutter plugin is out,15,5,2020,15,50,23,Emma,,0,EmmanuelTT_AppDev
+716,0,so enjoy,15,5,2020,15,50,31,Emma,,0,EmmanuelTT_AppDev
+717,0,Klo ios ga tau ada apa ga...,15,5,2020,15,50,34,h a y i,,0,hayinukman
+718,715,Adobe XD?,15,5,2020,15,50,43,h a y i,,0,hayinukman
+719,0,Wow nice...,15,5,2020,15,50,46,h a y i,,0,hayinukman
+720,718,yeah,15,5,2020,15,50,58,Emma,,0,EmmanuelTT_AppDev
+721,718,loh bang hayi kaga tau ?,15,5,2020,15,51,5,Nasrul,Alawy,0,nasrulalawy
+722,0,I just found out,15,5,2020,15,51,7,Emma,,0,EmmanuelTT_AppDev
+723,0,wkkwk,15,5,2020,15,51,7,Nasrul,Alawy,0,nasrulalawy
+724,0,"yeah , it works",15,5,2020,15,51,19,Emma,,0,EmmanuelTT_AppDev
+725,0,it generate the codes,15,5,2020,15,51,26,Emma,,0,EmmanuelTT_AppDev
+726,721,I am not using XD.. I often use figma... 😂,15,5,2020,15,51,26,h a y i,,0,hayinukman
+727,0,"hahahaha, you should learn xd, it would take u 30mins since you are already using figma or sketch",15,5,2020,15,52,4,Emma,,0,EmmanuelTT_AppDev
+728,724,"yes it works, but i think not a great idea to use it, because not debug friendly 😂",15,5,2020,15,53,7,Nasrul,Alawy,0,nasrulalawy
+729,0,very long code,15,5,2020,15,53,11,Nasrul,Alawy,0,nasrulalawy
+730,0,"year , but you can use it small widget snippet",15,5,2020,15,53,46,Emma,,0,EmmanuelTT_AppDev
+731,0,after sometimes it going to be perfect and well optimized,15,5,2020,15,54,23,Emma,,0,EmmanuelTT_AppDev
+732,715,Nice info to try this one😁,15,5,2020,16,16,37,Anwar,,0,MbunMalam

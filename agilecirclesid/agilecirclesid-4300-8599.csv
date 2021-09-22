@@ -1,0 +1,1049 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+4309,0,"Hi all, Kamis ini Agile Circles Indonesia diundang Marquee Group buat hadir di acara Fintech March Launching jam 18.00 \n\nBuat RSVP bisa pc saya ya😊 See you",Nesie,,,0,2,3,2020,4,1,46
+4310,4309,Ini akan bahas apa ya?,Fadel,Muhammad,fadmuhammad,0,2,3,2020,4,6,24
+4311,4310,Tentang partnership mas,Nesie,,,0,2,3,2020,5,5,52
+4316,0,Pagi teman2. saya mau share sesuatu. semoga bermanfaat. 😃👍,anhar,solehudin,anhsbolic,0,3,3,2020,2,43,29
+4317,4316,Ini sebuah lifecycle untuk para praktisi software security?,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,2,50,0
+4318,4317,tidak hanya utk software security mas. tapi itu unsur-unsur security di Secure SDLC. Jadi bisa untuk semua software development,anhar,solehudin,anhsbolic,0,3,3,2020,2,52,38
+4319,4318,Kalau boleh tau kaitan nya dengan agile apa ya ?,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,4,4,49
+4320,0,penerapan di secure software development lifecycle mas. kira2 itu berhubungan dgn agile ngga ya ? \n\nsejujurnya sy pun msh belajar ttg ruang lingkup agile. Dan masih meraba2. hehe. klo memang tidak ada kaitan dgn agile. boleh mas di hapus. hehe. sip,anhar,solehudin,anhsbolic,0,3,3,2020,4,10,53
+4321,4320,"Gapapa mas, sama sama belajar saya juga masih belajar 😁 sepertinya yang saya tau soal security itu bagusnya ada kaitan nya dengan DevOps deh mas",Anggy Edo,Prasetya,anggyedo,0,3,3,2020,4,35,35
+4322,4320,Berarti mas anhar ada ditempat yg tepat utk belajar agile 😊,Angga,Pratama,angga07,0,3,3,2020,4,36,24
+4323,4322,Setujuuu,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,4,37,22
+4324,4316,"thanks mas anhar... sedikit opini. saya pertama share ini ke grup security, kedua ke grup Scrum Master kami :)",-danny,,alternat0,0,3,3,2020,4,45,9
+4325,4321,iah mas DevSecOps,anhar,solehudin,anhsbolic,0,3,3,2020,4,45,38
+4326,4322,Hehe siap. Mantap,anhar,solehudin,anhsbolic,0,3,3,2020,4,45,50
+4327,0,"menurut saya, security harus menjadi perhatian scrum master, krn terkait technical debt",-danny,,alternat0,0,3,3,2020,4,45,59
+4328,4324,siap mas. klo boleh. saya mau join grup scrum nya. sekalian belajar.,anhar,solehudin,anhsbolic,0,3,3,2020,4,46,30
+4329,4327,jadi ini singkatnya hubungan security dgn scrum (agile),-danny,,alternat0,0,3,3,2020,4,47,0
+4330,4327,"Boleh dijelaskan mas, kaitan security dengan scrum master ?",Anggy Edo,Prasetya,anggyedo,0,3,3,2020,4,49,32
+4331,0,jangan belakangan mikirin security,-danny,,alternat0,0,3,3,2020,4,49,38
+4332,0,"dalam Sprint Plan kan kita perlu memikirkan task apa saja yang diperlukan untuk deliver best value. harus termasuk task security. bisa task, mungkin bisa juga sebagai DoD. jadi SM perlu knowledge security juga, imho..",-danny,,alternat0,0,3,3,2020,4,51,5
+4333,0,"mirip dgn SM perlu sedikit technical knowlege lain, seperti programming, architecture, testing..",-danny,,alternat0,0,3,3,2020,4,52,16
+4334,0,"jadi waktu merencanakan pekerjaan bersama tim, bisa bantu guide jgn byk technical debt",-danny,,alternat0,0,3,3,2020,4,53,4
+4337,4332,"sepakat mas 🙂👍. \n\nmemang idealnya & baiknya security masuk ke checklist product. karena trmasuk sbg kualitas delivery product itu sendiri. \n\ndan betul, masuk jg sbg technical knowlege seperti programming, UI, UX, architecture, dsb.\n\nklo yg sementara sy rasakan. mengurusi security di akhir, atau di entar-entar -in. Sangat Painfull. Apalagi klo sudah accident yah. Berbahaya. hehe\n\nkarena security bukan hanya tanggung jawab engineer or developer. tapi semuanya. termasuk product owner, scrum muster, dev team (pastinya), dsb. \n\njadi sy jg lg meraba2 bagaimana security ini bisa diterapkan secara ""agile"" di proses product development.",anhar,solehudin,anhsbolic,0,3,3,2020,5,3,23
+4338,0,semangat mas.. sama dimana2. kecuali organisasi yang sudah mature dalam agile ya :),-danny,,alternat0,0,3,3,2020,5,6,54
+4339,0,"ada konsep ""shift left."" jadi technical excellence, definition of done, quality, itu perlu digeser ke kiri, lebih dekat ke awal. termasuk security",-danny,,alternat0,0,3,3,2020,5,7,59
+4340,0,"perkenalkan, saya ichsanudin chairin. salam kenal.\nmaaf sebelumnya, saya mau tanya. hal apa yang harus dipelajari untuk dasar dari agile? boleh di share referensinya dari yg lain. saya masih awam tapi tertarik belajar agile, karena dapat mata kuliah management proyek. mohon bimbingannya 🙏🏻",Ichsanudin,Chairin,Ichsanudin98,0,3,3,2020,5,8,36
+4341,0,"kalo saya bilang agile itu bersusah2 dulu, bersenang2 kemudian. jadi yang susah2 kita beresin duluan, pastikan lebih awal. spy hidup kita semua lebih bahagia :D",-danny,,alternat0,0,3,3,2020,5,8,52
+4344,0,"Hi Guys, di acara Agile BSD Meetup kemarin , ada pertanyaan menarik ""Apa Advice dari teman2 untuk seorang Project Manager yang sedang beralih menjadi Scrum Master ? """,Angga,Pratama,angga07,0,3,3,2020,7,33,22
+4345,0,Ada teman2 disini yg bisa bantu jawab ? :) cc: om @alternat0,Angga,Pratama,angga07,0,3,3,2020,7,33,44
+4346,4344,up,-danny,,alternat0,0,3,3,2020,7,34,10
+4347,4341,Setuju banget ini,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,7,35,36
+4348,0,Karena lebih ke belajar dari experience,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,7,35,51
+4349,4333,Setidaknya ngerti flow ya mas,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,7,36,28
+4350,4344,Kalau menurut saya pentingkan people rather than proses 😁👍 walaupun proses juga penting tapi lebih baik membangun great people dulu untuk great product,Anggy Edo,Prasetya,anggyedo,0,3,3,2020,7,38,11
+4365,4344,"Saya pernah tanya pertanyaan yg mirip di group @ScrumJakarta\nIntinya, setidaknya harus paham juga coding.",Teguh,,,0,3,3,2020,23,41,13
+4366,0,"Ini comment nya Pak Joshua Partogi\n\n""Agak challenging sih sejujurnya. Banyak tim Scrum yg bermasalah dgn technical debt. Saya observasi ketika SM tidak punya technical skill, SM nya tidak bisa mentoring dalam bersihin technical debt.""",Teguh,,,0,3,3,2020,23,43,11
+4367,4344,"I think there are 2 angles\nA. The sm works in a company that is in transition. They have a formal pm position. Managers call them sm now but still expect them to deliver things on time on budget According to upfront planning. This sm needs to make everyone aware that they need to change their thinking for her to be a good sm.\nB. A pm becoming sm in an already agile organization. Then the sm has to unlearn behavior. For example stop pushing, start coaching. Stop making rigid planning, start communicating with people how to deliver most impact within each Sprint.\n\nI'd rather have an empathic, social, structured sm than a technical one. It can help if sm understands coding but i believe the coaching and leadership competence is more important.",Hugo,Messer,,0,3,3,2020,23,52,12
+4370,4367,"to add, for the first angle A, which is basically our org 😊 i emphasize that like it or not SM's must become buffers between mgmt & their team. facilitate self-organization for the team, while in the other hand handle interactions with mgmt. esp. protect the team to be able to move on toward their agility",-danny,,alternat0,0,4,3,2020,0,49,48
+4371,4370,yes I agree > that 'relationship building' and 'balancing of different interests' is one of the core skills of a strong SM. Someone who is also willing to stand up to the bosses or the structure of the organization (which your 'girls' actually did in the meetup! :)),Hugo,Messer,,0,4,3,2020,0,56,29
+4372,4371,extremely proud 😁💪🏼,-danny,,alternat0,0,4,3,2020,0,57,12
+4383,0,Hai teman2 mau tanya donk klo di jakarta mau cari certification CSM atau PSM dimana ya?,Andre,Zuazhabernald,andreZB,0,4,3,2020,14,26,35
+4422,0,sharing a short writeup on Scrum Values in indonesian: https://medium.com/@alternat0/area-fokus-nilai-nilai-scrum-fe4584d77618,-danny,,alternat0,0,6,3,2020,2,48,16
+4427,4419,I thought that @komal_bhalla said that this group is not allowed to promote company's profit evet and only for non profit?,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,6,3,2020,6,24,9
+4428,4427,Sorry 🙏,Jume,,djume,0,6,3,2020,6,25,48
+4429,0,"if ithere is any change in the policy, I will promote Certified Kanban training and Certified SAFe training also",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,6,3,2020,6,28,24
+4438,0,,,,,0,6,3,2020,15,42,23
+4439,0,"We're here to gladly announce that DevOpsDays Jakarta 2020 will still ON for you, DevOps ethusiast.\n\nWe can't wait to see you join the excitement soon on BRI Corporate University, University of Indonesia, and Bina Nusantara University\n\nSave your worries. We work and try our best to accomodate your safety with our medical team support! See you!",,,,0,6,3,2020,15,42,25
+4479,0,"Hi Agile CIrcles Indonesia,\n\nIngin mengetahui seberapa greget Agile & Scrum knowledge kamu?\n\nBisa coba kunjungi bit.do/ismtrial buat menguji kemampuan kamu, free for you.",Jume,,djume,0,8,3,2020,6,11,49
+4501,0,Free Online Session ISM Preparation RSVP: bit.do/ismqna https://www.instagram.com/p/B9f8PV_hWVo,Jume,,djume,0,9,3,2020,4,17,28
+4550,0,"Thank you Mamad for helping me with my investment I make $10,500 with $300 you can contact  if you need help with your investment @Alicedennis1",,,,0,11,3,2020,3,7,11
+4570,0,"I'm human, sir ... please don't get me out of this group ... I want to study here my name is wildan yeah",Wildan,Indigo,CyberArmyIndigo666,0,11,3,2020,13,27,50
+4571,0,thank you sis..well..well .. Thank you very much,Wildan,Indigo,CyberArmyIndigo666,0,11,3,2020,13,29,12
+4583,0,sharing a short writeup on Scrum Events in indonesian: https://medium.com/@alternat0/acara-acara-scrum-1a87c1c6315a,-danny,,alternat0,0,12,3,2020,9,7,11
+4588,4583,Bacaan yang bagus 👏,Anggy Edo,Prasetya,anggyedo,0,12,3,2020,16,40,29
+4592,4588,enjoy.. 😊,-danny,,alternat0,0,12,3,2020,23,35,43
+4616,0,"Sore, apakah slide dari session ISM kmrn malam akan dishare?",Wibi,Nurwibowo,muchnurwibowo,0,13,3,2020,11,1,5
+4617,0,"Boleh di share, nanti saya share tp akan saya refine dulu. Ada beberapa slide yg tidak bisa saya share disini",Ugeng,Wijaya,ugengwijaya,0,13,3,2020,13,12,55
+4672,0,"Dear all, thank you for coming to our latest meetup on March 11th 2020 at Indosat Ooredoo. Here i share links for:\n\nChitta's slide: http://bit.ly/Chittaslide\nStefanus' slide: http://bit.ly/Stefanusslide\nDocumentation: http://bit.ly/documentation11march\nFeedback: http://bit.ly/feedback11march\n\nSee you in the next meetup👋",Nesie,,,0,16,3,2020,8,3,47
+4673,0,"Hi Guys,\nDisini siapa aja yang WFH? 😊",Angga,Pratama,angga07,0,16,3,2020,8,27,46
+4674,0,"Sharing yuu.. apa2 aja yg kita butuhin supaya WFH bisa berjalan dengan baik?\n Baik dari sisi mindset, process, teknologi & tools",Angga,Pratama,angga07,0,16,3,2020,8,28,32
+4675,4673,Aku WFH😂,Nesie,,,0,16,3,2020,8,30,46
+4676,0,"hadir pak, kami juga mendampingi user kami yang NGO untuk kerja Remote",Azwar,,azzwar,0,16,3,2020,8,30,52
+4677,4676,Wah hebat...\nGimana pak prosesnya ? Pake tools apa?,Angga,Pratama,angga07,0,16,3,2020,8,32,17
+4678,4677,"karena mindset mereka masih perspektif tatap muka, jadi hawatir dengan kerja jarak jauh memperlambat respon setiap karyawan\n\npertama samakan mindset\nkomit dengan task\n\ntools :\n1. Spreedsheet/Telegram buat daily progress\n2. Google Meet untuk meeting decision maker\n\nsementara itu aja sudah running well, ga usah canggih2 amat, sing penting komitmen😁",Azwar,,azzwar,0,16,3,2020,8,34,52
+4679,0,nulis2 dikit :) https://medium.com/@alternat0/bagaimana-menjalankan-daily-scrum-secara-remote-d6b1a70e886a,-danny,,alternat0,0,16,3,2020,8,43,2
+4680,0,https://www.ekipa.co.id/7-ways-to-stay-super-productive-when-working-remotely/,Taju,Joseph,tajujoseph,0,16,3,2020,8,44,17
+4681,0,"ini beberapa hal utama yang saya identify:\n- Source code: Tentukan waktu merge request, pastikan lebih sering dari biasanya. Paling kurang 1 hari sekali, mungkin akhir hari. Jadi keesokannya sudah pasti ada di git pekerjaan hari sebelumnya. Sangat tabu meninggalkan code di lokal (PC kantor) yang tidak di-push ke git di akhir hari\n- Akses: Pastikan akses untuk deploy, test, checking, maintain ke semua environment (VPN)\n- Dokumentasi: Waktu yang baik untuk pindah ke solusi cloud. Pastikan bekerja di cloud, jangan di lokal (terutama PC kantor)\n- Media komunikasi: Pastikan sudah setup Grup chat & Video conference",-danny,,alternat0,0,16,3,2020,8,51,18
+4682,0,aku WFH mas😊😁,fachmi,julian,,0,16,3,2020,9,38,46
+4683,0,"toolnya pake Gitlab,VS,Jira",fachmi,julian,,0,16,3,2020,9,39,47
+4684,0,sama Kopi,fachmi,julian,,0,16,3,2020,9,42,12
+4685,4681,tapi gimana cara empowering team dengan kondisi remote ?,Angga,Pratama,angga07,0,16,3,2020,9,48,36
+4686,4684,oh ini penting... saya udah 5 gelas black coffee hari ini 🙈,Angga,Pratama,angga07,0,16,3,2020,9,49,10
+4687,4685,"menurut saya, kerja remote, kita musti lebih serius melihat value di balik beberapa practice yg dilakukan",-danny,,alternat0,0,16,3,2020,9,50,47
+4688,0,misalnya lebih serius merencanakan Sprint Goals buat yang menggunakan Scrum,-danny,,alternat0,0,16,3,2020,9,51,5
+4689,0,supaya ini yang menjadi guide buat tim,-danny,,alternat0,0,16,3,2020,9,51,36
+4690,0,"lebih serius refine backlog, agar pekerjaan lebih simple dan lebih pas slicing-nya. sehingga self-organize lebih simple",-danny,,alternat0,0,16,3,2020,9,52,24
+4691,0,satu hal yang saya lihat dengan kondisi sekarang: internet is not luxury but utility 😊,Angga,Pratama,angga07,0,16,3,2020,9,56,15
+4692,0,"Dulu menkominfo pernah bertanya internet kencang buat apa? Jawabannya untuk WFH, karena kalau hangout/zoom pake internet lemot ya delay...",Arfian,Agus,arfianagus,0,16,3,2020,9,57,5
+4693,0,"mungkin selain kencang, pricing / free internet perlu ada ya. seperti hari ini, saya ada 4 video call masing2 1 jam.. besok 5 vi-call untuk beberapa team. lumayan juga ini makan quota 🙈",Angga,Pratama,angga07,0,16,3,2020,10,0,48
+4694,0,"tapi yang pasti, semakin pentingnya agile way of working. WFH itu bukan teknologi\tools apa yg dipake, tapi gimana proses dan komitmennya. Mindset.",Angga,Pratama,angga07,0,16,3,2020,10,2,17
+4695,0,termasuk online learning untuk anak2 sekolah,Angga,Pratama,angga07,0,16,3,2020,10,2,19
+4696,0,AT&T di amrik untuk sementara paketnya dibuka jadi unlimited. nice kalo ada perusahaan telco yang peduli dan sensitif,-danny,,alternat0,0,16,3,2020,10,4,47
+4697,0,oh ya ? disini belum ya,Angga,Pratama,angga07,0,16,3,2020,10,5,14
+4698,0,"di amrik aja baru 1 telco ini, ngak tau kalo yg lain udah ngikut. semoga d indo ada yg bersedia membantu masyarakat kyk gini..",-danny,,alternat0,0,16,3,2020,10,6,43
+4699,0,"wah gawat om kalo di indo, traffic membabi buta 😂",Azwar,,azzwar,0,16,3,2020,10,13,52
+4704,4684,Ini mantap :),Fitri,,Fithardiyanti,0,17,3,2020,2,8,28
+4705,4694,Setujuui,Fitri,,Fithardiyanti,0,17,3,2020,2,8,44
+4706,4699,"Ini bener, kemarin ngobrol sama temen di telco, kenapa gak dikasi true unlimited aja di kondisi begini, mereka khawatir di abuse sama pengguna, mereka punya pengalaman ada pengguna yg bisa menghabiskan 200GB dalam 1 hari",Edy,,EdyHar,0,17,3,2020,2,16,33
+4729,0,,..,,langlangps,0,18,3,2020,23,47,52
+4804,4706,😱,Angga,Pratama,angga07,0,22,3,2020,0,54,28
+4829,4316,Ttg security testing ada kiat2 rekomendasi kah?,Ryan,R. R.,moviecheff,0,22,3,2020,19,40,33
+4830,0,Better panggil 3rd party utk lakukan security testing,Mikano,Lingga,,0,23,3,2020,5,55,28
+4833,4830,Siapa yg bs provide misalnya pak?,Ryan,R. R.,moviecheff,0,23,3,2020,9,31,59
+4834,0,Apakah di sini ada yg pakai biznetgio?,Ryan,R. R.,moviecheff,0,23,3,2020,9,32,16
+4835,0,Pengalaman atau review nya spt apa dibandingkan cloud infrastructure yg lain? Khususnya ditengah pelemahan rupiah yg lumayan besar,Ryan,R. R.,moviecheff,0,23,3,2020,9,33,5
+4836,0,"Selamat sore aci , saya mau bertanya mengenai pembuatan user stories pada praktek scrum.\nSedikit intro , tim saya sedang membuat sebuah applikasi dan applikasi tersebut dibangun menggunakan API pada setiap fungsi nya .\n\nUntuk saat ini saya selaku PO selalu membuat 2 user stories untuk satu fitur . 1 untuk API dan yang satunya untuk tampilan UI beserta binding API didalamnya .\n\nApakah praktik tersebut benar ? atau seharusnya saya menggabungkan menjadi 1 stories saja karena benefit yang diterima user sama saja",Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,23,3,2020,9,46,26
+4837,0,mohon bantuan penjelasannya,Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,23,3,2020,9,46,34
+4838,0,terima kasih,Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,23,3,2020,9,46,38
+4839,4836,"Ikut bantu jawab ya, IMHO kalau terkait soal User Story sebaiknya dibuat sekecil mungkin supaya tim dev biasa secara self organize mengambil task task dari hasil user story yang kecil tersebut :)",Anggy Edo,Prasetya,anggyedo,0,23,3,2020,9,55,32
+4840,0,"ngak hanya kecil sih , jadi kriteria user story yang baik itu kan 3C + INVEST",Anggy Edo,Prasetya,anggyedo,0,23,3,2020,9,58,8
+4843,4840,Berarti benar benar tidak diperbolehkan ada ketergantungan antara user stories yah?,Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,23,3,2020,10,54,19
+4844,0,Kondisi saat ini yg saya alami untuk mendapatkan fitur di UI maka user stories API harus dikerjakan terlebih dahulu,Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,23,3,2020,10,54,53
+4845,0,"Namun kondisi di UI ternyata suka unpredictable, sehingga harus ada penyesuaian di sisi API",Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,23,3,2020,10,55,21
+4846,4843,"IMHO sebenarnya boleh - boleh saja, karena 3C + INVEST ini kan hanya dijadikan patokan untuk user stories yang baik, kalau pada implementasinya masih ada depedensi ya sesuaikan saja mas",Anggy Edo,Prasetya,anggyedo,0,23,3,2020,11,0,3
+4847,0,Yang jadi poin penting nya sih mungkin Self-organize dari tim DT nya mungkin ya 😁,Anggy Edo,Prasetya,anggyedo,0,23,3,2020,11,1,11
+4848,0,CMIIW 🙏 karena disini masih banyak yang lebih berpengalaman dari saya,Anggy Edo,Prasetya,anggyedo,0,23,3,2020,11,1,44
+4849,4833,"Maaf karena gak boleh sebut mereknya, tapi perusahaan security system di Indonesia sudah cukup banyak dan banyak dipakai di Industri keuangan.",Mikano,Lingga,,0,23,3,2020,11,22,31
+4857,0,"Dear all, please join Ekipa Free Online Session with Chitta today at 2PM. For RSVP https://www.eventbrite.com/e/how-to-build-stronger-remote-teams-tickets-100678087871 see you",Nesie,,,0,24,3,2020,2,9,14
+4860,4846,oke deh terima kasih banyak info nya,Fransiskus Xaverius Andaru,Triyo Prayogo,fxandarutp,0,24,3,2020,3,32,31
+4892,4843,Kalau dari pengalaman kami apakah boleh atau tidak tergantung tujuannya apa.,Ray,Rizaldy,rayrizaldy,0,26,3,2020,21,39,9
+4893,0,"Saya pernah di team, waktu awal2 mulai tujuannya adalah supaya developer tinggal ambil story secara mandiri, itu bisa2 saja. Dan jika memang di productnya ada mekanisme end user juga bisa consume API itu juga oke.\n\nTapi ketika API is not the product, team velocitynya jadi ga valid. Karena user story besarnya tidak complete (API DONE doesn't mean anything to the apps user).",Ray,Rizaldy,rayrizaldy,0,26,3,2020,21,43,28
+4902,0,Thank you admin.I'm glad and excited to learn more here with all of you,Sandra,Midun,Sandramidun,0,26,3,2020,23,6,50
+4909,0,"Hi, please join Ekipa Free Session with Rez today at 2 PM. For RSVP https://www.eventbrite.com/e/how-to-work-super-productive-from-home-for-non-tech-team-tickets-100679409825",Nesie,,,0,27,3,2020,2,35,26
+4914,0,"Halo rekan2, izin bertanya. Ada yg punya suggestion tools utk melakukan planning poker ketika wfh? Thanks!",,,,0,27,3,2020,8,37,24
+4915,4914,Dulu jaman timku mencar2 biasanya pake firepoker.io,Rosalia,Adisti,rosaliaad,0,27,3,2020,8,42,38
+4916,0,Planitpoker.com,Mikano,Lingga,,0,27,3,2020,9,33,32
+4919,0,Thanks. Firepoker and planitpoker works well!,,,,0,28,3,2020,1,13,25
+4956,0,Mhn info Ada yg sdg develope dynamic 365,Saryanto,Aqiqahebat,,0,31,3,2020,12,25,39
+4966,0,,Efri,,jungberra,0,1,4,2020,14,39,31
+4969,0,"Permisi rekan2 sy mau nanya, adakah di sini yg bekerja di PT Avows Technologies?",Johannes,Clinton,JohannesClinton,0,1,4,2020,15,58,50
+4985,0,"Dear all, please join our community sister The Corporate Startup online meetup on 8th April 2020 with Hugo. RSVPs http://bit.ly/csmeetup_09 See you😃",Nesie,,,0,3,4,2020,4,21,44
+4986,0,Thank you,Sessario,Bayu Mangkara,SessarioBayu,0,3,4,2020,4,29,21
+5076,0,"Hi all, join our upcoming online meetup in collaboration with Alibaba Cloud on April 14th at 7PM. For RSVP http://bit.ly/agilecirlcesol_01\n\nSee you",Nesie,,,0,8,4,2020,3,13,36
+5079,0,Don't miss it! Today at 2PM😊,Nesie,,,0,8,4,2020,6,24,18
+5080,0,"ARE YOU READY, WARRIOR?\n\nJoin coders from around Asia-Pacific in a virtual battleground and prove that you’re the ultimate secure coding champion! Go head-to-head with your peers as you battle your way up the leaderboard from the comfort of your couch while testing your knowledge of application security and the OWASP Top 10. \n\nStrut your skills. Crush the competition. Score awesome prizes and earn the title of one of APAC’s best secure coders.\n\nVirtual Tournament Info\nDate : April, 30th 2020\nTime : 11.00 - 13.30 WIB\n\nWhat are you waiting for?\n\nFor more information: https://www.linkedin.com/posts/devopsdays-jakarta_securecodewarrior-secureyourcode-tournament-activity-6653535006092288001-fAUq",,,,0,8,4,2020,7,0,8
+5096,0,,Dani,,daniagung,0,8,4,2020,19,32,46
+5101,0,Nñn,,,,0,8,4,2020,22,36,34
+5130,0,,Nesie,,,0,11,4,2020,3,22,37
+5131,0,,Komal,Bhalla,komal_bhalla,0,11,4,2020,6,57,32
+5145,0,,D,A,Freakdan,0,12,4,2020,8,51,47
+5146,5145,lowongan full stack developer (front or back end),D,A,Freakdan,0,12,4,2020,8,52,6
+5147,0,offsite and onsite bsd,D,A,Freakdan,0,12,4,2020,8,52,14
+5148,0,japri klo ada yg berminat ya,D,A,Freakdan,0,12,4,2020,8,52,22
+5161,0,Don't forget our meetup tonight at 7pm. Check your ticket for the webinar link😃,Nesie,,,0,14,4,2020,4,58,35
+5169,5161,Will start at 7 PM😉,Nesie,,,0,14,4,2020,11,38,9
+5170,0,Okay,Zone,Train,Zonetrain,0,14,4,2020,11,38,16
+5178,5161,how to join this?,Mizan,Rizqia,mizanrizqia,0,14,4,2020,12,31,39
+5179,5178,i'll pm you,Nesie,,,0,14,4,2020,12,32,34
+5180,0,Thank you everyone for attending this evening session.,Chantelle,,littlebrowndots,0,14,4,2020,12,59,12
+5181,0,Thank you,Nesie,,,0,14,4,2020,13,3,31
+5188,0,"Hi all, we have another online meetup next in collaboration with BATC and Agile BSD. Please join us😊 here is the registration link https://bit.ly/meetup_22april\n\nSee you",Nesie,,,0,15,4,2020,3,3,23
+5214,5188,really interesting! can you share to us what is the outline of this webinar session?,Fadel,Muhammad,fadmuhammad,0,15,4,2020,10,8,45
+5217,5214,This session will talk about how can we forecast and plan releases with coordinating teams and get to know Colleen Esposito's experiences of agile in the world of work.,Nesie,,,0,15,4,2020,10,32,30
+5226,0,,Nesie,,,0,16,4,2020,3,49,35
+5229,0,"Hello, we are happy to announce that The New Security White Paper - International Version is published today. Download here:  https://resource.alibabacloud.com/whitepaper/alibaba-cloud-security-whitepaper---international-edition-v20-2020_1717",Chantelle,,littlebrowndots,0,16,4,2020,9,19,32
+5236,0,"There is just one week to go to our Digital Alibaba Cloud Day APAC, an interactive full-day online conference designed to help you take a deeper dive into our core cloud technologies and services through live demonstrations. During the event, you’ll get the chance to interact with our experts virtually and exchange ideas with them by joining the Live Q&A session.\n\nAnd, that's not all! You’ll also have the chance to get Alibaba Apsara Clouder Certificate (Digital Alibaba Cloud APAC Special Edition) issued by Alibaba Cloud Academy, for FREE. To get it, you’ll just need to answer a couple of multiple-choice questions after each session. The certificate exam will be accessible right on the live streaming page.\n\nHaven't signed up yet? Join now and catch our tech evangelists covering these topics. Full Agenda >>\n• Elastic computing services and cloud databases that can reshape the future of your business \n• AI-powered cloud security solutions to secure your business \n• Driving digitalization with cloud-native services and empowering your business with big data and AI \n• Technologies that assist in combating COVID-19 and ensure business continuity\n\nRegister for your online spots here: https://www.alibabacloud.com/campaign/cloud-day-apac2020?&spm=a2c4l.14287908.enc.2&",Chantelle,,littlebrowndots,0,17,4,2020,3,43,36
+5237,0,,Chantelle,,littlebrowndots,0,17,4,2020,3,43,43
+5240,0,👍,Hugo,Messer,,0,17,4,2020,4,19,22
+5252,0,"Welcome to take the Quiz and collect the certificate( ou could attempt to take the exam multiple times and share the certificate), also a badge can be shared to Facebook, twitter and Linkin.\n\nQuiz Link：https://edu.alibabacloud.com/clouder/exam/intro/164",Chantelle,,littlebrowndots,0,18,4,2020,2,43,33
+5253,0,"For those who attended our last session on data v, here is the quiz and if you pass, you can get a cert and badge.",Chantelle,,littlebrowndots,0,18,4,2020,2,44,13
+5273,0,"Sore teman2,\n\nBagi teman2 yang mau belajar HTML&CSS, Javascript, SQL, nodejs dan react, silahkan ke www.progate.com. \n\nDaftar seperti biasa lalu diatas kanan ke menu  kupon. Gunakan kupon AYOCODING.\n\nKamu bisa akses selama 3 bulan. Di progate kamu tidak perlu instal / setup apa2. Semua sudah tersedia di progate. Hanya butuh komputer, internet, dan browser.\n\nBuruan ya! Kupon bisa di redeem s.d. Selasa malam! Ayo kita belajar coding bersama!",Norman,Progate,NormanProgate,0,19,4,2020,10,42,48
+5274,0,"Dear all, join our upcoming online meetup on April 22nd at 7PM. Link regist http://bit.ly/agilecircles_30\nSee you👋",Nesie,,,0,19,4,2020,11,46,38
+5310,0,"Hi, Rekan-rekan Agile Circle Indonesia!\n\nDengan segala tantangannya, saat ini perempuan hanya menduduki 17% dari komposisi pekerja yang berkecimpung di tech industry. Namun, dalam 5 tahun terakhir, telah terjadi peningkatan sebesar 238% dalam keterlibatan perempuan di dalam industri teknologi. Sekitar 20% founder startup juga adalah perempuan. \n\nMenjawab isu tersebut dan untuk menyambut Hari Kartini, BLOCK71 akan mengadakan Kopi Chat Kartini Edition yang akan dilaksanakan selama 2 hari yaitu:\n\n*Selasa, 21 April 2020*\n*12.00-14.00 WIB*\n*Things You Never Know*\nBagaimana perempuan dapat mendobrak paradigma dan berkecimpung di dunia tech & digital d  mi i perusahaan kelas dunia serta mendulang prestasi sejak usia muda.\n*Pembicara:* Mehr Viswani (BD Associate, AWS, Forbes 30 under 30)\n*Register on:* https://bit.ly/Kopichatkartini1\n\n*Rabu, 22 April 2020*\n*18.00-20.00 WIB*\n*Women on Top: “How To Effectively Lead, Women’s Way”*\nBagaimana perempuan memanfaatkan karakternya, membagi waktu dan peran, serta memaksimalkan potensinya untuk dapat mencapai posisi puncak dan menjadi pemimpin di industri yang didominasi laki-laki. \n*Pembicara:* \n1. Dina Dellyana  (Director of The Greater Hub, SBM ITB)\n2. Ken Ratri Iswari (CEO & Founder of Geekhunter)\n3. Ayu Budiyanti (CEO & Founder, Rahsa Nusantara)\n4. Cynthia Hasan (Founder, Impact Hub Jakarta & Coworkinc)\n*Register on:* https://bit.ly/Kopichatkartini2\n\nPeserta terbatas. Grab it fast!",Danang,Juffry,danjuf,0,20,4,2020,11,21,50
+5317,0,,Chantelle,,littlebrowndots,0,20,4,2020,15,22,18
+5318,0,Welcome to rsvp here: https://www.eventbrite.com/e/tech-insights-a-bigger-playground-for-digital-entertainment-and-education-tickets-102962688172?utm_source=TN+Global&utm_campaign=de7eff9c41-EMAIL_CAMPAIGN_2020_04_17_03_52&utm_medium=email&utm_term=0_9fd43a8988-de7eff9c41-111960798&mc_cid=de7eff9c41&mc_eid=b60c483bee,Chantelle,,littlebrowndots,0,20,4,2020,15,23,6
+5324,0,https://www.instagram.com/p/B_Ou7d5hKgp/?igshid=6k1mzuadpw2,Jume,,djume,0,21,4,2020,5,6,2
+5328,0,Semangat pagi...!\n\nKami dari unit General Affairs (GEA) Telkom Departemen Digital & Next Business (DXB) ingin melakukan Pra-Survey kepada rekan sekalian mengenai Innovation Day.\n\nKegiatan Pra-Survey ini bertujuan untuk meningkatkan layanan webinar Innovation Day di masa mendatang. \n\nMohon kesediaan rekan untuk mengisi pernyataan di bawah ini dengan sebenar-benarnya.\n\nBerikut linknya:\nhttps://bit.ly/PraSurvey-InnovDay\n\nNote: Data ini hanya digunakan untuk kepentingan survey.,Audi,Isra,audiisra,0,21,4,2020,7,42,13
+5339,0,Gaes yang hari ini seminar,Andre,Zuazhabernald,andreZB,0,22,4,2020,11,54,59
+5340,0,Ada di link mana ya,Andre,Zuazhabernald,andreZB,0,22,4,2020,11,55,3
+5341,0,Online atau batal?,Andre,Zuazhabernald,andreZB,0,22,4,2020,11,55,10
+5343,0,Hello,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,0,48
+5344,0,It should be started by now 19.00\nCan anyone tell is it canceled or start using online google meet or zoom?,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,1,39
+5345,5274,Yang ini mas?,Chitta,Amaryllis,,0,22,4,2020,12,2,13
+5346,0,Yes,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,2,21
+5347,0,Via zoom,Chitta,Amaryllis,,0,22,4,2020,12,2,24
+5348,0,I dont get the link,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,2,40
+5349,0,Padahal dah dapat ticket,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,2,54
+5351,0,🙄,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,3,1
+5352,0,Oka,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,3,10
+5353,0,Y,Andre,Zuazhabernald,andreZB,0,22,4,2020,12,3,11
+5355,0,Welcome mas...baru mulai,Chitta,Amaryllis,,0,22,4,2020,12,3,53
+5379,0,How is covid19 situation in jakarta?,Eddie,,Edspawn,0,23,4,2020,3,20,19
+5380,0,Terrible,₳ &,W,adhidazz,0,23,4,2020,3,25,27
+5381,0,https://www.alibabacloud.com/campaign/anti-covid-19-sme-enablement-program?spm=a3c0i.7911826.9828163660.1.4db814b3bQrwrJ,Chantelle,,littlebrowndots,0,23,4,2020,3,42,16
+5382,0,,Chantelle,,littlebrowndots,0,23,4,2020,3,42,26
+5383,0,"In order to support the digital transformation of SMEs during this ongoing health crisis, Alibaba Cloud has launched the Anti COVID-19 SME Enablement Program (from April 23rd to June 22nd).\n\nWe are offering a $300 coupon package, which covers 12 key products for all new SME customers, and a $500 coupon for 8 advanced products for our paying customers. In addition, we would like to invite all global associations that are supporting SMEs to join our enablement program and enjoy additional benefits.",Chantelle,,littlebrowndots,0,23,4,2020,3,42,43
+5386,0,"Dear all, we got an invitation from Alibaba Cloud to join their upcoming webinar session on April 30. You can do the registration here https://zoom.us/webinar/register/3515873899147/WN_Y6iI5zRFRbOOBhSK9kPC9g",Nesie,,,0,23,4,2020,11,38,58
+5387,5386,👍,Ranco,Kraaijenbrink,,0,23,4,2020,11,53,12
+5394,0,,Chantelle,,littlebrowndots,0,23,4,2020,17,50,26
+5402,0,,,,,0,24,4,2020,4,37,34
+5443,0,👍,Williams,,GregDavison,0,25,4,2020,23,14,54
+5446,0,Ha!,Williams,,GregDavison,0,26,4,2020,7,45,39
+5513,0,I m thinking to come out with a new method that is better than agile. Doing some research now. Will update when i think i m there. It is more asian culture,Eddie,,Edspawn,0,29,4,2020,7,54,56
+5514,0,Support me guys,Eddie,,Edspawn,0,29,4,2020,7,55,32
+5515,5513,Sure share what you have Im interested,Ranco,Kraaijenbrink,,0,29,4,2020,8,41,47
+5516,0,I am also interested to know Eddie.,Komal,Bhalla,komal_bhalla,0,29,4,2020,9,1,20
+5517,5513,"You can share anything you have, I'd be happy to give feedback 😃",Hugo,Messer,,0,29,4,2020,9,2,12
+5518,0,How can there be anything better than agile 🤨,Hugo,Messer,,0,29,4,2020,9,2,41
+5521,5514,share what you need would make a good start,Fiesta MP,Rasyid,ELBara_id,0,29,4,2020,9,6,51
+5522,0,Agile is more for usa europe culture. Not effective in asia,Eddie,,Edspawn,0,29,4,2020,9,20,0
+5523,0,"Ever wonder why ali baba n china economy can rise so fast n have leading state of art technology , do they use agile n scrum? Answer is a big NO.\n\nI have some insights n research to unlock this n combine with some philsophies from japan.",Eddie,,Edspawn,0,29,4,2020,9,27,44
+5524,0,To replace agile,Eddie,,Edspawn,0,29,4,2020,9,28,4
+5525,0,"Sounds good, happy to get enlightened 😃",Hugo,Messer,,0,29,4,2020,9,40,46
+5526,0,"curious, very much interested..",-danny,,alternat0,0,29,4,2020,9,41,16
+5527,0,#Nyimak,Frans,Kaurrany,musi_rider,0,29,4,2020,9,43,2
+5528,5522,"I think i agree with this statement, but in my humble opinion, instead of replace agile but change the way of agile can work and fit with asian culture.",Anggy Edo,Prasetya,anggyedo,0,29,4,2020,9,45,2
+5529,5528,"I absolutely agree with European culture, and not effective in Asia. And I also agree with changing the way of agile to work and fit with Asian culture. I think it's the way that Mr @Edspawn will figure it out and do some research, right?",Fikri Reza,,fikrireza,0,29,4,2020,10,0,56
+5530,0,Cant wait for sharing his ideas ! 😀,Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,1,52
+5531,5524,"Want to replace agile in Agile group, how dare you #uupsss 😅",Fikri Reza,,fikrireza,0,29,4,2020,10,4,45
+5532,0,😂 how it can happen,Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,6,22
+5533,5531,"i personally believe, the most agile thing to do is to not use Agile",-danny,,alternat0,0,29,4,2020,10,9,4
+5534,0,That's blow my mind,Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,11,9
+5535,0,😅,Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,11,17
+5536,0,"be open minded. \nWe even not see what @Edspawn want to propose.\n\nLets not judgmental , and wait for what @Edspawn want to show to us.",Angga,Pratama,angga07,0,29,4,2020,10,15,42
+5537,5536,"Agree sir, i really appreciate for his courage and dare to share what was his work on😀",Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,20,26
+5538,0,Calm down guys. An open mind is key to innovation. One of my topics of the new approach is Yin Yang thinking that foster innovation and critical methods that lead to harmony.,Eddie,,Edspawn,0,29,4,2020,10,45,49
+5539,0,The other methodology is cultivate ninja flow. Will explain more next time.,Eddie,,Edspawn,0,29,4,2020,10,48,25
+5540,0,"Wow cool, cant wait for the explaination",Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,55,4
+5541,0,👍,Anggy Edo,Prasetya,anggyedo,0,29,4,2020,10,55,16
+5553,0,"Teman-teman boleh minta masukan teman-teman, selama dalam masa WFH ini bila teman-teman akan ikut training 3 jam, maka jam berapa yang ideal untuk teman-teman?\n\n- jam 9 - 12\n- jam 10 - 13\n- jam 13 - 16\n- jam 14 - 17\n- jam 19 - 22\n\nTerima kasih atas masukan dari teman-teman",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,30,4,2020,12,58,0
+5554,5553,"Tergantung hari apa sih, kalo hari kerja milih utk ga training apa2 kalo ga urgent\n\nTp kalo weekend, dari jam2 itu paling enak 9-12 yg ga motong waktu adzan",Fadel,Muhammad,fadmuhammad,0,30,4,2020,13,53,19
+5557,0,Thanks for accepted me in this group🙏,Hendra,,,0,30,4,2020,15,15,12
+5560,0,Thank you for having me 🙏,R,G,,0,30,4,2020,16,8,54
+5568,0,"Hi all, join our upcoming meetup on May 5th. For RSVP\nhttps://bit.ly/agilecirlcesol_07",Nesie,,,0,1,5,2020,4,57,30
+5601,5600,thank you😊,Eny,,enykureny,0,2,5,2020,11,55,46
+5619,0,"Hi all, please join our meetup on May 6th about 'Agile Leadership'. For RSVP https://bit.ly/agilecirlcesol_05 see you",Nesie,,,0,3,5,2020,8,39,39
+5624,0,"Hi everyone thank you for let me join,\n\ni would like to know your opinion in certification to take PM job that know agile?\nis it really necessary ?\n\nwhat does usually employer do to verify the person suits the job as agile coach/manager ?\n\nThank you 😊",Darma Kotama,,dkotama,0,3,5,2020,11,53,44
+5625,5624,Project Manager or Product Manager ?,Anggy Edo,Prasetya,anggyedo,0,3,5,2020,11,56,32
+5626,0,Project Manager,Darma Kotama,,dkotama,0,3,5,2020,11,57,59
+5627,0,"usually the vacancies listed PRINCE2 Agile, or PMP",Darma Kotama,,dkotama,0,3,5,2020,11,58,18
+5628,0,certification,Darma Kotama,,dkotama,0,3,5,2020,11,58,23
+5649,0,Okay,Zone,Train,Zonetrain,0,4,5,2020,11,36,24
+5662,0,Dear Agile Circle Indonesia.  My name is Krisman Oppusunggu from Tokyo just joined our Telegram group. Thank you🙏,Krisman,Oppusunggu,Kr1smanos,0,5,5,2020,0,40,23
+5663,0,Nice to see you here Krisman :),Hugo,Messer,,0,5,5,2020,0,42,47
+5664,5663,"Thank you so much, Hugo-san!🙏",Krisman,Oppusunggu,Kr1smanos,0,5,5,2020,1,5,57
+5669,0,"Topic: AMA Session with Risye Dillianti: How to Survive in Office Politics\nTime: May 5, 2020 12:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/82732165562?pwd=cTI0andEaWh0Sm9PeGE3SGNYRFFWUT09\n\nMeeting ID: 827 3216 5562\nPassword: 013761",Hugo,Messer,,0,5,5,2020,5,12,59
+5696,0,Halo agile circle,Andre,Zuazhabernald,andreZB,0,6,5,2020,4,34,3
+5697,0,Ini agile leadership yg seminar online jam 11 ini,Andre,Zuazhabernald,andreZB,0,6,5,2020,4,34,20
+5698,0,Gw belom dapet url nya dari mana2,Andre,Zuazhabernald,andreZB,0,6,5,2020,4,34,26
+5699,0,Ada yg bisa kasi tau?,Andre,Zuazhabernald,andreZB,0,6,5,2020,4,34,33
+5703,5702,Thank you 😊,Ady,Suriadi,,0,6,5,2020,5,2,41
+5704,0,"Hello, boleh tlg share Zoom# event Online Session hari ini ttg ""Agile Leadership""?. Thanks in advance🙏",Krisman,Oppusunggu,Kr1smanos,0,6,5,2020,6,10,22
+5705,5704,"So sorry, friends. Event-nya sdh passed. Really apologies🙏",Krisman,Oppusunggu,Kr1smanos,0,6,5,2020,6,13,49
+5708,0,"Dear all, let's join Alibaba Cloud upcoming meetup on May 8th at 7PM. For RSVP http://meetu.ps/e/HYzQX/yHF9x/d",Nesie,,,0,6,5,2020,11,10,16
+5735,0,thank you admin,badeea,Hashmi,badeeaH7,0,7,5,2020,21,53,2
+5736,0,☺,badeea,Hashmi,badeeaH7,0,7,5,2020,21,53,14
+5748,0,,Chantelle,,littlebrowndots,0,8,5,2020,6,11,52
+5749,0,"hello all, we are launching an online conference and offering free ACA exams and Clouders certs + prizes too. you can register here: https://sg.alibabacloud.com/campaign/cloud-academy-online?utm_content=sgtech",Chantelle,,littlebrowndots,0,8,5,2020,9,21,39
+5762,0,👋👋,Williams,,GregDavison,0,8,5,2020,23,14,33
+5767,0,🖐🖐,LiL Zan,,Pace_lil,0,9,5,2020,5,18,49
+5770,0,"Hi All, greetings from Jakarta",Cahyo L.,Hadinoto,,0,9,5,2020,6,59,11
+5771,0,Thanks for giving  a chance joining Agile Circle Group,Cahyo L.,Hadinoto,,0,9,5,2020,6,59,46
+5776,5771,Welcome canyo,Hugo,Messer,,0,9,5,2020,8,22,45
+5777,0,What are you doing with Agile?,Hugo,Messer,,0,9,5,2020,8,22,52
+5782,0,"Just passed ISM & ISPO, want to learn more",Cahyo L.,Hadinoto,,0,9,5,2020,9,39,20
+5783,5782,Oh that's great 😃,Hugo,Messer,,0,9,5,2020,9,54,38
+5784,0,Was it hard to pass the exam?,Hugo,Messer,,0,9,5,2020,9,54,51
+5785,0,"Thanks to Ekipa, and Pak Ugeng who support me during the training and prepare for exams",Cahyo L.,Hadinoto,,0,9,5,2020,10,8,38
+5786,0,"I should learn more, and luckily Pak Jume share if there is Agile Community Indonesia that I could join 😁",Cahyo L.,Hadinoto,,0,9,5,2020,10,11,32
+5787,0,I failed many times on exam trial honestly 😁,Cahyo L.,Hadinoto,,0,9,5,2020,10,19,27
+5788,5787,"Haha no problem, it's not that easy 😃",Hugo,Messer,,0,9,5,2020,10,20,13
+5789,0,"Thanks to Pak Ugeng, I passed the Exams",Cahyo L.,Hadinoto,,0,9,5,2020,10,20,53
+5790,0,"Yes, it is not easy for me, since my background not from IT Industry, I have been 18 years in Oil & Gas, EPC / Construction, mostly based on ""conventional"" / waterfall mindset",Cahyo L.,Hadinoto,,0,9,5,2020,10,22,54
+5791,0,I does take alot of time and efforts to understand the very basic of Agile and continue to scrum framework 😄,Cahyo L.,Hadinoto,,0,9,5,2020,10,24,4
+5792,0,Yes it requires a few minshifts and practical knowledge,Hugo,Messer,,0,9,5,2020,10,24,29
+5793,0,"I started to know Agile from Pak Sachlani, he did Presentation on 'Agile Vs EVM', then really thing alot if Agile minset could be applied on Construction Project",Cahyo L.,Hadinoto,,0,9,5,2020,10,27,52
+5794,0,Please allow me to learn here 😁,Cahyo L.,Hadinoto,,0,9,5,2020,10,30,45
+5839,0,"Dear all, join our meetup tomorrow at 2PM. For RSVP http://bit.ly/agilecirlcesol_06",Nesie,,,0,12,5,2020,4,34,26
+5848,0,,Zuber,Khatib,ZuberKhatib,0,12,5,2020,22,14,0
+5849,0,"https://www.youtube.com/watch?v=kmJ59yyYza4&feature=youtu.be\n\n\nmasukan dari teman-teman dong, bagaiamana dengan prinsip welcoming change dalam kasus change request di video ini?",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,13,5,2020,2,22,52
+5868,0,"Good day everyone, I was informed of this group after Mr. Messer shared about Agile in my company, would love to learn here 🙏\nThank you in advance",Setra Yoman,Prahyang,setrayoman,0,13,5,2020,10,56,33
+5869,0,Welcome Setra,Nesie,,,0,13,5,2020,11,35,6
+5870,0,"Dear all, join our community sister, The Corporate Startup, meetup tomorrow at 2PM. For RSVP https://bit.ly/csolmeetup_02 see you",Nesie,,,0,13,5,2020,11,36,9
+5883,0,"Dear all, you can check our SlideShare to access the speaker's slide from the previous meetup\nAgile Circles Indonesia https://www.slideshare.net/AgileCircleIndonesia\nThe Corporate Startup\nhttps://www.slideshare.net/thecorporatestartupmeetup",Nesie,,,0,14,5,2020,8,18,57
+5900,0,,Chantelle,,littlebrowndots,0,15,5,2020,12,28,43
+5901,0,https://zoom.us/webinar/register/WN_0TyIk0fBQSinB-4ImqJsZg,Chantelle,,littlebrowndots,0,15,5,2020,12,28,46
+5919,0,"Haloo!! \nKami sedang melakukan penelitian tentang daya beli daging dan keinginan masyarakat dalam membeli daging. Pertanyaan yang kami ajukan adalah seputar kebiasaan, preferensi dan harapan anda saat membeli daging untuk konsumsi keseharian. \n\nhttps://bit.ly/konsumsidaging",Rere,,,0,16,5,2020,4,9,48
+5920,5919,Done,Mikano,Lingga,,0,16,5,2020,4,38,23
+5921,0,Thank you kak,Rere,,,0,16,5,2020,4,46,12
+5951,0,"Hi all, join our upcoming meetup on Wednesday, 20 May at 10am. For RSVP https://bit.ly/agilecirclesol_08 see you",Nesie,,,0,18,5,2020,4,40,18
+5991,0,sorry what is meeting password for the meetup?,Muhammad Ridwan Nawawi,,ridwannawawi,0,20,5,2020,3,7,26
+5992,5951,"sorry guys, i already rsvp, and what's meeting password for zoom to join the meetup?",Winyata,Senjaya,winyatasenjaya,0,20,5,2020,3,30,1
+5993,0,Hi i'll PM you,Nesie,,,0,20,5,2020,3,30,25
+5995,0,thanks,Muhammad Ridwan Nawawi,,ridwannawawi,0,20,5,2020,3,32,19
+5996,0,"I don't know what is wrong.\nI've registered on eventbrite, but the site said that : Online content for this event is only available to registered attendees.",Iggy Budiman,66,IggyBudiman66,0,20,5,2020,3,46,56
+5997,0,Don't know how to get the link,Iggy Budiman,66,IggyBudiman66,0,20,5,2020,3,47,16
+5998,5993,thankyou,Winyata,Senjaya,winyatasenjaya,0,20,5,2020,3,47,32
+5999,5996,Are you using the same email to access the link and register in eventbrite?,Nesie,,,0,20,5,2020,3,49,29
+6000,0,The same eventbrite account,Iggy Budiman,66,IggyBudiman66,0,20,5,2020,3,50,0
+6001,0,I have the ticket on my profile,Iggy Budiman,66,IggyBudiman66,0,20,5,2020,3,50,18
+6002,6000,"I see, let me PM you",Nesie,,,0,20,5,2020,3,50,44
+6003,0,Thank you,Iggy Budiman,66,IggyBudiman66,0,20,5,2020,3,51,1
+6021,0,thank u,Fachreza,Nur Iman,,0,22,5,2020,11,36,50
+6044,0,"Hi everyone, I'm Glad to be here",MO22,,,0,23,5,2020,3,5,49
+6048,0,"Semoga workshop menahan diri dari yang halal2 selama satu bulan,\n\nberhasil menjauhkan kita dari yang haram2 satu tahun ke depan.\n\nSelamat hari raya buat para pemenang!!\n\n-  salam hangat dari Rizky, Nurul, & Amtar Philosophy",RizkySyaiful.github.io,,RizkySyaiful,0,23,5,2020,13,34,54
+6060,0,"*بِسْــــــــــــــمِ اللهِ الرَّحْمَنِ   الرَّحِيْـــــم*  \n\nالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ \n\nDengan segala kerendahan dan keikhlasan hati ijinkan saya menyampaikan ""Selamat Idul Fitri, 1 Syawal 1441 H""\n\nتَقَبَّلَ اللّهُ مِنَّا وَمنِْكُمْ صِيَامَنَا وَصِيَامَكُمْ,\n كُلُّ عَامٍ وَأَنْتُمْ بِخَيْرٍ. اَللّهُمَّ اجْعَلْنَا وَإِيَّاكُمْ مِنَ العَاءِدِيْنَ وَالفَاءِزِيْنَ  وَالمَقْبُوْلِيْنَ.\n\nMohon maaf lahir bathin\nSemoga Allah SWT senantiasa memberikan kesehatan, umur yang barokah dan dapat bertemu lagi di bulan Ramadhan yang akan datang. Aamiin, Yaa Rabbal 'alamiin....🙏🙏\n\nوَ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ \nاللهِ وَبَرَكَاتُهُ\n\n-Merios Gusan Putra & keluarga-",eMGePe,,eMGePe,0,23,5,2020,21,0,4
+6061,0,*SELAMAT HARI RAYA IDUL FITRI 1441 H* bagi saudara-saudaraku yang merayakan. \n\nMohon maaf lahir dan bathin  🙏\n\nSemoga kita semua diberi kesehatan untuk bisa berjabat tangan di Idul Fitri tahun depan \n\nIwan dan keluarga,Iwan,Santoso,Iwants09,0,23,5,2020,21,0,22
+6134,0,Welcome,,,,0,26,5,2020,23,23,1
+6139,0,,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,27,5,2020,2,2,29
+6140,0,"Untuk teman2 yang ingin tahu apa itu Management 3.0 simak better & Co. light talk bersama Isman Tanuri, certified Management 3.0 trainer di IG @betterandcoid nanti sore.",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,27,5,2020,2,3,24
+6141,0,Mantab,Fachreza,Nur Iman,,0,27,5,2020,5,14,53
+6144,0,,Chantelle,,littlebrowndots,0,27,5,2020,6,2,30
+6147,6140,Live now,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,27,5,2020,8,37,46
+6150,0,"Hi Agile Troops👋\n--\nDo you know how the 'Hierarchy' is in an agile and self-organized team?\n--\nHere is the insight that we got from Chitta Amaryllis in our latest meetup at Indosat Ooredoo about Agile & Self-Organized Team.\n--\nCheck out our SlideShare to find more slides from our speakers https://www.slideshare.net/AgileCircleIndonesia\n--\nLeave a comment below if you have any thoughts or comments regarding this!\n--\nCheers,\nAgile Circles Indonesia\n--\n#agile #leadership #team #agilemindset #agileteams\nhttps://www.instagram.com/p/CAsMoWsj-rZ/?igshid=1a5latqkk523v",Nesie,,,0,27,5,2020,12,4,11
+6151,0,,Nesie,,,0,27,5,2020,12,4,47
+6158,0,Online sharing requires Zoom app. Please register at the following link https://bit.ly/sharingHIMPSI-9 or scan the QR code to get the invitation code. Limited for 500 participants.,Rere,,,0,28,5,2020,8,53,46
+6160,0,"Dear all, join our upcoming meetup in collaboration with BATC BFI and Agile BSD on Wednesday June 3rd. For RSVP  https://bit.ly/agilecirclesol_10\nSee you",Nesie,,,0,28,5,2020,12,7,57
+6170,0,"Thank you ,  permission to join group",Rizki,,Rizki209,0,29,5,2020,1,31,50
+6184,0,https://www.linkedin.com/posts/buvna_pmimy-webinar-introduction-to-lean-agile-activity-6666926703891349504--E2b,Buvna,Jayakumar,buvna,0,29,5,2020,10,23,54
+6185,0,"Hello everyone, I'm Buvna from Malaysia.I would like invite you for the Online Talk Series organized by PMI ,Malaysia Chapter on coming 6th June 2020.",Buvna,Jayakumar,buvna,0,29,5,2020,10,25,22
+6187,0,Programme information and Registration as below link:\nhttps://pmi.org.my/events?eventId=4963,Buvna,Jayakumar,buvna,0,29,5,2020,10,29,57
+6191,0,"Hi all, join our upcoming meetup on Thu, June 4th at 7PM. For RSVP https://bit.ly/agilecirclesol_09 see you",Nesie,,,0,29,5,2020,12,9,47
+6193,0,This 20th June We will having another Free Webinar This time the Topics will be mixing the practice of Scrum and Kanban to best fit your Organizational Need. Our Speaker Amit Chakraborty will talk about the topics in Details.\nTo register Please sign up now from the below link.\nhttps://agiledigest.com/our-webinars-meetups/,Niladri,Mahapatra,,0,29,5,2020,12,16,59
+6203,0,Report State of Agile Terbaru . Masih hangat,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,30,5,2020,6,4,42
+6238,0,"Welcome, have a great day, keep going agile and stay safe everyone",Anggy Edo,Prasetya,anggyedo,0,31,5,2020,14,18,56
+6254,6253,"Just like Product Owner and Scrum Master, he/she must have this stance to achieve best",Anggy Edo,Prasetya,anggyedo,0,1,6,2020,0,11,30
+6269,0,"https://medium.com/@arief.wara/agile-is-fragile-fdc7aef257fc, master2 semua mohon masukannya, thx before",,,,0,1,6,2020,5,49,33
+6273,6259,I'm not seeing the connection between the video and agile 😃,Hugo,Messer,,0,1,6,2020,8,10,44
+6274,0,the movement must be agile,,,,0,1,6,2020,8,46,36
+6337,0,,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,2,6,2020,3,42,16
+6338,0,"Penasaran apa persisnya Management 3.0? \n\nJangan lewatkan Better&Co Sharing Session bersama Isman Tanuri, Certified Management 3.0 Facilitator.\n\nTeman-teman bisa mengenal dan bertanya lebih jauh mengenai Management 3.0\n\nDalam sharing session ini akan teman-teman akan mencoba sejumlah tools Management 3.0\n\nFollow dan reshare flyer ini via Instagram atau Linkedin, dan daftarkan diri Teman-teman lewat link di bawah...\n\nbit.ly/SSManagement30\n\nInstagram : @betterandcoid\nFacebook : Better & Co Consulting \nLinkedIn : Better & Co. \n\n#humancapital\n#hr\n#leadership\n#agile\n#managementconsulting\n#management30\n#betterandco\n#training\n#certification\n#organization\n#organizationeffectiveness\n#employeeengament\n#servantleadership",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,2,6,2020,3,42,16
+6343,0,Hi😁,AKM,,AKMrudin,0,2,6,2020,11,47,19
+6344,0,Welcome please share a bit about yourself!,Ranco,Kraaijenbrink,,0,2,6,2020,12,5,40
+6345,0,Salam kenal. Nama saya Rudin\nTujuan bergabung mau belajar pemrograman😅,AKM,,AKMrudin,0,2,6,2020,12,21,6
+6369,6368,thank you for the welcome,Bisma Akmal,,BismaAkmal,0,2,6,2020,22,52,4
+6370,6345,Welcome Rudin if you any wuestion or like to share your learning experience pleas do!,Ranco,Kraaijenbrink,,0,2,6,2020,23,7,39
+6378,0,"Thank you, bot, for welcoming speech. 😁",King Kong,,Pratamaputra94,0,3,6,2020,5,33,41
+6379,6378,Here's a real welcome 😃,Hugo,Messer,,0,3,6,2020,6,16,15
+6384,0,"Dear all, don't forget to join our meetup tonight at 7 PM. For those who already make the RSVP, please check your email for the zoom link. Kindly contact me for further information. See you",Nesie,,,0,3,6,2020,9,48,55
+6385,0,"Hi, nice to meet you all, you can call me Rahman. my job is full stack developer from Jakarta 😊",M Rahman,,M_RahmanSaleh,0,3,6,2020,9,50,38
+6386,0,"Hi Rahman, nice to see you too, welcome!",Nesie,,,0,3,6,2020,9,52,17
+6387,6385,"Hai rahman, if you have a question just tell us :)",,,,0,3,6,2020,11,5,5
+6428,0,"halo, salam kenal semuanya 👋🏻 ijin join yaa",valentina,w amanda,vwamanda,0,4,6,2020,7,59,38
+6429,0,Halo halo 👍,Anggy Edo,Prasetya,anggyedo,0,4,6,2020,8,0,24
+6432,0,"Hi all, dont forget to join our meetup tonight at 7 PM. If you already make the RSVP please check your email to get the zoom link. See you there",Nesie,,,0,4,6,2020,11,10,7
+6448,0,"morning all. An interesting question: if we run a large agile innovation program and we create a structure for information about progress to trickle up to leaders, what word do we use:\nA. Monitoring\nB. Inspection\n\nWhat's the agilist's verdict on this, pros and cons ?",Hugo,Messer,,0,5,6,2020,0,41,26
+6449,0,C.  Visualisation,Ant,Marsh,antmarsh,0,5,6,2020,1,11,40
+6450,0,Visualisation i think,Anggy Edo,Prasetya,anggyedo,0,5,6,2020,1,58,13
+6455,6448,D. Progress Update,Mikano,Lingga,,0,5,6,2020,2,15,26
+6458,0,👍,Irfan,Permadi,,0,5,6,2020,3,28,28
+6459,0,"E. Agile “wall of fame” :P, I choose B if only 2 option",yodha,iskandarsyah,yodhaiskandarsyah,0,5,6,2020,4,46,54
+6460,6449,Visualisation 👍,Sessario,Bayu Mangkara,SessarioBayu,0,5,6,2020,5,31,36
+6495,0,"Hi, wanna reintroduce my self, my name is fikar, I am a Scrum Master in PT. Serasi Autoraya (SERA),if you wanna find out more about me. Don't hesitate to visit my LinkedIn at www.linkedin.com/gekif. Don't forget to follow or connected. Let's be a partner to scale the Scrum and Agile in Indonesia.CC [Hugo Messer](tg://user?id=293381023) @nesieclrs",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,2,9,27
+6496,6495,"Hi, welcome! stay connected",Nesie,,,0,6,6,2020,4,46,23
+6498,6495,Welcome mas,Hugo,Messer,,0,6,6,2020,4,58,57
+6499,0,Thank you everyone,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,5,19,54
+6500,0,Scrum on,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,5,19,59
+6503,6501,"Of course it is Arabic, it means highest. PT stands for Perseroan Terbatas (Bahasa Indonesia) like private company (limited)",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,5,45,16
+6505,6502,"I didn't pick, @angga07 did 😄",Hugo,Messer,,0,6,6,2020,6,38,0
+6506,0,Pgn belajar agile. Kira kira tempat belajar agile yang enak dmn ya,Alfian Dimas,,alfian_ara,0,6,6,2020,10,48,41
+6513,6506,"Disini, sharing2, cuma butuh trigger pertanyaan aja 😁",Mikano,Lingga,,0,6,6,2020,12,48,10
+6526,0,"Dear All, I got case this. The project decided to have fix cost and fix time. The customer doesn't wanna be the product owner. Is it right to use waterfall rather than scrum?",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,23,20,17
+6527,0,Anyway can i use Bahasa Indonesia?.,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,23,20,32
+6528,6527,"Boleh ko Pak, gaharus pakai english☺",Nesie,,,0,6,6,2020,23,38,25
+6529,0,"english or indonesian, is free  ?",Irfan,Permadi,,0,6,6,2020,23,39,28
+6530,6529,"Iya bebas, no rules",Nesie,,nesieclrs,0,6,6,2020,23,46,6
+6531,0,Oke saya ubah ke bahasa Indonesia,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,23,56,40
+6532,0,Ada kasus kalau proyek sudah ditentukan untuk biaya dan waktunya. Serta untuk customer tidak mau menjadi Product Owner. Apakah tepat menggunakan waterfall daripada Scrum?,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,6,6,2020,23,57,52
+6537,6535,"I wanna know your opinion, what is the best practice for that case",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,4,36,33
+6538,0,I use waterfall with condition no requirement change during development unless you will be the product owner😁,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,4,37,54
+6539,6538,"He answered yes, so the project is on going",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,4,38,19
+6540,6536,I will ask a question in 2 language,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,4,39,10
+6543,0,"Back to point number 2, he didn't want to be Product Owner😂",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,5,0,55
+6546,6544,We should think win win😁,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,5,1,39
+6550,6549,"Thank you for your advice. I use kanban with daily meeting for 15 minutes and every week we always review, kaizen and plan for the next week",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,5,17,29
+6551,0,"I also want the PO set the goals for 1 one week and for the team, i want them to have a realistic task to make the one week goal achieve",Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,5,18,28
+6552,0,That's my way,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,5,18,36
+6553,0,How about you?,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,5,18,41
+6555,6554,Thanks for your Advice,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,8,59,1
+6557,6532,"Product owner tidak harus dari customer juga sih, dan tadi sudah dibahas jg, tidak harus scrum, bisa jg menggunakan kanban atau framework lain",Harindra W,Pradhana,harindrawisnu,0,7,6,2020,9,44,54
+6558,0,"Terlepas dari itu, waterfall isn't the end of the world",Harindra W,Pradhana,harindrawisnu,0,7,6,2020,9,48,6
+6565,6557,Baik,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,7,6,2020,11,56,27
+6568,0,Why NPS is bad indicator,Ant,Marsh,antmarsh,0,7,6,2020,13,30,44
+6569,0,https://articles.uie.com/net-promoter-score-considered-harmful-and-what-ux-professionals-can-do-about-it/,Ant,Marsh,antmarsh,0,7,6,2020,13,30,48
+6577,0,"Hi all, join our upcoming meetup this Thursday on June 11th at 7PM. For RSVP https://bit.ly/agilecirclesol_12. See you",Nesie,,,0,8,6,2020,0,17,23
+6579,6577,Reserved,Fikar Say - Alay Tapi Elegan,- Kaleng - Kaleng Tapi Bukan Topeng,FikarSay,0,8,6,2020,1,6,36
+6592,0,Thanks and looking forward to connecting with you in each possible meetups,,,,0,8,6,2020,13,29,31
+6595,0,great steve denning article about Agile networks https://www.forbes.com/sites/stevedenning/2020/06/07/dont-reorganize-run-your-firm-as-an-agile-network/#295bd7141ff6,Ant,Marsh,antmarsh,0,8,6,2020,14,40,41
+6609,6595,Great article. Do we have an example of a company in Indonesia that did it this way (as opposed to hiring a big consultancy to reorganize the whole structure big bang)?,Hugo,Messer,,0,9,6,2020,1,33,0
+6611,6610,"there are plenty. But most I've seen over here are exactly as Denning describes: big consultancy with big re-org of structure first, then agile coaching second. Most of the big re-org structure are way too complex and way too hard to implement 'for real'. I believe in an iterative approach, but the problem is that re-org sells better to leaders, so that's how they all go about it (with very few exceptions) :)",Hugo,Messer,,0,9,6,2020,1,38,58
+6620,6610,I believe one has one if not many,Frans,Kaurrany,musi_rider,0,9,6,2020,6,15,34
+6621,6620,You want to share one pak? 😃,Hugo,Messer,,0,9,6,2020,6,54,47
+6627,6621,"haha sure,  where to start..  from a group of people wanting to become Agile.. (and more Agile)..",Frans,Kaurrany,musi_rider,0,9,6,2020,7,34,28
+6632,0,"Hi, join Alibaba Cloud upcoming webinar session on June 11th at 7PM JKT Time\n\nIn this session they will introduce an enterprise-grade data backup and migration service that is secure, efficient, cost-effective, and scalable. Hybrid Backup Recovery provides full protection for data stored in Alibaba Cloud and on-premises data centers.\n\nBackup Recovery is a feasible solution that allows you to back up data stored in Elastic Compute Service (ECS) instances, Apsara File Storage NAS, Object Storage Service (OSS), on-premises data centers, and VMware virtual machines. Hybrid Backup Recovery also allows you to migrate data from VMware virtual machines to Alibaba Cloud.\n\nAgenda:\n1. Introduction of hybrid backup recovery services\n2. Hands-on demo\n\nSpeakers:\nLei Zhang - Engineer, Alibaba Cloud Intelligence\nHanneng - IT manager, Charles and Keiths\n\nRegistration link:\nhttps://zoom.us/webinar/register/1415909794179/WN_fkcMUxL4TlSkOQeoAVGtxA",Nesie,,nesieclrs,0,9,6,2020,12,1,0
+6638,0,What makes the difference between a GOOD Scrum Master and a GREAT Scrum Master? | Scrum.org\nhttps://www.scrum.org/resources/blog/what-makes-difference-between-good-scrum-master-and-great-scrum-master,Timothy,,anggatimothy,0,9,6,2020,16,6,11
+6662,6649,Where is it nice picture,Ranco,Kraaijenbrink,,0,10,6,2020,6,45,9
+6663,6661,Welcome and please share something about yourself!,Ranco,Kraaijenbrink,,0,10,6,2020,6,45,50
+6693,0,"Hi all, just a reminder don't forget to join our meetup tonight! For RSVP https://bit.ly/agilecirclesol_12 and don't forget to check your email for the zoom link. Kindly contact me for more information. See you",Nesie,,,0,11,6,2020,8,57,26
+6722,0,Hi,Fery,,,0,12,6,2020,14,2,30
+6723,0,Agile retrospective?,Fery,,,0,12,6,2020,14,2,51
+6724,0,Template,Fery,,,0,12,6,2020,14,3,27
+6725,0,what could we do differently?,Fery,,,0,12,6,2020,14,5,53
+6726,0,Retromat.org has many examples  Fery,Ant,Marsh,antmarsh,0,12,6,2020,14,11,18
+6727,6726,Thank You,Fery,,,0,12,6,2020,14,12,47
+6728,0,You can also combine with Liberating Structure to make more varied if you want.,Angga,Pratama,angga07,0,12,6,2020,14,14,16
+6742,6723,I'm using teamretro.com and it's easy Online retrospective tool. Honestly it helps the team when we do WFH currently.\nThey provide both free and licensed version. 🙏,LuthFi,S.,luthfisuladria,0,13,6,2020,17,32,37
+6768,6767,Thanks for the acceptance.,Sher Lenis,Kent,SherKent,0,14,6,2020,21,29,38
+6773,0,"Hi all, join our meetup tomorrow at 7 PM. For RSVP https://bit.ly/agilecirclesol_13 \nSee you",Nesie,,,0,15,6,2020,5,11,51
+6774,0,https://www.forbes.com/sites/stevedenning/2020/06/14/rethinking-ten-sacred-truths-of-agile/amp/\n\nI thought this was a great article.,,,,0,15,6,2020,7,47,23
+6775,0,"https://medium.com/serious-scrum/why-organizations-tend-to-diminish-the-scrum-master-role-e89b81eff098\n\nnice article to ponder upon, especially as an SM..",-danny,,alternat0,0,15,6,2020,7,55,40
+6782,0,Thank you,Margi_02,,,0,15,6,2020,14,59,2
+6799,0,One my friend is doing one survey on Enterprise Agile Transformation\nBelow is the link for online survey \nhttps://forms.gle/grEKS7W113Es9mLf8\nPl spare some time to fill this if it interests you. Your time and inputs will be highly appreciated. Thank you 😊,Niladri,Mahapatra,,0,16,6,2020,6,9,17
+6808,6384,"Hi all, below link to the recording, slide, and jamboard from our latest meetup ""Effective Digital Retrospective"":\nRecordings: https://youtu.be/qt0Jvugn6fY\nSlides: https://speakerdeck.com/alternat0/effective-virtual-retrospective\nJamboard: https://bit.ly/2Y6KNT7",Nesie,,,0,16,6,2020,7,44,18
+6811,6773,"Hi all, don't forget to join our meetup tonight at 7PM! See you",Nesie,,,0,16,6,2020,10,36,36
+6812,0,This is an awesome group! I'm glad I found this channel. \n\nMight as well introduce myself while I'm at it :) I'm co-founder of Agile Technica software consulting. Hopefully I can both learn and contribute with you all in this group.,Arvy,Budiarto,arvy_budiarto,0,16,6,2020,10,37,55
+6813,0,"Hi Arvy, welcome! Looking forward to get some insight from you too",Nesie,,,0,16,6,2020,10,42,50
+6814,0,"Hi arvy, good to see you here too",Hugo,Messer,,0,16,6,2020,11,15,1
+6819,6814,"Hi Hugo, good to see you to :) Hopefully I can get more active in the community this year now that I'm not raising a startup and a newborn (they both toddler now) :D",Arvy,Budiarto,arvy_budiarto,0,16,6,2020,13,2,29
+6820,0,very good session before,Arvy,Budiarto,arvy_budiarto,0,16,6,2020,13,7,13
+6821,0,"Dear all, thank you for joining our meetup tonight. We also have another meetup this Thursday (18 June) at 7 PM about ""Data Governanve"" in collaboration with Agile BSD and BATC BFI, for RSVP https://bit.ly/agilecirclesol_11\nSee you",Nesie,,,0,16,6,2020,13,10,1
+6824,6773,Recordings,Fery,,,0,16,6,2020,14,49,10
+6825,0,Will be updated [Fery](tg://user?id=753278926),Nesie,,,0,16,6,2020,14,50,23
+6826,6811,"Hi Nesie, I already joined to this meetup. Could you share the presentation file from Pak Arnold? Thank you Nesie :)",Sessario,Bayu Mangkara,SessarioBayu,0,16,6,2020,16,1,0
+6827,6826,"Sure, we'll upload it tomorrow",Nesie,,,0,16,6,2020,16,10,44
+6828,0,Thank you Nesie,Sessario,Bayu Mangkara,SessarioBayu,0,16,6,2020,18,48,20
+6831,0,"morning people, do any of you know a good UX design group or meetups around Jakarta or Tangerang?",Arvy,Budiarto,arvy_budiarto,0,17,6,2020,3,4,23
+6832,0,https://zoom.us/j/8740187625?pwd=U0ZJRVNoTG9iZU5MV3p2eXVxRTdhUT09\nMeeting ID: 874 018 7625\nPassword: 654248\n\ngabung gan :),Ichsan,Code,ichsancode,0,17,6,2020,3,5,9
+6834,0,"Hi all, check Agile Circles Indonesia SlideShare to find our speakers' slide from the latest meetup\nhttps://www.slideshare.net/AgileCircleIndonesia",Nesie,,,0,17,6,2020,4,38,43
+6835,6831,up,Nesie,,,0,17,6,2020,4,38,55
+6836,0,nice,Arvy,Budiarto,arvy_budiarto,0,17,6,2020,6,53,39
+6848,0,"Hi all, dont forget to join our meetup tonight at 7PM",Nesie,,,0,18,6,2020,11,8,26
+6849,0,Zoom link https://us02web.zoom.us/meeting/register/tZAsdumrrzsuGNCnnMD_owMvzvVURtEhaqeA,Nesie,,,0,18,6,2020,11,11,54
+6850,0,"*Peluncuran Google Cloud Region Jakarta*\n\nPelajari layanan cloud yang cepat, andal, dan aman untuk mempercepat transformasi digital Anda. Dengan kapasitas untuk menjalankan layanan yang sangat penting dengan latensi yang diharapkan oleh pengguna Anda.\n\nTanggal: 24 Juni, Rabu\nWaktu: 10.30–11.45 WIB\n*Daftar segera:* https://bit.ly/GoogleJakartaRegionLaunch\n\n*Cloud OnBoard OnAir*\n\nPelajari cara mendesain, mengembangkan, dan men-deploy aplikasi menggunakan layanan Google Cloud Platform untuk membuat aplikasi berbasis cloud yang aman, scalable, dan cerdas.\n\nTanggal: 25 Juni, Kamis\nWaktu: 09.30–12.30 WIB\n*Daftar Segera:* https://bit.ly/GoogleJakartaPostRegionLaunch",Aldi,,Aldionly,628158847896,18,6,2020,13,25,30
+6864,0,"[ ❗️COMING SOON ❗️]\n\nEkipa is excited to invite you all to take part in the first online Digital Innovation Week 2020.\n \nDigital Innovation Week will take place from the 20th – 24th of July. We will deliver 5 live online sessions by inviting 10 leaders as speakers from 5 emerging industries such as Education, Finance, Digital Life, Insurance, and Future Tech.\n \nThis week-long event gives the audience an innovation ecosystem a free platform to connect, learn, share, and exhibit their innovations! \n \nThe revenues will be donated 100% to a good cause that supports victims of Covid19 in Indonesia.\n\nDon't Forget, Save The date! \n\nFor more information please follow https://www.instagram.com/ekipa.co/ (@ekipa.co on Instagram) and visit our website https://www.ekipa.co.id/\n\nCheers",Nesie,,,0,19,6,2020,7,23,22
+6867,0,"*You're invited to our NEC Indonesia Webinar Live Session!*\n[Sign-Up Required]\n\nJoin us at our Webinar Live event *“Enhancing Cyber Security for Financial Institutions in New Normal Era”* where stakeholders of Financial Service Industry in Indonesia will be sharing opportunities about latest trends and update, best practices, regulation and framework of Cyber Security enhancement in Financial Industry. \n\nYou will also get a chance to ask live questions to our speakers!\n\nLimited seat❗\nRegister Now at: \n*https://bit.ly/nec_webinar*\n\nMore details about the event below: \n🗓️ *When :*\nThursday, June 25th, 10.00 am (Jakarta time).\nWe’ll be live for about 90 mins. \n\n💻 *How:*\nYou will receive the link to attend the session after signing-up. You can connect to join the live session and ask questions straight from your devices on the event date.",Aldi,,Aldionly,628158847896,19,6,2020,15,35,36
+6868,0,"Buat teman2 di banking, multifinance, asuransi dan industri sejenis yang pengen tau regulasi OJK dan sharing best practices cyber security, silahkan join webinar ini",Aldi,,Aldionly,628158847896,19,6,2020,15,35,36
+6879,0,"To compete in the digital world, it is significant for businesses to capitalise on the opportunities brought by the digitalization of the economy. Alibaba Cloud is devoted to leveraging its cutting-edge cloud solutions to drive the digitalization for companies across various industries, enabling them to thrive in the next digital norm with Cloud and Data Intelligence.\n\nJoin us on July 2, 2020 for Alibaba Cloud Summit Live!, themed as ""The Pulse of Digitalization"", to gain insights into the latest trends and innovations across technologies and verticals. This virtual event will feature keynote speeches, product launches, and a range of in-depth topics about Alibaba Cloud's advanced digitalization strategies, solutions, technologies, and new partnerships.\n\nSign up now: https://resource.alibabacloud.com/webinar/signUp?id=1945&inviteCode=00X0",Chantelle,,littlebrowndots,0,20,6,2020,3,23,51
+6880,0,,Chantelle,,littlebrowndots,0,20,6,2020,3,23,52
+6881,6834,many thanks Nesie,Sessario,Bayu Mangkara,SessarioBayu,0,20,6,2020,3,54,42
+6883,0,,Chantelle,,littlebrowndots,0,20,6,2020,9,50,14
+6884,6881,You're welcome,Nesie,,,0,20,6,2020,11,8,30
+6927,0,"Hi all, you can watch the recording of our meetup on Ekipa.co youtube channel, link: \nhttps://www.youtube.com/playlist?list=PLCqea3Rb8gTvR-777aRhDoY6tFewtH85T\n\nAnd the recording of our meetup in collaboration with BATC BFI and Agile BSD on BFI Finance Official Youtube Channel, link:\nhttps://www.youtube.com/playlist?list=PLfFz2dV7p7s73YnYxx-T10zB-JLPDfZQ2",Nesie,,,0,22,6,2020,10,16,4
+6928,0,"I will Be talking about a case study on Agile Transformation on 4th of July 8:30 PM IST.\nThis is a Free Webinar, If Interested, You can Register not at the below link\nhttps://agiledigest.com/our-webinars-meetups/",Niladri,Mahapatra,,0,22,6,2020,10,45,40
+6935,6934,kulonuwun....,Kris,,Andaliman_Spicy,0,22,6,2020,19,1,46
+6944,0,"Hi Agile Troops👋\n\nA webinar series by Alibaba Cloud with 6 sessions in June and July, providing deep-dive hands on demo about managing the infrastructure with Terraform. \nJoin us as we uncover step-by-step guide using Terraform by participating into the Terraform Learning Path starting next week!\n\nFor RSVP:\nhttps://www.eventbrite.com/e/alibaba-cloud-indonesia-managing-the-infrastructure-with-terraform-series-tickets-109771631906",Nesie,,,0,23,6,2020,5,22,37
+6968,0,Ok,,,,0,24,6,2020,1,21,21
+6969,0,🙏,,,,0,24,6,2020,1,21,29
+6976,0,Our upcoming events and meetups. For RSVP:\nhttps://bit.ly/agilecirclesol_15\nhttps://bit.ly/agilecirclesol_16\nhttps://bit.ly/ekipaevent_01\nhttps://bit.ly/ekipaevent_02\nDon't miss it!,Nesie,,,0,24,6,2020,12,33,27
+6989,0,Hi All. Glad I finally in this group. Attended couple of Agile Circle events before. Thanks mas Ody for the link.,Subhan,Iswahyudi,,0,25,6,2020,0,58,33
+6990,6989,Welcome mas,Hugo,Messer,,0,25,6,2020,1,2,39
+6991,0,Anyone has article or video on implementing OKR in a corporate university or in training & people development program?,Subhan,Iswahyudi,,0,25,6,2020,1,9,38
+6994,0,Hi,,,,0,25,6,2020,2,20,46
+6995,6991,"This site have some great insights on how to, it really helped me to get started with OKR's . https://weekdone.com/resources/objectives-key-results",Ranco,Kraaijenbrink,,0,25,6,2020,2,42,12
+6996,0,"My recommendation is plai.team, the have tons of pratical stuffs https://plai.team/blog",Jume,,djume,0,25,6,2020,2,53,2
+6997,6996,and its free.,Angga,Pratama,angga07,0,25,6,2020,3,1,46
+7004,0,"Thank you, its nice to join this community",Zulhendra,,,0,25,6,2020,5,42,48
+7005,6995,Thanks. Will look at the site,Subhan,Iswahyudi,,0,25,6,2020,6,29,3
+7006,6996,"Sure, will check. Thanks",Subhan,Iswahyudi,,0,25,6,2020,6,29,24
+7019,0,,Chantelle,,littlebrowndots,0,26,6,2020,3,4,15
+7027,0,,Anuraj,SL,anurajsl,0,26,6,2020,10,58,7
+7028,0,,,,,0,26,6,2020,11,47,37
+7030,0,,,,,0,26,6,2020,14,47,36
+7031,0,,Kayla,Hart,Kayla_hart,0,26,6,2020,17,13,14
+7032,0,,,,,0,26,6,2020,18,25,51
+7034,0,,,,,0,26,6,2020,20,0,15
+7037,0,,,,,0,27,6,2020,7,17,19
+7038,0,,Rizky Samodro,Putro,,0,27,6,2020,9,5,14
+7039,0,,,,,0,27,6,2020,10,57,35
+7040,0,,,,,0,27,6,2020,11,21,44
+7041,0,,,,,0,27,6,2020,13,8,58
+7043,0,http://www.scrumsummit.org/,Frans,Kaurrany,musi_rider,0,27,6,2020,14,2,29
+7044,0,,,,,0,27,6,2020,15,41,7
+7049,0,,,,,0,27,6,2020,21,25,30
+7050,0,,,,,0,27,6,2020,22,3,55
+7053,0,,Ahmad Syamil,,,0,28,6,2020,3,32,52
+7054,0,,Catya Indra,Pratiwi,catyapratiwi,0,28,6,2020,4,51,8
+7057,0,,Nabila,Khaerunnisa,NabilKim,0,28,6,2020,14,46,35
+7059,0,,,,,0,28,6,2020,15,57,4
+7060,0,,Azizah,Syifalianti,syifalianti,0,28,6,2020,16,3,33
+7061,0,,,,,0,28,6,2020,18,20,36
+7063,0,,Farhan,Merchant,,0,29,6,2020,5,11,43
+7064,0,,Adi,Setiadi,adisetiadi,0,29,6,2020,14,11,2
+7065,0,,,,,0,29,6,2020,18,13,10
+7067,0,,,,,0,29,6,2020,20,33,9
+7068,0,,,,,0,30,6,2020,1,29,58
+7069,0,,,,,0,30,6,2020,2,49,38
+7070,0,,,,,0,30,6,2020,2,52,13
+7071,0,"Hii guys, anyone know where is the best scrum course in indonesia?\n\nThank you",RzMS,,rizkymsoleh,0,30,6,2020,4,39,25
+7072,0,,,,,0,30,6,2020,4,55,50
+7076,7071,Please send me your request in a pm,Ranco,Kraaijenbrink,,0,30,6,2020,10,17,57
+7083,0,Don't forget to join our meetup tonight. \n\nhttps://us02web.zoom.us/j/82818325135?pwd=dnR3TzZXUmVRYWRkY3E2ejY5K3RmZz09,Nesie,,,0,30,6,2020,10,52,0
+7090,0,,F = m × a,,,0,30,6,2020,12,16,21
+7092,0,,Melvin,,,0,30,6,2020,12,57,32
+7093,0,,,,,0,30,6,2020,13,6,4
+7094,7083,thx [Nesie](tg://user?id=1041727758),M,Arief H,ariefofficial,0,30,6,2020,13,7,6
+7095,0,,,,,0,30,6,2020,15,21,15
+7096,0,,,,,0,30,6,2020,17,5,50
+7098,0,,Tutut,,TututVaty,0,30,6,2020,23,22,54
+7099,0,,Yoga,Prasetia,yogapx,0,30,6,2020,23,40,55
+7100,0,,,,,0,1,7,2020,1,11,35
+7103,0,,Yosef Benny,Widyokarsono,yosefbennywidyo,0,1,7,2020,15,58,54
+7104,0,,Panji,Pamungkas,,0,1,7,2020,17,2,10
+7106,0,,,,,0,2,7,2020,9,33,29
+7107,0,"Dear all, don't forget to join our meetup tonight at 7PM.\n\nhttps://us02web.zoom.us/j/81796124558?pwd=ckFIekZBRzIyV0ZZK09QQTFoVG1oUT09\n\nMeeting ID: 817 9612 4558\nPassword: 391159",Nesie,,,0,2,7,2020,9,48,40
+7108,0,,Nuril,,nurilmaft,0,2,7,2020,11,43,58
+7109,0,,Tom,,Busto21,0,2,7,2020,12,4,34
+7110,0,,Prayudi,Satriyo Nugroho,prayudi,0,2,7,2020,12,5,14
+7111,0,,Jessica,Jacob,JessicaJacob,0,2,7,2020,12,7,18
+7112,0,,J,,,0,2,7,2020,12,28,40
+7115,0,,R_S_R,,R_S_R_A_J,0,3,7,2020,12,56,37
+7116,0,,,,,0,3,7,2020,17,38,32
+7117,0,,,,,0,3,7,2020,17,50,43
+7118,0,,,,,0,3,7,2020,18,18,6
+7119,0,,,,,0,4,7,2020,1,36,39
+7120,0,"Hi all, you can join our event today at 10AM. Link:\nhttps://us02web.zoom.us/j/85485446875?pwd=MHNaWDZHM2xpdGp0VDFFZWRPdUpKZz09\n\nMeeting ID: 854 8544 6875\nPassword: 468434",Nesie,,,0,4,7,2020,2,7,12
+7121,0,,,,,0,4,7,2020,3,28,29
+7124,0,,Syarif M,Parenreng,Syarifmp,0,4,7,2020,4,46,58
+7125,0,,Allan,Fadlansyah,allanfadlansyah,0,4,7,2020,5,4,43
+7126,0,"[🚨 GIVEAWAY ALERT 🚨]\n\nWe hit 1k followers on Instagram. Thanks to all of you. Thank you for following @agilecircles.id from the beginning and for being loyal. \n\nIn honor of hitting 1k followers, we're giving away 1 ISM token (Indonesia Scrum Master Certification) and 1 ISPO token (Indonesia Product Owner Certification) to 2 different winners (we will decide who'll get token ISM or ISPO - 1 token per winner)\n\nHere's how to enter:\n- Follow us @agilecircles.id and @ekipa.co\n- Like this post.\n- Tag 3 of your 'agile scrum enthusiast' friends or colleagues in the comments.\nAnd that's you entered! Best of lucks fellas.\n---\nThe winner will be picked randomly as long as all the rules are followed\n---\nGiveaway ends Friday 10th July😉 The winner will be announced on our InstaStory on Saturday 11th July👍\n\nCheers,\nAgile Circles Indonesia\n\n#scrummaster #productowner #sertifikasiscrum #sertifikasiproductowner #certification #sertifikasi #agile #giveaway\nhttps://www.instagram.com/p/CCNPfvCMksd/?igshid=1bm2quq54aj9k",Nesie,,,0,4,7,2020,6,12,40
+7127,0,,ㅤ,,brprph,0,4,7,2020,7,17,37
+7128,0,,Ray A. M.,,rayamirul,0,4,7,2020,13,12,13
+7129,0,"Dear All,\n\nAny tips to get SEU, My certs are up for renewal now.\n\nThanks",R_S_R,,R_S_R_A_J,0,4,7,2020,16,14,24
+7130,0,,,,,0,4,7,2020,18,24,5
+7136,0,https://www.instagram.com/p/CBxTzXBD7oi/?igshid=16y7znzpl68i6\n\n\nCeritakan dong bagaimana teman-teman membuat rencana Stakeholder Management?,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,5,7,2020,5,0,8
+7137,0,"Dari yang saya ketahui stakeholder kan ngak cuma atasan ya. Customer dan consumer juga bagian dari stakeholder. Namun, dalam perusahaan korporasi seperti tempat saya bekerja, jika akan melibatkan pihak consumer/customer pun harus melalui birokrasi dari atasan. Bahkan ketika consumer/customernya adalah internal perusahaan. Jika konteks stakeholder management yg dimaksud adalah manajemen perusahaan/atasan maka yang coba kami lakukan adalah mengajak sprint review dengan pendekatan hal-hal yang menarik bagi manajemen. Misal ""review pada sprint kali ini dapat berdampak langsung pada pendapatan triwulan berikutnya"" nah biasanya manajemen lebih tertarik.",Nurkholis Ari S,,Nurkholisas,0,5,7,2020,11,49,15
+7138,0,,Nurkholis Ari S,,Nurkholisas,0,5,7,2020,11,50,22
+7139,7137,"Menarik. Kalau boleh tahu industri ya apa dan jenis perusahaan apakah perusahaan family business, startup, Tbk, BUMN atau MNC?",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,5,7,2020,13,11,59
+7140,0,Kami dr BUMN grup,Nurkholis Ari S,,Nurkholisas,0,5,7,2020,15,53,54
+7141,0,Mantap,Fery,,,0,5,7,2020,16,29,43
+7142,0,,Rosyid,Grobogan,rosyidgrobogan,6281252478878,5,7,2020,21,26,51
+7143,0,,Martín Alexis,Samán Arata,martinsaman16,0,5,7,2020,22,48,4
+7144,0,,Martín Alexis,Samán Arata,martinsaman16,0,5,7,2020,22,48,32
+7145,0,,Isep,Lutpi Nur,iseplutpinur,6285798132505,6,7,2020,5,14,9
+7146,0,,Her,,tanyudii,0,6,7,2020,15,3,28
+7147,0,,,,,0,6,7,2020,15,48,35
+7148,0,,,,,0,6,7,2020,18,55,27
+7149,0,,Uz,,,0,6,7,2020,23,20,18
+7150,0,,Mochammad Shenna,Wardana,,0,6,7,2020,23,29,22
+7153,0,,Amar,Utomo,Amaroetomo,0,7,7,2020,10,50,12
+7154,0,,,,,0,7,7,2020,22,35,8
+7155,0,,Muhammad Alfian,Rasyidin,malfianrasyidin,0,8,7,2020,1,4,59
+7156,0,,Kharisma Khodija,Kusnadi,kharismakus,0,8,7,2020,1,53,30
+7157,0,,salomo,depy,,0,8,7,2020,2,55,57
+7158,0,"mohon info link  pendaftaran webinar  Tuesday, July 14, 2020 from 7:00 PM to 8:00 PM (WIB)PRODUCT SURVIVAL PROJECTION",salomo,depy,,0,8,7,2020,2,57,29
+7159,0,,Lisa,Amelia,Lisaamel,0,8,7,2020,3,5,12
+7160,7158,"Hi, bisa daftat lewat link berikut  https://bit.ly/agilecirclesol_17",Nesie,,,0,8,7,2020,4,42,15
+7161,0,,Syahid,Abdillah,shaheedabd,0,8,7,2020,10,8,35
+7164,0,,Alvin,,alvinhadiono,0,8,7,2020,15,36,10
+7165,0,,Chantelle,,littlebrowndots,0,9,7,2020,3,30,36
+7166,0,Hallo semuanya. Kami sedang melakukan survei pendapat/ pengalaman tentang suatu kondisi. Berikut linknya https://bit.ly/3gEWKWv\nTerima kasih atas partisipasinya,Rere,,,0,9,7,2020,4,27,34
+7167,0,Izin share free webinar yah 🙏🏼,Akbar,Azwir,AkbarAzwir,0,9,7,2020,8,58,29
+7168,0,"Many of us are using agile ways of working. But we still observe several agile myths. In this webinar Henny Portman  will give a list of agile myths and he will bust a few.\n\nIs the first product increment an MVP? He will explain the difference between an MVP and an MMP to bust this myth.\n\nScrum is agile, but is agile scrum? He will elaborate on his Bird’s eye view in the agile forest with already more than 70 agile ways of working.\n\nAre incremental and iterative synonyms? He will draw a matrix for iterative and incremental and show what delivery methods will fit in each quadrant to bust this myth.\n\nWill an agile approach deliver the same results as a waterfall approach? By comparing an agile way of working and a waterfall approach he look at the final product and dive into the number of delivered features to bust this myth too.\n\nLet's join the webinar, limited slots, register your name now! \n\nThis webinar is organized by PMO PI. \n\nhttps://www.eventbrite.com/e/pmopi-webinar-2-some-agile-myths-busted-tickets-112925184266",Akbar,Azwir,AkbarAzwir,0,9,7,2020,8,58,40
+7169,0,,Azai,,,0,9,7,2020,10,42,20
+7170,0,"Hi all, you can join our event today through this link. This session will be in Bahasa Indonesia.\n\nTopic: #EkipaEvent The Power of Product Roadmap\nTime: Jul 9, 2020 19:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/86835458857?pwd=eTF5MWh6U3Vndzkxb09DS0ZlZ1hHUT09\n\nMeeting ID: 868 3545 8857\nPassword: 966221",Nesie,,,0,9,7,2020,11,35,8
+7172,0,,Wawan,Ridwan,wawanridwan,0,9,7,2020,13,44,54
+7231,0,,Rizki,H,rizki_hariyanto,0,10,7,2020,9,7,58
+7234,0,,Giovanni,Kurniawan,,0,10,7,2020,11,20,42
+7236,0,18 @shieldy_bot,Giovanni,Kurniawan,,0,10,7,2020,11,21,25
+7237,0,,,,,0,10,7,2020,12,9,11
+7239,0,,Fajar,Ridikc,Fajar_ridikc,0,10,7,2020,13,8,2
+7242,0,,Swardiantara,Silalahi,Swardiantara,0,10,7,2020,16,2,3
+7244,0,19,Swardiantara,Silalahi,Swardiantara,0,10,7,2020,16,2,27
+7246,0,"#ASK\nGood morning, I have something to ask.\nI know this is very basic, sorry for asking this.\nCurrently I'm writing a thesis about developing a system using the Scrum method for my undergraduate final project.\nPreviously I had never worked using Scrum. My question is, did the product backlog exist before the project began?\nOr is the product backlog created the first time the Scrum Team meets?\n\nThankyou for the response.",Swardiantara,Silalahi,Swardiantara,0,11,7,2020,2,21,48
+7247,0,"Ideally, a product owner already maps out his vision, some high level roadmap and some initial backlog on epic or story level. He could do this alone, together with stakeholders or even together with the full scrum team (which will lead to a better understanding)",Hugo,Messer,,0,11,7,2020,5,21,20
+7250,0,Sharing session akan dilakukan menggunakan Zoom. Invitation dapat diperoleh dengan mendaftarkan diri melalui link https://bit.ly/sharingHIMPSI-12. Kuota undangan terbatas.,Rere,,,0,11,7,2020,5,47,19
+7251,7246,"In my experience tha backlog is constructed before and during a project. \n\nThis is all based on the information that the product owner and team has. I always aim to have a discovery session first with my po, sm, team and stakeholders before starting a project. This can be done in many format, sometimes my team and I would go to the customer's location to gain understanding of the product that we are building.\n\nDuring the project, which consists of many sprints, customer feedback during the showcase can add or remove items from the backlog. \n\nThe main thing is that the backlog items are created by the po in collaboration with the team and the customer.",Arvy,Budiarto,arvy_budiarto,0,11,7,2020,5,56,46
+7252,0,,Anda,Putra,,0,11,7,2020,9,28,7
+7260,0,,,,,0,12,7,2020,0,29,54
+7262,7247,"Okay, thank you, Sir.",Swardiantara,Silalahi,Swardiantara,0,12,7,2020,5,53,0
+7263,0,,ryz,,calla28,0,12,7,2020,5,57,15
+7265,0,6,ryz,,calla28,0,12,7,2020,5,57,34
+7267,7251,"Thankyou, Sir.\nOne more question.\nWhat kind of testing method usually used in Scrum?\n\nIn my case, I'm building web service with Scrum methodology. I was wondering is it ok to use unit testing in Scrum ?",Swardiantara,Silalahi,Swardiantara,0,12,7,2020,6,23,28
+7268,0,,Alianur,Rahman,Venux404,0,12,7,2020,8,42,0
+7270,7267,"Yes, absolutely OK.   Scrum doesn't say much about testing or code quality but unit testing is great development practice.   If you are interested in Agile approaches to testing/code quality read up about XP, Extreme Programming.   https://en.wikipedia.org/wiki/Extreme_programming",Ant,Marsh,antmarsh,0,12,7,2020,8,46,44
+7271,0,"XP gave us user stories, pair programming, TDD, and eventually things like BDD and CI/CD can be seen as coming out of XP",Ant,Marsh,antmarsh,0,12,7,2020,8,48,28
+7272,0,you could build unit testing into your Definition of Done at a per unit of work level.  (DoD),Ant,Marsh,antmarsh,0,12,7,2020,8,49,22
+7274,7272,"Honestly, my supervisors ask me for gathering some papers, or projects of web service development with Scrum.\n\nThey are not sure that there were people used Scrum to build web service. Because of the delivery process in scrum involving the product users, or at least product owner. They assumed that Web service could be something weird for non-technical users. Because of the representation of the resource is in JSON format.",Swardiantara,Silalahi,Swardiantara,0,12,7,2020,9,19,49
+7275,0,"ok yes I understand the issue, it's not customer facing so some elements of scrum dont apply strongly.  you can treat your internal stakeholders as customers in this context.",Ant,Marsh,antmarsh,0,12,7,2020,9,49,48
+7276,0,the product owner is the person who needs the Web service delivered and understands the business requirements,Ant,Marsh,antmarsh,0,12,7,2020,9,50,43
+7277,0,you dont have to use user story format - Scrum does not mandate this.,Ant,Marsh,antmarsh,0,12,7,2020,9,51,16
+7278,0,so your units of work could relate to elements of the JSON files that must be delivered,Ant,Marsh,antmarsh,0,12,7,2020,9,51,58
+7279,0,I highly recommend unit testing in any case,Ant,Marsh,antmarsh,0,12,7,2020,9,52,15
+7280,0,is there an element of uncertainty about the final product?  not fully defined yet?,Ant,Marsh,antmarsh,0,12,7,2020,9,53,3
+7281,0,"if so, scrum is still a good framework to use",Ant,Marsh,antmarsh,0,12,7,2020,9,53,25
+7282,7280,"Yes, Sir. It is.\nThanks for your explanation.",Swardiantara,Silalahi,Swardiantara,0,12,7,2020,10,1,30
+7283,0,you are welcome,Ant,Marsh,antmarsh,0,12,7,2020,10,3,8
+7284,7170,"Missed this session, can I get the recording please",J,,,0,12,7,2020,11,30,32
+7285,7284,"Will be uploaded in Ekipa.co youtube channel, stay tuned",Nesie,,,0,12,7,2020,11,31,42
+7286,0,,J,,,0,12,7,2020,11,37,23
+7287,0,,Umar,Wirahadi,UmarWirahadi23,0,12,7,2020,12,44,36
+7289,0,,Ferdinand,,,0,12,7,2020,12,45,55
+7293,7274,"I used to lead a team that builds data feed stream for a trading application. There were no UI at all, only API and queues. I think with that kind of project it's very useful to construct your showcase in a way that it make sense for your stakeholders. Needs to be technical but with some layman explanations.",Arvy,Budiarto,arvy_budiarto,0,12,7,2020,13,8,15
+7296,0,,A.,Farman,,0,12,7,2020,22,56,48
+7298,0,,Chris,,Christsaragih,0,13,7,2020,0,4,47
+7300,0,"Hi all, you can join our event today at 2PM, for RSVP https://bit.ly/ekipaevent_03",Nesie,,,0,13,7,2020,3,3,30
+7301,7293,"Okay, thank you, Sir.",Swardiantara,Silalahi,Swardiantara,0,13,7,2020,5,23,47
+7302,0,,,,,0,13,7,2020,10,51,3
+7303,0,,,,,0,13,7,2020,10,51,52
+7304,0,,Ponilia Dimi Limbong,,,0,13,7,2020,18,5,1
+7307,7267,"its entirely up to you. scrum itself does not dictate how you reach the quality of your increment and what testing method you are using for it. however, its not uncommon to use Test First Approaches like TDD or BDD in scrum. I usually recommend to start first with Test After so that the Dev teams get used with Mocks, Stubs and Fakes and are able to write proper unit test before moving to test first. in any case, with your sprint retrospective and highlighted improvement, sooner or later you move to more proper and automated testing with multiple test levels.",Thomas,Rothe,throthe,0,13,7,2020,23,56,0
+7308,0,"If you speak about an API you should have a look into Postman and how to write automated tests in Postman, i use it for BDD approaches too. It can describe fairly easy scenarios of json requests and responses so that a product owner together with the dev team can create easily a test specification that is used to verify the implementation before the work starts.",Thomas,Rothe,throthe,0,14,7,2020,0,4,59
+7311,7308,"Thanks, Sir. I'll try to use Postman automated test.",Swardiantara,Silalahi,Swardiantara,0,14,7,2020,1,24,39
+7312,0,,Arias Tanti,Hapsari,ATHTanti,0,14,7,2020,1,58,15
+7314,0,10,Arias Tanti,Hapsari,ATHTanti,0,14,7,2020,1,59,21
+7316,0,,,,,0,14,7,2020,5,31,46
+7318,0,8,,,,0,14,7,2020,5,32,13
+7320,7311,"no worries, you can also drop me a message if you need more details.",Thomas,Rothe,throthe,0,14,7,2020,6,23,32
+7321,7320,Sure. That's a very nice of you.,Swardiantara,Silalahi,Swardiantara,0,14,7,2020,7,4,3
+7322,0,https://www.ekipa.co.id/3-major-mind-shifts-during-covid-19-that-drive-innovation/?preview=true&_thumbnail_id=5902,Nesie,,,0,14,7,2020,7,41,3
+7323,0,,Abi,,Abifadhillah,0,14,7,2020,8,23,31
+7325,0,3,Abi,,Abifadhillah,0,14,7,2020,8,23,47
+7327,0,(3),M,Arief H,ariefofficial,0,14,7,2020,8,24,26
+7328,0,"I decided not to use agile in my project (web service). Because the software requirements have been defined, the endpoint has been designed. The possibility of changing requirements is very small.\n\nI want to ask for advice, what method is suitable for me to use in developing web services?\n\nThanks in advance.",Swardiantara,Silalahi,Swardiantara,0,14,7,2020,8,35,34
+7329,0,,Sarhing,Abdulkhaliq,Sarhing,0,14,7,2020,9,5,22
+7331,0,7,Sarhing,Abdulkhaliq,Sarhing,0,14,7,2020,9,6,5
+7333,0,"Hi all, don't forget to join our meetup tonight. You can join through this link https://us02web.zoom.us/meeting/register/tZckf-2grzsjHtToGXFT1LJ3-AeA9fvFJ5tZ",Nesie,,,0,14,7,2020,10,45,36
+7334,0,Already join 🤓,Rofia,K.,rofiakareem,0,14,7,2020,11,44,12
+7335,0,"Cool, bakal di admit di jam 6.58 ya :)",Nesie,,,0,14,7,2020,11,45,54
+7336,0,"I'm so Exicted, dr kmarin ga sempet ikut mba Nesie :( terutama yg OKR by Hugo kmarin",Rofia,K.,rofiakareem,0,14,7,2020,11,48,55
+7337,7336,"Oalaah, haha okesip entar lagi bakal diadmit yah",Nesie,,,0,14,7,2020,11,51,31
+7338,0,,Wahyu Liga,,whylosesomebody,0,14,7,2020,12,30,51
+7340,0,5,Wahyu Liga,,whylosesomebody,0,14,7,2020,12,31,25
+7342,7328,"Just because the requirements are defined doesn't mean that you won't have any learnings and changes. Our world especially in technology is fast moving. Failure to adapt means becoming like the dinosaur. Having said that, I think whatever methodology you use, as long as you collaborate with your customer closely, you should do okay.",Arvy,Budiarto,arvy_budiarto,0,14,7,2020,13,8,39
+7343,0,,Rochmad Sigit_Farras A.H. Signi_7.10,,rochmadsigit,0,14,7,2020,13,11,10
+7345,0,3,Rochmad Sigit_Farras A.H. Signi_7.10,,rochmadsigit,0,14,7,2020,13,11,29
+7347,0,Thanks for letting me join this community,Rochmad Sigit_Farras A.H. Signi_7.10,,rochmadsigit,0,14,7,2020,13,12,7
+7348,0,,Asep,Supriatna,Sepspr9,0,14,7,2020,13,14,50
+7350,0,,Indah,Nuur Hasanah,indahnuur,0,14,7,2020,13,14,58
+7352,0,,Rolando,Gultom,Rolandogultom,0,14,7,2020,13,15,1
+7354,7347,"Halo, welcome!!",Nesie,,,0,14,7,2020,13,19,43
+7355,0,Thanks,Rochmad Sigit_Farras A.H. Signi_7.10,,rochmadsigit,0,14,7,2020,13,32,20
+7356,0,,,,,0,14,7,2020,18,7,56
+7358,0,,Ahmad,Iqbal Zakaria,Iqbal_zakariaa,0,15,7,2020,7,17,55
+7360,0,"Hi all, join our meetup tomorrow at 7PM, for RSVP https://bit.ly/agilecirclesol_18\n\nSee you",Nesie,,,0,15,7,2020,7,28,57
+7361,0,,🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,15,7,2020,9,12,10
+7362,0,"Agile Executive Briefing: Achieving Enterprise Agility\n\nIs there any enterprise borned agile? Especially in Indonesia? \n\nWe have Salman Subakat the CEO of Paragon Group (Wardah, Emina, Makeover) who will share the story about how founder's agile mindset shape agile culture in Paragon. \n\nAnd how to scale up the agility in your team into enterprise level? We have Steve Tendon, the founder of TameFlow, fresh approach in enterprise agility. \n\nBook your seat and have join the fruitful discussion with them. \n\nAgile Executive Briefing is serial meet-up for Executive and Decision Maker to talk about Business Agility from strategic perspective.\n\nThis Meetup is free of charge. Will be delivered in Bahasa Indonesia for Indonesian speaker and English for the non Indonesian.\n\nRegistration:http://bit.ly/BAIdJul2020\n\nAbout Business Agility Indonesia:\nBusiness Agility Indonesia is an open community for executives, managements, coaches, leaders, business agility enthusiasts in Indonesia and Indonesian Chapter of Business Agility Institute. Furthermore please visit https://businessagility.institute/bam/business-agility-indonesia/",🇲 🇪 🇮 🇰 🇴 - IG @mtourista,,meiko,0,15,7,2020,9,12,21
+7364,7333,Apakah recording sesi meetup yg ini akan diupload ke channel youtube ekipa.co ?,Farhan,AZ,farhan_ririn,0,15,7,2020,11,29,19
+7365,7364,Nanti link nya bakal dishare ya,Nesie,,,0,15,7,2020,11,33,16
+7366,0,,Reinhard,A,reinhardatmajaya,0,15,7,2020,21,29,13
+7374,0,,Wisnu,G. Saputra,wisnuwiry,0,16,7,2020,9,48,16
+7376,0,16,Wisnu,G. Saputra,wisnuwiry,0,16,7,2020,9,48,35
+7378,0,"To join our meetup tonight \n\nTopic: #AgileMeetup Bridging the gap in the “New Normal” through Agile transformation\nTime: Jul 16, 2020 19:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/87939987002?pwd=YWxiZSt3MWlvWnJhYkVyYi9JdjBlUT09\n\nMeeting ID: 879 3998 7002\nPassword: 269139",Nesie,,,0,16,7,2020,11,47,43
+7379,0,,,,,0,16,7,2020,21,1,53
+7383,0,,Ronald Bryant,,Harrison70,0,17,7,2020,18,52,40
+7386,0,,,,,0,18,7,2020,3,10,22
+7388,0,,,,,0,18,7,2020,3,14,35
+7390,0,12,,,,0,18,7,2020,3,14,44
+7393,0,,,,,0,18,7,2020,12,56,6
+7397,0,,,,,0,18,7,2020,12,58,32
+7399,0,,,,,0,18,7,2020,14,36,12
+7401,0,,Herbert,Abdillah,herbertabdillah,0,18,7,2020,14,36,21
+7403,0,7,Herbert,Abdillah,herbertabdillah,0,18,7,2020,14,36,38
+7408,0,,,,,0,19,7,2020,22,48,33
+7410,0,,k🎃,,Klaydo,0,21,7,2020,3,59,22
+7412,0,13?,k🎃,,Klaydo,0,21,7,2020,3,59,51
+7414,0,"Thank you! I have an OKR conference that I’d like to offer this group affiliate or student pricing (no obligations obviously, but spreading the words alike), would it be appropriate? If not I’d like to stay in this community to listen more anw!",k🎃,,Klaydo,0,21,7,2020,4,1,24
+7415,7414,"Well, we can't share an advertisements selling yours/your companies services",Nesie,,,0,21,7,2020,4,6,34
+7416,7415,Thanks for info Nesie!,k🎃,,Klaydo,0,21,7,2020,4,9,0
+7417,7416,You're welcome and welcome to the group!,Nesie,,,0,21,7,2020,4,9,41
+7418,0,,,,,0,21,7,2020,9,29,8
+7420,0,,Roberto,Nelson,Robert_Nel,0,21,7,2020,16,30,32
+7426,0,,,,,0,22,7,2020,5,23,14
+7428,0,"Career opportunity to all tech professional!\nGreetings.....\nCurrently, Avows Technologies are hiring ETL/DATA ENGINEER, GOLANG, PROGRAMMER/JAVA, IT PM, GOLANG & DEVOPS!\n\nCheck and click the link below to apply :\n\n- GOLANG DEVELOPER :\nbit.ly/golangavows7\n\n- ETL/DATA ENGINEER :\nhttps://bit.ly/etlavows\n\n- QUALITY ASSURANCE :\nbit.ly/qaavows7\n\n- JAVA PROGRAMMER/DEVELOPER :\nbit.ly/programmeravows7\n\n- IT PROJECT MANAGER :\nbit.ly/itpmavows7\n\n- DEVOPS :\nbit.ly/devopsavows7\n\nChat me through whatsapp for further information wa.me/628558325672 or you can email your updated resume to nanda.f@avowstech.com\n\nGood luck job hunting!",,,,0,22,7,2020,5,23,22
+7429,0,"Hallo...\nAKASI akan kembali mengadakan Webinarnya nih untuk menambah asupan nutrisi pengetahuan kita.\n\nWebinar ini mengangkat tema ""menentukan saat yang tepat untuk me-release sebuah product"" bersama Mas Aria Perdana yang berpengalaman lebih dari 10 tahun dan merupakan seorang Product Manager dari OVO (PT Visionet Internasional).\n\nBagaimana tanggapan dari Mas Aria mengenai waktu yang tepat untuk me-release sebuah product?\nMau sekarang tapi belum siap, mau nanti takut keduluan kompetitor. Jadi gimana dong?\n\nCatat hari dan tanggal nya ya\nHari : Jum'at, 24 Juli 2020\nWaktu: 19.30 WIB\nTempat : Online Video Conference\nLink: s.id/AKASIwebinar4\n\nSampai berjumpa di event komunitas AKASI !\n\nWarm Regards,\nAKASI (Akademisi x Praktisi)",Anggy Edo,Prasetya,anggyedo,0,22,7,2020,9,1,10
+7430,0,,Nesie,,,0,22,7,2020,10,15,53
+7431,0,Hi all you can join our Digital Innovation Week 2020 through this link tonight!\n\nhttps://us02web.zoom.us/meeting/register/tZ0lc-ytrjMtHtAWlbJT5w4zryIBT6aycr9o,Nesie,,,0,22,7,2020,10,16,17
+7432,0,thank you [Nesie](tg://user?id=1041727758),Timothy,,anggatimothy,0,22,7,2020,10,25,37
+7433,7432,You're welcome,Nesie,,,0,22,7,2020,10,30,49
+7435,0,,,,,0,22,7,2020,19,27,56
+7437,0,,Tri,,tri_m_633,0,23,7,2020,1,3,43
+7439,0,,Syamsul,Munawar,syamsulmunawar,0,23,7,2020,9,42,52
+7441,0,,Bagas,Prawira,,0,23,7,2020,12,24,1
+7443,0,14,Bagas,Prawira,,0,23,7,2020,12,24,11
+7445,0,,Ghafar Ramadhan,Faqih,ghafaramadhan,0,23,7,2020,12,51,27
+7447,0,17,Ghafar Ramadhan,Faqih,ghafaramadhan,0,23,7,2020,12,51,55
+7449,0,"🐝APIARY COWORKING SPACE PRESENTS🐝\n\nBUILD YOUR STARTUP TODAY 📈\n\nKami dari Apiary lagi mengadakan 3 event nih untuk pre-launching produk baru kami om tante! Event-event yang ada seperti:\n\n1. CREATING YOUR DREAM BUSINESS WITH IDEA MAPPING 🗽🏯🏰🗼\nSpeaker: Ron Lal, Founder of Ideate.id\nTime: 10.30 - 11.30am\n\n2. A LEGAL GUIDE TO ESTABLISHING YOUR COMPANY 🧭⚜️📠🏢\nSpeaker: Ani Sutanti, S.H., C.N. from Esca Legal Consulting\nTime: 19.00 - 20.00 pm\n\n3. WHY BRANDING MATTERS TO KICKSTART YOUR MARKETING 🎙📺🎭🤹\nSpeaker: Olga Elisa, founder of Alega\nTime: 19.00 - 20.00 pm\n\nPRICE PER EVENT IDR 150.000\n‼️PRICE BUNDLING 3 EVENT IDR 300.000 ‼️\n\nTiket event ini nanti juga bisa jadi voucher untuk beli produk baru kita, START UP PACKAGE! 🐝\n\nBisa hubungi +62-812-960-725-85 atas nama Bee. Atau langsung registrasi via bit.ly/BuildingStartUp\n\n🔥LET US HELP YOU MAKE YOUR DREAM BUSINESS COME TRUE🔥",Rafael,Sutoyo,,0,23,7,2020,13,29,34
+7450,0,,,,,0,23,7,2020,14,34,58
+7460,0,,DMS AUTO TECH™,,DMSAUTOTECH,0,24,7,2020,9,9,1
+7462,0,,Wulandari,Emiliza,Emiliza20,0,24,7,2020,9,17,23
+7464,0,,Nurizko Maulana,,NurizkoMaulana,0,24,7,2020,10,6,10
+7466,0,15,Nurizko Maulana,,NurizkoMaulana,0,24,7,2020,10,6,24
+7468,0,,Sabila,S. Sulaiman,salsabilasido,0,24,7,2020,12,5,38
+7470,0,7,Sabila,S. Sulaiman,salsabilasido,0,24,7,2020,12,5,57
+7478,0,,Adam Mukharil,Bachtiar,adammb,0,24,7,2020,22,55,21
+7480,0,3,Adam Mukharil,Bachtiar,adammb,0,24,7,2020,22,55,31
+7482,0,,Dandy,Maulana,,0,25,7,2020,2,13,43
+7486,0,,Fandi,Ahmad,fandi4hmad,0,25,7,2020,12,6,15
+7488,0,,Rudi,Prasongko,rudipras,0,25,7,2020,15,54,38
+7490,0,,Putu,Ngurah,Putungurah,0,25,7,2020,23,26,59
+7492,0,7,Putu,Ngurah,Putungurah,0,25,7,2020,23,27,19
+7495,0,,Annisa,Nurrachman,,0,26,7,2020,15,33,55
+7498,0,,Rodrigo,Erazo Hermosilla,rodrigoieh,0,26,7,2020,20,5,37
+7500,0,,,,,0,27,7,2020,2,58,26
+7502,0,Sharing session akan dilakukan menggunakan Zoom. Invitation dapat diperoleh dengan mendaftarkan diri melalui link https://bit.ly/sharingHIMPSI-13. Kuota undangan terbatas.,Rere,,,0,27,7,2020,4,56,31
+7507,0,,,,,0,28,7,2020,0,35,24
+7509,0,,Ari,Rudiana,arirudiana,0,28,7,2020,2,23,33
+7511,0,"Hi all, you're invited to join The Corporate Startup meetup on Thursday, 30 July at 7PM (in Bahasa). For RSVP https://bit.ly/csolmeetup_05",Nesie,,,0,28,7,2020,3,40,14
+7516,0,,,,,0,28,7,2020,5,11,0
+7540,0,,,,,0,28,7,2020,5,14,34
+7544,0,,,,,0,28,7,2020,5,15,3
+7548,0,"Sore temen-temen izin bertanya untuk sertifikat ""Ekipa Certified Indonesia Scrum Master 1"" itu ada Credential ID & URL nya ?",Dimas,FF,dff78,0,28,7,2020,8,38,40
+7549,7548,ada unique serial number sama link URL certificatenya (diemail biasanya) atau bisa request linknya,Jume,,djume,0,28,7,2020,10,9,26
+7551,0,kalau yang setifikat awal2 gimana tuh mas @djume ?,Timothy,,anggatimothy,0,28,7,2020,13,41,56
+7552,7551,"tetap ada, tinggal request saja linknya",Jume,,djume,0,28,7,2020,13,42,32
+7553,0,request ke siapa mas?,Timothy,,anggatimothy,0,28,7,2020,13,42,55
+7554,7553,boleh email saja ke saya jume.analyes@ekipa.co (include nama / email terdaftar dulu),Jume,,djume,0,28,7,2020,13,45,27
+7555,0,Kebetulan ada yang nanya:\n\nFYI: semua sertifikat ISM / ISPO ada serial numbernya unique dan ada link yang bisa di share,Jume,,djume,0,28,7,2020,13,47,47
+7556,0,sertifikat saya belum ada unique SN nya 😓,Timothy,,anggatimothy,0,28,7,2020,13,50,4
+7557,0,"email sent mas @djume , mohon bantuannya.",Timothy,,anggatimothy,0,28,7,2020,13,54,27
+7558,0,,Ndra,,,0,28,7,2020,14,58,24
+7560,7549,Baik terima kasih,Dimas,FF,dff78,0,28,7,2020,15,8,44
+7561,0,,,,,0,28,7,2020,16,32,11
+7569,0,,Sutria Indah,,,0,28,7,2020,21,50,14
+7572,7554,Email sent mas @djume  mohon bantuan nya 😊 mengenai serial number uniqr sertifikat ISM,Dimas,FF,dff78,0,28,7,2020,23,27,29
+7574,0,,,,,0,29,7,2020,0,42,57
+7576,0,,,,,0,29,7,2020,0,51,13
+7578,0,,,,,0,29,7,2020,0,56,54
+7587,0,,tulis,.,,0,29,7,2020,14,45,31
+7589,0,17,tulis,.,,0,29,7,2020,14,45,45
+7591,0,,Yawin,,wyawin,0,29,7,2020,15,21,57
+7593,0,5,Yawin,,wyawin,0,29,7,2020,15,22,8
+7595,0,,,,,0,30,7,2020,0,17,29
+7597,0,Is there anyone here that have experience in developing web services using Scrum?\n\nI need your experience for my thesis defense.\nThanks in advance.,Swardiantara,Silalahi,Swardiantara,0,30,7,2020,1,36,53
+7598,0,,Fitri,,Fithardiyanti,0,30,7,2020,1,38,42
+7599,0,,Fitri,,Fithardiyanti,0,30,7,2020,1,38,42
+7600,0,,Fitri,,Fithardiyanti,0,30,7,2020,1,38,42
+7601,7597,Hay.. You can talk with my friend @abdulazisagungr @Lpratama  and @richter_h,Fitri,,Fithardiyanti,0,30,7,2020,1,39,16
+7602,0,They used scrum before😊,Fitri,,Fithardiyanti,0,30,7,2020,1,39,26
+7603,0,Thankyou.,Swardiantara,Silalahi,Swardiantara,0,30,7,2020,1,42,11
+7604,7602,For web service or common web projects?,Swardiantara,Silalahi,Swardiantara,0,30,7,2020,1,43,2
+7605,0,I think both.. I forgot.. 😂 you can ask them :D,Fitri,,Fithardiyanti,0,30,7,2020,2,10,24
+7606,0,"Okay, thank you for referring them. Have a nice day 🙏",Swardiantara,Silalahi,Swardiantara,0,30,7,2020,2,11,5
+7609,0,,Adhie,,adhie401,0,30,7,2020,9,50,44
+7611,0,7,Adhie,,adhie401,0,30,7,2020,9,51,43
+7613,0,,Musaka,,Musakad,0,30,7,2020,15,40,6
+7615,0,7,Musaka,,Musakad,0,30,7,2020,15,40,26
+7617,0,,Mk,,mk200831,0,30,7,2020,17,54,47
+7619,0,7,Mk,,mk200831,0,30,7,2020,17,55,11
+7621,0,,,,,0,30,7,2020,18,10,55
+7636,0,,,,,0,1,8,2020,4,17,27
+7640,0,,,,,0,1,8,2020,20,14,19
+7642,0,,,,,0,1,8,2020,22,45,30
+7645,0,,,,,0,2,8,2020,0,28,10
+7647,0,,,,,0,2,8,2020,0,29,4
+7651,0,,,,,0,2,8,2020,0,30,49
+7653,0,,,,,0,2,8,2020,0,31,48
+7658,0,,Richard,,Riceh7,0,2,8,2020,14,2,35
+7661,0,,,,,0,2,8,2020,23,17,2
+7663,0,"Hello all, Atlasian would like to invite you to Atlassian Team Tour Singapore (August, 4 2020 - FREE digital event) that we thought you would be interested!   BRI CIO talks about their Agile journey with Atlassian! \n\nLearn about the challenges enterprises are facing today from Cameron Deatsch, Chief Revenue Officer at Atlassian, and learn how to set up your organization for long-term success. Also hear from Bapak Indra Utoyo, CIO of Bank BRI Indonesia as Atlassian customers on what worked, what didn’t, and learnings you can apply to your own enterprise transformation journey.   Make sure to choose Singapore to hear these speakers. Space is limited, more details and register for FREE here: bit.ly/Atlassian_TeamTourSG_IG   Feel free to invite your team mates too! 💙 See you on #TeamTour!",Nesie,,,0,3,8,2020,0,5,41
+7666,0,,,,,0,3,8,2020,4,3,47
+7668,0,,,,,0,3,8,2020,4,6,19
+7681,0,,Samuel,Basdam,Samdam112,0,3,8,2020,8,8,59
+7683,0,,Chantelle,,littlebrowndots,0,3,8,2020,8,13,56
+7689,0,Mungkin bisa membantu\n\nhttps://semawur.com/1fDE2Kj7mcE\n\nhttps://semawur.com/ylUN4Tpp8,,,,0,3,8,2020,11,9,42
+7690,7683,Is there any specific link registration?,Yanuar,Baru,yeteian,0,3,8,2020,11,22,57
+7691,0,u can scan the QR code,Chantelle,,littlebrowndots,0,3,8,2020,11,35,7
+7692,0,Event registration link  https://www.eventbrite.com/e/115578746141/,Chantelle,,littlebrowndots,0,3,8,2020,12,47,17
+7693,0,,Sudirman,,Senz74,0,3,8,2020,15,52,20
+7694,0,,,,,0,3,8,2020,16,31,38
+7696,0,,,,,0,3,8,2020,21,13,51
+7697,0,,,,,0,3,8,2020,21,13,58
+7699,0,,Anisa,Widya S,anisawidyas,0,4,8,2020,1,56,24
+7700,0,,,,,0,4,8,2020,3,4,40
+7704,0,,Nesie,,,0,4,8,2020,10,51,53
+7705,0,"Hi all, to join our meetup tonight you can access this link\nTopic: #AgileMeetup Finding Right Talent in Agile Organization\nTime: Aug 4, 2020 19:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/84700490865?pwd=eldKYWtML1lPWUVIOFZOS0VHQlBWQT09\n\nMeeting ID: 847 0049 0865\nPasscode: 626530",Nesie,,,0,4,8,2020,10,52,12
+7706,0,,Sara,Yunira,sarayunira,0,4,8,2020,11,24,54
+7707,0,,,,,0,4,8,2020,11,42,36
+7710,0,,,,,0,4,8,2020,14,29,44
+7712,0,,,,,0,4,8,2020,15,56,21
+7713,0,,Rajan Julka,,,0,4,8,2020,22,37,57
+7714,0,,Donny,S,Odoon,6281281711554,5,8,2020,2,19,33
+7715,0,,Ari,W,ariw9090,0,5,8,2020,2,21,42
+7716,0,"Siang temen2, berikut link SlideShare untuk materi meetup tadi malam dan meetup 30 Juli kemaren ya:\n4 Agustus: https://www.slideshare.net/AgileCircleIndonesia/finding-right-talent-in-agile-organization\n\n30 Juli: https://www.slideshare.net/thecorporatestartupmeetup/build-your-product-without-coding-nocode-stacks",Nesie,,,0,5,8,2020,5,9,0
+7717,0,Terima kasih,Sessario,Bayu Mangkara,SessarioBayu,0,5,8,2020,6,23,42
+7724,0,,,,,0,6,8,2020,4,52,11
+7726,0,,,,,0,6,8,2020,4,52,46
+7732,0,,#JustAkidFromKamer,,Mboa237,0,6,8,2020,9,16,46
+7734,0,"Hi all, untuk join meetup malam ini ""#TechMeetup Experimentation-Driven Product Development"" bisa lewat link berikut:\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/88334677973?pwd=NjE3WlZWdWRPQVk1Yk9kb05xak5qdz09\n\nMeeting ID: 883 3467 7973\nPasscode: 066189",Nesie,,,0,6,8,2020,10,20,32
+7735,0,,$BACH,,goudotmobi,0,6,8,2020,10,27,50
+7737,0,,$BACH,,goudotmobi,0,6,8,2020,10,54,30
+7739,0,,,,,0,6,8,2020,14,38,16
+7745,0,,,,,0,6,8,2020,16,34,38
+7747,0,,,,,0,6,8,2020,16,35,41
+7749,0,,,,,0,6,8,2020,16,40,18
+7751,0,,,,,0,6,8,2020,16,59,5
+7753,0,,,,,0,6,8,2020,17,0,56
+7755,0,,,,,0,6,8,2020,17,9,11
+7757,0,,,,,0,6,8,2020,17,43,51
+7759,0,,Deni Husni,Fahri Rizal,rizaldhfr,0,6,8,2020,22,28,5
+7761,0,,Lobaraya,,riganpurnama,0,6,8,2020,23,3,33
+7763,0,,Chantelle,,littlebrowndots,0,7,8,2020,2,20,44
+7764,0,,Rikechann05,,Rikechan05,0,7,8,2020,2,57,50
+7766,0,,,,,0,7,8,2020,3,6,44
+7768,0,,,,,0,7,8,2020,3,8,1
+7773,0,,,,,0,7,8,2020,7,18,35
+7777,0,,Socrate,Limon,,0,7,8,2020,14,41,54
+7779,0,,Chantelle,,littlebrowndots,0,7,8,2020,18,55,8
+7780,0,,,,,0,7,8,2020,20,3,3
+7782,0,,May,Lum,ymeiosis,0,8,8,2020,0,35,40
+7784,0,,Vivi,,vivi_mits,0,8,8,2020,5,45,3
+7786,0,,,,,0,9,8,2020,3,19,23
+7790,0,,bima laroibafih,,xxlrvbfh,6285726290457,9,8,2020,13,37,30
+7793,0,,,,,0,10,8,2020,2,20,12
+7795,0,,,,,0,10,8,2020,3,33,24
+7799,0,,,,,0,10,8,2020,10,44,14
+7802,0,,Habibi,Abdillah,gobib,0,10,8,2020,12,45,7
+7804,0,16,Habibi,Abdillah,gobib,0,10,8,2020,12,46,2
+7806,0,,Miftah,Aulia,,0,10,8,2020,14,10,36
+7808,0,,,,,0,10,8,2020,17,18,15
+7813,0,,aryoutomo.co.id,,aryoUtomo,0,11,8,2020,1,1,20
+7815,0,,Andri,Wijaya,,0,11,8,2020,1,21,18
+7817,0,12,Andri,Wijaya,,0,11,8,2020,1,21,59
+7819,0,,,,,0,11,8,2020,3,13,33
+7821,0,13,,,,0,11,8,2020,3,13,42
+7823,0,"does Scrum work ""as is""??? what do you think? https://www.linkedin.com/posts/dannywuysang_agile-scrum-activity-6698775241092608000-h-pY",-danny,,alternat0,0,11,8,2020,3,17,21
+7824,0,"Hi all, join Alibaba Cloud event ""The Next Level of Alibaba Cloud Professional Certification - ACP"" on Thursday, August 13th 7pm-8pm JKT Time\n\nRegistration link: https://qrgo.page.link/VNpbb\n\n#Alibabacloud #alibabacloudindonesia",Nesie,,,0,11,8,2020,3,49,21
+7825,0,,Fella,,fellaftrn,0,11,8,2020,3,52,23
+7827,0,,,,,0,11,8,2020,8,59,23
+7831,0,,Verasvera,Febrina,,0,12,8,2020,5,51,55
+7833,0,9,Verasvera,Febrina,,0,12,8,2020,5,52,19
+7835,0,,Bila,,Nabilah321,0,12,8,2020,7,23,30
+7837,0,10,Bila,,Nabilah321,0,12,8,2020,7,23,45
+7841,0,,-danny,,alternat0,0,12,8,2020,10,49,46
+7842,0,What's the product idea culture in your organization like?,-danny,,alternat0,0,12,8,2020,10,49,58
+7843,0,,dani,,dhanizael,0,12,8,2020,11,56,39
+7845,0,12,dani,,dhanizael,0,12,8,2020,11,57,8
+7850,0,,Agung,Laksono,,0,12,8,2020,23,34,10
+7852,0,16,Agung,Laksono,,0,12,8,2020,23,34,27
+7859,0,,Arginanta,,,0,13,8,2020,17,24,34
+7861,0,6,Arginanta,,,0,13,8,2020,17,24,53
+7863,0,,,,,0,13,8,2020,21,39,6
+7865,0,Lowongan\nPT KONTROL POWER UTAMA\n\n\nButuh satu orang project control untuk di tempatkan ke proyek RDMP Balikpapan Kalimantan timur\n\nSyarat \nMenguasai Primavera\n\nBagi yang berkenan bisa mengirimkan CV ke HRD@KPU.CO.ID\n\nTerimakasih,Arief Fadillah,Muhammad,Greywonggg,0,13,8,2020,22,32,35
+7866,0,"Agile SEA 2020 is a virtual conference bringing together various regional Agile communities across South East Asia for a two-night event featuring regional and international speakers, for a total of 4 talks, to bring agilists, practitioners and the curious from all over South East Asia. Our hopes is to bring knowledge to the various communities and to create connections across the region.\n\nPlease meet our esteemed speakers:\n• Lyssa Adkins - Author of Coaching Agile Teams\n• Shawn Cheng – CEO of Tribeless and creator of the Empathy Box\n• Alex Sloley – Season Agile veteran, Microsoft alumni and all-around awesome guy\n• Ruben Canlas Jr. – Organisational Change Mentor, Agile Coach and educator\n\nThe event is free! Though you can support us too with an optional ~USD2.50 supporter ticket where you will get the recordings of the events and proceeds go to charity. That’s like, having your cake and doing good at the same time!\n\nVisit our event website at https://agile-sea.com/\nand get your ticket at https://agilesea2020.peatix.com/",Nesie,,,0,14,8,2020,5,10,26
+7867,7842,we've killed the CEO,Hugo,Messer,,0,14,8,2020,7,9,29
+7868,7867,sacrificed to the Agile gods 🤣,-danny,,alternat0,0,14,8,2020,7,14,15
+7869,7868,"The fewer C, the better (but it only works if we have accountable people). Yeah and Gods help too :)",Hugo,Messer,,0,14,8,2020,7,31,30
+7870,7869,👍🏼 😆,-danny,,alternat0,0,14,8,2020,7,43,14
+7871,7867,😅,Angga,Pratama,angga07,0,14,8,2020,7,54,52
+7872,7867,this is epic comment ever! 😂,Anggy Edo,Prasetya,anggyedo,0,14,8,2020,8,26,29
+7873,7872,Hahahaha. Who needs a CEO anyway,Hugo,Messer,,0,14,8,2020,8,28,12
+7874,0,,Mutmainna,,Mutmaiinnaa,0,14,8,2020,10,23,15
+7876,0,16,Mutmainna,,Mutmaiinnaa,0,14,8,2020,10,24,8
+7878,7873,"The shareholder, \nIf I invest in a company, I need to who's in charge and accountable.\n\nThe government,\nIt is crucial to know who's ultimately accountable for any misconduct in the fair treatment of the employee, noncompliance in tax or other government regulation, any misconduct that violates legal regulations.\n\n\nSo, who wants to be the CEO? 😁😁",Akbar,Azwir,AkbarAzwir,0,14,8,2020,11,24,48
+7879,0,Yayayaya 😃,Hugo,Messer,,0,14,8,2020,11,29,3
+7880,0,So we need a CEO. What about the rest of c,Hugo,Messer,,0,14,8,2020,11,29,19
+7881,7880,"That's you, as the CEO, to decide 😁😁😁",Akbar,Azwir,AkbarAzwir,0,14,8,2020,11,45,48
+7884,0,,yulia sucitra,,,0,14,8,2020,14,57,6
+7886,0,,Jlius,Suweno,jliussuweno,0,14,8,2020,15,17,32
+7888,0,16,Jlius,Suweno,jliussuweno,0,14,8,2020,15,17,49
+7890,0,Thank you for let me joining,Jlius,Suweno,jliussuweno,0,14,8,2020,15,19,16
+7891,0,,,,,0,14,8,2020,15,48,56
+7896,0,,Fidelis Elinus,Zebua,photofidel,0,14,8,2020,18,11,20
+7905,0,,,,,0,15,8,2020,1,36,47
+7907,0,,,,,0,15,8,2020,1,44,28
+7909,0,,Arya,Sukma Wijaya,AryaSukma,0,15,8,2020,2,55,3
+7911,0,"Hi Agile Scrum Enthusiast,\n\nTerima kasih telah berpartisipasi pada acara Digital Innovation Week 2020 by Ekipa pada 20 - 24 Juli 2020.\n\nTotal donasi terkumpul dari event tersebut sejumlah Rp3.297.000,00 telah diterima oleh campaign Selamatkan Nyawa Sesama! #BersamaLawanCorona dari Kitabisa.com \n\nSaat ini, kami juga sedang membuka donasi Food Donations for Newly Homeless in Bali, dan kamu bisa berdonasi melalui link berikut:\nhttps://kitabisa.com/campaign/EkipaCharityProject\n\nThe more money we get, the more food packages, the more hungry people we help!\n\nCheers,\nEkipa",Nesie,,,0,15,8,2020,3,0,30
+7912,0,,Nesie,,,0,15,8,2020,3,0,45
+7916,0,,Fitri,,ftrannisa,0,15,8,2020,11,1,9
+7918,0,,oreo,,Oreotanggo,0,15,8,2020,15,33,11
+7920,0,,Mirza,,Mirza_0,0,15,8,2020,16,40,59
+7922,0,,,,,0,15,8,2020,17,2,10
+7926,0,,,,,0,15,8,2020,20,36,19
+7930,0,,Deni,,Densxn07,0,16,8,2020,0,43,41
+7932,0,12,Deni,,Densxn07,0,16,8,2020,0,43,55
+7940,0,,,,,0,16,8,2020,10,52,3
+7943,0,,,,,0,17,8,2020,0,29,15
+7946,0,,Angel,Ortiz,,0,17,8,2020,2,0,16
+7950,0,,Yohannes,Nababan,nessnbn,0,17,8,2020,4,25,15
+7961,0,,,,,0,17,8,2020,5,28,15
+7965,0,,Naufal,,naufalridhoh,0,17,8,2020,7,4,24
+7973,0,,,,,0,18,8,2020,4,35,0
+7978,0,,Horidah,,Horidah,0,18,8,2020,11,11,18
+7980,0,13,Horidah,,Horidah,0,18,8,2020,11,11,42
+7986,0,,,,,0,19,8,2020,1,51,51
+7988,0,11,,,,0,19,8,2020,1,52,3
+7991,0,,riyo,santo,riyosanto,0,19,8,2020,2,41,59
+7993,0,17,riyo,santo,riyosanto,0,19,8,2020,2,42,14
+7997,0,,,,,0,19,8,2020,4,8,10
+8002,0,,,,,0,19,8,2020,5,34,32
+8004,7842,"If it improves the business and our products, let's do it :D We'll find the budget somehow.",Arvy,Budiarto,arvy_budiarto,0,19,8,2020,5,53,19
+8013,0,,Markus,,,0,19,8,2020,11,28,37
+8015,0,,,,,0,19,8,2020,15,45,14
+8019,0,,,,,0,19,8,2020,19,39,14
+8021,0,,,,,0,19,8,2020,19,51,47
+8025,0,,Serigne,Ndiaye,,0,19,8,2020,21,34,3
+8027,0,Hello guys,Serigne,Ndiaye,,0,19,8,2020,21,37,31
+8028,0,Who van assist for agile certification i need any book,Serigne,Ndiaye,,0,19,8,2020,21,38,21
+8029,0,Or test to check how can i prépare the exam,Serigne,Ndiaye,,0,19,8,2020,21,39,0
+8033,0,[Serigne](tg://user?id=832590333) which certification are you planning to take?,-danny,,alternat0,0,20,8,2020,0,53,27
+8034,0,,Asrul,Fikri,asrulfikri,0,20,8,2020,2,22,36
+8037,0,,Ramadhika,,ramdikk,0,20,8,2020,4,19,40
+8039,0,,Andrian,Prasetyo,andrianprasetyo,0,20,8,2020,4,22,18
+8041,0,15,Andrian,Prasetyo,andrianprasetyo,0,20,8,2020,4,22,34
+8044,0,,Chantelle,,littlebrowndots,0,20,8,2020,8,20,11
+8045,0,,,,,0,20,8,2020,13,34,56
+8048,0,,,,,0,21,8,2020,2,3,52
+8051,0,,Msughter G.,Ierve,Msughter_IG,0,21,8,2020,3,18,43
+8054,0,,Msughter G.,Ierve,Msughter_IG,0,21,8,2020,3,21,10
+8060,0,,Chantelle,,littlebrowndots,0,21,8,2020,6,4,22
+8061,0,,Nesie,,,0,21,8,2020,6,45,38
+8062,0,"Agile Circles Indonesia turut berbela sungkawa, atas wafatnya Andeka Putra, pembicara di salah satu meetup Agile Circles Indonesia pada 19 Juni 2019. \n\nSemoga amal ibadah beliau diterima di sisi-Nya dan diberikan ketabahan serta keikhlasan bagi keluarga yang ditinggalkan, Aamiin.",Nesie,,,0,21,8,2020,6,45,54
+8064,0,Aamiin...,Rofia,K.,rofiakareem,0,21,8,2020,11,51,19
+8073,0,,,,,0,21,8,2020,18,56,51
+8076,0,,Yumanfrz,,ymirfrz,0,22,8,2020,1,45,47
+8078,0,,abdarafi,,abdarafi,0,22,8,2020,4,12,58
+8082,0,,,,,0,22,8,2020,9,23,39
+8085,0,,,,,0,22,8,2020,12,3,8
+8088,0,,D,,Kridnu,0,22,8,2020,13,11,25
+8091,0,6,D,,Kridnu,0,22,8,2020,13,11,38
+8093,0,,,,,0,23,8,2020,2,24,56
+8096,0,,,,,0,23,8,2020,3,42,27
+8099,0,,Yudistira,Elton Jhon,yudistiraelton,0,23,8,2020,15,1,9
+8102,0,,,,,0,23,8,2020,18,43,1
+8105,0,,,,,0,24,8,2020,0,55,28
+8108,0,,,,,0,24,8,2020,2,25,25
+8111,0,,Arif,Suryanto,,0,24,8,2020,2,41,48
+8114,0,,,,,0,24,8,2020,4,37,8
+8117,0,"Halo temen2, besok kita ada meetup, yang mau join bisa registrasi lewat link ini ya https://bit.ly/agilecirclesol_19",Nesie,,,0,24,8,2020,5,39,18
+8118,0,,,,,0,24,8,2020,13,7,50
+8121,0,,Afina,Putri D.,afinapd,0,24,8,2020,13,56,42
+8124,0,,,,,0,24,8,2020,15,10,4
+8127,0,,,,,0,24,8,2020,15,36,54
+8130,0,,Dewi,W,dewiwxyz,0,25,8,2020,1,18,4
+8134,0,,T,Ahmad,rizqifdh,0,25,8,2020,2,23,5
+8137,0,,,,,0,25,8,2020,4,59,0
+8140,0,,Danang,Juffry,danjuf,0,25,8,2020,9,47,55
+8141,0,"Hi, Tech Enthusiast!\n\nSuka wondering ga sih startup itu dapet revenue atau profitnya dari mana? Tau-tau dapet investment, jadi terkenal dan impactful banget, terus tau-tau jadi unicorn. \n\nTernyata ga sesederhana itu. \n\nBanyak startup yang jatuh ke dalam jebakan passion atau hanya mengutamakan growth tanpa merencanakan bagaimana membangun bisnis yang sustainable. Padahal dalam membangun startup, selain menjadi disruptif dan memberikan impact, seorang founder juga harus memperhatikan bagaimana bisnis model mereka dibentuk, karena startup pada dasarnya tetaplah badan usaha yang tentunya membutuhkan aliran revenue agar tetap berjalan. Ditambah lagi saat ini sudah banyak perkembangan model bisnis yang bisa di explore, yang dapat memberikan revenue stream yang sehat.\n\nMenjawab masalah di atas, kita bakal belajar kenapa memilih satu model bisnis yang viable atau layak sangat penting bagi kelangsungan sebuah startup, cara mengetahui apakah bisnis model kamu viable atau tidak, lalu harus bagaimana jika belum menemukan model bisnis yang cukup sehat untuk startup kamu?\n\nSemuanya akan dibahas di Kopi Chat Deep Dive: “Creating A Viable Startup Business Model” pada:\n\nRabu, 26 Agustus 2020\n19.00-20.00 WIB\n\n*Pembicara: *\nAgung Bezharie - CEO, Warung Pintar\nAgustiadi Lee - Program Director, Innovation Factory\n\nKlik disini untuk mendaftar:\n\nhttp://bit.ly/kopichatdeepdive002\n\nPeserta terbatas. Grab it fast!",Danang,Juffry,danjuf,0,25,8,2020,9,48,6
+8145,0,,Bayu Andrianto,Wirawan,bay_andri,0,25,8,2020,12,24,21
+8148,0,,Hendy,K,hkarles,0,25,8,2020,13,40,24
+8151,0,,Ahmat Dani Setiawan,,maxxoto,0,25,8,2020,13,40,33
+8154,0,,Nanda Reynaldi,,nandareynaldi,0,25,8,2020,13,40,46
+8157,0,,San,,san_Nk,0,25,8,2020,13,41,0
+8160,0,,kangfiki,,,0,25,8,2020,13,41,55
+8163,0,,,,,0,25,8,2020,13,43,36
+8166,0,,,,,0,25,8,2020,18,13,11
+8169,0,,Jose,G,,0,25,8,2020,19,49,34
+8172,0,,Abinda Dwi,Nur Ahmad,abinda_dna,0,26,8,2020,8,36,40
+8174,0,"Halo teman2, untuk join sesi webinar besok bisa registrasi lewat link berikut https://bit.ly/ekipaevent_05\n\nSee you!",Nesie,,,0,26,8,2020,8,40,17
+8175,0,Terimakasih infonya,Si Dan,,Siprotein,0,26,8,2020,10,7,28
+8176,0,,,,,0,26,8,2020,20,47,20
+8180,0,,Agung,,,0,27,8,2020,0,49,43
+8183,0,,Muhammad,Riski,,0,27,8,2020,1,46,32
+8186,0,,,,,0,27,8,2020,4,50,17
+8189,0,,Usup,Suparma,usupsuparma,0,27,8,2020,4,53,34
+8192,0,,Andri,,ANDRI_517,0,27,8,2020,5,13,1
+8195,0,,mimi,,bqhelmiana,0,27,8,2020,9,3,42
+8198,0,19,mimi,,bqhelmiana,0,27,8,2020,9,4,21
+8200,0,thank you,mimi,,bqhelmiana,0,27,8,2020,9,4,56
+8201,0,,,,,0,27,8,2020,13,57,39
+8204,0,,,,,0,27,8,2020,19,58,39
+8216,0,,,,,0,27,8,2020,21,59,44
+8222,0,,,,,0,27,8,2020,22,13,13
+8225,0,,Aleena,G. Norta,dear_alena,0,28,8,2020,2,14,38
+8228,0,13,Aleena,G. Norta,dear_alena,0,28,8,2020,2,15,13
+8230,0,,,,,0,28,8,2020,7,4,39
+8233,0,"Hi All,\n\nPandemi COVID-19 telah menimbulkan kekhawatiran dan sangat berdampak pada sektor perekonomian di Indonesia, tak terkecuali pada sektor pariwisata.\n\nBali, yang mayoritas mata pencarian penduduknya bergantung pada kegiatan pariwisata, saat ini berada pada kondisi ekonomi terburuk. Banyak pekerja migran di Bali yang terpaksa kehilangan pendapatan dan menghadapi tantangan besar setiap harinya untuk bertahan hidup.\n\nDikarenakan keadaan tersebut, kami dari Ekipa dan komunitas Agile Circles Indonesia dan The Corporate Startup, mengajak kamu untuk membantu mereka yang terdampak pandemi COVID-19 melalui donasi yang kami buka.\n\nDonasi yang kamu berikan, akan digunakan untuk membeli paket pangan (Rp100.000,00 per paket) yang cukup untuk memberi makan satu keluarga selama satu minggu.\n\nInformasi lebih lanjut bisa dicek di flyer berikut atau kontak kami melaui:\n+62 857-1105-9332 (Nesie)\n+62 811-2142-341 (Fitri)\n\nKamu juga dapat memberikan bantuan dengan cara ikut membagikan postingan ini ke teman-temanmu\n\nCheers,",Nesie,,,0,28,8,2020,7,37,23
+8234,0,,Nesie,,,0,28,8,2020,7,37,23
+8235,0,we also made a page for it (it would be great if you can share this in your social media guys) https://www.gofundme.com/f/bali-is-hungry,Hugo,Messer,,0,28,8,2020,7,41,41
+8236,0,,,,,0,28,8,2020,8,54,58
+8239,0,https://evogility.com.au/story-points-should-you-use-them/,Angga,Pratama,angga07,0,28,8,2020,9,6,14
+8240,0,wdyt guys ?,Angga,Pratama,angga07,0,28,8,2020,9,6,28
+8241,0,,Mentari 2020,,mentari2020,0,28,8,2020,13,30,29
+8244,0,,AsepHerb,,AsepHerb,0,28,8,2020,16,3,57
+8247,0,8,AsepHerb,,AsepHerb,0,28,8,2020,16,4,9
+8252,0,,Rini,Rit,Rinirit,0,29,8,2020,1,56,27
+8255,0,,,,,0,29,8,2020,7,28,15
+8258,0,,,,,0,29,8,2020,9,43,44
+8264,0,,,,,0,29,8,2020,13,30,58
+8270,0,,Aziz,Muhammad,dazziest,0,29,8,2020,22,1,0
+8273,0,12,Aziz,Muhammad,dazziest,0,29,8,2020,22,1,33
+8275,0,,أآنوشــــــــةـة 🕊️❤️,,,0,30,8,2020,6,30,19
+8278,0,15,أآنوشــــــــةـة 🕊️❤️,,,0,30,8,2020,6,30,27
+8280,0,,,,,0,30,8,2020,9,31,29
+8283,0,,Why,AbinaRakeyan,,0,30,8,2020,10,14,39
+8289,0,,,,,0,30,8,2020,23,15,45
+8295,0,,,,,0,31,8,2020,2,36,20
+8298,0,,,,,0,31,8,2020,3,18,40
+8301,0,,,,,0,31,8,2020,18,14,36
+8305,0,,Stella,Jones,,0,31,8,2020,20,17,3
+8308,0,,,,,0,1,9,2020,0,58,13
+8311,0,20,,,,0,1,9,2020,0,58,38
+8313,0,"Startup Grind Jakarta will be hosting a very exciting 3-day Virtual Startup Growth Conference with incredible line-up and a Startup Pitch Battle on 10-12 September!\n\nGet your Startup funded and win exciting prizes such as one-year Startup Grind Membership, Golden Ticket to Plug and Play Indonesia, Free Office Space from Apiary Coworking Space and Mentorship from the VCs!\n\nRegister your Startup here today: bit.ly/SGJakartaPB\n\nJudges:\nGani Lie from Centauri Fund (MDI Ventures)\nJunia Layardi from Indogen Capital\nMichelle Irawan from Skystar Capital\nRaditya Pramana from Venturra Discovery\nRJ Balmater from Monk's Hill Ventures\nWilliam Auwines from Kolibra Capital",Rafael,Sutoyo,,0,1,9,2020,5,27,37
+8314,0,,A,I,Nycthophile1423,0,1,9,2020,11,43,23
+8317,0,,,,,0,1,9,2020,11,48,44
+8320,0,20,,,,0,1,9,2020,11,48,58
+8323,0,"Agile & Innovation by Ekipa is inviting you to a scheduled Zoom meeting.\n\nTopic: #AgileMeetup How to Shape Your Leadership During Crisis\nTime: Sep 1, 2020 19:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/87626357943?pwd=VkRrQzlEcXovdEd2M3ZGVnNURnNSZz09\n\nMeeting ID: 876 2635 7943\nPasscode: 201652",Nesie,,,0,1,9,2020,11,51,47
+8327,0,,,,,0,1,9,2020,12,48,38
+8330,0,,,,,0,1,9,2020,13,7,24
+8336,0,,,,,0,1,9,2020,13,47,55
+8339,0,,,,,0,1,9,2020,14,52,10
+8342,0,,,,,0,1,9,2020,14,53,14
+8345,0,,,,,0,1,9,2020,18,42,34
+8348,0,,Kak Seto Kaiba,,butterxxx,0,1,9,2020,19,33,6
+8351,0,15,Kak Seto Kaiba,,butterxxx,0,1,9,2020,19,33,43
+8353,0,,Anindya,,Anindya1111,0,2,9,2020,0,45,1
+8360,0,,Tommy F Rumengan,,TommyFRumengan,0,2,9,2020,14,27,26
+8363,0,,,,,0,3,9,2020,9,13,11
+8366,0,,,,,0,3,9,2020,9,34,2
+8369,0,"To join our meetup tonight:\n\nTopic: #TechMeetup Practical Guide to Become Problem Solving Expert\nTime: Sep 3, 2020 19:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/84941980765?pwd=L3ZFZE1WY25kOFV0RU1IalhURWk1Zz09\n\nMeeting ID: 849 4198 0765\nPasscode: 412570",Nesie,,,0,3,9,2020,10,1,0
+8370,0,"[Virtual] Startup Growth Conference 2020\n\nThe year 2020 has brought the wildest and fastest changes in our businesses. Your startup does not only have to be adaptable, but also sustainable in order to survive the rapid changes.\n\nGain valuable insights and network with fellow entrepreneurs in #StartupGrowthConference. With excellent speakers from Astra, Gojek and OTO, and many more, you won’t leave empty-handed.\n\nAbout the event:\n\nStartup Growth Conference is a 3-day virtual event, packed with multiple talks and workshops that will accelerate your business growth in various aspects: leadership, financials, business management, digital marketing, etc.\n\nYou will have the chance to get funding for your Startup at our Startup Pitch Battle, where you will also get valuable feedback from 6 of Indonesia’s best Venture Capitals.\n\nRegister now and don't miss out on the chance to accelerate your startup GROWTH :\nloket.com/event/sgcon2020\n\nFor further details, contact 082187104742 (Bee)",Rafael,Sutoyo,,0,3,9,2020,10,34,30
+8371,0,,,,,0,3,9,2020,14,47,20
+8375,0,,,,,0,4,9,2020,0,38,48
+8378,0,"*The Journey to an Agile Enterprise - Fransiscus Kaurrany (Executive Vice President BCA)*\n\nApa sebenarnya ""agile""? Bagaimana menerapkan prinsip agile dalam organisasi? Bagaimana cara men-transformasi perusahaan sebesar BCA? Apa tantangan dan bagaimana kiat menghadapinya? Fransiscus Kaurrany (EVP BCA) akan berbagi tentang bagaimana BCA berhasil mendapatkan manfaat dari penerapan agile culture, setelah melalui perjalanan yang cukup panjang. \n\nKeep relevant and enjoy!\n\nhttps://www.youtube.com/watch?v=7fMuZoLM6Lo&list=PLqbGKqeYae3SVmr8WbBO41VdhGwJIsBC1&ab_channel=TechMinutes\n\n_Tech Minutes. PODCast by Ikatan Alumni Fakultas Ilmu Komputer Universitas Indonesia._",Hugo,Messer,,0,4,9,2020,12,47,15
+8379,0,,,,,0,5,9,2020,2,19,13
+8382,0,"https://medium.com/@arief.wara/spin-up-jetty-at-minimum-ec75e9529a1?sk=f60df7e0c0b23202e02df01d36b793ce\nguys, I need your advice for this article, thanks before",,,,0,5,9,2020,3,53,16
+8383,0,,,,,0,5,9,2020,4,20,16
+8386,0,,Azman,Abdullah,Azmanabdlh,0,5,9,2020,13,10,16
+8389,0,,,,,0,5,9,2020,14,43,19
+8392,0,,,,,0,5,9,2020,19,5,29
+8398,0,,,,,0,5,9,2020,23,44,39
+8404,8378,Thanks Hugo 😊,Ahmad,Firdaus,,0,6,9,2020,3,31,56
+8405,0,,,,,0,6,9,2020,8,40,38
+8408,0,,,,,0,6,9,2020,11,12,43
+8411,0,,H,,hilmyhanif,0,6,9,2020,12,50,46
+8414,0,,Jaka,Pradana,aajap,0,6,9,2020,15,22,41
+8417,0,,Jaka,Pradana,aajap,0,6,9,2020,15,47,26
+8420,0,,,,,0,6,9,2020,16,48,22
+8423,0,"Link registrasi meetup Kamis, 10 September https://bit.ly/agilecirclesol_26",Nesie,,,0,7,9,2020,11,17,52
+8424,0,,Muhammad,Faruq R. M.,mfaruqrm,0,7,9,2020,13,4,14
+8427,0,,Her,,AL_HERVY22,0,7,9,2020,14,56,6
+8431,0,,,,,0,7,9,2020,18,22,17
+8434,0,,,,,0,7,9,2020,18,31,23
+8437,0,,,,,0,7,9,2020,21,49,40
+8444,0,,N Najib N K,,,0,8,9,2020,1,30,4
+8447,8446,12,N Najib N K,,,0,8,9,2020,1,30,40
+8452,0,,Edwin C.,,,0,8,9,2020,3,36,31
+8455,0,,Sindhu,,,0,8,9,2020,6,35,5
+8458,0,,,,,0,8,9,2020,8,34,47
+8463,0,,Rizky,Harahap,rizki_haphap,0,8,9,2020,15,31,28
+8466,0,7,Rizky,Harahap,rizki_haphap,0,8,9,2020,15,31,52
+8468,0,,,,,0,8,9,2020,17,24,34
+8471,0,,Kushal,Joshi,kushalbhaktajoshi,0,8,9,2020,20,17,34
+8474,0,,Kushal,Joshi,kushalbhaktajoshi,0,8,9,2020,20,21,1
+8477,0,11,Kushal,Joshi,kushalbhaktajoshi,0,8,9,2020,20,21,24
+8479,0,,,,,0,8,9,2020,21,25,40
+8482,0,,Hendra,Fp,Hendrafp,0,9,9,2020,4,9,9
+8485,0,,Hendra,Fp,Hendrafp,0,9,9,2020,4,10,34
+8487,0,6,Timothy,,anggatimothy,0,9,9,2020,5,11,17
+8488,0,,Iqbal9,,Iqbal8788899,0,9,9,2020,5,34,40
+8491,0,,David,Nurhandono,davidnurhandono,0,9,9,2020,6,56,40
+8494,0,,Happy Agility,,Happyagility,0,9,9,2020,11,22,35
+8497,0,,,,,0,9,9,2020,22,21,18
+8506,0,,,,,0,10,9,2020,6,55,23
+8509,0,,SULTAN,.,THESULTANSTUDIOS,0,10,9,2020,10,24,37
+8512,0,"To join our meetup tonight:\n\nTopic: #AgileMeetup Put Customer as part of your Product\nTime: Sep 10, 2020 19:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/85671123184?pwd=eVRZRXBWL1hUaWlmNGNKZmluMUM0Zz09\n\nMeeting ID: 856 7112 3184\nPasscode: 434754",Nesie,,,0,10,9,2020,11,46,20
+8513,0,"Malam semua, Agile Circles dapat 4 free ticket untuk join event TechnoScape nya BNCC, kalo ada yang tertarik bisa pc saya aja ya. Bakal saya kirimin datanya buat 4 orang pertama. Thank you",Nesie,,,0,10,9,2020,13,36,47
+8519,0,,,,,0,10,9,2020,23,30,18
+8522,0,,Amber,Hahn,,0,10,9,2020,23,33,19
+8525,0,,Amalia,,amalgalleryid,0,11,9,2020,6,7,18
+8528,0,,,,,0,11,9,2020,8,5,24
+8531,0,,,,,0,11,9,2020,11,1,38
+8534,0,,,,,0,11,9,2020,11,48,51
+8537,0,,,,,0,11,9,2020,16,57,56
+8540,0,,,,,0,11,9,2020,19,17,57
+8543,0,"To join Ekipa's session this morning at 10AM (will be delivered in Bahasa and English)\n\nTopic: #EkipaEvent ""Stop the Meetings, Start Collaborating! (Part 2)""\nTime: Sep 12, 2020 10:00 Jakarta\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/87012445128?pwd=V21lQlAyWTFISUozdXJtRlIrWDFlUT09\n\nMeeting ID: 870 1244 5128\nPasscode: 830364",Nesie,,,0,12,9,2020,0,55,28
+8544,0,"Startup Grind Jakarta lagi ada acara VC panel talk ini sekarang banget, ngebahas tentang Growth Hacking for Startups : VC Perspective. Boleh banget join guys. Tinggal daftar lewat link di bawah. Utk Startup Pitch Battle akan mulai jam 1, boleh juga daftar lewat link di bawah\n\nVC yang hadir ada banyak, antara lain : MDI Ventures, Skystar, Indogen Capital, Alpha Momentum, Kolibra Capital, Monk's Hill, Venturra Discovery\n\nVC Panel Talk: https://www.startupgrind.com/j/s6qgx8q78qqt5/\nStartup Pitch battle: https://www.startupgrind.com/j/2c5rwqgxydzf8/",Rafael,Sutoyo,,0,12,9,2020,4,15,57
+8545,0,,,,,0,12,9,2020,5,21,56
+8548,0,,,,,0,12,9,2020,15,24,11
+8551,0,,,,,0,12,9,2020,15,25,12
+8557,0,,,,,0,12,9,2020,21,24,41
+8569,0,,,,,0,13,9,2020,6,34,10
+8572,0,/stat@combot,Ferry,,,0,13,9,2020,6,39,50
+8574,0,,Rafly,Nagachi,Nagachi,0,13,9,2020,6,58,35
+8577,0,,,,,0,13,9,2020,17,16,31
+8589,0,,Nanda,S,dudusamidi,0,14,9,2020,6,11,47
+8592,0,,Nanda,S,dudusamidi,0,14,9,2020,6,13,21
+8595,0,,Nanda,S,dudusamidi,0,14,9,2020,6,14,51
+8598,0,,Rumaisha,,,0,14,9,2020,6,47,54

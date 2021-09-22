@@ -1,0 +1,896 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+1067,1066,Mantapp.. 👍,Dianto,,Dian_774,0,19,12,2019,12,18,41
+1068,0,Mau Tanya klo hosting an gratis untuk deploy node Dan mongodb di Mana yah ?,,,,0,20,12,2019,3,26,51
+1069,0,"Di heroku, ada versi gratisnya kak",Rahmat,Hidayat HM,rahmathm,0,20,12,2019,3,27,46
+1070,1069,Thanks om,,,,0,20,12,2019,3,28,42
+1071,0,,Syawal,,,0,20,12,2019,3,57,30
+1074,0,ada punya saran kenapa sharedprefense ku tidak pernah jalan mastah ini source 😢 nya https://pastebin.com/xfJ5LL2a,,,,0,21,12,2019,5,33,29
+1075,0,"Bgaimana pengalamanta kakak"" disini slama pakai flutter untuk buat aplikasi bisa dibagi"" pengalamannya😁dan tips dan triknya kak blajar flutter makasih😁",NasgorDev,,fianputra157,0,21,12,2019,5,36,51
+1076,0,baru belajar juga buat aplikasi,,,,0,21,12,2019,5,37,22
+1077,1074,@DhytoDev,,,,0,21,12,2019,5,37,37
+1078,0,,Brillianita,,Brillianita,0,21,12,2019,10,13,45
+1079,0,"ada nggak ya, yang belajar flutter dari youtube.. 7 jam gini.. 🤔\n\nhttps://youtu.be/dc3B_mMrZ-Q",oon,,oonid,0,21,12,2019,16,20,1
+1080,1079,Hahah.. ini ada seri pendek-pendeknya kok.,Fordyta Abubakar,,DhytoDev,0,21,12,2019,16,22,22
+1081,0,"itu kalo ditonton dari habis isya, bisa sampai subuh.. 🙊",oon,,oonid,0,21,12,2019,16,22,59
+1082,1081,"Bisa lebih, klo nontonnya sambil mempraktikkan apa yg ditonton 😂",Fordyta Abubakar,,DhytoDev,0,21,12,2019,16,25,23
+1084,1079,"Lebih suka video official flutter widget of the week, per widget di bahas semenit, dengan penjelasan yg sangat mudah dimengerti,",Dianto,,Dian_774,0,21,12,2019,17,52,6
+1085,0,(Untuk widget),Dianto,,Dian_774,0,21,12,2019,17,52,16
+1086,1084,yang itu tadi kelasnya kayak the boring show.. lamaaa 🙈,oon,,oonid,0,21,12,2019,17,55,11
+1087,0,,Fordyta Abubakar,,DhytoDev,0,22,12,2019,15,10,54
+1088,0,Makasih kak <3,Saya,,codeeve,0,22,12,2019,15,12,25
+1089,1088,"Selamat datang, kak Kas Mirsya Riati 🖐",Fordyta Abubakar,,DhytoDev,0,22,12,2019,15,13,35
+1090,0,Ada yang punya solusi gan ?,,,,0,22,12,2019,15,15,30
+1091,1090,"Itu ngapain ? \n\nItu kata log errornya, ada kesalahan format..",Fordyta Abubakar,,DhytoDev,0,22,12,2019,15,17,15
+1092,1091,Parsing data json om,,,,0,22,12,2019,15,17,38
+1093,0,Mau buat crud register tapi error terus,,,,0,22,12,2019,15,17,58
+1094,1092,Coba dicek lagi format jsonnya.. Sdh tepat atau belum.,Fordyta Abubakar,,DhytoDev,0,22,12,2019,15,18,41
+1095,0,Kan di db API nya Ada 5 tabel tapi cuma mau namba data username nama Dan password,,,,0,22,12,2019,15,20,6
+1096,0,"Mungkin bisa disertakan juga, usaha apa yg sdh dilakukan dan output seperti apa yg diinginkan. Jgn skrinsut errornya saja, klo kayak gini jadinya main tebak-tebakan 🙊\n\nBiar memudahkan teman2 yg mau menjawab.",Fordyta Abubakar,,DhytoDev,0,22,12,2019,15,20,54
+1097,0,Saya share source nya,,,,0,22,12,2019,15,21,36
+1098,1096,ini kak https://pastebin.com/G2HF4REr,,,,0,22,12,2019,15,36,25
+1099,0,"kalo `response.body` nya itu dicetak, apa yang muncul mungkin bisa ditaruh di pastebin juga..\n\ntemen-temen yang mau mencoba kodenya kan nggak punya tuh username dan password.",oon,,oonid,0,22,12,2019,15,40,18
+1100,1099,ok om,,,,0,22,12,2019,15,44,54
+1101,1088,Selamat datam omm....  🌹,Dianto,,Dian_774,0,22,12,2019,18,2,26
+1102,1101,"Makasih, mohon bimbingannya kak.",Saya,,codeeve,0,23,12,2019,1,45,11
+1103,1102,"Edd ngapamo mentor andalangg,, 😬",Dianto,,Dian_774,0,23,12,2019,7,8,19
+1104,0,sunyi nya hehe,ZAN,,,0,25,12,2019,11,27,29
+1105,0,sunyinya hehe,,,,0,27,12,2019,15,41,25
+1106,1105,Akuisisi🔥😄,ZAN,,,0,27,12,2019,15,43,15
+1107,1106,monggo mas 🤝,,,,0,27,12,2019,15,43,35
+1108,0,Mantap,,,,0,27,12,2019,15,43,43
+1109,1105,Bisami kerja d google🤣,ZAN,,,0,27,12,2019,15,44,24
+1110,1109,jadi OBnya 😄,,,,0,27,12,2019,15,44,42
+1111,0,Haha 😅,ZAN,,,0,27,12,2019,15,45,11
+1112,0,Aamin kn saja,ZAN,,,0,27,12,2019,15,45,27
+1113,0,🤣,ZAN,,,0,27,12,2019,15,45,35
+1114,1112,Amiiin 🙏 😄,,,,0,27,12,2019,15,46,20
+1115,1114,Ad mi basecamp ini kykx cuma ndk d share dsini grup hehe🙄😭,ZAN,,,0,27,12,2019,15,49,6
+1116,809,900an lagi..\n\nawal Januari ini kayaknya.. 🤔,oon,,oonid,0,27,12,2019,18,42,11
+1117,1116,,Dianto,,Dian_774,0,28,12,2019,17,29,0
+1118,0,"BERKAH AKHIR TAHUN!\n\nTak terasa sudah dipenghujung akhir tahun 2019, Udacoding mau bagi-bagi Kupon kursus online Udemy Gratis lagi nih!\n\nBagi yang kemarin ga sempet dapat THR 1440 dari Udacoding, tenang! kali ini udacoding ngasih Kupon Gratis belajar online di Udemy lebih banyak lagi!😱\n\nYups! 2020 Kupon GRATISSS belajar online di Udemy!🤩\n\nNgomong-ngomong jangan sampai kehabisan lagi ya Kuponnya!\n\nYuk buruan cepet-cepetan enroll! Waktu terbatas hanya untuk 3 hari!\n\n1. Membuat Aplikasi iOS dengan Swift & XCode\nhttp://bit.ly/2020iOSSwift\n\n2. Happy Flutter - Sport News Apps\nhttp://bit.ly/2020NewsFlutter\n\n3. Membuat Aplikasi Android & iOS dengan Mudah menggunakan Flutter\nhttp://bit.ly/2020HappyFlutter\n\n4. Kotlin from Zero to Hero\nhttp://bit.ly/2020KotlinZerotoHero\n\nBuruan Enroll! Waktu dan Kupon terbatas!\n\nSemoga bermanfaat ya Guys!🤗\n\nMore Info:\nTelp/WA: 0822 1376 1973\nEmail: info@udacoding.com\nWebsite: www.udacoding.com\n\n#udacoding#udacodingaja #promo2020 #kursusudemy #flutterdeveloper #iosdeveloper #kotlindeveloper",Fordyta Abubakar,,DhytoDev,0,29,12,2019,10,35,39
+1119,1118,yang bagus yang mana kak? 😁,oon,,oonid,0,29,12,2019,10,39,52
+1120,1119,Dicoba aja semuanya. Saya juga belum coba sih 🙈,Fordyta Abubakar,,DhytoDev,0,29,12,2019,10,40,20
+1121,0,,2kali,,syawal2kali,0,29,12,2019,10,41,57
+1122,1120,Padahal sdh lewat semua.. 😂,Dianto,,Dian_774,0,29,12,2019,16,34,56
+1123,0,https://twitter.com/googledevsid/status/1211207615243440128?s=09,Andi,Wijaya,andiwijayaid,0,30,12,2019,13,0,16
+1124,1123,Nanti bakalan ada kak kegiatan flutter selanjutnya?,Rahmat,Hidayat HM,rahmathm,0,30,12,2019,13,12,49
+1125,0,"buat yang udah aktifkan web di aplikasi flutter nya,\nbisa dicoba untuk hosting web nya di github pages.",oon,,oonid,0,30,12,2019,13,39,27
+1126,0,hosting flutter web di github pages\ntentunya free :))\n\nhttps://medium.com/flutter-community/flutter-web-github-actions-github-pages-dec8f308542a,oon,,oonid,0,30,12,2019,13,39,28
+1127,0,Bang bagi link group 😇,,,,0,30,12,2019,13,57,31
+1128,0,https://t.me/fluttermakassar,oon,,oonid,0,30,12,2019,13,57,45
+1129,0,Makasih bang salam kenal,,,,0,30,12,2019,13,57,56
+1130,0,salam kenal kak [Rifky](tg://user?id=866836654),oon,,oonid,0,30,12,2019,14,11,14
+1131,0,Oy bang event flutter ada lagi engga untuk tahun depan 😇,,,,0,30,12,2019,14,12,2
+1132,0,"belum tauu.. 😁\nkalo kelamaan nunggu,\nya adain sendiri aja event sendiri gpp juga kok.. 😆\n\nbanyak banget yang mau belajar flutter..\nmeski dimulai dari awal lagi juga masih banyak yang mau ikutan..\nmisalnya nyobain codelab gitu..",oon,,oonid,0,30,12,2019,14,14,42
+1133,0,Makasih infonya bang 😇,,,,0,30,12,2019,14,15,33
+1134,0,Kapan Ada Meetup flutter di makassar ?,,,,0,2,1,2020,14,25,50
+1135,1132,@Ancha_96,Dianto,,Dian_774,0,2,1,2020,14,49,14
+1136,0,ayo.. ayo.. kumpulkan 10 orang..\n\nnanti salah satunya berbagi..\nsisanya bagian happy-happy 😂\n\nkupikir apaan aku disebut (mentions). 😅,oon,,oonid,0,2,1,2020,14,50,48
+1137,1136,😁😁😁,Dianto,,Dian_774,0,2,1,2020,16,16,30
+1138,0,😂😂😂,,,,0,2,1,2020,16,17,31
+1139,1137,"kalo nggak ada yang mau berbagi juga,\ngimana kalo nobar video tutorial aja.. 😄\n\njadi videonya dimainkan, \ntrus semua buru-buru ngetik kodenya.. 😂\n\ndari situ kan muncul error, nah baru diskusi..\n\nada usulan tempat yang minim biaya(?)\nyang ada colokan, pinjam/sewa proyektor, dan nggak banjir 🙊",oon,,oonid,0,2,1,2020,16,29,9
+1140,1139,Bagus juga,,,,0,2,1,2020,16,29,54
+1141,1139,Dan gak banjir.. 😂 #bukanjakarta,Dianto,,Dian_774,0,2,1,2020,18,54,28
+1142,0,Ada yang kalau akun google tidak mau login di chrome ?,Apriandi,,Apriand,0,3,1,2020,5,36,55
+1143,1142,udah dicoba pakai incognito?,oon,,oonid,0,3,1,2020,5,45,38
+1144,0,Kalau di incognito ji bisa login,Apriandi,,Apriand,0,3,1,2020,5,48,30
+1145,0,"ada browser data yang ""corrupted"".\nharus clear browser data.\natau paling nggak dari domainnya google, kayak YouTube, Gmail, dll.",oon,,oonid,0,3,1,2020,6,6,14
+1146,0,Makasih udah bagus 👍👍,Apriandi,,Apriand,0,3,1,2020,6,42,46
+1148,0,,,,,0,3,1,2020,12,18,24
+1149,1148,login Flutter + mysql + API php,,,,0,3,1,2020,12,20,0
+1150,1148,Mantap👍👍,Rahmat,Hidayat HM,rahmathm,0,3,1,2020,12,22,23
+1151,1150,Thanks,,,,0,3,1,2020,12,34,38
+1152,0,https://piedcipher.github.io/hasFlutterPassedReactNativeYet/,Fitrah,Muhammad,fitrh,0,6,1,2020,13,8,37
+1153,0,dilewatimi tetangga,Fitrah,Muhammad,fitrh,0,6,1,2020,13,8,52
+1154,0,waaa... berarti waktunya meetup lagi.. 😂,oon,,oonid,0,6,1,2020,13,9,30
+1155,1154,nah,Fitrah,Muhammad,fitrh,0,6,1,2020,13,10,10
+1156,1154,Jadikan,Rahmat,Hidayat HM,rahmathm,0,6,1,2020,13,10,20
+1157,0,"eh, tapi bulan ini acaranya Kotlin dulu ya kak @DhytoDev \n\nmenghormati kakak seperguruan.. 😆",oon,,oonid,0,6,1,2020,13,14,3
+1158,1157,Om @DhytoDev selingkuh dulu dgn kotlin 😋,Andi,Wijaya,andiwijayaid,0,6,1,2020,13,15,46
+1159,1158,"Hahah.. kotlin masih istri pertama, sih.",Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,19,18
+1160,0,🙊🙊🙊,Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,19,33
+1161,0,Oh iya... Klu bosan sama simpanan msh ada istri pertama 🙈,Andi,Wijaya,andiwijayaid,0,6,1,2020,13,20,11
+1162,1152,,Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,20,33
+1163,1161,Wkwk sumber penghidupan utama juga masih dgn istri pertama kok 😅,Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,22,28
+1164,1163,Iya kan istri simpanan cuma tau nerima aja 🙃😶,Andi,Wijaya,andiwijayaid,0,6,1,2020,13,23,28
+1165,1164,,Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,24,17
+1166,0,"Jadi kapan nih meetup lagi?\n\nTapi, mungkin sebelum menentukan waktu meetup, yg tdk kalah pentingnya adalah membahas dan menentukan konsep/bentuk dari meetupnya sendiri hihih 😅",Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,27,8
+1167,1153,🔥🔥🔥🔥🔥,Dianto,,Dian_774,0,6,1,2020,13,29,33
+1168,1166,"saya ikut memilih (vote) untuk bentuknya kelas kecil hands-on ✌️\njadi mencoba membuat satu aplikasi, dengan satu atau lebih fasilitator, dan sisanya mencoba di komputer masing-masing..",oon,,oonid,0,6,1,2020,13,31,59
+1169,1168,Jumlah = Kecil(x) \nberapakah nilai x?,Dianto,,Dian_774,0,6,1,2020,13,34,31
+1170,1168,"Nah, boleh ini. Ayo, tunjuk tangan, siapa yg bersedia jadi co-facilitatornya? 😁",Fordyta Abubakar,,DhytoDev,0,6,1,2020,13,34,41
+1171,1170,Saya siap jadi peserta... 😁,Dianto,,Dian_774,0,6,1,2020,13,35,14
+1172,1169,"fungsi `Kecil()` ditentukan oleh tersedianya tempat,\nyang ada colokan, ada wifi, ada proyektor, ada AC.. 😁\ndan kalo pun harus bayar kurang dari 25 ribu 🤔",oon,,oonid,0,6,1,2020,13,36,22
+1173,0,,Arham,Anwar,arhamcode,0,17,1,2020,0,53,54
+1174,0,,ZAN,,,0,21,1,2020,1,33,0
+1175,0,,Nasmah,,nasmahindahsari,0,23,1,2020,4,43,45
+1176,1170,siap jadi peserta,Firdaus,,Firdausshi,0,8,2,2020,3,9,58
+1177,0,bagaimana cara ambil data dari class yang berbeda?,Netizen,,netizenns,0,9,2,2020,11,18,31
+1178,1177,mksudnya ambil data bgmna om ?,Fitrah,Muhammad,fitrh,0,9,2,2020,11,54,3
+1179,0,,Hello,Wan,,0,16,2,2020,3,33,38
+1180,0,adakah,,,,0,17,2,2020,5,4,55
+1181,0,,Taufiq,Wahid,taufiqwahid,0,17,2,2020,10,15,0
+1182,0,Adakan,,,,0,18,2,2020,4,52,48
+1183,0,,Khaerul,,rkkhaerul,0,20,2,2020,17,50,43
+1184,0,,rizno,usbal,usbal,0,26,2,2020,8,3,27
+1185,0,,Muammar,Ahlan,muammarahlnn,0,28,2,2020,8,58,12
+1186,0,Halo master.. ada yg tau maps yg gratis?,rizno,usbal,usbal,0,29,2,2020,5,11,7
+1187,0,Mapbox ?,Fitrah,Muhammad,fitrh,0,29,2,2020,5,15,39
+1188,0,Okei makasih kk..,rizno,usbal,usbal,0,29,2,2020,5,16,58
+1190,0,#Loker\n\nPT 360 Teknologi Indonesia (360 Consulting)- Penempatan Jakarta\n\nSaat ini sedang mencari dan Membutuhkan Kandidat :\n.NET dan ANDROID DEVELOPER\n \ndengan detail sbb :\nDurasi 6 Bulan-12 Bulan\nALL Level \n \nYg minat silahkan japri..,Dianto,,Dian_774,0,1,3,2020,8,41,34
+1191,0,What's New in React 16.9: The UNSAFE Update\n\nhttps://scotch.io/bar-talk/whats-new-in-react-169,Apriandi,,Apriand,0,4,3,2020,19,18,22
+1192,0,,Apriandi,,Apriand,0,4,3,2020,19,43,19
+1193,0,,Fitrah,Muhammad,fitrh,0,6,3,2020,14,54,27
+1194,0,tabe' kak siapa tau ada yg mau join bsok,Fitrah,Muhammad,fitrh,0,6,3,2020,14,54,46
+1195,0,workshop flutter mingguannya dsc unhas,Fitrah,Muhammad,fitrh,0,6,3,2020,14,55,5
+1196,0,👍 keren,oon,,oonid,0,6,3,2020,14,55,26
+1197,0,"eh itu form nya khusus mahasiswa unhas, jdi kalo member disini, datang mki sj lngsung",Fitrah,Muhammad,fitrh,0,6,3,2020,14,56,8
+1198,0,lokasinya : https://maps.app.goo.gl/skNieBL2ggZvxVgYA,Fitrah,Muhammad,fitrh,0,6,3,2020,14,59,5
+1199,0,"haha mon maap tibatiba, krn yg minggu pertama unhas only ji sbnrnya",Fitrah,Muhammad,fitrh,0,6,3,2020,14,59,31
+1200,0,ayo datang rame-rame.. 😁\nmumpung nggak ada kuota.. 😆,oon,,oonid,0,6,3,2020,15,3,37
+1201,0,Serbuuu...,Andi,Wijaya,andiwijayaid,0,6,3,2020,15,4,16
+1202,0,,Muhammad,Muzaki,muzakiassarpiyoh,0,8,3,2020,8,37,48
+1203,0,Kapan ada acara lagi kakak @fitrh,Muhammad,Muzaki,muzakiassarpiyoh,0,9,3,2020,9,45,30
+1204,0,semoga sabtu ini bisa kak,Fitrah,Muhammad,fitrh,0,9,3,2020,10,14,11
+1205,0,"Assalamualaikum,\n\nTeman-teman disni ada yg tau web/channel buat belajar flutter untuk bikin aplikasi android? Untuk pemula",,,,0,14,3,2020,4,49,20
+1206,0,Wa'alaykumsalam,Fitrah,Muhammad,fitrh,0,14,3,2020,5,6,43
+1207,0,https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV,Fitrah,Muhammad,fitrh,0,14,3,2020,5,6,48
+1208,0,,,,,0,15,3,2020,6,17,34
+1209,0,#ask mohon bantuannya. pas mau jalankan flutter clean gak bisa,,,,0,15,3,2020,6,17,46
+1210,1208,"Coba dilihat file yg dimaksud di errorr nya, katanya file atau direktori yg hilang",Rahmat,Hidayat HM,rahmathm,0,15,3,2020,6,19,45
+1211,0,Reinstall sdk,Dianto,,Dian_774,0,15,3,2020,6,52,53
+1212,0,"Doctor summary (to see all details, run flutter doctor -v):\n[✓] Flutter (Channel stable, v1.12.13+hotfix.7, on Linux, locale id_ID.UTF-8)\n[!] Android toolchain - develop for Android devices (Android SDK version 28.0.3)\n    ✗ Android license status unknown.\n      Try re-installing or updating your Android SDK Manager.\n      See https://developer.android.com/studio/#downloads or visit https://flutter.dev/setup/#android-setup for detailed instructions.\n[!] Android Studio (version 3.5)\n    ✗ Flutter plugin not installed; this adds Flutter specific functionality.\n    ✗ Dart plugin not installed; this adds Dart specific functionality.\n[✓] VS Code (version 1.43.0)\n[✓] Connected device (1 available)\n\n! Doctor found issues in 2 categories.",Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,profLingu,0,17,3,2020,8,8,13
+1213,0,tidak masalah?,Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,profLingu,0,17,3,2020,8,8,46
+1214,0,,Rabiuldien,,Rabiuldien,0,18,3,2020,3,8,44
+1215,0,#ask...\nhttps://pub.dev/packages/qrscan...\nAssalamualaikum... selamat pagi...\nsaya menggunakan lib qrscan...\nsaya menampilkan qrcode berjalan normal di android...\nsetelah coba di ios(emulator) qrcode tidak tampil...\nmungkin ada yg pernah dapat problem yg sama atau ada library lain yg support ios??,Rabiuldien,,Rabiuldien,0,18,3,2020,3,8,54
+1216,0,,Rafiuddin,,aksarahati086,0,18,3,2020,3,59,4
+1217,0,nampaknya belum support iOS,Muhammad,Rahmatullah,muhrahmatullah,0,18,3,2020,4,1,9
+1218,0,cb pke ini: https://pub.dev/packages/qr_flutter,Muhammad,Rahmatullah,muhrahmatullah,0,18,3,2020,4,1,14
+1219,1218,thanks...,Rabiuldien,,Rabiuldien,0,18,3,2020,5,46,16
+1220,1218,cara lihat library support ios dan tidak dimana?,Rabiuldien,,Rabiuldien,0,18,3,2020,5,46,49
+1221,0,cek issue di reponya,Muhammad,Rahmatullah,muhrahmatullah,0,18,3,2020,6,37,47
+1222,1221,ok sip... \nthanks gan...,Rabiuldien,,Rabiuldien,0,18,3,2020,10,21,51
+1223,0,"Selamat siang suhu2, minta saran untuk state management yg kalian pakai serta kelebihan dan kekurangannya dong. 😁",rizno,usbal,usbal,0,19,3,2020,3,52,16
+1224,0,,Daryl,,,0,21,3,2020,9,51,56
+1225,0,,Andi,Wijaya,andiwijayaid,0,21,3,2020,11,57,4
+1226,0,"ada yang punya pdf belajar flutter? bahasa ingris tidak apa2, saya malas nonton video banyak basa basinya",Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,profLingu,0,21,3,2020,11,58,43
+1227,1226,"Semoga ketemu. ;) kalaupun ada mungkin beberapa bulan atau setahun kemudian tidak kepake lagi, \n\nKarna kecepatan perkembangan framework disarankan langsung ke dokumentasi resmi, yg mana terupdate jg sesuai fitur, \n\nDan video resmi flutter ""flutter widget of the week"" di youtube bisa dibilang 98% straight to the point, makanya per video cuma hitungan detik hingga 2 mnitan,",Dianto,,Dian_774,0,21,3,2020,19,9,40
+1228,0,"github aja,\ntanpa basa basi\n😆",oon,,oonid,0,21,3,2020,20,5,40
+1229,1227,👍,Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,profLingu,0,21,3,2020,23,55,17
+1230,1228,🤣👍🏻👍🏻👍🏻,Dianto,,Dian_774,0,22,3,2020,6,58,24
+1231,1230,kenapa ketawa? itu juga bagus,Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,profLingu,0,22,3,2020,10,31,19
+1232,0,:v,Didi Wabyudi,ᨓᨖᨛᨐᨘᨉᨗ,profLingu,0,22,3,2020,10,31,32
+1233,0,masih ada event flutter di makassar?,Firdaus,,Firdausshi,0,22,3,2020,17,10,5
+1234,0,sepi amat 😌,Firdaus,,Firdausshi,0,23,3,2020,7,40,45
+1235,0,kelas online kan lah...,Rizky,Arlin,rizkyarlin,0,23,3,2020,7,44,23
+1236,0,Tertarik,anfrb°,,anfrb,0,23,3,2020,7,44,49
+1237,0,Mumpung terisolasi\n\nColek kak @fitrh,Muhammad,Muzaki,muzakiassarpiyoh,0,23,3,2020,9,7,35
+1238,0,haha bisa mungkin workshop ato sharing lewat google meet,Fitrah,Muhammad,fitrh,0,23,3,2020,9,8,22
+1239,0,Bisa2,Muhammad,Muzaki,muzakiassarpiyoh,0,23,3,2020,11,8,55
+1240,0,,Iga,Ariansyah21,IgaAriansyah21,0,23,3,2020,13,34,43
+1241,0,di discord juga bisa,Firdaus,,Firdausshi,0,23,3,2020,15,42,3
+1242,0,,Marco,Alfan,Marcoalfan,0,25,3,2020,16,28,19
+1243,0,Izin bergabung 🙏,Marco,Alfan,Marcoalfan,0,25,3,2020,16,28,27
+1244,0,Selamat bergabung..,Fordyta Abubakar,,DhytoDev,0,25,3,2020,17,7,55
+1245,1238,"yuk, kapan tawwa om?",Fordyta Abubakar,,DhytoDev,0,25,3,2020,17,8,20
+1246,0,bnyak yg suka pagi ato malam ini ? haha,Fitrah,Muhammad,fitrh,0,25,3,2020,17,9,51
+1247,1246,bikin survei aja om. Sekalian test the water brp orang yg berminat 😬,Fordyta Abubakar,,DhytoDev,0,25,3,2020,17,11,26
+1248,0,"kalo worsop, bgus kalo kita tentukan apa mau dibahas kak",Fitrah,Muhammad,fitrh,0,25,3,2020,17,12,20
+1249,0,"Iya tawwa, adakan mi...",Andi,Wijaya,andiwijayaid,0,25,3,2020,17,12,41
+1250,0,perayaan WFH haha,Fitrah,Muhammad,fitrh,0,25,3,2020,17,14,8
+1251,0,apalagi kampus sampe april WFH ini,Fitrah,Muhammad,fitrh,0,25,3,2020,17,14,28
+1252,1248,Sdhmi yg soal state Management? Reactive Mobile apps?,Rizky,Arlin,rizkyarlin,0,25,3,2020,18,23,14
+1253,0,nda pernah paki ini bahasbahas soal statemanagement flutter di makassar kak,Fitrah,Muhammad,fitrh,0,25,3,2020,18,24,2
+1254,0,yo monggo kapan bagus dibuat,Arhen,,rhslamet,0,25,3,2020,18,24,48
+1255,0,Lanjut saja yang kemarin bro ttg fundamentalnya @fitrh,Andi,Wijaya,andiwijayaid,0,25,3,2020,18,27,14
+1256,0,"kalo mauki bahas state management, asumsita audience nya sudah pahammi basicnya",Fitrah,Muhammad,fitrh,0,25,3,2020,18,28,39
+1257,1255,iya kak bgus kalau mulai dari situ,Fitrah,Muhammad,fitrh,0,25,3,2020,18,28,54
+1258,1246,Kalau pagi peserta pasti sedikit dan minta hasil rekaman,Muhammad,Muzaki,muzakiassarpiyoh,0,26,3,2020,4,25,47
+1261,1260,ini kenapa pilihan siang nya ada 2?,oon,,oonid,0,26,3,2020,8,11,58
+1262,0,,Fitrah,Muhammad,fitrh,0,26,3,2020,8,31,59
+1263,1261,haha salah kak,Fitrah,Muhammad,fitrh,0,26,3,2020,8,32,10
+1264,0,bikin pool pas sementara MID Test itu kak,Fitrah,Muhammad,fitrh,0,26,3,2020,8,32,36
+1265,1264,😂 mid test from home,oon,,oonid,0,26,3,2020,8,32,58
+1266,0,"5-8 jt / bulan, penempatan makassar. Ada yg tertarik? :D",Rizky,Arlin,rizkyarlin,0,27,3,2020,10,40,34
+1267,1266,bisa remote kak? hehe,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,42,13
+1268,0,Tertarik,anfrb°,,anfrb,0,27,3,2020,10,42,46
+1269,1267,Nope wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,43,49
+1270,0,Tp skrg pasti masih wfh ji,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,44,1
+1271,1268,Ada link github atau portfolio flutter ta?,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,44,16
+1272,0,mantap ini proye'na om @rizkyarlin,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,46,32
+1273,0,sdh banyak yg melirik flutter juga di',Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,46,45
+1274,0,"Bukan sdh banyak yg melirik, sy pribadi yg melirik wkwk",Rizky,Arlin,rizkyarlin,0,27,3,2020,10,47,3
+1275,0,"Yg di grup python jg blg banyak yg melirik Django, padahal sy ji haha",Rizky,Arlin,rizkyarlin,0,27,3,2020,10,47,16
+1276,1274,wkwk,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,47,23
+1277,0,produk internal kah om?,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,47,37
+1278,0,Management yg tech savvy pi yg percaya sama flutter wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,47,40
+1279,1277,Nope...,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,47,46
+1280,1274,Orangnya ji yang banyak dilirik,Andi,Wijaya,andiwijayaid,0,27,3,2020,10,47,54
+1281,0,hahaha,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,48,14
+1282,1277,Untuk startup om...,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,48,17
+1283,1280,Wew haha,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,48,21
+1284,0,saya sendiri di tim masih prefer native kok #eh,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,48,40
+1285,1284,Banyak uangna ini kak dhyto hire minimal 2 developer eh,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,49,3
+1286,0,Wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,49,7
+1287,0,client juga masih banyakan android sih wkwk,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,49,19
+1288,0,Atau 1 developer ji ngoding android dan iOS native sekaligus? Wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,49,20
+1289,1284,Native ato native2an? Kayak yg sebelah,Andi,Wijaya,andiwijayaid,0,27,3,2020,10,49,24
+1290,1288,Kak dhyto mi psti ini wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,49,40
+1291,0,lagi belajarka ini swift wkwk,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,49,54
+1292,1291,Tuh kan wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,50,19
+1293,0,Inimi yg habisi job di makassar eh haha,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,50,34
+1294,0,"biar lahan mobile aman : android, ios, flutter wkwk",Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,50,51
+1295,1294,Ngeriww wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,10,51,20
+1296,1271,Baru belajr saya kak. Belum ad portofolio 😬,anfrb°,,anfrb,0,27,3,2020,10,52,1
+1297,1294,Panutan ku,anfrb°,,anfrb,0,27,3,2020,10,52,28
+1298,0,"di flutter juga klo nda punya pengetahuan native, susah klo ada kebutuhan custom",Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,52,55
+1299,0,"Klo prinsipku, flutter itu alternatif saja, native tetap kunci utama.",Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,55,50
+1300,0,"Saya prinsipnya, cuan cocok, eksekusi jalan.\n\n\nWkwkwkw",Arhen,,rhslamet,0,27,3,2020,10,56,54
+1301,1300,"nah, ini.",Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,57,10
+1302,1299,native kotlin atau java kak?,Rabiuldien,,Rabiuldien,0,27,3,2020,10,57,25
+1303,1302,untuk saat ini : kotlin 😁,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,57,42
+1304,1285,kan bukan saya yg ngegaji juga #eh 🙊,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,59,10
+1305,1266,💰 💰 💰,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,10,59,18
+1306,1305,ngoding fluttermi juga om?,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,59,41
+1307,1303,Native sejati c++,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,10,59,43
+1308,1307,🙈,Fordyta Abubakar,,DhytoDev,0,27,3,2020,10,59,54
+1309,0,Wkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,0,1
+1310,1306,Tuntutan pekerjaan om wkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,1,7
+1311,1310,"wah, di grab?",Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,1,23
+1312,1311,"Yess, ada 2 app pke flutter wkwkwk",Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,2,11
+1313,1312,"app apa ini? internal, merchant atau yg lain?",Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,2,46
+1314,1313,"Grabfood merchant full flutter, di Passenger app ada fitur yg pke flutter",Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,4,3
+1315,0,Tp hostnya tetap native,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,4,22
+1316,1314,"waini, native + flutter 👍",Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,4,42
+1317,1316,Ditunggu om wkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,4,59
+1318,0,apa ditunggu ini? 🤣,Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,5,20
+1319,0,ditunggu di Rumania? 😂,Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,6,10
+1320,0,"Ditunggu di Jakarta hahaah, btw om Dito sdh nyoba kotlin multiplatform?",Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,6,12
+1321,1319,Rumahnya Nia,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,6,30
+1322,0,Wkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,6,41
+1323,1320,"baru niat, belum sempat ngoprek ini 🙈",Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,6,49
+1324,1320,Eh sorry salah grup ini,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,6,53
+1325,0,Kotlin Native + Android + iOS + Flutter.. Ada yg begini juga stacknya..,Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,7,45
+1326,0,Bhinneka klo nda salah,Fordyta Abubakar,,DhytoDev,0,27,3,2020,11,8,28
+1327,1326,Banyak engineer atau kekurangan engineer ya? 🤔,Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,11,10,0
+1328,1266,"Soal ini,.. Kt mau develop android dan iOS. Kalau belum punya MB, nanti diatur hehe",Rizky,Arlin,rizkyarlin,0,27,3,2020,11,12,15
+1329,1327,Iseng mungkin 🙊,Fordyta Abubakar,,DhytoDev,0,27,3,2020,13,4,41
+1330,1328,Mau dong dibeliin MB 😁,Fordyta Abubakar,,DhytoDev,0,27,3,2020,13,5,8
+1331,1330,"wew wkwk… maksudnya nanti build iOS nya di laptopku sj, eh wkwk",Rizky,Arlin,rizkyarlin,0,27,3,2020,13,32,33
+1332,0,"Yaa, kukira dibelikan mbp terbaru 😢🤪",Fordyta Abubakar,,DhytoDev,0,27,3,2020,13,33,31
+1333,0,,Noni,,nonnywind,0,27,3,2020,13,57,47
+1334,1332,Masih rahasia wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,14,42,41
+1335,0,Nanti kah gara2 laptop ji namasuk haha,Rizky,Arlin,rizkyarlin,0,27,3,2020,14,42,57
+1336,0,Bukan grab ini yg natumpuk ji MBP di gudang nya. Gmana kah @muhrahmatullah? Wkwk,Rizky,Arlin,rizkyarlin,0,27,3,2020,14,43,29
+1337,1336,"Hahaha tanya IT support dl wkwkwk, seandainya bisa remote dan part time sy mau cb daftar jg xD #kode",Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,15,38,2
+1338,1335,"Justru ini bro, laptop bagus makin semangat kerja wkwkwk",Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,15,38,51
+1339,0,"yang mau coba involve di OSS, WHO lg bikin aplikasi terkait covid pke flutter: https://github.com/WorldHealthOrganization/app",Muhammad,Rahmatullah,muhrahmatullah,0,27,3,2020,15,42,15
+1340,0,,Ahmad,Helmi,AhmadHelmi157,6285156868281,27,3,2020,18,17,57
+1341,1262,,Fordyta Abubakar,,DhytoDev,0,27,3,2020,18,43,14
+1343,1339,semua covid info pakai flutter juga kayaknya. kayak pikobar nya jabar,Firdaus,,Firdausshi,0,30,3,2020,3,25,56
+1344,0,,Uwais,Alqadri,wasweswos,0,1,4,2020,12,15,17
+1345,0,"#Loker\n\nDicari 2 orang BE Developer dan 2 orang Mobile Developer. Salary 4 - 8 Jt (Sangat dipengaruhi oleh kualifikasi dan pengalaman). Penempatan Makassar\n\nBE Developer:\n- Pengalaman minimal 1 tahun\n- Golang, Django, atau Laravel\n\nMobile Developer:\n- Pengalaman mobile dev minimal 1 tahun\n- Flutter\n\nYg tertarik bisa email CV ke rizky@carakde.id",Rizky,Arlin,rizkyarlin,0,5,4,2020,7,16,54
+1346,0,,ROOT,,imtoor,0,9,4,2020,2,53,26
+1347,0,ngomong-ngomong soal flutter..\n\nbbrp hari lalu tim flutter kasih FREE kursus pengenalan flutter\n\nhttps://medium.com/flutter/learn-flutter-for-free-c9bc3b898c4d,oon,,oonid,0,12,4,2020,23,10,1
+1348,1347,Nice info om... 👍🏻👍🏻,Dianto,,Dian_774,0,13,4,2020,8,17,15
+1349,0,,asyraf,,asyr0f,0,14,4,2020,11,24,20
+1350,0,,Gustavo,,ghccristia,0,16,4,2020,5,58,28
+1351,0,menggunakan rute bernama di Flutter Web\n\nhttps://developers-id.googleblog.com/2020/04/flutter-web-membuka-url-menggunakan.html,oon,,oonid,0,16,4,2020,10,38,42
+1352,0,,,,,0,19,4,2020,20,21,36
+1354,0,@Dian_996,oon,,oonid,0,20,4,2020,0,5,2
+1355,1353,"Yupp kemarin crypto langsung turun harga gra2 pandemi dan isu bank di eropa, langsung beli dikit, sekarang masa paling mantap invest di Crypto... hehe,",Dianto,,Dian_774,0,20,4,2020,2,15,3
+1356,1355,"itu spam malah dibalas 😐\ndelete, report as spam.",oon,,oonid,0,20,4,2020,2,15,28
+1358,0,Eh baru liat kirain mas oon yg fwd,Dianto,,Dian_774,0,20,4,2020,2,15,57
+1359,0,😂,Dianto,,Dian_774,0,20,4,2020,2,16,1
+1360,0,/status,Dianto,,Dian_774,0,20,4,2020,2,16,24
+1361,1358,"delete, report as spam 🙊",oon,,oonid,0,20,4,2020,2,17,2
+1362,0,,Dianto,,Dian_774,0,20,4,2020,2,47,17
+1401,1347,"haloo.. 👋\n\napa ada di antara temen-temen yang ambil kursus ini?\n\nini lagi nyari temen belajar untuk menyelesaikan kursus ini. belajar mandiri aja, secara daring nanti kasih progres di trello, trus kalo diperlukan bisa diskusi pake google meet atau tanya jawab di grup @fluttermakassar \n\nsudah ada bahan free dari google, tinggal komitmen waktu mandiri aja.. 😁\n\nsekarang udah ada 3 orang ikutan.. \nreply aja kalo tertarik ya.. ✌️",oon,,oonid,0,21,4,2020,3,11,2
+1402,1401,🙌 🙌 🙌,Fordyta Abubakar,,DhytoDev,0,21,4,2020,6,42,2
+1403,0,,Budiman,Rasyid,rsyd29,0,21,4,2020,14,48,5
+1405,0,"Halo selamat malam, saya Budiman Rasyid dari Jakarta boleh izin bergabung? Saya tertarik dengan Flutter, oleh karena itu saya cari cari group Flutter, hehehe Luar Makassar boleh kah join? Atau groupnya khusus Makassar ya? Terima Kasih",Budiman,Rasyid,rsyd29,0,21,4,2020,14,49,35
+1406,1405,"boleh bro, welcome. kalau ada grup flutter lain info juga ya...",ROOT,,imtoor,0,21,4,2020,15,20,10
+1407,1406,,Rizky,Arlin,rizkyarlin,0,21,4,2020,16,39,46
+1408,0,https://github.com/hendisantika/List-All-Programming-Telegram-Group,Rizky,Arlin,rizkyarlin,0,21,4,2020,16,39,57
+1409,0,👌👍,ROOT,,imtoor,0,21,4,2020,18,18,52
+1410,1408,Nah saya dapat info dari sana,Budiman,Rasyid,rsyd29,0,21,4,2020,22,18,50
+1411,0,"video 40 menit,\nmenarik cerita tentang Dart, tentang (asal mula) Flutter, dan tentunya juga membahas Flutter Web.\noleh Product Manager Flutter and Dart web tech.\n\nheheh.. ada bagian ""menyinggung"" bahasa lain yang `transpiler` ke JS, tapi Dart itu compiler bukan transpiler.\n\nbahas Dart devc cukup dalam, implementasinya di canvas dan DOM di browser. juga relasinya ke Dart DevTools. dan integrasi dari aplikasi Android jadi aplikasi Web.\n\nhttps://www.youtube.com/watch?v=JClFHn-jQ3M",oon,,oonid,0,25,4,2020,23,0,3
+1412,1411,"Mantap, kak.. Pagi-pagi produktif 🙌",Fordyta Abubakar,,DhytoDev,0,25,4,2020,23,12,14
+1413,1412,🙊,oon,,oonid,0,25,4,2020,23,38,2
+1414,0,,,,,0,26,4,2020,2,30,43
+1416,0,"assalammu'alaikum wr. wb.  salam kenal kakak"" semua saya iqsan dari kendari sulawesi tenggara.. mohon bimbingan nya..🙏🙏",,,,0,26,4,2020,2,32,32
+1417,0,,Rini,,,0,5,5,2020,8,21,19
+1419,0,"Perkenalkan nama saya Rini, salam kenal semuanya..",Rini,,,0,5,5,2020,8,23,19
+1420,1419,halo mbak Rini 👋🏼,oon,,oonid,0,5,5,2020,8,24,20
+1421,0,Halo mas.. 😁,Rini,,,0,5,5,2020,8,28,26
+1422,1419,Hallo kak..👋😁,,,,0,5,5,2020,8,36,44
+1423,1422,Halo kak 😊,Rini,,,0,5,5,2020,8,37,7
+1424,1423,Halo2 selamat datang kak Rini..,Dianto,,Dian_774,0,5,5,2020,9,3,0
+1425,0,Hai kak Dian 😁,Rini,,,0,5,5,2020,9,3,27
+1426,0,"Halo, selamat sore..\n\n[ONLINE CLASS #LearnFromHome]\nUp-Dev Series ""Flutter State Management with Flutter BLoC""\n\nHalo MDVers, bulan Mei mendatang jangan sampai ketinggalan ya edisi Online Class Up-Dev Series karena MDVers tetap bisa update ilmu baru seputar programming melalui Video Conference dari rumah. Edisi Online Class Up-Dev Series kali ini akan mengulas topik ""Flutter State Management with Flutter BLoC"" yang akan dibawakan oleh Mobile Developer Alumagubi, Mudassir. \n\nBLoC atau Business Logic Component design pattern adalah design pattern yang membantu untuk memisahkan presentation dengan business logic. Sehingga component pada project terbagi menjadi presentational component, BLoC, dan backend. \n\nCatat waktu dan tanggalnya ya, akan berlangsung pada :\n\nTanggal : 10 Mei 2020\nWaktu : 15.00-17.00 WITA\nLIVE via Video Conference\n\nDaftar sekarang ya MDVers, bit.ly/updevbloc",Dianto,,Dian_774,0,5,5,2020,9,3,53
+1427,0,,Dianto,,Dian_774,0,5,5,2020,9,5,9
+1428,1426,,Dianto,,Dian_774,0,5,5,2020,9,5,22
+1429,0,wah topiknya keren.. state management.. 🙌🏼,oon,,oonid,0,5,5,2020,9,6,22
+1430,1429,"Yoiii,,, ramaikannn hehehe",Dianto,,Dian_774,0,5,5,2020,9,7,9
+1431,1427,keren kak.. wajib daftar ini...👍👍😁,,,,0,5,5,2020,9,20,32
+1432,0,"Bismillah.\nKak saya mau belajar flutter, ada referensi yg direkomendasikan untuk saya",kafri,bung,kafri_bung,0,6,5,2020,12,26,17
+1433,1432,Cariki di yutub erico dermawan handoyo,Uwais,Alqadri,wasweswos,0,6,5,2020,13,5,20
+1434,0,Lengkap smuami stu om,Uwais,Alqadri,wasweswos,0,6,5,2020,13,5,31
+1435,0,Ok om thank you,kafri,bung,kafri_bung,0,6,5,2020,13,6,45
+1436,0,,Hamdani,Latjoro,Dhank77,0,7,5,2020,22,49,59
+1438,0,,Muhammad Nur Faizi,,moehzi,0,8,5,2020,5,48,34
+1440,0,,-_-,,xc60223,0,8,5,2020,8,41,33
+1442,0,,,,,0,8,5,2020,11,21,24
+1444,0,Halo nama saya Aspar makassar🙏,,,,0,8,5,2020,11,21,46
+1446,0,,Gusti,Bagus Wk,,0,8,5,2020,15,19,27
+1448,0,,Indra,Ramadhan,indra48,0,8,5,2020,15,38,13
+1450,0,,⚔️ 『ℛ』 『ℋ』 ⚔️,,rinto_harahap,0,8,5,2020,17,42,18
+1452,0,,Andri Irwan Zahri,,andrirzah,0,8,5,2020,20,47,46
+1455,0,,S,,soeryodz,0,9,5,2020,7,12,54
+1457,1419,DIVA kah?,⚔️ 『ℛ』 『ℋ』 ⚔️,,rinto_harahap,0,9,5,2020,7,25,22
+1458,0,,Aguz,New,,0,9,5,2020,15,9,3
+1460,0,"Halo, saya saya Agus, dari Aceh",Aguz,New,,0,9,5,2020,15,9,33
+1461,0,kelas state management (yang ada di pin message).,oon,,oonid,0,10,5,2020,6,21,40
+1462,0,"Bisa bergabung lagi, berikut link untuk kelas sore ini🙏🏻😊\n\n#LearnFromHome\nONLINE CLASS #LearnFromHome Up-Dev Series ""Flutter State Management with Flutter BLoC"" bersama Mudassir,  Mobile Developer Alumagubi.\n\n10 Mei 2020\n15.00 - 17.00 WITA\nhttps://us02web.zoom.us/j/89191155299",oon,,oonid,0,10,5,2020,6,21,40
+1463,0,,hesdin,,hesdin,0,10,5,2020,13,38,49
+1465,0,saya hesdin dari Makassar,hesdin,,hesdin,0,10,5,2020,13,40,23
+1466,0,,,,,0,12,5,2020,15,54,55
+1468,1462,sudah dapat materi kelasnya ini om?,Firdaus,,Firdausshi,0,12,5,2020,16,21,55
+1469,0,,Yudistira irvan,priyambudi,yudistirairvan,0,13,5,2020,7,53,33
+1471,0,Hy salam kenal semuanya,Yudistira irvan,priyambudi,yudistirairvan,0,13,5,2020,7,54,48
+1472,0,,Ahmad,,PohondiMusimHUjan,0,14,5,2020,3,21,53
+1474,0,"silakan, kesempatan nih..",oon,,oonid,0,14,5,2020,14,6,16
+1475,0,#loker\n\ntabe' siapa tau ada yg lagi kosong dan mau ngambil side project (flutter) bisa japri\n\nterima kasih,oon,,oonid,0,14,5,2020,14,6,16
+1476,0,,Kang,Jamil,kangjamil,0,14,5,2020,21,5,1
+1478,0,,,,,0,14,5,2020,21,10,22
+1480,0,"saya taufik dari makassar,tabe bantuanta di🙏",,,,0,14,5,2020,21,11,21
+1481,0,"Hallo all, siapa tau ada yang mau belajar sambil buat project DM nah, nanti kita sama sama belajar",Yudistira irvan,priyambudi,yudistirairvan,0,15,5,2020,4,11,3
+1482,0,Kabar baik untuk teman-teman pengguna Adobe XD di project/kantor-nya.\n\nhttps://medium.com/flutter/announcing-adobe-xd-support-for-flutter-4b3dd55ff40e,Fordyta Abubakar,,DhytoDev,0,15,5,2020,4,31,57
+1483,0,Keren,anfrb°,,anfrb,0,15,5,2020,8,8,48
+1484,0,,,,,0,17,5,2020,4,25,54
+1486,0,Nama saya Mundos Barreto\nDari Timor Leste,,,,0,17,5,2020,4,26,51
+1487,1486,salam kenal...\nsaya rabiuldien... sekarang domisili makassar...,Rabiuldien,,Rabiuldien,0,17,5,2020,6,47,30
+1488,0,,𝓐𝓱𝓶𝓪𝓻 𝓘𝓷𝓼𝓽𝓲𝓽𝓾𝓽𝓮,,ubbarca454,0,17,5,2020,13,29,35
+1490,0,,Jason,,jps98,0,20,5,2020,16,31,30
+1492,0,,agung,,agungaudit,0,21,5,2020,11,37,37
+1494,0,Sya agung dri maros \nMohon bantuannya,agung,,agungaudit,0,21,5,2020,11,38,9
+1495,1494,Hello @agungaudit salam kenal semoga bisa belajar bareng 👍,Yudistira irvan,priyambudi,yudistirairvan,0,22,5,2020,2,46,23
+1496,0,,Maulana,Ilham,k4ilham,0,24,5,2020,1,24,40
+1498,0,,Ricky,noviansyah,rickybrainware,0,24,5,2020,1,45,21
+1500,0,"ikutan.. \nFlutter Day 25 Juni 2020,\nacara virtual, global\n\nhttp://g.co/FlutterDay",oon,,oonid,0,25,5,2020,16,4,31
+1501,0,,Samsudin,,,0,27,5,2020,2,43,42
+1503,0,"ok nama saya samsudin saya dari jakarta  , salam kenal semua para expert Flutter makasar",Samsudin,,,0,27,5,2020,2,44,18
+1504,0,"Siapa ada teman2 mau lihat2 hehe, sudah lama sih akhir 2019 buatnya...\n\nAplikasi Presensi Digital, Menggunakan Flutter dan API dengan Lumen, Aplikasi masih banyak yang perlu dilengkapi\n\nyang mau download langsung cek...\nFlutter : https://github.com/dhank77/Flutter-presensi-digital/commits/master\nLumen : https://github.com/dhank77/LumenAPI-presensi-digital\nGithub : https://github.com/dhank77",Hamdani,Latjoro,Dhank77,0,27,5,2020,10,49,41
+1505,0,👍🏼,oon,,oonid,0,27,5,2020,10,50,7
+1506,1504,Mantapp!!! Kembangkann 🙌🏻🙌🏻,Dianto,,Dian_774,0,27,5,2020,16,52,45
+1507,0,,Azizun,,aziznntk,0,31,5,2020,16,27,33
+1509,0,saya sudah update dart dari 2.8.2 ke 2.8.3 tapi setelah menjalankan perintah dart version dart yang ada masih 2.8.2. ada yang punya solusinya?,Ahmad,,PohondiMusimHUjan,0,1,6,2020,14,10,21
+1510,0,,Kura,Kura,Kurakura29,0,1,6,2020,21,11,13
+1512,0,"Halo, saya Nuril Hilmi",Kura,Kura,Kurakura29,0,1,6,2020,21,12,6
+1513,0,,Fauqhi,Fikriansyah,muhfauqhi,0,2,6,2020,7,59,42
+1515,0,"Halo, perkenalkan nama saya Fauqhi..",Fauqhi,Fikriansyah,muhfauqhi,0,2,6,2020,8,0,16
+1516,0,,Bisma Akmal,,BismaAkmal,0,3,6,2020,0,47,10
+1518,0,,Enrico,Wijaya,,0,3,6,2020,17,7,22
+1520,0,Hallo perkenalkan nama saya enrico,Enrico,Wijaya,,0,3,6,2020,17,7,36
+1521,0,Saya baru programmer pemula,Enrico,Wijaya,,0,3,6,2020,17,8,28
+1522,0,,Lesmana,,tian14,0,6,6,2020,7,20,43
+1523,0,,Begus,Ibrahim,begusibrahim,0,8,6,2020,18,2,47
+1525,0,,Raden,Pratama,radenRanggaPratama,0,9,6,2020,15,3,58
+1527,0,"Selamat Malam, Rangga izin belajar. Di sini boleh bertanya terkait bahasa dart?",Raden,Pratama,radenRanggaPratama,0,9,6,2020,15,4,39
+1528,0,halo kak.. salam kenal..\n\nboleh kak tanya soal Dart.. \n\nnanti kakak-kakak yang lain akan menjawab.. saya cuma bagian bilang boleh aja.. 🤣,oon,,oonid,0,9,6,2020,23,9,56
+1529,1528,Share link group dart aja kak,Dianto,,Dian_774,0,10,6,2020,5,25,13
+1530,0,"[ERROR:flutter/lib/ui/ui_dart_state.cc(157)] Unhandled Exception: FormatException: Unexpected character (at character 1)\nE/flutter (31567): <br />\nE/flutter (31567): ^\nE/flutter (31567):\nE/flutter (31567): #0      _ChunkedJsonParser.fail (dart:convert-patch/convert_patch.dart:1394:5)\nE/flutter (31567): #1      _ChunkedJsonParser.parseNumber (dart:convert-patch/convert_patch.dart:1261:9)      \nE/flutter (31567): #2      _ChunkedJsonParser.parse (dart:convert-patch/convert_patch.dart:926:22)\nE/flutter (31567): #3      _parseJson (dart:convert-patch/convert_patch.dart:31:10)\nE/flutter (31567): #4      JsonDecoder.convert (dart:convert/json.dart:495:36)\nE/flutter (31567): #5      JsonCodec.decode (dart:convert/json.dart:153:41)\nE/flutter (31567): #6      jsonDecode (dart:convert/json.dart:96:10)\nE/flutter (31567): #7      _ProdukDetailState.addCart (package:shope/pages/produk/produkDetail.dart:50:18)    \nE/flutter (31567): <asynchronous suspension>\nE/flutter (31567): #8      _ProdukDetailState.build.<anonymous closure> (package:shope/pages/produk/produkDetail.dart:203:21)\nE/flutter (31567): #9      _InkResponseState._handleTap (package:flutter/src/material/ink_well.dart:706:14)   \nE/flutter (31567): #10     _InkResponseState.build.<anonymous closure> (package:flutter/src/material/ink_well.dart:789:36)\nE/flutter (31567): #11     GestureRecognizer.invokeCallback (package:flutter/src/gestures/recognizer.dart:182:24)\nE/flutter (31567): #12     TapGestureRecognizer.handleTapUp (package:flutter/src/gestures/tap.dart:486:11)    \nE/flutter (31567): #13     BaseTapGestureRecognizer._checkUp (package:flutter/src/gestures/tap.dart:264:5)    \nE/flutter (31567): #14     BaseTapGestureRecognizer.handlePrimaryPointer (package:flutter/src/gestures/tap.dart:199:7)\nE/flutter (31567): #15     PrimaryPointerGestureRecognizer.handleEvent (package:flutter/src/gestures/recognizer.dart:467:9)\nE/flutter (31567): #16     PointerRouter._dispatch (package:flutter/src/gestures/pointer_router.dart:76:12)   \nE/flutter (31567): #17     PointerRouter._dispatchEventToRoutes.<anonymous closure> (package:flutter/src/gestures/pointer_router.dart:117:9)\nE/flutter (31567): #18     _LinkedHashMapMixin.forEach \n(dart:collection-patch/compact_hash.dart:379:8)        \nE/flutter (31567): #19     PointerRouter._dispatchEventToRoutes (package:flutter/src/gestures/pointer_router.dart:115:18)\nE/flutter (31567): #20     PointerRouter.route (package:flutter/src/gestures/pointer_router.dart:101:7)       \nE/flutter (31567): #21     GestureBinding.handleEvent (package:flutter/src/gestures/binding.dart:218:19)      \nE/flutter (31567): #22     GestureBinding.dispatchEvent (package:flutter/src/gestures/binding.dart:198:22)    \nE/flutter (31567): #23     GestureBinding._handlePointerEvent (package:flutter/src/gestures/binding.dart:156:7)\nE/flutter (31567): #24     GestureBinding._flushPointerEventQueue (package:flutter/src/gestures/binding.dart:102:7)\nE/flutter (31567): #25     GestureBinding._handlePointerDataPacket (package:flutter/src/gestures/binding.dart:86:7)\nE/flutter (31567): #26     _rootRunUnary (dart:async/zone.dart:1138:13)\nE/flutter (31567): #27     _CustomZone.runUnary (dart:async/zone.dart:1031:19)\nE/flutter (31567): #28     _CustomZone.runUnaryGuarded \n(dart:async/zone.dart:933:7)\nE/flutter (31567): #29     _invoke1 (dart:ui/hooks.dart:273:10)\nE/flutter (31567): #30     _dispatchPointerDataPacket (dart:ui/hooks.dart:182:5)\nE/flutter (31567): \nD/FlutterView(31567): Detaching from a FlutterEngine: io.flutter.embedding.engine.FlutterEngine@d67a0b2       \nD/Surface (31567): Surface::disconnect(this=0x7324eef000,api=1)\nD/Surface (31567): Surface::disconnect(this=0x7324eef000,api=-1)\nD/SurfaceControl(31567): SurfaceControl::destroy [2] this:0x733d359e80 mClient:0x733d359e90 mHandle:0x733d359e98\nD/SurfaceControl(31567): SurfaceControl::destroy [1] this:0x733d359e80 mClient:0x733d359e90 mHandle:0x733d359e98",Andri Irwan Zahri,,andrirzah,0,11,6,2020,5,39,57
+1531,0,"kak tolong di bantu, ini penyebabnya kenapa ya ...\nsaat insert data selalu eror seperti itu",Andri Irwan Zahri,,andrirzah,0,11,6,2020,5,40,46
+1532,1531,"coba dicek lagi format jsonnya, itu ada ""unexpected character"" a.k.a karakter yg tidak sesuai harapan/invalid. \n\nBtw, itu requestnya apakah sdh dites di postman dan berhasil?",Fordyta Abubakar,,DhytoDev,0,11,6,2020,12,15,56
+1533,0,,Nabin,Azrab,nabin_azrab,0,12,6,2020,3,57,2
+1534,0,,Irwan,Ardyansah,,0,12,6,2020,4,23,16
+1535,0,saya mau nanya.. apakah bisa mengganti default font flutter?,Fauqhi,Fikriansyah,muhfauqhi,0,12,6,2020,6,5,55
+1536,1535,Kalau baca di grup fb katanya bisa,Ahmad,,PohondiMusimHUjan,0,12,6,2020,6,6,42
+1537,0,,,,,0,12,6,2020,7,45,8
+1538,0,lowongan flutter di Makassar nih..,oon,,oonid,0,15,6,2020,9,51,1
+1539,0,#loker,oon,,oonid,0,15,6,2020,9,51,1
+1540,0,,Sifa,Faris,kudasaix,0,15,6,2020,12,41,28
+1542,0,Halo teman-teman Saya Sifa. \nMohon bantuannya 🙏,Sifa,Faris,kudasaix,0,15,6,2020,12,42,7
+1543,0,,Cang,,Ichsantuy,0,16,6,2020,4,52,36
+1545,0,ad nggk rekomendasi belajar flutter yg bagus ?,hesdin,,hesdin,0,16,6,2020,5,1,47
+1546,1535,bisa di assetnya di ganti,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,39,14
+1547,1545,YouTube ada cari erico,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,39,58
+1548,1547,makasih bang,hesdin,,hesdin,0,16,6,2020,5,40,49
+1549,0,👍,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,40,58
+1550,0,tulis sj Erico flutter,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,41,16
+1551,0,"bang, belajar flutter apa harus belajar dulu dart ?",hesdin,,hesdin,0,16,6,2020,5,41,40
+1552,0,asal punya basic di OOP bisa langsung,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,45,48
+1553,0,rekomendasi belajar oop yg bagus dmna bang ?,hesdin,,hesdin,0,16,6,2020,5,46,50
+1554,0,Erico,Ahmad,,PohondiMusimHUjan,0,16,6,2020,5,47,12
+1555,0,kalau belum ada di channel Erico ada OOP sekalian Dart nya,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,47,26
+1556,0,nama playlist nya PBO Dart kalau tidak salah,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,47,50
+1557,0,makasih bang informasinya,hesdin,,hesdin,0,16,6,2020,5,49,12
+1558,0,siap,Hamdani,Latjoro,Dhank77,0,16,6,2020,5,49,42
+1559,0,d sini ada yg beli kelas flutter erico dan Angga Riski ?,hesdin,,hesdin,0,16,6,2020,5,56,32
+1560,0,,Nanda,Adisaputra,Nandaadisaputra100,0,17,6,2020,0,24,20
+1562,0,"Perkenalkan nama saya Nanda, Mahasiswa Teknik Informatika. Android Developer part time di salah satu software house di Semarang. Juga Youtuber di Channel YouTube Javsoul Technology \nhttps://m.youtube.com/watch?v=BTt8htkKWZs",Nanda,Adisaputra,Nandaadisaputra100,0,17,6,2020,0,26,39
+1563,0,,zizz,,c3cilion,0,17,6,2020,3,9,27
+1565,0,,Nanang Rustianto,,v13nr,0,17,6,2020,5,8,50
+1567,0,Nama : Nanang Rustianto\nTinggal di Pengayoman\nBelajar Flutter baru 2 Bulan,Nanang Rustianto,,v13nr,0,17,6,2020,5,9,33
+1568,0,,Ricky,,Rickyreskyananda,0,17,6,2020,5,21,40
+1570,0,selama 2 bulan uda lumanya bisa bikin satu siklus program absensi yang melibatkan upload file dan geolocator,Nanang Rustianto,,v13nr,0,17,6,2020,5,25,28
+1571,0,kendalanya geolocator kueri ke koordinat GPS nya ternyata lumayan berat,Nanang Rustianto,,v13nr,0,17,6,2020,5,25,55
+1572,0,,Nusantech,Academy,nusantech,0,17,6,2020,7,26,7
+1574,0,,Fadli,,fadllinks,0,17,6,2020,12,34,39
+1576,0,"menarik pakai geolocator,\n\nbtw, maksudnya lumayan berat itu gimana ya? (kalo dalam waktu, misalnya lama gitu, berapa lama? 30 detik?)\n\nbuat yang mau cobain pake geolocator, siapa tau ada masukan lagi..\n\nhttps://alligator.io/flutter/geolocator-plugin/",oon,,oonid,0,17,6,2020,12,44,58
+1577,1576,"mungkin tergantung hp nya juga, saya test pakai android 5 dan 9 sekitar 60 detik, belum ketemu cara optimasinya",Nanang Rustianto,,v13nr,0,17,6,2020,13,28,57
+1578,0,"itu sudah posisi bisa melihat langit ya?\n\ntrus itu cold start GPS, jadi baru yang pertama kali aja dibuka?\natau bahkan sudah berulang-ulang kali aplikasi dibuka selalu lama?\n\nkalo cold start GPS memang lama, bisa 1-2 menit untuk lock satelit, apalagi kalo nggak banyak bisa liat langit.\n(untuk cek fasilitas GPS, biasa pake app GPSTest ada di google play).",oon,,oonid,0,17,6,2020,13,32,54
+1579,0,"itu di dalam ruangan om, saya bikin 2 versi, Flutter sama Native di Android",Nanang Rustianto,,v13nr,0,17,6,2020,13,34,36
+1580,0,"kalo yang native android lebih cepat?\n\nkalo dalam ruangan, aksesnya mungkin jangan fine location kayak GPS gitu kali ya? yang coarse gitu.. eh bentar, bisa nggak ya pake geolocator..",oon,,oonid,0,17,6,2020,13,36,9
+1581,0,"iya, native lebih cepat",Nanang Rustianto,,v13nr,0,17,6,2020,13,36,47
+1582,0,"btw, itu udah dicoba pakai LocationAccuracy  apa aja? misalnya diubah jadi low gitu masih lama juga?",oon,,oonid,0,17,6,2020,13,44,51
+1583,0,"belum om, belum sempat ngoding absensi lagi",Nanang Rustianto,,v13nr,0,17,6,2020,13,45,33
+1584,0,bisnis udah jalan,Nanang Rustianto,,v13nr,0,17,6,2020,13,45,43
+1585,0,👍,oon,,oonid,0,17,6,2020,13,45,51
+1586,0,,Hanan,Asyrawi,hananloser,0,17,6,2020,14,9,18
+1588,0,,Fathurrahman,Muhiddin,mandarlink,0,17,6,2020,23,35,50
+1590,0,,Rifky,,,0,18,6,2020,4,45,46
+1591,0,teman2 ada saran tempat KP ga?,Firdaus,,Firdausshi,0,18,6,2020,6,6,12
+1593,0,"Bismillah. Assalamualaikum nama saya rifky, asal Sulawesi barat. Ijin pengen ikut belajar 🙏",Rifky,,,0,18,6,2020,7,23,14
+1594,1591,"Gojek, tokopedia, telkomsel, bukalapak, telkom google indonesia",Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,15,18
+1595,1591,Kp,Fadli,,fadllinks,0,18,6,2020,10,15,40
+1596,0,?,Fadli,,fadllinks,0,18,6,2020,10,15,50
+1597,1595,Kuliah praktek,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,16,6
+1598,0,Magang,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,16,19
+1599,0,kerja praktek,Firdaus,,Firdausshi,0,18,6,2020,10,17,33
+1600,0,Sini,agung,,agungaudit,0,18,6,2020,10,17,36
+1601,0,yaa semacam magang,Firdaus,,Firdausshi,0,18,6,2020,10,17,43
+1602,1599,Tempat ku mau??,agung,,agungaudit,0,18,6,2020,10,17,47
+1603,0,Japri,agung,,agungaudit,0,18,6,2020,10,18,5
+1604,0,di bayara kah orang kalau magang,Hanan,Asyrawi,hananloser,0,18,6,2020,10,18,8
+1605,0,?,Hanan,Asyrawi,hananloser,0,18,6,2020,10,18,18
+1606,1604,Kalau di start up dikasih uang bulanan lumayan,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,18,38
+1607,0,deh mau tong saya magang kalo bgtu hahah,Hanan,Asyrawi,hananloser,0,18,6,2020,10,19,1
+1608,0,Tapi seleksinya ketat kayak ujian pns,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,19,15
+1609,0,dehhh ngeriii,Hanan,Asyrawi,hananloser,0,18,6,2020,10,19,21
+1610,0,siapa tau ada tempat di makassar di tau,Firdaus,,Firdausshi,0,18,6,2020,10,19,55
+1611,0,"Terakhir coba"" di gojek tes terakhirnya live coding kayak google",Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,19,58
+1612,1611,wahh😂,Firdaus,,Firdausshi,0,18,6,2020,10,20,22
+1613,1610,"Tekomsel sama telkom langsung saja datangi kantornya. Tanya""",Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,20,49
+1614,0,big notasion 0 mungkin,Hanan,Asyrawi,hananloser,0,18,6,2020,10,20,57
+1615,0,"di Upana Studio, tempat kak @rhslamet 🙌🏼",oon,,oonid,0,18,6,2020,10,21,40
+1616,1613,full kayaknya. hari ini ada 20 surat masuk ke telkom. mahasiswa KP semua😂,Firdaus,,Firdausshi,0,18,6,2020,10,22,7
+1617,0,Tapi saran kalau mau belajar cari yg software house,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,22,16
+1618,1616,Coba dlu gojek seru walaupun hanya ikut tes,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,23,26
+1619,0,Seingatku itu gojek mereka cari talent,Ahmad,,PohondiMusimHUjan,0,18,6,2020,10,25,4
+1620,0,,,,,0,18,6,2020,13,46,53
+1622,0,"Ada apa ya yang baru di Flutter Day, 25 Juni, nanti? 🍿☕\n\nhttps://events.withgoogle.com/flutter-day/",Fordyta Abubakar,,DhytoDev,0,20,6,2020,5,7,23
+1623,1579,"Nah, menarik ini studi kasusnya. Kenapa ya performa di native lebih cepat? Hehe 🤔",Fordyta Abubakar,,DhytoDev,0,20,6,2020,5,11,26
+1624,1623,mungkin klo native langsung klo flutter harus lewat skia dulu hahah CMIIW,Hanan,Asyrawi,hananloser,0,20,6,2020,5,12,17
+1625,0,,Hanan,Asyrawi,hananloser,0,20,6,2020,5,14,8
+1626,1622,"Oh iya, sbg rangkaian acara dari Flutter Day di Indonesia, klo kita ngadain Flutter Study Jam/Flutter Hackathon, banyak yg berminat gak? \n\nSeru-seruan, gitu. Singkatnya, belajar, terus langsung coba bikin sesuatu 😊",Fordyta Abubakar,,DhytoDev,0,20,6,2020,5,15,25
+1627,0,selama gratis ka terjunnn,Hanan,Asyrawi,hananloser,0,20,6,2020,5,19,27
+1628,1625,"kalo diliat dari gambar ini..\nskia sama Dart itu sebelahan.. \n(dimana skia itu graphics engine),\nsedangkan proses untuk mendapatkan latitude dan longitude itu nggak berhubungan sama graphics.\n\nsaya juga belum tau apa jawabannya sih.. 😆\n(kenapa lebih lambat, karena janjinya Dart bisa mengakses langsung ke platform channel)",oon,,oonid,0,20,6,2020,5,51,57
+1629,0,"kayak gini gambaran memanggil kode kotlin dari flutter, untuk cek battery status (dimana mekanismenya ya mirip kalo mau ambil location dari GPS), nanti coba diliat di source code nya geolocator.\n\nhttps://flutter.dev/docs/development/platform-integration/platform-channels",oon,,oonid,0,20,6,2020,5,55,38
+1630,0,"nah kalo sudah masuk ke kodenya geolocator,\nkak @DhytoDev yang bisa jelaskan hahah..\n\ngimana ini baca kode Java.. 🙈\napa itu LocationManager apa itu LocationServices\n\nhttps://github.com/Baseflow/flutter-geolocator/tree/develop/android/src/main/java/com/baseflow/geolocator/tasks",oon,,oonid,0,20,6,2020,6,2,32
+1631,1626,acaranya online kak ini Flutter Study Jam(?),oon,,oonid,0,20,6,2020,6,8,39
+1632,1631,Full online,Andi,Wijaya,andiwijayaid,0,20,6,2020,7,17,47
+1633,0,,Cio,,,0,20,6,2020,8,19,47
+1635,0,"Perkenalkan nama saya Muh Arfah biasa di panggil cio sekian, salam kenal",Cio,,,0,20,6,2020,8,20,41
+1636,1615,open ji kak?😂,Firdaus,,Firdausshi,0,20,6,2020,8,23,39
+1637,1617,"masih cari ini, ada rekom ta?",Firdaus,,Firdausshi,0,20,6,2020,8,24,24
+1638,0,,,,,0,21,6,2020,8,21,8
+1640,0,,Sri Wulandari Samsul,,hellosri7,0,22,6,2020,10,38,39
+1642,0,"Hallo, nama saya Sri Wulandari Samsul asalnya dari makassar kak🙏🏻 salam kenal",Sri Wulandari Samsul,,hellosri7,0,22,6,2020,10,39,26
+1643,0,,MuhAnugrah,,rgaxyy,0,22,6,2020,11,53,28
+1645,1642,iya salam kenal,Hanan,Asyrawi,hananloser,0,22,6,2020,15,32,1
+1646,0,,Kamaniya batari,,Ic_aaaaaaaaaa,0,23,6,2020,0,49,11
+1648,0,,Afiah Zahra,,,0,23,6,2020,8,34,8
+1650,0,,Fauzy,M. Rachman,fauzymrachman,6287714788881,23,6,2020,14,5,54
+1652,0,"Hallo, saya Fauzy dari Cianjur, Jawa barat",Fauzy,M. Rachman,fauzymrachman,6287714788881,23,6,2020,14,6,18
+1653,0,,~,,,0,23,6,2020,15,33,14
+1655,0,,Rustam,Majid,rustamaji76,0,24,6,2020,0,15,5
+1657,0,Rustam dari sultra,Rustam,Majid,rustamaji76,0,24,6,2020,0,15,24
+1658,0,,Defit,Kurniawan,DefitKurniawan,0,24,6,2020,7,50,42
+1660,0,Defit kurniawan asal Bulukumba sulsel,Defit,Kurniawan,DefitKurniawan,0,24,6,2020,7,51,28
+1661,0,Besok flutter day dih,Rizky,Arlin,rizkyarlin,0,24,6,2020,9,1,42
+1662,0,yoi..\n\nhttps://events.withgoogle.com/flutter-day/,Fordyta Abubakar,,DhytoDev,0,24,6,2020,9,3,14
+1663,0,aktivitasnya ngapain aja kak? 😬,oon,,oonid,0,24,6,2020,9,14,48
+1664,0,"acaranya jam 9AM Pacific time,\nberarti Kamis jam 00 WITA ya?\nselama 24 jam?",oon,,oonid,0,24,6,2020,9,22,51
+1665,0,"ternyata aku salah,\nsetelah pakai bantuan kalender,\nbaru tau kalo acaranya itu Jumat jam 00 WITA.\nselama 24 jam.",oon,,oonid,0,24,6,2020,11,48,44
+1666,1663,Ini kopdar kak,Kamaniya batari,,Ic_aaaaaaaaaa,0,24,6,2020,11,50,19
+1667,1665,berarti tengah malam kalo di makassar,Hanan,Asyrawi,hananloser,0,24,6,2020,11,50,40
+1668,1666,iya kah?\ndimana kopdarnya? 😬,oon,,oonid,0,24,6,2020,11,50,50
+1669,1667,"betul.. betul.. betul..\n\ntapi bukan tengah malam nanti, tengah malam besok.\n\n🙈🙈",oon,,oonid,0,24,6,2020,11,51,17
+1670,0,ahhahah,Hanan,Asyrawi,hananloser,0,24,6,2020,11,51,32
+1671,0,,Ahmad,,PohondiMusimHUjan,0,24,6,2020,11,52,20
+1672,0,,Ahmad,,PohondiMusimHUjan,0,24,6,2020,11,52,46
+1673,0,Itu kalau mau magang,Ahmad,,PohondiMusimHUjan,0,24,6,2020,11,52,58
+1674,1672,semester akhir itu kace semeter 8 di,Hanan,Asyrawi,hananloser,0,24,6,2020,11,53,12
+1675,0,Semester akhir biasanya semester 6 ke atas,Ahmad,,PohondiMusimHUjan,0,24,6,2020,11,53,56
+1676,0,,Andie,Jie,,0,24,6,2020,12,18,5
+1678,0,,Amel,,Lovaliyah,0,25,6,2020,0,4,37
+1680,1674,semester apami pade’ sy yg sdh semester 13 ? wkwk,Rizky,Arlin,rizkyarlin,0,25,6,2020,5,37,34
+1681,0,posisi dimana itu kanda?,Firdaus,,Firdausshi,0,25,6,2020,6,6,23
+1682,0,30an menit lagi\n\nhttps://youtu.be/xg4S67ZvsRs,oon,,oonid,0,25,6,2020,15,24,51
+1683,0,"Menarik. DevTools ditulis ulang menggunakan flutter, yang tadinya menggunakan dart murni. \n\nBtw, siapa nih yg suka mengecek ""kesehatan aplikasi"" yg sedang dibuat dengan DevTools? \n\nhttps://medium.com/flutter/new-tools-for-flutter-developers-built-in-flutter-a122cb4eec86",Fordyta Abubakar,,DhytoDev,0,26,6,2020,2,10,42
+1684,0,,Penipuan 😂😂,,,0,27,6,2020,2,11,31
+1686,0,"Haloo, perkenaloan nama saya Nurkholik katu saya dari kota palopo, skrg berkuliah di Teknik Elektro Universitas Hasanuddin.\nSaya pemula dal bidang Android Developer jadi mohon bimbinganya semua 🙏",Penipuan 😂😂,,,0,27,6,2020,2,12,40
+1687,1686,Halo kak... Sy jg dr elektro unhas ✌️,Rizky,Arlin,rizkyarlin,0,27,6,2020,2,18,16
+1688,0,Wah salam kenal mas🙏 hehe,Penipuan 😂😂,,,0,27,6,2020,2,19,19
+1689,0,,AMT,,chnksmkrs,0,27,6,2020,16,11,22
+1691,0,"Hallo, perkenalkan nama saya Akbar dari STMIK DP angkatan 2011, salam kenal 🙏",AMT,,chnksmkrs,0,27,6,2020,16,13,14
+1692,1691,Halo selamat datangg 😄,Dianto,,Dian_774,0,29,6,2020,6,22,10
+1693,0,"development flutter di docker 🤔\nmenarik, fokus di artikelnya sih flutter diuji di perangkat langsung..\n\ntapi beberapa ide bisa digunakan untuk implementasi flutter web juga\n\nhttps://medium.com/flutter-community/how-to-dockerize-flutter-apps-f2e54d6ec43c",oon,,oonid,0,29,6,2020,6,27,37
+1694,0,selamat sore kak ada yang tau cara update android-build tools 28 di linux,Hanan,Asyrawi,hananloser,0,29,6,2020,7,15,31
+1695,0,,Hanan,Asyrawi,hananloser,0,29,6,2020,7,18,15
+1696,0,"kalo run command sdkmanager dari path yang ada di info tersebut, bisa nggak?",oon,,oonid,0,29,6,2020,7,19,38
+1697,0,klo masuk sdkmanager path bisa ji kak,Hanan,Asyrawi,hananloser,0,29,6,2020,7,19,59
+1698,0,cuman command update nya apa di kak hehehe,Hanan,Asyrawi,hananloser,0,29,6,2020,7,20,9
+1699,0,sdk manager bukannya sudah ada pilihannya?\nSDK Build-tools 30 atau 28 dst..\nnanti pilih pilih trus dia akan download sendiri.,oon,,oonid,0,29,6,2020,7,21,2
+1700,0,anu ka saya tidak install android studio,Hanan,Asyrawi,hananloser,0,29,6,2020,7,21,18
+1701,0,🙈 maafkan.. kebiasaan pakai android studio.,oon,,oonid,0,29,6,2020,7,22,1
+1702,0,,Hanan,Asyrawi,hananloser,0,29,6,2020,7,22,6
+1703,0,masuk ke sini tdk ada android sdk nya,Hanan,Asyrawi,hananloser,0,29,6,2020,7,22,16
+1704,0,di flutter doctor bilang nya di path situ tapi tdk ada bang sdkmanager nya hahah,Hanan,Asyrawi,hananloser,0,29,6,2020,7,22,35
+1705,0,pusing nakke,Hanan,Asyrawi,hananloser,0,29,6,2020,7,22,45
+1706,0,terpaksama install android studio ehehhe,Hanan,Asyrawi,hananloser,0,29,6,2020,7,23,13
+1707,0,"kalo download command line tools aja, apakah ada di situ?",oon,,oonid,0,29,6,2020,7,24,23
+1708,0,mksud nya kak,Hanan,Asyrawi,hananloser,0,29,6,2020,7,24,43
+1709,0,,Hanan,Asyrawi,hananloser,0,29,6,2020,7,25,54
+1710,0,itu yang linux 82 MB\n\nhttps://developer.android.com/studio#command-tools,oon,,oonid,0,29,6,2020,7,26,38
+1711,1710,setalah di install ini kak,Hanan,Asyrawi,hananloser,0,29,6,2020,7,26,56
+1712,0,nah katanya sdkmanager termasuk command yang ada dalam tools itu\n\nhttps://developer.android.com/studio/command-line,oon,,oonid,0,29,6,2020,7,26,59
+1713,1711,"nah coba cari itu berarti sudah ada command `sdkmanager`, install di direktori apa?",oon,,oonid,0,29,6,2020,7,27,36
+1714,0,oke bentar kak ku install dulu,Hanan,Asyrawi,hananloser,0,29,6,2020,7,28,1
+1715,0,done mi kak,Hanan,Asyrawi,hananloser,0,29,6,2020,7,30,29
+1716,0,ada mi di dalam sdk manager nya,Hanan,Asyrawi,hananloser,0,29,6,2020,7,30,40
+1718,0,hahah nyerah ma kak install saja android studio hahah,Hanan,Asyrawi,hananloser,0,29,6,2020,7,38,46
+1719,0,😆😆,oon,,oonid,0,29,6,2020,7,38,59
+1720,0,https://medium.com/flutterpub/flutter-day-recap-e1a93f63089b,Fordyta Abubakar,,DhytoDev,0,30,6,2020,13,38,49
+1721,0,"#tanya kawan2, disini ada yg berminat untuk freelance full/part-time gak? Bagus klo ada pengalaman flutter + graphql jg. Klo ada japri ya! Thank you",Muhammad,Rahmatullah,muhrahmatullah,0,30,6,2020,14,27,0
+1722,0,Assalamu'alaikum kak ada yang punya akun zoom premium?,Nasmah,,nasmahindahsari,0,1,7,2020,8,24,32
+1723,1722,"Wa'alaikumsalam warahmatullah..\n\nSaya gak punya, kak. Buat apa ya, kak? Mau bikin event kah? Hehe..",Fordyta Abubakar,,DhytoDev,0,1,7,2020,8,35,45
+1724,1721,"Wah, mantap kak. Apakah sdh ada yg mengjapri, kak? Hehe ✌",Fordyta Abubakar,,DhytoDev,0,1,7,2020,8,36,24
+1725,1724,Wkwkwk sedikit kak,Muhammad,Rahmatullah,muhrahmatullah,0,1,7,2020,8,57,28
+1726,1721,Udah closed ya. Thank you gaess,Muhammad,Rahmatullah,muhrahmatullah,0,2,7,2020,15,5,50
+1727,1726,dapatnya disini atau di t4 lain rahmat?,Rizky,Arlin,rizkyarlin,0,2,7,2020,15,26,11
+1728,1727,Tempat lain Riz :( pdahal mau merasakan kerja bareng anak Makassar wkwkwk supaya bs discuss pke logat lagi hahahah,Muhammad,Rahmatullah,muhrahmatullah,0,2,7,2020,15,28,18
+1729,1728,wkwkwk…  😆,Rizky,Arlin,rizkyarlin,0,2,7,2020,15,28,40
+1730,0,"Lagi di pekerjaan yg bagus semua mungkin tawwa di grup ini,.. aamiiin",Rizky,Arlin,rizkyarlin,0,2,7,2020,15,29,9
+1731,1730,Amin,Muhammad,Rahmatullah,muhrahmatullah,0,2,7,2020,15,30,28
+1732,0,,Ardi,,Ardigone,0,2,7,2020,21,24,57
+1734,0,Nama : Ardian Firdaus,Ardi,,Ardigone,0,2,7,2020,21,25,20
+1735,0,"Hola, sy nyari freelance untuk integrasi midtrans di flutter. Yg berminat bisa langsung japri beserta rate nya.",Rizky,Arlin,rizkyarlin,0,6,7,2020,13,6,19
+1736,1735,FEnya aja. BE nya udah dihandle,Rizky,Arlin,rizkyarlin,0,6,7,2020,13,7,40
+1737,0,,Nurfaizin,Ramadhan,,0,6,7,2020,22,44,2
+1739,0,"Nama, nurfaizin",Nurfaizin,Ramadhan,,0,6,7,2020,22,44,32
+1740,0,,Muhammad,Muzaki,muzakiassarpiyoh,0,7,7,2020,4,26,20
+1742,0,Siapa yang mau patungan sama saya untuk join kelas ini?,Muhammad,Muzaki,muzakiassarpiyoh,0,7,7,2020,4,27,34
+1743,0,798 untuk 2 kelas,Muhammad,Muzaki,muzakiassarpiyoh,0,7,7,2020,4,28,0
+1744,0,,,,,0,8,7,2020,3,23,0
+1745,0,,Andi Tenri,42519005,,0,10,7,2020,16,49,5
+1748,0,,Doc,Nerd,wannabenerd,0,15,7,2020,17,23,18
+1750,0,,Muhammad,Indrawan,mmindrawan,0,20,7,2020,4,34,16
+1752,0,Aku mau beli laptop bekas buat belajar ada lenovo ideapad 320 i5 gen 7 ram 8gb udah ssd apakah itu sudah enak kalau pake AS?,Ahmad,,PohondiMusimHUjan,0,24,7,2020,5,32,2
+1753,1752,"Untuk memulai, sdh lumayan sih itu. Terus, nanti klo bisa pakenya OS Linux.",Fordyta Abubakar,,DhytoDev,0,24,7,2020,6,51,23
+1754,0,saran linux nya pake PopOs,Hanan,Asyrawi,hananloser,0,24,7,2020,6,52,0
+1755,0,Windows 7 juga boleh,ROOT,,imtoor,0,24,7,2020,7,5,24
+1756,0,,Muh,Rizal,muhrizal1002,0,24,7,2020,19,58,55
+1758,0,,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,27,7,2020,3,44,40
+1764,0,"abg"" kakak"" mau tanyak bagai mana sih cara buat navigator untuk dapat kembali ke halaman home...",Andri Irwan Zahri,,andrirzah,0,28,7,2020,16,45,32
+1765,0,,Ndra,,,0,29,7,2020,0,38,58
+1767,0,Hai,Ndra,,,0,29,7,2020,0,39,32
+1768,1764,"Bisa deklarasikan route di materialapp, kemudian nnt bs navigate berdasarkan routename",Muhammad,Rahmatullah,muhrahmatullah,0,29,7,2020,2,34,40
+1769,0,https://flutter.dev/docs/cookbook/navigation/named-routes,Muhammad,Rahmatullah,muhrahmatullah,0,29,7,2020,2,35,39
+1770,1769,makasih bg,Andri Irwan Zahri,,andrirzah,0,29,7,2020,8,48,52
+1771,0,"owh ya bg... klo untuk buat notifikasi dengan flutter yang terhubung dengan dbms mysql bagai mna, misalkan setiap ada data yang masuk , terkirim sebagai notifikasi ke admin atau user",Andri Irwan Zahri,,andrirzah,0,29,7,2020,8,52,32
+1772,1771,"Perlu backend sebagai perantara untuk akses db mysql, kemudian untuk push notif bs pake fcm, yg trigger nnt dr backendnya",Muhammad,Rahmatullah,muhrahmatullah,0,29,7,2020,9,27,44
+1773,0,,Al.KaD,,ALVIAN_KD,0,29,7,2020,12,3,16
+1775,0,Alkad salm kenal,Al.KaD,,ALVIAN_KD,0,29,7,2020,12,3,32
+1776,0,,Bpk pambudi,,Kifabil,6285705968754,29,7,2020,18,26,14
+1778,1772,cara membuatnya bagaimana bg...\napakah ada referensi dalam pembuatan dari db mysql agar terhubung ke firebase,Andri Irwan Zahri,,andrirzah,0,29,7,2020,18,28,44
+1779,0,dari abg,Andri Irwan Zahri,,andrirzah,0,29,7,2020,18,28,55
+1780,0,,Musaka,,Musakad,0,30,7,2020,15,41,20
+1782,1778,"Gak ada referensi, cb search di internet aja",Muhammad,Rahmatullah,muhrahmatullah,0,30,7,2020,16,2,32
+1783,0,,Fordyta Abubakar,,DhytoDev,0,31,7,2020,4,15,18
+1784,0,"[Grand Launching Indonesia Maju HackFest 2020]\n\nUntung mendukung ketertarikan terhadap flutter yang terus meningkat dan berperan penting dalam pembuatan aplikasi mobile di Indonesia saat ini, Flutter Indonesia didukung oleh Google Developers akan meluncurkan hackathon online yang unik dan pertama kali diadakan bersama dengan komunitas developer di Indonesia. Tujuannya adalah untuk mencari dan mengajak developer terbaik serta innovator dari seluruh Indonesia untuk menggunakan teknologi Google dan membangun solusi yang berdampak positif.\n\nTak hanya sekadar peluncuran program, ada juga acara seperti :\n- Pengenalan tentang Flutter dengan Socket oleh Angga Arifandi, Freelance Flutter Engineer\n- Jalur belajar Flutter oleh Erico Darmawan, Flutter Youtuber & Flutter Trainer\n- Showcase Aplikasi Pikobar oleh Jabar Digital Service Pemprov Jabar\n- Showcase Aplikasi Endcorona oleh Tim EndCorona FKUI\n\nHari, tanggal: Sabtu, 1 Agustus 2020\nWaktu: 10.00 - 12.00\nTempat: Live di Youtube GDG Depok & Flutter Indonesia\n\nAcara ini gratis untuk semua kalangan dan ada hadiah khusus dari Dicoding Academy untuk para peserta terpilih pada launching ini. Jadi, tunggu apa lagi? Ayo segera daftarkan dirimu di bit.ly/launchingimhf jangan sampai ketinggalan!",Fordyta Abubakar,,DhytoDev,0,31,7,2020,4,15,26
+1785,0,,W,,tazmania_taz,0,31,7,2020,20,5,44
+1787,0,"PT Carakde Solusi Informatika membuka kesempatan untuk kamu bergabung dengan tim kami dalam program internship. Program ini akan berlangsung selama 2 bulan. Kamu akan mengerjakan project secara langsung, belajar dari professional, dan tentunya akan mendapatkan insentif selama program internship.\n\nMore information about this program: \nhttps://career.carakde.id/",Andi,Wijaya,andiwijayaid,0,1,8,2020,7,34,26
+1788,0,,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,34,39
+1789,0,,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,34,39
+1790,0,,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,34,39
+1791,0,,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,34,39
+1792,0,,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,34,39
+1793,0,ada yg tau tempat magang untuk mahasiswa TI d Makassar?,hesdin,,hesdin,0,1,8,2020,7,35,50
+1794,0,akuu,Hanan,Asyrawi,hananloser,0,1,8,2020,7,36,0
+1795,0,dmna bang ?,hesdin,,hesdin,0,1,8,2020,7,37,53
+1796,0,makassar om,Hanan,Asyrawi,hananloser,0,1,8,2020,7,37,59
+1798,0,apa nama instansinya?,hesdin,,hesdin,0,1,8,2020,7,38,33
+1799,0,bentar ku tnya ki teman ku om,Hanan,Asyrawi,hananloser,0,1,8,2020,7,38,44
+1800,0,atau ada yg tau software house d Makassar yg terima mahasiswa magang?,hesdin,,hesdin,0,1,8,2020,7,39,22
+1801,1800,Cek postingan di atas gan,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,39,45
+1802,1787,dimakassar kah ini om,Hanan,Asyrawi,hananloser,0,1,8,2020,7,40,37
+1803,1802,Ia makassar,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,40,45
+1804,0,dimna kantor nya om,Hanan,Asyrawi,hananloser,0,1,8,2020,7,40,55
+1805,0,Hertasning,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,41,45
+1806,0,cara daftar gmna bang ?,hesdin,,hesdin,0,1,8,2020,7,41,57
+1807,1805,bisa langsung japri kah om ke kantor nya,Hanan,Asyrawi,hananloser,0,1,8,2020,7,42,26
+1808,1787,Bisa di baca dlu captionnya dik 👍🏻,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,43,7
+1809,1808,ini terima mahasiswa semester akhir untuk magang juga?,hesdin,,hesdin,0,1,8,2020,7,44,24
+1810,1809,Ia,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,44,57
+1811,0,ijin share pade om,Hanan,Asyrawi,hananloser,0,1,8,2020,7,45,20
+1812,0,oke Makasih informasinya bang,hesdin,,hesdin,0,1,8,2020,7,45,26
+1813,0,,Irsyad,Ashari,tiereurdecouer,0,1,8,2020,7,45,45
+1815,1811,Silhakan gan 👍🏻,Andi,Wijaya,andiwijayaid,0,1,8,2020,7,46,5
+1816,0,btw om mau ka gabung tapi semester akhir ma iyya tpi bnyak pi kuliah tdk lulus,Hanan,Asyrawi,hananloser,0,1,8,2020,7,47,17
+1817,1816,"sy jg rencana mw gabung gan, \nmahasiswa semester akhir mi juga",hesdin,,hesdin,0,1,8,2020,7,49,3
+1818,0,,Sam,,,0,1,8,2020,12,15,35
+1820,0,,Eboyz,,eboyzx,0,2,8,2020,3,15,38
+1822,0,"Hallo admin,,salam kenal,,saya Andi dari Karawang,,",Eboyz,,eboyzx,0,2,8,2020,3,16,21
+1823,0,"bg cara buat batas waktu transaksi penjualan bagaimna ya... tolong bantuanya kak"" abg""",Andri Irwan Zahri,,andrirzah,0,2,8,2020,15,9,48
+1824,0,https://indonesiamajuhackfest.devpost.com/,Fadli,Jaya,fadlyjaya,0,4,8,2020,10,22,2
+1825,0,,Hanan,Asyrawi,hananloser,0,8,8,2020,6,19,52
+1826,0,Ini Kenapa Yahh mas,Hanan,Asyrawi,hananloser,0,8,8,2020,6,20,3
+1827,0,,Evan,Lund,,0,8,8,2020,7,38,20
+1829,0,,M suryadi,Triputra,Msuryaditriputra,0,9,8,2020,11,0,34
+1831,0,Assalamualaikum,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,8,2020,23,27,15
+1832,0,Apa ada yg pernah bersihkan bug yg dideteck dr kapersky?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,9,8,2020,23,27,26
+1833,1825,Bs cb baca ini https://github.com/flutter/flutter/issues/16093,Muhammad,Rahmatullah,muhrahmatullah,0,10,8,2020,0,55,55
+1834,0,"assalamualaikum abg"" kakak,"" mau tanya cara melihat delay dari aplikasi kita bagai mana kak, klo di Android studio ada logcat, untuk flutter apakah ada ya?",Andri Irwan Zahri,,andrirzah,0,13,8,2020,7,36,8
+1835,1834,Wa'alaikumsalam.. \n\nIni maksudnya ingin memantau performa aplikasi? Atau untuk debugging?,Fordyta Abubakar,,DhytoDev,0,13,8,2020,7,44,33
+1836,1683,Untuk debugging dan analisa performa bisa pake Flutter DevTools.,Fordyta Abubakar,,DhytoDev,0,13,8,2020,7,46,20
+1837,0,untuk memantau performance aplikasi bg...,Andri Irwan Zahri,,andrirzah,0,13,8,2020,7,46,41
+1838,1836,pake flutter devTools apakah harus menambahkan code lagi bg,Andri Irwan Zahri,,andrirzah,0,13,8,2020,7,47,18
+1839,1838,"Tdk perlu, sdh built in. Saat aplikasi dijalankan, itu otomatis membuka DevTools.",Fordyta Abubakar,,DhytoDev,0,13,8,2020,7,49,15
+1840,0,apa performanupload data ke database terbaca juga bg,Andri Irwan Zahri,,andrirzah,0,13,8,2020,7,53,15
+1841,0,"Iya, bisa analisa network juga. Silakan dibaca-baca sendiri, ya. \n\nhttps://flutter.dev/docs/development/tools/devtools",Fordyta Abubakar,,DhytoDev,0,13,8,2020,7,54,32
+1842,0,Apa ada yg tahu apa yg paling bagus utk webwiev utk APPS website2apk..apa PWA2APK...ato PWA murni trus di web viewkan..tolong dijelaskan?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,13,8,2020,7,59,12
+1843,0,Pwa2apk menurut ku sih,ROOT,,imtoor,0,13,8,2020,8,1,15
+1844,0,Secara pwa kan feel nya udah app banget,ROOT,,imtoor,0,13,8,2020,8,1,28
+1845,0,Mau ke apps kan,ROOT,,imtoor,0,13,8,2020,8,1,46
+1846,0,Kalau pwa murni sebenar nya bisa juga,ROOT,,imtoor,0,13,8,2020,8,1,59
+1847,0,Kan ada add to screen nya,ROOT,,imtoor,0,13,8,2020,8,2,9
+1848,1841,"baik , terima kasih bnyak bg",Andri Irwan Zahri,,andrirzah,0,13,8,2020,8,10,16
+1849,1841,kenapa network nya tidak ada request sama sekali padahal saya sudah menjalankan aplikasi,Andri Irwan Zahri,,andrirzah,0,13,8,2020,9,26,43
+1850,0,https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730,Hanan,Asyrawi,hananloser,0,13,8,2020,10,39,28
+1851,1843,Ada bug nya apa tdk kalo sdh jalan?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,13,8,2020,10,58,36
+1852,1846,Ini scripnya panjang apa tdk utk PWA murni?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,13,8,2020,10,59,26
+1853,1851,belum pernah coba bro,ROOT,,imtoor,0,13,8,2020,14,26,24
+1854,1852,ini project belajar gua https://github.com/rd3v/react_weather_app,ROOT,,imtoor,0,13,8,2020,14,26,52
+1855,0,https://reverent-galileo-bf9744.netlify.app/,ROOT,,imtoor,0,13,8,2020,14,27,10
+1856,0,,dikta,,diktakhm,0,13,8,2020,15,40,13
+1858,0,Halo nama saya Ningsi\nAlamat:Kab Takalar,dikta,,diktakhm,0,13,8,2020,15,41,8
+1859,0,,AHMAD,,MerdekaSebenarnya,0,14,8,2020,0,41,47
+1861,0,,,,,0,15,8,2020,3,41,27
+1863,0,,Aldiansyah,Fahmi,aldiansyahf99,0,17,8,2020,0,12,20
+1865,0,"Halo nama saya Aldiansyah Fahmi, alamat Maros",Aldiansyah,Fahmi,aldiansyahf99,0,17,8,2020,0,13,25
+1867,0,"""Pada momen kemerdekaan ini Flutter Indonesia mengundang Anda untuk membangun solusi yang berdampak melalui kegiatan Hackathon online, Indonesia Maju HackFest. Mari bersama-sama membangun Indonesia yang lebih baik. 🥳\n\n✍🏻 Yuk daftar → http://indonesiamajuhackfest.devpost.com""",Fordyta Abubakar,,DhytoDev,0,17,8,2020,1,53,56
+1868,1867,Saya ada ide dan sdh jalan kalo ada yg mau jadi tim bisa japri...syarat harus bisa program CI ato Php..bidang pembangunan ekonomi..,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,17,8,2020,2,13,40
+1869,0,"mau nanya, cara agar opsi yg ke select aja yg di add ke dalam list gimana ya?, saya coba seperti kode diatas tpi ketika misalnya memilih 'a' trus diganti jdi 'b' maka kedua opsi ini masuk ke list walaupun di soal nomor yg sama.",Aldiansyah,Fahmi,aldiansyahf99,0,17,8,2020,3,45,31
+1870,1869,"Sebelum add, listnya di clear dl,\njawaban.clear()\njawaban.add(selectedRadio)",Muhammad,Rahmatullah,muhrahmatullah,0,17,8,2020,4,44,26
+1871,1870,"Sdh coba kak, tpi yg ke add cuma satu nomor doang, nomor yg lain ga ke add, nomor yg lain opsi nya yg di pilih ga ke add",Aldiansyah,Fahmi,aldiansyahf99,0,17,8,2020,4,48,36
+1872,0,"Hooh, klo gitu coba update valuenya aja berdasarkan indeks",Muhammad,Rahmatullah,muhrahmatullah,0,17,8,2020,4,50,15
+1873,0,"Pertama cek dl, klo jawaban soal indeks kesekian sdh ada atau tidak",Muhammad,Rahmatullah,muhrahmatullah,0,17,8,2020,4,51,10
+1874,0,"Klo sdh ada, diupdate jgn di add",Muhammad,Rahmatullah,muhrahmatullah,0,17,8,2020,4,51,22
+1875,0,,Jackie Saputra Gasong,,Seriti19,6285340936331,17,8,2020,13,24,27
+1877,0,Nama sya jeki,Jackie Saputra Gasong,,Seriti19,6285340936331,17,8,2020,13,25,7
+1878,0,,Awaluddin,Syam,,0,17,8,2020,16,43,9
+1880,0,Kak maunanya  cara dapt SHA 1  bagai mana karna sudah saya coba pake tutorial dari google tidak bisa,Awaluddin,Syam,,0,17,8,2020,16,48,26
+1882,0,"#info lg cari tim untuk handel flutter, jika ada berminat boleh inbox dan kita diskusikan 😊",F I R M A N,,pimen,0,21,8,2020,1,46,27
+1883,1882,ikut kak mau belajar,Hanan,Asyrawi,hananloser,0,21,8,2020,4,21,53
+1884,0,Bisa ikut kak mau bljr,Awaluddin,Syam,,0,21,8,2020,5,52,47
+1885,0,,Djuu,,Djuu_17,0,21,8,2020,22,30,40
+1887,0,#ask aslkm,Nanang Rustianto,,v13nr,0,22,8,2020,10,24,16
+1888,0,mau tanya rekan rekan bagaimana cara meretrieve token yang di dapat waktu login untuk dimasukkan ke dio form,Nanang Rustianto,,v13nr,0,22,8,2020,10,24,47
+1889,0,saya mendapat error : Unhandled Exception: type 'Future<dynamic>' is not a subtype of type 'String',Nanang Rustianto,,v13nr,0,22,8,2020,10,24,57
+1890,1889,"Ada codenya? Klo diliat dr errornya bs jadi krn gagal parsing, expectednya String tp dikasi Future<dynamic>.\nSudah dipakekan await ketika panggil methodnya?",Muhammad,Rahmatullah,muhrahmatullah,0,22,8,2020,12,45,45
+1891,1890,sudah solved. trims atensinya,Nanang Rustianto,,v13nr,0,22,8,2020,13,8,57
+1892,0,"siapa tau ada yang perlu capability in app review di flutter appnya, bisa pake package ini https://pub.dev/packages/adr_in_app_review heheh bisa kasi review playstore tanpa meninggalkan aplikasi",Muhammad,Rahmatullah,muhrahmatullah,0,24,8,2020,7,56,19
+1894,0,"Halo kak....\nudah pada ambil kelas premium belum nih di https://nusabot.id ?\nmateri nya adalah IoT Untuk Pemula Menggunakan Blynk, REST API, IFTTT, dan Google Assistant\n\nlagi ada event soalnya potongan harga 100%\ncukup follow akun IG @nusabotid\nlalu kirim pesan ke admin nya untuk mendapatkan kode kupon 😁😁\n\nsetelah berhasil menyelesaikan kelas, kaka bakal dapat sertifikat",Kamaniya batari,,Ic_aaaaaaaaaa,0,24,8,2020,14,3,4
+1895,1894,gratis ?,,,,0,24,8,2020,14,3,31
+1896,1895,Gratis kak,Kamaniya batari,,Ic_aaaaaaaaaa,0,24,8,2020,14,4,33
+1897,1896,meluncur,,,,0,24,8,2020,14,4,48
+1898,1896,tdk ada kelas flutter,,,,0,24,8,2020,14,5,58
+1899,1898,Kelas nya khusus di IoT\nKelas Flutter + IoT akan terbit di bulan oktober kalau gak salah,Kamaniya batari,,Ic_aaaaaaaaaa,0,24,8,2020,14,15,39
+1900,1899,oh thanks infox,,,,0,24,8,2020,14,19,46
+1901,0,,Agung,,,0,27,8,2020,0,50,35
+1903,0,"bg cara untuk menyimpan data sebelum masuk ke server bagai mana abg"" kakak""",Andri Irwan Zahri,,andrirzah,0,27,8,2020,2,3,55
+1904,1903,"Bisa lebih spesifik lagi pertanyaannya? \n\nData seperti apa yg mau disimpan? Tujuannya untuk disimpan apa? Dst..\n\nTerkait data persistence, ada banyak jenis tergantung tipe data yg mau disimpan dan tujuan penyimpanan.",Fordyta Abubakar,,DhytoDev,0,27,8,2020,6,14,1
+1905,0,,Nanang Rustianto,,v13nr,0,28,8,2020,6,37,0
+1906,1904,"contoh nya seperti , ecommerce pembelian produk pada keranjang, data data produk yang di pilih oleh pembeli bisa kita simpan kemana dulu bg sebelum masuk ke server sehingga tidak perlu menunggu proses load pada server terlebih dahulu",Andri Irwan Zahri,,andrirzah,0,29,8,2020,8,46,51
+1907,0,setelah data telah di pastikan benar baru data dapat di simpan ke server...,Andri Irwan Zahri,,andrirzah,0,29,8,2020,8,48,43
+1908,0,bagaimana cara agar datanya kita oleh sebelum masuk ke server bg,Andri Irwan Zahri,,andrirzah,0,29,8,2020,8,49,21
+1909,1908,"Nah, untuk menjawab pertanyaan di atas, prasyaratnya kamu harus tau dulu jenis-jenis data persistence di mobile app. \n\nKrn untuk menjawab harus pakai jenis data persistence apa, setidaknya ada beberapa pertanyaan yg harus kamu jawab seperti : Seberapa lama datanya mau disimpan, seberapa kompleks data yg ingin disimpan, harus disimpan di mana (apakah cukup di memory, ke eksternal/internal storage, database lokal, atau di cloud), dst..",Fordyta Abubakar,,DhytoDev,0,29,8,2020,9,10,5
+1910,0,Simple app state management - Flutter\nhttps://flutter.dev/docs/development/data-and-backend/state-mgmt/simple,ROOT,,imtoor,0,29,8,2020,10,33,42
+1911,0,[Andri Irwan Zahri](tg://user?id=1210697118),ROOT,,imtoor,0,29,8,2020,10,34,3
+1912,0,,Makrus,Ali,MakrusAli,0,30,8,2020,23,24,22
+1914,0,"Selamat pagi , Perkenalkan nama saya Makrus Ali",Makrus,Ali,MakrusAli,0,30,8,2020,23,25,8
+1916,0,"Lagi cari tim hacker,silahkan yg minat bisa japri..",Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,5,26,12
+1917,1916,Minat saya pak ada basic dilinux,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,42,37
+1918,0,Tinggal dimana,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,7,46,20
+1919,0,Mkassar pak,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,46,28
+1920,1917,Bisa ssh ?,ROOT,,imtoor,0,31,8,2020,7,48,36
+1921,0,Bisa,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,48,45
+1922,0,👍🏻👍🏻,ROOT,,imtoor,0,31,8,2020,7,48,52
+1923,0,bisa MITM,Hanan,Asyrawi,hananloser,0,31,8,2020,7,49,8
+1924,0,bisa pake beef,Hanan,Asyrawi,hananloser,0,31,8,2020,7,49,21
+1925,0,Main in middle attack?,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,50,26
+1926,1925,terkadang,Hanan,Asyrawi,hananloser,0,31,8,2020,7,50,42
+1927,0,Tahu kulit doang bang tp klw dibantu saya bisa belajar dengan cepat,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,51,12
+1928,0,Emang sekrang bisa nge attack ke end user kah ?,Hanan,Asyrawi,hananloser,0,31,8,2020,7,51,18
+1929,0,👍🏻,ROOT,,imtoor,0,31,8,2020,7,51,21
+1930,0,Nda pernah saya cb bang,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,51,34
+1931,0,Minimal tahu lah konsep offensive nya MITM,ROOT,,imtoor,0,31,8,2020,7,51,47
+1932,0,Hnya biasa spying hp istri doang,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,51,49
+1933,0,setahu saya di jaman sekrag attack langsung ke end user bakal sulit,Hanan,Asyrawi,hananloser,0,31,8,2020,7,51,57
+1934,0,😂,ROOT,,imtoor,0,31,8,2020,7,51,58
+1935,0,Dr jauh,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,52,5
+1936,0,Apalh saya ini bang yg masih noob,Muhammad,Indrawan,mmindrawan,0,31,8,2020,7,52,16
+1937,1932,Start Nge Lab bisa mulai Dari sini 😂,ROOT,,imtoor,0,31,8,2020,7,52,33
+1938,0,khusss tidak ada yang noob kita aja saja yang sudah tau apa itu mitm udah wow orang awam mana tau hal bgtuan kwkwkw :v,Hanan,Asyrawi,hananloser,0,31,8,2020,7,53,3
+1939,0,buka console cuman run program di kira hacker,Hanan,Asyrawi,hananloser,0,31,8,2020,7,53,16
+1940,1933,"Betul sekali, OS mobile update sekarang ketat rule permissionnya, install spyware tdk semudah dlu, tetap bisa target end user tp dengan niat tinggi dan skill soceng diperlukan untuk dapat root akses.\n\nMITM jg sudah agak susah, browser seperti chrome sdh mewajibkan penggunaan SSL, lain lagi orang sdh mulai pake tau yg namanya VPN, walaupun masih jarang yg pakai sebagai koneksi utama.",Dianto,,Dian_774,0,31,8,2020,11,47,41
+1941,1940,nahh ini patut di kasi jempol kakak ku yang satu ini sekrng abad 21 kyk nya kata hack itu sprti agak lumrah di telinga apa lgi berberapa orng build pake framework yang security sudah di handle framwork,Hanan,Asyrawi,hananloser,0,31,8,2020,12,9,4
+1942,1941,"Sebenarnya td agak bingung yg om @Gotukang mksd itu hacker (pentester) atau hacker (orang teknis yg kerjaannya lebih ke development, klo di dunia startup) atau hacker(cheater di dunia gaming). 😂😂",Dianto,,Dian_774,0,31,8,2020,13,21,1
+1943,1942,Maksudnya ya web programer yg sdh banyak pengalaman..jadi nanti tugasnya dibagian mempermudah dan mengembangkan web,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,32,23
+1944,1943,Web developer mungkin om?,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,33,22
+1945,0,Gmn cara buat ukuran aplikasi sekecil mungkin tp kalo dijalankan akan selengkap mungkin..?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,34,35
+1946,0,Ukurannya megabite sekecil mungkin ..ya dibawah 1 MB kalo bisa,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,35,1
+1947,1945,Buat webnya terus pakai webview om,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,37,2
+1948,1947,Ini yg hebat...org2 kayak gini yg kami cari..,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,39,11
+1949,1948,Wah sy merasa terhormat pak,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,39,30
+1950,0,Kalo buat icon ada 10 icon apa bisa dpt ukuran dibawah 1 MB?,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,40,27
+1951,1950,Bisa pak,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,40,46
+1952,0,Apalagi kalau grayscale,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,40,57
+1953,1952,😀😀 ya jangan yg grey,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,41,34
+1954,0,Pakai icon svg itu lumayan kecil pak,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,42,13
+1955,0,Itu kami sedang cari web programer yg hebat tp sifatnya malas..ya dgn kemalasan itu gmn dia bisa buat sesuatu yg simple tp powerfull,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,44,59
+1956,0,🤣,ROOT,,imtoor,0,31,8,2020,13,45,21
+1957,0,kenapa mau seringan mungkin om? canggih mi sekarang hp2 android. target penggunanya pakai hp2 jadul k?,Andi,Wijaya,andiwijayaid,0,31,8,2020,13,46,13
+1958,0,Savage om,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,46,59
+1959,1955,Mantap pak. Tp programmer malas itu tinggi gajinya,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,47,0
+1960,1959,Setuju ini,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,47,12
+1961,1959,Bagi hasil lebih adil,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,47,18
+1962,1961,Wah semoga nda malasji due diligence itu programmer malasnya :D,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,47,47
+1963,0,80 20 om,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,47,47
+1964,0,Nadiem saja skg dpt 4% ya sahamnya,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,48,30
+1965,0,Bgmn kalau perjanjiannya bagi hasil terus akhirnya rugi om? Mau dikasih makan apa anak2ku kodong,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,48,30
+1966,1961,elaborasi dlu ini om,Irsyad,Ashari,tiereurdecouer,0,31,8,2020,13,48,45
+1967,1964,4% nya nadiem itu berapa persen kalau dr valuasinya gotukang om?,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,49,13
+1968,1967,Haha gojek valuasi 1 milyard dolar hitungmi berpa 4% nya,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,50,7
+1969,1955,ini teringat kata kata nya steve jobs kah klo bukan bilgates,Hanan,Asyrawi,hananloser,0,31,8,2020,13,50,8
+1970,0,Sy pernah terdzolimi karena skema bagi hasil soalnya,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,50,17
+1971,1969,Bill gates bro,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,50,27
+1972,1968,Valuasi besar tp kan tdk liquid..,Iwan gotukang.co.id (SUPER APS in playstore),PT.GPI,Iwanptgpi,0,31,8,2020,13,51,19
+1973,1972,Ada data om?,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,51,40
+1974,1972,kita ya om?,Andi,Wijaya,andiwijayaid,0,31,8,2020,13,51,47
+1975,1973,Nda liquid mmg tawwa,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,52,0
+1976,0,ap itu kak liquid,Hanan,Asyrawi,hananloser,0,31,8,2020,13,52,11
+1977,0,Cair bro,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,52,16
+1978,0,Sejenis cairan vape,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,52,22
+1979,0,Yang memenuhi wadahnya,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,52,26
+1980,1976,yg dipake di vape bro,Irsyad,Ashari,tiereurdecouer,0,31,8,2020,13,52,27
+1981,0,ini mi,Hanan,Asyrawi,hananloser,0,31,8,2020,13,52,32
+1982,0,🤣,ROOT,,imtoor,0,31,8,2020,13,53,17
+1983,0,Pertanyaannya cari valuasi atau cr keuntungan dr buat software?,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,53,40
+1985,1983,"Sy cuma mau hidupi keluarga ku kodong. Asalkan bisa makan anak istriku, syukurma. Tp pas ditawari bagi hasil yg tdk jelas berapa didapat, nda bisaka",Rizky,Arlin,rizkyarlin,0,31,8,2020,13,54,49
+1986,0,😥,Irsyad,Ashari,tiereurdecouer,0,31,8,2020,13,56,24
+1987,1983,"Penjualan + jasa bro, omzet jelas, software cuma media transaksi",ROOT,,imtoor,0,31,8,2020,13,56,29
+1988,1985,Ndak ngebul dapur di klo bagi hasil 🤣,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,13,56,32
+1989,1985,Anti Bagi Hasil 🤣,ROOT,,imtoor,0,31,8,2020,13,56,58
+1990,1985,"Pengalaman adalah guru yg berharga. Hehe, Klo buat yg belum ada kewajiban dan punya dana cadangan banyak mungkin no problem, tp selain case ini mungkin agak sulit.",Dianto,,Dian_774,0,31,8,2020,13,57,2
+1991,1988,Bah bro,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,57,11
+1992,1989,"Nda anti ja kodong, asalkan bagus ji hasil due diligence nya",Rizky,Arlin,rizkyarlin,0,31,8,2020,13,57,32
+1993,1992,"Yup, setuju",ROOT,,imtoor,0,31,8,2020,13,57,50
+1994,1991,"Apa basic ta om, arah development ta kmn mobile tau web siapa thu ada project bisa q japri",Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,58,16
+1995,1994,Direktur ituu om,Dianto,,Dian_774,0,31,8,2020,13,58,35
+1996,1994,Sy cuma bisa hello world kodong om,Rizky,Arlin,rizkyarlin,0,31,8,2020,13,58,36
+1997,1996,Bocahq klw hello word bisa ji om,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,59,17
+1998,1996,"Dimana hello world ta, web atau mobile 🤣",ROOT,,imtoor,0,31,8,2020,13,59,26
+1999,0,Serius bertnya om,Muhammad,Indrawan,mmindrawan,0,31,8,2020,13,59,31
+2000,1997,"Iye, minta maafka kodong 🙏",Rizky,Arlin,rizkyarlin,0,31,8,2020,13,59,35
+2001,1998,"Desktop kodong, pakai delphi.",Rizky,Arlin,rizkyarlin,0,31,8,2020,13,59,58
+2002,1999,"Tdk enak ki mau memperkenalkan diri apalagi skill, karna tallewa mi..",Dianto,,Dian_774,0,31,8,2020,14,0,20
+2003,0,Percaya mka saja,Dianto,,Dian_774,0,31,8,2020,14,0,31
+2004,0,Hahaha,Dianto,,Dian_774,0,31,8,2020,14,0,37
+2005,0,Astaghfirullah...,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,0,50
+2006,0,Sy aminkan sj kodong...,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,1,1
+2007,2002,Org pro mi biasa begitu,Muhammad,Indrawan,mmindrawan,0,31,8,2020,14,1,27
+2008,0,Ayo lanjut diskusi om @Gotukang....,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,2,30
+2009,2007,Hehe yoii,Dianto,,Dian_774,0,31,8,2020,14,4,44
+2010,1994,Nda tauka cara jawabnya om. Sembarang sy kukerja 🤣,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,5,18
+2011,2010,Klw q lihat profil ta pantas ji memng mrendah,Muhammad,Indrawan,mmindrawan,0,31,8,2020,14,6,12
+2012,0,,~,,,0,31,8,2020,14,6,23
+2014,2010,Kpan2 mw ka bikin web om q japri nanti nah,Muhammad,Indrawan,mmindrawan,0,31,8,2020,14,7,4
+2015,2014,Siaaap om :D,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,7,18
+2016,0,Asal jgn bagi hasil tawwa 😢,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,7,45
+2017,0,Wkwkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,7,56
+2018,0,Diungkit lg wkwk,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,8,14
+2019,0,"Kurang adil itu tempat kerjamu mat,.. Masa nda bagi hasil",Rizky,Arlin,rizkyarlin,0,31,8,2020,14,8,28
+2020,0,Eh ada SOA nya mungkin grab dih?,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,8,56
+2021,2019,"Justru untung itu kalau bagi hasil di sana,",Dianto,,Dian_774,0,31,8,2020,14,9,4
+2022,2020,antara grab ato gojek punya klo tdk slh,Dianto,,Dian_774,0,31,8,2020,14,9,26
+2023,2020,Vested 4 tahun,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,10,39
+2024,2022,Ehhh... ~~SOA~~ ESO (employee stock option) yg sya mksd. klo itu om? @muhrahmatullah,Dianto,,Dian_774,0,31,8,2020,14,14,12
+2025,2021,Tergantung jumlah yg dikasi wkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,14,57
+2026,2024,"Ada yg dikasi ESO ada yg dikasi RSU, klo RSU gak perlu diexcercise(dibeli) klo ESO hrs dibeli br jd milik",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,15,40
+2027,2025,Wahh.. Otomatis smua karyawan apa managerial / top level sj yg dapat?,Dianto,,Dian_774,0,31,8,2020,14,15,57
+2028,0,Bisa dijual di internal market krn companynya belum IPO,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,16,2
+2029,2027,"Setahu saya gak semua, tp bs dipastikan klo Engineer sama Product dapat regardless levelnya",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,16,50
+2030,0,Pas dikasi offer letter disitu dijelaskan dan bs didiskusikan,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,17,28
+2031,2023,Tiap tahun vested 25%,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,18,2
+2032,2029,Mantapppp,Dianto,,Dian_774,0,31,8,2020,14,18,36
+2033,0,Ntapss grab,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,19,0
+2034,0,Thanks sharingnya rahmat...,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,19,53
+2035,0,"Wkwkwk udah oot banget nih, sorry admin, dari bagi hasil jadi kemana2",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,20,40
+2036,0,Jangan2 langsung diterapkan ini om @rizkyarlin 🤣🤣,Dianto,,Dian_774,0,31,8,2020,14,20,54
+2037,0,Yok bikin flutter online sharing cc @andiwijayaid @DhytoDev,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,21,8
+2038,2037,Yokkk,Andi,Wijaya,andiwijayaid,0,31,8,2020,14,21,17
+2039,2036,Sdh lama dipertimbangkan om :D,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,21,23
+2040,2035,"Nd apa2, karena nd muncul mi yg mw bagi hasil td",Andi,Wijaya,andiwijayaid,0,31,8,2020,14,21,37
+2041,2035,"Hhaha admin tdk keberatan,",Dianto,,Dian_774,0,31,8,2020,14,21,39
+2042,2040,Lgi hitung dlu sisa saham kekx,Andi,Wijaya,andiwijayaid,0,31,8,2020,14,21,51
+2043,0,Wah klo kak @rizkyarlin tiap Q tebar dividen yaaa heheh,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,22,6
+2044,0,Jangan2 sdh habis karena di bagi terus,Andi,Wijaya,andiwijayaid,0,31,8,2020,14,22,7
+2045,2042,Wo de maya 🤣,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,22,10
+2046,2038,"Bs nih di agendakan, sy siap sharing2 heheh",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,22,44
+2047,2042,Keras,Dianto,,Dian_774,0,31,8,2020,14,22,46
+2048,2043,Tiap RUPS minta pemegang saham nambah investasi haha,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,22,47
+2049,2046,"@andiwijayaid di DSC jg bs, mengenang  masa2 kejayaan 😭",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,23,31
+2050,2039,"Kayaknya mmng bagus sistem bgtu jg sih, apalagi engineer, biar tdk pasang backdoor di sistem😂",Dianto,,Dian_774,0,31,8,2020,14,23,34
+2051,0,Kak @DhytoDev bisalah bikin webinar tentang bloc pattern,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,23,42
+2052,2048,Tjakeppp,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,23,56
+2053,2050,Ahaha,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,24,3
+2054,2049,"Boleh, nnti tanya lead baru to~",Andi,Wijaya,andiwijayaid,0,31,8,2020,14,25,0
+2055,2051,Kak @DhytoDev bisalah bikin webinar tentang bloc pattern (2),Dianto,,Dian_774,0,31,8,2020,14,25,6
+2056,2051,"Boleh nih, sy blm pernah coba jg",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,25,11
+2057,2054,"Kabari ya bro, jgn sampai kyk kotlin everywhere 😢",Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,26,8
+2058,0,Jdnya kotlin nowhere wkwkwkwk,Muhammad,Rahmatullah,muhrahmatullah,0,31,8,2020,14,26,22
+2059,2058,😂,Dianto,,Dian_774,0,31,8,2020,14,26,50
+2060,2058,Waduh 🤣,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,26,53
+2061,2058,Waduh 😂😂😂,Andi,Wijaya,andiwijayaid,0,31,8,2020,14,27,25
+2062,1965,"Bentar, anak yg mana ini, mas?",Fordyta Abubakar,,DhytoDev,0,31,8,2020,14,45,23
+2063,2062,👀,Rizky,Arlin,rizkyarlin,0,31,8,2020,14,46,50
+2064,2062,singkat dan menusuk,Hanan,Asyrawi,hananloser,0,31,8,2020,14,53,49
+2066,0,,Moe,,moepoi,0,3,9,2020,4,59,35
+2068,0,,A.R.A,,,0,4,9,2020,4,31,23
+2070,0,"Kami mengundang Anda untuk mengikuti pengumuman pemenang online hackathon, Indonesia Maju HackFest, yang digelar oleh Komunitas Flutter Indonesia berkolaborasi dengan Google Developers. Kami akan mengumumkan 3 pemenang besok, *Sabtu, 5 September, jam 1PM*. \n\nDalam acara ini kita juga akan mendengar panel diskusi tentang perubahan ekosistem teknologi di Indonesia bersama:\n\n- Josua Simanjuntak, Senior Advisor to the Minister of Tourism and Creative Economy\n- Salman Subakat, CEO, Paragon Technology and Innovation & Patron, Deep Tech and Pemimpin.ID\n- Danny Ardianto, Government Affairs & Public Policy Manager, Google Indonesia\n\nSaksikan webinarnya di link berikut → https://www.youtube.com/watch?v=gebEidUUe4k",Andi,Wijaya,andiwijayaid,0,4,9,2020,9,8,51
+2071,0,,Adithya Firmansyah,Putra,Adithya_13,0,5,9,2020,5,28,26
+2073,0,"Bismillah\nSelamat siang semua, Perkenalkan nama saya Adithya Firmansyah Putra umur 16 tahun, domisili Majalengka jawa barat",Adithya Firmansyah,Putra,Adithya_13,0,5,9,2020,5,29,9
+2074,0,iya salken,Hanan,Asyrawi,hananloser,0,5,9,2020,5,29,58
+2075,0,,Azman,Abdullah,Azmanabdlh,0,5,9,2020,13,10,43
+2077,0,,Rudi ~ booble.id,,Rudistrife,0,7,9,2020,3,6,1
+2079,0,"Assalamualaikum wr wb, izin gabung 🙏",Rudi ~ booble.id,,Rudistrife,0,7,9,2020,3,6,16
+2080,0,"Loker flutter, izin share 🙏",Rudi ~ booble.id,,Rudistrife,0,7,9,2020,3,19,40
+2081,0,,Ichal 699,,ichal_699,0,7,9,2020,6,34,51
+2083,2082,Hai.saya syamrizal,Ichal 699,,ichal_699,0,7,9,2020,6,35,9
+2084,0,,</>,,Omaiigot,0,7,9,2020,11,1,40
+2086,0,,Raka,Fajar,RakaFS,0,8,9,2020,10,56,55
+2088,0,"Salam kenal, saya raka fajar,.. ijin gabung grup yaa",Raka,Fajar,RakaFS,0,8,9,2020,10,57,14
+2089,2088,"Hai juga, Raka. Salam kenal. Selamat bergabung ☕",Fordyta Abubakar,,DhytoDev,0,8,9,2020,11,19,49
+2090,0,,raihan,,kalaucocokgaskenhayyuk,0,8,9,2020,22,40,20
+2092,0,"Hai,saya raihan dari sultra",raihan,,kalaucocokgaskenhayyuk,0,8,9,2020,22,41,1
+2093,0,,͔,,aswralm,0,9,9,2020,15,55,40
+2096,0,,Alba,Purnama,,0,10,9,2020,17,47,28
+2098,0,"Hello there.. Introduce me, I'm alba from kendari..",Alba,Purnama,,0,10,9,2020,17,48,11
+2099,0,,SULTAN,.,THESULTANSTUDIOS,0,11,9,2020,8,34,58
+2101,0,"perkenalkan, my name is the sultan studios. nama kamu siapa. udah makan belum. thank you",SULTAN,.,THESULTANSTUDIOS,0,11,9,2020,8,36,54
+2102,0,,Rival,Sahib,rivalsahib,0,11,9,2020,9,6,52
+2104,0,Halo perkenalkan nama saya Rival\nIzin gabung,Rival,Sahib,rivalsahib,0,11,9,2020,9,7,31
+2105,0,Bagaimana cara buat yg seperti itu? Ada referensi?,Ahmad,,PohondiMusimHUjan,0,13,9,2020,16,4,35
+2106,0,,Mk,,,0,15,9,2020,4,48,56
+2108,0,Inshorts News App clone\n\n#inshorts #news #app #clone #60words #news\n\n\n\n\n\nhttps://youtu.be/rkdgSo1-Keo,Mk,,,0,15,9,2020,4,48,59
+2109,0,,Fordyta Abubakar,,DhytoDev,0,15,9,2020,12,30,20
+2110,0,,Fordyta Abubakar,,DhytoDev,0,15,9,2020,12,30,20
+2111,0,"#event #acara\n\n[Flutter: Come to The Dart Side]\n\nHello Tech Enthusiast!\n\nKamu ingin membuat aplikasi mobile yang dapat berjalan di banyak platform hanya dengan satu source code? Kalau ya, Flutter menjadi pilihan yang sangat pas untuk kamu.\n\nSebelum melangkah ke Flutter, kita akan berkenalan dengan bahasa pemrograman yang digunakan dalam pengembangan aplikasi Flutter, yaitu Dart. Dart merupakan bahasa pemrograman yang dikembangkan oleh Google untuk kebutuhan umum (General-purpose programming language).\n\nYuk, berkenalan lebih jauh dengan Dart dengan mengikuti workshop dari Developer Student Club Universitas Hasanuddin yang akan diselenggarakan pada:\n\n📆 Sabtu, 19 September 2020\n⏰ 15:30 - 17:00 WITA\n🌐 Google Meet\n\nKegiatan ini FREE! \n(Umum, peserta terbatas, mengutamakan mahasiswa UNHAS)\n\nRegistration Link (Terbuka sampai D-1 Workshop) :\nhttps://bit.ly/DSC-WORKSHOP-FLUTTER \n\nGroup link:\nhttps://bit.ly/dsc-uh-wa\n\nCP: 0812-4243-5689 (WhatsApp)",Fordyta Abubakar,,DhytoDev,0,15,9,2020,12,30,20
+2112,0,,Heriady,.,heriady,0,15,9,2020,13,1,21
+2114,0,Selamat Malam...!!!\nSaya Heriadi baru belajar Flutter mohon bimbingannya,Heriady,.,heriady,0,15,9,2020,13,2,12
+2115,0,,Lee,,,0,15,9,2020,14,17,30
+2118,0,"Halo, Apa kabar semua...",Fadli,Jaya,fadlyjaya,0,18,9,2020,15,13,16
+2119,0,"Mau nanya, ada yg tau API Jadwal Puasa?",Fadli,Jaya,fadlyjaya,0,18,9,2020,15,13,37
+2120,0,,Aynun,Akbar,AynunAkbar,0,19,9,2020,9,26,52
+2122,0,,M,Burs,mburs,0,19,9,2020,9,27,8
+2123,0,,Muhammad Fadhil Akbar Amrin,,,0,19,9,2020,9,27,28
+2125,0,Nama : Aynun Akbar\nProdi : Ilmu Komputer Unhas\nsalam kenal,Aynun,Akbar,AynunAkbar,0,19,9,2020,9,27,30
+2126,0,Nama : Muhammad Fadhil Akbar,Muhammad Fadhil Akbar Amrin,,,0,19,9,2020,9,27,59
+2127,0,Prodi : Teknik Informatika Unhas,Muhammad Fadhil Akbar Amrin,,,0,19,9,2020,9,28,15
+2128,0,Salam Kenal,Muhammad Fadhil Akbar Amrin,,,0,19,9,2020,9,28,25
+2129,0,,Zidan,Maulana,,0,19,9,2020,9,29,39
+2131,0,,,,,0,19,9,2020,9,30,33
+2133,0,,Akram Firmansyah,,,0,19,9,2020,9,33,47

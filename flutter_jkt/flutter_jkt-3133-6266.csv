@@ -1,0 +1,1001 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+3142,3128,Use case nya seperti apa tuh? Bisa kasih contoh?,Dede,Hamzah,dehamzah,0,25,8,2020,13,8,0
+3143,3142,"Misalnya get location lat long kan fitur nativ dari mobilenya, nah setelah dapet locationnya, lat long nya ini di passing ke textfield yg ada di form nya si webview itu mas",max,,irufano,0,25,8,2020,13,12,22
+3144,3143,‘webview’ nya ini website pihak ketiga?,Dede,Hamzah,dehamzah,0,25,8,2020,14,18,4
+3145,0,"kalau website yg di embed itu punya kita, salah satu caranya bisa baca pakai js mas, via query url",Dede,Hamzah,dehamzah,0,25,8,2020,14,22,57
+3146,3144,Iya pihak ketiga mas,max,,irufano,0,25,8,2020,14,27,28
+3147,3145,Kalo ini brarti passing nya leawat url nya ya?,max,,irufano,0,25,8,2020,14,28,15
+3148,0,Iya itu salah satu caranya mas,Dede,Hamzah,dehamzah,0,25,8,2020,14,38,0
+3149,3148,Oke mas terimakasih,max,,irufano,0,25,8,2020,14,38,29
+3150,0,"#ask\n\nvariabel di dalam class `Test` ini namanya `property` atau `parameter` ya?\n\nKemudian variable dari konstruktur `name`, `address` yang di dalam class `Test2` ini sebutannya `property` apa `parameter` ya? Kok saya bingung",,,,0,26,8,2020,9,36,42
+3151,0,"`appBar` , `centerTitle` , `title` , `elevation` ini juga sebutannya `parameter` apa `property` ya?",,,,0,26,8,2020,9,38,26
+3152,3150,Property itu variable yg dideclare di dalam classnya\n\nParameter itu variable yg dimasukkan kedalam function/method/constructor\n\nDi kasus ini `final String name` & `address` disebut sbg property\n\nYang di dalam constructor Test() disebut sbg parameter,Leonardo,Vinsen,leovinsen,0,26,8,2020,10,23,49
+3153,3151,Parameter karena disini kita passing variable tsb kedalam constructor AppBar,Leonardo,Vinsen,leovinsen,0,26,8,2020,10,24,20
+3154,0,,Riki,Hermawan,rikherz,0,26,8,2020,12,21,56
+3158,3153,parameter ini adalah nilai yang akan di masukan ke dalam properti ya,,,,0,26,8,2020,16,20,21
+3160,0,"#ask\n\nDi Flutter ada package kayak gini gk ya,\n\nMisal appsnya lg gw close (gk di buka), trus misal gw set kalo jam 9, dia bakal jalanin suatu fungsi (jalaninnya di background service karna appnys gw close). Tp gk cuman di background, kalo gw lg buka apps trus jam 9 dia juga ttp jalanin suatu fungsi.\n\nKalo ada apa ya nama packagenya?",,,,0,27,8,2020,15,34,49
+3161,0,"Fungsinya udah gw buat, yang gw cari adalah triggernya doang biar fungsi yang gw buat ini bisa di jalanin ketika appsnya gw close atau keadaan terbuka",,,,0,27,8,2020,15,34,56
+3162,0,"https://medium.com/vrt-digital-studio/flutter-workmanager-81e0cfbd6f6e\n\nEh ada ternyata, pake work manager, di Flutter ada, support android dan ios jg",,,,0,27,8,2020,15,45,33
+3175,3161,Jalanin function apa pak klo boleh tau?,Muhammad Dafi,,dafinoer,0,28,8,2020,8,20,23
+3176,0,,,,,0,29,8,2020,16,15,39
+3180,0,,Rezza,,rezzas11,0,29,8,2020,20,1,50
+3195,0,,Makrus,Ali,MakrusAli,0,30,8,2020,23,23,49
+3199,0,,הראל,,Harel_Brodai,0,31,8,2020,12,22,35
+3203,0,Hello \nCan I send a free course here?,הראל,,Harel_Brodai,0,31,8,2020,12,22,49
+3204,0,"Selamat malam, mau nanya. Kenapa saat saya build apk tampilan awal setelah dari splashscreen tidak ke login ya tapi ke halaman beranda. Padahal ketika mode debug fungsi berjalan normal. Kira2 bagaimana ya solusinya? Terima kasihh",Hayati,Uyun,hayatiuyun,0,31,8,2020,13,10,5
+3207,3175,"Fungsi hit API om, trus ketika sukses nanti datanya di munculin di notif gtu",,,,0,31,8,2020,18,32,22
+3208,0,"Akhirnya pake android alarm manager, karna ada scheduled background task",,,,0,31,8,2020,18,32,47
+3209,0,Kalo package lain gk ada,,,,0,31,8,2020,18,33,6
+3210,3209,Udah cek workmanager sama background_fetch gk ada untuk scheduled.,,,,0,31,8,2020,18,34,22
+3211,0,"Tp ttp sih, dari ketika package tersebut supportnya android only",,,,0,31,8,2020,18,34,57
+3213,3207,Knpa ga minta dr backend  pak?,Muhammad Dafi,,dafinoer,0,31,8,2020,19,37,24
+3217,0,"ada yg tau ndak saat nge run gbs""",Danu,Prastyo,,0,1,9,2020,0,55,19
+3221,3213,"Api public, lg explore aja. Jd mau bikin reminder seperti final project kelas android dicoding. Cmn saya bikinnya di flutter.",,,,0,1,9,2020,14,59,36
+3222,0,Tp android_alarm_manager ketika appsnya di close gk jalan ya background servicenya? Ada yang udah pake?,,,,0,1,9,2020,14,59,57
+3223,3208,"yaps betul, yang ada scheduling baru android alarm manager sih, yang lainnya cmn background service biasa sama periodic",R Rifa Fauzi,Komara,rifafauzi6,0,1,9,2020,16,19,33
+3236,0,"#ask\n\nAda yang pake flutter_local_notification?\n\nKalo misal kita punya data dari sebuah model or objek pengen di kirim ke screen lain itu gmn ya handlenya? Sedangkan di package td cmn bisa kirim payload dengan type data String, gk bisa di custom2 gtu. Di cek di examplenya jg gk ada..",,,,0,2,9,2020,20,30,37
+3242,0,T 0 7 8,Titi,Azkiana,Titiazkia,0,2,9,2020,22,50,55
+3244,0,,Luki,Sanjaya,lukisanjaya,0,2,9,2020,23,39,49
+3248,0,#lowongankerja #loker #flutter #jakarta #shareloker #OnSite,Luki,Sanjaya,lukisanjaya,0,2,9,2020,23,40,43
+3249,0,,,,,0,3,9,2020,4,5,53
+3250,0,Permisi semua.\nMau share lowongan kerja untuk posisi Junior Mobile Developer (Flutter) dan Fullstack Developer\n\nInfo lengkapnya bisa dilihat disini:\nhttps://www.techinasia.com/companies/crowde\n\nUntuk yg berminat bisa PM saya atau email ke alanikika@crowde.co\n\nTerima Kasih :),,,,0,3,9,2020,4,8,51
+3251,3236,Kalau ini mungkin di coba datanya di rubah jadi json string baru pas di load di rubah ke object lagi,Putra,Utama,putrautama007,0,3,9,2020,4,12,4
+3256,0,"Halo developers!\n\nIndonesia Maju HackFest, Online hackathon berkolaborasi dengan Google Developers, yang unik dan berbeda untuk developers di Indonesia sudah menuju tahap puncak. Finalis Terbaik akan diumumkan. Tiga aplikasi terbaik akan mendapat hadiah yang dinantikan.\n\nKita juga akan berdiskusi tentang hal yang dibutuhkan untuk mengembangkan diri kita sebagai Developers secara keseluruhan dengan para professional yang berpengalaman & penuh motivasi\n\nDetail Acara :\nHari, Tanggal: Sabtu, 5 September 2020\nWaktu: 13.00 - 14.30 WIB\nTempat: Live on YouTube GDG Jakarta / Flutter Indonesia\n\nTopik : Panel Discussion\nModerator : Danny Ardianto, Government Affairs & Public Policy, Google\nPembicara :\n- Salman Subakat, CEO Paragon Technology and Innovation & Patron, Deep Tech and Pemimpin.ID (Overview of Tech Ecosystem in Indonesia)\n- Josua P. M. Simanjuntak, Senior Advisor to the Minister of Tourism and Creative Economy (Government Program, Support for developers)\n\nTunggu apa lagi? Yuk daftar sekarang!\n👉 http://bit.ly/winnerimhf 👈\n\nYuk tandai di kalender kamu !\n\n*Acara ini terbuka untuk semua orang\n\nCP : Instagram @flutteridn\n\nIn collaboration with :\n\n@gitsindonesia @eudeka.id @deeptech.id @gdgjakarta @googledevsid",Dede,Hamzah,dehamzah,0,3,9,2020,15,44,38
+3257,3256,,Dede,Hamzah,dehamzah,0,3,9,2020,15,44,53
+3264,0,"selamat pagi gan mau bertanya, misalnya kita ingin memilih sofa setelah itu nanti akan keluar lagi item2 yang di pilih dari barang tersebut, itu gimana ya? udah ngulik2 tapi masih belum nemu. datanya dari api\n\napinya seperti ini\n\n[{""id"":3,""name"":""Sofa"",""jasa_category"":""booking"",""image"":""20200621152846.png"",""items"":[{""id"":53,""jasa_id"":3,""name"":""Sofa Tanpa Sandaran"",""image"":""https:xxxx.com\/9"",""price"":50000.36444578029,""unit"":""seat"",""promo_discount"":0,""description"":""Foto sofa tanpa sandaran 3 seat""},{""id"":54,""jasa_id"":3,""name"":""Sofa Standar"",""image"":""https:xxxx.com"",""price"":60000.22772077157,""unit"":""seat"",""promo_discount"":0,""description"":""Foto sofa standar 3 seat""},{""id"":52,""jasa_id"":3,""name"":""Sofa Super"",""image"":""https:xxxx.com"",""price"":69999.7989712205,""unit"":""seat"",""promo_discount"":0,""description"":""Sofa ukuran jumbo""},{""id"":3,""jasa_id"":3,""name"":""Sofa Bed"",""image"":""https:xxxx.com"",""price"":249999.51289130002,""unit"":""sofa bed"",""promo_discount"":0,""description"":""Sofa bed tidak termasuk bantal""}]}\n\nterimakasih sebelumnya",Jordy,,jordydave,0,4,9,2020,2,47,4
+3268,0,"Kami mengundang Anda untuk mengikuti pengumuman pemenang online hackathon, Indonesia Maju HackFest, yang digelar oleh Komunitas Flutter Indonesia berkolaborasi dengan Google Developers. Kami akan mengumumkan 3 pemenang hari ini, *Sabtu, 5 September, jam 1PM*. \n\nDalam acara ini kita juga akan mendengar panel diskusi tentang perubahan ekosistem teknologi di Indonesia bersama:\n\n- Josua Simanjuntak, Senior Advisor to the Minister of Tourism and Creative Economy\n- Salman Subakat, CEO, Paragon Technology and Innovation & Patron, Deep Tech and Pemimpin.ID\n- Danny Ardianto, Government Affairs & Public Policy Manager, Google Indonesia\n\nSaksikan webinarnya di link berikut → https://www.youtube.com/watch?v=gebEidUUe4k",Dede,Hamzah,dehamzah,0,4,9,2020,23,31,48
+3269,3268,,Dede,Hamzah,dehamzah,0,4,9,2020,23,31,58
+3270,0,,Adithya Firmansyah,Putra,Adithya_13,0,5,9,2020,5,26,42
+3274,0,https://www.youtube.com/watch?v=gebEidUUe4k\n\nUdah mulai nih,R Rifa Fauzi,Komara,rifafauzi6,0,5,9,2020,6,8,18
+3278,0,"#ask\n\nSelamat malam,\nSaya mencoba mengaplikasikan work manager di flutter. Namun, setelah aplikasi ditutup work manager juga ikut berhenti. Padahal di documentation work manager tetap berjalan bahkan ketika aplikasi ditutup. Kira2 kenapa ya? Adakah yang tahu solusinya agar work manager tetap berjalan ketika aplikasi ditutup?  Terima kasih",Hayati,Uyun,hayatiuyun,0,5,9,2020,13,42,19
+3282,0,Dart Course Combo\n\n1. Dart - Beginners Course\nhttps://www.udemy.com/course/dart-beginners-course/?couponCode=16369E56E09C7AC60890\n\n2.Dart - Intermediate Course\nhttps://www.udemy.com/course/dart-intermediate-course/?couponCode=95C897455607535F942E\n\n3.Dart - Advanced Course\nhttps://www.udemy.com/course/dart-advanced-course/?couponCode=2E7D150B594377294500,D,R,dennyraymond,0,5,9,2020,18,32,6
+3286,0,,</>,,Omaiigot,0,7,9,2020,11,1,51
+3299,0,,Wawan,Yuliyanto,waoneyuli,0,8,9,2020,3,34,47
+3303,0,,Athar,Danial,athar_danial,0,8,9,2020,4,40,30
+3307,0,"Ada yg punya repo pke Flutter web ga? Boleh dong, minta linknya reponya. Yg MIT license yaa tp.",Muhammad Dafi,,dafinoer,0,8,9,2020,6,17,2
+3308,0,,͏͏,͏͏,kurangartos,0,8,9,2020,6,38,53
+3312,0,,amor,,claudimor,0,8,9,2020,9,33,37
+3316,0,"Hi Developers!! We're hiring for Flutter Developer position.\nPlease find the detailed requirements and job descriptions, in the attached images.\nStay safe and healthy guys!",amor,,claudimor,0,8,9,2020,9,36,31
+3317,0,,Raka,Fajar,RakaFS,0,8,9,2020,10,56,27
+3321,0,,Jordy,,jordydave,0,9,9,2020,6,27,43
+3322,0,#ASK biar alertdialog nya ilang pas setelah dipencet gimana ya?,Jordy,,jordydave,0,9,9,2020,6,27,43
+3326,3322,`Navigator.pop(context);`,heritsam,,heritsam,0,9,9,2020,8,47,11
+3327,3326,makasih mas😁,Jordy,,jordydave,0,9,9,2020,8,47,54
+3328,0,Ada yg pernah pake rfid reader di flutter?,max,,irufano,0,9,9,2020,8,49,0
+3329,0,,Dani,Ramdani,Dani121201,0,9,9,2020,10,37,13
+3336,0,,Jordy,,jordydave,0,10,9,2020,1,14,27
+3337,0,#ask ada yang pernah bikin model alamat seperti itu kah?,Jordy,,jordydave,0,10,9,2020,1,14,27
+3338,0,,Franky,Jsmith,,0,10,9,2020,5,19,11
+3346,0,,Alba,Purnama,,0,10,9,2020,17,57,13
+3353,0,"bagaimana ya, saya memanggil masing2 kelas ?",Alba,Purnama,,0,11,9,2020,5,34,41
+3354,0,,Alba,Purnama,,0,11,9,2020,5,34,41
+3355,0,,Alba,Purnama,,0,11,9,2020,5,34,41
+3356,0,,Alba,Purnama,,0,11,9,2020,5,34,41
+3357,0,,Alba,Purnama,,0,11,9,2020,5,34,42
+3358,0,,Alba,Purnama,,0,11,9,2020,5,34,42
+3359,3353,jadi mau bikin gmna? ada list yang didalamnya ada list pertemuan gitu? pas diklik salah satu mengarah ke widget masing masing?,imamr,,immrmdn,0,11,9,2020,6,20,39
+3360,0,https://dartpad.dev/a82317341fea034c256f6e27cd94e65e,imamr,,immrmdn,0,11,9,2020,6,23,3
+3361,3360,ini saya bikin contohny bgini bukan yg mas maksud,imamr,,immrmdn,0,11,9,2020,6,23,27
+3362,0,,SULTAN,.,THESULTANSTUDIOS,0,11,9,2020,8,33,57
+3372,0,,Galih,,nekonakoo,0,13,9,2020,11,43,10
+3375,0,"Captcha selesai, Pengguna telah diverifikasi.\nSelamat datang di grup ‎@Alterending",The Join Captcha Bot,,join_captcha_bot,0,13,9,2020,11,47,14
+3379,0,https://t.me/FlutterDevelopment,הראל,,Harel_Brodai,0,13,9,2020,14,26,28
+3380,0,,Patar,Chims,patarchims,0,13,9,2020,17,36,57
+3392,0,Flutter Firebase – The Full Course\n\nSource :\nhttps://fireship.io/courses/flutter-firebase/\n\nDownload 👇👇\n\nhttps://mega.nz/folder/1bYwFAQD#IES7SeAzGrkH8rIXdeOYxA\n\n🔗 Share and support us 🔗,הראל,,Harel_Brodai,0,15,9,2020,8,13,50
+3401,0,,aji,,,0,15,9,2020,23,39,4
+3411,0,"permisi gan, mau tanya apa ada yg pernah custom paint dari hasil photo preview??",Reinhard,Vp,,0,16,9,2020,7,6,32
+3412,0,script nya sbb:,Reinhard,Vp,,0,16,9,2020,7,7,28
+3413,0,"import 'dart:io';\nimport 'dart:typed_data';\nimport 'dart:ui';\nimport 'package:sqiinew/pages/bi/camera_screen_bi.dart';\n// import 'package:esys_flutter_share/esys_flutter_share.dart';\nimport 'package:flutter/cupertino.dart';\nimport 'package:flutter/material.dart';\nimport 'package:flutter/services.dart';\n\nclass PreviewScreenBi extends StatefulWidget {\n  final String imgPath;\n\n  PreviewScreenBi({this.imgPath});\n\n  @override\n  _PreviewScreenBiState createState() => _PreviewScreenBiState();\n}\n\nclass _PreviewScreenBiState extends State<PreviewScreenBi> {\n  List<Offset> _points = <Offset>[];\n\n  @override\n  Widget build(BuildContext context) {\n    return Scaffold(\n      appBar: AppBar(\n        automaticallyImplyLeading: true,\n        backgroundColor: Colors.black,\n      ),\n      body: Container(\n        child: Column(\n          crossAxisAlignment: CrossAxisAlignment.stretch,\n          children: <Widget>[\n            Expanded(\n              flex: 2,\n              child: Image.file(\n                File(widget.imgPath),\n                fit: BoxFit.cover,\n                frameBuilder: (BuildContext context, Widget child, int, bool) {\n                  return new GestureDetector(\n                    onPanUpdate: (DragUpdateDetails details) {\n                      setState(() {\n                        RenderBox object = context.findRenderObject();\n                        Offset _localPosition =\n                            object.globalToLocal(details.globalPosition);\n                        _points = new List.from(_points)..add(_localPosition);\n                      });\n                    },\n                    onPanEnd: (DragEndDetails details) => _points.add(null),\n                    child: new CustomPaint(\n                      painter: new Signature(points: _points),\n                      size: Size.infinite,\n                    ),\n                  );\n                },\n              ),\n            ),\n            Align(\n              alignment: Alignment.bottomCenter,\n              child: Container(\n                width: double.infinity,\n                height: 60.0,\n                color: Colors.black,\n                child: Row(children: <Widget>[\n                  Expanded(\n                    flex: 1,\n                    child: FlatButton(\n                      child: Text(\n                        ""Foto Ulang"",\n                        style: TextStyle(color: Colors.white, fontSize: 16),\n                      ),\n                      onPressed: () {\n                        Navigator.pop(\n                          context,\n                          MaterialPageRoute(\n                            builder: (context) => CameraScreenBi(),\n                          ),\n                        );\n                      },\n                    ),\n                  ),\n                  Expanded(\n                    flex: 1,\n                    child: FlatButton(\n                      child: Text(\n                        ""Use Foto"",\n                        style: TextStyle(color: Colors.white, fontSize: 16),\n                      ),\n                      onPressed: () {\n                        print('masuk halaman use foto');\n                      },\n                    ),\n                  )\n                ]),\n              ),\n            )\n          ],\n        ),\n      ),\n    );\n  }\n\n  Future<ByteData> getBytesFromFile() async {\n    Uint8List bytes = File(widget.imgPath).readAsBytesSync() as Uint8List;\n    return ByteData.view(bytes.buffer);\n  }\n}\n\nclass Signature extends CustomPainter {\n  List<Offset> points;\n\n  Signature({this.points});\n\n  @override\n  void paint(Canvas canvas, Size size) {\n    Paint paint = new Paint()\n      ..color = Colors.blue\n      ..strokeCap = StrokeCap.round\n      ..strokeWidth = 10.0;\n\n    for (int i = 0; i < points.length - 1; i++) {\n      if (points[i] != null && points[i + 1] != null) {\n        canvas.drawLine(points[i], points[i + 1], paint);\n      }\n    }\n  }\n\n  @override\n  bool shouldRepaint(Signature oldDelegate) => oldDelegate.points != points;\n}",Reinhard,Vp,,0,16,9,2020,7,7,38
+3414,0,"untuk custompaint saya tambah pake framebuilder tap hasil photo preview nya malah ketiban sama canvas untuk custompaint, gimana ya cara untuk langsung painting langsung di  preview photonya?",Reinhard,Vp,,0,16,9,2020,7,9,54
+3418,0,,muhammad,nur,nur_muhammadnurr,0,16,9,2020,12,8,51
+3422,0,,.,,,0,16,9,2020,14,30,49
+3429,3414,wah saya juga belum pernah oprek2 yang seperti ini.\ntapi tadi saya nemu ini https://stackoverflow.com/questions/58910801/flutter-draw-over-a-photo\npermasalahan yang mau di solve sepertinya sama dan ada jawaban2 yg bisa dicoba,Dede,Hamzah,dehamzah,0,17,9,2020,23,42,58
+3430,0,,Renny,Simorangkir,Renisimo,0,18,9,2020,8,11,12
+3436,0,terimakasih admin,Renny,Simorangkir,Renisimo,0,18,9,2020,8,12,1
+3437,0,"#ask permisi selamat pagi semua, saya ingin bertanya  apakah ada yg prnah nge running flutter di iphone HDC ,brhsil g gan soalny mau bl iphone yg real g mmpu trs apakah sama aja hasilny ketika kita ngerunning flutter di iphone yg real sm iphone HDC yg osny android",Renny,Simorangkir,Renisimo,0,18,9,2020,23,16,26
+3438,0,Pagi mas.\nBaru tahu saya itu istilah untuk hp kw ya 😅\nTapi kalau itu ternyata isinya android ya harusnya nanti outputnya seperti kayak kita compile ke android juga ya logikanya,Dede,Hamzah,dehamzah,0,19,9,2020,2,2,24
+3439,0,"Nabung dulu aja gan, kalau beli iphone juga compile nya kan musti pakai mac os.\nInsyaa Allah, outputnya bakal sama kalau kita compile ke ios nanti kalau ga pakai native library macem2.",Dede,Hamzah,dehamzah,0,19,9,2020,2,4,9
+3440,3437,iPhone hdc itu os nya android 😂,Demmy,Rhamadan,demmydwi,0,19,9,2020,2,5,5
+3441,3437,,Ihwan,¯\(ツ)/¯,ihwanid,0,19,9,2020,5,38,14
+3442,3437,"🥺 kalau udah ada macbook nya mah running di emulator aja mas. Kalau butuh iphone pinjem punya temen dulu bentar, atau send file ipa nya suruh dia yang running. Sayang banget kalau harus beli hdc. Biasanya hdc untuk kaum ingin gengsi namun tak mampu 😅 win win solution nya sih apply ke perusahaan jadi ios dev / mobile dev. Nanti difasilitasi mau ga mau",Ihwan,¯\(ツ)/¯,ihwanid,0,19,9,2020,5,41,31
+3443,0,"#ask Selamat Siang, mau nanya. Ini saya membuat aplikasi absensi untuk kondisi if else datanya diambil dari DocumentSnapshot, best practicenya bagaimana ya agar tidak terjadi seperti di video? ada sarankah?",Budiman,Rasyid,rsyd29,0,19,9,2020,6,6,29
+3444,0,"Karen Pak, itu pake apa pak buatnya??",Karma,37,leak37,0,19,9,2020,6,27,45
+3445,3444,Databasenya pake firebase,Budiman,Rasyid,rsyd29,0,19,9,2020,6,51,5
+3446,0,Flutter ada library ya udah buat akses kamera dan scan qrcode,Karma,37,leak37,0,19,9,2020,7,18,40
+3447,3446,Pake package qrscan,Budiman,Rasyid,rsyd29,0,19,9,2020,7,30,21
+3448,3442,"blm punya macbook😂,pakai laptop windows core i5 tapi ktny klo punya iphone bisa sih d compile d iphoneny pakai kabel",Renny,Simorangkir,Renisimo,0,19,9,2020,7,32,1
+3449,3442,ok siap mas terimakasih infonya,Renny,Simorangkir,Renisimo,0,19,9,2020,7,33,43
+3450,3443,Ini terjadi karena saya lihat disitu kamu show modal di dalam foreach ni,Dede,Hamzah,dehamzah,0,19,9,2020,7,44,25
+3451,3450,"Ada cara lain tidak? Tadi abis diotak atik sedikit, di dalam foreachnya hanya pakai kondisi jika benar saja yang menampilkan show modal absenya berhasil \n\nlalu kondisi jika tidak sama datanya saya masukkan kodenya setelah foreach lalu muncul show modal gagal absen",Budiman,Rasyid,rsyd29,0,19,9,2020,7,50,57
+3452,3451,Tapi cara ini apabila kondisinya benar maka akan menampilkan show modal gagal terlebih dahulu lalu tampil show modal berhasil\n\nSedangkan kondisinya salah menampilkan show modal gagal,Budiman,Rasyid,rsyd29,0,19,9,2020,7,51,53
+3453,0,"Hm, snipet code diatas kurang lengkap. Tapi ini logika dasarnya.\nKamu siapin variable sebelum foreach itu yg bisa kamu mutate. Nanti di dalam foeach kamu cek kondisi setiap item, dan ubah2 variable yg diatas foreach.\nSetelah foreach selesai baru kamu show modal nya berdasarkan variable diatas yg sudah kamu mutate.",Dede,Hamzah,dehamzah,0,19,9,2020,7,56,39
+3454,0,"Fyi, siap2 buat hacktober nanti ni https://hacktoberfest.digitalocean.com/details",Dede,Hamzah,dehamzah,0,19,9,2020,7,57,23
+3456,3453,ini sih code lengkapnya setelah user pressed floating action buttonnya mas,Budiman,Rasyid,rsyd29,0,19,9,2020,8,40,31
+3457,3456,,Budiman,Rasyid,rsyd29,0,19,9,2020,8,47,12
+3458,3453,"saya coba dulu, makasih mas",Budiman,Rasyid,rsyd29,0,19,9,2020,8,52,29
+3459,3453,"Solved berhasil mas, terima kasih banyak",Budiman,Rasyid,rsyd29,0,19,9,2020,9,12,12
+3460,3459,Alhamdulillah,Budiman,Rasyid,rsyd29,0,19,9,2020,9,17,41
+3461,3448,Dapet info dari pasar mana mas 🤔,Ihwan,¯\(ツ)/¯,ihwanid,0,19,9,2020,10,3,53
+3462,0,,Luki,Subandi,Luki_Subandi,0,19,9,2020,11,21,36
+3475,3461,"Up, beneran penasaran ini 🤔",Idris,,idrriss,0,20,9,2020,5,34,10
+3476,3448,Kayaknya ini konteksnya masih refer ke iphone kw deh. Yg dalemnya android. Jadinya ya bisa dong di compile di windows 😅,Dede,Hamzah,dehamzah,0,20,9,2020,8,52,2
+3477,0,,Ihwan,¯\(ツ)/¯,ihwanid,0,20,9,2020,13,7,15
+3478,3456,"Btw bikin ini gmn ya, apa has screenshot dari mac?",R Rifa Fauzi,Komara,rifafauzi6,0,20,9,2020,17,31,2
+3479,3478,Bisapake ini mas https://carbon.now.sh/,D,R,dennyraymond,0,20,9,2020,17,50,8
+3480,0,https://www.udemy.com/course/flutter-deeplearning-course/?couponCode=DCE998986007C25EE77F,הראל,,Harel_Brodai,0,20,9,2020,19,20,19
+3481,3478,Pakai carbon.now.sh mas,Budiman,Rasyid,rsyd29,0,20,9,2020,21,55,38
+3485,0,"Malam gaes, ada yg udah pernah nyobain bikin push notifications pake websocket untuk ios kah? Kalo udah library nya apa yaa?\n\nSoalnya ak nyari2, yg web_socket_channel itu nggak support background task sepertinya. 🤔",victoria,,victoriavhe,0,21,9,2020,11,50,27
+3486,3485,Kenapa langsung ambil kesimpulan bikin pakai websocket? Kenapa ga pakai firebase atau one signal aja?,Dede,Hamzah,dehamzah,0,21,9,2020,12,0,25
+3487,0,"dr clientnya kak, udah ku encourage pake fbase aja tapi kayaknya gamau krn berbayaar..",victoria,,victoriavhe,0,21,9,2020,12,1,47
+3488,0,"dan dia insisting kl dlu clientnya pernah bikin juga pake socket tapi di native ios dan bisa , makanya itu",victoria,,victoriavhe,0,21,9,2020,12,2,30
+3489,0,Firebase itu gratis loh buat push notifnya,Dede,Hamzah,dehamzah,0,21,9,2020,12,2,42
+3490,3489,sudah pernah coba firebase ios onbackground callback mas?,Demmy,Rhamadan,demmydwi,0,21,9,2020,12,7,7
+3491,3490,Maksudnya push notif terus trigger something di clientnya seperti show modal gitu ya?,Dede,Hamzah,dehamzah,0,21,9,2020,12,12,26
+3492,3491,"Bisa tapi kan ini on background jadi ku cobanya pake show local notif, atau mungkin json payloadnya yg salah ya\n\nhere is my json payload\n\n{\n ""to"": ""tokenfcm"",\n ""notification"": {\n  ""body"": ""Body"",\n  ""title"": ""Title""\n        },\n ""data"": {\n  ""name"": ""Name 1"",\n  ""value"": 123448,\n  ""num"": 1.2346\n }\n}\n\nsudah pakai apns headers `""apns-push-type"": ""background""` juga ga ngaruh\n\n`notification` nya `null` juga ga ngaruh",Demmy,Rhamadan,demmydwi,0,21,9,2020,12,17,10
+3493,3492,"Saya belum pernah coba sih.\n\nTapi mau memperjelas aja pertanyaan nya, siapa tahu ada yg lain yg bisa. Ini tuh push notif seperti whatsapp gitu ketika appnya ditutup ya?",Dede,Hamzah,dehamzah,0,21,9,2020,13,9,35
+3494,3493,"_firebaseMessaging.configure(\n      onMessage: (Map<String, dynamic> message) async {\n        print(""onMessage: $message"");\n      },\n      onBackgroundMessage: myBackgroundMessageHandler,\n      onLaunch: (Map<String, dynamic> message) async {\n        print(""onLaunch: $message"");\n      },\n      onResume: (Map<String, dynamic> message) async {\n        print(""onResume: $message"");\n      },\n    );\n\n`onMessage`, `onResume`, `onLaunch` sudah bisa, seperti whatsapp pun sudah bisa, ini masalahnya gimana buat simulate`onBackgroundMessage` gimana cara biar trigger callback ini kepanggil di ios, kalau di android itu tinggal `notification` nya di isi `null`",Demmy,Rhamadan,demmydwi,0,21,9,2020,13,17,47
+3495,3489,Oh free kah mas? Pernah baca ada pricingnyaa ikk 🤔,victoria,,victoriavhe,0,21,9,2020,13,30,55
+3496,3493,Iyaa bener jadi kayak WA gt nanti muncul di notification bar,victoria,,victoriavhe,0,21,9,2020,13,32,20
+3497,3494,"dulu ak pernah bikin pake onMessag onResume onLaunch doang dan background nya jalan sih. Dulu pake FCM.  \n\nTapi anehnya notifikasinya masuknya delay gitu jdi ga real time, kan sama aja tuh. \n\nCuma dulu nyobanya pas sblm ios 13 kl ngga salah, nah denger2 after ios 13 memang ada masalah sm platform channelnya ios, jadi platform specific issue gitu yg bikin notifikasinya ga isa muncul di notif bar.  \n\nNah gatau skrg udah solve apa blm yg itu krn blm nyoba lagi dan projeknya udah di handle org lain hehehe",victoria,,victoriavhe,0,21,9,2020,13,35,31
+3498,3497,baiklah kayanya mending sekalian handle di swift nya haha,Demmy,Rhamadan,demmydwi,0,21,9,2020,13,36,16
+3499,3479,"Wah thanks ya, baru tau ada gnian. Mayan buat lampirin code kalo bikin artikel medium",R Rifa Fauzi,Komara,rifafauzi6,0,21,9,2020,15,35,4
+3500,0,,Prabowo,Agustian,,0,21,9,2020,15,58,7
+3504,3494,"aku juga kemaren bingung mas soal ini di flutter, kalau di native ios nya kita perlu nambahin 1 baris kode buat ngizinin dia jalan di foreground, nah tapi aku bingung nambahin nya gimana secara kita biasanya nambahin di app delegate aja. jadinya kemaren aku akalin pake flutter local notification. jadi kalau di background dia aman, kalau foreground bakal trigger dari onmessage bikin notifikasi local. \nsample nya disini mas: https://gitlab.com/IhwanID/flutter-ios-notification/-/blob/master/lib/main.dart",Ihwan,¯\(ツ)/¯,ihwanid,0,22,9,2020,4,47,56
+3505,3504,"di background yg ku maksud itu callback `onBackgroundMessage` mas, bukan `onResume` atau `onLaunch`, kalau show notif di `onMessage` pakai `LocalNotification` sudah bisa mas, masnya sendiri udah coba pakai callback `onBackgroundMessage` ?",Demmy,Rhamadan,demmydwi,0,22,9,2020,5,8,24
+3506,0,,Martin,Simanjuntak,martinsmnjntk,0,22,9,2020,12,32,4
+3512,0,Siapp 🙏🙏,Martin,Simanjuntak,martinsmnjntk,0,22,9,2020,12,37,11
+3514,0,,Agus,Saktiyono,agussaktiyono,0,22,9,2020,22,58,18
+3520,0,,Anthony,Hadi,anthonyhadi,0,23,9,2020,2,46,41
+3524,0,,Rinrin,Karmila,,0,23,9,2020,2,49,3
+3528,0,,Ahmad,,Letmeknow123,0,23,9,2020,3,23,42
+3533,0,,miftah,,,0,23,9,2020,4,16,3
+3544,0,,Avi,,,0,23,9,2020,6,47,4
+3550,0,,Angga,Dwi,anggach14,0,23,9,2020,9,18,16
+3551,0,"Teman2, hari sabtu nanti akan ada meetup Flutter Jakarta #5 yaa with DKatalis. Silakan kalau kosong & berminat bisa daftar 👍👍🙏🙏",Angga,Dwi,anggach14,0,23,9,2020,9,18,52
+3553,0,utk registrasi bisa kesini https://www.meetup.com/Flutter-Jakarta/events/273403704/,Angga,Dwi,anggach14,0,23,9,2020,9,23,55
+3554,0,,Wiku,Karno Prasetyagama,wikukarno,0,23,9,2020,9,36,31
+3561,0,,Syaiful,919,,0,23,9,2020,10,21,43
+3565,3551,Oke kang,Wiku,Karno Prasetyagama,wikukarno,0,23,9,2020,10,28,9
+3566,0,,Eko,Purnomo,epba29,0,23,9,2020,11,53,38
+3570,0,,Ari,Rudiana,arirudiana,0,23,9,2020,12,50,50
+3574,0,"gengs, ada yang udah pernah implementasi flutter notification dengan AWS SNS (Simple Notification Service)?",Ihwan,¯\(ツ)/¯,ihwanid,0,23,9,2020,13,7,41
+3575,3551,,Dede,Hamzah,dehamzah,0,23,9,2020,14,51,43
+3576,0,,Berto,,Bertoyulwintoro,6281284291929,23,9,2020,14,52,22
+3580,0,,Adam,""".'.""",Admoreo,0,23,9,2020,15,4,28
+3588,0,,Marco,Alfan,Marcoalfan,0,23,9,2020,15,8,41
+3589,0,Akhirnya nemu juga grup flutter wilayah jkt😂,Marco,Alfan,Marcoalfan,0,23,9,2020,15,9,1
+3592,0,"Izin gabung yaa, Salam kenal semua🙏🏻",Marco,Alfan,Marcoalfan,0,23,9,2020,15,9,25
+3596,0,,Noer,Barrihadianto,noerbarry,0,23,9,2020,15,27,49
+3600,3599,"Terimakasih, salam kenal semua 🙏",Noer,Barrihadianto,noerbarry,0,23,9,2020,15,29,54
+3601,0,"salam kenal @Marcoalfan @noerbarry , selamat berdiskusi",Dede,Hamzah,dehamzah,0,23,9,2020,15,31,2
+3604,0,,Daniel,Tan,alexanderdanny,0,23,9,2020,15,39,49
+3609,0,,Adam,""".'.""",Admoreo,0,23,9,2020,16,5,12
+3613,0,,tedi,lesmana,tedilesmana,0,23,9,2020,16,13,52
+3617,0,,Irsyad,Armand,Irsyadav,0,23,9,2020,16,25,8
+3621,0,,M Fariz Zakky Akbar,,Mattshadow,0,23,9,2020,16,26,47
+3628,3601,Salam kenal Mas @dehamzah,Noer,Barrihadianto,noerbarry,0,23,9,2020,16,42,0
+3629,0,,Novan,Disini,,0,23,9,2020,17,59,48
+3633,0,,Aji,Dwi Saputra,ajidwisaputra27,0,23,9,2020,18,31,59
+3639,0,"Pagi semuanya, salam kenal 🙏",Mr,Grahadi,Had0y,0,23,9,2020,18,44,26
+3641,0,,Mr,Grahadi,Had0y,0,23,9,2020,18,57,3
+3648,0,,PMF,,PM1902,0,23,9,2020,22,55,15
+3655,0,,Ryan Novary,,RyaNovary,6285156182941,24,9,2020,0,46,23
+3659,0,Selamat pagi. Salam kenal semua,PMF,,PM1902,0,24,9,2020,1,23,52
+3660,0,salam kenal,Jason,Onggo,jasonrich,0,24,9,2020,1,24,37
+3661,0,Salam kenal,Putra,Utama,putrautama007,0,24,9,2020,1,26,34
+3662,0,,Demi,Adidrana,demiadr,0,24,9,2020,1,30,53
+3666,0,"Assalamualaikum,selamat pagi..salam kenal semuanya",Demi,Adidrana,demiadr,0,24,9,2020,1,31,37
+3667,0,,Tony,HR,tony_hr,0,24,9,2020,2,25,21
+3673,0,,Seto Prasetyo,#SOKB0121011,,0,24,9,2020,3,51,7
+3677,0,"#ask _Exception (Exception: Failed)\n\nkalau errornya seperti ini, itu salah di modelling response jsonnya atau dimana ya?",Jordy,,jordydave,0,24,9,2020,3,52,54
+3678,0,"Hm, mungkin. Memang itu lagi mau ngapain mas? Error bisa dilihat lebih detil dari stack trace nya",Dede,Hamzah,dehamzah,0,24,9,2020,4,49,47
+3679,0,Mungkin pas return status codenya gak bisa ke handle,Putra,Utama,putrautama007,0,24,9,2020,4,57,29
+3680,3678,"mau ngambil data dari API, tapi harus login terlebih dahulu mas",Jordy,,jordydave,0,24,9,2020,4,58,56
+3681,0,Coba print response.datanya mas,Raka,Fajar,RakaFS,0,24,9,2020,5,10,36
+3682,0,,Eko,Prayitno,echonomicon,0,24,9,2020,5,26,10
+3686,3681,,Jordy,,jordydave,0,24,9,2020,7,37,17
+3687,3686,header nya kurang `Bearer` kah?,Prakash,Divy,prakashdivyy,0,24,9,2020,7,39,21
+3688,3687,wajib kah? soalnya pas googling ada yg pake ada yg engga..,Jordy,,jordydave,0,24,9,2020,7,42,52
+3689,3688,harus balik lagi ke docs API nya sih bagaimana cara pakai API nya,Prakash,Divy,prakashdivyy,0,24,9,2020,7,43,59
+3690,3689,harus login dulu terus dapet token.. nah tokennya itu nanti dipake pas mau ambil data lainnya. kalau untuk bearer itu emang harus dipakai kah..?,Jordy,,jordydave,0,24,9,2020,7,45,55
+3691,0,API requestnya dites dipostman dulu aja berhasil gak,Leonardo,Vinsen,leovinsen,0,24,9,2020,7,50,26
+3692,3691,udah di tes.. dan aman,Jordy,,jordydave,0,24,9,2020,7,51,18
+3693,0,Mungkin tokennya di SharedPreferencesManager null?,Leonardo,Vinsen,leovinsen,0,24,9,2020,7,58,18
+3694,3693,,Jordy,,jordydave,0,24,9,2020,8,1,59
+3695,3694,di console ada.. atau itu bukan pertanda kl tokennya udah tersimpan?,Jordy,,jordydave,0,24,9,2020,8,2,30
+3696,3695,Mungkin aja blm kesimpan kalau ada bug... Ini response pas login success ya?,Leonardo,Vinsen,leovinsen,0,24,9,2020,8,5,6
+3697,3686,Coba diprint di sini mas token nya bener ada isi blm,Leonardo,Vinsen,leovinsen,0,24,9,2020,8,5,36
+3698,3696,iya..,Jordy,,jordydave,0,24,9,2020,8,6,5
+3699,3697,,Jordy,,jordydave,0,24,9,2020,8,8,1
+3700,0,Nah iya itu tokennya “accessToken” bukan token yang sebenarnya,Leonardo,Vinsen,leovinsen,0,24,9,2020,8,10,19
+3701,3694,Harusnya string panjang disini,Leonardo,Vinsen,leovinsen,0,24,9,2020,8,11,10
+3704,3701,hm.. kalau gitu berarti errornya karna tokennya ga dapet ya?,Jordy,,jordydave,0,24,9,2020,8,24,58
+3706,3704,"Iya, salah save tokennya",Leonardo,Vinsen,leovinsen,0,24,9,2020,8,32,41
+3707,3706,oke thankyou,Jordy,,jordydave,0,24,9,2020,8,33,11
+3710,0,,Zean,,zainalArd,0,24,9,2020,9,1,27
+3715,0,mohon izin mnyimak dan belajar,Zean,,zainalArd,0,24,9,2020,9,4,42
+3716,0,,ronald,bl4ckside.blogspot.com,s7evens,0,24,9,2020,9,26,23
+3720,0,,Charlie,,charliehartono,0,24,9,2020,12,8,56
+3724,0,,ikhsan15,,sans1520,0,24,9,2020,12,23,25
+3728,0,,Randi,Dwi Nandra,randinandra,0,24,9,2020,13,7,40
+3735,0,,Tandia,Mada,tandiamada,0,24,9,2020,13,33,47
+3742,0,,,,,0,24,9,2020,16,19,28
+3746,0,Mohon izin bwat belajar flutter sm temen2 d sini 😊🙏🏻,,,,0,24,9,2020,16,21,59
+3747,0,**Scheduling Background Tasks I Flutter Apps**\n\nhttps://medium.com/nerd-for-tech/scheduling-background-tasks-in-flutter-apps-4428187b8397?_branch_match_id=786469090950512716,הראל,,Harel_Brodai,0,24,9,2020,17,18,30
+3751,0,,Dicky,Reynaldi,dickyrey,0,25,9,2020,1,10,5
+3755,0,,Fikri,Basa,fikribasa,0,25,9,2020,2,5,5
+3766,0,,anang fatkurr,,FatkurA,0,25,9,2020,7,14,0
+3775,0,"#ask\nMau bertanya, jadi saya ingin ada penanda kalau misal di dalam new message itu ada 5 pesan masuk yang belum di baca, itu caranya bagaimana ya, dan setelah di baca di akan pindah ke history.\ndi dalam api saya ada ada is_read yang nanti dimana kalau misal kita sudah baca jadi true, kalau belum false\ndan setelah itu pesan yang sudah di baca masuk ke history",M Fariz Zakky Akbar,,Mattshadow,0,25,9,2020,7,40,43
+3776,0,,Sayuti,,SayutiZxc,0,25,9,2020,11,19,11
+3777,0,,Rahmad,Santosa,l7ranzers,0,25,9,2020,11,40,58
+3778,3775,"https://pub.dev/packages/badges\n\nDcoba flutter badges mungkin bang, pas onTap baru deh is_read nya diupdate",͏͏,͏͏,kurangartos,0,25,9,2020,15,14,0
+3779,3778,Oke makasih mas,M Fariz Zakky Akbar,,Mattshadow,0,25,9,2020,15,29,35
+3780,0,,Ighfar,Ilaina,ighfarilaina,0,25,9,2020,23,9,25
+3784,0,"Terimakasih, salam kenal semua 🙏",Ighfar,Ilaina,ighfarilaina,0,25,9,2020,23,11,3
+3785,0,,Andrew Isaiah,,,0,26,9,2020,0,48,49
+3789,0,,Boy,كورنياوان,boy070495,0,26,9,2020,2,35,10
+3793,0,Mas ini kenapa ya?,Alba,Purnama,,0,26,9,2020,4,47,5
+3794,0,,Alba,Purnama,,0,26,9,2020,4,47,5
+3795,0,Apakah di dalam flutter ada wadah utk menulis tulisan arab?,Alba,Purnama,,0,26,9,2020,5,5,31
+3796,0,SEPERTI INI.,Alba,Purnama,,0,26,9,2020,5,7,21
+3797,3553,Yuk siap2 nanti jam 13 ya,Dede,Hamzah,dehamzah,0,26,9,2020,5,33,33
+3798,0,,Bale,,iqbalawe,0,26,9,2020,5,35,20
+3802,0,,Imam,,,0,26,9,2020,5,48,54
+3806,3795,bisa dicoba ini mas https://pub.dev/packages?q=arabic,Angga,Dwi,anggach14,0,26,9,2020,5,58,32
+3807,0,,azzam,,,0,26,9,2020,6,12,7
+3811,0,,Haris Bhayangkara,NGK 3518045,haris_rochmatullah,0,26,9,2020,6,42,52
+3815,0,"izin bergabung,, salam kenal 🙏🏼",Haris Bhayangkara,NGK 3518045,haris_rochmatullah,0,26,9,2020,6,47,56
+3816,0,,-,,,0,26,9,2020,7,33,8
+3820,0,,Nurizko Maulana,,NurizkoMaulana,0,26,9,2020,7,55,1
+3824,0,,Adrika,,Adrika18,0,26,9,2020,8,6,19
+3828,0,izin gabung gan salam kenal,Adrika,,Adrika18,0,26,9,2020,8,7,2
+3829,0,,Muhammad Arfandi,Usemahu,,0,26,9,2020,8,8,35
+3833,0,"https://github.com/flutter-jakarta/talks\n\nkalau teman2 ada yg tertarik untuk membawakan talk di meetup berikutnya, silahkan buat issue di repo di atas yaa",Leonardo,Vinsen,leovinsen,0,26,9,2020,8,9,46
+3834,0,Flutter Jakarta Meetup #5,Dede,Hamzah,dehamzah,0,26,9,2020,9,20,49
+3835,0,,Dede,Hamzah,dehamzah,0,26,9,2020,9,20,49
+3836,0,Terima kasih temen2 yang sudah pada hadir di meetup online tadi 🙏,Dede,Hamzah,dehamzah,0,26,9,2020,9,21,6
+3838,3836,"afwan, ada recordnya kang?",iqi,,bangiqiii,0,26,9,2020,10,16,41
+3839,0,"Ada, masi uploading nih",Dede,Hamzah,dehamzah,0,26,9,2020,10,20,49
+3840,3835,Eh baru nyadar kok jadi putih,Dede,Hamzah,dehamzah,0,26,9,2020,10,21,17
+3841,0,,Dede,Hamzah,dehamzah,0,26,9,2020,10,22,31
+3842,0,,Dede,Hamzah,dehamzah,0,26,9,2020,10,22,31
+3843,0,https://youtu.be/DTn5HaMapV8\n\nIni link rekaman meetup tadi ya kawan2,Leonardo,Vinsen,leovinsen,0,26,9,2020,11,47,17
+3844,0,Mantap,M Fariz Zakky Akbar,,Mattshadow,0,26,9,2020,11,59,5
+3845,0,,KangTarno,,kangtarno,0,26,9,2020,15,25,12
+3851,0,https://www.udemy.com/course/dart-simplified-beginners-guide/?couponCode=E4AEF38427EB77380F19,הראל,,Harel_Brodai,0,27,9,2020,5,20,49
+3852,0,"Download Jakarta Air Quallity app\nhttps://link.nafas.co.id/82pW/downloadhan\n\nLargest network of outdoor air quality sensors.\n#1 Trending weather app di appstore.\nAvailable untuk android dan ios.\nKalau suka, you can rate 5 stars",Handi,Deyana,HDeyana,0,27,9,2020,5,37,18
+3863,0,"Gan mau tanya,, sya mau buat tombol pada tiap2 huruf, ketika saya klik huruf alif maka keluar suara, tanpa harus pindah halaman. bagaimana ya?",Alba,Purnama,,0,27,9,2020,14,13,16
+3864,0,,Alba,Purnama,,0,27,9,2020,14,13,16
+3865,3863,"Coba pke GestureDetector, terus di onTap nya bkin lgi void async utk memutar suara nya,",͏͏,͏͏,kurangartos,0,27,9,2020,14,54,4
+3866,0,,Parlin,Duha,Parlin_Dh,0,27,9,2020,20,33,39
+3885,0,"pagi, mau taunya, kemarin saya ada utak-atik indentation di vsc, dan ada garis putih seperti ini, ada yg tau cara menghilangkan ini atau mengaturnya?",Agus,Saktiyono,agussaktiyono,0,28,9,2020,23,30,51
+3886,3876,Ini build ui nya atau udah system kak?,M Fariz Zakky Akbar,,Mattshadow,0,28,9,2020,23,36,9
+3887,0,,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,29,9,2020,4,59,51
+3891,0,https://crossplatform.geekle.us/?utm_source=quora&utm_medium=cpc&utm_campaign=Cross-Platform_Nov13_Contekst_poTemam_Anons,PMF,,PM1902,0,29,9,2020,5,42,49
+3892,3885,"Coba cari settingan ‘rulers’ kak, saya ktmu disini \n\nhttps://stackoverflow.com/questions/45447642/disable-white-vertical-line",Leonardo,Vinsen,leovinsen,0,29,9,2020,5,48,54
+3893,3892,"Okeh mas, saya coba dlu",Agus,Saktiyono,agussaktiyono,0,29,9,2020,6,14,16
+3903,0,**🍑Fruit🥝 Ninja⚔ clone**\n\nhttps://www.flutterclutter.dev/flutter/tutorials/flutter-game-tutorial-fruit-ninja-clone/2020/951/,הראל,,Harel_Brodai,0,30,9,2020,14,42,19
+3908,0,,Alba,Purnama,,0,1,10,2020,4,1,15
+3909,0,"bagaimana ya, sya ingin gambar bismillahnya dikasih keatas.",Alba,Purnama,,0,1,10,2020,4,1,50
+3910,0,alignment: alignment.topcenter,M Fariz Zakky Akbar,,Mattshadow,0,1,10,2020,4,10,38
+3924,0,"Sore semua, mau tanya, cara buat checkbox biar rapih begini gmn ya?",Agus,Saktiyono,agussaktiyono,0,3,10,2020,8,38,46
+3925,0,"Kayanya bisa pake Row terus isinya 4 Expanded, Checkboxnya ditaro dlm Expanded",Leonardo,Vinsen,leovinsen,0,3,10,2020,8,56,52
+3926,0,IC,Agus,Saktiyono,agussaktiyono,0,3,10,2020,9,1,55
+3927,0,berarti itu static ya?,Agus,Saktiyono,agussaktiyono,0,3,10,2020,9,2,16
+3928,0,"Betul, tp kalau mau dinamis bisa dikombinasikan dengan ListView.builder atau GridView.builder.\n\nNanti list kurirnya bs diambil dr backend",Leonardo,Vinsen,leovinsen,0,3,10,2020,9,18,59
+3929,0,"#ASK \nkira-kira supaya ada Container putih itu ketika di klik marker icon location gimana ya ??\njadi niatnya, mau munculin informasi tempat alamat dll, ketika udah klik marker itu.. jadi klo belum di klik.. informasinya belum muncul",Raka,Fajar,RakaFS,0,3,10,2020,17,1,28
+3930,0,"jadi konsepnya, klik marker muncul informasi tpi klo engga.. di ga munculin informasi gtu",Raka,Fajar,RakaFS,0,3,10,2020,17,2,8
+3931,0,,,,,0,3,10,2020,17,15,59
+3933,0,,Leody,,leodyfx,0,3,10,2020,23,26,38
+3940,0,sya mau terapkan disini,Alba,Purnama,,0,4,10,2020,6,37,38
+3941,0,bagimana cara buat begini?,Alba,Purnama,,0,4,10,2020,6,37,39
+3942,0,,Alba,Purnama,,0,4,10,2020,6,37,40
+3943,0,,Alba,Purnama,,0,4,10,2020,6,37,40
+3944,0,,Alba,Purnama,,0,4,10,2020,6,37,40
+3945,0,,Budi,S,,0,4,10,2020,8,42,29
+3949,0,"**Learn Flutter - Beginners Course**\nBuild Android and iOS apps with a flutter framework\n\n8 sections • 26 lectures • 1h 40m total length\n\n\n**FREE COURSE**\n\nRating: 4.2 (2,362 ratings)\nhttps://www.udemy.com/course/learn-flutter-beginners-course/",הראל,,Harel_Brodai,0,4,10,2020,16,58,37
+3957,0,Ada yang tau ini kenpa ya ngambi data dari api.. tampilin pake listview.builder,azzam,,,0,6,10,2020,4,12,40
+3958,3957,"Karena datanya null. Coba dipastiin pas api requestnya selesai, datanya sudah diterima dengan benar",Leonardo,Vinsen,leovinsen,0,6,10,2020,4,26,27
+3959,0,,Yozi,,yoziberlianda,0,6,10,2020,10,34,1
+3963,0,,Handi,Deyana,HDeyana,0,6,10,2020,12,0,20
+3964,0,"Dalam rangka menyambut HUT MNC Group Ke-31,\nMNC Fest mengundang Technology Enthusiast yang ada di Indonesia untuk ikut serta ambil bagian dalam Hackathon FunCode. \n\nMengusung dua tema besar yakni Digital Media dan Financial Technology, Hackathon FunCode menchallenge para Technology Enthusiast untuk membangun The Next Generation Platform Digital di dua area tersebut.\n\n  Hadiah total puluhan juta rupiah serta bermacam benefit lainnya bisa kamu dapatkan di Hackathon FunCode 2020.   \n\nPendaftaran dapat dikirimkan melalu email: hackathon@mncinnovation.id (data yang dibutuhkan Nama Team, PIC Name, Email & Contact PIC, Project Title & short description)\n\nDaftar dan Menangkan hadiahnya sekarang juga!\nhackathon.mncinnovation.id/\n\n\n#3eyond1magination\n#MNC3eyond1magination\n#hackathon\n#mnchackathon2020",Handi,Deyana,HDeyana,0,6,10,2020,12,0,23
+3965,3957,Datanya null mas. Cek dulu datanya null atau enggak.,Bukhori,,bukhori_muslim,0,6,10,2020,12,20,26
+3969,3958,udah solve ... makasih mas,azzam,,,0,6,10,2020,14,15,59
+3970,3965,iya mas jadi di listnya ada beberapa data yang null,azzam,,,0,6,10,2020,14,16,36
+3990,0,"Nanya dong mas/mbak, ada yg pernah ngalamin error biometric kayak message crashlytics di atas? Thanks",Idris,,idrriss,0,8,10,2020,2,52,50
+3991,0,,fadhil,,alkwarizmi25,0,8,10,2020,3,12,13
+3995,0,,ahmad,yusuf maulana,yuuahmad,0,8,10,2020,10,46,14
+3999,0,Nama ahmad Yusuf Maulana\nDari lampung\nMahasiswa institut teknologi Sumatera\n\nSalam kenal gan,ahmad,yusuf maulana,yuuahmad,0,8,10,2020,10,48,44
+4000,0,Salam kenal juga,Putra,Utama,putrautama007,0,8,10,2020,10,51,3
+4001,0,,Muhammad,Daniel,mhmddaniel8,0,9,10,2020,2,33,35
+4005,0,#ask\nDisini ada yg pernah buat localization kalau projectnya modular dan jsonnya ada pada setiap module dan bukan jadi 1 di main?,Putra,Utama,putrautama007,0,9,10,2020,2,44,14
+4007,0,,Alva,,avveru,6287784948303,9,10,2020,8,26,12
+4011,0,,Plus3,,SharePlus3,0,11,10,2020,7,27,5
+4020,0,,Gamalliel,Sharon,gmllshrn,0,12,10,2020,11,5,36
+4024,0,"Halo selamat malam saya Gamalliel, mahasiswa teknik informatika asal dari Jakarta timur. \nSalam kenal semuanya🙏",Gamalliel,Sharon,gmllshrn,0,12,10,2020,11,7,11
+4030,0,"Guys nanya dong,\n\nvariabel yang ada `final` nya ini kan `properti`, trus yang ada `this` itu kan `construktor`.",,,,0,13,10,2020,7,18,4
+4031,0,"trus kalo class itu di panggil kan jadi gini,\n\n`User(id: ""1"", name: ""Joy"", address: ""Jakarta"")`\n\nNah si `id`, `name`, `address` itu apa sebutannya?\nTerus si `1`, `Joy`, `Jakarta` ini apa sebutannya?",,,,0,13,10,2020,7,18,54
+4032,0,https://dart.dev/guides/language/effective-dart/style\n\nAku cek dsini gak nemu,,,,0,13,10,2020,7,23,24
+4033,4031,"Or, `Center(height: 100);`\n\n`height` ini sebutannya apa? (kalo dari aku ini properti)\n`100` sebutannya apa? (kalo dari aku ini parameter)\n\nBener gak?",,,,0,13,10,2020,7,24,56
+4034,0,"#ask, kalo error kuning gini tuh biasanya apa sih yaa",Fauzi Ikhsan,,Faujay,0,13,10,2020,7,58,30
+4035,4031,datajson mungkin?,Fauzi Ikhsan,,Faujay,0,13,10,2020,7,59,29
+4042,4031,Klo menurut saya di case ini semua parameter karena dimasukkan via constructor. \n\nDeklarasi dalam classnya baru disebut property,Leonardo,Vinsen,leovinsen,0,13,10,2020,10,39,56
+4043,4034,VScode ya? Biasanya log nya di print di sidebar / console kalo gak salah. Ini di pause karena di ‘run with debugger’,Leonardo,Vinsen,leovinsen,0,13,10,2020,10,43,6
+4047,0,Kerrn,yudono putro utomo,,Yudono2506,0,13,10,2020,12,31,51
+4050,0,"kak mau tanya , flutter udah bisa di pake untuk buat web atau masih dalam pengembangan.?",Putu,Ngurah,Putungurah,0,14,10,2020,3,24,46
+4051,4050,Kalau gak salah di webnya masih di beta dan masih dalam pengembangan\nhttps://flutter.dev/web,Putra,Utama,putrautama007,0,14,10,2020,3,45,30
+4052,0,boleh minta link git repo flutter jakarta klo ada?,Muhammad Dafi,,dafinoer,0,14,10,2020,9,23,29
+4053,4048,"Dicoba uninstall dulu aja.. dapet dari sini https://stackoverflow.com/questions/61046666/flutter-local-notifications-custom-sound-doesnt-work\n\nKalau masih belum bisa, dites di emulator / device Android lain apakah tetap bermasalah",Leonardo,Vinsen,leovinsen,0,14,10,2020,12,25,7
+4054,4052,ada kak disini https://github.com/flutter-jakarta,Leonardo,Vinsen,leovinsen,0,14,10,2020,12,25,41
+4061,0,,Deka,,dikamulyana,0,15,10,2020,16,16,15
+4068,0,https://drive.google.com/drive/mobile/folders/1LUsLOQ5h2XbLIC3XAXtnSvIjUkQwTiRf?usp=sharing\n\nebook flutter dan dart ver inggris. saya dah pakai bukunya sangat mebantu semua bukuy itu berbayar hanya saja ada develop yang mau berbagi link dibagikan cuma cuma dari dia meski dia yg beli,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,1,55,57
+4070,4068,Bukannya ndak boleh ya?,Edi,Susanto,edsusantoo,0,16,10,2020,2,7,58
+4071,4070,kan udah dibagi ma yg beli,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,2,9,23
+4072,4068,"makasih gan,",͏͏,͏͏,kurangartos,0,16,10,2020,2,22,1
+4073,0,,FirstName,,kodemasuk87,0,16,10,2020,2,24,2
+4077,4071,Tetep ga boleh.,Bukhori,,bukhori_muslim,0,16,10,2020,2,49,45
+4078,4068,Makasih om🙏,FirstName,,kodemasuk87,0,16,10,2020,3,3,38
+4082,4068,"Tetep ga boleh, kecuali oleh penulisnya sudah dibuat menjadi free",Rahim,Arif,rahimarif,0,16,10,2020,4,5,13
+4083,4072,sipp,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,10,52,28
+4084,4077,ya udah ngak usah klik,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,10,52,42
+4085,4082,ya udah ngak usah klik ngak rugi kok,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,10,52,59
+4086,4085,Orang lain yg rugi bro,Bukhori,,bukhori_muslim,0,16,10,2020,10,53,15
+4087,0,Kita mah ga rugi. Ngasih advise saja.,Bukhori,,bukhori_muslim,0,16,10,2020,10,53,46
+4088,0,Sikap seperti itu kurang bagus. Ga baik buat personality.,Bukhori,,bukhori_muslim,0,16,10,2020,10,54,2
+4089,4086,dia ngak rugi dgn ilmu dari. dia ttp dpat pahala dari yg tdi orang bodoh mnjdi pintar,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,10,54,30
+4090,4088,itu dari sisimu saja.,𝓪ɼ𝐝Īץ𝓪ԥş𝓪ɧ,ɧéɼෆ𝓪ԥ,ardiyansah_herman,6282291494455,16,10,2020,10,54,47
+4091,0,"Ga mau dikasih saran, ya monggo gak apa2. Saya juga ga rugi\n 😅",Bukhori,,bukhori_muslim,0,16,10,2020,10,54,53
+4092,0,Untuk agenda devfest hari ini nggak kalah seru sama yang kemarin ya ... jadi jangan lupa join http://goo.gle/devfest2,Veronica Putri,Anggraini,veronicaanggraini,0,16,10,2020,11,20,15
+4098,4092,👍,Aris,Pras,,0,16,10,2020,13,55,31
+4099,4089,"Klo yg punya gk ridha itu artinya pembajakan mas, ilmunya bisa jd gk berkah",Agus,Saktiyono,agussaktiyono,0,16,10,2020,15,59,20
+4100,0,"Siang semua, mau tanya saya buat ini menggunakan ListView, knp tidak bisa discroll ya cardnya?",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,3,4
+4101,4100,Coba pke SingleScrollView,͏͏,͏͏,kurangartos,0,17,10,2020,4,10,54
+4102,4101,"sudah dicoba gan, tetep gk bisa",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,11,12
+4103,0,saya buatnya listview in listview,Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,11,43
+4104,4100,"Sertakan contoh source code nya mas, biar enak checknya",Zeffry,Reynando,zeffry_reynando,0,17,10,2020,4,12,29
+4105,4104,seperti ini mas,Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,13,5
+4106,4103,Kalau salah satu listviewnya munhkin bisa dilock scrollnya,Putra,Utama,putrautama007,0,17,10,2020,4,13,11
+4107,0,"Iya ,physic di listview kedua bisa di lock aja",Zeffry,Reynando,zeffry_reynando,0,17,10,2020,4,14,14
+4108,0,"sudah dicoba jg sih mas, itu listview sudah dipakekan physics-nya",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,15,37
+4109,4108,https://api.flutter.dev/flutter/widgets/NeverScrollableScrollPhysics-class.html,Zeffry,Reynando,zeffry_reynando,0,17,10,2020,4,15,47
+4110,4109,Nah iya ini,Putra,Utama,putrautama007,0,17,10,2020,4,16,8
+4111,0,"owhh oke, saya coba dlu",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,16,23
+4112,0,Tapi kebutuhan listview kedua buat apa ya ? Tanpa listview sepertinya bisa itu.\nKan cuma nampilin content didalam cardnya,Zeffry,Reynando,zeffry_reynando,0,17,10,2020,4,17,4
+4113,0,"sudah bisa mas thx2, \nbtw itu knp ya alasannya dia jd gk ke scroll?",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,18,6
+4114,4112,"APInya gini mas, perlu looping service dan loop si cost-nya",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,18,54
+4115,4113,Ini karena keduanya scrollnya jalan jadi kemungkinan ada conflict untuk scrollnya menurut saya\nJadi harus salah satunya yg di buat scrolling,Putra,Utama,putrautama007,0,17,10,2020,4,19,33
+4116,4115,"hhmm IC2, oke mas\niya soalnya saya cek terminal gk ada error, jd bingung hehe",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,20,17
+4117,0,Kecuali kalau arah scrollnya beda baru gak akan conflict mas,Putra,Utama,putrautama007,0,17,10,2020,4,20,51
+4118,4117,"note mas, thx infonya",Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,21,20
+4119,0,Sama sama mas\nSemoga membantu,Putra,Utama,putrautama007,0,17,10,2020,4,21,29
+4120,0,baru belajar mobile jd masih ngeraba2 hehe,Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,21,39
+4121,4119,👍,Agus,Saktiyono,agussaktiyono,0,17,10,2020,4,21,58
+4122,0,gan mau nanya ini kenapa ya ?\n[!] Android Studio\n    X Flutter plugin not installed; this adds Flutter specific functionality.\n    X Dart plugin not installed; this adds Dart specific functionality.\n    X android-studio-dir = 'C:\Program\n    X Android Studio not found at 'C:\Program\nsetelah update v4.1 android studionya.\nmohon bantuannya,︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎,,sandiaris,0,17,10,2020,7,12,44
+4125,0,"#Ask om kenapa ya setiap Run project di android studio selalu eror gitu terus sedangkan di VS lancar2 aja untuk ngebuild nya , Solusinya gimna ya Om🙏",FirstName,,kodemasuk87,0,17,10,2020,8,41,15
+4126,4125,"error log atasnya mas, biasakan screenshot",͏͏,͏͏,kurangartos,0,17,10,2020,8,42,45
+4127,4126,Siap om coba sya scren dulu,FirstName,,kodemasuk87,0,17,10,2020,8,45,57
+4128,4126,Ini mas 🙏,FirstName,,kodemasuk87,0,17,10,2020,8,53,55
+4129,0,Coba import dart:html,͏͏,͏͏,kurangartos,0,17,10,2020,8,55,39
+4130,0,Buka mainscreen.dart,͏͏,͏͏,kurangartos,0,17,10,2020,8,55,49
+4131,0,Oke siap,FirstName,,kodemasuk87,0,17,10,2020,8,58,59
+4132,0,"mas mau tanya,",Alba,Purnama,,0,17,10,2020,9,1,35
+4133,0,"1. bagaimana ya, saya mau buat scroll kekiri.",Alba,Purnama,,0,17,10,2020,9,2,7
+4134,0,"2. bagaimana ya, membuat tombol yg memiliki background sound, ketika di klik ganda soundnya juga tidak ikut ganda.",Alba,Purnama,,0,17,10,2020,9,3,23
+4135,4133,Di listview ada attribut scrolldirection Axis nya ke Horizontal,͏͏,͏͏,kurangartos,0,17,10,2020,9,4,50
+4136,0,"yang saya inginkan, ketika saya mengklik ganda/double tombol yg memiliki baground sound. soundnya tidak ikutan double/ganda. maunya soundnya terulang.",Alba,Purnama,,0,17,10,2020,9,5,28
+4137,4136,"Pke package apa yg skrng??\nKlo pke audioplayer, ada fungsi untuk cek PlayerCompeltion, jdi cek dulu suara yg aktif skrng, jika ada bisa tombol panggil nya di disable atau menunggu untuk di play stelah selesai",͏͏,͏͏,kurangartos,0,17,10,2020,9,8,52
+4138,0,sy pakai audio player,Alba,Purnama,,0,17,10,2020,9,14,46
+4139,0,,Alba,Purnama,,0,17,10,2020,9,16,47
+4140,0,,Alba,Purnama,,0,17,10,2020,9,16,47
+4141,0,"bagaimana ya, cara atur textnya?",Alba,Purnama,,0,17,10,2020,9,28,48
+4142,0,,Alba,Purnama,,0,17,10,2020,9,28,48
+4143,0,,Alba,Purnama,,0,17,10,2020,9,28,48
+4144,4143,Kasih flexible bisa?,Raka,Fajar,RakaFS,0,17,10,2020,11,5,12
+4145,0,Atauu expanded,Raka,Fajar,RakaFS,0,17,10,2020,11,5,15
+4146,4144,"alhamdulillah, sudah bisa.",Alba,Purnama,,0,17,10,2020,11,58,18
+4147,0,sya masih terkendala di backsoundnya.,Alba,Purnama,,0,17,10,2020,11,58,51
+4148,0,,Fauzi,Arda,fauziarda,0,17,10,2020,15,16,5
+4149,4148,Nah ini gimana wlwkkw,︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎,,sandiaris,0,17,10,2020,15,16,57
+4150,4148,"#ask \nmisi mau tanya kakak2 dan teman2 semua..\nsaya lagi setup flutter di ubuntu, dan saya udah coba sesuai yang ada di flutter.dev , tapi si flutternya gk ngedetek android studionya, itu gimana ya?",Fauzi,Arda,fauziarda,0,17,10,2020,15,17,29
+4151,0,"kalo jalanin ``flutter doctor --android-licenses `` , malah ada java exception kyk gini.. :",Fauzi,Arda,fauziarda,0,17,10,2020,15,26,37
+4152,0,,Fauzi,Arda,fauziarda,0,17,10,2020,15,27,44
+4153,0,,Indra,Pramana,indrapramana,0,18,10,2020,2,17,53
+4157,0,"Suapaya rapi, bagusnya diapain ya?",Alba,Purnama,,0,18,10,2020,6,25,13
+4158,4157,😲 kalau gambar kayak gitu sih kurang rapi. Tapi kalau dibikin assets per huruf kayanya bisa lebih rapih. 🙌🏻,Ihwan,¯\(ツ)/¯,ihwanid,0,18,10,2020,15,24,46
+4162,0,,Wira,,W_Neo,0,19,10,2020,10,51,11
+4166,0,,Seno,Agung Pradityo,Seno_agung,0,19,10,2020,13,53,14
+4170,0,,T,B,arieftb22,0,19,10,2020,23,14,4
+4178,0,,Kevin,Truman,kevintruman,0,20,10,2020,2,7,35
+4182,0,,Luthfan,Maftuh,Luteh,0,20,10,2020,4,10,29
+4189,0,kak saya mau bertanya bagaimana cara menggunakan import 'package:photo_view/photo_view.dart'; .?,Putu,Ngurah,Putungurah,0,20,10,2020,5,22,2
+4190,4189,Maksudnya cara import package bukan kak?,Leonardo,Vinsen,leovinsen,0,20,10,2020,5,37,9
+4191,0,,Ian Ahmad,Fachriza,ianahmfac,0,20,10,2020,6,22,15
+4195,0,,Fikri Razzaq,,fikrirazzaq,0,20,10,2020,6,41,28
+4199,0,,michael,,iMicz,0,20,10,2020,7,47,4
+4203,0,,Exy,Wartono,exywartono,0,20,10,2020,7,49,1
+4205,4157,"dibuat pakai carousel_slider aja, mungkin bisa jadi lebih menarik\nada banyak pilihan.. bisa diliat di https://pub.dev/packages/carousel_slider/example",michael,,iMicz,0,20,10,2020,7,49,14
+4206,4189,cara install & penggunaan package flutter untuk photo_view.dart bisa di https://pub.dev/packages/photo_view/install,michael,,iMicz,0,20,10,2020,7,50,31
+4209,0,"sebelum menggunakan package, pastikan sudah ada di pubspec.yaml",michael,,iMicz,0,20,10,2020,7,51,30
+4210,0,,Narindra,Aditantyo,narindraditantyo,0,20,10,2020,7,56,57
+4214,0,,Hedi,Zakia,hedi1712,0,20,10,2020,8,4,30
+4218,0,,Fitrah,Muhammad,fitrh,0,20,10,2020,8,42,5
+4222,0,"[INFO MEETUP OKTOBER]\n\nSurabaya Dev kali ini mengadakan Meetup Online nih mengenai Design Thinking. Nah bagi kalian yang pengen tahu proses impelementasi dari design thinking dalam product development seperti apa, metode apa yang cocok untuk diterapkan. Yuk buruan daftar, acara ini FREE!!\n\nSpeaker :\nPranatha Widya\nProduct Spesialist ADHD Studio\n\nAcara ini akan diselenggarakan pada :\nHari / Tanggal : Sabtu, 24 Oktober 2020\nJam : 19.00 - 21.00 WIB\nby Online Zoom\n\nRSVP : https://bit.ly/SBYDEVDTHINK\n\nYuk, jangan sampai ketinggalan dan ajak temenmu sebanyak-banyaknya karena kuota terbatas.\n\nCP : Putra ( 085155227235)",Brian,Yuko,brianyuko,0,20,10,2020,9,23,4
+4226,0,,dark,,,0,20,10,2020,9,39,49
+4228,0,,,,,0,20,10,2020,9,41,3
+4234,0,,Mikinam,,mikinam,0,20,10,2020,9,53,33
+4238,0,,Nandar,Iskandar,nandariskandarr,0,20,10,2020,9,56,41
+4240,0,4679,Nandar,Iskandar,nandariskandarr,0,20,10,2020,9,57,10
+4242,0,1071,Rahim,Arif,rahimarif,0,20,10,2020,9,57,23
+4245,0,,Rzall,,anrizall,0,20,10,2020,10,6,19
+4249,0,,Aji,Setya,ajisetya07,0,20,10,2020,10,22,32
+4256,0,,.,,wooky_01,6282393139115,20,10,2020,11,4,11
+4260,0,,Ilham,,ilham_openbeta,0,20,10,2020,22,46,23
+4264,0,,Jaya,,Kidnap15,0,20,10,2020,23,12,14
+4268,0,,Villa,,vllami,0,21,10,2020,2,27,28
+4272,0,,Konan edogawa,,Puriyadi,0,21,10,2020,3,8,32
+4276,0,"permisi gan mau tanya, apakah errornya dapat berefek ketika sya menggunakan emulator hp sendiri?",Alba,Purnama,,0,21,10,2020,5,29,37
+4277,4276,itu diemulator atau di hpnya udah abis space storagenya buat install aplikasi,Konan edogawa,,Puriyadi,0,21,10,2020,5,37,50
+4278,0,kosongkan dulu internal memorynya,Konan edogawa,,Puriyadi,0,21,10,2020,5,38,4
+4279,4277,di hp ya?,Alba,Purnama,,0,21,10,2020,5,40,31
+4280,0,iy,Konan edogawa,,Puriyadi,0,21,10,2020,5,40,44
+4281,0,"permisi gan, sya mau buat menu bookmark, ada ngak yg punya tutorial yg direkomendasikan.",Alba,Purnama,,0,21,10,2020,6,4,56
+4282,0,,Fazri,,Fazri19,0,21,10,2020,6,9,50
+4286,0,,Himawan,,agushim,0,21,10,2020,8,49,42
+4290,0,,Adit,,aditjoos,0,21,10,2020,10,48,17
+4294,4281,Tutorial youtubenya Erico https://www.youtube.com/c/EricoDarmawanHandoyo,Idris,,idrriss,0,21,10,2020,11,43,12
+4295,0,"Hai Semuanya!\n\nHari Sabtu ini (24 Okt 2020), Flutter Indonesia akan ngadain Flutter Talk #6 dengan 2 topik:\n\n""Reducing boilerplate code and focus on what really matters in Flutter""\nby Stefanus Diptya - Engineering Manager @ Pinhome\n\n""Flutter @ Grab""\nby Muhammad Rahmatullah - Software Engineer Mobile @ Grab\n\n\nPendaftaran: http://bit.ly/flutter-jkt-6",Leonardo,Vinsen,leovinsen,0,21,10,2020,13,47,58
+4296,4295,,Leonardo,Vinsen,leovinsen,0,21,10,2020,13,48,9
+4313,0,,Rizki,,ryumada,0,21,10,2020,23,49,0
+4320,4031,"id:,name:, sebutannya named parameter, sedangkan nilai seperti ""1"", ""joy"", namany parameter value",OxSonta,🐻🐻🐻🐻,OxSonta,0,22,10,2020,3,10,13
+4321,0,Bagaimana cara buatnya kalau  pakai padding?,Alba,Purnama,,0,22,10,2020,8,25,12
+4322,4321,kok pake padding?,Konan edogawa,,Puriyadi,0,22,10,2020,10,56,54
+4323,0,pake  row lah itu,Konan edogawa,,Puriyadi,0,22,10,2020,10,57,20
+4324,0,widget kedua row di split pake column,Konan edogawa,,Puriyadi,0,22,10,2020,10,57,36
+4326,0,,azzam,,,0,22,10,2020,12,18,27
+4327,0,ada yanng pernah alami gini ?,azzam,,,0,22,10,2020,12,18,35
+4328,0,flutter versi terbaru,azzam,,,0,22,10,2020,12,18,45
+4329,4326,Coba run flutter clean,max,,irufano,0,22,10,2020,12,24,2
+4330,0,Terus restart vscode,max,,irufano,0,22,10,2020,12,24,32
+4331,4326,"pernah... tunggu aja sekitar 20 40 menit, kemarin begitu juga abis update dart",Konan edogawa,,Puriyadi,0,22,10,2020,12,40,22
+4332,0,,Tyo,Marius,tyomarius,0,22,10,2020,19,59,6
+4339,0,ada yang open project?,Gamalliel,Sharon,gmllshrn,0,23,10,2020,7,32,57
+4340,0,bisa personal chat,Gamalliel,Sharon,gmllshrn,0,23,10,2020,7,33,2
+4341,0,,Lalu,Hilman,laluhilman,0,23,10,2020,7,41,43
+4345,0,,Lingga,Kusuma,linggaks,0,23,10,2020,9,16,58
+4349,0,,niow,,gandhist,0,23,10,2020,9,39,58
+4356,4322,Soalnya masih ada kolom dibawahnya.,Alba,Purnama,,0,23,10,2020,14,26,52
+4357,4356,coba dikasih space atau sizebox,Konan edogawa,,Puriyadi,0,23,10,2020,14,29,20
+4358,0,,Shintaw,,shintawu,0,24,10,2020,1,18,21
+4362,0,,Dedy,Kurniawan,goDeddy,0,24,10,2020,2,38,46
+4366,0,,Natanael K,,Natan_kris92,0,24,10,2020,3,9,58
+4370,0,,Mutakin,,mutakin1,0,24,10,2020,4,23,56
+4374,0,,Dely,Teja,delyteja,0,24,10,2020,5,9,29
+4378,0,,Hammad,,mufidz,0,24,10,2020,5,21,43
+4382,0,,Rasyeda,Aufa,rasyeda,0,24,10,2020,5,33,3
+4386,0,,FATH,,fathlazis,6281230832549,24,10,2020,5,33,39
+4390,0,,Fajar,Wahyudianto,fwahyudianto,0,24,10,2020,5,39,46
+4392,0,,Yogi,,Yogifi24,0,24,10,2020,5,40,7
+4398,0,,Achmad,Sobari,sobareh,0,24,10,2020,5,42,40
+4402,0,,syarif,hilmi,syarifhilmi,0,24,10,2020,5,50,29
+4406,0,,Michael,,Hellolimm,0,24,10,2020,5,58,13
+4410,0,,Salahudin,,,0,24,10,2020,6,0,43
+4414,0,,Syahrul,Fadholi,dholigum,0,24,10,2020,6,4,56
+4420,0,Flutter Talk #6 bisa ditonton di Youtube Flutter Indonesia \n\nLink: https://www.youtube.com/watch?v=hMyx6XibhPs,Leonardo,Vinsen,leovinsen,0,24,10,2020,6,11,48
+4421,4420,,Leonardo,Vinsen,leovinsen,0,24,10,2020,6,12,1
+4423,0,,Ramadhan Rosihadi,Perdana,,0,24,10,2020,6,18,24
+4427,0,,Ramadhan Rosihadi,Perdana,,0,24,10,2020,6,18,47
+4428,0,,Angga,Dwi,anggach14,0,24,10,2020,6,26,39
+4429,0,"Flutter Talk #6 sedang berjalan ya teman2, bisa ke link https://www.youtube.com/watch?v=hMyx6XibhPs&feature=youtu.be",Angga,Dwi,anggach14,0,24,10,2020,6,26,44
+4430,0,,Azis,Novian,azisnoviankom48,0,24,10,2020,7,1,33
+4434,0,"Selamat siang teman2 ,\npermisi , mau tanya ,\n#ask \nsaya baru aja mau jalanin run debug di flutter , tapi saya berhasil dan malam ngeluarin exception kyk gambar dibawah ini.",Fauzi,Arda,fauziarda,0,24,10,2020,7,41,26
+4435,0,,Fauzi,Arda,fauziarda,0,24,10,2020,7,41,29
+4436,0,ada yang tau kenapa dan bagaimana solusi nya?\nmohon bantuannya ...,Fauzi,Arda,fauziarda,0,24,10,2020,7,42,13
+4437,4435,"Dari error messagenya kayaknya mas salah install platform Java nya, harusnya JDK (Java Development Kit) bukan JRE",Leonardo,Vinsen,leovinsen,0,24,10,2020,7,46,48
+4438,0,,Fauzi,Arda,fauziarda,0,24,10,2020,7,47,53
+4439,0,btw java-8-openjdk-amd64 udah include jdk belum ya?,Fauzi,Arda,fauziarda,0,24,10,2020,7,48,26
+4440,0,soalnya yg ada di komputer saya yg itu,Fauzi,Arda,fauziarda,0,24,10,2020,7,48,45
+4441,0,Coba dilihat di dalamnya mas ada folder jdk gak? soalnya di error di atas pathnya ngarah ke JRE folder di dalam java-8-openjdk-amd64,Leonardo,Vinsen,leovinsen,0,24,10,2020,7,51,8
+4442,0,,Leonardo,Vinsen,leovinsen,0,24,10,2020,7,51,33
+4443,0,,Fauzi,Arda,fauziarda,0,24,10,2020,7,51,50
+4444,0,belum include ya.. hmm \napa sebaiknya saya uninstall dulu java-8-openjdk-amd64 nya ya? baru setelah itu install yang jdk 8 nya?,Fauzi,Arda,fauziarda,0,24,10,2020,7,52,54
+4445,4435,"Coba di arahin dulu PATHnya ke folder `/bin`, kalau masih blm bisa di install ulang aja",Leonardo,Vinsen,leovinsen,0,24,10,2020,7,54,19
+4446,0,Saya juga udah lupa installnya gmn 😅,Leonardo,Vinsen,leovinsen,0,24,10,2020,7,54,38
+4447,0,"seblumnya saya udah coba arahin ke bin kak, tapi masih muncul exception kyk gitu.. hmm\niya paling install ulang hehe",Fauzi,Arda,fauziarda,0,24,10,2020,7,55,47
+4448,0,Boleh mas Fauzi dicoba dulu,Leonardo,Vinsen,leovinsen,0,24,10,2020,7,59,20
+4449,0,,Fauzi,Arda,fauziarda,0,24,10,2020,10,4,55
+4450,0,"maaf tanya lagi.. ada yang tau ini kenapa ya? saya coba install jdk tapi dari tadi folder jdknya gk ke install2, cuman ada jre sama sperti sbelumnya.. \nmohon bantuaanya ..",Fauzi,Arda,fauziarda,0,24,10,2020,10,6,41
+4451,0,,Fauzi,Arda,fauziarda,0,24,10,2020,10,7,5
+4452,0,cuman ada ini aja,Fauzi,Arda,fauziarda,0,24,10,2020,10,7,13
+4453,0,"#ask\nAssalamualaikum warrahmatullahi wabarakatuh\nMalam semuanya, ada yg pernah implement play video + dengan subtitle nya di flutter?",Rio Aska,Permana,rio45ka,0,24,10,2020,11,54,40
+4457,0,"Mas aku mau curhat ni.. kok setelah aku update flutterku kayak ada yg aneh. seperti kalau saya mengetik sesuatu , biasaya suka ada pilih2 yg kita inginkan.",Alba,Purnama,,0,24,10,2020,13,54,56
+4458,0,ini kenapa ya?,Alba,Purnama,,0,24,10,2020,13,55,17
+4459,4457,row nya mas,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,24,10,2020,13,55,49
+4460,0,rownya kenapa?,Alba,Purnama,,0,24,10,2020,13,56,22
+4461,0,"rownya salah naruh kayanya, coba liat rownya itu masuk discaffold",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,24,10,2020,13,57,35
+4462,4458,colnya jga ktinggalan [,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,24,10,2020,14,1,29
+4463,4457,"klo mslah pilih pilihan yg ga kluar biasanya sih direstart dlu, bru dia mncul",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,24,10,2020,14,2,25
+4464,0,knpa ya?,Alba,Purnama,,0,24,10,2020,16,39,31
+4465,4464,Kurang tanda “[]” di children kolomnya,Idris,,idrriss,0,24,10,2020,19,50,9
+4466,0,,Ramadhan Rosihadi,Perdana,,0,24,10,2020,23,38,42
+4467,0,"Suhu2, numpang bertanya. Kalau mau bikin layout seperti ini pakai widget apa ya? Saya coba pakai Row, tapi item2nya hanya bisa 1 line, gabisa multiline seperti contoh di gambar",Ramadhan Rosihadi,Perdana,,0,24,10,2020,23,38,45
+4468,0,,Ramadhan Rosihadi,Perdana,,0,24,10,2020,23,39,34
+4469,4466,Pakai Wrap mas,Sayuti,,SayutiZxc,0,24,10,2020,23,49,55
+4470,0,,A.M,P.M,reib6666,0,25,10,2020,1,28,15
+4474,4466,Ini nama fontnya apa bang?,A L K A F F,,Alkaffever,0,25,10,2020,1,28,58
+4478,4469,makasih mas,Ramadhan Rosihadi,Perdana,,0,25,10,2020,13,30,1
+4479,4474,"kurang paham bang, itu saya ss dari web orang",Ramadhan Rosihadi,Perdana,,0,25,10,2020,13,30,21
+4480,0,"mas, kok error ya? padahal kodingannya ngak ada yg error.",Alba,Purnama,,0,25,10,2020,14,9,31
+4481,4480,Coba flutter doctor mas ada yg aneh kah,Leonardo,Vinsen,leovinsen,0,25,10,2020,14,11,12
+4482,4481,,Alba,Purnama,,0,25,10,2020,14,12,53
+4483,0,"saya baru update flutterku, malah flutterku yang error error.",Alba,Purnama,,0,25,10,2020,14,20,21
+4484,0,solusi gan,Alba,Purnama,,0,25,10,2020,14,20,25
+4485,4484,coba `flutter clean` / install ulang flutternya\n\nSaya dapat dr sini https://github.com/flutter/flutter/issues/47060 semoga membantu,Leonardo,Vinsen,leovinsen,0,25,10,2020,17,8,35
+4486,0,"permisa ga, kok setelah saya update flutter, malah banyak yang error",Alba,Purnama,,0,26,10,2020,4,55,2
+4487,0,,Alba,Purnama,,0,26,10,2020,4,55,2
+4488,0,,Alba,Purnama,,0,26,10,2020,4,55,2
+4489,0,ini kenapa ya?,Alba,Purnama,,0,26,10,2020,4,58,30
+4490,0,,Alba,Purnama,,0,26,10,2020,4,58,30
+4491,4490,coba tmbh 1 spasi di baris flutter sprinkit,͏͏,͏͏,kurangartos,0,26,10,2020,5,17,21
+4492,0,ini kenapa?,Alba,Purnama,,0,26,10,2020,5,40,28
+4493,4492,Line 54 kelebihan spasi kayanya,Leonardo,Vinsen,leovinsen,0,26,10,2020,5,47,35
+4494,0,"File pubspec itu sensitif dengan indentation, jadi kelebihan / kekurangan spasi akan menjadi error",Leonardo,Vinsen,leovinsen,0,26,10,2020,5,48,14
+4495,4492,"block mapping, sama case nya dngan diatas, ± spasinya",͏͏,͏͏,kurangartos,0,26,10,2020,5,50,32
+4496,0,"mau tanya gaes, pernah ngga dapet error kya gini?",Asto,Miwanda,astomiw,0,26,10,2020,8,32,35
+4497,0,"awalnya aku mau nge cek, properti data null atau engga",Asto,Miwanda,astomiw,0,26,10,2020,8,33,3
+4498,0,class nya gini,Asto,Miwanda,astomiw,0,26,10,2020,8,33,20
+4499,0,,Satriyo,Witjaksono,stryow22,0,26,10,2020,9,2,14
+4503,4496,Ini _qcMaterial nya yg null,Leonardo,Vinsen,leovinsen,0,26,10,2020,9,10,26
+4504,0,"oyaa, baru ngeh dari tadi. makasih mas hehe\naku bikin kya gini jadinya",Asto,Miwanda,astomiw,0,26,10,2020,9,21,0
+4505,0,Sipp sama2 mas 👍,Leonardo,Vinsen,leovinsen,0,26,10,2020,9,24,49
+4506,0,,Alba,Purnama,,0,26,10,2020,12,3,4
+4507,0,"Halo, selamat malam. Ada yang pernah make `geocde` lokasi? Saya nyoba geocode lokasi terakhir tp kadang-kadang proses geocodenya gk berhasil.\n```lastMapPosition = Position(latitude: position.target.latitude, longitude: position.target.longitude);\nsetState(() {\n  markers.clear();\n  markers.add(\n    Marker(\n      markerId: MarkerId(lastMapPosition.toString()),\n      position: LatLng(lastMapPosition.latitude, lastMapPosition.longitude),\n      icon: BitmapDescriptor.defaultMarker,\n      draggable: true,\n    ),\n  );\n});\nCoordinates coordinates = Coordinates(lastMapPosition.latitude, lastMapPosition.longitude);\nfinal List<Address> addressList = await Geocoder.local.findAddressesFromCoordinates(coordinates);\nsetState(() {\n  locationName = addressList[0].adminArea;\n  address = addressList[0].addressLine;\n});```",Idris,,idrriss,0,27,10,2020,17,14,22
+4511,0,"permisi gan, saya mau minta tolong,, bagaimana ya contoh code utk merubah imagelink menjadi image lokal?",Alba,Purnama,,0,28,10,2020,12,19,23
+4512,0,https://pub.dev/packages/network_to_file_image,Alba,Purnama,,0,28,10,2020,12,37,51
+4513,0,"mas, aku rubah ke lokal ko, malah error. solusi..?",Alba,Purnama,,0,28,10,2020,12,38,19
+4514,0,"aku ngak aktifkan yg lain, kok tetap error",Alba,Purnama,,0,28,10,2020,12,46,52
+4515,0,,Senamata,,Senamata,0,28,10,2020,15,53,11
+4517,0,X289,Senamata,,Senamata,0,28,10,2020,15,53,29
+4519,0,X286,Senamata,,Senamata,0,28,10,2020,15,53,41
+4523,4514,ada titik koma di dalam kurung mas,Idris,,idrriss,0,29,10,2020,8,17,1
+4524,0,"Halo, saya lagi nyoba geocode dari latitude & longitude, tp ada beberapa titik yg membuat proses geocode selalu await. Ada yg pernah mengalami hal yg serupa?\n`_createPlaceMarks(LatLng position) async {\n  List<Address> placeMarks = await Geocoder.local.findAddressesFromCoordinates(Coordinates(position.latitude, position.longitude));\n  print('address length ${placeMarks.length}');\n  if (placeMarks.isEmpty) {\n    _createPlaceMarks(LatLng(position.latitude, position.longitude));\n  }\n  else {\n    locationName = placeMarks.first.thoroughfare;\n  }\n}`",Idris,,idrriss,0,29,10,2020,8,17,6
+4525,0,**Mixins in dart**\nhttps://youtu.be/pJHTyhzt9JU,Plus3,,SharePlus3,0,29,10,2020,8,46,19
+4526,4524,"Halo mas Idris, await maksudnya gimana? Nyangkut gak selesai2?",Leonardo,Vinsen,leovinsen,0,29,10,2020,10,4,44
+4527,4526,"iya, bener mas",Idris,,idrriss,0,29,10,2020,10,5,18
+4528,4526,"jadi berenti di proses ini\n```List<Address> placeMarks = await Geocoder.local.findAddressesFromCoordinates(Coordinates(position.latitude, position.longitude));```",Idris,,idrriss,0,29,10,2020,10,6,15
+4529,4528,Gak ada exception mas? cuman nyangkut?,Leonardo,Vinsen,leovinsen,0,29,10,2020,10,10,59
+4530,0,Kayanya gara2 ini.. lagi ongoing bug https://github.com/aloisdeniel/flutter_geocoder/issues/29,Leonardo,Vinsen,leovinsen,0,29,10,2020,10,23,3
+4531,4530,"nah, iya. Ini issuenya cuma di iOS 🙁",Idris,,idrriss,0,29,10,2020,11,20,25
+4535,0,,Egi,Fcb,egifcb,0,30,10,2020,0,4,0
+4539,0,solusi gan?,Alba,Purnama,,0,30,10,2020,9,41,57
+4540,0,itu fronSize,͏͏,͏͏,kurangartos,0,30,10,2020,10,25,16
+4541,0,mungkin harusnya fontSize,͏͏,͏͏,kurangartos,0,30,10,2020,10,25,20
+4545,0,,Agus,,Agusprayogi,6287857108779,31,10,2020,11,4,20
+4549,0,"Selamat malam semuanya ^^,\nPermisi mau tanya nih..\n#ask \nsaya mau bikin splashscreen di flutter, lalu saya edit file launch_background.xml di folder android, nah yang mau saya tanyakan , gimana ya caranya bikin gambar yang saya set di file launch_background.xml itu bisa fill horizontal (grow horizontal) , karna gambar yang saya punya bentuknya persegi, jadi saya pengennya menuhin secara horizontal(lebar) tapi tingginya menyesuaikan si lebar tadi dan tidak fill vertical?",Fauzi,Arda,fauziarda,0,1,11,2020,13,53,35
+4550,0,,Fauzi,Arda,fauziarda,0,1,11,2020,13,55,1
+4551,0,ini kondisi file launch_background.xml saya saat ini,Fauzi,Arda,fauziarda,0,1,11,2020,13,55,44
+4552,0,"tadi saya udah coba2 ganti gravity nya tapi belum nemu yg pas,\nmohon bantuannya 🙏🙏",Fauzi,Arda,fauziarda,0,1,11,2020,13,56,43
+4553,0,,Fatkul,Nur k | Ayu Finance Indonesia,fatkulnurk,0,2,11,2020,1,36,20
+4566,0,,,,,0,3,11,2020,9,10,36
+4573,0,,Muhammad,Aan,muh_aan,0,3,11,2020,10,11,32
+4577,4549,Kenapa tdak lngsung saja dari dart nya mas?,͏͏,͏͏,kurangartos,0,3,11,2020,12,18,52
+4578,4577,"kalo dari dart/flutter terlalu lama mas, experiencenya kurang bagus, pas aplikasinya di klik harus nunggu dulu sampe flutter programnya di load, setelah itu muncul splashscreen (disuruh nunggu bebrapa detik lagi).. jadi kyk kelamaan nunggu mas.. hehe",Fauzi,Arda,fauziarda,0,3,11,2020,12,33,8
+4579,4578,Owalah.. i see isee,͏͏,͏͏,kurangartos,0,3,11,2020,12,45,46
+4580,0,,Plus2,,SharePlus2,0,4,11,2020,7,59,58
+4584,0,Flutter Firebase – The Full Course\n\nSource :\nhttps://fireship.io/courses/flutter-firebase/\n\nDownload 👇👇\n\nhttps://mega.nz/folder/1bYwFAQD#IES7SeAzGrkH8rIXdeOYxA\n\n🔗 Share and support us 🔗,Plus2,,SharePlus2,0,4,11,2020,8,0,22
+4585,0,,Ki,Aj,,0,4,11,2020,12,6,22
+4601,0,**Complete Flutter Bootcamp 2020: From Zero to Hero in Flutter**\nLearn Flutter like a Professional! Start from the basics and go all the way to creating your own Awesome Apps\n\n5 sections • 21 lectures • 1h 37m total length\n\n\n**FREE COURSE**\n\nRating: 5.0 (4 ratings)\nhttps://www.udemy.com/course/flutterbootcamp/,Plus2,,SharePlus2,0,5,11,2020,8,59,43
+4602,0,,Nova,Kasyfurrahman,,0,5,11,2020,14,55,28
+4606,0,,Adi,Nugraha Putra,Adinugrahaputra,0,5,11,2020,15,33,54
+4610,0,solusi?,Alba,Purnama,,0,6,11,2020,8,47,52
+4611,0,"Pak, ada yg pernah implement payment gateway pke flutter?",Muhammad Dafi,,dafinoer,0,6,11,2020,11,30,8
+4616,0,#ask ada yang pernah make plugin `location_permissions` untuk munculin prompt location permission? Saya udh coba tapi kok promptnya gk muncul. Ini kodenya\n```PermissionStatus permission = await LocationPermissions().requestPermissions();```,Idris,,idrriss,0,6,11,2020,15,29,30
+4618,4616,"Coba tambahin permission untuk location di file android/app/src/profile/manifest.xml sama di file android/app/src/debug/manifest.xml nya mas,",Fauzi,Arda,fauziarda,0,6,11,2020,15,50,2
+4619,4618,"Wah, iya. Barusan udh saya tambahin permission locationnya. Thanks ya",Idris,,idrriss,0,6,11,2020,15,50,50
+4620,4619,,Fauzi,Arda,fauziarda,0,6,11,2020,15,51,51
+4621,0,,SF,,andhikasudarman,0,7,11,2020,5,39,41
+4623,0,Izin share,SF,,andhikasudarman,0,7,11,2020,5,39,47
+4626,0,,SF,,andhikasudarman,0,7,11,2020,5,40,15
+4627,0,izin share 🙏🏼,SF,,andhikasudarman,0,7,11,2020,5,40,20
+4628,0,,SF,,andhikasudarman,0,7,11,2020,5,40,28
+4629,0,terima kasih,SF,,andhikasudarman,0,7,11,2020,5,40,31
+4630,0,,SF,,andhikasudarman,0,7,11,2020,5,40,34
+4646,0,,Rozaq,,rozaq_adi,0,8,11,2020,23,28,25
+4650,0,"Salam kenal semuanya, saya Rozaq.",Rozaq,,rozaq_adi,0,8,11,2020,23,28,47
+4651,0,"Mau berbagi informasi aja, bagi yang mau dapat kerja dan digaji dollar dari perusahaan teknologi di Singapura dan Jakarta, bisa dicoba cara ini:\n\n1) Jawab quiz di tecktok.io\n2) Lengkapi profil",Rozaq,,rozaq_adi,0,8,11,2020,23,28,54
+4652,0,"Saat ini sih lagi banyak dibutuhin programmer Frontend, Backend, Fullstack, dan Mobile",Rozaq,,rozaq_adi,0,8,11,2020,23,29,1
+4653,0,"Bagi yang berminat tapi masih bingung, bisa tanya-tanya dulu ke saya, thank you!!",Rozaq,,rozaq_adi,0,8,11,2020,23,29,7
+4657,0,,HILMAN,,akunhilman,0,9,11,2020,12,15,22
+4667,0,,Wahyu,Febrianto,alexfebrian,0,10,11,2020,15,48,15
+4680,0,,Rodericus,Ifo,rodericusifo,0,11,11,2020,3,24,16
+4684,0,"Permisi bang.. saya sdah buat icon bookmark, tpi sya tdk thu bagaimana buat functionnya. Supaya kalaw sy tekan iconnya, maka datanya  langsung masuk di halaman bookmark. Mohon solusinya.",Alba,Purnama,,0,11,11,2020,3,35,31
+4685,4684,Ini masuk ke halaman bookmarknya pake data API atau hardcode??,Raka,Fajar,RakaFS,0,11,11,2020,4,16,13
+4686,0,"Kalo misalkan pengen ke halaman Bookmark pake api, sediain API list bookmarknya.. nanti onTap dari iconnya",Raka,Fajar,RakaFS,0,11,11,2020,4,16,48
+4687,0,"Kalo iconnya ga ada onTap, bisa dibungkus gestureDetector atau InkWell atau pake IconButton",Raka,Fajar,RakaFS,0,11,11,2020,4,17,22
+4688,0,Nanti Navigate ke halaman bookmarknya,Raka,Fajar,RakaFS,0,11,11,2020,4,17,34
+4689,4684,Bisa di save title & idnya di local storage (sqlite / sharedprefs)\n\nDi halaman bookmarksnya cukup tampilkan semua konten di local storage,Leonardo,Vinsen,leovinsen,0,11,11,2020,4,23,36
+4690,4684,klo datanya pengen simpen... bisa pake sqflite.. tapi klo mau pake API harus buat dlu,Raka,Fajar,RakaFS,0,11,11,2020,4,54,12
+4691,4689,Aku ngak pake sql.,Alba,Purnama,,0,11,11,2020,8,0,42
+4692,4690,Aku ngak pke sql,Alba,Purnama,,0,11,11,2020,8,1,3
+4693,4692,https://medium.com/nusanet/flutter-crud-api-part-1-c8e252c5464d,Raka,Fajar,RakaFS,0,11,11,2020,8,7,33
+4694,4693,Aku mau bikin bookmark bukan CRUD .,Alba,Purnama,,0,11,11,2020,8,10,33
+4695,0,nanti nyimpen datanya dari mana mas ?,Raka,Fajar,RakaFS,0,11,11,2020,8,11,9
+4696,0,udah di kasih caranya.. bisa pake SQLITE sama API,Raka,Fajar,RakaFS,0,11,11,2020,8,11,23
+4700,0,,Alba,Purnama,,0,11,11,2020,9,45,36
+4701,4695,Nyimpannya pakai local dalam assets.,Alba,Purnama,,0,11,11,2020,10,22,52
+4708,4700,Code nya di screenshot atau taro di github mas Alba.. susah dipahami kalau melalui video,Leonardo,Vinsen,leovinsen,0,11,11,2020,12,44,0
+4709,4701,Format json?,Leonardo,Vinsen,leovinsen,0,11,11,2020,12,44,25
+4710,0,hmmmm,Raka,Fajar,RakaFS,0,11,11,2020,13,12,39
+4711,0,**Complete Flutter Bootcamp 2020: From Zero to Hero in Flutter**\nLearn Flutter like a Professional! Start from the basics and go all the way to creating your own Awesome Apps\n\n5 sections • 22 lectures • 1h 38m total length\n\n\n**FREE COURSE**\n\nRating: 3.9 (35 ratings)\nhttps://www.udemy.com/course/flutterbootcamp/,Plus2,,SharePlus2,0,11,11,2020,15,49,7
+4715,4711,👍👍 thanks,I Made,Setiawan,madesetiawan,0,12,11,2020,1,17,49
+4737,0,hello,Rafiq,,calonsiswadotcom,0,12,11,2020,8,36,28
+4738,0,selamat sore all,Rafiq,,calonsiswadotcom,0,12,11,2020,8,36,39
+4739,4738,Sore mas,Putra,Utama,putrautama007,0,12,11,2020,8,56,16
+4749,0,,adila,,adila12,0,13,11,2020,1,23,33
+4750,0,#ask\nada yang tau ini value nya bisa diganti dg apa?,adila,,adila12,0,13,11,2020,1,23,45
+4751,4749,"Itu udah ada suggestion nya, setelah kata try",Bayu,R,thesmalleyes,0,13,11,2020,3,18,7
+4752,4751,"ooh iya, udah solved mas, makasih😄",adila,,adila12,0,13,11,2020,4,31,4
+4756,0,,hafez husin,,hafezhusin,0,13,11,2020,23,19,57
+4766,0,"malam semua,\nmau tanya saya build apk datanya tidak adanya (gagal retrieve data dr internet)\nnamun diversi debug aman2 aja\n\ndan pastinya sudah saya set <uses-permission android:name=""android.permission.INTERNET""/> di AndroidManifest.xml",Agus,Saktiyono,agussaktiyono,0,14,11,2020,11,57,50
+4767,0,Coba rub dlu versi release jgn debuh,Raka,Fajar,RakaFS,0,14,11,2020,15,21,11
+4768,0,Flutter run release,Raka,Fajar,RakaFS,0,14,11,2020,15,21,17
+4769,0,Nanti keliatan errirnya apa,Raka,Fajar,RakaFS,0,14,11,2020,15,21,23
+4773,0,Owh oke2,Agus,Saktiyono,agussaktiyono,0,14,11,2020,22,39,9
+4774,0,Saya coba dlu,Agus,Saktiyono,agussaktiyono,0,14,11,2020,22,39,17
+4779,0,Total messages: 4778,Combot,,combot,0,15,11,2020,9,54,2
+4795,0,,angga.,,engleutik,0,15,11,2020,17,7,39
+4802,0,,Fatur,,ftrrhmn98,0,16,11,2020,3,59,30
+4809,0,,Wege| HaD,,Wege84,6285100060039,17,11,2020,4,43,15
+4831,0,**Flutter cross-platform course that will get you job.**\nComplete Flutter course that will get you job as Flutter Developer. You'll gain all the skills required by IT-companies.\n\n8 sections • 18 lectures • 1h 1m total length\n\n\n**FREE for 2 days\n\n**Rating: 0.0 (0 ratings)\nhttps://www.udemy.com/course/flutter-cross-platform-course-that-will-get-you-job/?couponCode=83E7D27631567146D6A1,Plus2,,SharePlus2,0,17,11,2020,15,38,26
+4832,0,,Collin,F,collinf,0,17,11,2020,16,33,44
+4839,0,,Fajar,,fajarhide2,0,18,11,2020,2,21,4
+4858,0,,Anies,W,anieswindi,0,18,11,2020,21,44,31
+4870,0,Ada yg punya info hackathon ?,Ahmad,,Letmeknow123,0,21,11,2020,2,11,15
+4874,0,,,,,0,21,11,2020,8,41,56
+4886,0,,IT Puspresnas 2021,,itpuspresnas2021,0,21,11,2020,15,23,21
+4895,0,,Alfi,,Alfimasrifah,0,22,11,2020,7,31,24
+4903,0,,SF,,andhikasudarman,0,22,11,2020,10,58,5
+4904,0,izin share hiring,SF,,andhikasudarman,0,22,11,2020,10,58,15
+4908,0,"Apakah kalian sudah tahu Flutlab.io?\n\nFlutlab.io adalah website IDE Flutter Online untuk mengcompile, mendebug, membuat cross-platform projects, tanpa ribet mengkonfigurasi SDK dan lainnya, menarik bukan? Apa saja sih fitur yang disediakan flutlab.io? yuk cek di blog saya \ndibawah ini hehe\n\nhttps://kotakode.com/blogs/2542/FlutLab.io---Flutter-IDE-Online",Adithya Firmansyah,Putra,Adithya_13,0,23,11,2020,5,35,29
+4909,4908,wah keren tapi kalau mau test android dan ios harus download dulu ya\njadi ga bisa hotreload :(,Demmy,Rhamadan,demmydwi,0,23,11,2020,5,40,33
+4910,4909,"bisa, kalau di pc mas",Adithya Firmansyah,Putra,Adithya_13,0,23,11,2020,5,40,54
+4911,0,jadi dia munculin emulator gitu,Adithya Firmansyah,Putra,Adithya_13,0,23,11,2020,5,40,58
+4912,0,tapi kalo ios kyaknya harus download deh,Adithya Firmansyah,Putra,Adithya_13,0,23,11,2020,5,41,8
+4913,4910,"oh iya deng bisa hot preview ya, mantab",Demmy,Rhamadan,demmydwi,0,23,11,2020,5,42,4
+4914,0,hehehe siapp,Adithya Firmansyah,Putra,Adithya_13,0,23,11,2020,5,42,28
+4915,0,,Muhammad,Fadli Syukur,muhammadfadlisyukur,0,23,11,2020,18,9,34
+4925,0,,fumy,,ahfumy,0,24,11,2020,8,23,55
+4929,0,Terimakasih min🙏,fumy,,ahfumy,0,24,11,2020,8,25,5
+4944,0,Mau tanya gais... diluar materi flutter.,Alba,Purnama,,0,25,11,2020,2,3,13
+4945,0,"Ada nga yg perna mengalamin ""kook file"" yg terkena virus. Bagaimana cara mengatasinya?",Alba,Purnama,,0,25,11,2020,2,3,56
+4946,0,"Selamat pagi, izin share. Siapa tau mau mencoba untuk apply",Alex,,,0,25,11,2020,2,16,11
+4947,0,,SF,,andhikasudarman,0,25,11,2020,4,41,4
+4948,0,,Dani,Gunawan,dani_gunawan,0,25,11,2020,7,11,26
+4952,0,,Wisnu,G. Saputra,wisnuwiry,0,25,11,2020,8,59,40
+4956,0,"https://github.com/rrifafauzikomara/MovieApp Permisi mas @rifafauzi6 flutter modular architecture nya ini, untuk pasang DI itu gimana mas?",Wisnu,G. Saputra,wisnuwiry,0,25,11,2020,9,34,30
+4957,0,Apakah lebih baik tiap module itu independen sampai ke UI mas? atau hanya logic & state management saja?,Wisnu,G. Saputra,wisnuwiry,0,25,11,2020,9,35,36
+4958,4956,"Untuk repo ini belum ada DInya mas, kalo mau pake DI bisa aja tp perlu ada beberapa perubahan dl. Dan DInya bisa di jadikan 1 modul tersendiri.\n\nKalo mas cari contoh modular yang ada DInya, ini saya ada contohnya.\n\nhttps://github.com/rrifafauzikomara/NewsApp\n\nDInya bawaan dari package flutter_modular, jd kita gk perlu add DI lg, tinggal pake aja.",R Rifa Fauzi,Komara,rifafauzi6,0,25,11,2020,9,38,20
+4959,4958,"Oke thanks mas, langsung cek...",Wisnu,G. Saputra,wisnuwiry,0,25,11,2020,9,40,28
+4960,4958,Thanks mas 🙏,Wisnu,G. Saputra,wisnuwiry,0,25,11,2020,9,43,45
+4961,0,"Sama2, takis mas!",R Rifa Fauzi,Komara,rifafauzi6,0,25,11,2020,9,44,19
+4962,0,**Flutter - Intermediate**\nLearn Flutter mobile programming\n\n6 sections • 29 lectures • 3h 44m total length\n\n\n**FREE for 2 days\n\n**Rating: 4.2 (426 ratings)\nhttps://www.udemy.com/course/flutter-intermediate/?couponCode=E052B43BC3857BCB7CC6,Plus3,,SharePlus3,0,25,11,2020,9,55,37
+4963,0,,Fadhiil,Fadhlurrohman,Sayapadill,0,25,11,2020,10,59,40
+4964,0,"halo selamat sore,adakah yang tau cara mengatasi ini? di android studio nya sudah terpasang dan bisa digunakan",Fadhiil,Fadhlurrohman,Sayapadill,0,25,11,2020,11,0,3
+4965,0,tapi pas di cek di terminal gini,Fadhiil,Fadhlurrohman,Sayapadill,0,25,11,2020,11,0,12
+4966,0,atau ga masalah kalau misalnya saya terus ttp pakai flutter dg kondisi seperti ini?,Fadhiil,Fadhlurrohman,Sayapadill,0,25,11,2020,11,1,1
+4967,4966,"Gak ada masalah, kalau pluginnya sudah diinstall paling blm kedetect aja",Leonardo,Vinsen,leovinsen,0,25,11,2020,12,24,16
+4968,4967,baik mas terimaksih,Fadhiil,Fadhlurrohman,Sayapadill,0,25,11,2020,12,36,4
+4972,0,,Yudo,Hardiko,YudoJuni,628994750136,26,11,2020,4,42,11
+4978,0,"Siang mau tanya, untuk design seperti ini pakai widget apa aja ya? Klo saya cek ini sepertinya tidak pakai SliverAppBar",Agus,Saktiyono,agussaktiyono,0,26,11,2020,6,13,12
+4980,0,"ijin bertanya mas @rifafauzi6  kalo untuk library ini https://pub.dev/packages/language_configuration/example yang mas buat... ini ketika kita close aplikasi apakah bahasanya akan tetap tersimpan mas semisal bawaan bahasanya indonesia... terus saya ganti ke inggris, ketika aplikasi di close apakah bahasanya tetep jadi bahasa inggris ??",Raka,Fajar,RakaFS,0,26,11,2020,7,5,12
+4981,0,,,,,0,26,11,2020,7,8,34
+4985,4980,"Seinget saya tersimpan mas, karena di dalamnya ada shared pref. Tp btw itu libnya udah lama banget sih mas, kodenya masih acak2an hahha.",R Rifa Fauzi,Komara,rifafauzi6,0,26,11,2020,7,42,36
+4986,4985,"Okey mas siap makasih, saya coba pelajari duluu",Raka,Fajar,RakaFS,0,26,11,2020,8,19,17
+4990,4978,Kayanya bs pake bottomsheet  https://api.flutter.dev/flutter/material/BottomSheet-class.html,Leonardo,Vinsen,leovinsen,0,26,11,2020,12,32,11
+4991,0,,𝑖 ♡ 𝑦𝑜𝑢 𝑠𝑜 𝑚𝑎𝑡𝑐ℎ𝑎,,ilus7cha,0,26,11,2020,15,13,49
+5030,0,,foo-bar,,barbar195,0,28,11,2020,6,37,17
+5035,0,,SF,,andhikasudarman,0,28,11,2020,7,52,57
+5060,0,"**Thanks for 1K Subscribers** 🔥\n@onlyngoding\n\nSebagai bentuk perayaan atas pencapaian dari channel **OnlyCode**, kami ingin membagikan akses ke ratusan course premium dari Udemy melalui google Drive (bisa streaming dengan substitle/download). Namun, kami tidak membagikan linknya secara publik, kami berikan aksesnya lewat undangan email. Silahkan kontak kami melalui akun @onlycodeadmin dengan kode **UDEMY100** [TANPA KODE INI KALIAN TIDAK BISA MENDAPAT AKSES], terakhir tinggal tunggu balasan admin. \nIngat, tidak dipungut biaya, nantinya setelah dibalas kalian akan diminta untuk mengirimkan alamat email akun google kalian untuk aksesnya,  hanya alamat email SAJA.\n\nSekali lagi, kami ucapkan terima kasih, kami harap semua resource yang kami bagikan dapat bermanfaat untuk teman-teman semua.\n\nNote: chat kami untuk request aksesnya HANYA di t.me/onlycodeadmin\n\nMari buat teman-teman yang hobi ngoding, kalian bisa gabung ke channel kami hanya di:\n@onlyngoding @onlyngoding\n@onlyngoding @onlyngoding\n@onlyngoding @onlyngoding",Wibisono,,bwibi,0,29,11,2020,5,17,19
+5077,0,"halo teman2, sya baru sja mendapatkan tutorial membuat bookmark.",Alba,Purnama,,0,30,11,2020,12,8,25
+5078,0,"sya ingin merubahnya. sy ingin kalau sya tekan icon bookmarknya yg ada di tappbar pada halaman Bookmark flutter, maka isi halaman yang ada didalam Bookmark Flutter tersebut tersimpan tersimpan semua dihalaman bookmarks.",Alba,Purnama,,0,30,11,2020,12,10,29
+5079,0,,Alba,Purnama,,0,30,11,2020,12,10,29
+5080,0,,Alba,Purnama,,0,30,11,2020,12,10,29
+5081,0,,Alba,Purnama,,0,30,11,2020,12,10,29
+5082,0,,Alba,Purnama,,0,30,11,2020,12,10,29
+5083,0,,Alba,Purnama,,0,30,11,2020,12,10,29
+5084,0,,Alba,Purnama,,0,30,11,2020,12,10,29
+5085,0,hasil kodingan yg diatas.,Alba,Purnama,,0,30,11,2020,12,11,31
+5086,0,,Alba,Purnama,,0,30,11,2020,12,11,31
+5087,0,,Alba,Purnama,,0,30,11,2020,12,11,32
+5088,0,"Pada halaman Bookmark flutter, dia menggunakan List item. dan kalau saya mau disave di halaman bookmarks, saya harus klik satu persatu list itemnya. sya pengen merubahnya menjadi,,, ketika sya mengklik icon bookmark yang ada diappbar pada halaman  Bookmark Flutter, maka secara otomatis semua isi yang ada di halam Bookmark Plutter Tersave dihalaman Bookmarks tanpa harus mengklik 1 per 1 list Itemnya.",Alba,Purnama,,0,30,11,2020,12,11,44
+5089,0,tolong gan,Alba,Purnama,,0,30,11,2020,12,13,15
+5090,5089,"itu kan dummy ya dta listnya , bsa aja kyanya tmbahin aja 1 method baru di class changenotifiernya itu buat bisa nmbah smua list skaligus ke listitemmodel nya, msal void addAlItems() dalem nya nmbah smua list pkai .addAll()🔥",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,30,11,2020,12,21,1
+5091,0,,,,,0,30,11,2020,14,26,2
+5095,0,"Mindshare kekurangan staf, dan semua pelamar bisa mendapatkan bonus magang sebesar 80.000 subsidi. Hanya hari ini, jika Anda menghadapi masalah pendanaan sekarang, maka Anda harus memilih tim yang baik dan menciptakan kehidupan yang lebih baik. Mari kita mengatasi kesulitan bersama. Wabah, Allah memberkati kami, terima kasih Tuhan\nIni adalah tautan pendaftaran di perusahaan kami http://www.sharey287.com/#/register/6575298\nDirektur SDM akan mewawancarai Anda secara online\nWhatsApp:+6287784082534",,,,0,30,11,2020,14,26,15
+5111,0,https://twitter.com/FlutterIDN/status/1333746014986018817,Angga,Dwi,anggach14,0,1,12,2020,12,15,18
+5115,5111,,Leonardo,Vinsen,leovinsen,0,1,12,2020,13,8,17
+5116,0,,,,,0,1,12,2020,17,12,49
+5120,0,"#ask\nNumpang tanya, kalau format json nya nested array gini, apakah bisa dibikin listview builder di dalam sliver list?",Asto,Miwanda,astomiw,0,2,12,2020,4,35,19
+5121,0,"btw udah aku cobain listview builder di dalam sliver list, tpi muncul error ini",Asto,Miwanda,astomiw,0,2,12,2020,4,37,21
+5122,5121,coba ListViewnya dikasih `shrinkWrap: true`,Leonardo,Vinsen,leovinsen,0,2,12,2020,4,46,8
+5123,0,masih sama mas error nya,Asto,Miwanda,astomiw,0,2,12,2020,5,33,52
+5124,0,flutter oprec,SF,,andhikasudarman,0,2,12,2020,7,2,29
+5125,0,,SF,,andhikasudarman,0,2,12,2020,7,2,29
+5126,0,gajinya OK,SF,,andhikasudarman,0,2,12,2020,7,2,30
+5127,0,-1 orang tim member,SF,,andhikasudarman,0,2,12,2020,7,4,8
+5140,0,,Surya,,Sryhp,0,2,12,2020,15,22,5
+5150,0,**Clean Architecture is a VERY IMPORTANT Flutter concept**\n\nHere is a great Clean Architecture course directed by the one and only [Reso Coder](https://www.youtube.com/c/ResoCoder):\n\nhttps://www.youtube.com/playlist?list=PLB6lc7nQ1n4iYGE_khpXRdJkJEp9WOech\n\n__I actually used that course while creating my app__\n\n**So should definitely check it out🔥\nP.S - This course is for experts only😉**,Plus3,,SharePlus3,0,2,12,2020,21,9,30
+5163,0,,,,,0,3,12,2020,6,40,4
+5174,0,,︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎,,sandiaris,0,4,12,2020,3,18,48
+5175,0,gan mau nanya cara buat kayak gini kata kuncnya apa ya?,︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎ ︎ ︎ ︎︎,,sandiaris,0,4,12,2020,3,19,12
+5176,0,Row,Adithya Firmansyah,Putra,Adithya_13,0,4,12,2020,3,22,23
+5177,0,,Angga,Dwi,anggach14,0,4,12,2020,12,21,23
+5178,0,"Halo Teman-teman!\n\nDi akhir tahun 2020 ini, Flutter Indonesia bersama dengan Udacoding kembali lagi nih dengan event kerennya, yaitu ""Flutter Indonesia UI Challenge""!\n\nChallenge kali ini difokuskan untuk memperlihatkan seberapa jagonya para Flutter developer di Indonesia dalam mengembangkan UI aplikasi yang keren dan kece.\nPada challenge ini, kalian para developer bisa membuat UI aplikasi dengan topik yang sudah kami tentukan.\n\nNah apa aja sih topiknya?\n- Clock App (Aplikasi Jam)\n- Water Glass App (Aplikasi Gelas Air Minum)\n- Weather App (Aplikasi Cuaca)\n- Ruler App (Aplikasi Penggaris)\n- Calculator App (Aplikasi Kalkulator)\n\nKalian boleh bebas memilih salah satu dari kelima topik aplikasi tersebut, lalu kalian bisa submit ke link submission yang ada pada halaman media sosial kami.\n\nHadiahnya apa aja sih? Hadiahnya akan diberikan kepada 10 orang pemenang, jadi jangan takut ga dapet hadiah ya!\n\nJuara 1,2 dan 3, akan mendapatkan Kaos Eksklusif dan Goodies Flutter\nJuara 4-10, akan mendapatkan Goodies Flutter\n\nSemua hadiah tersebut merupakan persembahan dari Udacoding dan Flutter Indonesia.\n\nKriteria penilaiannya apa aja sih?\nKami menilai hanya dari segi estetika UI aplikasi teman-teman, jadi jangan khawatir kalau yang baru belajar Flutter nanti ga akan menang ya!\n\nNah, terakhir cara ikutannya gimana ya?\n- Pertama, kalian bisa memilih salah satu topik diatas, lalu membuat aplikasi yang kalian pilih\n- Selanjutnya, push kode aplikasi yang telah kalian buat ke public Git repository pilihan kalian\n- Lalu, Kalian bisa buka link ini https://bit.ly/flutter-id-ui-challenge-20 dan isi data diri kalian serta link dari Git repository kalian\n- Voila! Kalian tinggal tunggu aja pengumumannya, kalau kalian menang, hadiah akan dikirim ke rumah kalian masing-masing (bukan rumah mimin ya).\n\nPeriode submission-nya dari hari ini (4 Desember), sampai 20 Desember ya. Jadi kalian punya waktu ~2 Minggu untuk mengerjakannya.\n\nJadi, tunggu apa lagi? yuk ikutan challenge ini!\nHappy Hacking!\n#flutter #flutterdev #flutterIDN",Angga,Dwi,anggach14,0,4,12,2020,12,21,27
+5179,0,,SF,,andhikasudarman,0,4,12,2020,13,14,56
+5180,5178,,Leonardo,Vinsen,leovinsen,0,4,12,2020,13,29,10
+5182,0,"Halo semua, yang belum tahu untuk menggunakan custom Icon di Flutter, bisa cek Blog ini ya, terima kasih hehe\n\nhttps://kotakode.com/blogs/3059/Custom-Icon---Flutter",Adithya Firmansyah,Putra,Adithya_13,0,5,12,2020,6,16,2
+5183,0,,Abu,Aziz,abuzaio,0,6,12,2020,1,25,43
+5195,0,,Kenang,🐨,prikenang,0,6,12,2020,10,31,26
+5214,0,,Far,,faridahf,0,8,12,2020,8,15,30
+5236,0,,Gatot,,wysiwyg_99,0,9,12,2020,18,40,2
+5243,0,,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,45,8
+5247,0,assalamualaikum,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,57,54
+5248,0,izin promosi yah,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,58,4
+5249,0,,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,58,13
+5250,0,Link nya sebelah sini yah : https://bit.ly/ngajicloud,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,58,16
+5251,0,"*FYI : Dan tentunya masih ada beberapa webinar yang lainnya yah temen - temen semua. Dan insyaallah\nwebinar series menjadi dari awal dari 'Hackathon Santri', sebuah event yang mempertemukan\nmasalah santri dengan solusi teknologi. Terimakasih teman - teman semua atas perhatiannya\nIkuti terus updatenya dan jangan lupa follow IG nya Hackathon Santri : https://instagram.com/hackathonsantri",Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,58,23
+5252,0,makasih,Ilzam,Mulkhaq,Ilz4m,0,10,12,2020,2,58,24
+5256,0,Selamat siang..,Fauzi,Arda,fauziarda,0,10,12,2020,6,49,55
+5257,0,"#ask\nMau tanya , apa  Pytorch bisa di gunain di aplikasi Flutter?",Fauzi,Arda,fauziarda,0,10,12,2020,6,51,3
+5258,0,"Saya mau membuat aplikasi Machine Learning di flutter, yg modelnya sebelumnya saya buat dengan menggunakan Pytorch,",Fauzi,Arda,fauziarda,0,10,12,2020,6,52,17
+5259,0,Ada yg pernah coba Pytorch di Flutter?,Fauzi,Arda,fauziarda,0,10,12,2020,6,52,37
+5263,0,#ask\n\nDisini ada yang pake lint di project Flutter? Kira2 ada gk ya library semacam lint yang support ngecek ini.\n\n1. https://github.com/passsy/dart-lint/issues/12\n2. https://github.com/passsy/dart-lint/issues/25,R Rifa Fauzi,Komara,rifafauzi6,0,10,12,2020,17,7,30
+5264,5258,https://pub.dev/packages/pytorch_mobile\nCoba ini mas,Umar,Fadhlurrachman,umarfadhlur,0,11,12,2020,3,9,57
+5265,0,"Maaf tapi saya tidak terlalu paham. Soalnya belum pernah pake pytorch, biasanya pake tensorflow lite 😅",Umar,Fadhlurrachman,umarfadhlur,0,11,12,2020,3,11,13
+5266,4978,RN bisa UXnya gojek,Wira,,W_Neo,0,11,12,2020,11,17,48
+5270,0,,Mitchell,Chris,Mitchellchris,0,12,12,2020,0,36,47
+5274,0,,mpj,,empeje,0,12,12,2020,5,20,52
+5283,5265,Gpp.. btw Terima kasih mas ^^,Fauzi,Arda,fauziarda,0,12,12,2020,13,24,1
+5284,5283,Sama sama mas. Semoga dilancarkan dan dimudahkan..,Umar,Fadhlurrachman,umarfadhlur,0,12,12,2020,13,24,23
+5285,0,"```warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 8.0, but the range of supported deployment target versions is 9.0 to 14.2.99. (in target 'PromisesObjC' from project 'Pods')\n    warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 8.0, but the range of supported deployment target versions is 9.0 to 14.2.99. (in target 'path_provider_windows' from project 'Pods')\n    warning: The iOS deployment target 'IPHONEOS_DEPLOYMENT_TARGET' is set to 8.0, but the range of supported deployment target versions is 9.0 to 14.2.99. (in target 'camera' from project 'Pods')```\nSelamat malam, apakah ada yg pernah mengalami error seperti ini? Selama ini build project ios di flutter aman-aman saja, baru kejadian hari ini. Thanks",Idris,,idrriss,0,12,12,2020,17,34,7
+5286,0,,Abdullah Azzam,,ajam_jali,0,13,12,2020,1,35,47
+5290,5285,"Mungkin krn baru upgrade ke Flutter 1.22, soalnya di versi ini minimum version iOS dinaikkan dr 8.0 ke 9.0",Leonardo,Vinsen,leovinsen,0,13,12,2020,2,5,28
+5291,5290,Siang ini dirun malah bisa sendiri 😂,Idris,,idrriss,0,13,12,2020,7,19,18
+5292,0,"**Building a social network with FLUTTER and FIREBASE.**\nCreating a social network like FACEBOOK , INSTAGRAM , TWITTER ecct.\n\n19 sections • 63 lectures • 9h 2m total length\n\n\n**FREE for 2 days\n\n**Rating: 0.0 (0 ratings)\nhttps://www.udemy.com/course/building-a-social-network-with-flutter-and-firebase/?couponCode=DARSLEARNING",Plus3,,SharePlus3,0,13,12,2020,11,20,43
+5311,0,Selamat pagi semua.. ^^,Fauzi,Arda,fauziarda,0,13,12,2020,19,31,28
+5312,0,"#ask \nMau tanya dan minta sarannya,\nGimana cara2 bikin UI yg responsive tanpa harus bikin lanyak layout untuk setiap jenis devive dan orientasi?",Fauzi,Arda,fauziarda,0,13,12,2020,19,33,33
+5313,0,*device,Fauzi,Arda,fauziarda,0,13,12,2020,19,34,9
+5332,5312,Pake media query,Konan edogawa,,Puriyadi,0,14,12,2020,0,31,34
+5345,5312,"Pake layout builder bisa, media query bisa",Dimas,Imameza,dimaseza,0,14,12,2020,2,7,51
+5356,4978,Bisa di cek dsni mas\n\nhttps://github.com/rrifafauzikomara/gojek4.0-clone,R Rifa Fauzi,Komara,rifafauzi6,0,14,12,2020,10,40,33
+5357,5263,"Up, kalo ada yg tau kabarin ya guys. Mayan buat code review jd bisa di detect di menu `Dart Analyst`",R Rifa Fauzi,Komara,rifafauzi6,0,14,12,2020,10,46,2
+5358,5356,"thanks banget mas, kebetulan sedang mencari desain yg mirip gojek 🙏",Idris,,idrriss,0,14,12,2020,13,21,35
+5359,0,,Kiky,,,0,14,12,2020,14,14,50
+5368,0,/stat@combot,Fauzi,Arda,fauziarda,0,15,12,2020,17,41,34
+5373,0,/stat@combot,Idris,,idrriss,0,16,12,2020,1,24,57
+5374,0,Total messages: 5373,Combot,,combot,0,16,12,2020,1,24,57
+5375,0,"Halo semua, saya lagi butuh orang buat custom audio push notification firebase flutter..\n\nSekiranya ada yang minat bisa chat saya ya, terimakasih..",,,,0,16,12,2020,3,30,21
+5380,0,,Hariyadi,,Hariyadi77,0,17,12,2020,1,24,19
+5384,5357,Klo pedantic udh dicoba belum?,Muhammad Dafi,,dafinoer,0,17,12,2020,1,38,25
+5385,0,https://dart-lang.github.io/linter/lints/ Kalau di sini belum ada berarti di dart belum nyediakan fiturnya,Wisnu,G. Saputra,wisnuwiry,0,17,12,2020,2,5,47
+5386,5384,Ini aku cek jg blm ada sih,R Rifa Fauzi,Komara,rifafauzi6,0,17,12,2020,5,11,53
+5387,0,,eki,,rezkirahm,0,17,12,2020,12,16,40
+5394,0,,Imam,Agustian Nugraha,imam_an_15,0,17,12,2020,16,22,29
+5398,0,"#ask\nSelamat pagi, izin bertanya temen temen. Saya mau buat aplikasi untuk scan produk barang dengan barcode. Barcode yang ada pada barang itu kan harus berisi deskripsi produknya, nah cara memasukkan deskripsi barangnya itu kita harus bikin web servicenya dulu kah? Atau ada cara lain kah? Terima kasih.",Gamalliel,Sharon,gmllshrn,0,18,12,2020,1,50,8
+5399,0,,Ju Silva,,jusilver1,0,18,12,2020,4,41,2
+5403,5398,"https://play.google.com/store/apps/details?id=pa.bogor.sempur\n\nSaya buat sperti ini, QRcode/Barcode isiannya data untuk di cek lebih lengkap datanya di server (API/Web Service)\n\nJadi data yg di QR hanya id/nomor/kode primary lalu di cocokan datanya ke server",͏͏,͏͏,kurangartos,0,18,12,2020,4,56,56
+5404,5403,Okee terima kasih banyak mas,Gamalliel,Sharon,gmllshrn,0,18,12,2020,5,34,51
+5408,0,,Rizki,Adi,riskiadisp,0,18,12,2020,11,59,2
+5412,0,"Ada case gini, Klo misalnya dalam satu home ada request bbrapa api buat tampilan, itu enaknya di await semua apa gmana ya?\n\nKlo di await semua kykmya kelamaan deh. Ada ide ga best practicenya?",Muhammad Dafi,,dafinoer,0,18,12,2020,13,14,46
+5413,0,Oiya pke BLoC yaa itu casenya.,Muhammad Dafi,,dafinoer,0,18,12,2020,13,14,56
+5417,5412,"mungkin bisa pake webview sih, kalau ecommerce kebanyakan pake webview, karena kalau langsung coding di mobile nya dengan API bakal lama, satu2 nya ya mungkin webview, atau biar user nggk nunggu lama, mungkin bisa di kasih shimmer buat ngasih info kalau itu sedang loading",Dimas,Imameza,dimaseza,0,19,12,2020,2,25,3
+5418,5413,State sama event / listener nya dibikin banyak aja. Jadi tiap habis load 1 section dia bakalan nambah datanya.,Ihwan,¯\(ツ)/¯,ihwanid,0,19,12,2020,2,30,43
+5419,5418,"Berarti klo null true, kasih shimmer ya mas?",Muhammad Dafi,,dafinoer,0,19,12,2020,3,5,53
+5420,5417,"Klo casenya dia ga ada tampilan web, gmna pak? Just API only?",Muhammad Dafi,,dafinoer,0,19,12,2020,3,7,32
+5421,5420,"iya, tambahin kondisi ketika loading tampilin indicator atau shimmer",Dimas,Imameza,dimaseza,0,19,12,2020,3,13,0
+5425,0,"Mobile Apps Developer\n\nBerkat Andalan Perkasa\n📍Jakarta Raya\n💰IDR 10.000.000 - IDR 18.000.000\n\n\nDeskripsi Pekerjaan\n\nKandidat harus memiliki setidaknya Gelar Sarjana di Ilmu Komputer/Teknologi Informasi atau setara.\n\nSetidaknya memiliki 2 tahun pengalaman dalam bidang yang sesuai untuk posisi ini.\n\nKemampuan yang harus dimiliki: Mengerti Design Pattern Pada Flutter, Menguasai Sqlite dan Time management, menguasai android dan ios apps development, Menguasai UI/UX Development, dapat memahami business process, mampu bekerja dalam tim, memiliki etos kerja yang baik\n\nLebih disukai Pegawai (non-manajemen & non-supervisor) khusus dalam IT/Komputer - Perangkat Lunak atau setara.\n\nhttps://www.jobstreet.co.id/id/job/mobile-apps-developer-3393729?jobId=jobstreet-id-job-3393729&sectionRank=1&token=0~9607ae6f-958f-4368-bc44-abe3a310ce77&fr=SRP%20Job%20Listing",Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,19,12,2020,13,0,55
+5429,0,"Pagi semua, izin share Blog mengenai Localization di Flutter\n\nhttps://kotakode.com/blogs/3685/Internationalization-dan-Localization-Flutter",Adithya Firmansyah,Putra,Adithya_13,0,19,12,2020,22,28,37
+5430,5425,Ini bisa remote?,Bukhori,,bukhori_muslim,0,19,12,2020,22,35,39
+5431,0,,Tommy,R,tommyrchmdn,0,21,12,2020,7,16,5
+5441,0,,Khaerul,,rkkhaerul,0,21,12,2020,13,50,15
+5445,0,,Chompions,Sawelo,Chompions,0,22,12,2020,12,13,58
+5455,0,,Wahyu,,Butho0,0,22,12,2020,15,30,55
+5467,0,,,,,0,23,12,2020,2,44,10
+5471,0,,Moh Robiul,Iqbal,iroblqboeq,0,23,12,2020,4,52,11
+5475,0,,MagicalLoli,,byneet,0,23,12,2020,5,17,49
+5477,0,8281,MagicalLoli,,byneet,0,23,12,2020,5,19,11
+5481,0,,Derry,Ikhsan,IkhsanD,0,23,12,2020,6,4,20
+5485,0,,Aditya,,,0,23,12,2020,9,22,56
+5489,0,,Rama,,ramanaputra,0,23,12,2020,11,30,27
+5495,0,,Vincent,,vincentchndr,0,23,12,2020,12,2,48
+5500,0,,Serapion,Kusuma,,0,23,12,2020,12,15,25
+5504,0,,Herlambang,K,Herlambangk,0,23,12,2020,12,18,23
+5508,0,,Julpi,,julpay,0,23,12,2020,12,19,17
+5512,0,,R,,,0,23,12,2020,12,20,46
+5516,0,,Husni,,hrfmt,0,23,12,2020,12,21,19
+5522,0,,R. Rojab Maulana Akbar,,RRMA1710,0,23,12,2020,12,46,9
+5527,0,,Vicco,,Vicco7s,0,23,12,2020,13,18,13
+5531,0,,zaenal,,Zaenalarf,0,23,12,2020,14,48,47
+5535,0,malam temen - temen semua,Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,15,10,13
+5536,0,"yuk, yang mau ikutan hackathon santri, hackathon pertama yang akan di adakan di ponpes",Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,15,10,21
+5537,0,benefitnya lihat sendiri dah di poster,Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,15,10,28
+5538,0,Daftar disini : https://bit.ly/registhackathonsantri2021,Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,15,10,28
+5539,0,,Ilzam,Mulkhaq,Ilz4m,0,23,12,2020,15,10,34
+5540,0,,Mikhail,Tal,mikhailtal4,0,23,12,2020,15,44,12
+5547,0,Mas @rifafauzi6 untuk library `flutter_modular`  selama ini tingkat kestabilanya gimana mas?,Wisnu,G. Saputra,wisnuwiry,0,24,12,2020,3,43,48
+5548,0,,yanto,123,yanto12345678,0,24,12,2020,9,17,2
+5552,0,,Dhony,2015,dhony2015,0,24,12,2020,13,42,30
+5595,0,knpa ya?,Alba,Purnama,,0,27,12,2020,2,26,47
+5596,0,,Alba,Purnama,,0,27,12,2020,2,26,47
+5597,0,Sy mau buat bookmark,Alba,Purnama,,0,27,12,2020,2,28,6
+5601,0,,Rizki,,RizkiSA,0,27,12,2020,8,13,56
+5625,5547,"So far aman sih mas, udah saya pake di project kantor jg untuk prod release",R Rifa Fauzi,Komara,rifafauzi6,0,27,12,2020,23,48,19
+5626,0,,.,.,Butocakil,0,27,12,2020,23,55,53
+5635,0,ada yang tau cara implementasi pagination/lazy load di dalam dropdown?,azzam,,,0,30,12,2020,4,50,13
+5636,0,,Aditya,,,0,30,12,2020,5,37,33
+5640,0,Cara ngilangin simbol + nya gimana ya,.,.,Butocakil,0,30,12,2020,8,1,16
+5641,5640,Dihapus codenya,Bukhori,,bukhori_muslim,0,30,12,2020,9,7,17
+5642,5641,"Oiya udah nemu, nyempil ternyata wkwkwk",.,.,Butocakil,0,30,12,2020,9,9,7
+5648,5641,Satan bless you,Hedi,Zakia,hedi1712,0,30,12,2020,10,23,9
+5649,0,Ganti icon nya di menu mana ya,.,.,Butocakil,0,30,12,2020,12,3,48
+5650,5649,di manifest.xml,͏͏,͏͏,kurangartos,0,30,12,2020,12,23,49
+5660,0,,A.jr,,Jr222,0,31,12,2020,20,58,20
+5664,0,How to fix this error,A.jr,,Jr222,0,31,12,2020,21,1,17
+5665,0,Ngerender toko online... Ngehank 😂😂😂,.,.,Butocakil,0,1,1,2021,16,45,41
+5669,5649,Coba Pake plugin flutter launch icon.,Aris,Pras,,0,2,1,2021,0,16,23
+5670,5665,,Ihwan,¯\(ツ)/¯,ihwanid,0,2,1,2021,3,57,28
+5679,5649,pake ini > bit.ly/3b2FjzQ > trus copy & replace di folder res,Dicky,Reynaldi,dickyrey,0,2,1,2021,11,55,40
+5686,0,,,,,0,4,1,2021,10,9,42
+5695,0,@lokerflutterindonesia,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,5,1,2021,10,55,42
+5696,0,https://youtu.be/TMKkcocvZjQ,ekoyudhi,,ekoyudhi,0,5,1,2021,11,13,20
+5732,0,,Muhammad,Sulthan Al Ihsan,sulthanalihsan,0,10,1,2021,4,7,7
+5736,0,,Satrya,,satryacode,0,11,1,2021,1,6,33
+5740,0,,,,,0,11,1,2021,5,6,1
+5742,0,"#ASK \nHi everyone, ada yg pernah implement Quickblox?",,,,0,11,1,2021,5,6,22
+5745,0,wah mantul nih,SF,,andhikasudarman,0,11,1,2021,8,23,31
+5751,0,"Assalamu'alaikum. Sya mau tanya.. digroup ini apakah ada yg pernah buat aplikasi quizz acak, yg menerapkan algoritma  LCM(Linear Congruent Method).",Alba,Purnama,,0,12,1,2021,14,14,0
+5752,0,"#oot\n\nSelamat pagi semua, izin membagikan Blog saya mengenai cara membuat AutoSlider di Flutter, terima kasih  semoga bermanfaat 😄\n\nhttps://kotakode.com/blogs/4505/Membuat-Auto-Slider-dengan-Carousel-Slider",Adithya Firmansyah,Putra,Adithya_13,0,12,1,2021,20,35,43
+5762,0,"Halo selamat malam, mau nanya. Apakah ada yg pernah pake flutter_google_map. Kasusnya pas marker berhenti didrag dpt akan posisi terbaru. Saya udh nyoba seperti kodingan di bawah, tetapi print di function `onDragEnd` tidak ada mencetak posisi:\n```Set<Marker> createMarker() {\n  var marker = Set<Marker>();\n  marker.add(\n    Marker(\n      markerId: MarkerId(\n        currentLocation.toString(),\n      ),\n      position: LatLng(currentLocation.latitude, currentLocation.longitude),\n      draggable: true,\n      icon: pinLocationIcon,\n      onDragEnd: (position) {\n        print('posisi setelah drag berhenti ${position.latitude}');\n      }\n    ),\n  );\n  return marker;\n}```",Idris,,idrriss,0,13,1,2021,17,1,52
+5763,0,,Diyawan,Diyawan,diyawan,0,13,1,2021,19,7,14
+5767,0,,L,Y,,0,14,1,2021,0,17,20
+5771,5762,sama lagi pengen coba nge drag marker.. masih belum bisa,Raka,Fajar,RakaFS,0,14,1,2021,5,3,43
+5781,0,,Jerry Sibarani,,,0,15,1,2021,9,30,35
+5782,0,"#ASK\n\nuntuk cara running aps yang kita buat di library ini https://pub.dev/packages/device_preview  gimana ya??, saya udah setting cman masih bingung cara pakenya gmana",Raka,Fajar,RakaFS,0,15,1,2021,11,27,13
+5783,5782,"setelah installasi package nya selesai, kembali ke main .dart lalu di fungsi mainnya  diubah kyk gini :",Fauzi,Arda,fauziarda,0,15,1,2021,13,55,46
+5784,0,,Fauzi,Arda,fauziarda,0,15,1,2021,13,55,53
+5785,5783,udah bisa mas.. salah penempatan wkwkw,Raka,Fajar,RakaFS,0,15,1,2021,13,58,26
+5786,0,thank u,Raka,Fajar,RakaFS,0,15,1,2021,13,58,27
+5787,5782,Bukannya tinggal di buat di dalem runmyappnya kan? Emang mau setting gmna?,Muhammad Dafi,,dafinoer,0,15,1,2021,13,58,43
+5788,5786,,Fauzi,Arda,fauziarda,0,15,1,2021,13,59,40
+5789,5787,udah jalan mas...hehehe,Raka,Fajar,RakaFS,0,15,1,2021,14,49,17
+5793,0,,Tiara,,Tiara1996,0,16,1,2021,20,51,46
+5820,0,5015,ekoyudhi,,ekoyudhi,0,17,1,2021,12,32,20
+5822,0,,Yohanes,,YohanesYOR,0,17,1,2021,13,55,57
+5824,0,888,Yohanes,,YohanesYOR,0,17,1,2021,13,56,45
+5828,0,Selamat malam semuanya.. ^^,Fauzi,Arda,fauziarda,0,17,1,2021,16,41,56
+5829,0,#ask,Fauzi,Arda,fauziarda,0,17,1,2021,16,41,58
+5830,0,,Fauzi,Arda,fauziarda,0,17,1,2021,16,43,20
+5831,0,"langkah mendapatkan error :  \nSaya baru pertama kali  mau publish app ke playstore,  setelah ikutin semua instruksi di google play console, trus di review sebelum rilis, gk ada error tapi adanya warning kyk gitu..\n\npertanyaan: \nada yg tau itu penting atau gk ya? dan ada yg tau solusi yg sebaiknya gimana ya?",Fauzi,Arda,fauziarda,0,17,1,2021,16,47,19
+5859,0,,Agatha,,Agatha_28,0,18,1,2021,13,49,12
+5866,0,"PT. TIGA OETAMA PERISAI\n\nKami Perusahaan asli Indonesia yang baru berjalan dan akan berkembang mencari anak bangsa yang ahli di bidang Mobile Apps dengan persyaratan sebagai berikut:\n\n 1. Mampu membuat design aplikasi mobile (UI Designer)\n 2. Mampu menggunakan aplikasi Figma (UI Designer)\n 3. Mampu membuat aplikasi mobile menggunakan Flutter SDK (Mobile Apps Developer)\n 4. Mampu menggunakan Firebase (Mobilre Apps Developer)\n 5. Fresh Graduate dipersilahkan melamar\n 6. Dapat bekerja dalam tim\n 7. Dapat bekerja onsite atau di tempat (kota Jakarta)\n 8. Hari Kerja Senin - Jumat\n 9. Biaya makan, transportasi dan tempat tinggal di tanggung oleh perusahaan\n 10. Peralatan berupa komputer/laptop di sediakan oleh perusahaan.\n 11. Range Gaji : 10jt - 20jt\n\nBuat yang berminat untuk bergabung dapat mengirimkan CV dan data nya ke whatsapp, telegram dengan nomor: 082139893927 (dengan Bpk. Gatot) atau ke email di admin@pt-dlam.com. Terima kasih dan sampai jumpa bersama kami.\n\n#Jakarta #android #iOS #Flutter #web #UI/UX",Gatot,,wysiwyg_99,0,19,1,2021,1,6,25
+5867,5831,https://stackoverflow.com/questions/62568757/playstore-error-app-bundle-contains-native-code-and-youve-not-uploaded-debug,Wisnu,G. Saputra,wisnuwiry,0,19,1,2021,1,42,20
+5868,5867,Thanks mas^^,Fauzi,Arda,fauziarda,0,19,1,2021,1,52,32
+5869,0,"Btw flutter masih rewel ya buat update ke gradle versi terbaru, :(",Fauzi,Arda,fauziarda,0,19,1,2021,1,53,57
+5870,0,--Ask--\n\nAda yg tau cara ganti method http GET di widget image.network() ato cacheimagenetwork() biar jadi POST? \n\nKali aja ada yg pernah nyoba..\n\nAto flutter ngk mendukung untuk akses image network via url yg make POST method?\n\nThanks,Syarif,Hidayatullah,,0,19,1,2021,4,19,13
+5871,0,,Ihwan,¯\(ツ)/¯,ihwanid,0,19,1,2021,6,4,14
+5872,0,Baru tahu ada image yang di load pake post.,Ihwan,¯\(ツ)/¯,ihwanid,0,19,1,2021,6,4,38
+5873,0,"Hmm..  sama, baru tau juga..^^",Fauzi,Arda,fauziarda,0,19,1,2021,7,22,47
+5874,5870,Wow.. image aja make method POST. Over Engineering,Wisnu,G. Saputra,wisnuwiry,0,19,1,2021,12,20,6
+5875,5870,"Kalau benar emang makai method post, perlu hit API terlebih dahulu untuk download imagenya. Dan kemudian load image dengan `image.memory`",Wisnu,G. Saputra,wisnuwiry,0,19,1,2021,12,21,46
+5876,0,Selamat malam,Wege| HaD,,Wege84,6285100060039,19,1,2021,13,17,26
+5877,0,"Sy founder startup HaD sedang mencari cofounder (hacker), programer Flutter yang mau bekerja sama dengan saya dalam membuat aplikasi Server-Klien. Prototipenya ada di link berikut: https://bit.ly/HaD88. \nBagi yang tertarik gabung, bakalan ada bagi hasil 25% dari pendapatan.",Wege| HaD,,Wege84,6285100060039,19,1,2021,13,19,6
+5878,0,"Jadi, tidak ada gaji.",Wege| HaD,,Wege84,6285100060039,19,1,2021,13,19,45
+5879,0,Saya belum punya dana untuk itu.,Wege| HaD,,Wege84,6285100060039,19,1,2021,13,19,59
+5881,0,"Potensi pemasukan utk 100,000 user dapat mencapai 300 juta Rupiah per bulannya.",Wege| HaD,,Wege84,6285100060039,19,1,2021,13,40,49
+5883,5881,Bagus bang. Semangat!,Ihwan,¯\(ツ)/¯,ihwanid,0,20,1,2021,1,35,5
+5884,0,"Banyak cara bang, tergantung kebutuhan. Bisa pakai MediaQuery , LayoutBuilder , OrientationBuilder , FittedBox dan AspectRatio widgets.\n\nhttps://flutter.dev/docs/development/ui/layout/responsive",Ihwan,¯\(ツ)/¯,ihwanid,0,20,1,2021,1,37,33
+5885,0,Lah question nya hilang 🤔,Ihwan,¯\(ツ)/¯,ihwanid,0,20,1,2021,1,38,5
+5886,0,Thanks mas...wkwk,Fauzi,Arda,fauziarda,0,20,1,2021,1,47,33
+5887,0,#ASK\n\nada yang tau knp solidBottomSheet ke isi full terus.. pdhal udah saya set max min heightnyaa,Raka,Fajar,RakaFS,0,20,1,2021,6,0,31
+5888,0,,rafah,love,rafahlovers,0,20,1,2021,22,6,55
+5892,5881,Tak japri bang,Bukhori,,bukhori_muslim,0,22,1,2021,5,57,8
+5893,0,,,,,0,22,1,2021,6,9,42
+5897,0,,,,,0,22,1,2021,6,11,33
+5901,0,,,,,0,22,1,2021,6,15,55
+5905,0,,,,,0,22,1,2021,6,45,19
+5909,0,,,,,0,22,1,2021,6,47,0
+5913,0,,,,,0,22,1,2021,6,48,42
+5917,0,,Nur,Anisah,anisa_sz,0,22,1,2021,9,30,18
+5927,0,,Joungiskeng,@meto,Joungiskeng,62811107569,22,1,2021,19,48,2
+5931,0,"Assalamualaimkum.\n\nHalo teman - teman semua, skill sih boleh selangit, tapi apa daya kalau skill tersebut\n'dijualnya' sangat sulit. Apakah teman - teman pernah mengalami masalah yang demikian...?,\nsama admin juga..\n\nDan tentunya, kali ini di ngaji teknologi webinar series bersama pak edwin, senior consultant\ndari Redhat Global Professional Service Asia Pasific. Kita akan mengupas metodologi dalam\nmemasarkan skill kita dengan benar.., insyaallah daging semua isinya.\n\n\n* Ada giveaway untuk 2 peserta yang mengutarakan pertanyaan terbaik saat webinar senilai 50K\n* cantumkan email ketika bertanya via slido\n* link zoom akan di bagikan via email menjelang webinar akan dimulai\n\n* [RALAT] Webinar akan di mulai jam 18.30\n\nLink Daftar Disini : http://bit.ly/webinarhs18\nKalau Mau Tanya disini : https://app.sli.do/event/nxkzwqld\n\nKalau mau tanya - tanya disini : https://kirimwa.id/tanya-hackahon-santri\n\n#Gratis100% #HackathonSantri #SantriKokNgoding #SantriNjoso\n#IndonesiaBelajar #NgajiTeknologi #KawanKoding #RantauDev\n#Redhat #WajibIkut #JVMIndonesia #MalmingProduktif",Ilzam,Mulkhaq,Ilz4m,0,23,1,2021,4,58,31
+5932,0,,Ilzam,Mulkhaq,Ilz4m,0,23,1,2021,4,58,38
+5933,0,,Ilzam,Mulkhaq,Ilz4m,0,23,1,2021,4,58,41
+5937,0,,,,,0,24,1,2021,0,9,46
+5947,0,,dani,,dhanizael,0,24,1,2021,11,36,59
+5955,0,#ask \n\nAda yang udah coba `BottomNavigationBar` with `PageView` using `CupertinoTabScaffold`?,,,,0,25,1,2021,10,4,47
+5961,0,,Arum,,,6289699567597,26,1,2021,13,36,0
+5963,0,Hii,Arum,,,6289699567597,26,1,2021,13,36,49
+5966,0,Hii,Arum,,,6289699567597,26,1,2021,13,38,42
+5967,0,Hi,Arum,,,6289699567597,26,1,2021,13,38,46
+5968,0,,Ihwan,¯\(ツ)/¯,ihwanid,0,26,1,2021,15,11,31
+5969,0,,rakha,firmansyah,RakhaZaN,6289509304941,26,1,2021,17,7,33
+5979,0,"#ASK\n\nada yang pernah coba pake alice ??\n\nkalo misalkan ada yang pernah, mungkin ada tau knp alic enampilin message navigator key to your application  ??",Raka,Fajar,RakaFS,0,28,1,2021,17,17,27
+5980,0,di material apps udah di pasang juga navigator key,Raka,Fajar,RakaFS,0,28,1,2021,17,17,36
+5981,0,#ask\n\ncara inisiasi data bagusan cara mana ya?,,,,0,29,1,2021,16,25,52
+6001,0,"halo, ada tutorial cara crud flutter dengan api adonis js ga ya? kalau ada boleh minta link tutornya?",Bagas,,akhibagas,0,2,2,2021,9,9,58
+6002,5981,"tergantung penggunaanya kak, kalau data sdh diketahui valuenya dari awal, maka penggunaan var a tidak masalah\n\nlain hal bila kakak tidak mengetahui value awal sebuah variable, lalu value variable tersebut didapatkan dr API, maka var b adalah crnya",michael,,iMicz,0,3,2,2021,13,20,10
+6003,0,,Tofan,Triwikrama,tofantriwikrama,0,5,2,2021,19,50,15
+6007,0,https://github.com/subosito/flutter-action,Izzan,Fakhril Islam,izznfkhrlislm,0,6,2,2021,14,18,33
+6008,0,"Misi agan2, ada yang kenal sama pemilik repo nya? Mau ngobrol2 hehe",Izzan,Fakhril Islam,izznfkhrlislm,0,6,2,2021,14,18,43
+6009,0,,Agung Siswo,,jagoangalus,0,7,2,2021,14,16,33
+6013,0,,,,,0,8,2,2021,3,32,36
+6015,0,,Syarif Hidayat,,,0,9,2,2021,5,25,18
+6022,0,"#ask\nmisi gaes numpang tanya, cara passing by reference ke statefullwidget gimana ya?",Asto,Miwanda,astomiw,0,10,2,2021,3,31,9
+6023,0,,arayhan_,,arayhanp,0,10,2,2021,9,5,51
+6025,0,,,,,0,10,2,2021,15,23,25
+6028,0,,Yeheskel,Febri Anto,kiel17,0,11,2,2021,16,19,46
+6030,0,Selamat malam salam kenal buat kakak² semua🙏,Yeheskel,Febri Anto,kiel17,0,11,2,2021,16,19,50
+6031,0,,Rifki,Arifin,Rifki_dolpin,0,12,2,2021,17,46,50
+6032,0,Selamat Malam semua,Wira,,W_Neo,0,13,2,2021,16,34,48
+6033,0,ada yang lagi open project & siap onsite gak?,Wira,,W_Neo,0,13,2,2021,16,35,22
+6042,6041,Hai semuanya,,,,0,15,2,2021,13,39,7
+6043,6041,Hai semuanya,,,,0,15,2,2021,13,39,24
+6044,6041,Hai semuanya,,,,0,15,2,2021,13,40,1
+6046,6045,Hai semuanya,,,,0,15,2,2021,13,43,40
+6047,6045,Hai semuanya,,,,0,15,2,2021,13,43,47
+6048,6045,Hai semuanya,,,,0,15,2,2021,13,43,54
+6051,6050,Hai semuanya,,,,0,16,2,2021,10,31,54
+6052,6050,Hai semuanya,,,,0,16,2,2021,10,32,0
+6053,6050,Hai semuanya,,,,0,16,2,2021,10,32,6
+6054,6050,Hai semuanya,,,,0,16,2,2021,10,32,11
+6055,6050,Hai semuanya,,,,0,16,2,2021,10,32,17
+6057,0,Hai,Rafiq,,calonsiswadotcom,0,16,2,2021,14,40,32
+6070,0,,,,,0,17,2,2021,1,55,25
+6074,0,Permisi mau tanya\nAda yang pernah ngalama pake plugin camera terus hasil gambarnya jadi gelap ? Ini device pake xiaomi,Putra,Utama,putrautama007,0,17,2,2021,6,57,26
+6078,0,,Rendi,Dwi,Rendiwithi,0,17,2,2021,9,50,26
+6085,0,,Faizal,Akhmad,faizalakhmad,0,17,2,2021,10,2,44
+6089,0,,Fatih,Seida,,0,17,2,2021,10,29,8
+6093,0,,Muhanmad Nurhuda,Hendrian,mnurhuda08,0,17,2,2021,10,32,56
+6097,0,,Muhammad,Hidayat,muhidayat03,0,17,2,2021,11,21,58
+6101,0,,Frank,Tumbu,,0,17,2,2021,11,41,19
+6105,0,,Triastono,Taufiq,,0,17,2,2021,11,42,17
+6107,0,,akbar,,pribadiakbar,0,17,2,2021,11,43,4
+6113,0,,Fahmi Nur,Rahman,fahmi_nr,0,17,2,2021,12,4,49
+6115,0,,Achmad Salim,Aiman,,0,17,2,2021,12,5,16
+6117,0,,,,,0,17,2,2021,12,5,33
+6127,0,,Riki,Yulianto,Rikiyulianto1507,0,17,2,2021,12,12,25
+6133,0,,AFauzi,,,0,17,2,2021,12,21,4
+6137,0,,Agis,R Herdiana,agisrh,0,17,2,2021,12,30,39
+6141,0,,Hasan,Unw,Hasan_525559,0,17,2,2021,12,45,28
+6145,0,,Ziad Alfian,,ziadalfian,0,17,2,2021,13,23,26
+6149,0,,Abang,Ulin,coklatmanisku,0,17,2,2021,13,35,54
+6153,0,,Dee,Donny,deedonny,0,17,2,2021,13,44,7
+6163,0,,Adam Wardana,,adamwardana25,0,17,2,2021,14,36,53
+6169,0,,Canra,Aripin,,0,17,2,2021,14,38,37
+6173,0,,Dede,Wandi,dede_wandi,0,17,2,2021,14,53,45
+6177,0,,alcofathir,,alcofathir,0,17,2,2021,14,57,58
+6181,0,,asaa,,asa_azn,0,17,2,2021,15,7,34
+6187,0,,Praditya,Nafiis Muhammad,pradityanafiis,0,17,2,2021,15,49,55
+6195,0,,Adri Sinaga,,adrisinaga,0,17,2,2021,18,14,23
+6202,0,,Tommy Anugrah,Sinaga,,0,18,2,2021,0,17,50
+6206,0,,syafriadi,get,syafriadiget,0,18,2,2021,0,36,57
+6210,0,,Ismail,,isumairu,0,18,2,2021,1,9,48
+6214,0,,Nug,,hallonug,0,18,2,2021,1,19,3
+6224,0,,Ramadhan,Cahyo,,0,18,2,2021,3,28,52
+6228,0,,agung,Imam,rezero00,0,18,2,2021,4,23,20
+6235,0,,pajarpurnamasidik,,,0,18,2,2021,6,51,53
+6239,0,,Darul,Dnc,,0,18,2,2021,6,53,11
+6243,0,,Aku,,,0,18,2,2021,9,33,35
+6247,0,Halo,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,6
+6248,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6249,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6250,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6251,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6252,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6253,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6254,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6255,0,,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,22
+6256,0,Jika ada yg tertarik,Rafiq,,calonsiswadotcom,0,18,2,2021,14,38,29
+6257,0,,SF,,andhikasudarman,0,19,2,2021,1,58,8
+6261,6257,Menarik mas sayang masih kuliah... Kalau ada magang flutter mas,Rendi,Dwi,Rendiwithi,0,19,2,2021,14,5,37
+6262,0,final year boleh mas haha,SF,,andhikasudarman,0,19,2,2021,15,5,0
+6263,0,,Fauzan,,fauzan264,0,19,2,2021,20,30,1

