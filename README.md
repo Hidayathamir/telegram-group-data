@@ -10,5 +10,5 @@ Column : `id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,mo
 source code : [get-telegram-group-data](https://github.com/Hidayathamir/get-telegram-group-data).
 
 ## Note
-1. count data : 1,865,827. In `count_data.ipynb`.
+1. count data : 1,873,148. In `count_data.ipynb`.
 2. I use `change_file_name.ipynb` to sync first id, last id, with file name in format `group-first_id-last_id.csv`

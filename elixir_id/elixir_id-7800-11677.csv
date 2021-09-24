@@ -1,0 +1,1169 @@
+id,reply_to_msg_id,text,first_name,last_name,username,phone,day_utc,month_utc,year_utc,hour_utc,minute_utc,second_utc
+7800,7799,"Wah, menarik. Di bidang apa nih?",Herdy,Handoko,hhandoko,0,10,7,2020,6,18,26
+7801,7800,Olahraga mas,Farhan,Rahmadi,Huntz20,0,10,7,2020,6,20,1
+7802,0,Insyallah Minggu ini jalanin event pertama kita,Farhan,Rahmadi,Huntz20,0,10,7,2020,6,20,56
+7806,0,,,,,0,11,7,2020,4,5,41
+7811,0,,zaenal,,Zaenalarf,0,13,7,2020,15,41,12
+7812,0,https://changelog.com/podcast/402/embed?source=twitter,Yadi,Rosadi,yrsdi,0,14,7,2020,0,39,18
+7813,0,👍,Agus,Susilo,susilolabs,0,14,7,2020,0,50,33
+7814,0,,Catur Eka,Januar Prasetyo,Caturekajanuarprasetyo,0,15,7,2020,0,54,4
+7815,0,,,,,0,15,7,2020,5,51,38
+7818,7797,Kantor saya juga. Trading platform.,,,,0,15,7,2020,9,9,29
+7819,0,,Ca,,tantyasaputra,0,16,7,2020,8,24,37
+7820,0,Elixir Conf 2020:\n\nhttps://2020.elixirconf.com,Herdy,Handoko,hhandoko,0,16,7,2020,8,41,21
+7821,0,kirain id hehehe,Farhan,Rahmadi,Huntz20,0,16,7,2020,8,43,40
+7822,0,"Haha, siapa yang mau bikin nih 😜",Herdy,Handoko,hhandoko,0,16,7,2020,8,44,26
+7823,0,semoga ada sponsornya :v,Farhan,Rahmadi,Huntz20,0,16,7,2020,8,48,27
+7824,0,"Dicoba 2021, mungkin situasinya lebih baik..",Dimas,,Dim_As_YP,0,16,7,2020,8,49,12
+7825,0,amiin heheheh,Farhan,Rahmadi,Huntz20,0,16,7,2020,8,49,33
+7826,0,kalo elixir blm tergabung ke perkodi yaa mas,Farhan,Rahmadi,Huntz20,0,16,7,2020,9,1,11
+7827,0,,Farih Zulula,,,0,16,7,2020,11,31,43
+7828,0,wah seru nih mimpinya pengen punya conf. Coba dimulai dari yang skala nya kecil dulu. Meetup misalnya. Enak nih lagi masa pandemi bisa dimulai dengan diskusi santai via online. Siapa hayo yang mau inisiasi,Riza 🦊🚀🎙🎥,,rizafahmi,0,16,7,2020,11,49,23
+7829,7828,Kayaknya volunter diri sendiri nih Riza 🤣,Herdy,Handoko,hhandoko,0,16,7,2020,12,5,52
+7830,7829,Wah susah pak. Bandwith saya sudah habis 😬,Riza 🦊🚀🎙🎥,,rizafahmi,0,16,7,2020,12,13,51
+7831,7828,Di tunggu om meetup'a hehewh,Farhan,Rahmadi,Huntz20,0,16,7,2020,13,12,44
+7832,7831,"haha, ngarep 😄",Riza 🦊🚀🎙🎥,,rizafahmi,0,16,7,2020,13,14,4
+7833,0,Kali aja terkabul om 😜,Farhan,Rahmadi,Huntz20,0,16,7,2020,13,14,22
+7834,0,bikin lah. saya mah support aja,Riza 🦊🚀🎙🎥,,rizafahmi,0,16,7,2020,13,18,12
+7835,0,"Mau bikin tapi saya masih blajar om, mungkin om om yang lain heheh biar Nemu hal hal baru",Farhan,Rahmadi,Huntz20,0,16,7,2020,13,19,34
+7836,0,"Kira"" topik apa nih yang bagus dibahas?",Herdy,Handoko,hhandoko,0,16,7,2020,14,46,22
+7837,0,"Mungkin dimulai dari introduction, buat gather yang mau coba elixir/erlang.",Dimas,,Dim_As_YP,0,16,7,2020,14,48,19
+7838,0,"Mulai dari sana juga, panjang sih ceritanya.",Dimas,,Dim_As_YP,0,16,7,2020,14,48,54
+7839,0,"Culture sharing, speaking nya dibangun.",Dimas,,Dim_As_YP,0,16,7,2020,14,49,29
+7840,7836,"Diskusi online pertama: kira"" topik apa nih yang bagus dibahas 😅",Riza 🦊🚀🎙🎥,,rizafahmi,0,16,7,2020,15,2,50
+7841,0,Installasi dan setup elixir sampai hello world.. 😅,Dimas,,Dim_As_YP,0,17,7,2020,3,51,6
+7842,0,Mungkin tentang ecto aja sih mas menurut saya ecto itu powerfull cuma buat yang blm biasa jadi ngejelimet apalagi konsep preload preload gitu hwhwhw,Farhan,Rahmadi,Huntz20,0,17,7,2020,4,24,47
+7843,7841,Kalau ini biasa tergantung OSnya ya.,Herdy,Handoko,hhandoko,0,17,7,2020,4,36,10
+7844,0,"Saya pakai Ubuntu, kalau Windows saya kurang tahu 😁",Herdy,Handoko,hhandoko,0,17,7,2020,4,37,55
+7845,0,"Hahaha.. idem.. 😁👍 \n\nBoleh tuh kan dijadikan topik awal sebelum ke topik intermediate dan advance.. \n\nTapi kalo mau lebih dapet feedback bisa bikin poll juga, mungkin aja disini topik tersebut kurang menarik / bisa cari sendiri di internet.",Dimas,,Dim_As_YP,0,17,7,2020,4,45,52
+7846,0,Konsep concurrency & actor model aja dl sebagai pengantar,Yadi,Rosadi,yrsdi,0,17,7,2020,6,6,18
+7847,0,"Untuk introduction, mungkin lebih enak kalau new user bisa lebih familiar dengan functional programming di elixir. Higher order function, lambda, recursion, lazy evaluation, etc. Implementation di elixir tuh kayak, Enum, Stream, List, etc.",Muhammad,Fauzan,muhifauzan,0,17,7,2020,7,6,42
+7850,0,"Kita pernah loh ngadain online meetup, jauh sebelum pandemi. 2 tahun lalu wkwk. Bahasnya ttg elixir process. Tapi sekali doang itu, ngga lanjut lagi setelahnya. Ini ada jejak rekamnya https://www.youtube.com/watch?v=_Xr87Ro6ni4. Colek @SuryaRamshere",Riza 🦊🚀🎙🎥,,rizafahmi,0,17,7,2020,11,7,42
+7851,0,,Syifa,Azz,Syifaamrazz,0,17,7,2020,13,54,19
+7852,7850,Nah... 👍👍\n\nUdah bagus tuh.. tinggal dilanjutkan lagi,Dimas,,Dim_As_YP,0,17,7,2020,16,52,25
+7863,0,Nah mungkin bisa di susun agendanya 😂,Rizki Taufik Ulil Albab,,rizkiulil,0,18,7,2020,2,54,33
+7864,0,,M Shiddiq,Fathullah,masdiq,0,18,7,2020,5,40,47
+7865,0,,Herbert,Abdillah,herbertabdillah,0,18,7,2020,14,36,51
+7866,0,,Briyan,Adityatama,briyanwam,0,19,7,2020,10,34,5
+7867,0,Saya bersedia bantu sih. Pak @rizafahmi ada saran apa yang perlu disiapkan Pak?,,,,0,20,7,2020,5,41,39
+7868,0,"Mungkin mulai dari speaker list dan saran topik?\nBeberapa yang dipikiran saya yang mungkin menarik:\n\n- Good Bye React, Welcome LiveView. 😂\n   (Most of your React use case can be done in back end language and more performant with LiveView)\n- Phoenix. The next Ruby on Rails? \n   (Same productivity, more scalable!)\n- Monolithic microservice with Elixir.\n   (The best of both world)\n- No Redis, No Kafka, No Kubernetes. Just Elixir and OTP.\n  ( How we do pubsub, in memory DB, and fault tolerance all in box)",,,,0,20,7,2020,5,59,50
+7869,7868,"Iya betul yang paling PR adalah mencari pembicara. Kalau topik, tergantung pimbicara dan audience. Selanjutnya coba pikirkan mau format seperti apa acaranya. Bisa webinar: 1 event, 1 atau 2 pembicara. Bisa workshop: 1 event, 1 pembicara tapi hands-on dan waktunya lebih panjang. Bisa format diskus seperti talk show. Bisa juga format seperti radio/podcast bisa bahas berita terbaru, dll\n\nSelanjutnya tentukan tanggal dan jam dan bikin event page di eventbrite, meetup, loket dll",Riza 🦊🚀🎙🎥,,rizafahmi,0,20,7,2020,6,39,58
+7870,0,,J,F,,0,20,7,2020,6,43,42
+7871,0,,Al.KaD,,ALVIAN_KD,0,20,7,2020,10,22,50
+7872,7868,mas mau nanya itu yang tema no redis no kafka no kubernetes just elixir and otp ada reference nggak mas tertarik saya bacanya,Farhan,Rahmadi,Huntz20,0,21,7,2020,2,48,38
+7873,7872,"Nggak ada mas, berdasarkan pengalaman aja. Dan bukan 100% replacement juga, tapi mencakup sebagian besar use casenya. Bisa jadi bahan sharing sih.",,,,0,21,7,2020,2,50,35
+7874,7869,Untuk mulai ngumpulin pembicara enaknya gimana Pak Riza? Colek satu satu senior disini saja dulu mungkin ya? :D Setelah itu formatnya menyesuaikan jumlah pembicara?,,,,0,21,7,2020,2,52,4
+7875,7872,"Kalau mau mulai, bisa dari sini:\n\nhttps://medium.com/flatiron-labs/intro-to-distributed-elixir-e8a259bcc8f6",Herdy,Handoko,hhandoko,0,21,7,2020,2,54,20
+7876,0,Oke saya coba lihat thanks infonya mas,Farhan,Rahmadi,Huntz20,0,21,7,2020,2,56,16
+7877,7874,"ya harus berkesinambungan juga. Ntar kalau menyesuaikan yg dapat, baru 1 atau 2 event terus ngga ada yang ngisi lagi. Saran saya untuk awal, coba 1 pembicara dulu aja. Atau kombinasi senior & junior. Jangan senior melulu yang dicolek. Nanti yg junior ngga ada yg mau ngisi 😬 Bahkan harusnya ngga perlu di kotak2an senior junior sih. Kita sama2 belajar disini, dari kita untuk kita. ngga usah peduli label 🤘",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,4,15
+7878,7877,"Wah, manthab ini. Kalau kita coba kumpulin daftarnya dulu lewat google form misalnya bagaimana Pak Riza? Lihat animonya. Let say kalau ada 10 pembicara bisa di kick off.",,,,0,21,7,2020,3,6,1
+7879,0,Ini perlu 10 pembicara dulu baru bisa kick off ?,Dimas,,Dim_As_YP,0,21,7,2020,3,7,36
+7880,7878,"Wah kebanyakan 10, 3-4 untuk awal rasanya cukup",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,7,47
+7881,0,"1 juga cukup kok, yang penting ada pembicara.",Dimas,,Dim_As_YP,0,21,7,2020,3,8,13
+7882,0,2 lebih bagus,Dimas,,Dim_As_YP,0,21,7,2020,3,8,25
+7883,0,"Coba bikin di github aja, yg mau talk submit issue, biar lebih kayak developer gitu. bikin template issue nya dan readme gimana kalau mau submit talk",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,9,22
+7884,0,Mas @Dim_As_YP bersedia mas? Sama Pak @rizafahmi,,,,0,21,7,2020,3,9,22
+7885,7884,Untuk pembicara ?,Dimas,,Dim_As_YP,0,21,7,2020,3,9,48
+7886,7883,Noted. Ada contohnya Pak?,,,,0,21,7,2020,3,9,53
+7887,7885,Iya 😊,,,,0,21,7,2020,3,10,9
+7888,7886,https://github.com/jakartajs/talks,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,10,45
+7889,0,"Skip dulu kalo pembicara, belum full pake elixir soalnya. Paling bantu ngasih input untuk awal awal, karena running hal yang sama disebelah..",Dimas,,Dim_As_YP,0,21,7,2020,3,11,24
+7890,7889,Siap,,,,0,21,7,2020,3,11,40
+7891,7888,Thanks Pak.,,,,0,21,7,2020,3,11,48
+7892,0,"Masukin nama anggota disini aja ke random number generator. yg keluar namanya harus talk 😎 Kalau ditodong, mah ""skip dulu"" akan menjadi jawaban default 😬",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,12,46
+7893,0,😅,Dimas,,Dim_As_YP,0,21,7,2020,3,13,18
+7894,0,"Ngomong"" perlu bikin Github org ga nih?",Herdy,Handoko,hhandoko,0,21,7,2020,3,14,2
+7895,0,"Talks, demo, bisa diarchive disitu juga.",Herdy,Handoko,hhandoko,0,21,7,2020,3,14,35
+7896,0,Oh..,Dimas,,Dim_As_YP,0,21,7,2020,3,14,40
+7897,0,Boleh buat arsip..,Dimas,,Dim_As_YP,0,21,7,2020,3,14,49
+7898,7841,Rasanya kalau bawain talk dengan topik 👆 ini ngga perlu harus punya pengalaman full pakai elixir kan ya 😏,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,14,52
+7899,7894,Sepertinya perlu,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,15,5
+7900,0,Mantap Gan,Hendri,616,,0,21,7,2020,3,15,11
+7901,7898,"Kalo topik itu ga perlu, tergantung apakah itu mau dipake buat talk, soalnya ada kelanjutannya lagi kan..?",Dimas,,Dim_As_YP,0,21,7,2020,3,16,3
+7902,0,Kelanjutan postingan gw..,Dimas,,Dim_As_YP,0,21,7,2020,3,16,12
+7903,0,"kalau syaratnya harus full pake elixir, nanti yg talk @virkology doang haha.. Saya ngga pake elixir sehari2 jadi saya belum qualify ya untuk talk 🤘Kembali lagi ke spirit dari kita untuk kita",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,17,26
+7904,0,Saya sudah bikin github.com/elixirid,Herdy,Handoko,hhandoko,0,21,7,2020,3,17,31
+7905,0,"Yang mau bantu ngurus"" silahkan ping saya, nanti saya jadikan admin / collaborator 😁",Herdy,Handoko,hhandoko,0,21,7,2020,3,18,9
+7906,7904,"wih gercep, mantap 👍",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,18,12
+7907,7903,"Sip agree, maaf kalo gitu salah kata kata, jadi beda penerimaan..",Dimas,,Dim_As_YP,0,21,7,2020,3,18,51
+7908,7892,Good idea 😄,,,,0,21,7,2020,3,18,55
+7909,7907,Mungkin lebih tepat gw bisa luangin waktu di september.,Dimas,,Dim_As_YP,0,21,7,2020,3,19,36
+7910,7904,Baru mau ngeping bang Admin tentang ide buat repo. Ternyata sudah ada.,,,,0,21,7,2020,3,19,43
+7911,0,"Kebetulan lagi nunggu Jenkins build, ada lima menit free... Haha",Herdy,Handoko,hhandoko,0,21,7,2020,3,20,19
+7912,0,"Ini pagi2 gini grup rame, pada ngga kerja apa ya 😅 kalo saya sih kerjaannya memang chatting 🤘",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,20,26
+7913,0,Kalo bulan ini dan bulan depan skip dulu..,Dimas,,Dim_As_YP,0,21,7,2020,3,20,35
+7914,0,Sorry to say..,Dimas,,Dim_As_YP,0,21,7,2020,3,20,40
+7915,7909,Tuh udah ada 1 pembicara buat september,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,20,44
+7916,7915,Lo kapan ?,Dimas,,Dim_As_YP,0,21,7,2020,3,21,9
+7917,0,🙈,Dimas,,Dim_As_YP,0,21,7,2020,3,21,13
+7918,0,🎉,,,,0,21,7,2020,3,21,26
+7919,7912,Nunggu daily standup 🙈,,,,0,21,7,2020,3,22,11
+7920,7916,"skip dulu gan, wkwk",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,23,12
+7921,7920,Wkwkwkwk... 😂,Dimas,,Dim_As_YP,0,21,7,2020,3,23,22
+7922,0,Ashiaaap.. 👍,Dimas,,Dim_As_YP,0,21,7,2020,3,23,27
+7923,0,Summary : \n1. Repo udah \n2. Jadwal sharing ?\n3.,Dimas,,Dim_As_YP,0,21,7,2020,3,25,29
+7924,7920,default 😂,,,,0,21,7,2020,3,26,11
+7925,7924,"Dari beberapa input dan informasi sebelumnya, bisa dieksekusikah ?",Dimas,,Dim_As_YP,0,21,7,2020,3,28,44
+7926,0,Lagi baca baca aturan main https://github.com/jakartajs/talks untuk dibuatkan repo serupa.,,,,0,21,7,2020,3,30,9
+7927,0,Oke sip 👍,Dimas,,Dim_As_YP,0,21,7,2020,3,30,21
+7928,0,Ngomong2 ada yang sudah punya paid account zoom untuk digunakan nantinya? Atu perlu dibuat? @rizafahmi @Dim_As_YP @hhandoko,,,,0,21,7,2020,3,34,5
+7929,0,Ngga usah dulu. Saran saya kalau mau livestreaming ke youtube/fb live bisa pakai https://streamyard.com/,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,35,46
+7930,0,Setup nya straightforward,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,35,59
+7931,0,"Free, tapi ada logo bebeknya 😬",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,36,52
+7932,0,kira kira ada yang bisa saya bantu ?,Farhan,Rahmadi,Huntz20,0,21,7,2020,3,38,4
+7933,7928,Saya ga ada,Herdy,Handoko,hhandoko,0,21,7,2020,3,38,51
+7934,7929,Ini boleh,Herdy,Handoko,hhandoko,0,21,7,2020,3,39,0
+7935,0,Streamyard bisa di arsipkan ke YouTube juga?,Herdy,Handoko,hhandoko,0,21,7,2020,3,39,14
+7936,7929,Noted!,,,,0,21,7,2020,3,42,26
+7937,7929,Yes agree.. free aja dulu..,Dimas,,Dim_As_YP,0,21,7,2020,3,42,54
+7938,0,"Oiya, beberapa livetalk di channelnya pak Riza pakai itu ya? Termasuk yang svelte kemarin.",,,,0,21,7,2020,3,43,16
+7939,0,Contoh pakai streamyard https://www.youtube.com/watch?v=j4AIcaN9wVo dengan kondisi ngga pakai kamera,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,43,38
+7940,0,Kecuali kalo hacktiv mau jadi sponsor.. @rizafahmi 🙈,Dimas,,Dim_As_YP,0,21,7,2020,3,43,56
+7941,7938,"Betul, ini videonya https://www.youtube.com/watch?v=JOkFYs2QmqE",Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,3,44,5
+7942,0,Mas @Dim_As_YP mau ngomongin embedded mungkin? Nerves? 😬,,,,0,21,7,2020,3,46,10
+7943,0,No comment.. 🙊😂,Dimas,,Dim_As_YP,0,21,7,2020,3,46,32
+7944,0,"Ngomong"", ada online conference minggu ini:\n\nhttps://yowconference.com/lambdajam/",Herdy,Handoko,hhandoko,0,21,7,2020,3,59,9
+7945,0,"Tiket AU$100, tapi ada opsi Pay What You Can (dari AU$10)",Herdy,Handoko,hhandoko,0,21,7,2020,3,59,37
+7946,0,Hari Kamis (23 Juli) itu semua sesi khusus Elixir / Erlang,Herdy,Handoko,hhandoko,0,21,7,2020,4,0,22
+7947,7946,🎉👍,,,,0,21,7,2020,4,25,45
+7948,0,Pak Herdy pernah ngisi Apache Mesos disitu kan ya. di Yow.,,,,0,21,7,2020,4,27,16
+7949,7948,"Iya, itu beberapa tahun yang lalu 😁",Herdy,Handoko,hhandoko,0,21,7,2020,4,28,57
+7950,0,Sekarang kebanyakan fokus di k8s,Herdy,Handoko,hhandoko,0,21,7,2020,4,31,6
+7951,0,I see. Pantes ga pernah denger sekarang Mesos.,,,,0,21,7,2020,4,44,59
+7952,7932,Any help welcomed mas! Mulai dari pembicara sampai bantu bikin poster. Anything.,,,,0,21,7,2020,4,46,59
+7953,0,kalo pembicara belum sangup saya mas kalo bikin poster dulu aja gmn mas hehe,Farhan,Rahmadi,Huntz20,0,21,7,2020,4,48,8
+7954,0,Siaaap.,,,,0,21,7,2020,4,48,26
+7955,0,saya kordinasi kemana nih mas ?,Farhan,Rahmadi,Huntz20,0,21,7,2020,4,49,34
+7956,0,"Sementara baru berdua sih, japri japrian aja kita mas.",,,,0,21,7,2020,5,49,29
+7957,0,Koordinasi disini aja? atau issue github,Riza 🦊🚀🎙🎥,,rizafahmi,0,21,7,2020,5,58,56
+7958,7957,Nah sipp 👍 Siapa tau ada relawan lain nantinya.,,,,0,21,7,2020,5,59,51
+7959,0,Oke untuk poster mau apa aja mas yang di tambahin,Farhan,Rahmadi,Huntz20,0,21,7,2020,9,26,21
+7960,0,Mungkin nanti kalau sudah mulai ada jadwal fixnya mungkin ya..,,,,0,21,7,2020,9,34,19
+7961,0,Siap mas kabarin aja,Farhan,Rahmadi,Huntz20,0,21,7,2020,9,40,12
+7963,0,,Herdy,Handoko,hhandoko,0,22,7,2020,0,42,41
+7964,0,,David,Haubenschild,haubie,0,22,7,2020,1,37,40
+7968,0,G'day @haubie,Herdy,Handoko,hhandoko,0,22,7,2020,1,38,36
+7969,0,welcome mas @haubie,Farhan,Rahmadi,Huntz20,0,22,7,2020,1,39,3
+7970,0,Hello! I didn't realise there were so many Elixir folks on Telegram! Thanks for the group.,David,Haubenschild,haubie,0,22,7,2020,1,39,7
+7971,0,I'm from Australia.,David,Haubenschild,haubie,0,22,7,2020,1,39,17
+7972,0,"No worries, we mainly chat in Bahasa Indonesia though 😁",Herdy,Handoko,hhandoko,0,22,7,2020,1,41,1
+7973,0,"Ok, no worries!",David,Haubenschild,haubie,0,22,7,2020,1,51,5
+7974,0,Welcome @haubie,,,,0,22,7,2020,2,19,43
+7975,0,,Dmitry,,astorre,0,22,7,2020,3,56,15
+7979,0,,D,G,dish87,0,22,7,2020,4,4,17
+7983,0,mas mas mo nanya,Agus,Susilo,susilolabs,0,22,7,2020,4,12,7
+7984,0,klo pas get erlang version seperti R16B03-1 kira2 otp versinya brp ya?,Agus,Susilo,susilolabs,0,22,7,2020,4,13,8
+7985,0,,Ridho,Pratama,rid94,0,22,7,2020,4,17,41
+7989,7984,Ini ngeceknya pakai command apa?,Herdy,Handoko,hhandoko,0,22,7,2020,4,18,11
+7990,0,`erlang:system_info(otp_release).`,Agus,Susilo,susilolabs,0,22,7,2020,4,18,42
+7991,0,klo di lokal versinya g aneh2 `Erlang/OTP 23`,Agus,Susilo,susilolabs,0,22,7,2020,4,20,13
+7994,0,"Kayanya itu OTP 16,",Ridho,Pratama,rid94,0,22,7,2020,4,21,53
+7995,7994,Iya sepertinya,Herdy,Handoko,hhandoko,0,22,7,2020,4,22,35
+7996,0,"Kalau baru join belum bisa post link @rid94 , harus tunggu sehari",Herdy,Handoko,hhandoko,0,22,7,2020,4,23,53
+7997,0,https://www.erlang.org/downloads,Herdy,Handoko,hhandoko,0,22,7,2020,4,24,47
+7998,0,"Sesuai diatas, Erlang/OTP 16 kebawah memang version naming schemenya beda.",Herdy,Handoko,hhandoko,0,22,7,2020,4,25,30
+7999,0,wah versi lama ya,Agus,Susilo,susilolabs,0,22,7,2020,4,28,58
+8000,0,itu install di centos 7 production 😄,Agus,Susilo,susilolabs,0,22,7,2020,4,29,19
+8001,0,aku bikin aplikasinya pake otp 23,Agus,Susilo,susilolabs,0,22,7,2020,4,29,37
+8002,0,Di production yang di install Erlang/OTP 16 berarti?,Herdy,Handoko,hhandoko,0,22,7,2020,4,36,40
+8003,0,iya,Agus,Susilo,susilolabs,0,22,7,2020,4,41,11
+8004,0,temen sy yg install 😁,Agus,Susilo,susilolabs,0,22,7,2020,4,41,48
+8005,0,"Oh, OK... Ini dari package managernya langsung mungkin ya.",Herdy,Handoko,hhandoko,0,22,7,2020,4,42,27
+8006,0,iya mas,Agus,Susilo,susilolabs,0,22,7,2020,5,18,17
+8007,0,mau tak coba pake yg non official pkg,Agus,Susilo,susilolabs,0,22,7,2020,5,18,50
+8008,0,,Herdy,Handoko,hhandoko,0,22,7,2020,5,19,33
+8012,0,,,,,0,23,7,2020,11,57,6
+8016,0,welcome mas [Rifki](tg://user?id=1172107568),Farhan,Rahmadi,Huntz20,0,23,7,2020,11,58,57
+8017,0,Mohon bimbingannya mas masih perlu banyak belajar 🙏,,,,0,23,7,2020,11,59,37
+8018,0,,Herdy,Handoko,hhandoko,0,23,7,2020,12,9,50
+8025,0,Any place suggest to learn elixir + phoenix?,Meow,,Meoeeeew,0,24,7,2020,15,11,57
+8026,0,elixircast is good place to learn but official documentation i  prefered more,Farhan,Rahmadi,Huntz20,0,24,7,2020,15,51,41
+8027,0,and this one help me too https://devhints.io/phoenix-ecto,Farhan,Rahmadi,Huntz20,0,24,7,2020,15,52,5
+8035,0,👍👍,Meow,,Meoeeeew,0,25,7,2020,12,36,39
+8038,0,Mas mau nanya kalo pake pheonix bisa generate pdf terus di serve ke frontend' itu gmn yaa ?,Farhan,Rahmadi,Huntz20,0,26,7,2020,5,9,44
+8040,8038,Sudah ada templatenya?,Herdy,Handoko,hhandoko,0,26,7,2020,5,35,31
+8041,0,Umumnya sih dari HTML lalu diconvert ke PDF,Herdy,Handoko,hhandoko,0,26,7,2020,5,35,44
+8042,0,Bisa lihat ini: https://project-awesome.org/h4cc/awesome-elixir#pdf,Herdy,Handoko,hhandoko,0,26,7,2020,5,37,14
+8043,0,Saran saya sih pakai pdf_generator. Tapi ya ada beberapa langkah tambahan untuk install dependencynya (wkhtmltopdf),Herdy,Handoko,hhandoko,0,26,7,2020,5,39,46
+8044,0,"Satu""nya yang native di list itu gutenex, tapi ribet untuk templatingnya.",Herdy,Handoko,hhandoko,0,26,7,2020,5,40,31
+8045,0,"Untuk bikin PDF native APInya seperti kanvas, bukan dokumen 😅",Herdy,Handoko,hhandoko,0,26,7,2020,5,40,52
+8046,0,Terus untuk serve ke client gmn yaa mas ?,Farhan,Rahmadi,Huntz20,0,26,7,2020,5,45,54
+8047,0,Bisa lihat ini dokumentasinya:\n\nhttps://hexdocs.pm/plug/Plug.Conn.html#send_file/5,Herdy,Handoko,hhandoko,0,26,7,2020,5,54,22
+8048,0,"Kalau mau set behaviour (antara download atau buka di browser), bisa set response header Content-Disposition",Herdy,Handoko,hhandoko,0,26,7,2020,5,56,2
+8049,0,https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Disposition,Herdy,Handoko,hhandoko,0,26,7,2020,5,56,24
+8050,0,Jadi jangan lupa cek MIME type dan Content-Disposition,Herdy,Handoko,hhandoko,0,26,7,2020,5,56,55
+8051,0,Semoga berhasil 😁,Herdy,Handoko,hhandoko,0,26,7,2020,5,57,1
+8052,0,Oke Saya coba,Farhan,Rahmadi,Huntz20,0,26,7,2020,6,6,19
+8064,0,,,,,0,27,7,2020,22,16,28
+8068,0,"Pagi mas, mau nanya. Sy bikin aplikasi pake elixir+ecto, nah pas dideploy koneksi dbnya selalu make user linuxnya itu knp ya? Misalnya user dilinux namanya `fulan` maka dbny ikut `fulan@localhost`",Agus,Susilo,susilolabs,0,28,7,2020,1,31,5
+8069,0,Padahal config untuk `prod.exs` dan `releases.exs` dah ada,Agus,Susilo,susilolabs,0,28,7,2020,1,32,12
+8070,0,Ini setnya pakai environment variable?,Herdy,Handoko,hhandoko,0,28,7,2020,1,36,49
+8071,0,Pakai config map atau url ?,Herdy,Handoko,hhandoko,0,28,7,2020,1,37,21
+8072,0,enggak mas,Agus,Susilo,susilolabs,0,28,7,2020,1,37,48
+8073,0,pake config.exs,Agus,Susilo,susilolabs,0,28,7,2020,1,37,57
+8074,0,"apa krn ini y mas?\n`import Config\n\nimport_config ""#{Mix.env()}.exs""`",Agus,Susilo,susilolabs,0,28,7,2020,1,39,20
+8075,8071,pake config map mas,Agus,Susilo,susilolabs,0,28,7,2020,1,43,26
+8076,8074,Ini cuma ngeload dev/test/prod.exs sesuai environment saja,Herdy,Handoko,hhandoko,0,28,7,2020,1,46,3
+8077,0,Apa user environment variablenya bentrok?,Herdy,Handoko,hhandoko,0,28,7,2020,1,46,17
+8078,0,Hardcode di config apa baca env var?,Herdy,Handoko,hhandoko,0,28,7,2020,1,46,31
+8079,8077,kekny g ada yg bentrok,Agus,Susilo,susilolabs,0,28,7,2020,1,47,13
+8080,8078,hardcode di config,Agus,Susilo,susilolabs,0,28,7,2020,1,47,21
+8081,0,"Hmm, agak ngebingunin sih. Untuk start aplikasinya pakai command apa?",Herdy,Handoko,hhandoko,0,28,7,2020,1,49,23
+8082,0,pake hasil dari `mix release` `_build/prod/rel/os_ecc/bin/os_ecc start`,Agus,Susilo,susilolabs,0,28,7,2020,1,50,34
+8083,0,Jadi tak compile di local trus tak upload di live server,Agus,Susilo,susilolabs,0,28,7,2020,1,51,40
+8084,0,Tp config pas mix release dah tak samain sm yg di server prod,Agus,Susilo,susilolabs,0,28,7,2020,1,52,10
+8085,0,"Apa mendingan pake environment aj y, yg lebih mudah 😁",Agus,Susilo,susilolabs,0,28,7,2020,1,55,12
+8086,0,Pas release pakai MIX_ENV=prod?,Herdy,Handoko,hhandoko,0,28,7,2020,1,58,16
+8087,0,iya,Agus,Susilo,susilolabs,0,28,7,2020,1,58,42
+8088,0,tak coba compile ulang tanpa releases.exs,Agus,Susilo,susilolabs,0,28,7,2020,1,59,9
+8089,0,Sebenarnya bisa dicek sih di release foldernya,Herdy,Handoko,hhandoko,0,28,7,2020,2,0,1
+8090,0,Di sys.config,Herdy,Handoko,hhandoko,0,28,7,2020,2,0,7
+8091,0,Tapi harus dirubah balik jadi plain string,Herdy,Handoko,hhandoko,0,28,7,2020,2,0,23
+8092,0,"iya mas, tak coba di sys.config",Agus,Susilo,susilolabs,0,28,7,2020,2,1,30
+8093,0,username nya dah bener,Agus,Susilo,susilolabs,0,28,7,2020,2,1,36
+8094,0,"Kalau mau coba"", bisa lihat vapor library",Herdy,Handoko,hhandoko,0,28,7,2020,2,4,57
+8095,0,Ok mas tak coba dulu,Agus,Susilo,susilolabs,0,28,7,2020,2,5,54
+8096,0,Lebih fleksibel.,Herdy,Handoko,hhandoko,0,28,7,2020,2,6,32
+8097,0,Seingat saya mix release itu dia ambil environment variable pas packaging,Herdy,Handoko,hhandoko,0,28,7,2020,2,6,58
+8098,0,https://github.com/keathley/vapor,Herdy,Handoko,hhandoko,0,28,7,2020,2,7,20
+8099,8097,"Iya mas, di datacenter dan dilokal tu g ada masalah",Agus,Susilo,susilolabs,0,28,7,2020,2,9,35
+8100,8098,Ok mas tak coba dulu,Agus,Susilo,susilolabs,0,28,7,2020,2,9,53
+8101,0,Makasih 👍,Agus,Susilo,susilolabs,0,28,7,2020,2,10,4
+8102,8068,kalo saya saya di editnya di dockernya mas,Farhan,Rahmadi,Huntz20,0,28,7,2020,2,55,28
+8103,0,"sy blom pake docker, masih nyoba2 yg gampang😁",Agus,Susilo,susilolabs,0,28,7,2020,2,56,24
+8104,0,"mas saya ada masalah nih ketika pake channel ada event yang saya pake buat ngeganti data \n\nnah ketikaada 1 row data di update berbarengan dengan field yang berbeda adakalanya gagal update data , nah kira kira pheonix punya queue nggak selain saya pake redis",Farhan,Rahmadi,Huntz20,0,28,7,2020,7,12,32
+8105,0,,Ndra,,,0,29,7,2020,0,40,9
+8109,0,Hi mau nanya,Meow,,Meoeeeew,0,29,7,2020,14,22,8
+8110,0,Why got ! Mark after get_bear?,Meow,,Meoeeeew,0,29,7,2020,14,22,33
+8111,8110,Bakal raise exception kalau error,Herdy,Handoko,hhandoko,0,29,7,2020,14,32,17
+8112,0,Ini biasanya convention. Tanpa simbol bang (!) return valuenya biasanya tuple dengan `:ok` atau `:error` atom.,Herdy,Handoko,hhandoko,0,29,7,2020,14,34,25
+8113,0,Oo i see,Meow,,Meoeeeew,0,29,7,2020,14,42,38
+8114,0,Thanks,Meow,,Meoeeeew,0,29,7,2020,14,42,40
+8133,0,Malam semua.. selamat hari raya iduladha bagi yang merayakan .. saya mau tanya disini menggunakan exilir rata2 untuk proses seperti apa ya ? Karna saya cuman tau REST Api aja.. 😁,Rohmat,Mret,Rohmatmret,0,31,7,2020,13,52,26
+8134,8133,banyak sih mas harusnya semua yang bisa dibuat erlang pasti bisa di elixir CMIW,Farhan,Rahmadi,Huntz20,0,31,7,2020,13,57,13
+8135,8134,Klo mas sendiri pake elixir ini untuk proses apa ?,Rohmat,Mret,Rohmatmret,0,31,7,2020,14,35,0
+8136,0,saya sama sih pake buat rest tapi saya pake buat realtime info \nketebetulan startup saya kan bidang'a olahraga jadi data klasemen pertandingan dan hasil score itu harus realtime,Farhan,Rahmadi,Huntz20,0,31,7,2020,14,36,10
+8137,0,lonami,neo,lee,,0,31,7,2020,16,20,21
+8138,0,,Yoshiharu,Hisomu,Yoshi_hru,0,1,8,2020,2,14,0
+8145,0,,Muhammad,Heri,cumironin,0,1,8,2020,6,17,8
+8149,0,"Btw, elixir & Erlang cuma beda semantic bahasa aja kah ? Tapi tetep nargetnya Erlang vm semisal kotlin dengan JVM",Muhammad,Heri,cumironin,0,1,8,2020,6,24,29
+8150,8149,Iya betul,Herdy,Handoko,hhandoko,0,1,8,2020,6,24,52
+8151,0,"Dari Elixir dirubah ke Erlang Abstract Format, lalu ke BEAM assembly.",Herdy,Handoko,hhandoko,0,1,8,2020,6,28,23
+8152,0,http://erlang.org/doc/apps/erts/absform.html,Herdy,Handoko,hhandoko,0,1,8,2020,6,28,29
+8153,0,ElixirConf tahun ini akan online:\n\nhttps://2020.elixirconf.com/,Herdy,Handoko,hhandoko,0,1,8,2020,10,35,5
+8166,0,,Darwin,,darwin1224,0,2,8,2020,15,41,0
+8174,0,https://fullstackphoenix.com/boilerplates,Arief,Rachman,Ari_Hanggara,0,4,8,2020,4,57,32
+8175,0,"Nanya gan, knp ya service disystemd selalu `activating`, padahal klo dilihat dari log aplikasi udah jln",Agus,Susilo,susilolabs,0,4,8,2020,5,12,31
+8176,0,startnya pake `_build/prod/rel/myapp/bin/myapp start`,Agus,Susilo,susilolabs,0,4,8,2020,5,13,54
+8177,0,"Pada prinsipnya bagi saya semua proyek baru yang biasa dikerjakan pakai Laravel, Ruby on Rails, Django (Server Rendered Web application) bisa diganti dengan Phoenix/Elixir. \n\nBelakangan use case terbaik adalah ketika kita perlu organize ratusan process terpisah yang connect ke websocket yang berbeda2 untuk trading system. Error di satu koneksi nggak ngaruh di koneksi yang lain. Dan karena ada LiveView kita bisa dengan mudah dan cepat bikin realtime web interfacenya. \n\nAttempt sebelumnya untuk proyek ini pakai nodejs dan golang.",,,,0,4,8,2020,8,15,40
+8178,8133,Lupa ngetag post yang dijawab,,,,0,4,8,2020,8,16,43
+8179,8177,"Saya juga tertarik LiveView, tapi saat ini belum ada use casenya. Soalnya tujuan utama appnya adalah punya PWA capability.",Herdy,Handoko,hhandoko,0,4,8,2020,8,17,13
+8180,0,LiveView dan PWA tidak selaras sepertinya.,Herdy,Handoko,hhandoko,0,4,8,2020,8,18,1
+8181,8177,Ini untuk sisi backend atau pake frontend jg mas?,Agus,Susilo,susilolabs,0,4,8,2020,8,18,49
+8182,8181,Front end juga.,,,,0,4,8,2020,8,20,27
+8183,0,"Oh ya, sekalian untuk yang belum isi survey: \n\nhttps://elixirsurvey.typeform.com/to/yYmJv1",Herdy,Handoko,hhandoko,0,4,8,2020,8,20,38
+8184,8182,Berarti SSR ya? Bukan SPA?,Herdy,Handoko,hhandoko,0,4,8,2020,8,20,56
+8185,0,Betul murni SSR.,,,,0,4,8,2020,8,21,11
+8186,0,Tapi ada juga proyek lain dimana client appnya SPA pakai react dan backend/API pakai phoenix. Admin portalnya SSR pakai phoenix.,,,,0,4,8,2020,8,23,4
+8187,8183,Done min.,,,,0,4,8,2020,8,31,55
+8188,8186,,Herdy,Handoko,hhandoko,0,4,8,2020,8,35,45
+8189,0,,Siwan,Lahagu,Siwanlahagu27,0,5,8,2020,3,59,55
+8195,0,"hi teman2, aku masih baru elixir, Currently PHP Laravel Dev for 4 years, mau coba Elixir, ada ngak tutorial utk translate code erlang to elixir?",Meow,,Meoeeeew,0,5,8,2020,11,3,5
+8196,8195,"Tujuannya apa ya? Interop? Atau untuk sekedar belajar?\n\nIni ada blog post, tapi agak lama:\n\nhttp://blog.plataformatec.com.br/2014/11/converting-erlang-code-into-elixir/",Herdy,Handoko,hhandoko,0,5,8,2020,11,7,32
+8197,8195,"Translate in a sense of programmatically kayaknya ga ada, tapi elixir punya crash course buat pelajari persamaan dan perbedaan syntax Erlang dan Elixir di sini https://elixir-lang.org/crash-course.html",Muhammad,Fauzan,muhifauzan,0,5,8,2020,11,42,33
+8198,8195,Interesting. Sebelumnya programmer Erlang kah?,,,,0,5,8,2020,12,3,45
+8199,8196,utk access computer resources,Meow,,Meoeeeew,0,5,8,2020,14,24,27
+8200,8197,"oo okay2, ngak ada yg video ya?",Meow,,Meoeeeew,0,5,8,2020,14,24,38
+8201,8198,PHP Dev,Meow,,Meoeeeew,0,5,8,2020,14,24,44
+8202,0,masih belajar functional paradigm,Meow,,Meoeeeew,0,5,8,2020,14,24,49
+8203,0,langsung aja belajar elixir klo gitu,Terminus Est,,rahshingan,0,5,8,2020,14,35,36
+8204,0,Langsung elixir aja,Ridho,Pratama,rid94,0,6,8,2020,1,6,16
+8208,0,purchase course di sini https://pragmaticstudio.com/,Meow,,Meoeeeew,0,6,8,2020,3,32,52
+8209,0,but ada tutorial i think outdated,Meow,,Meoeeeew,0,6,8,2020,3,33,7
+8213,0,Kebetulan ada free tutorial untuk LiveView kalau tertarik:\n\nhttps://pragmaticstudio.com/phoenix-liveview,Herdy,Handoko,hhandoko,0,7,8,2020,15,32,50
+8217,0,Makasih mas 👍,Agus,Susilo,susilolabs,0,8,8,2020,2,20,53
+8227,0,,Ibnu,Syawal,isywl,0,9,8,2020,11,37,33
+8234,0,,Abdurrahman,Adianto,abdurrahman_adianto,0,11,8,2020,4,26,50
+8238,0,,B̷a̷d̷S̷i̷n̷s̷,,badsins,0,11,8,2020,8,37,10
+8245,0,,Achmad,Chun Chun,anonychun,0,13,8,2020,4,51,24
+8255,0,"hi guys, wanna ask, is it a good practice to use all liveview for all page?",Meow,,Meoeeeew,0,15,8,2020,8,52,26
+8256,8255,Phoenix Framework*,Meow,,Meoeeeew,0,15,8,2020,8,52,45
+8257,8255,Why you need that for all page,Farhan,Rahmadi,Huntz20,0,15,8,2020,11,7,53
+8258,0,,Muhammad,Ramadhani,dhani6394,0,15,8,2020,12,22,21
+8262,0,to make all page realtime?,Meow,,Meoeeeew,0,15,8,2020,12,52,36
+8263,0,atau better pake channel aja?,Meow,,Meoeeeew,0,15,8,2020,12,52,43
+8267,0,,Aulia,Bismar,auliabismar,0,15,8,2020,15,4,13
+8271,0,Hola,Aulia,Bismar,auliabismar,0,15,8,2020,15,5,19
+8272,0,Eh ada guru saya @rizafahmi,Aulia,Bismar,auliabismar,0,15,8,2020,15,5,31
+8273,0,"Mau nanya kalau untuk belajar Phoenix, terutama belajar elixir, seberapa mudah learning curve nya?\n\nSebagai background, saya berlatar belakang bahasa pemrograman prosedural seperti PL SQL, dan objek seperti centura, javascript, python.",Aulia,Bismar,auliabismar,0,15,8,2020,15,8,24
+8274,0,"Tidak terlalu susah, kalau fungsi yang biasa"" saja lumayan beginner friendly.",Herdy,Handoko,hhandoko,0,15,8,2020,15,10,29
+8275,0,"Kalau dari JS pakai ES6, mungkin lebih gampang mengerti dengan fungsi pattern matchingnya.",Herdy,Handoko,hhandoko,0,15,8,2020,15,11,15
+8276,0,"Yang lainnya, rekursi (lumayan umum, apalagi kalau suka latihan koding)",Herdy,Handoko,hhandoko,0,15,8,2020,15,13,18
+8277,0,Tutoria Phoenix di websitenya lumayan OK.,Herdy,Handoko,hhandoko,0,15,8,2020,15,14,32
+8278,0,"Hmm kalau JS ini proses belajar saya terbalik tidak seperti language lain, langsung ke framework, karena kebutuhan. Jadi secara fundamental, JS saya lemah, apalagi di functional",Aulia,Bismar,auliabismar,0,15,8,2020,15,14,37
+8279,8277,Saya mulai dari elixir dulu kan ya? Tadinya saya mau cari bahasa back end yang mudah. Eh malah ketemu Phoenix yang mirip dengan Meteor. Tapi sepertinya proses debug lebih mudah dibanding JS,Aulia,Bismar,auliabismar,0,15,8,2020,15,16,58
+8280,0,Bisa lihat ini untuk latihan: https://exercism.io/tracks/elixir,Herdy,Handoko,hhandoko,0,15,8,2020,15,21,3
+8281,0,Thanks!,Aulia,Bismar,auliabismar,0,15,8,2020,15,49,59
+8282,8180,Good to know. Ada kelemahan lain dari Phoenix/liveview?,Aulia,Bismar,auliabismar,0,15,8,2020,15,55,25
+8286,8262,I think it's not a problem as long you disconnect unused page,Farhan,Rahmadi,Huntz20,0,15,8,2020,21,30,42
+8287,0,,,,,0,16,8,2020,4,46,52
+8300,8262,I believe Liveview is better than roll out yourself using channel if the purpose is to deliver to web. The payload is incredibly small.,,,,0,17,8,2020,1,33,31
+8301,8286,"Correct me if I’m wrong. But I think that one is handled already. If we are on a page, the JS will keep sending heatbeat, and the momment it stop sending the heartbeat Phoenix will close the connection for non opened page.\n\nSo nothing stop us to use live view on every page.\n\nBut stretching it for something like tabs switching should be avoided.\n\nAnd it will not provide best experience for optimistic UI (think a like button)",,,,0,17,8,2020,1,38,6
+8302,8273,"Cukup mudah. Estimasi kurang dari dua minggu intensif belajar. (Bukan hitungan jam seperti kita belajar sebuah framework sampai cukup paham untuk bikin sesuatu)\n\nBerapa kali ngajarin dev baru untuk elixir dan phoenix, setelah mereka paham pattern matching dan mengganti loop dengan map-reduce-filter, seringnya sudah bisa contribute ke codebase dalam hitungan hari.",,,,0,17,8,2020,1,43,25
+8303,8302,"pattern matching cukup mudah, kelemahan saya memang di functional programming macam using map-reduce-filte, apalagi bikinnya",Aulia,Bismar,auliabismar,0,17,8,2020,1,45,54
+8304,8301,"I think you correct, I using Pheonix socket and I got method socket disconnect so I think it need to disconnect",Farhan,Rahmadi,Huntz20,0,17,8,2020,1,46,2
+8305,8303,"klo bisa javascript harusnya udah ada map-reduce-filter kok, sy pernah koding js nge-gambar objek dalam canvas buat ngedetek collision/overlap posisi dan nge-render pakainya map dan filter, jumlahnya object nya dikit sih jadi ya pakai brute-force aja buat ngecek collision nya, trus pas ngerender juga tinggal panggil closure yg didefinisiin aja waktu create si object nya",Terminus Est,,rahshingan,0,17,8,2020,1,50,13
+8306,8305,"ya, selama ini saya menghindari itu",Aulia,Bismar,auliabismar,0,17,8,2020,1,51,6
+8307,8306,"koding pendekatan list/array membuka wawasan pak, banyakan kita langsung secara sederhana bekerja dengan data yang kita punya dan operasi apa aja yang bisa diterapkan pada data2 tersebut, selanjutnya polanya kelihatan dan klo seandainya ada perlakuan khusus untuk data tertentu juga nanti berdasarkan attribute si data tersebut aja\n\nkeuntungan lainnya operasi dan data udah decouple dibanding dengan method yang mesti tersangkut di object definisi dimana dia di definisi kan",Terminus Est,,rahshingan,0,17,8,2020,1,53,47
+8308,8307,"betul, terpaksa harus nyebur ke functional kalau mau pakai elixir/phoenix",Aulia,Bismar,auliabismar,0,17,8,2020,1,54,48
+8309,8308,"functional secara umum juga sangat berguna kok, lebih enak dan mudah dipahami, soalnya inti utamanya adalah alur data",Terminus Est,,rahshingan,0,17,8,2020,1,56,20
+8310,8308,It's a good investment as other multi paradigm language will support functional programming concept to a certain degree.,Muhammad,Fauzan,muhifauzan,0,17,8,2020,1,59,44
+8311,0,"Imagine when you use Javascript without `this`, you will define your function by having all the required attributes as argument. That's basically the basic foundation of functional programming.",Muhammad,Fauzan,muhifauzan,0,17,8,2020,2,3,10
+8312,0,"Lambda, or callback as you know it in Javascript, is just a way to compose function that usually used as parameters to do something against collection data structure. You use `map`, `reduce`, `fold`, `foldl`, etc, in place of `loop`.",Muhammad,Fauzan,muhifauzan,0,17,8,2020,2,6,43
+8313,0,"Of course, I might be oversimplify it. But I hope you get the idea.",Muhammad,Fauzan,muhifauzan,0,17,8,2020,2,7,20
+8314,8313,"tenang, saya investasi waktu buat belajar elixir juga ya buat belajar functional, kecuali ada cara menggunakan elixir tanpa fuctional 😄",Aulia,Bismar,auliabismar,0,17,8,2020,2,9,39
+8315,0,"Cool. If you stuck, you know you can always ask questions here. Happy learning 😄",Muhammad,Fauzan,muhifauzan,0,17,8,2020,2,12,56
+8316,0,,Lolila,,,0,17,8,2020,2,29,42
+8322,0,,Hiraq,Citra M,hiraqdev,0,17,8,2020,6,8,20
+8329,0,okay hold on,Jtones,101,,0,17,8,2020,19,46,38
+8330,0,that's been there forever,Jtones,101,,0,17,8,2020,19,46,41
+8331,8303,"For what its worth this is my go-to template when teaching new Dev who try to wrap their head to replace loop with map-reduce-filter.\n\nIf the desired output is list with the same member as input, most likely you need Enum.map.\nie: [1,2,3,4,5] -> [2,4,6,8,10]\n\nIf the desired output is single data, most likely you need Enum.reduce.\nie : [1,2,3,4,5] -> 15\n\nIf the desired output is a list with fewer member, most likely it is Enum.filter.\nie: [1,2,3,4,5] -> [2,4]\n\nWhat if it require combination of those?\nUse pipe. \n\nMost of them never do loop again when writing JS or python.",,,,0,18,8,2020,2,29,25
+8332,0,,haidaralbaqir,,hooman2222,0,18,8,2020,2,29,36
+8336,8331,Got it,Aulia,Bismar,auliabismar,0,18,8,2020,2,49,9
+8337,0,,Yos,xyz,R8code,0,18,8,2020,3,33,33
+8341,0,Salam kenal,Yos,xyz,R8code,0,18,8,2020,3,35,5
+8342,0,Mau tanya apa teman2 ada yg memakai lib commanded utk event sourcing?,Yos,xyz,R8code,0,18,8,2020,3,38,54
+8349,0,this isn't the place to ask that,Jtones,101,,0,19,8,2020,9,41,43
+8350,0,yep - this is destination ip,Jtones,101,,0,19,8,2020,9,41,58
+8351,0,Kayaknya 👆  bot ya,Herdy,Handoko,hhandoko,0,19,8,2020,9,42,56
+8352,0,Sepertinya..,Dimas,,Dim_As_YP,0,19,8,2020,9,47,10
+8356,8342,"Pernah ngulik, belum ada yang naik ke production. Kalau ada yang lebih pengalaman pengen nyimak juga sih.",,,,0,19,8,2020,11,40,24
+8357,8356,Ok,Yos,xyz,R8code,0,19,8,2020,11,41,39
+8385,0,,Moe,,moepoi,0,20,8,2020,21,7,35
+8392,0,"Ada Erlang track di ICFP2020 (International Conference for Functional Programming), hari minggu:\n\nhttps://icfp20.sigplan.org/home/erlang-2020#program",Herdy,Handoko,hhandoko,0,21,8,2020,3,33,46
+8406,0,,Muhamad Riziq,Zulfian,mriziqz,0,21,8,2020,23,52,22
+8413,8273,Centura.... kayaknya bahasa pemrograman yg udah lama juga ya 😁,Iswadi,Achmad,Wadiachmed,0,22,8,2020,4,16,26
+8414,8413,Salam bos\nLama banget gak ketemu,Aulia,Bismar,auliabismar,0,22,8,2020,4,40,20
+8415,0,,Andy,Duong,andyduong1920,0,22,8,2020,6,25,31
+8419,0,,,,,0,22,8,2020,7,2,44
+8423,8414,"Salam jumpa lagi lewat group elixir, om. \nSemoga lancar belajarnya dan berkah. \n😊",Iswadi,Achmad,Wadiachmed,0,22,8,2020,10,33,35
+8424,0,,zaka,,xzxzzzzzzzz,0,23,8,2020,6,54,7
+8428,0,😊,zaka,,xzxzzzzzzzz,0,23,8,2020,6,56,13
+8429,0,Selamat bergabung,Farhan,Rahmadi,Huntz20,0,23,8,2020,7,0,43
+8442,0,"Percayakah kamu bahwa inovasi adalah kunci keberhasilan? Karena itu, budaya inovasi menjadi penting untuk mendorong kebiasaan yang produktif dan juga kreatif. Ikuti diskusi seputar inovasi, sambil merayakan HUT RI ke-75 bersama *The NextDev Hub Virtual Talks #3: Special Edition*, hari *Kamis, 27 Agustus 2020, jam 13:00 - 16:00*.\n-\nPembicara:\nFajrin Rasyid - Director Digital Business at Telkom Indonesia\nDenny Abidin - VP Corporate Communications at Telkomsel\nJezzie Setiawan - Co-Founder & CEO at Gandengtangan\nSofian Hadiwijaya - Co-Founder at Warung Pintar\nBayu Asmara - Managing Director at DKK Consulting\nAdrian Gilrandy - Co-Founder at PTC.sc\nDian O. Wulandari - Social Innovation Evangelist & The NextDev Mentor\n...dan masih banyak lagI!\n-\nIkuti acaranya, dan dapatkan special doorprize! Segera daftar: *bit.ly/thenextdevhubvt3*\n-\n#nextdevhubvt\n#virtualtalks\n#startup",Beby,Karina,BAKarina,0,24,8,2020,6,28,32
+8455,0,,Bisyri,Mustofa,bisyrifa,0,25,8,2020,11,25,35
+8459,0,Ada konferensi Code BEAM V bulan depan: https://codesync.global/conferences/code-beam-sto/,Herdy,Handoko,hhandoko,0,25,8,2020,11,42,34
+8460,0,"Tiketnya sayang agak mahal, bisa pakai promo code untuk diskon (jadinya sekitar 1.5jt):\n\nFriendOFmine1011IX",Herdy,Handoko,hhandoko,0,25,8,2020,11,45,7
+8461,0,https://plausible.io/blog/blog-post-changed-my-startup,Yos,xyz,R8code,0,25,8,2020,16,52,31
+8462,0,"Yg perlu analytics app, open source, made with elixir",Yos,xyz,R8code,0,25,8,2020,16,53,21
+8463,0,Bs dicoba,Yos,xyz,R8code,0,25,8,2020,16,53,39
+8476,0,,Raizen,Owen,cmm96,0,28,8,2020,8,20,32
+8492,0,Kebetulan menemukan artikel bahasa Indonesia tentang LiveView:\n\nhttps://dev.to/rizki96/pembangunan-web-fullstack-menggunakan-phoenix-liveview-part-1-391o,Herdy,Handoko,hhandoko,0,29,8,2020,8,1,41
+8493,0,,Hendri,616,,0,29,8,2020,9,14,57
+8494,8492,,Agus,Susilo,susilolabs,0,29,8,2020,9,39,9
+8495,8492,"gw kenal nih orangnya, jago banget",Ardi,,aredhi,0,29,8,2020,10,32,24
+8502,0,,,,,0,30,8,2020,18,29,14
+8506,0,,,,,0,31,8,2020,1,31,54
+8511,0,👍,Yos,xyz,R8code,0,31,8,2020,9,28,32
+8521,0,,Roderik,,roderikmogot,0,1,9,2020,6,12,27
+8537,0,not possible,neo,lee,,0,2,9,2020,20,30,43
+8538,0,my point is try/except should work,neo,lee,,0,2,9,2020,20,30,50
+8542,0,👆 Bot yah?,Yos,xyz,R8code,0,3,9,2020,5,9,29
+8543,0,"Iya, sudah di kick",Herdy,Handoko,hhandoko,0,3,9,2020,5,57,22
+8547,0,,Tubagus,Saifulloh,tubagus_sa,0,4,9,2020,3,2,36
+8561,0,https://elixirforum.com/t/on-why-elixir/34038/52,Adi,Pur,adipur234,0,5,9,2020,5,17,23
+8568,0,,Her,,AL_HERVY22,0,6,9,2020,22,8,28
+8578,0,Yap kdg sulit utk saranin tmn2 utk menggunakan elixir,Yos,xyz,R8code,0,7,9,2020,5,1,23
+8579,0,Apakah tmn2 di sini ada yg punya saran jitu utk menyarankan org utk menggunakan elixir?,Yos,xyz,R8code,0,7,9,2020,5,3,1
+8580,0,Ya mungkin boleh bantu bikinin skeleton crud pakai elixir versi sendiri include cara deploy nya.. \nPart itu yg sosialisikan dan share cara mudah extend dari skeleton tsb ..,Fredy,,,0,7,9,2020,5,33,55
+8581,0,Jadi pemula yg mo coba elixir itu gampang nyesuaiin .. \nKalo ada case auth nya lebih bagus lagi,Fredy,,,0,7,9,2020,5,34,20
+8582,0,Ini gue share dari perspektif pribadi ya,Fredy,,,0,7,9,2020,5,34,33
+8583,8579,Maksudnya untuk mulai belajar atau untuk meyakinkan pakai Elixir?,Herdy,Handoko,hhandoko,0,7,9,2020,5,39,44
+8584,0,Meyakinkan pakai elixir,Yos,xyz,R8code,0,7,9,2020,6,25,56
+8585,0,"Temen""nya sekarang pakai programming language apa?",Herdy,Handoko,hhandoko,0,7,9,2020,6,29,2
+8587,8579,Lewat phoenix biasanya. Demonstrasiin cara bikin CRUD pakai generator. Untuk mereka yang belum familiar dengan django dan RoR biasanya ngiler. Bagi mereka yang familiar dengan dango dan RoR sodorin benchmark.,,,,0,7,9,2020,9,12,19
+8589,0,Klo bandingin dgn dot net core?,Yos,xyz,R8code,0,7,9,2020,10,13,48
+8590,8589,kasih tau aja mas lib'a gratis :v,Farhan,Rahmadi,Huntz20,0,7,9,2020,10,20,11
+8591,8589,"Erlang VM canggih 😬\n\nLatency dari aplikasi konsisten walaupun kena heavy load. Utamanya karena konsep predictive scheduling, dan GCnya per Erlang process.",Herdy,Handoko,hhandoko,0,7,9,2020,10,44,21
+8592,0,"coba zero-downtime pak, jadi tiap ada update gak perlu restart server dan pengguna tetap gak pernah ngerasa pernah ada versi upgrade",Terminus Est,,rahshingan,0,7,9,2020,10,45,0
+8593,0,"Kalau soal bahasa pemrograman, menurut saya sih hard sell, soalnya yang di .net core seneng dengan OOPnya.",Herdy,Handoko,hhandoko,0,7,9,2020,10,45,7
+8594,8592,"trus motto di erlang itu sendiri, __let it crash__ jadi gak perlu if-else-then buat nge-guard klo misal ada error gimana2",Terminus Est,,rahshingan,0,7,9,2020,10,46,14
+8595,8594,"Ini harus dibedakan juga tapi, antara error dan exception (istilah Java).\n\nKalau error (unrecoverable), aplikasi aman dan supervisornya bisa restart prosesnya lg.",Herdy,Handoko,hhandoko,0,7,9,2020,10,47,40
+8596,8594,"yg __let it crash__ ini kerasa banget klo sering bekerja dengan io, contohnya web kan bekerjan dengan socket jadi masuknya io juga, jadi gak perlu guard kasus per kasus klo misal ada invalid operasi, jadi gak ada celah keamanaan juga",Terminus Est,,rahshingan,0,7,9,2020,10,48,14
+8597,0,"Oh ya, satu lagi ya konsumsi memori lebih rendah dibanding .net core.",Herdy,Handoko,hhandoko,0,7,9,2020,10,48,51
+8598,8595,"paling gak perlu except sesuatu yg emg gak perlu, klo misal ada malware yang ngasih invalid input, misal ngelebihi buffer atau gimana",Terminus Est,,rahshingan,0,7,9,2020,10,49,26
+8599,8598,"Iya, bener 👍",Herdy,Handoko,hhandoko,0,7,9,2020,10,49,45
+8600,0,"yg di except biasanya bisa fokus di hal2 penting di logika bisnis aja, masalah2 yg gak perlu udah biarin aja",Terminus Est,,rahshingan,0,7,9,2020,10,50,5
+8601,0,Satu lagi kelebihannya: bukan produk Microsoft 😜,Herdy,Handoko,hhandoko,0,7,9,2020,10,50,32
+8602,0,gak ada vendor lock 🙈,Terminus Est,,rahshingan,0,7,9,2020,10,50,47
+8603,0,"Walaupun sudah open source, tapi mindsetnya belom banyak berubah.\n\nInisiatif komunitas di MS tidak banyak yang berhasil, soalnya kadang harus kompetisi sama produk MS sendiri.",Herdy,Handoko,hhandoko,0,7,9,2020,10,51,51
+8604,0,"gimana kalau ngasih alternatif buat mereka yang pakai F#, misal ""elixir juga functional lo kayak f#""",Luthfi || Latif H,,lh_luthfi,0,7,9,2020,10,53,57
+8605,8604,Biasanya yang sudah pakai F# lebih gampang dibujuk 😜,Herdy,Handoko,hhandoko,0,7,9,2020,10,55,32
+8606,8598,yg ini point bagus,Yos,xyz,R8code,0,7,9,2020,12,17,26
+8607,8592,"Utk yg ini, sy msh jd pertanyaan krn distillery sdh hampir tdk pernah diupdate sejak klr mix release",Yos,xyz,R8code,0,7,9,2020,12,19,17
+8608,0,Dan utk hot upgrade mix release msh blm ada contoh yg komplit,Yos,xyz,R8code,0,7,9,2020,12,19,44
+8609,0,Apakah mas msh menggunakan distillery utk deployment?,Yos,xyz,R8code,0,7,9,2020,12,20,43
+8610,8607,"distillery itu lib elixir? atau dot net core? sy dulunya seringnya di erlang aja sih pak jadi klo hot-swap upgrade itu emg udah ada mekanismenya dari erlangnya sendiri, gak pakai lib 3rd party",Terminus Est,,rahshingan,0,7,9,2020,12,21,40
+8611,8609,"untuk saat ini masih mantau elixir pak 🙈 soalnya lebih populer dari erlang, haha, klo sy sendiri prefer erlang sebenarnya tapi 11-12 sih soalnya elixir-erlang bisa interop",Terminus Est,,rahshingan,0,7,9,2020,12,22,44
+8612,0,"Yah, distillery lib nya elixir utk membantu deployment",Yos,xyz,R8code,0,7,9,2020,12,24,28
+8613,0,Tmn2 ada yg berhasil utk hot upgrade dgn menggunakan mix release?,Yos,xyz,R8code,0,7,9,2020,12,32,56
+8614,8579,"video ini memang bukan ttg elixir, tapi pendekatan dalam memperkenalkan teknologi baru bisa banget ditiru https://www.youtube.com/watch?v=byNJSDDsE_M",Riza 🦊🚀🎙🎥,,rizafahmi,0,7,9,2020,14,36,13
+8618,8604,"Saya jg skrg lg ngoprek elixir, tpi ntah knp, saya kok merasa klo elixir itu lbh deket ke keluarga lisp yak 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,1,13,40
+8619,0,"Contoh: clojure, krn pd saat yg bersamaan saya jg belajar clojure, makin lama saya coding di elixir, saya kok ngerasa makin mirip clojure/lisp family",Hiraq,Citra M,hiraqdev,0,8,9,2020,1,14,33
+8620,0,"Elixir = power of clojure + beauty of ruby + fast concurrent process from erlang vm\n\nMenurut saya sih ini, haha 😅, br ngoprek2 jg, mungkin saya yg berlebihan yak 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,1,16,19
+8621,0,"Mungkin karena paradigma utamanya sama, functional programming. Jadi fokus utamanya di data structure dan function. Beda sama OOP yang main fokusnya di object dan message passing.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,2,0,32
+8622,0,"klo dipikir2...erlang itu bukannya ""message passing"" jg yak konsep ""actornya , eh iya ga sih 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,2,56,39
+8623,0,"saya dl pernah discuss ini ma temen..sebenernya, erlang itu functional ato oop? oop yg dimaksud disini , merunut ke sejarah original dari oop sendiri, yaitu ""message passing"" \n\nhttps://trigonakis.com/blog/2011/05/26/introduction-to-erlang-message-passing/#:~:text=The%20communication%20model%20(among%20processes)%20in%20Erlang%20is%20message%20passing.&text=Every%20process%20(even%20the%20shell,does%20not%20block%20on%20send.",Hiraq,Citra M,hiraqdev,0,8,9,2020,2,57,37
+8624,8622,"message passing yg sebenarnya, bukan class-bases yang mengemulasi type-system trus ngaku2 message-passing",Terminus Est,,rahshingan,0,8,9,2020,2,59,28
+8625,0,"nah! krn oop ""jaman dl"" yg original by Alan Kay sebenernya spt ini -> https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,0,13
+8626,0,"OOP itu menurutku mengalami sebuah evolusi, dari yg ""original"" dan jaman skrg (jaman now)",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,0,34
+8627,0,"sejarah awal OOP itu bahkan dari Biologi & Matematika:\n\n> OOP to me means only messaging, local retention and protection and hiding of state-process, and extreme late-binding of all things.",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,1,6
+8628,0,@thebugs,Terminus Est,,rahshingan,0,8,9,2020,3,1,8
+8629,0,"klo menurutku ada perjalanan (evolusi) sih mas , sampe akhirnya OOP menjadi apa yg kita temui di ""saat ini""",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,1,53
+8630,0,"> OOP to me means only messaging, local retention and protection and hiding of state-process, and extreme late-binding of all things. It can be done in Smalltalk and in LISP. There are possibly other systems in which this is possible, but I'm not aware of them.",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,2,33
+8631,0,https://softwareengineering.stackexchange.com/questions/46592/so-what-did-alan-kay-really-mean-by-the-term-object-oriented,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,2,40
+8632,0,"mutasi sih, bukan evolusi",Terminus Est,,rahshingan,0,8,9,2020,3,2,46
+8633,0,BENERRRR,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,3,0
+8634,0,pas bgt termnya,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,3,3
+8635,0,((mutasi)),Hiraq,Citra M,hiraqdev,0,8,9,2020,3,3,7
+8636,0,"object programming sih ok2 aja, tapi jgn ada oriented nya, crippling problem solving jadinya, klo butuhnya fungsi pakai fungsi, klo butuhnya object ya pakai object",Terminus Est,,rahshingan,0,8,9,2020,3,5,27
+8637,0,"itulah knp klo merunut ke sejarah awal ""OOP"" atau lbh tepatnya ""object oriented"" yg original dari Alan Kay, menurutku Erlang itu ya... ""OO"" (mungkin tanpa P kali ya)",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,5,34
+8638,8622,Benar. Tapi yang gua maksud message passing itu derived dari paradigmanya. Bukan maksud language featurenya.,Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,5,51
+8639,8623,"That's right. Alan Kay sendiri sedikit kecewa dengan penggunaan nama ""OOP"" untuk hal yang di luar maknanya.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,7,28
+8640,0,nah!,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,7,45
+8641,0,kami dl diskusi sampe di titik itu,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,7,51
+8642,0,ini history komunikasi dgn Alan Kay jg ada -> http://userpage.fu-berlin.de/~ram/pub/pub_jf47ht81Ht/doc_kay_oop_en,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,8,6
+8643,0,"> I thought of objects being like biological cells and/or individual \n\ncomputers on a network, only able to communicate with messages (so \n\nmessaging came at the very beginning -- it took a while to see how to \n\ndo messaging in a programming language efficiently enough to be \n\nuseful).",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,8,23
+8644,0,"dan bahkan klo kita belajar functional programming dari konsep & sejarah, banyak yg megatakan klo functional lahir dari matematika..\n\ntapi klo kita belajar sejarah ""oop"" , bahkan ""oop"" pun sebenernya dari matematika jg \n\n> My math background made me realize that each object could have \n\nseveral algebras associated with it, and there could be families of \n\nthese, and that these would be very very useful. The term \n\n""polymorphism"" was imposed much later (I think by Peter Wegner) and \n\nit isn't quite valid, since it really comes from the nomenclature of \n\nfunctions, and I wanted quite a bit more than functions. I made up a \n\nterm ""genericity"" for dealing with generic behaviors in a \n\nquasi-algebraic form.",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,9,35
+8645,0,"ini yg ""original"" lho ya bukan yg kayak jaman skrg inheritance, properties/attributes, dll 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,10,4
+8646,0,"sudah terlalu banyak pergeseran term & definisi dari originalnya sendiri di jaman now, yaitu jaman keemasannya C++ dan Java 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,10,44
+8647,0,"klo saya dulu sempet meng-analogikan pake definisi ""object"" dan ""message passing"" dari Alan Kay, \n\nfunction -> object\nfunction's parameters -> message\n\nfunction -> (message passing) -> function",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,11,50
+8648,0,"Kalau yang gua pahami, idenya OOP itu sebenarnya cuma untuk ngehide detail data abstraction dan abstraction layernya.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,12,27
+8649,0,"perbedaannya adl...functional programming itu ""immutable"" dari jaman dulu (original) sampe skrg",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,12,28
+8650,8649,"ini maksudnya term & definisinya, inilah yg bikin saya salut 😁",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,13,3
+8651,8645,sebuah usaha untuk mengemulasi types system yang berujung pada mimpi buruk,Terminus Est,,rahshingan,0,8,9,2020,3,13,36
+8652,0,HUAHAHHAHAHAHAHA,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,13,47
+8653,0,"Kalau di FP kan, data abstraction dan abstraction layernya lebih explicit, makanya mungkin feel ngodignya akan sama antara satu FP dengan FP yang lain.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,13,51
+8654,0,bener2,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,13,53
+8655,8651,ini valid sih 😂,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,14,1
+8656,0,"apalagi yang `is-a`, makanya sekarang oop banyakan bilang mending `has-a` yg pakai c struct biasa pun sudah cukup klo cuman `has-a` doang",Terminus Est,,rahshingan,0,8,9,2020,3,14,25
+8657,8653,no pattern ... just function 😁,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,14,39
+8658,8656,"makanya golang, rust, gak bawa2 class lagi",Terminus Est,,rahshingan,0,8,9,2020,3,14,47
+8659,0,"krn mungkin ""hell"" itu terjadi klo ada ""class"" kali ya, smua kompleksitas yg terjadi maksudku 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,15,40
+8660,0,"pernah jg belajar di sini -> https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt ..ini pendekatannya pake F# sih, tapi asli ini menambah wawasan baru ... ya utk saya pribadi sih maksudnya 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,16,45
+8661,0,no pattern -> just function 😁,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,16,59
+8662,0,"oh iya, dari sini saya mulai tertarik dgn F# juga sih, sangat menarik , walopun akhirnya yg saya oprek beneran malah Elixir 😁",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,18,12
+8663,0,"tapi dari slide tadi, saya akhirnya bs implement ROP (Railsway Oriented Programming) di Elixir , make ""pipe operator""",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,18,41
+8665,0,,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,20,13
+8666,0,"intinya sih dataflow, aliran datanya bisa kebaca, klo program yang ditulis bagus itu biasa jelas dari mulai ke ujungnya\nyg buat oop susah dibaca itu gak linier",Terminus Est,,rahshingan,0,8,9,2020,3,20,22
+8667,0,"nah! bener bgt! dataflow , dan bisa kebaca",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,20,39
+8668,0,"Sebenarnya ada bagusnya distructurin ke class, supaya contract dengan ""black box"" lain lebih simplified, hanya jika class itu ga punya banyak responsibility. Cuma kan praktiknya kadang bingun ngestructurin classnya gimana karena defacto class itu ""harus"" ngemap ke satu domain model, yang kadang ga tau harus mecah di mana. I guess hell born from that moment.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,20,50
+8669,8665,👍,Herdy,Handoko,hhandoko,0,8,9,2020,3,20,51
+8670,8668,"dan ini biasanya kemudian berkembang, pasang sana sini, tempel sana sini 😅 , dan ya.....berakhir dgn ""hell""",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,22,22
+8671,8663,"Make ""with"" keyword kali maksudnya buat railway programming?",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,22,22
+8672,0,"nah.....saya blm smpt ngoprek ""with"" ini di Elixir, saya aja baru tau kemarin ternyata ada keyword itu di Elixir 😂",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,23,22
+8673,8618,"Setuju sih. Aslinya lebih deket ke lisp, clojure, dkk. Cuman syntax dimirip miripin sama Ruby. Makanya cukup banyak pitfall bagi orang2 yang ngoding gara RoR di elixir.",,,,0,8,9,2020,3,23,35
+8674,0,"masih jatuh cinta ma ""pipe operator"" nya saya 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,23,37
+8675,8672,Bagian function yang banyak nested if elsenya biasanya cocok dipakaiin with.,,,,0,8,9,2020,3,24,42
+8676,0,"dan yg membuat saya ""mind blowing"" di Elixir adalah..saya bs ""merasakan"" fitur di F# dan Clojure sekaligus\n\nF# pipe operator -> https://theburningmonk.com/2011/09/fsharp-pipe-forward-and-pipe-backward/\n\nClojure polymorph -> http://clojure-doc.org/articles/language/polymorphism.html#:~:text=Polymorphism%20is%20not%20at%20all,)%2C%20that%20function%20is%20polymorphic.",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,25,38
+8677,8675,"noted mas 👌 , coba hari ini saya liat2 lagi ""with"" nya Elixir",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,26,28
+8678,0,"Temen yang dari PHP sempet complain: Karena elixir implicit return, statement terakhir yang bakal di return, dia nggak bisa sembarang return di tengah2. Akhirbatnya dia nulis nested if else dalem banget kayak javascript. \n\nDari situ baru dikenalin sama `with`.",,,,0,8,9,2020,3,29,18
+8679,0,"ok lanjut dl ke kenyataan hidup saya yg pake Golang 😂 , makasi mas2 diskusinya, asli asik bgt diskusi hari ini di sini 😎, jd tambah semangat belajar Elixir nya",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,29,35
+8680,8678,Justru ini bagus menurut saya. Ga ada 'kejutan' 🤣,Herdy,Handoko,hhandoko,0,8,9,2020,3,31,11
+8681,0,"Bagian sejarah OOP menarik banget sih, setelah sekarang banyak yang pusing setelah terlibat proyek OOP skala gede. Masuk “OOP” ala actor model jadi nyaman banget. \n\nOrang orang java aja pada adopsi Actor Model pakai Akka kan? Kayaknya jalan keluar yang bagus untuk pakai actor model tanpa keluar dari java ecosystem.",,,,0,8,9,2020,3,31,55
+8682,8680,Setuju banget. 😆,,,,0,8,9,2020,3,32,28
+8683,8676,"Boleh elaborate ga, kenapa elixir kerasa kayak Clojure? Gua melajarin Scheme, masih familynya LISP juga, tapi kerasanya beda, selain dari approach problem ala FP.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,34,56
+8684,0,"eh itu tadi ada linknya sih mas 😅 , tapi klo yg saya rasain sih, apa yg ada di Clojure ada juga di sini\n\nClojure's features:\n\n- Protocol\n- Record -> Struct\n- Polymorph \n- quote / unquote (macro)",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,36,38
+8685,8683,Kalau buat saya paling dejavu di bagian recursivenya. Dulu belajar FP pertama kan pakai clojure. Ga nangkep2 lama banget untuk ganti loop dengan recursive. Apalagi referencenya Ruby dan PHP.,,,,0,8,9,2020,3,37,59
+8686,8618,"Eh, sala ngequote message. Haha, maksudnya yang ini.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,38,14
+8687,0,"klo Scheme saya blm pernah nyoba sih, mo nyoba racket-lang , angkat tangan lah saya :|",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,38,16
+8688,8684,"Truth to be told, Protocol di Elixir memang terinspirasi dari Clojure.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,39,4
+8689,0,"nah, bener brarti!",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,39,14
+8690,0,😁,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,39,15
+8691,8681,Banyak boilerplate tapinys. Rilis terakhir ini juga baru ada Akka typed (yang ada compile-time checknya).,Herdy,Handoko,hhandoko,0,8,9,2020,3,40,24
+8692,0,"makanya tadi, elixir itu spt kombinasi antara lisp & ml ...lisp tanpa parentheses, dan ml tanpa type + proven concurrent ability from erlang vm .. 😁",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,40,34
+8693,0,"oh iya lupa...the beauty of ruby, ini penting 😂",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,41,1
+8694,0,ga jadi kerja lg aku :|,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,41,35
+8695,0,"off dl deh mas2, ngejer sprint dl 😂",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,41,50
+8696,0,"Tapi kayaknya masih beda sama lisp family, soalnya approach di lisp family, cuma ada list dan procedure untuk list tersebut.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,42,13
+8697,0,"nah! bener bgt ... konsep ""homoiconic"" nya kurang kerasa klo di elixir emang 😅",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,42,46
+8698,0,balik lg deh aku :|,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,43,1
+8699,8687,"Good news, Racket akan implemented on top of Chez Scheme. So, racket akan jadi supersetnya R6RS.",Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,44,34
+8700,0,hmm,Hiraq,Citra M,hiraqdev,0,8,9,2020,3,44,54
+8701,8699,"mas , ada referensi urlnya kah? menarik nih utk dipelajari kayaknya 😐",Hiraq,Citra M,hiraqdev,0,8,9,2020,3,47,46
+8702,0,Background: https://groups.google.com/forum/m/#!msg/racket-dev/2BV3ElyfF8Y/4RSd3XbECAAJ\nLatest Update: https://blog.racket-lang.org/2020/02/racket-on-chez-status.html,Muhammad,Fauzan,muhifauzan,0,8,9,2020,3,51,44
+8703,8702,https://cs.uwaterloo.ca/~plragde/flaneries/TYR/,Andi,Siswa,bensisva,0,8,9,2020,9,43,18
+8704,0,Utk yg mau lisp jln di beam\nhttps://lfe.io/,Yos,xyz,R8code,0,8,9,2020,13,27,6
+8705,0,Wusss,Hiraq,Citra M,hiraqdev,0,8,9,2020,13,41,36
+8706,8704,Clojerl juga. https://www.youtube.com/watch?v=ooN3AiF8qPQ,Andi,Siswa,bensisva,0,8,9,2020,13,53,36
+8707,0,"barusan baca2 lfe.io ... ini kayaknya msh lama deh biar nyampe stable 😅 , lagipula si creator juga ternyata salah satu co-inventor erlang + sering buat bhs pemrograman di atas erlang vm , dan lbh keliatan klo sbg ""eksperimen"" \n\nklo clojerl, udah tau lama sih lisp (clojure) di atas erlang vm, tapi bukan official dari clojure , dan ga yakin jg sih si rich hickey (creator clojure) bakalan setuju building clojure di atas erlang vm, krn beliau ini sebenernya tipikal programmer pragmatis, dan salah satu alasan dibangun di atas JVM lbh krn library2 jvm yg notabene stable dan ""proven"" + enterprise\n\nmenurut saya ngamatinnya gini sih , tapi menarik ni terutama yg lfe tadi utk main2 😁",Hiraq,Citra M,hiraqdev,0,8,9,2020,15,36,45
+8711,0,,Andryantz,,andryantz,0,9,9,2020,2,35,53
+8730,0,,SULTAN,.,THESULTANSTUDIOS,0,11,9,2020,8,38,37
+8734,0,https://twitter.com/davydog187/status/1304395782351618048?s=19,Agus,Susilo,susilolabs,0,12,9,2020,0,4,55
+8735,8734,"Cepat 👌 Tapi kalau pakai JIT, konsumsi memorinya bagaimana ya?",Herdy,Handoko,hhandoko,0,12,9,2020,0,30,34
+8736,0,Sy baca digithub beberapa kasus malah akan consume memori lebih dan kerja lebih byk 😄,Agus,Susilo,susilolabs,0,12,9,2020,0,32,39
+8737,0,,Agus,Susilo,susilolabs,0,12,9,2020,0,33,24
+8738,8736,"Klo msl ErlangVM dibandingkan dgn JVM, kira2 lbh boros mana ya mas2? 😅",Hiraq,Citra M,hiraqdev,0,12,9,2020,0,36,23
+8739,8738,"Ini dia kita belum tahu, harus tunggu real world metrics 😁",Herdy,Handoko,hhandoko,0,12,9,2020,0,37,2
+8740,0,Maksudnya Erlang VM + JIT,Herdy,Handoko,hhandoko,0,12,9,2020,0,37,17
+8741,0,"Oh yg +jit yak, i see.. Berhubung minim pengalaman di ErlangVM, blm kebayang itu ntar klo +JIT bakal gmn 😅",Hiraq,Citra M,hiraqdev,0,12,9,2020,0,38,1
+8742,0,Kalau sekarang Erlang VM cukup efisien. Idle sekitar 35 MB.,Herdy,Handoko,hhandoko,0,12,9,2020,0,38,42
+8743,0,🧐 hmm,Hiraq,Citra M,hiraqdev,0,12,9,2020,0,40,13
+8744,0,Apa mungkin nanti ada opsi untuk runtime pakai JIT atau tidak ya?,Herdy,Handoko,hhandoko,0,12,9,2020,0,40,50
+8745,0,"BTW, salah satu gebrakan lagi yang diumumkan di CodeBEAM conf, Facebook akan Open Source typed Erlang implementation mereka.",Herdy,Handoko,hhandoko,0,12,9,2020,0,42,15
+8746,0,https://twitter.com/CodeBEAMio/status/1304370824573485056,Herdy,Handoko,hhandoko,0,12,9,2020,0,43,29
+8747,0,😱,Agus,Susilo,susilolabs,0,12,9,2020,1,9,26
+8748,0,Static typing lg hype kekny 🙂,Agus,Susilo,susilolabs,0,12,9,2020,1,10,16
+8752,0,"Static typing ngebantu auto complete dan renaming, dl sblm elixir_ls seperti skrg, sy jg kesulitan dlm memulai elixir",Yos,xyz,R8code,0,12,9,2020,12,21,1
+8753,0,utk bagian renaming dlm elixir ataupun dynamic type lang msh tdk mdh,Yos,xyz,R8code,0,12,9,2020,12,22,24
+8754,8753,"Iya, ini kegunaan yang paling penting buat saya, refactoring support 😬",Herdy,Handoko,hhandoko,0,12,9,2020,12,40,33
+8755,0,"Tapi nanti, di Elixir 1.11 bakal ada compile time struct check kalau ga salah.",Herdy,Handoko,hhandoko,0,12,9,2020,12,40,54
+8756,0,https://github.com/elixir-lang/elixir/blob/master/CHANGELOG.md#compiler-checks-data-constructors,Herdy,Handoko,hhandoko,0,12,9,2020,12,42,52
+8757,8752,Kalo di intelij pake struct bukan'a ada yaa ?,Farhan,Rahmadi,Huntz20,0,12,9,2020,13,31,15
+8758,0,"Utk auto complete di elixir sdh tdk terlalu masalah krn sdh ada elixirLS dan elixir plugin utk intelj, tapi utk renaming / refactor msh hrs dgn find and replace",Yos,xyz,R8code,0,12,9,2020,13,54,11
+8759,0,Teman2 ada yg punya tips dlm refactoring name?,Yos,xyz,R8code,0,12,9,2020,13,55,26
+8760,8759,So far pake Intelij aman kok mas,Farhan,Rahmadi,Huntz20,0,12,9,2020,14,48,33
+8761,0,Mungkin indentasi'a aja sama error' message'a,Farhan,Rahmadi,Huntz20,0,12,9,2020,14,48,49
+8762,0,Yang agak ribet,Farhan,Rahmadi,Huntz20,0,12,9,2020,14,48,54
+8763,8748,"Ruby -> Crystal\n\nLisp -> “By the mid 1990’s I was a C++ expert, taught advanced C++ as an adjunct at NYU, and was a proponent and advocate of the benefits of static typing (but neglected the tradeoffs, sorry students!). I was happily discovering type parameterization tricks [Hickey 1996], running a const-correct shop etc.\nHowever, over time, in my experience, the suitability-to-task of these statically typed class models for information systems programming was quite low, and the benefits of the type checking minimal, especially in addressing the number one actual problem faced by programmers: the overwhelming complexity inherent in imperative, stateful programming. As programs grew large, they required increasingly Herculean efforts to change while maintaining all of the presumptions around state and relationships, never mind dealing with race conditions as concurrency was increasingly in play. And we faced encroaching, and eventually crippling, coupling, and huge codebases, due directly to specificity (best-practice encapsulation, abstraction, and parameterization notwithstanding). C++ builds of over an hour were common. In the years immediately preceding work on Clojure I worked on the system to be used for the national exit poll in the U.S. This system involved automating large statistical models. Early on we decided that an imperative approach to doing the stats was a misfit, being not mathematical and also due to the expected concurrency throughout the system. After exploring F# for the task (and finding it insufficiently expressive), we decided to code the stats in C# like the rest of the system (this was a Microsoft .Net shop). I designed some custom immutable data structures whose use would be co-aligned with the figures in the statistical specifications (so statisticians who did not know C# could look at the code and understand it), and a functional library for manipulating the structures and doing the calculations. This was a great success, yielding much simpler code that we did not, and still do not, worry about. However, the resulting C# code was, in the eyes of both new and experienced C# developers, bizarre and non-idiomatic. Thus functional programming was a win, but FP in a non-FP language was not something I could see being widely applied.”\n\n—— Rich Hickey, A history of Clojure. \n\n“Computer hardware has evolved dramatically in the last few decades. On a typical computer, storage and memory capacity have both increased a millionfold compared to the early 1980s. Nonetheless, standard industry practices in software development and mainstream ways of programming are not that different. Programming languages such as C++, Java, Python, and Ruby still typically encourage you to change things in place, and to use variables and mutate the state of a program, that is, to do things as if we were programming on a computer with a minimal amount of memory. However, in our quest for efficiency, better languages, and better tools, we reach for higher-level languages. We don't want to think about the computer's memory anymore, such as where a piece of information is stored and whether it's safe and shareable, as much as we don't want to know about the order of the instructions in the CPU. It is a distraction to the problems we are trying to solve, which are already complicated enough. If you have ever tried to do some multithreading in the languages cited previously, you will know the pain of sharing data between threads. Although, leveraging multicore CPUs with multithreaded applications is an essential part of optimizing a modern program's performance.”\n\n—— Excerpt From The Clojure Workshop by Joseph Fahey, Thomas Haratyk, Scott McCaughie, Yehonathan Sharvit, and Konrad Szydlo. This material may be protected by copyright.",Andi,Siswa,bensisva,0,12,9,2020,16,3,10
+8764,0,https://youtu.be/JvBT4XBdoUE,Hiraq,Citra M,hiraqdev,0,13,9,2020,5,43,36
+8765,0,tambah jatuh cinta aku ma elixir stlh nontno video ini 😁,Hiraq,Citra M,hiraqdev,0,13,9,2020,6,19,0
+8766,0,terutama waktu proses solving spike cpu usage.....in production!,Hiraq,Citra M,hiraqdev,0,13,9,2020,6,19,18
+8767,0,mind blowing emang BEAM ini,Hiraq,Citra M,hiraqdev,0,13,9,2020,6,20,23
+8768,0,how to save your production like a boss!,Hiraq,Citra M,hiraqdev,0,13,9,2020,6,22,2
+8769,0,BEAMVM ini stlh aku liat di video tadi bener2 kayak mini os,Hiraq,Citra M,hiraqdev,0,13,9,2020,6,22,16
+8770,0,Salah satu modern marvels of engineering 😁,Herdy,Handoko,hhandoko,0,13,9,2020,6,23,27
+8771,0,BENER!,Hiraq,Citra M,hiraqdev,0,13,9,2020,6,24,14
+8772,0,"dari semua bhs yg pernah saya pegang (dikit sih), ini asli mind blowing!",Hiraq,Citra M,hiraqdev,0,13,9,2020,6,24,25
+8773,0,"pgn aku cium monitorku stlh liat video tadi, sumpah, cantik betul!",Hiraq,Citra M,hiraqdev,0,13,9,2020,6,24,46
+8774,0,"Yah runtime debugging nya mantap, tp ada yg harus diperhatiin, org yg bs akses  remote console hrs trustable, krn jg bisa inspect dan merubah runtime state",Yos,xyz,R8code,0,13,9,2020,7,16,39
+8775,0,hmm,Hiraq,Citra M,hiraqdev,0,13,9,2020,7,30,22
+8776,0,"tul juga , lupa mikirin itu juga aku 😐",Hiraq,Citra M,hiraqdev,0,13,9,2020,7,30,37
+8777,0,"btw, si pembicara di video tadi, jg bikin buku di sini ternyata -> https://www.manning.com/books/elixir-in-action-second-edition?query=elixir ..stlh liat videonya, langsung auto beli bukunya , dan stlh ini aku lg baca2...emang mantap sih 😁",Hiraq,Citra M,hiraqdev,0,13,9,2020,7,34,19
+8778,0,"menjelaskan distributed di erlang , kmudian implementasi di elixirnya.. detail & mudah dipahami",Hiraq,Citra M,hiraqdev,0,13,9,2020,7,35,3
+8779,8761,"Dah lm g pk intelj, nanti sy coba, seinget sy tdk support dialyzer",Yos,xyz,R8code,0,13,9,2020,11,50,56
+8780,0,Hrs tulis @spec nya manual,Yos,xyz,R8code,0,13,9,2020,11,51,22
+8781,0,Btl g atau ada settingan nya?,Yos,xyz,R8code,0,13,9,2020,11,52,0
+8782,0,Masih dalam pengembangan sepertinya:\n\nhttps://github.com/KronicDeth/intellij-elixir/issues/895,Herdy,Handoko,hhandoko,0,13,9,2020,13,52,55
+8786,8782,Thx,Yos,xyz,R8code,0,13,9,2020,15,9,25
+8787,8738,"Erlang lebih effisien, karena strict no share state ala FP dan tiap process cuma strictly message passing by value, jadi tiap process di VM erlang memiliki alam garbage collector sendiri2. cmiiw",Oky,Firmansyah,,0,13,9,2020,17,54,36
+8788,0,Ini menarik 😁 \n\nhttps://github.com/spawnfest/bakeware,Herdy,Handoko,hhandoko,0,13,9,2020,21,58,26
+8789,8788,👍,Yos,xyz,R8code,0,14,9,2020,5,5,42
+8790,0,,mansur4535,,mansur4535,0,14,9,2020,12,6,58
+8794,0,/,mansur4535,,mansur4535,0,14,9,2020,12,7,45
+8798,0,"Halo, pagi mas2/mbak2..brsan msh pelajari flow dari Supervisor & GenServer, maklum newbie di Elixir 😅\n\nMisal gn, saya buat sbuah api misal pake plug, nah di api ini ada controller/handler yg bth sbuah repo utk berhub ma persistence layer, misal pake Ecto\n\nNah, dr yg saya pelajari, router dr plug dan ecto itu perlu dimasukkan sbg child dr sbuah supervisor, jd ada satu supervisor, dgn dua child processes yaitu plug router dan ecto\n\nApakah memang spt ini? Ato cukup yg dimasukkan hanya plug routernya doang? Krn reponya kan diconsume di dlm controller, dan ini sdh didaftarim di dlm supervisor, ato emang harus didaftarin satu2 smua module yg implement GenServer?",Hiraq,Citra M,hiraqdev,0,15,9,2020,1,42,23
+8799,0,"Dan pgn konfirmasi jg ni, dr yg saya pelajari, sbuah module yg implement GenServer kan perlu didaftarin di Supervisor, nah, proses ""guard"" ini emang based on module name yak? \n\nJd intinya yg penting sbuah module udah didaftarkan sbg child process, otomatis dia akan ""aman"" begitu diconsume\n\nBener gn bukan ya pengertiannya? 😅",Hiraq,Citra M,hiraqdev,0,15,9,2020,1,46,59
+8800,0,"Supervisor is one of many ways for you to embrace ""let it crash"" design. Have a look at brief introduction here, https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html",Muhammad,Fauzan,muhifauzan,0,15,9,2020,3,29,23
+8801,0,Also read:\n- https://elixir-lang.org/getting-started/modules-and-functions.html\n- https://elixir-lang.org/getting-started/processes.html\n- https://elixir-lang.org/getting-started/mix-otp/genserver.html,Muhammad,Fauzan,muhifauzan,0,15,9,2020,5,3,51
+8802,8798,"@hiraqdev\nMencoba menjawab yang ini\n`Apakah memang spt ini? Ato cukup yg dimasukkan hanya plug routernya doang? Krn reponya kan diconsume di dlm controller, dan ini sdh didaftarim di dlm supervisor, ato emang harus didaftarin satu2 smua module yg implement GenServer?`\n\nIya module Plug(Endpoint) dan Ecto(Repo) di daftarkan di Supervisor agar process-nya dimulai sehingga dapat diakses seperti Process pada normalnya. Ketika Supervisor dimulai (start_link), maka supervisor akan memulai child prosesnya juga (Endpoint dan Repo). Seperti yang saya bilang, agar Kedua module itu berjalan dan dapat di passing massage ketika runtime.\n\nMisal hanya bagian Plug Endpoint-nya saja yang di jalankan di Supervisor(start_link). Nanti ketika controller memanggil Repo maka akan terjadi error karena processnya (Repo) belum di jalankan.\n\n\n\nUntuk lebih detailnya bisa lihat di link di atas chat saya ini",Luthfi || Latif H,,lh_luthfi,0,15,9,2020,6,4,10
+8803,0,"baiklah mas @lh_latif , ok fix, confirmed brarti 😁",Hiraq,Citra M,hiraqdev,0,15,9,2020,8,34,26
+8804,0,makasi mas2 🙇,Hiraq,Citra M,hiraqdev,0,15,9,2020,8,34,41
+8805,0,,Sulthonul,Adib,sulthonuladib,0,15,9,2020,18,40,29
+8809,0,,,,,0,16,9,2020,0,6,53
+8816,0,,Hena Safna,Dicoding Indonesia,hensaf,0,17,9,2020,3,23,22
+8820,0,"Selamat pagi kawan-kawan, mohon izin share informasi seputar beasiswa pemrograman di Indonesia ya:\n\nDibuka untuk seluruh WNI, program Beasiswa Indonesia New Collar & Skill Accelerator Center dukungan IBM.\n\nProgram ini bertujuan mengembangkan talenta digital Indonesia terbaik di bidang teknologi informasi. \n\nBeasiswa ini memberikan pelatihan skill digital secara online, mandiri, intensif di Dicoding dan tanpa biaya.\n\nPilih hingga 3 kelas sekaligus dan selesaikan dalam 30 hari. Pilihan kelas:\n- Belajar Membuat Aplikasi Kognitif\n- Memulai Pemrograman Dengan Python\n- Belajar Machine Learning untuk Pemula\n\n\nDaftar sekarang di ibm.dicoding.com (batas pendaftaran hingga 30 September 2020). \n\nTerima kasih, semoga bermanfaat. 😊",Hena Safna,Dicoding Indonesia,hensaf,0,17,9,2020,3,23,29
+8821,0,,Hena Safna,Dicoding Indonesia,hensaf,0,17,9,2020,3,23,32
+8822,0,,H,,HasanahHana,0,17,9,2020,7,16,11
+8829,0,"Lagi coba"" Gleam lang nih 😬\n\nhttps://github.com/hhandoko/kattis_gleam",Herdy,Handoko,hhandoko,0,19,9,2020,3,54,54
+8830,0,Kelebihan gleam apa mas?,Agus,Susilo,susilolabs,0,19,9,2020,5,7,57
+8831,0,"Static types, dan interop ke BEAM lang yang lain lumayan gampang.",Herdy,Handoko,hhandoko,0,19,9,2020,5,40,37
+8832,0,👍,Agus,Susilo,susilolabs,0,19,9,2020,6,10,24
+8833,0,Sy msh blom khatam di elixir 😁,Agus,Susilo,susilolabs,0,19,9,2020,6,10,58
+8834,0,Sekilas gleam itu mirip Rust,Agus,Susilo,susilolabs,0,19,9,2020,6,11,55
+8835,8834,Guess the language used,Muhammad,Fauzan,muhifauzan,0,19,9,2020,6,19,30
+8836,0,"Haha, iya compilernya pakai Rust",Herdy,Handoko,hhandoko,0,19,9,2020,6,19,52
+8837,0,"Yang menarik saya pikir, Gleam ini compile ke Erlang code. Mirip dengan nim ke C.",Herdy,Handoko,hhandoko,0,19,9,2020,6,20,53
+8841,0,"Ekosistem BEAM ternyata menarik yak, Elixir, LFE (lisp) , Gleam (C) , dan br tau ada Alpaca(ML) jg..ntaps 👍",Hiraq,Citra M,hiraqdev,0,19,9,2020,14,21,8
+8845,0,,Rubi,,codenoid,0,20,9,2020,10,17,37
+8852,0,"halo kawan2 elixir, saya butuh bantuan buat solve issue2 library yg saya buat\n\ngithub . com/codenoid/elixir-two-factor-auth/issues\n\nsudah 1 tahun lebih abandoned, tapi masih ada saja yang pakai\n\nalasan, saya sudah nda aktif dengan Elixir lagi",Rubi,,codenoid,0,20,9,2020,10,19,59
+8854,0,,Yosia,Rimbo,Yosiarimbo,0,20,9,2020,10,38,54
+8858,8852,Bisa di-suggest pake ini aja \n\nhttps://github.com/dashbitco/nimble_totp,Adi,Pur,adipur234,0,20,9,2020,12,54,48
+8862,0,,,,,0,20,9,2020,17,18,58
+8867,8858,done,Rubi,,codenoid,0,20,9,2020,17,27,40
+8871,8867,👍,Adi,Pur,adipur234,0,21,9,2020,4,17,19
+8887,0,,Wawan,Yuliyanto,waoneyuli,0,24,9,2020,4,8,11
+8894,0,https://elixir-lang.org/blog/2020/09/24/paas-with-elixir-at-Heroku/,Herdy,Handoko,hhandoko,0,24,9,2020,23,24,48
+8895,0,,Aditya,Rahmani,adityarahmani,0,25,9,2020,5,52,56
+8910,0,Hi,,,,0,25,9,2020,10,3,32
+8921,0,,,,,0,28,9,2020,8,4,55
+8932,0,"Ini rekaman dari CodeBEAM V kemaren, tentang statically typed Erlang:\n\nhttps://youtu.be/R-3-WT4sB7I",Herdy,Handoko,hhandoko,0,30,9,2020,13,17,40
+8933,0,👍,Yos,xyz,R8code,0,30,9,2020,14,27,31
+8937,0,,Agus,Susilo,susilolabs,0,30,9,2020,22,19,15
+8941,0,,Jason,Onggo,jasonrich,0,1,10,2020,18,22,19
+8948,0,"https://www.youtube.com/watch?v=ROor6_NGIWU ... ""Erlang is language of system"" by Rich Hickey ~ Creator of Clojure ... 👍\n\nmayan membuka wawasan klo utk saya, jadi si Hickey make Erlang sbg referensi yg bagus utk membangun ""sistem"" & error handling",Hiraq,Citra M,hiraqdev,0,2,10,2020,7,52,33
+8994,0,https://youtu.be/z_uwRXYRgaE,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,24,12
+8995,0,"Menarik ni polylith, br nemu pagi ini 😅",Hiraq,Citra M,hiraqdev,0,6,10,2020,1,24,32
+8996,0,"Konsepnya menarik, belom sempat nonton tapi lihat"" di websitenya.\n\nhttps://polylith.gitbook.io/polylith/introduction/why-polylith",Herdy,Handoko,hhandoko,0,6,10,2020,1,32,4
+8997,0,Saya td nemunya dr sini malah... \n\nhttps://github.com/furkan3ayraktar/clojure-polylith-realworld-example-app\n\n😅,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,33,14
+8998,0,"Penasaran bis itu coba explore, sampe ke doc nya polylith td jg 😅",Hiraq,Citra M,hiraqdev,0,6,10,2020,1,33,39
+8999,0,"Kalau di kantor, kita lebih ke hexagonal architecture.",Herdy,Handoko,hhandoko,0,6,10,2020,1,35,58
+9000,0,"Konsepnya mirip, ada interface, implementasi, dan adapter. Untuk implementasi juga kita pisah untuk bagian infrastruktur (contoh auth), dan data.",Herdy,Handoko,hhandoko,0,6,10,2020,1,37,7
+9001,0,"Nah itu, awalnya saya liat jg mirip sih, ini sdg coba explore perbedaannya dmn, ato apa gt yg bikin unique dr konsep ini 😁",Hiraq,Citra M,hiraqdev,0,6,10,2020,1,38,46
+9002,8999,Waa menarik... 😐,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,39,5
+9003,0,Itu hexagonal utk backend/framework mas?,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,39,33
+9004,0,Ato smua malah? 😐,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,39,47
+9005,0,Backend. Ada satu proyek yang kita pakai micro-front end,Herdy,Handoko,hhandoko,0,6,10,2020,1,40,13
+9006,0,Ntaps 👍,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,40,39
+9007,0,"Itu baru eksperimentasi, tapi tahun depan ada rencana untuk diperluas penerapannya.",Herdy,Handoko,hhandoko,0,6,10,2020,1,40,40
+9008,0,"Lebih bagus untuk timnya juga, jadi tanggung jawabnya di satu vertical 😁",Herdy,Handoko,hhandoko,0,6,10,2020,1,41,22
+9009,9008,Tul!  👍,Hiraq,Citra M,hiraqdev,0,6,10,2020,1,42,48
+9013,0,,Zc,,CyberZc,0,6,10,2020,3,46,4
+9020,0,,,,,0,6,10,2020,11,38,41
+9024,0,,,,,0,6,10,2020,11,40,58
+9030,0,,,,,0,6,10,2020,11,53,52
+9034,0,Sepertinya botnya udah bisa jawab captcha ya,Herdy,Handoko,hhandoko,0,6,10,2020,11,54,14
+9035,0,Coba saya remove dari grup saja dulu,Herdy,Handoko,hhandoko,0,6,10,2020,11,55,29
+9037,0,,,,,0,6,10,2020,11,57,41
+9043,0,,,,,0,6,10,2020,12,0,2
+9047,0,https://elixir-lang.org/blog/2020/10/06/elixir-v1-11-0-released/,Herdy,Handoko,hhandoko,0,6,10,2020,20,57,14
+9048,0,,Herdy,Handoko,hhandoko,0,6,10,2020,20,57,50
+9049,0,🎉,Adi,Pur,adipur234,0,6,10,2020,23,25,40
+9053,0,🎉,Muhammad,Fauzan,muhifauzan,0,7,10,2020,3,15,19
+9054,9047,,Agus,Susilo,susilolabs,0,7,10,2020,4,39,5
+9061,0,,,,,0,8,10,2020,23,22,55
+9068,0,,Ncah,,SnoopyQwerty,0,10,10,2020,18,53,26
+9084,0,,Jonathan Rehuel,Lewerissa,jonathan_lewerissa,0,12,10,2020,7,35,40
+9097,0,,Mohamad Risky,Amanullah,riskyamanullah,0,13,10,2020,11,57,49
+9101,0,,,,,0,13,10,2020,19,23,6
+9111,0,/stat@combot,L,,Beban_bumii,0,13,10,2020,23,39,1
+9112,0,Total messages: 9111,Combot,,combot,0,13,10,2020,23,39,2
+9126,0,,Tapi,Harahap,Magnetrezki01,0,15,10,2020,5,11,14
+9133,0,https://dockyard.com/blog/2020/10/14/phoenix-liveview-updates-introducing-uploads,Yos,xyz,R8code,0,15,10,2020,14,37,21
+9134,9133,👍,Herdy,Handoko,hhandoko,0,15,10,2020,14,53,16
+9153,0,,Sanjib,Ahmad,,0,17,10,2020,15,9,33
+9163,0,Nanti malam rencana mau livestreaming belajar elixir. Siapa tau teman-teman disini berkenan hadir https://www.youtube.com/watch?v=_5IvjLTMSZw&feature=youtu.be 🙏,Riza 🦊🚀🎙🎥,,rizafahmi,0,19,10,2020,11,59,0
+9164,9163,Wah mantheb inii,,,,0,19,10,2020,12,3,0
+9165,9163,Akhirnya.. 😁👍,Dimas,,Dim_As_YP,0,19,10,2020,12,7,47
+9166,0,Abis nungguin meetup tak kunjung tiba #eh,Riza 🦊🚀🎙🎥,,rizafahmi,0,19,10,2020,12,13,15
+9167,9166,#jleb,,,,0,19,10,2020,12,14,49
+9168,9163,,Herdy,Handoko,hhandoko,0,19,10,2020,12,16,38
+9169,9166,"Hahaha.. dimention dong, biar tambah mak #jlebb.. 🏃‍♂",Dimas,,Dim_As_YP,0,19,10,2020,12,25,19
+9170,0,Yaa siapa tau aja abis livestreaming langsung ke-trigger bikin meetup 🤘,Riza 🦊🚀🎙🎥,,rizafahmi,0,19,10,2020,12,36,26
+9171,0,🔥,Dimas,,Dim_As_YP,0,19,10,2020,12,59,29
+9172,0,👍,Yos,xyz,R8code,0,19,10,2020,14,34,25
+9174,0,,Pejuang receh,,Kucingimuts,0,21,10,2020,13,48,58
+9176,9175,033,Pejuang receh,,Kucingimuts,0,21,10,2020,13,51,5
+9180,0,Bot?,Yos,xyz,R8code,0,21,10,2020,15,21,5
+9187,0,,,,,0,22,10,2020,9,30,4
+9193,0,Package Elixir app menjadi single binary:\n\nhttps://www.poeticoding.com/compile-elixir-applications-into-single-executable-binaries-with-bakeware/,Herdy,Handoko,hhandoko,0,23,10,2020,0,34,55
+9194,0,Waini,Hiraq,Citra M,hiraqdev,0,23,10,2020,0,35,18
+9195,0,Menarik 😁,Hiraq,Citra M,hiraqdev,0,23,10,2020,0,35,29
+9196,9195,🥰,Divananda Zikry,Fadilla,Ivandzf,0,23,10,2020,3,1,56
+9200,9196,🧐,Hiraq,Citra M,hiraqdev,0,23,10,2020,7,26,31
+9201,0,,Riszkhy Septiaji,Firmansyah,riszkhy,0,23,10,2020,7,47,44
+9203,0,"Perkenalkan Nama Riszkhy,\nSalam Kenal Semua",Riszkhy Septiaji,Firmansyah,riszkhy,0,23,10,2020,7,48,54
+9204,9203,👋,Herdy,Handoko,hhandoko,0,23,10,2020,7,49,9
+9207,0,"Untuk masuk ke elixir, apakah harus tau erlang dulu ya?",Riszkhy Septiaji,Firmansyah,riszkhy,0,23,10,2020,7,52,5
+9208,0,"Sebenarnya tidak, tapi lebih bagus kalau ada sedikit pemahaman tentang Erlang (dan Erlang VM)",Herdy,Handoko,hhandoko,0,23,10,2020,7,57,2
+9209,0,ada buku yang bisa direkomendasi Mas?,Riszkhy Septiaji,Firmansyah,riszkhy,0,23,10,2020,8,15,8
+9210,0,Bisa lihat ini: https://learnyousomeerlang.com/content,Herdy,Handoko,hhandoko,0,23,10,2020,8,15,30
+9211,9210,Terima Kasih,Riszkhy Septiaji,Firmansyah,riszkhy,0,23,10,2020,8,16,17
+9224,0,"halo mas2, utk style guide ini -> https://github.com/christopheradams/elixir_style_guide ...recommended kah utk diikuti? ato ada alternatif lainnya? 🙇",Hiraq,Citra M,hiraqdev,0,26,10,2020,4,4,33
+9225,9224,"Menurut saya sendiri, iya. Soalnya ini diterapkan di Mix format.",Herdy,Handoko,hhandoko,0,26,10,2020,4,10,20
+9226,0,"baiklah, noted mas 🙇",Hiraq,Citra M,hiraqdev,0,26,10,2020,4,11,5
+9227,0,"Sebenarnya confignya bisa di override juga, tapi asal pakai formatter jadinya konsisten 😁",Herdy,Handoko,hhandoko,0,26,10,2020,4,14,7
+9228,9227,ini config apa ya mas yg dimaksud? 🙇,Hiraq,Citra M,hiraqdev,0,26,10,2020,4,14,48
+9229,0,Maksudnya yang disini: https://hexdocs.pm/mix/Mix.Tasks.Format.html#module-formatting-options,Herdy,Handoko,hhandoko,0,26,10,2020,4,21,34
+9230,0,"woo...ok2 mas, baru tau juga saya ada gituan 😅",Hiraq,Citra M,hiraqdev,0,26,10,2020,4,22,14
+9237,0,,Heru,Eko Susanto,herususanto,0,27,10,2020,11,15,34
+9241,0,,Heru,Eko Susanto,herususanto,0,27,10,2020,11,17,58
+9242,0,"Hi semuanya, salam kenal dari saya 🙏🙏🙏",Heru,Eko Susanto,herususanto,0,27,10,2020,11,18,10
+9243,0,👋,Herdy,Handoko,hhandoko,0,27,10,2020,11,18,22
+9244,0,Hampir lupa share ini:\n\nhttps://underjord.io/the-beam-marches-forward.html,Herdy,Handoko,hhandoko,0,28,10,2020,2,42,57
+9245,9244,beam as full stack 👍,Hiraq,Citra M,hiraqdev,0,28,10,2020,5,20,1
+9249,0,https://www.tddphoenix.com/,Yos,xyz,R8code,0,28,10,2020,10,9,40
+9250,9249,👍,Herdy,Handoko,hhandoko,0,28,10,2020,10,27,11
+9254,0,Temen2 mhn info/tutorial development dan deploy Phoenix dgn menggunakan docker/docker compose.,Heru,Eko Susanto,herususanto,0,29,10,2020,10,44,10
+9255,0,Dockerfile/docker-compose.yml dipisah antara development dan deploy ?,Heru,Eko Susanto,herususanto,0,29,10,2020,10,45,6
+9256,0,Ada alasan untuk dipisahkan?,Herdy,Handoko,hhandoko,0,29,10,2020,10,45,43
+9257,0,"Biasanya Dockerfile satu / sama, dan konfigurasi lewat Docker args atau environment variable",Herdy,Handoko,hhandoko,0,29,10,2020,10,46,18
+9258,9256,"Ndak ada sih, pengalaman pribadi gmn bang @hhandoko ?",Heru,Eko Susanto,herususanto,0,29,10,2020,10,46,43
+9259,9257,Baik,Heru,Eko Susanto,herususanto,0,29,10,2020,10,46,53
+9260,0,"Biasa sama saja sih (satu Dockerfile).\n\nKalau docker-compose sendiri biasanya kan untuk development, disitu saya tambahkan konfigurasi .env untuk local environment saya.\n\nKalau nanti pas deploy ke production, konfigurasi envnya di set dari container orchestration tool tsb (K8s, OpenShift, AWS ECS, dll.)",Herdy,Handoko,hhandoko,0,29,10,2020,10,49,18
+9261,0,Biasanya pake base image apa bang untuk container nya?,Heru,Eko Susanto,herususanto,0,29,10,2020,10,51,13
+9262,9260,Terimakasih infonya bang,Heru,Eko Susanto,herususanto,0,29,10,2020,10,51,29
+9263,0,Alpine 😁,Herdy,Handoko,hhandoko,0,29,10,2020,10,51,32
+9264,0,Paling ringan...,Herdy,Handoko,hhandoko,0,29,10,2020,10,51,44
+9265,0,https://hub.docker.com/r/bitwalker/alpine-elixir,Herdy,Handoko,hhandoko,0,29,10,2020,10,52,41
+9266,0,Siyap... Mantulllllll,Heru,Eko Susanto,herususanto,0,29,10,2020,10,53,17
+9267,0,https://hub.docker.com/r/hexpm/elixir,Yos,xyz,R8code,0,29,10,2020,11,34,41
+9268,9267,"Wah, ini lebih OK kayaknya 😁",Herdy,Handoko,hhandoko,0,29,10,2020,11,37,11
+9269,0,,Puput,,PujiKP,0,29,10,2020,11,41,6
+9273,9267,Otw ke TKP,Heru,Eko Susanto,herususanto,0,29,10,2020,12,54,2
+9283,0,,Fatkul,Nur k | https://Ayu.Finance,fatkulnurk,0,1,11,2020,10,57,43
+9287,0,"Daripada Gabut, Mending Ikut Aku Main Telegram, Yaitu Tugas Berhadiah...\n\nYuk Mulai Tugas Dan Dapatkan Banyak Penghasilan Sampingan Kayak Aku...\n\n1 Referral : Rp 2.500\nMinimal Penarikan : 50.000\nJoin Langsung Dapat Rp 10.000 Secara Cuma-cuma..\n\nt.me/kerjain_tugas_bot?start=929591402\n\nSilahkan Share Ke Teman2 Kamu Sebanyak-banyaknya...",Faizal,J,ZallJ,0,2,11,2020,15,32,28
+9288,0,"yang masih melek, silahkan join ya.. \n\nhttps://www.youtube.com/watch?v=fcGLFtUCPDM",Dimas,,Dim_As_YP,0,2,11,2020,18,17,8
+9292,9163,"Gan, kapan live lagi. tadi malam ngak sempat nonton.. padahal idenya saya mau itu...mau ikut daftar maksudnya.",Arifan,,IvanArifan,0,3,11,2020,12,20,17
+9293,9292,Bentar lg bakal live nih. Tapi topiknya udah sampai ke Phoenix https://youtu.be/4rII23fj_u8,Riza 🦊🚀🎙🎥,,rizafahmi,0,3,11,2020,13,4,42
+9294,0,👏,Herdy,Handoko,hhandoko,0,3,11,2020,13,5,9
+9295,0,Siaap.. ditunggu livenya gan,Arifan,,IvanArifan,0,3,11,2020,13,9,23
+9296,0,mas mas skalian mau nanya nih saya biasanya kalo pake jwt itu selalu nggak pernah ada exp'a yang menurut saya kurang best practice kira kira best practicenya kaya gmn yaa ??,Farhan,Rahmadi,Huntz20,0,3,11,2020,14,7,4
+9297,0,https://github.com/danschultzer/pow,Yos,xyz,R8code,0,3,11,2020,14,17,45
+9300,0,Nguyen1,,,,0,5,11,2020,2,45,5
+9301,0,Hello everyone I am new here hope I will be accepted.,,,,0,5,11,2020,2,45,55
+9303,0,Hello everyone is accepted here,Farhan,Rahmadi,Huntz20,0,5,11,2020,10,13,17
+9310,0,,Wihlarko,Prasdegdho,Wihlarkop,0,6,11,2020,18,16,49
+9314,0,,Giono Budi,Santoso,gionobudisantoso,0,6,11,2020,23,31,59
+9333,0,,りゃん,,Ilyzz_abd,0,8,11,2020,4,7,17
+9360,0,,Khalil Maulana Akbar,,khllmlna,0,11,11,2020,1,53,27
+9367,0,https://dashbit.co/blog/you-may-not-need-redis-with-elixir,Adi,Pur,adipur234,0,13,11,2020,0,49,45
+9374,0,👍,Agus,Susilo,susilolabs,0,13,11,2020,3,25,46
+9405,0,,Muhammad Fauzul,Hanif,efzedel16,0,15,11,2020,2,19,40
+9409,0,,,,,0,15,11,2020,4,28,22
+9416,0,,Ellie R,,,0,16,11,2020,2,22,48
+9439,0,,Am,,,0,17,11,2020,2,2,16
+9452,0,,Wulandari,,kikywlndr,0,18,11,2020,11,11,31
+9458,0,/about@join_captcha_bot,Gilang,Aprianto,gizipp,0,18,11,2020,11,35,19
+9459,0,This Bot is free software and open-sourced under the GNU-GPL license.\nBot Developed by @JoseTLG.\n\nYou can check the code here:\nhttps://github.com/J-Rios/TLG_JoinCaptchaBot\n\nDo you like my work? Buy me a coffee.\n\nPaypal:\nhttps://www.paypal.me/josrios\n\nBTC:\n3N9wf3FunR6YNXonquBeWammaBZVzTXTyR,The Join Captcha Bot,,join_captcha_bot,0,18,11,2020,11,35,20
+9467,0,,#na,Ribhy,kb_hartanto,0,19,11,2020,19,30,42
+9485,0,,IT Puspresnas 2021,,itpuspresnas2021,0,21,11,2020,14,53,27
+9494,0,,Andre,Kurniawan,drekunia,0,22,11,2020,22,16,35
+9498,0,"Halo, saya Andre Kurniawan. Salam kenal semua. 😁",Andre,Kurniawan,drekunia,0,22,11,2020,22,22,11
+9499,9498,👋,Herdy,Handoko,hhandoko,0,22,11,2020,22,22,42
+9500,0,👋,Yos,xyz,R8code,0,23,11,2020,6,6,23
+9504,0,Baru tau Bhinneka pakai Phoenix,Riza 🦊🚀🎙🎥,,rizafahmi,0,23,11,2020,9,19,14
+9505,0,https://www.meetup.com/JakartaJS/events/274709012,Riza 🦊🚀🎙🎥,,rizafahmi,0,23,11,2020,9,19,21
+9506,9504,Wah 👍,Herdy,Handoko,hhandoko,0,23,11,2020,9,41,26
+9507,0,Hmmm sudah banyak yang pakai phoenix di indonesia ya? Semakin yakin untuk belajarnya,w,,jagoanmamah,0,23,11,2020,11,28,14
+9508,0,"Yang tertarik phoenix liveview, salah satu fitur andalan terbaru dari phoenix, bisa join sesi livestream malam ini https://youtu.be/kcxXnt1PNIQ",Riza 🦊🚀🎙🎥,,rizafahmi,0,23,11,2020,12,44,10
+9509,0,,anggur 🍇,,kirintux,0,24,11,2020,5,34,1
+9526,0,ada saran deployment production pake apa ? pake mix release apa kah cukup? atau better di container tapi fitur hot code swap nya jadi g jalan walau jarang kepake,Defry T W,,deceive3w,0,26,11,2020,8,6,43
+9527,0,"dulu pernah pakai distillery, untuk proyek yang sekarang masih jalanin mix phx.serve. Not so good practice. 😄",,,,0,26,11,2020,8,35,36
+9546,0,saya baca baca semenjak elixir versi 1.9 udh ga perlu lagi distillery. karena udh ada mix release. skrg saya pake mix release + container karena lebih flexible,Defry T W,,deceive3w,0,27,11,2020,6,59,30
+9568,0,,Aswad,,aswadsun,0,28,11,2020,3,40,3
+9572,0,,foo-bar,,barbar195,0,28,11,2020,6,38,0
+9579,0,,,,,0,28,11,2020,18,54,29
+9583,0,Holla,,,,0,28,11,2020,18,55,13
+9590,0,halo,foo-bar,,barbar195,0,29,11,2020,2,4,17
+9591,0,hallo,Farhan,Rahmadi,Huntz20,0,29,11,2020,2,18,34
+9634,0,"1 HARI LAGI PENDAFTARAN THE NEXTDEV TALENT SCOUTING HEALTHTECH INNOVATION TRACK AKAN DITUTUP!\n\nKamu punya waktu 1 hari lagi untuk mendaftarkan #startup digital berdampak sosialmu di #TheNextDevTalentScouting2020HealthTech Innovation Track.\n\nSegera daftar di tsel.me/registrasi-NextDev2020 (klik link di bio), paling lambat besok, 3 Desember 2020 pukul 23.59 WIB.\n\nInfo lebih lanjut: tsel.me/TheNextDev2020\n\n#TerusBergerakMaju\n#InnovatingTomorrow\n#TechforImpact\n#SocialImpact",Beby,Karina,BAKarina,0,2,12,2020,10,41,43
+9644,0,,Ilzam,Mulkhaq,Ilz4m,0,3,12,2020,15,50,53
+9648,0,Halo,Ilzam,Mulkhaq,Ilz4m,0,3,12,2020,15,51,16
+9649,0,Selamat malam,Ilzam,Mulkhaq,Ilz4m,0,3,12,2020,15,51,19
+9650,0,Izin bergabung yah,Ilzam,Mulkhaq,Ilz4m,0,3,12,2020,15,51,24
+9651,0,Welcome mas,Farhan,Rahmadi,Huntz20,0,4,12,2020,5,17,36
+9659,9651,eh ada mas Farhan jagoan elixir 👍,#na,Ribhy,kb_hartanto,0,7,12,2020,3,57,56
+9660,9659,weh mas kresna welcome mas,Farhan,Rahmadi,Huntz20,0,7,12,2020,4,0,14
+9666,0,,Ilzam,Mulkhaq,Ilz4m,0,8,12,2020,1,30,31
+9667,0,"Assamualaikum, selamat pagi, izin promosi event webinar yah temen - temen semua, maaf jika terkesan spam\n\nMungkin disini, temen - temen semua sudah sering mendengar kata - kata cloud / cloud computing.\nDan mungkin juga temen - temen masih bingung, sebenernya apa sih itu cloud computing ?\n\nMaka dari itu, kami mengundang temen - temen semua untuk bergabung di 'Ngaji Teknologi' webinar series.\nYang kali ini kita akan berkenalan dengan cloud computing bersama mbak megah, salah satu solution architect di \nAmazon Web Services (AWS)\n\nDan tentunya masih ada beberapa webinar yang lainnya yah temen - temen semua. Dan insyaallah\nwebinar series menjadi dari awal dari 'Hackathon Santri', sebuah event yang mempertemukan\nmasalah santri dengan solusi teknologi. Terimakasih teman - teman semua atas perhatiannya\n\nLink nya disini : https://bit.ly/ngajicloud",Ilzam,Mulkhaq,Ilz4m,0,8,12,2020,1,30,36
+9668,0,وعليكم السلام ورحمة الله وبركاته,Agus,Susilo,susilolabs,0,8,12,2020,1,40,16
+9671,0,157,,,,0,8,12,2020,10,13,51
+9677,0,https://medium.com/better-programming/modern-languages-suck-ad21cbc8a57c,Herdy,Handoko,hhandoko,0,10,12,2020,9,37,40
+9680,0,Hi,,,,0,10,12,2020,12,7,47
+9682,9677,Jarang2 artikel bahasa pemrograman di medium se komprehensif ini. Eh dapet bonus Elixir dibawah.,,,,0,11,12,2020,3,14,15
+9683,0,"Haha, iya",Herdy,Handoko,hhandoko,0,11,12,2020,3,15,4
+9687,0,,Info,Sailendra Institute,sainsinfo,0,11,12,2020,7,16,39
+9691,0,Webinar Introduction to Data Engineering,Info,Sailendra Institute,sainsinfo,0,11,12,2020,7,17,24
+9701,0,,mpj,,empeje,0,12,12,2020,5,20,56
+9710,0,,Beben,,BebenMAP,0,12,12,2020,8,11,12
+9714,0,,الفاحري,,Vairusa,0,13,12,2020,0,18,52
+9726,0,Halo teman-teman perkenalan saya MPJ dari https://kulkul.tech. Salam kenal!,mpj,,empeje,0,15,12,2020,17,4,58
+9736,9726,Bukan dari FunFunFunction?,manda,putra,mandaputtra,0,16,12,2020,7,5,44
+9776,0,,Ju Silva,,jusilver1,0,18,12,2020,4,51,51
+9792,9210,,Maaf,Merepotkan... 🙏,cahgentoo,0,20,12,2020,13,16,52
+9798,9726,Haloo,,,,0,21,12,2020,8,48,31
+9799,9736,Bukan saya dari kulkul function,mpj,,empeje,0,21,12,2020,8,51,17
+9800,9726,Mappuji?,Muhammad,Fauzan,muhifauzan,0,22,12,2020,1,38,9
+9801,9800,Yes mas,mpj,,empeje,0,22,12,2020,1,38,57
+9802,0,I believe we had worked at the same company before,Muhammad,Fauzan,muhifauzan,0,22,12,2020,1,46,31
+9803,0,Ternyata `discord` memakai `elixir` yacc 😳.,Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,4,21,19
+9804,0,Iya bener,Agus,Susilo,susilolabs,0,22,12,2020,4,22,59
+9805,9804,"Apakah kira2 begini?\n\n🕷 `Erlang`, untuk __concurrency__, dan\n🕷 `Elixir`, untuk __distributed__.\n\nAku  masih meraba-raba istilah yang tepat.",Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,4,27,40
+9806,9805,Erlang itu programming language dan runtime (Erlang dan BEAM). Seperti Java dan Java Virtual Machine (JVM).,Herdy,Handoko,hhandoko,0,22,12,2020,4,29,11
+9807,0,"Elixir itu programming language yang compile ke Erlang bytecode, untuk jalan di Erlang runtime (BEAM).",Herdy,Handoko,hhandoko,0,22,12,2020,4,29,42
+9808,0,"Jadi, Erlang dan Elixir dua""nya mendukung concurrency dan distributed systems.",Herdy,Handoko,hhandoko,0,22,12,2020,4,30,30
+9810,9808,Terimakasih atas pencerahannya bang 🙏🏽.,Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,4,32,2
+9811,0,"Sip, sama""",Herdy,Handoko,hhandoko,0,22,12,2020,4,35,28
+9812,0,Ternyata source code-nya `erlang`\n\n🕷 https://github.com/elixir-lang/elixir/blob/master/lib/elixir/src/elixir_erl.erl\n\nMenarique.,Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,7,21,46
+9813,0,"Iya, corenya ditulis di erlang nargetin OTP, setelah itu standar library bisa ditulis di elixir juga.\nhttps://github.com/elixir-lang/elixir/tree/master/lib/elixir/lib",,,,0,22,12,2020,9,6,53
+9814,9813,Terimakasih pak koreksinya.\n\nBaru tahus saya.,Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,9,31,2
+9815,0,"Menurut github, hanya sekitar 8% menggunakan erlang. Selebihnya elixir dikembangkan dengan bahasa elixir itu sendiri 😬",Riza 🦊🚀🎙🎥,,rizafahmi,0,22,12,2020,9,37,58
+9816,0,"Ternyata tidak susah menyelesaikan suatu masalah dengan `elixir` 😳. Sesore ini langsung kelar 🤔. Duh, kenapa tidak belajar dari dulu yacc 🤦🏻.\n\nNanti malam akan saya bikin artikel mengenai ini 😁.",Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,10,14,16
+9817,9816,wuih ini ngodingnya di termux mas? mantab 👍,Abdurrahman,Adianto,abdurrahman_adianto,0,22,12,2020,10,16,7
+9818,9816,songs()\n|> Enum.map(& &1.tags)\n|> List.flatten()\n|> Enum.uniq()\n\nbisa di-pipe jg mas :),Adi,Pur,adipur234,0,22,12,2020,12,17,16
+9819,9818,Wah... tenk yuuuuuu .... 🙇🏻,Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,12,17,57
+9820,0,https://superruzafa.github.io/visual-elixir-reference//,Adi,Pur,adipur234,0,22,12,2020,12,18,15
+9821,0,"Lumayan membantu buat belajar method2 di module List, Enum & Stream",Adi,Pur,adipur234,0,22,12,2020,12,18,56
+9822,0,"Kawan-kawan, sudah jadi artikel-nya\n\n🕷 https://epsi.bitbucket.io/lambda/2020/11/11/playing-with-records-elixir/\n\nSemoga dapat menjadi titik awal bagi teman2 yang ingin mencoba `elixir` 🙏🏽.",Maaf,Merepotkan... 🙏,cahgentoo,0,22,12,2020,15,12,40
+9823,0,"Sedikit sharing pengalaman ngoding di elixir unuk sistem production. Kita sebagai pekerja IT secara keseluruhan sering punya masalah tentang estimasi waktu. Ada hal yang dikira gampang dan cepet pas dikerjain ternyata ada aja hal yang kemudian bikin lama. Sebaliknya juga sama, ada hal yang kita pikir bakal rumit setelah didalemin lalu ngoding ternyata cepet.\n\nDi elixir, menurut pengalaman justru yang belakangan yang sering kejadian. Awalnya dipikir harus banyak yang dirubah, ternyata dikit banget.",,,,0,23,12,2020,2,2,34
+9824,9823,Jadi semenjak pakai elixir jadi sering gabut dong 😅,Riza 🦊🚀🎙🎥,,rizafahmi,0,23,12,2020,2,24,56
+9825,0,"Kerjaan sih ada terus sih Pak, tapi bisa rada istirahat sih. 😄",,,,0,23,12,2020,2,25,47
+9826,9823,kynya hampir rata2 stack yg pakai pemograman paradigma fungsional begini kynya pak,Terminus Est,,rahshingan,0,23,12,2020,4,42,50
+9827,0,Saya cuma masih agak bingung buat testing'a,Farhan,Rahmadi,Huntz20,0,23,12,2020,4,44,17
+9828,0,Ada yang pernah pengalaman nggak buat testing'a gmn ?,Farhan,Rahmadi,Huntz20,0,23,12,2020,4,44,41
+9829,0,https://www.tddphoenix.com/,Yos,xyz,R8code,0,23,12,2020,4,56,35
+9830,9828,Testing enak kok. Tapi di saya yang di test hanya application logic saja.,,,,0,23,12,2020,7,18,59
+9831,9828,"Testing business contractnya aja. Harusnya flownya mirip dengan TDD di OOP, minus test side effect.",Muhammad,Fauzan,muhifauzan,0,23,12,2020,7,38,21
+9832,0,Jauh lebih simple dan sane,Muhammad,Fauzan,muhifauzan,0,23,12,2020,7,41,28
+9833,0,hmmm oke deh thanks insight'a mas mas saya coba,Farhan,Rahmadi,Huntz20,0,23,12,2020,7,55,39
+9843,0,"Selamat hari Natal untuk teman"" yang merayakannya 🎄",Herdy,Handoko,hhandoko,0,25,12,2020,11,9,59
+9844,0,Nunggu ini kok g ada beritanya y? 😁,Agus,Susilo,susilolabs,0,27,12,2020,4,29,30
+9845,0,november 2020 kah?,Agus,Susilo,susilolabs,0,27,12,2020,4,29,39
+9846,9844,Link di mana ini bang?,Maaf,Merepotkan... 🙏,cahgentoo,0,27,12,2020,4,42,0
+9847,0,ini,Agus,Susilo,susilolabs,0,27,12,2020,4,55,21
+9848,0,https://codesync.global/media/scaling-erlang-developer-experience-at-whatsapp/,Agus,Susilo,susilolabs,0,27,12,2020,4,55,24
+9849,0,,Rizki,,RizkiSA,0,27,12,2020,8,14,39
+9861,0,keren nih:\n\nNiex - Interactive Elixir Code Notebooks\nhttps://github.com/jonklein/niex,Abdurrahman,Adianto,abdurrahman_adianto,0,29,12,2020,4,20,28
+9862,9861,👏,Herdy,Handoko,hhandoko,0,29,12,2020,5,53,59
+9883,0,,Johannes,Agustin,johannes_ag,0,31,12,2020,3,2,6
+9904,0,Siang mas2,Agus,Susilo,susilolabs,0,2,1,2021,7,32,49
+9905,0,"mau nanya, ada yg pernah pake fungsi `Mix.Generator.embed_template`?",Agus,Susilo,susilolabs,0,2,1,2021,7,33,26
+9906,0,Baru check docsnya doang. Ada issue?,Muhammad,Fauzan,muhifauzan,0,2,1,2021,7,44,5
+9907,0,"g ada mas, cm bingung aj penggunaannya",Agus,Susilo,susilolabs,0,2,1,2021,7,48,14
+9908,0,ternyata hasil funcnya private 😄,Agus,Susilo,susilolabs,0,2,1,2021,7,48,29
+9909,0,,Agus,Susilo,susilolabs,0,2,1,2021,7,48,45
+9910,0,"Iya, di docsnya dijelaskan kalau function yang digenerate private.\n\nhttps://hexdocs.pm/mix/Mix.Generator.html#embed_template/2",Muhammad,Fauzan,muhifauzan,0,2,1,2021,7,48,55
+9911,0,pantes diakses dari luar module g bisa 😁,Agus,Susilo,susilolabs,0,2,1,2021,7,49,22
+9912,0,Share dari grup Elixir lain 😬\n\nhttp://beam-wisdoms.clau.se/en/latest/index.html,Herdy,Handoko,hhandoko,0,2,1,2021,10,11,35
+9913,9912,👍👌,Adi,Pur,adipur234,0,2,1,2021,12,28,19
+9914,0,,Kevin,,vinzzy,0,2,1,2021,15,41,37
+9941,0,"https://anchor.fm/menjadibermakna\n\nYuk silahkan didengarkan, podcast saya. \n\n""Penghayatan Di Tahun Baru 2021😊"" tentang perjalanan hidup kita, sudah siap belum?\n\n Semoga bisa memberikan insight baru untuk kalian tentang kehidupan😊\n\nJgn lupa utk memberikan feedback, setelah mendengarkan podcast saya. Terima kasih☺️",Aida,Annisa,aidaannisa28,0,4,1,2021,4,53,35
+9942,0,#ask\n\nBagaimana cara memasang library ini di elixir 🤔?\n\nApakah ada package manager tertentu atau langsung di clone saja?,Maaf,Merepotkan... 🙏,cahgentoo,0,4,1,2021,20,5,14
+9946,0,pake hex pkg manager,Agus,Susilo,susilolabs,0,4,1,2021,23,27,59
+9947,9942,"#rtfm Coba baca basicnya dulu, https://elixir-lang.org/getting-started/mix-otp/dependencies-and-umbrella-projects.html",Muhammad,Fauzan,muhifauzan,0,5,1,2021,1,34,20
+9948,9947,Tenk yu,Maaf,Merepotkan... 🙏,cahgentoo,0,5,1,2021,4,52,7
+9957,0,"mas mas mau tanya, saya pake guardian buat token, buat dapet data dari access token yang request gmn yaa ?",Farhan,Rahmadi,Huntz20,0,5,1,2021,15,21,47
+9958,9947,"Baru ngeh saya mas.\n\n__If you’re familiar with Ruby, Mix is Bundler, RubyGems, and Rake combined. __\n\nMakasih yacc...",Maaf,Merepotkan... 🙏,cahgentoo,0,5,1,2021,16,23,21
+9959,9957,"By token, I assume JWT. Udah coba ini https://hexdocs.pm/guardian/introduction-implementation.html#basics?\n\nFunction docs: https://hexdocs.pm/guardian/Guardian.html#decode_and_verify/4",Muhammad,Fauzan,muhifauzan,0,5,1,2021,21,34,50
+9960,9958,Yes. Hampir sama dengan Cargo di Rust atau Stack and Cabal di Haskell. No worries,Muhammad,Fauzan,muhifauzan,0,5,1,2021,21,38,55
+9987,0,,Ary,,,0,9,1,2021,16,24,59
+9991,0,"Halo malam semua, salam kenal",Ary,,,0,9,1,2021,16,25,43
+9992,0,Salam kenal,Wiwid,,M_Wiwid_S,0,10,1,2021,14,9,45
+9993,9992,Apa kabaaaaar.... 🙂?,Maaf,Merepotkan... 🙏,cahgentoo,0,10,1,2021,19,51,51
+9994,0,"Aku mau lanjut bahas concurrency yacc.\n\n🕷 https://ieftimov.com/post/understanding-basics-elixir-concurrency-model/\n\nHanya aku mesti istirahat, mau ke kantor.",Maaf,Merepotkan... 🙏,cahgentoo,0,10,1,2021,19,52,19
+9998,9993,baik😀,Wiwid,,M_Wiwid_S,0,11,1,2021,7,1,33
+10002,9994,👍,Yos,xyz,R8code,0,11,1,2021,16,16,59
+10003,0,Sangat singkat. Sudah jadi.,Maaf,Merepotkan... 🙏,cahgentoo,0,11,1,2021,19,31,18
+10004,9822,Kumasukkan ke sini.,Maaf,Merepotkan... 🙏,cahgentoo,0,11,1,2021,20,1,52
+10005,0,https://www.youtube.com/playlist?list=PLqj39LCvnOWZl_Pb0Y7wGWijKbTvL4gJg,Riza 🦊🚀🎙🎥,,rizafahmi,0,12,1,2021,9,47,50
+10006,0,Nice 👍,Herdy,Handoko,hhandoko,0,12,1,2021,9,51,54
+10007,0,👍,Agus,Susilo,susilolabs,0,12,1,2021,9,52,52
+10008,0,,Deni,,Densxn07,0,12,1,2021,17,33,25
+10020,0,,Agryanno Je,,nasi_liwet,0,14,1,2021,10,20,47
+10024,0,Hurry up.. only few days left.. online session for you,Timmins,,,0,15,1,2021,2,33,29
+10025,0,Photo from Nagenshan,Timmins,,,0,15,1,2021,2,33,29
+10027,0,"Halo pagi semua, salam kenal. saya baru 5 hari belajar elixir, dan menurut saya elixir kodenya cantik bgt :D",Syamil,Abdillah,hajimuidin,0,15,1,2021,3,55,54
+10028,0,👋 Halo,Herdy,Handoko,hhandoko,0,15,1,2021,3,56,19
+10029,0,👋,Dimas,,Dim_As_YP,0,15,1,2021,3,56,38
+10031,0,,Agus,Susilo,susilolabs,0,15,1,2021,4,0,42
+10032,0,Salam kenal,Riszkhy Septiaji,Firmansyah,riszkhy,0,15,1,2021,4,43,52
+10034,0,6675,Syamil,Abdillah,hajimuidin,0,15,1,2021,7,36,5
+10037,0,,Syamil,Abdillah,hajimuidin,0,15,1,2021,11,50,28
+10041,0,,Mahrus,Q,mq210,0,16,1,2021,1,17,23
+10045,0,,Agatha,,Agatha_28,0,16,1,2021,7,45,1
+10069,0,Halo,zcarlet,gasfarm.org,zcarlet,0,19,1,2021,11,24,6
+10072,0,,Candra,Jaysen,tjandrajs,0,20,1,2021,4,3,1
+10076,0,,Sehanto,,sehanto,0,20,1,2021,7,3,35
+10080,0,"Join Fiverr and discover the fastest way to hire freelancers, for any online project. Thank me later!\n\nhttps://www.fiverr.com/s2/9f166ffff7",Moh Ali,Makhrus,Moh_Ali_Makhrus,0,20,1,2021,9,1,8
+10081,0,,Eka,,ekaprasetia,0,20,1,2021,11,39,35
+10085,0,Photo from Nagenshan,Timmins,,,0,21,1,2021,0,58,6
+10086,0,"Hurry up ... Grab your seat now, learn from your desk.. RM 189 only",Timmins,,,0,21,1,2021,0,58,6
+10089,0,Hadir 👋,~byna~,,Bayutk,0,21,1,2021,4,31,54
+10093,0,Exactly,AJ,Person,,0,21,1,2021,5,39,19
+10101,0,,Nur,Anisah,anisa_sz,0,22,1,2021,9,30,8
+10105,0,,Herman,Thaw,hthaw,0,23,1,2021,8,25,35
+10118,0,https://medium.com/genesisblock/elixir-concurrent-testing-architecture-13c5e37374dc,Maaf,Merepotkan... 🙏,cahgentoo,0,26,1,2021,12,15,58
+10119,0,,,,,0,27,1,2021,19,46,54
+10120,0,,Tomson P.,Manalu,tomson_manalu,0,28,1,2021,9,56,21
+10146,0,,Setia,Budi,boedybios,0,3,2,2021,17,17,44
+10153,0,,Buku : Mahasiswa Rantau,,Rahmat_belio,0,3,2,2021,23,13,10
+10157,0,,Vagathan Viandi,Giroth,Vagathan,0,4,2,2021,2,49,36
+10163,0,/stat@combot,Vagathan Viandi,Giroth,Vagathan,0,4,2,2021,2,52,22
+10164,0,Total messages: 10163,Combot,,combot,0,4,2,2021,2,52,23
+10176,0,https://medium.com/blackode/top-3-tough-elixir-fights-debugging-in-production-2020-6ab712a2c8f4,Maaf,Merepotkan... 🙏,cahgentoo,0,5,2,2021,10,54,11
+10191,0,,Adhe,,,0,7,2,2021,10,50,4
+10195,0,https://serokell.io/blog/elixir-companies,Riza 🦊🚀🎙🎥,,rizafahmi,0,8,2,2021,14,29,45
+10205,0,,Anggiat,,AnggiatUye,0,10,2,2021,8,30,47
+10213,0,,,,,0,10,2,2021,19,34,19
+10217,0,,Christian,Gouw,,0,11,2,2021,5,58,8
+10230,0,"‎@inhXungg has not completed the captcha in time. ""User"" was kicked out.",The Join Captcha Bot,,join_captcha_bot,0,12,2,2021,18,34,53
+10233,0,"‎@Jacqueline127 has not completed the captcha in time. ""User"" was kicked out.",The Join Captcha Bot,,join_captcha_bot,0,13,2,2021,5,33,30
+10251,0,,farhan,,,0,15,2,2021,10,6,21
+10263,0,"_*DKK Academy - FREE Webinar*_\n*“Building A Popular Brand for Small Business”*\nby Bayu Asmara - Innovation, Marketing & Branding Strategy Consultant\nSabtu, 20 Feb 2021 09:00 - 12:00 WIB | Online via Zoom\n\nDAFTAR GRATIS di: bit.ly/dkkwebinar-buildingbrand\n\nKamu pelaku usaha dan ingin punya Brand yang stand-out di mata konsumen? Kamu bakalan dapetin jawabannya di webinar DKK Academy kali ini. Kita akan mengulas langkah-langkah jitu bagaimana membangun Brand yang populer bagi UKM, dengan serangkaian studi kasus dari brand terkemuka.\n\nKamu bisa ikut kelas ini dimanapun, bahkan dengan HP saja kamu bisa belajar bareng kami.\nYuk daftar dan ajak teman-teman kamu sekarang. Link video akan kami kirimkan H-1 acara. Sampai jumpa di kelas ya!\n\nAda pertanyaan? Langsung hubungi\nNovia: +62 821 1234 0844 | academy@dkkconsulting.id | instagram: @dkk_academy",farhan,,,0,17,2,2021,10,26,22
+10267,0,https://dashbit.co/blog/nx-numerical-elixir-is-now-publicly-available,Adi,Pur,adipur234,0,18,2,2021,11,46,14
+10271,0,,punten,,jokkendaraan,0,19,2,2021,6,18,15
+10294,0,,Danny,,dannycreations,0,23,2,2021,12,9,34
+10310,0,,I,,Iqbalfajarafrian,0,23,2,2021,18,41,45
+10329,0,,Alfian,[RS. PIM : 1111005],alfian_org,0,24,2,2021,7,19,55
+10368,0,,,,,0,25,2,2021,2,10,42
+10370,10369,😇😇😇,,,,0,25,2,2021,2,12,23
+10379,0,,Đoàn Quyên,,DonQuyn,0,25,2,2021,2,39,46
+10384,0,,Châu Quỳnh,,ChuQunh,0,25,2,2021,2,51,16
+10388,0,,Chiêm Vy,,ChimVy,0,25,2,2021,2,54,32
+10392,0,,,,,0,25,2,2021,3,6,50
+10396,0,,Châu Nhi,,Chin4m,0,25,2,2021,3,9,25
+10400,0,,Dương Nhiên,,DngNhin,0,25,2,2021,3,52,47
+10404,0,,,,,0,25,2,2021,3,59,16
+10423,0,Baru rilis nih:\n\nhttps://pragprog.com/titles/liveview/programming-phoenix-liveview/,Herdy,Handoko,hhandoko,0,26,2,2021,5,56,11
+10451,0,,Madison Patel,,MadisonPatel,0,26,2,2021,18,23,33
+10457,0,,Bryan,,BryanBennett,0,26,2,2021,18,32,27
+10605,0,,cahyo,wibowo,ronggolawe96,0,1,3,2021,1,52,1
+10626,0,time for a for loop,Ermolai,Davydov,melloworange2,0,4,3,2021,13,22,21
+10642,0,,Gugun,Sopian,,0,6,3,2021,15,25,3
+10647,0,Message from `Gugun Sopian` deleted. Reason: external link [(?)](https://tgdev.io/bot/daysandbox_bot?reason=publog&uuid=fe9df7dd06854be6abbed0881c94b69e),DaySandBox,,daysandbox_bot,0,6,3,2021,15,25,30
+10655,0,,Ar,Ruwhily,arrwhly,0,8,3,2021,10,25,25
+10665,0,,Olusanya,Ige,,0,8,3,2021,19,43,29
+10683,0,I had sleep in 3 seconds,Carl,Jr,,0,10,3,2021,7,2,34
+10720,0,Good morning,CAPTEN US,Ind nihbos,,0,21,3,2021,14,51,53
+10722,0,,Saiful,Riza,,0,24,3,2021,7,33,54
+10726,0,,Stephen,Antoni,luxeave,0,29,3,2021,2,16,1
+10730,0,,Yohanes,Bima,youtubima,0,29,3,2021,4,12,56
+10736,0,🙏🏻❤️❤️❤️,Alwi_Music_Official,,Alwi_Music_Official,0,29,3,2021,16,26,48
+10754,0,https://seanmoriarity.com/2021/04/08/axon-deep-learning-in-elixir/,Yos,xyz,R8code,0,9,4,2021,13,49,49
+10755,0,https://dockyard.com/blog/2021/04/08/up-and-running-nx,Yos,xyz,R8code,0,9,4,2021,13,54,8
+10762,0,,Agus,Sudarmanto,AgusSudarmanto,0,10,4,2021,5,27,38
+10766,0,Ijin bergabung 🙏🏻,Agus,Sudarmanto,AgusSudarmanto,0,10,4,2021,5,30,46
+10767,10766,👋,Herdy,Handoko,hhandoko,0,10,4,2021,7,14,1
+10774,0,👋,Dimas,,Dim_As_YP,0,14,4,2021,15,17,53
+10775,0,,Adi,Arriansyah,adiarr,0,15,4,2021,2,27,29
+10779,0,,Afinda,,,0,15,4,2021,2,50,42
+10783,0,,,,,0,15,4,2021,12,19,23
+10794,0,https://youtu.be/RKvqc-UEe34,Muhammad,Fauzan,muhifauzan,0,16,4,2021,9,9,9
+10795,0,,Kurnia.,fadhil,,0,17,4,2021,0,6,50
+10809,0,Ijin bergabung 🙏,Kezia,,,0,18,4,2021,13,51,58
+10821,0,,Abieb,Jr,Jr_abieb,0,19,4,2021,16,37,49
+10825,0,,Bernardus,Bayu,mzbayyy,0,20,4,2021,5,52,48
+10835,0,,Hi,,Shipdp,0,21,4,2021,23,33,59
+10839,0,👋,Hi,,Shipdp,0,21,4,2021,23,34,40
+10840,0,Ijin gabung 🙏,Hi,,Shipdp,0,21,4,2021,23,36,36
+10841,0,Welcome,Muhammad,Fauzan,muhifauzan,0,22,4,2021,11,47,8
+10842,0,👋,Dimas,,Dim_As_YP,0,22,4,2021,11,51,22
+10846,0,,irtupin,,irtupin,0,23,4,2021,14,39,38
+10869,0,,e,,,0,29,4,2021,19,0,18
+10876,0,,Design & Code Your Future Career,,kelas_bootcamp,0,2,5,2021,3,48,30
+10880,0,"Hi Sobat \nYuk, Upgrade Skill,  Kuasai digital skill, programing dan desain, di SanberCode Bootcamp!\n- Online - Intensif - Interaktif -\nMulai Bulan Ramadhan ini semua kelas bootcamp levelnya jadi beginner, jadi klo kamu baru mau mulai, bisa ikut kelas mana aja, yuk dipilih kelasnya!\nAda 4 kelas baru juga lho!\nKelas yang dibuka :\n1. Python - Data Science\n2. Laravel - Web Development\n3. React Native - Mobile Apps Dev\n4. FLutter - Mobile Apps Dev✨\n5. React JS - Web FrontEnd Dev\n6. Vue JS - Web FrontEnd Dev✨\n7. Python - BackEnd Microservices✨\n8. NodeJS - BackEnd with Adonis✨\n9. Wordpress Dev\n10. UI/UX Design\n11. Ai Ps Blender - Grafik & 3D Design\n12. Agile Dev using SCRUM\n\n--------------------------------------------------\n⭐ Bootcamp ini terbuka untuk umum dan tanpa seleksi di awal.\n⭐ Dilatih oleh trainer profesional berpengalaman dan dapat sertifikat resmi.\n⭐ Bisa mendapatkan peluang project dan kesempatan bekerja di perusahaan mitra SanberCode.\n⭐ Materi kelas dan grup diskusi dapat diakses kapan pun setelah kelas berakhir.\nInfo detail materi, teknis pelaksanaan dan pendaftaran, klik link sanbercode . com\nBuat yang ingin daftar dan dapatkan diskon 10% silahkan Masukan kode voucher : RAMADHAN",Design & Code Your Future Career,,kelas_bootcamp,0,2,5,2021,4,3,30
+10881,0,,Anshor,,anshor_ramadhon,0,2,5,2021,4,22,41
+10888,0,,DIKA,.,Andika_kharisma,6282141469219,3,5,2021,18,45,37
+10892,0,Izin share. Mudah2an ga salah tempat.\n\nFull Stack Engineer (Phoenix/Elixir)\nSingapore (Remote)\nFull time - Remote\nhttps://www.doyobi.com/careers,Muhammad,Fauzan,muhifauzan,0,4,5,2021,9,10,23
+10893,10892,Ini carinya untuk remote?,Herdy,Handoko,hhandoko,0,4,5,2021,9,23,43
+10894,0,*remote saja,Herdy,Handoko,hhandoko,0,4,5,2021,9,23,59
+10895,0,?,Herdy,Handoko,hhandoko,0,4,5,2021,9,24,2
+10896,0,Yes,Muhammad,Fauzan,muhifauzan,0,4,5,2021,9,24,6
+10897,0,"OK, no worries. Otherwise I can share in SG's Elixir group as well.",Herdy,Handoko,hhandoko,0,4,5,2021,9,24,37
+10898,0,Cool!,Muhammad,Fauzan,muhifauzan,0,4,5,2021,9,26,53
+10899,0,👍👍,Dimas,,Dim_As_YP,0,4,5,2021,9,27,28
+10900,0,,Arif,,virkill,0,7,5,2021,1,35,51
+10922,0,,Design & Code Your Future Career,,kelas_bootcamp,0,8,5,2021,3,21,36
+10925,0,i dont know what you do,Show,U🗻,,0,8,5,2021,15,44,15
+10930,0,,Miyako,Mataru,miyakomataru,0,9,5,2021,17,35,55
+10934,0,udah ada yang nyoba develop elixir di macbook baru blm ??,Farhan,Rahmadi,Huntz20,0,10,5,2021,9,18,21
+10935,10934,"Belum nih, tapi sepertinya sekarang toolingnya sudah support:\n\nhttps://elixirforum.com/t/erlang-and-elixir-on-apple-silicon-m1-chip/35699/19",Herdy,Handoko,hhandoko,0,10,5,2021,9,29,8
+10936,0,Soalnya di can silicon available blm ada,Farhan,Rahmadi,Huntz20,0,10,5,2021,9,30,34
+10940,0,Diskon 50% Pragmatic Programmer (s/d 21 Mei):\n\nhttps://media.pragprog.com/newsletters/2021-05-11.html,Herdy,Handoko,hhandoko,0,11,5,2021,21,24,51
+10947,0,Erlang/OTP 24 🎉\n\nhttps://blog.erlang.org/My-OTP-24-Highlights/,Herdy,Handoko,hhandoko,0,12,5,2021,13,58,28
+10957,0,,Gadjah,Muda,GadjahMuda,0,14,5,2021,12,2,28
+10972,0,,Maaf,Merepotkan... 🙏,cahgentoo,0,15,5,2021,17,7,49
+10990,10972,"sama² mas, اللهم امين",Agus,Susilo,susilolabs,0,20,5,2021,10,10,58
+10991,10972,Sama-sama 🙏,Riszkhy Septiaji,Firmansyah,riszkhy,0,21,5,2021,8,15,22
+10992,0,,Naufal,Nasik,Naufalnasikadani99,0,22,5,2021,3,44,17
+10996,0,,Harsono,,harsono80,0,23,5,2021,3,45,39
+11000,0,salam join guys,Harsono,,harsono80,0,23,5,2021,3,46,6
+11001,0,salam kenal. sy erlang developer.,Harsono,,harsono80,0,23,5,2021,3,48,34
+11002,11001,"👋 Halo, salam kenal",Herdy,Handoko,hhandoko,0,23,5,2021,3,51,28
+11003,0,salam kenal admin,Harsono,,harsono80,0,23,5,2021,3,53,3
+11004,11001,👋 salam kenal,Dimas,,Dim_As_YP,0,23,5,2021,4,8,47
+11005,0,🤝,Harsono,,harsono80,0,23,5,2021,5,14,24
+11008,0,Salam kenall saya Nicky mahasiswa teknik Biomedis,Wakwaw,,,0,23,5,2021,8,41,1
+11015,11008,Hmmm.... kereeen.,Maaf,Merepotkan... 🙏,cahgentoo,0,23,5,2021,13,14,48
+11016,11001,https://t.me/erlang_id,Maaf,Merepotkan... 🙏,cahgentoo,0,23,5,2021,13,15,32
+11017,11001,👆🏽 ada artikel saya mengenai erlang di group tersebut.,Maaf,Merepotkan... 🙏,cahgentoo,0,23,5,2021,13,15,57
+11018,0,,Herdy,Handoko,hhandoko,0,23,5,2021,13,16,56
+11019,11017,tks for the link,Harsono,,harsono80,0,23,5,2021,14,24,27
+11020,11008,anak teti ugm?,Andre,Kurniawan,drekunia,0,23,5,2021,14,32,24
+11021,0,"https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/\n\nUdah release dari tanggal 19 sih. Haha\nHonourable mention di release ini, improvement di EEx. Bentar lagi di Phoenix LiveView udah bisa manage view ala component based kayak Vue gitu.\n\nhttps://github.com/phoenixframework/phoenix_live_view/pull/1440",Muhammad,Fauzan,muhifauzan,0,23,5,2021,15,35,9
+11027,0,,Azhar,,a2h4r,0,24,5,2021,13,48,36
+11033,0,Hello everyone 👋,Zehra,Tosun,zehra445,0,25,5,2021,15,39,11
+11038,0,"Selamat Siang rekan semua,\nDisini sudah ada yg pakai elixir-phoenix di prod?\n\nSpek minimum servernya berapa ya bila transaksi perkiraan 1000 TPS",Riszkhy Septiaji,Firmansyah,riszkhy,0,27,5,2021,6,48,20
+11039,11038,Ini tergantung loadnya apa ya,Herdy,Handoko,hhandoko,0,27,5,2021,8,2,2
+11040,0,Tapi bagusnya BEAM VM performanya predictable.,Herdy,Handoko,hhandoko,0,27,5,2021,8,2,25
+11041,0,"Bisa load test dengan hardware yang ada, lalu extrapolasi dengan SLAnya.",Herdy,Handoko,hhandoko,0,27,5,2021,8,3,0
+11042,11039,Sementara messaging json saja,Riszkhy Septiaji,Firmansyah,riszkhy,0,27,5,2021,8,13,35
+11043,11042,Maksudnya JSON serialization / deserialization? Ga ada komputasi sama sekali?,Herdy,Handoko,hhandoko,0,27,5,2021,8,14,7
+11044,11043,"Pasti ada mas KLO ini,\nTapi saat ini rencana untuk server elixir hanya untuk proses input pesanan,\nJadi mungkin bila didetailkan:\n1. Input transaksi\n2. Validasi transaksi\n3. Ticketing deposit saldo\n\nUntuk transaksi yg berat misal reporting dibikin server terpisah servicenya",Riszkhy Septiaji,Firmansyah,riszkhy,0,27,5,2021,8,44,16
+11045,0,,Herdy,Handoko,hhandoko,0,28,5,2021,7,6,27
+11052,0,Apakah elixirid 1st meetup jadi dilaksanakan tahun ini ?,Farhan,Rahmadi,Huntz20,0,28,5,2021,16,50,58
+11053,0,,tommy,,ktommy,0,28,5,2021,22,19,5
+11057,0,hallo salam kenal 👋,tommy,,ktommy,0,28,5,2021,22,20,24
+11058,0,,Achmad,Chun Chun,anonychun,0,30,5,2021,4,19,50
+11067,11038,"Dulu pernah iseng bikin online avatar generator. Pakai spec termurah di digital ocean.\n\nstring -> get initial -> generate hash color -> generate svg avatar\n\nSetelah di load testing, TPS ada di 4000\n\nhttp://virkill.com/build-initial-based-avatar-svg-generator-with-elixir/",Arif,,virkill,0,30,5,2021,5,53,50
+11068,11067,"Keren2, thx Mas, izin intip 😁👍",Riszkhy Septiaji,Firmansyah,riszkhy,0,30,5,2021,8,9,2
+11072,0,,Erika Julianti,,Erikabayu,0,2,6,2021,2,22,53
+11076,0,Iya kak🙏,Erika Julianti,,Erikabayu,0,2,6,2021,2,23,12
+11077,0,,Fatheha,,Fatheha721,0,2,6,2021,3,47,58
+11086,0,https://www.47deg.com/media/2021/03/23/haskell-vs-elixir/,Herdy,Handoko,hhandoko,0,3,6,2021,7,6,0
+11087,0,,Josua,"Bonardo Marasi, S.E",JocuGoesToCFA,0,3,6,2021,16,12,47
+11093,0,,Sara,,,0,4,6,2021,4,23,10
+11096,0,,Wzuddb,,,0,6,6,2021,8,46,54
+11099,0,,,,,0,6,6,2021,11,1,8
+11102,0,,,,,0,6,6,2021,12,44,52
+11105,0,,,,,0,6,6,2021,13,30,50
+11108,0,,,,,0,6,6,2021,15,34,17
+11111,0,,,,,0,6,6,2021,16,33,21
+11114,0,,I am,Ali,,0,7,6,2021,15,13,35
+11117,0,,,,,0,7,6,2021,21,20,41
+11120,0,,,,,0,8,6,2021,4,50,34
+11125,0,,Artem,TREVOGA,,0,8,6,2021,10,46,55
+11132,0,,Adinda,Praditya,apraditya,0,12,6,2021,7,51,2
+11136,0,,,,,0,12,6,2021,11,38,13
+11139,0,,,,,0,13,6,2021,18,36,10
+11142,0,,,,,0,13,6,2021,21,37,8
+11145,0,,,,,0,13,6,2021,23,55,17
+11148,0,,,,,0,14,6,2021,1,36,50
+11151,0,,Yuda,,yudasusanto,0,14,6,2021,7,45,57
+11154,0,,,,,0,14,6,2021,13,46,51
+11157,0,,,,,0,14,6,2021,21,25,46
+11160,0,,,,,0,15,6,2021,12,57,38
+11163,0,,,,,0,15,6,2021,16,24,5
+11166,0,,Amelia,Akef,,0,16,6,2021,9,5,18
+11170,0,,Amelia,Akef,,0,17,6,2021,6,58,6
+11171,0,,Amelia,Akef,,0,17,6,2021,6,58,6
+11172,0,,Amelia,Akef,,0,17,6,2021,6,58,6
+11173,0,,Amelia,Akef,,0,17,6,2021,6,58,6
+11174,0,,Amelia,Akef,,0,17,6,2021,6,58,6
+11175,0,,Amelia,Akef,,0,17,6,2021,6,58,7
+11176,0,,Amelia,Akef,,0,17,6,2021,6,58,7
+11177,0,,,,,0,17,6,2021,12,20,15
+11181,0,,,,,0,19,6,2021,6,11,5
+11186,0,,aryanRy_,,,0,20,6,2021,2,31,56
+11189,0,,All,In,,0,21,6,2021,10,24,46
+11192,0,,,,,0,21,6,2021,18,48,12
+11195,0,,,,,0,22,6,2021,4,3,45
+11201,0,,Ivan,Saputra,ivanrivanka96,0,22,6,2021,7,50,42
+11205,0,Spam?,Arif,,virkill,0,22,6,2021,8,24,4
+11206,0,,Alpin,Njauwman,alpinnjauw,0,22,6,2021,10,13,11
+11211,0,,Samantha Campbell,,,0,23,6,2021,12,48,26
+11217,0,,Me,,,0,25,6,2021,7,7,1
+11220,0,,,,,0,27,6,2021,3,5,54
+11223,0,,ادينايا داسكا,,,0,27,6,2021,16,0,6
+11226,0,,Cha,Cha,,0,28,6,2021,7,42,58
+11232,0,,Hilton,Beasley,louie1946,0,28,6,2021,18,14,29
+11241,11240,@hhandoko spam ?,Dimas,,Dim_As_YP,0,1,7,2021,16,57,52
+11242,0,Saya sudah step down dari admin 😬,Herdy,Handoko,hhandoko,0,1,7,2021,17,1,40
+11243,0,Mungkin @iarief @harippe atau @ericivander bisa bantu remove,Herdy,Handoko,hhandoko,0,1,7,2021,17,2,44
+11244,11242,"Ow.. pantesan tadi nyari tag admin, kok ga nemu.. wkwkwk.. 😁",Dimas,,Dim_As_YP,0,1,7,2021,17,7,25
+11245,11242,Wah ngga ngajak2 😬 #eh,Ibrahim,Arief,iarief,0,1,7,2021,17,22,30
+11246,0,"Haha, maaf... Karena tuntutan kerjaan 😬",Herdy,Handoko,hhandoko,0,1,7,2021,17,23,13
+11247,0,Lumayan strict soal tech community organisation,Herdy,Handoko,hhandoko,0,1,7,2021,17,25,12
+11248,0,,Reinaldy,,aldy505,0,3,7,2021,9,21,38
+11252,0,"✨DOJOBOX.ID, President University, and PUComputing Proudly Present✨\n\nHalo para calon QA Engineer!👋🏻 \n\nKali ini kami akan berkolaborasi dengan PUComputing dari President University. Kita mengadakan workshop yang sangat menarik buat kalian yang ingin menjadi seorang QA Engineer!\n\nYuk ikutan Workshop ""Become a Quality Assurance Engineer""\n\nNarasumber:\n🗣️ Andika Bagus Wicaksono\n🗣️ Jonathan Frelispradana Musila\n🗣️ Alif Shiddiq Ramadhan\n\nWorkshop akan dilaksanakan pada:\n🗓️ Sabtu, 24 Juli 2021\n⏰ 10.00 WIB\n📌 Zoom Meeting\n💰 Rp100.000 (untuk umum) dan FREE ENTRY (untuk mahasiswa President University) \n\nBenefit:\n• Skill improvement & knowledge tentang QA Engineer\n• Networking\n• E-Certificate\n\nJadi tunggu apalagi? Catat tanggalnya dan daftarkan diri kamu sekarang jangan sampai ketinggalan ya!\n\nUntuk Registrasi:\nbit.ly/WorkshopDojo\n\nSampai jumpa👋🏻\n\nUntuk informasi lebih lanjut dapat menghubungi kami di:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,3,7,2021,11,32,12
+11253,0,,Intan,,,0,4,7,2021,7,43,54
+11262,0,"✨DOJOBOX.ID, President University, and PUComputing Proudly Present✨\n\nHalo para calon QA Engineer!👋🏻 \n\nKali ini kami akan berkolaborasi dengan PUComputing dari President University. Kita mengadakan workshop yang sangat menarik buat kalian yang ingin menjadi seorang QA Engineer!\n\nYuk ikutan Workshop ""Become a Quality Assurance Engineer""\n\nNarasumber:\n🗣️ Andika Bagus Wicaksono\n🗣️ Jonathan Frelispradana Musila\n🗣️ Alif Shiddiq Ramadhan\n\nWorkshop akan dilaksanakan pada:\n🗓️ Sabtu, 24 Juli 2021\n⏰ 10.00 WIB\n📌 Zoom Meeting\n💰 Rp100.000 (untuk umum) dan FREE ENTRY (untuk mahasiswa President University) \n\nBenefit:\n• Skill improvement & knowledge tentang QA Engineer\n• Networking\n• E-Certificate\n\nJadi tunggu apalagi? Catat tanggalnya dan daftarkan diri kamu sekarang jangan sampai ketinggalan ya!\n\nUntuk Registrasi:\nbit.ly/WorkshopDojo\n\nSampai jumpa👋🏻\n\nUntuk informasi lebih lanjut dapat menghubungi kami di:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,5,7,2021,11,6,51
+11266,0,,Amai,Kiring,geopelia,0,6,7,2021,0,53,26
+11268,0,Captcha reload,Amai,Kiring,geopelia,0,6,7,2021,0,55,37
+11270,0,,Amai,Kiring,geopelia,0,7,7,2021,2,59,26
+11273,0,"✨DOJOBOX.ID, President University, and PUComputing Proudly Present✨\n\nHalo para calon QA Engineer!👋🏻 \n\nKali ini kami akan berkolaborasi dengan PUComputing dari President University. Kita mengadakan workshop yang sangat menarik buat kalian yang ingin menjadi seorang QA Engineer!\n\nNarasumber:\n🗣️ Andika Bagus Wicaksono\n🗣️ Jonathan Frelispradana Musila\n🗣️ Alif Shiddiq Ramadhan\n\nWorkshop akan dilaksanakan pada:\n🗓️ Sabtu, 24 Juli 2021\n⏰ 10.00 WIB\n📌 Zoom Meeting\n💰 Rp100.000 (untuk umum) dan FREE ENTRY (untuk mahasiswa President University) \n\nBenefit:\n• Skill improvement & knowledge tentang QA Engineer\n• Networking\n• E-Certificate\n\nJadi tunggu apalagi? Catat tanggalnya dan daftarkan diri kamu sekarang jangan sampai ketinggalan ya!\n\nUntuk Registrasi:\nbit.ly/WorkshopDojo\n\nSampai jumpa👋🏻\n\nUntuk informasi lebih lanjut dapat menghubungi kami di:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,7,7,2021,10,54,14
+11274,0,,Eva,,layschitatoo,0,7,7,2021,12,30,56
+11277,0,,Denay,Nst,,0,9,7,2021,19,2,14
+11281,0,,Bellow,,,0,9,7,2021,20,44,28
+11284,0,✨DOJOBOX.ID x President University x  PUComputing Proudly Present✨\n\nHalo para calon QA Engineer!👋🏻 \n\nDojobox.id berkolaborasi dengan PUComputing dari President University mengadakan workshop untuk kalian para calon QA Engineer!\n\n\n*Benefit Workshop : \n• Skill improvement & knowledge tentang QA Engineer\n• Networking\n• E-Certificate\n\nJangan sampai ketinggalan ya!\n\nLink Registrasi:\nbit.ly/WorkshopDojo\n\nSampai jumpa👋🏻\n\nUntuk informasi lebih lanjut:\nInstagram: @dojobox.id atau @pucomputing\nWA : +62823-4399-7707 (Alpin),Alpin,Njauwman,alpinnjauw,0,10,7,2021,11,40,25
+11285,0,Mohon maaf bg ada yg tau tentang despol. \n\nGhyzport;«satelit«uj! H'/hy. 1.1.1.1.2.8.0.0.0.45.65.48,Denay,Nst,,0,10,7,2021,19,36,46
+11286,0,Sol nya bg konon kaga nya bisa boityop/geser orbit satelite bg,Denay,Nst,,0,10,7,2021,19,37,23
+11287,0,,Lizard,Squad,myblacked_store,0,11,7,2021,7,2,21
+11293,0,,Agil,,,0,11,7,2021,14,17,40
+11296,0,Halo calon QA Engineer !👋🏻 \n\nKali ini Dojobox.id berkolaborasi dengan PUComputing dari President University. Kita mengadakan workshop mengenai Manual Testing. \n\nBenefit:\n• Skill improvement & knowledge tentang QA Engineer\n• Networking\n• E-Certificate\n\nLink Registrasi:\nbit.ly/WorkshopDojo\n\nSampai jumpa👋🏻\n\nInformasi lebih lanjut:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin),Alpin,Njauwman,alpinnjauw,0,12,7,2021,12,0,2
+11297,0,"Dojobox.id Workshop : Manual Testing \n\nHanya dengan investasi Rp. 100 ribu kamu berkesempatan mencicipi rasanya belajar Manual Testing dan langsung praktek bersama kak Alif, Jonathan, dan Andhika selama satu hari.\n\nWorkshop ini diadakan via zoom meeting. Yuk daftarkan dirimu melalui : bit.ly/WorkshopDojo\n\nSampai jumpa! 👋🏻\n\nInformasi lebih lanjut:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,14,7,2021,12,33,27
+11298,0,"Dojobox.id Workshop : Manual Testing \n\nHanya dengan investasi Rp. 100 ribu kamu berkesempatan mencicipi rasanya belajar Manual Testing dan langsung praktek bersama kak Alif, Jonathan, dan Andhika selama satu hari.\n\nWorkshop ini diadakan via zoom meeting. Yuk daftarkan dirimu melalui : bit.ly/WorkshopDojo\n\nSampai jumpa! 👋🏻\n\nInformasi lebih lanjut:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,17,7,2021,9,58,57
+11299,0,"José Valim (@josevalim) Tweeted:\nAlright, here is a proof of concept the @elixirphoenix team has been working on. A new Phoenix app with first-class .js and .css support but no Node.js, no npm, no webpack: https://t.co/IU82Lcte7d https://twitter.com/josevalim/status/1416309507173531648?s=20",Adi,Pur,adipur234,0,17,7,2021,12,32,37
+11300,0,from webpack to esbuild,Adi,Pur,adipur234,0,17,7,2021,12,32,55
+11301,0,"Dojobox.id Workshop : Manual Testing \n\nHanya dengan investasi Rp. 100 ribu kamu berkesempatan mencicipi rasanya belajar Manual Testing dan langsung praktek bersama kak Alif, Jonathan, dan Andhika selama satu hari.\n\nWorkshop ini diadakan via zoom meeting. Yuk daftarkan dirimu melalui : bit.ly/WorkshopDojo\n\nSampai jumpa! 👋🏻\n\nInformasi lebih lanjut:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,19,7,2021,10,23,50
+11302,0,https://youtu.be/78h4zP0_coA,Riza 🦊🚀🎙🎥,,rizafahmi,0,20,7,2021,1,3,19
+11303,0,halo semua mau nanya nih biasanya kalo nyimpen env variable itu dmn yaa biar aman mungkin ada saran ?,Farhan,Rahmadi,Huntz20,0,20,7,2021,2,4,12
+11304,11303,"Tergantung host provider dan valuenya. Kalau deploy di cloud, biasanya provider nyediakan env config buat set generic configuration dan secret buat credentials. Kalau hosting sendiri, bikin script aja buat ngesource env file sebelum running app. Kalau ngehost sendiri, tergantung policy yang berlaku.",Muhammad,Fauzan,muhifauzan,0,21,7,2021,3,12,5
+11305,0,Kalo pake script brati codenya kita push ke git dong mas ?,Farhan,Rahmadi,Huntz20,0,21,7,2021,3,12,59
+11306,11305,"Biasanya untuk generic configuration yang ga bersifat sensitive memang begitu. Kalau sensitive, perlu manage sendiri di hostnya.",Muhammad,Fauzan,muhifauzan,0,21,7,2021,3,14,42
+11307,0,"Mungkin dimanage di repo private kepisah, vault server, dll. Tergantung deployment pipeline yang mau diimplement.",Muhammad,Fauzan,muhifauzan,0,21,7,2021,3,15,46
+11308,11305,"Oh, maksudnya script secrets confignya ya? Kalau untuk itu, biasanya disimpam di tempat yang sama dengan file secretsnya. Balik lagi, tergantung deployment pipeline yang mau diimplement.",Muhammad,Fauzan,muhifauzan,0,21,7,2021,3,21,39
+11309,0,Owwhh oke deh mas makasih,Farhan,Rahmadi,Huntz20,0,21,7,2021,3,27,44
+11310,0,👍,Muhammad,Fauzan,muhifauzan,0,21,7,2021,3,29,7
+11311,0,"[3 Hari Lagi] : Workshop Manual Testing \n\nKapan lagi investasi Rp. 100 ribu dapat berkesempatan mencicipi rasanya belajar Manual Testing dan langsung praktek? Yuk join workshop bersama kak Alif, Jonathan, dan Andhika sebagai praktisi yang akan membimbing kalian selama workshop satu hari lamanya.\n\nWorkshop ini diadakan via zoom meeting. Yuk daftarkan dirimu melalui : bit.ly/WorkshopDojo\n\nSampai jumpa! 👋🏻\n\nInformasi lebih lanjut:\nDM Instagram: @dojobox.id atau @pucomputing\nWhatsapp: +62823-4399-7707 (Alpin)",Alpin,Njauwman,alpinnjauw,0,21,7,2021,11,33,47
+11312,0,,Mikha,Cavin,mikhacavin,0,22,7,2021,11,45,2
+11319,0,"yt-downloader hadir untuk membantu anda mengkonversi video dari YouTube, Facebook, Twitter,instagram , dll. ke Mp3, Mp4 dalam resolusi 8K. yt-downloader mendukung unduh dalam semua format video seperti : MP4, M4V, 3GP, WMV, FLV, MO, MP3, WEBM, dll. Anda dapat dengan mudah mengunduh ribuan video dari YouTube dan website lain secara gratis.\nLink: https://yt-downloader.online",Rey Riyan,Sanjaya,ReyRiyanSanjaya,0,25,7,2021,14,10,32
+11320,0,,Akbar,,AkbarAshShoghir,0,25,7,2021,19,14,7
+11324,0,,Ananda Widitomo,| RS FS PKU Demak,anandawiditomo,0,28,7,2021,16,45,37
+11327,0,,raYMon,Č̶̰̦̥̍̃̽͋̈́̉̽́̏R̴̠̭͛ ̱̦̣ͅN̷̯̩̍́́̈́͝,gggamingk,0,29,7,2021,21,40,48
+11330,0,,Ihsan,N crasiv,Ihsanudin91,0,30,7,2021,8,14,43
+11334,0,Maaf admin numpang disini... Apakah ini elixir... Blockchainn NFT bukan ya??,Ihsan,N crasiv,Ihsanudin91,0,30,7,2021,8,17,54
+11335,11334,bukan,Reinaldy,,aldy505,0,30,7,2021,8,18,34
+11336,0,elixir bahasa pemrograman,Reinaldy,,aldy505,0,30,7,2021,8,18,41
+11337,0,Oke,Ihsan,N crasiv,Ihsanudin91,0,30,7,2021,8,18,52
+11340,0,,NO NAME,,VITONMC,0,1,8,2021,8,9,19
+11349,0,,Muhammad,Iqbal,iqbaliop,0,4,8,2021,13,42,19
+11353,0,[ASK][NEWBIE] Visual studio code udh support elixir kah?,Muhammad,Iqbal,iqbaliop,0,4,8,2021,14,31,24
+11354,0,sudah,Adi,Pur,adipur234,0,5,8,2021,2,26,22
+11355,11354,thanks,Muhammad,Iqbal,iqbaliop,0,5,8,2021,4,40,14
+11356,0,[ask] temen2 disini ada yg berhasil install elixir di window?,Muhammad,Iqbal,iqbaliop,0,5,8,2021,22,59,41
+11357,11356,Problemnya apa?,Muhammad,Fauzan,muhifauzan,0,6,8,2021,10,12,40
+11358,11357,Sizeny c++ build tools itu 2GB ya?,Muhammad,Iqbal,iqbaliop,0,6,8,2021,13,37,31
+11362,11358,"Waduh, kurang tau untuk sizenya. Coba download langsung dari Windows official.",Muhammad,Fauzan,muhifauzan,0,8,8,2021,2,59,6
+11363,11362,itu dari window offical,Muhammad,Iqbal,iqbaliop,0,8,8,2021,2,59,37
+11364,0,"Oh, download aja. Installer di Windows soalnya include beberapa versi distribution.",Muhammad,Fauzan,muhifauzan,0,8,8,2021,3,0,27
+11365,0,Buat OTP 24 ya?,Muhammad,Fauzan,muhifauzan,0,8,8,2021,3,0,39
+11366,11365,sepertinya iya mas,Muhammad,Iqbal,iqbaliop,0,8,8,2021,3,2,16
+11367,0,tujuan awal saya mau install elixir,Muhammad,Iqbal,iqbaliop,0,8,8,2021,3,2,47
+11368,0,tpi harus install c++ build tools,Muhammad,Iqbal,iqbaliop,0,8,8,2021,3,3,15
+11369,0,"kirain sizenya kecil, rupanya besar",Muhammad,Iqbal,iqbaliop,0,8,8,2021,3,3,26
+11370,0,Udah check MinGW belum? Mungkin file sizenyan bisa lebih kecil. Soalnya yang keluaran official Windows itu include specific build tools buat integrasi di Visual Studio. MinGW ngak.,Muhammad,Fauzan,muhifauzan,0,8,8,2021,3,10,52
+11371,0,Atau install WSL aja.,Muhammad,Fauzan,muhifauzan,0,8,8,2021,3,25,16
+11372,11371,Untuk yg wsl ini ada link situsnya mas?,Muhammad,Iqbal,iqbaliop,0,8,8,2021,4,36,43
+11373,11372,Coba lihat guidenya di sini https://docs.microsoft.com/en-us/windows/wsl/install-win10,Muhammad,Fauzan,muhifauzan,0,8,8,2021,4,43,34
+11374,11373,Saya coba yg mingw aja,Muhammad,Iqbal,iqbaliop,0,8,8,2021,4,44,11
+11375,0,Klo mas sendiri gunakan yg mana?,Muhammad,Iqbal,iqbaliop,0,8,8,2021,4,44,23
+11376,0,WSL itu Linux subsystem. Jadi konsepnya running Linux on top of Windows.,Muhammad,Fauzan,muhifauzan,0,8,8,2021,4,44,55
+11377,11374,"Oh, alright.",Muhammad,Fauzan,muhifauzan,0,8,8,2021,4,45,13
+11378,11375,OS workstation saya GNU/Linux.,Muhammad,Fauzan,muhifauzan,0,8,8,2021,4,45,36
+11379,11374,MinGW != WSL2. saya pake wsl2 dan bisa install elixir btw.,Reinaldy,,aldy505,0,8,8,2021,4,47,11
+11380,0,"Yep, MinGW itu toolchain buat GCC di Windows. WSL itu subsystem Linux di Windows. Kalau belum familiar dengan GNU/Linux atau ga berencana dev di environment GNU/Linux, MinGW harusnya suffice.",Muhammad,Fauzan,muhifauzan,0,8,8,2021,4,50,27
+11381,0,"Kalau pakai WSL, kita bisa install distro Linux yang disupport Windows, contohnya Debian, Ubuntu, Fedora, etc. Distro ini udah include GCC toolchain.",Muhammad,Fauzan,muhifauzan,0,8,8,2021,4,52,13
+11382,0,+ bisa keren-kerenan pake dotfiles wkwk,Reinaldy,,aldy505,0,8,8,2021,4,52,35
+11383,0,Alhamdulillah ternyata size c++ build tools nya hanya 109 mb,Muhammad,Iqbal,iqbaliop,0,8,8,2021,4,58,3
+11384,0,👍,Muhammad,Fauzan,muhifauzan,0,8,8,2021,5,1,19
+11394,0,,Budi,Firmansyah,miftech,0,12,8,2021,16,1,32
+11401,0,,Kharisma,Putra,ksdwiputra,0,13,8,2021,9,36,17
+11412,0,,Ab,Ibad,b1837,0,18,8,2021,11,6,20
+11426,0,,Maharani,Nurfhadilla,maharaninurfhadilla,0,20,8,2021,0,50,24
+11430,0,Halo temen-temen semua salam kenal yaa! Aku Rani dari HR Stockbit dan Bibit ☺️🙏🏻\n\nIzin mau share hiring post disini boleh kah?,Maharani,Nurfhadilla,maharaninurfhadilla,0,20,8,2021,5,39,58
+11431,0,,Maharani,Nurfhadilla,maharaninurfhadilla,0,20,8,2021,5,45,48
+11434,0,We are #hiring !\n\nSaat ini kita lagi open banyak posisi nih buat temen-temen developer. Bagi yang berminat langsung klik link di atas ini yaa 👆🏻,Maharani,Nurfhadilla,maharaninurfhadilla,0,20,8,2021,5,46,25
+11435,0,Hi Mba @maharaninurfhadilla,Kharisma,Putra,ksdwiputra,0,20,8,2021,5,51,35
+11436,0,,Naufal,Syahputra,NaufalHSyahputra,0,20,8,2021,5,54,38
+11440,0,,lohe,,tamtamtama,0,20,8,2021,10,6,2
+11446,0,,Badrol,,,0,20,8,2021,12,25,32
+11450,0,,Badrol,,,0,20,8,2021,12,25,44
+11451,0,,Badrol,,,0,20,8,2021,12,25,45
+11452,0,,Badrol,,,0,20,8,2021,12,25,45
+11453,0,,Badrol,,,0,20,8,2021,12,25,45
+11454,0,,Badrol,,,0,20,8,2021,12,25,45
+11466,0,"Selamat Siang Temen2,\nuntuk buku phoenix Framework yang ini https://www.amazon.com/gp/product/1617295043/ref=ox_sc_act_title_1?smid=ATVPDKIKX0DER&psc=1\n\nkira2 masih relevan ndak ya?",Riszkhy Septiaji,Firmansyah,riszkhy,0,23,8,2021,4,49,18
+11472,11466,masih,Adi,Pur,adipur234,0,23,8,2021,8,35,59
+11473,0,"Klo buku, lebih bagus programming phoenix",Adi,Pur,adipur234,0,23,8,2021,8,36,30
+11474,11473,https://pragprog.com/titles/phoenix14/programming-phoenix-1-4/,Riszkhy Septiaji,Firmansyah,riszkhy,0,23,8,2021,10,38,44
+11475,0,yang itu ya mas?,Riszkhy Septiaji,Firmansyah,riszkhy,0,23,8,2021,10,38,51
+11479,0,Iya,Adi,Pur,adipur234,0,23,8,2021,10,50,57
+11480,0,Terima kasih masukannya mas 😊👍🏻,Riszkhy Septiaji,Firmansyah,riszkhy,0,23,8,2021,10,51,58
+11484,0,,Tegar,Saputra,,0,24,8,2021,1,34,50
+11488,0,,Gerald,Fernandez,geraldfernandez,0,24,8,2021,15,43,40
+11492,0,"selamat pagi, saya msh newbie baru belajar elixir dan phoenix kmrn.. selain itu, ini pertama kali nya saya menggunakan postgresql",Gerald,Fernandez,geraldfernandez,0,24,8,2021,23,57,6
+11493,0,apakah ada yg bisa bantu kira2 masalahnya dmn ini ya?,Gerald,Fernandez,geraldfernandez,0,24,8,2021,23,57,28
+11494,0,utk postgresql sudah saya start dari services.msc nya windows.. kemudian ini saya pakai wsl ubuntu yg terinstall di windows 10.,Gerald,Fernandez,geraldfernandez,0,24,8,2021,23,58,10
+11495,0,mohon bantuan nya para sifu 🙏🙏,Gerald,Fernandez,geraldfernandez,0,24,8,2021,23,58,44
+11496,11493,Coba cek konfigurasi database nya apakah sudah tepat di config/config.exs atau config/dev.exs,Riza 🦊🚀🎙🎥,,rizafahmi,0,25,8,2021,3,46,40
+11497,0,Iya bener td ada masalah di settingan postgres nya,Gerald,Fernandez,geraldfernandez,0,25,8,2021,9,35,48
+11498,0,Apakah ada yg punya referensi link belajar utk crud graphiql?,Gerald,Fernandez,geraldfernandez,0,25,8,2021,9,36,8
+11499,0,https://timber.io/blog/a-gentle-introduction-to-graphql-with-elixir-and-phoenix/,Arif,,virkill,0,25,8,2021,10,26,42
+11500,0,Absynth library mantheb banget buat bikin graphql api.,Arif,,virkill,0,25,8,2021,10,27,5
+11520,11515,@iarief,Dimas,,Dim_As_YP,0,30,8,2021,3,55,51
+11521,0,Killed,Ibrahim,Arief,iarief,0,30,8,2021,4,12,47
+11522,0,@Dim_As_YP and I just made you admin as well ya 😬,Ibrahim,Arief,iarief,0,30,8,2021,4,14,0
+11523,11522,Waduh.. 🙈,Dimas,,Dim_As_YP,0,30,8,2021,17,3,27
+11528,0,Haloo temen-temen bagi yang sedang cari opportunitu baru boleh klik link yang ada disini yaaa,Maharani,Nurfhadilla,maharaninurfhadilla,0,1,9,2021,5,7,35
+11529,0,,Maharani,Nurfhadilla,maharaninurfhadilla,0,1,9,2021,5,7,42
+11533,0,,Rohmani,Nasrul,Ups_on,0,4,9,2021,4,8,20
+11576,0,,Imron MCA,,Apasibanh,0,9,9,2021,11,4,17
+11580,11576,,Ibrahim,Arief,iarief,0,9,9,2021,12,40,33
+11584,0,😅,Dimas,,Dim_As_YP,0,10,9,2021,4,31,49
+11585,0,,Imron MCA,,Apasibanh,0,10,9,2021,9,17,10
+11606,0,Hello,Sandeep Shah,,,0,16,9,2021,8,2,49
+11608,0,Elixir drama,Imron MCA,,Apasibanh,0,16,9,2021,11,11,31
+11662,0,,Ryan,Myles,,0,20,9,2021,9,33,36
+11669,0,,Miftahudin,Akbar,miftah991,0,22,9,2021,17,7,46
+11677,0,,Training,Sailendra,trainingsains,0,23,9,2021,3,51,31
